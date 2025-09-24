@@ -1,0 +1,220 @@
+"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""~"""
+
+VOYEUR
+
+...don't get caught
+
+Walkthrough
+PC 1995
+
+Version:        1.0     released on the 26th of October 2015
+Author:         odino   http://www.gamefaqs.com/features/recognition/47976.html
+This guide is EXCLUSIVELY available at GameFAQs.
+
+.============================================================================.
+| .========================================================================. |
+| |                           TABLE OF CONTENTS                            | |
+| '========================================================================' |
+|============================================================================|
+| 01.) Introduction                                              |   G0100   |
+| 02.) Basics                                                    |   G0200   |
+|----------------------------------------------------------------+-----------|
+| 03.) Walkthrough                                               |   G0300   |
+|----------------------------------------------------------------+-----------|
+| YY.) Version History                                           |   GYY00   |
+| ZZ.) Credits & Thanks                                          |   GZZ00   |
+'=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
+
+===============================================================================
+01.)                    INTRODUCTION                                 G0100
+===============================================================================
+
+Welcome to 'Voyeur' for the PC, released by Interplay in 1995. It was
+originally made for the CD-Interactive as it contains mostly scenes to watch
+and not much interactivity.
+
+Note that this game is intended for mature audiences. There are adult themes
+such as sex and realistic murder although the graphics are very pixelated and
+blurry I do not recommend this for young gamers.
+
+Suggestions, comments or errors - tell me about it. Enjoy!
+
+
+===============================================================================
+02.)                    BASICS                                       G0200
+===============================================================================
+
+After the opening logo, a lockout screen appears. To unlock the disk, enter
+3333 and accept.
+
+Each time this game is played you can try to have a different member of the
+family "betray" Hawke. This depends on which scenes you watch during the two
+days.
+
+The time of day is shown at the top of the screen. As you view the mansion and
+the rooms through the windows with the camcorder the minutes tick down. A
+battery gauge on the left side of the viewfinder indicates the amount of time
+remaining before the next time change.
+
+The ending will be either you having recorded enough evidence to bring him to
+justice for the murder or you sending out the video before the murder has taken
+place to have that person flee. Note that if you send it to the wrong person
+there will be consequences for you and the timing for sending it very tricky
+because too late is bad and too early is almost impossible (as you do not 
+have enough evidence until very late on Sunday).
+
+There are 3 icons that you will come across during the game:
+* Eye: a video scene
+* Ear: an audio scene. You listen with the blinds down
+* Magnifying glass: search a location for evidence such a letters, computer
+screens
+
+When you are in a scene you can exit back out with the right click. The video
+will play on in real-time so you can go back and only miss a moment of it.
+The location screens do not abruptly end but the time does continue to tick
+down as well.
+
+Hawke Mansion Layout:
+`````````````````````
+
+         / Hawke's Office    |    Balcony  | Office         \ 
+Chantal's|                                                   | Margaret's  
+  Office | Jessica's Bedroom |  Staircase  | Chloe's Bedroom | Bedroom 
+Kitchen  | Bar               |      Lobby  | Zach's Office   | Lara's Bedroom
+
+
+===============================================================================
+03.)                    WALKTHROUGH                                  G0300
+===============================================================================
+
+Saturday
+Afternoon
+
+First watch the television to see a news report covering the main characters.
+Then click on the camcorder to start the main game. You do not have enough
+time per session to see everything. Try to find the videos as they give most of
+the clues. Some of the scenes listed are only available after seeing previous
+scenes and some are only available after the time has ticked down a bit (i.e.
+4:05pm although you do not see it this way on the screen).
+
+4:00pm
+
+    Lobby: Hawke, Chantal and Margaret have a conversation
+    Hawke's Bedroom: Can listen to a conversation between Chantal and Frank
+    Chantal's Office: Press release on the computer
+
+7:00pm
+
+    Lobby: Zach and Lara arrive
+    Margaret's Bedroom: Margaret talks on the intercom
+
+7:30pm
+
+    Staircase: Scene with Zach and Lara continuing from the arrival
+    Lobby: Margaret welcomes Jessica and Masa to the house; Chloe also arrives
+
+8:00pm
+
+    Bar: See Chantal and Frank playing around
+    Chloe's Bedroom: Chloe by herself
+
+
+Sunday
+10:00am
+
+    Kitchen: Chloe and Lara have a chat
+    Chantal's Office: Chantal and Frank are playing around
+    Jessica's Bedroom: Jessica and Masa at it
+
+2:00pm
+
+    Kitchen: See Margaret talking angrily on the telephone
+    Hawke's Bedroom: Hawke tells Margaret he wants her off the campaign
+    Hawke's Office: Look at the computer to see some more family information
+    Zach's Office: Quick scene with Zack and Chloe
+
+4:30pm
+
+    Office: Jessica talks to Hawke about a contaminated water supply
+    Lobby: Chloe is flirting with Masa
+
+8:00pm
+
+    Chloe's Bedroom: Chloe and Lara fooling around together
+    Jessica's Bedroom: Argument between Jessica and Masa
+
+8:30pm
+
+    Second Floor Balcony: Hawke talks to Lara
+    Hawke's Bedroom: Hawke talks to Lara (continued from above)
+    Margaret's Bedroom: Margaret in her room and reminiscing
+    Bar: Very quick scene...
+
+9:00pm
+
+    Second Floor Balcony: Chloe and Hawke have a heated discussion
+    Jessica's Room: Jessica and Masa argue about Masa's background
+
+10:00pm
+
+    Bar: Lara and Jessica discuss the situation 
+    Office: Zach and Hawke argue about Zach's position
+    Lobby: Margaret starts digging in the garden
+    Jessica's Bedroom: Scene with Masa and Jessica making up
+    Zach's Office: Zach missing his disk
+
+10:30pm
+
+Now it is crucial to find the murder scene. Check all windows for the video
+clips. If you find something unimportant quickly exit again as you might miss
+the start of the actual murder scene and thus lack evidence later. The murder
+scene does not necessarily start at the very beginning of the session.
+
+*spoiler*
+This depends on the previous scenes which is often Chloe but there are many
+different outcomes. If a scene seems unimportant such as a couple making out
+or up then you can exit back to the mansion to find another one. There is not
+much time and you will be screwed if you miss it.
+
+You can also try and send the tape to a potential murder victim. The timing for
+this is tricky because sending it too late will result in interception by
+someone evil.
+
+Monday
+
+The game will play the news automatically if you let the murder take place.
+Call the police and they will check the recording to see if you have recorded
+enough. If not you fail.
+
+(*_*)
+|\ \___(*_*)
+_|| _//uu \ \
+
+...don't get caught
+
+
+===============================================================================
+YY.)                    VERSION HISTORY                              GYY00
+===============================================================================
+
+v1.0     First version (26th of October 2015)
+
+
+===============================================================================
+ZZ.)                    CREDITS & THANKS                             GZZ00
+===============================================================================
+
+GameFAQs for hosting this file.
+
+Interplay for the game.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+This guide may be not be reproduced under any circumstances except for
+personal, private use. It may not be placed on any web site or otherwise
+distributed publicly without advance written permission. Use of this guide on
+any other web site or as a part of any public display is strictly prohibited,
+and a violation of copyright.        ,,,
+                                    (o o)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=oOOo-(_)-oOOo-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

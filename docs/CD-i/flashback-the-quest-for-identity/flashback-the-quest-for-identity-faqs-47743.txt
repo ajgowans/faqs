@@ -1,0 +1,681 @@
+123456789012345678901234567890123456789012345678901234567890123456789012345678
+*********************************78 Characters********************************
+
+FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFF
+FFFFFF
+FFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF                   BBBBBBBB  
+FFFFFF                                     BBB   BBB 
+FFFFFF LLL       A     sssssss HHH    HHH  BBB    BB    A    CCCCCCC KK KK 
+FFFFFF LLL      AAA   ssss     HHH    HHH  BBB   BBB   AAA   CCCCCCC KK KK
+FFFFFF LLL     A   A  ssss     HHH    HHH  BBBBBBBB   A   A  CC      KK KK
+FFFFFF LLL    AAAAAAA ssssssss HHHHHHHHHH  BBB   BBB AAAAAAA C       KKKK
+FFFFFF LLL    AA   AA  sssssss HHHHHHHHHH  BBB    BB AA   AA CC      KK KK
+FFFFFF LLLLLL AA   AA      sss HHH    HHH  BBB   BBB AA   AA CCCCCCC KK  KK
+FFFFFF LLLLLL AA   AA ssssssss HHH    HHH  BBBBBBBB  AA   AA CCCCCCC KK  KK
+FFFFFF
+FFFFFF
+
+
+
+An unofficial walkthrough
+
+/----------------------------------------------------------------------------\
+| CONTENTS                                                                   |
+\----------------------------------------------------------------------------/
+
+
+------------------------------
+#1.0	Intro & Stuff
+------------------------------
+
+#1.1--- Copywrites
+
+#1.2--- A Message
+
+#1.3--- Using this FAQ
+
+
+------------------------------
+#2.0	The Game World
+------------------------------
+
+#2.1--- Interface
+
+#2.2--- Controls
+
+#2.3--- Items & Objects
+
+#2.4--- Enemies
+
+#2.5--- Conrad's Moves
+
+------------------------------
+#3.0	Walkthrough
+------------------------------
+
+#3.1--- Titan Jungle
+
+------------------------------
+#4.0	Passwords & Cheats
+------------------------------
+
+#4.1--- Passwords
+
+#4.2--- Cheats
+
+
+------------------------------
+#5.0	Credits
+------------------------------
+
+
+
+/----------------------------------------------------------------------------\
+| INTRO & STUFF                                                         #1.0 |
+\----------------------------------------------------------------------------/
+
+/---------------------\
+| COPYWRITES     #1.1 |
+\---------------------/
+
+This FAQ is intended for private and personal use, and can only be reproduced
+electronically if you contact me via e-mail first. This FAQ cannot be used
+for profitable purposes. All copyrights and trademarks that are not
+specifically mentioned in this FAQ are acknowledged. No parts of this FAQ
+may be altered in any way; please give credit where it is due. Permission is
+not granted for anyone to update this guide.
+
+
+/--------------------\
+| A MESSAGE     #1.3 |
+\--------------------/
+
+Yes it IS 2007, so what am I doing writing a walkthrough for flashback? I,
+like many people, had an Amiga at the time that flashback was released.  
+Unfortunately, the joystick wasn't in very good shape, and so it was very
+difficult to play. However, I came across Flashback on the internet (using
+some emulator), and I now have it on my PC. As it is a difficult game, I
+needed a walkthrough. I look at GameFAQS, and what do I see? Two 
+walkthroughs. Two!!! A game this good deserves at least 3! :) And that's
+where I come in.
+
+ 
+
+/-------------------------\
+| USING THIS FAQ     #1.3 |
+\-------------------------/
+
+You may have noticed that every heading has a number next to it. This 
+heading's number is '#1.2'. This is the same in the contents. So, if you find
+something in the contents that you want to read, just hit Ctrl+F, and search
+for the number.
+
+In the actual walkthrough section, every screen has a ID. This ID can be found
+by looking at its co-ordanites on the map:
+
+   |   A    |   B    | 
+_  ___________________
+   |      _________  |
+1  |______|   _______|
+_  |    _____________|
+   |_____       _____|
+2  |            |    |
+_  |____________|____|
+
+In this map, there are four screens. A1, B1, A2 and B2. When I give you
+instructions, I will write them like this:
+
+
+A1	Climb up
+B1	Go down and left
+B2	Go left
+A1	Go down
+A2	Hand off the edge
+
+You may have nocticed that I have given instructions for A1 twice. This is
+because you revisit a different part of the same screen. Here is a close up
+of screen A1:
+__________
+|      ___
+|______|  
+|    _____
+
+See? The second instruction is for the lower part of A1
+
+
+
+
+
+Note: When I refer to keys that you press in this FAQ, the specified key is
+only correct with the default key configuration
+
+
+
+/----------------------------------------------------------------------------\
+| THE GAME WORLD                                                        #2.0 |
+\----------------------------------------------------------------------------/
+
+/--------------------\
+| INTERFACE     #2.1 |
+\--------------------/
+
+Pretty simple really. In the top right, there is a small icon. This is the
+item you have out. To change this, press SELECT, scroll through and select
+the item you want, and press SELECT again.
+
+
+/-------------------\
+| CONTROLS     #2.2 |
+\-------------------/
+
+/------------|-----------------------------------------------\
+| Key        | Basic Use (Not in a Combination)              |
+|------------|-----------------------------------------------|
+| Left/Right | Move left or right. If you are facing the     |
+|            | wrong direction you will just turn instead.   |
+|------------|-----------------------------------------------|
+| Up         | When standing you jump, when running you do   |
+|            | a running jump, and when crouching you stand. |
+|------------|-----------------------------------------------|
+| Down       | When standing you crouch, when running you    |
+|            | roll, when you have your gun out you do a gun |
+|            | crouch.                                       |
+|------------|-----------------------------------------------|
+| A          | While crouching you pick up an item, with     |
+|            | your gun out, you shoot, when next to some    |
+|            | one you talk, and when next to a switch, you  |
+|            | activate it.                                  |
+|------------|-----------------------------------------------|
+| B          | Use item. If it is an item you put somewhere, |
+|            | (for example, a stone,) and you are standing, |
+|            | you will chuck it. If you are crouching, you  |
+|            | will place it where you are crouching.        |
+|------------|-----------------------------------------------|
+| C          | Draw/Conceal gun.                             |
+|------------|-----------------------------------------------|
+| Select     | Display inventory screen.                     |
+|------------|-----------------------------------------------|
+| Start      | Skip animations.                              |
+\------------|-----------------------------------------------/
+
+
+/--------------------------\
+| ITEMS & OBJECTS     #2.3 |
+\--------------------------/
+
+/----------------------------------------------------------------------------\
+| ITEMS                                                                      |
+|----------|--------------|--------------------------------------------------|
+| Item     | Location     | Information                                      |
+|----------|--------------|--------------------------------------------------|
+| Shield   | Start        | You start with four shields. When you get hit,   |
+|          |              | you loose a Shield. If you get hit with no       |
+|          |              | Shields, you die.                                |
+|----------|--------------|--------------------------------------------------|
+| Gun      | Start        | Completely useless to have selected. You can use |
+|          |              | if you have it, selected or not.                 |
+|----------|--------------|--------------------------------------------------|
+| Credits  | Most Levels  | They can be found in many places, and are used   |
+|          |              | to buy things (duh).                             |
+|----------|--------------|--------------------------------------------------|
+| Force    | Ian          | Use to create a temporary force Field which will |
+|    Field |              | protect you from bullets. As soon as you get it, |
+|          |              | have it out all the time (unless you need to use |
+|          |              | a key or something).                             |
+|----------|--------------|--------------------------------------------------|
+| Stone    | Most Levels  | These are used to activate tripbeams and things. |
+|----------|--------------|--------------------------------------------------|
+| Keys     | Most Levels  | Unlock doors. Use them on switches that say 'Key |
+|          |              | Lock'.                                           |
+|----------|--------------|--------------------------------------------------|
+| Tele     | Titan Jungle | When you get it in Titan Jungle its only use is  |
+|  Control | & Alien      | giving it to the wounded soldier, in return for  |
+|          |    Homeworld | his ID Card. The second time you get it, you use |
+|          |              | it to teleport to your Tele Receiver. If you     |
+|          |              | haven't placed your Tele Receiver, you will      |
+|          |              | disappear, and then reappear in the same place.  |
+|----------|--------------|--------------------------------------------------|
+| Tele     | Alien        | Place it so that you can teleport to it later.   |
+| Receiver |    Homeworld | Unless I tell you otherwise, PICK IT UP AFTER    |
+|          |              | YOU USE IT!!!                                    |
+|----------|--------------|--------------------------------------------------|
+|Mechanical| Later Levels | This mouse will be moving back and forth, and    |
+|    Mouse |              | will create a bubble when it is under you. Use   |
+|          |              | it for tripping trip beams.                      |
+|----------|--------------|--------------------------------------------------|
+|Exploding | Later Levels | Put it down to set it. It will then move back    |
+|    Mouse |              | and forth until it hits an enemy OR YOU, so be   |
+|          |              | careful. Warning: There is at least one pre-set  |
+|          |              | one some where in one of the levels!!!           |
+|----------------------------------------------------------------------------|
+| Note: This is not all of the items in the game. There are a few minor ones |
+|       which are detailed when you pick them up.                            |
+\----------------------------------------------------------------------------/
+
+
+
+/------------------------------------------------------------\
+| OBJECTS                                                    |
+|------------|-----------------------------------------------|
+| Object     | Information                                   |
+|------------|-----------------------------------------------|
+| Key Slot/  | Open doors and activate/deactivate things. To |
+|    Switch/ | activate a switch, press A next to it. For    |
+|Card Reader | the others, use the Key/Card on them.         |
+|------------|-----------------------------------------------|
+| Energy     | Recharge your Shields or magnetic cartridges  |
+|  Generator | by using them on the Energy Generator.        |
+|------------|-----------------------------------------------|
+| Save Point | Press A to save your game                     |
+|------------|-----------------------------------------------|
+| Tripbeams  | Used to activate/deactivate things            |
+|  & sensors |                                               |
+|------------|-----------------------------------------------|
+| Lifts      | Hold down A and press either Up or Down to    |
+|            | move up or down respectively                  |
+|------------|-----------------------------------------------|
+| Flash      | Stand on them for more than a second and you  |
+|      Mines | will die.                                     |
+|------------|-----------------------------------------------|
+| Sentry     | They shoot stuff. You can crouch to avoid     |
+|       Guns | avoid them.                                   |
+|------------|-----------------------------------------------|
+| Green      | Kills you if you touch it. You can't touch    |
+|      Death | the gas coming out of it either. Appears to   |
+|            | be a green gas.                               |
+\------------|-----------------------------------------------/
+
+
+
+/------------------\
+| ENEMIES     #2.4 |
+\------------------/
+
+
+/----------------------------------------------------------------------------\
+| ENEMIES                                                                    |
+|----------|--------------|--------------------------------------------------|
+| Name     | First        | Information                                      |
+|          |   Appearance |                                                  |
+|----------|--------------|--------------------------------------------------|
+| Stunbot  | Titan Jungle | Starts moving towards you as soon as it sees you.|
+|          |              | When it gets close enough, it deploys its arm.   |
+|          |              | When it does this, crouch and shoot. You cannot  |
+|          |              | kill it at any other time.                       |
+|----------|--------------|--------------------------------------------------|
+| Mutant   | Titan Jungle | Simple enemy. Requires no strategy. Just shoot.  |
+|----------|--------------|--------------------------------------------------|
+| Police   | New          | These guys have small jets on their back, and    |
+|          |   Washington | a small force field. When they see you, they     |
+|          |              | will fly up half a floor, and shoot, so use your |
+|          |              | force field on them until they fly down again.   |
+|          |              |                                                  |
+|          |              | STRATEGY: If you know that there is one in the   |
+|          |              | next screen, walk up to the very edge of your    |
+|          |              | screen, then take 2 steps back. Draw your gun    |
+|          |              | and crouch. Roll to the next screen, then        |
+|          |              | quickly roll back, stand up, an open fire. The   |
+|          |              | idiot will run onto the screen, then go flying   |
+|          |              | back until he is dead.                           |
+|----------|--------------|--------------------------------------------------|
+| Flybot   | New          | These buggers can get annoying. They will hit    |
+|          |   Washington | you if you stand next to one, but just hover     |
+|          |              | above if you're crouching. They take several     |
+|          |              | hits.                                            |
+|          |              |                                                  |
+|          |              | STRATEGY: Get out your gun and, if you have      |
+|          |              | time, open fire on them. If you are lucky, and   |
+|          |              | have ended up with one DIRECTLY above you, stand |
+|          |              | up and pistol whip them. Otherwise, just roll    |
+|          |              | around until you have a good distance between it |
+|          |              | and you, and the stand up any fill it with lead  |
+|----------|--------------|--------------------------------------------------|
+| Flashman | Cyber Tower  | These guys have short range teleporters, which   |
+|          |              | they use after you shoot them.                   |
+|          |              |                                                  |
+|          |              | STRATEGY: This one requires a bit of getting     |
+|          |              | used to, then they are laughable. Get out your   |
+|          |              | gun, crouch and shoot him. If it looks like he   |
+|          |              | will appear next to you, then roll towards where |
+|          |              | he used to be, then turn and shoot. These guys   |
+|          |              | take 2-4 shots on easy mode, and up to 8 on      |
+|          |              | hard. WARNING: These guys aren't dead until they |
+|          |              | fall down and FLASH AWAY. Otherwise, they are    |
+|          |              | faking, and will get up and attack as soon as    |
+|          |              | they have a clear shot.                          |
+|----------|--------------|--------------------------------------------------|
+| Aliens   | Earth        | These guy are hard on easy, really hard on       |
+|          |              | normal. On hard mode... your going to go insane  |
+|          |              | trying to beat one. And here's the problem. On   |
+|          |              | easy mode they appear alone, and not to often,   |
+|          |              | whereas on hard, they appear in packs            |
+|          |              | frequently!!! They can hit you in 2 ways. They   |
+|          |              | will either shoot you, or unmorph on you,        |
+|          |              | causing you to fall over. Then, they will try to |
+|          |              | shoot you while you get up.                      |
+|          |              |                                                  |
+|          |              | STRATEGY: When you see one, get ready to roll.   |
+|          |              | Literally. Get out your gun, crouch, and wait    |
+|          |              | for them to unmorph. Shoot it quickly before it  |
+|          |              | shoots you, and repeat. If, when it's morphed,   |
+|          |              | it rolls towards you, quickly go past it, turn   |
+|          |              | and shoot. When it dies, it will morph, and then |
+|          |              | vaporise.                                        |
+|----------|--------------|--------------------------------------------------|
+| Space    | Alien        | Last, but actually close to least, these little  |
+|   Cayote |  Homeworld 2 | buggers go down it one hit. However, they do get |
+|          |              | on your nerves when you are trying to get on the |
+|          |              | same platform as then when you are in a          |
+|          |              | situation where you cannot 'Drop kill' them.     |
+\----------------------------------------------------------------------------/
+
+
+
+
+/-------------------------\
+| CONRAD'S MOVES     #2.4 |
+\-------------------------/
+
+/----------------------------------------------------------------------------\
+| Name     | Key Combo/     | Information                                    |
+|          | Circumstance   |                                                |
+|----------|----------------|------------------------------------------------|
+| Hop      | A + Up         | Conrad jumps forward                           |
+|----------|----------------|------------------------------------------------|
+| Climb Up | Up. Must be    | You must hold up rather then just tapping it   |
+|          | under a ledge. |                                                |
+|----------|----------------|------------------------------------------------|
+| Run      | Left/Right + A | Uhhh... This makes you run. Btw, after you     |
+|          |                | start running, you can release the directional |
+|          |                | button, and just hold A                        |
+|----------|----------------|------------------------------------------------|
+| Running  | Up. Must be    | You cannot be pressing left or right           |
+|     Jump | running, with  |                                                |
+|          | out Left/Right |                                                |
+|          | pressed.       |                                                |
+|----------|----------------|------------------------------------------------|
+| Climb    | A + Down. Must | If you don't want to fall immediately, release |
+|     Down | be on a ledge. | Down when the animation starts.                |
+|----------|----------------|------------------------------------------------|
+| Running  | Must be        | Consider this:                                 |
+|     Leap | running with   |#############################################   |
+|          | ledge above.   |#                     a____________________ #   |
+|          | Must not be    |#     Conrad                                #   |
+|          | holding Left/  |#       \                                   #   |
+|          | Right          |#  ______;______                            #   |
+|          |                |#############################################   |
+|          |                | If conrad is running with out Left/Right       |
+|          |                | pressed, then he will end up hanging at point  |
+|          |                | a. This will happen automatically, so if you   |
+|          |                | don't want to do a running leap make sure      |
+|          |                | you're holding left/right.                     |
+|----------|----------------|------------------------------------------------|
+| Measured | None (It's a   | Consider these diagrams:                       |
+|     Roll |      strategy) | ######################  ###################### |
+|          |                | #   Conrad           #  #           Conrad   # |
+|          |                | #    /               #  #             \      # |
+|          |                | # __;____            #  #______________;_____# |
+|          |                | #        |           #  #                    # |
+|          |                | #        |__________ #  #                    # |
+|          |                | #                    #  #                    # |
+|          |                | ######################  ###################### |
+|          |                |                                                |
+|          |                | In diagram 1, let's say that you want to Gun   |
+|          |                | Roll of the edge, but only just. And in        |
+|          |                | diagram 2, you want to Gun Roll onto the edge  |
+|          |                | of the next screen. To do this, you must do    |
+|          |                | the following:                                 |
+|          |                |                                                |
+|          |                | 1. Walk to the edge                            |
+|          |                | 2. Get your gun out, and crouch                |
+|          |                | 3. Roll away from the edge                     |
+|          |                | 4. Stand up, and walk one space towards the    |
+|          |                |    edge                                        |
+|          |                | 5. Crouch                                      |
+|          |                | 6. Roll towards the edge                       |
+|----------|----------------|------------------------------------------------|
+| Drop     | None (It's a   | Look at this diagram:                          |
+|     Kill |      strategy) | ############################################   |
+|          |                | #      Conrad                              #   |
+|          |                | #         \                                #   |
+|          |                | #  ________;_____               Enemy      #   |
+|          |                | #                |               /         #   |
+|          |                | #                |              /          #   |
+|          |                | #                |_____________E___        #   |
+|          |                | ############################################   |
+|          |                |                                                |
+|          |                | To Drop Kill this enemy, get out your gun and  |
+|          |                | walk of the edge. You will end up crouching,   |
+|          |                | ready to fire.                                 |
+|          |                |                                                |
+|          |                |                                                |
+|          |                | How about here?                                |
+|          |                | ############################################   |
+|          |                | #      Conrad                              #   |
+|          |                | #         \                                #   |
+|          |                | #  ________;_____   Enemy                  #   |
+|          |                | #                |   /                     #   |
+|          |                | #                |  /                      #   |
+|          |                | #                |_E_______________        #   |
+|          |                | ############################################   |
+|          |                |                                                |
+|          |                | Get out your gun and do a Measured Roll off    |
+|          |                | the edge. You will end up standing next to the |
+|          |                | enemy, ready to Pistol Whip them.              |
+|          |                |                                                |
+|          |                |                                                |
+|          |                | And finally, here:                             |
+|          |                | ############################################   |
+|          |                | #                |          Conrad      |  #   |
+|          |                | #                |             \        |  #   |
+|          |                | # _______________|          ____;_______|  #   |
+|          |                | # |                                     |  #   |
+|          |                | # |         Position a        Enemy     |  #   |
+|          |                | # |            \                 \      |  #   |
+|          |                | # |_____________a_________________E_____|  #   |
+|          |                | ############################################   |
+|          |                |                                                |
+|          |                | Walk to the edge and hang down. Keep holding A,|
+|          |                | and then switch to C. You will be crouching,   |
+|          |                | ready to fire. Note: If the enemy is at        |
+|          |                | Position a, use the first method instead.      |
+\----------------------------------------------------------------------------/
+
+
+
+
+/----------------------------------------------------------------------------\
+| WALKTHROUGH                                                           #3.0 |
+\----------------------------------------------------------------------------/
+
+
+/---------------------\
+| TITAN JUNGLE   #3.1 |
+\---------------------/
+
+   |   A    |   B    |   C    |   D    |   E    |   F    |
+_  ____________________________________                   
+   |       __@_   ________  _r__     _m|                  
+1  |__     _|_ ______|_____  |_|____   |                  
+_  |t       | _____  _____r__|_   _!_m_|__________________
+   |##|   _ |__    _ |       |s____    |##_________      |
+2  |## _s_|_  |______|       | _m!r_ __|##_______|___    |
+_  |____##_|___##____|       |r______  |______  _|__|___I|
+   |    ##     ##               _ _  __|__  __m______##__|
+3  |    ##     ##    _r_....___ _      |   ___       ##__|
+_  |S_     ____##____|        |_______m_____G____________|
+   | ______!_____    |                  _      _     _ __|
+4  |__r___! | _|_    |   ___G___rs_     * ____ *  __   __|
+_  |__m  ___|_m____m____|         |__m____|__|_______m___|
+   |  _  _  |            __          __|                  
+5  |___    _|   _____O_      ____  ____|                  
+_  |*__m__m_____|_____|      |__|______|                  
+                      |      |                            
+                      |  ||  |                            
+                      |  ||  |                            
+                      |  \/  |                            
+                   New Washington
+
+
+
+r = Stunbot		m = Mutant		! = Door	s = Stone	. = Bridge
+S = Save point	G = Green Death	I = Injured Man		O = Old Man
+## = Lift		@ = Start Point
+
+
+Conrad wakes up in a jungle on Titan, a moon of Jupiter. He knocks away a
+Holocube when he gets up.
+
+
+B1 -  Climb down on the left
+B2 -  Pick up the holocube  and go back up
+B1 -  Hop over the hole, get out your gun, and roll right
+C1 -  Open fire on the stunbot. Climb up, then up again on the left. Stand on
+	the edge to tempt the Sunbot. When it deploys its arm, duck and shoot.
+	Hop over the the pit and get out your gun.
+D1 -  Shoot the mutant across from you. Drop Kill the other mutant and go
+	down
+D2 -  Run off the edge off the next, and onto the ground. If the Stunbot from
+	C2 comes out, kill it. Get out your gun and do a Measured Roll into C2
+C2 -  If the Stunbot is here, waste it. Go up, then get out your gun and walk
+	right.
+D2 -  Pistol Whip the Mutant. Pick up the Magnetic Cartridge. Backtrack to
+	C2.
+C2 -  Go down and right
+D2 -  Go down
+D3 -  Hang down, holding A. Quickly swich to C. You will land facing the
+	Mutant. Waste him, and go right.
+E3 -  Climb up and over the green death. Go right.
+F3 -  Jump over the Flash  Mines and onto the Tripbeam. Climb up and onto
+	the lift. Charge the Magnetic Cartrige and your Sheilds. Go back to E3.
+E3 -  Go left.
+D3 -  Go left.
+C3 -  Use the Magnetic Cartridge on the machine, then quickly destroy the
+	Stunbot. Go left.
+B3 -  Watch out for the Flash Mines. Take the lift up.
+B2 -  Go left.
+A2 -  Climb over the ledges. Pick up the stone and place it on the Trip Beam.
+	Take the teleporter off the Lift, then go and pick up the stone. Take
+	the other lift down.
+A3 -  Hop to the left and save. Then go right.
+B3 -  Go right.
+C3 -  Go right.
+D3 -  Go right.
+E3 -  Go right.
+F3 -  Take the lift up to the top. Get your gun out and to a measured roll
+	right.
+E3 -  Kill the Mutant. Go up.
+E2 -  Trigger the lower right trip beam, jumping over the one on the left.
+	Climb up. Trigger the right trip beam, jumping over the one on the
+	left. Ride the lift up. Go right.
+F2 -  Talk to the Injured Man here. Give him the teleporter. Pick up the
+	ID Card. Go back to E2
+E2 -  Go down, triggering the left Trip Beams this time.
+E3 -  Go right.
+F3 -  Go down and left.
+E3 -  Go left.
+D3 -  Go left.
+C3 -  Go left.
+B3 -  Climb down
+B4 -  Carefully climb down one level. Drop Kill the right mutant, then turn
+	and shoot the one on the left. Recharge your Sheilds if you want. Go
+	right
+C4 -  Activate the switch to turn off the Green Death. Hop over the
+	Trip Beam. With your gun out, do a Measured Roll right.
+D4 -  Kill the stun bot. Drop Kill the Mutant. Go right.
+E4 -  Pick up the Key and Credits. With your gun out, do a Measured Roll
+	right.
+F4 -  Waste the Mutant. Climb up on the LEFT. Do a running leap onto the
+	upper ledge, then Hop over to the upper right one. Pick up the credits.
+	Climb down, recharge if you want, then hop over the Trip beam. If you
+	touch it, you will activate the sentry guns it E4, which make things
+	annoying, but not impossible. Go left
+E4 -  Go left.
+D4 -  Go left.
+C4 -  Go left.
+B4 -  Go up and left.
+A4 -  Use the Key on the door. Drop kill the Stunbot. Use the ID Card on the
+	next door. Kill the Mutant. Carefully hang down on the left
+A5 -  Climb down one level. Throw a stone down to activate the senty gun.
+	Once the Mutants are dead, get out your gun and walk off the edge when
+	it's safe. Then roll to the right.
+B5 -  Go right.
+C5 -  Talk to the old man. Give him your credits (select them and then press
+	B on him). He will give you the Anti G Belt. Jump down the hole to
+	New Washington
+
+
+
+***************************** More to come later *****************************
+
+
+/----------------------------------------------------------------------------\
+| PASSWORDS & CHEATS                                                    #4.0 |
+\----------------------------------------------------------------------------/
+
+/---------------------\
+| PASSWORDS      #4.1 |
+\---------------------/
+
+Easy Passwords:
+
+Level 1: PIXEL
+Level 2: BETSY
+Level 3: PANCHO
+Level 4: STUDIO
+Level 5: TOHO
+Level 6: AKANE
+Level 7: INCBIN 
+
+
+Normal Passwords
+
+Level 1: FALCON
+Level 2: DATA
+Level 3: MILORD
+Level 4: QUICKY
+Level 5: BIJOU
+Level 6: BUBBLE
+Level 7: CLIP 
+
+
+Expert Passwords
+
+Level 1: CLIO
+Level 2: ACRTC
+Level 3: BLOB
+Level 4: STUN
+Level 5: MIMOLO
+Level 6: HECTOR
+Level 7: KALIMA 
+
+
+View Ending Movie: CYGNUS
+
+
+
+/---------------------\
+| CHEATS         #4.2 |
+\---------------------/
+
+Walk Through Walls:
+
+Walk all the way up to any wall, and turn away from it. Hold A and the
+directional button that points away from the wall. As soon as Conrad starts
+to run, release A and press the directional button that points towards the
+wall.
+
+/----------------------------------------------------------------------------\
+| SEE YA, SUCKERS!                                                      #5.0 |
+\----------------------------------------------------------------------------/
+
+I would just like to thank one person before I finish up:
+
+Me
+
+

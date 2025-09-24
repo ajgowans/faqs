@@ -1,0 +1,652 @@
+CDIFAQ.TXT 931028 v2.0.1
+*******************CD-I FREQUENTLY ASKED QUESTIONS********************
+
+
+QUESTIONS ANSWERED IN THIS DOCUMENT
+ 1.  What is CD-i?
+ 2.  What CD-i discs are available and where can I purchase them?
+ 3.  What CD-i players are available?
+ 4.  Where can I buy a consumer CD-i player?
+ 5.  What are the differences among all of these CD-ROM based platforms?
+ 6.  What are CD-ROM/XA bridge discs?
+ 7.  I have a computer with a CD-ROM/XA drive. Can I play CD-i discs on
+     it?
+ 8.  How do I make discs for CD-i?
+ 9.  What is an authoring system?
+10.  Should I use an authoring system or should I have a software
+     engineer write a custom program?
+11   If I decide to use an authoring system, how do I know what hardware
+     and software I'll need?
+12.  Can I use a Macintosh or PC based authoring tool to create CD-i 
+     discs?
+13.  I am involved in CD-ROM and I would like to make CD-i software. How 
+     can I port my PC, Macintosh, CDTV, or VIS title to CD-i?
+14.  What is an emulator?
+15.  What support does Philips provide for the development of CD-i 
+     titles for home entertainment ?
+16.  What support does Philips provide for professional or educational 
+     applications?
+17.  Is CD-i proprietary? Do I need a license to produce CD-i discs?
+18.  What are the Red, Yellow, Green, Orange, and White Books?
+19.  How do I get a copy of the Green Book (CD-i Full Functional 
+     Specification)?
+20.  What are CD+Graphics discs?
+21.  What are Photo CD discs?
+22.  What are multi-session discs?
+23.  What are Karaoke CD discs?
+24.  What are Video CD discs?
+25.  Organizations that provide CD-i information, products and services
+26.  Related documents for prospective CD-i developers
+                                  *****
+
+1.  WHAT IS CD-I?
+CD-i is an entertainment and information system that plays digital data
+stored on a compact disc. The CD-i player connects to a television set or to
+a color monitor. You may also connect a CD-i player to your stereo system for
+higher quality audio. CD-i discs are used in the home, in education, and in
+business.
+
+CD-i is the first multimedia technology aimed at a mass audience. CD-i allows
+the multimedia designer to blend different media-in the form of visual,
+audio, graphic, and computer data-into a single experience for the user. CD-i
+allows the user to interact with the information on the disc and to guide the
+presentation in a meaningful way. CD-i lends itself to informational titles,
+games, encyclopedias, educational material, and many business applications.
+With the addition of a special hardware module, CD-i players can now play
+feature films and other video material.
+
+Besides CD-i discs, CD-i player can play Compact Disc-Digital Audio (CD-DA),
+CD+Graphics (CD+G), Photo CD, and, with a Digital Video cartridge, Karaoke
+CD and Video CD discs. A CD-i player is a self-contained computer system with
+specific video, audio and control hardware and software, and an optical disc
+drive.
+
+CD-i technology was developed jointly by N.V. Philips of the Netherlands and
+Sony Corporation in Japan. The primary goal of the two companies was to
+develop a worldwide standard so that CD-i discs would run on all CD-i players
+anywhere in the world. To that end, they published the 'CD-i Full Functional
+Specification,' which is more commonly known as the 'Green Book.' Any changes
+or extensions to the CD-i standard must be approved by both Philips and Sony
+before they become an official part of the specification.
+                                  *****
+
+2.  WHAT CD-I DISCS ARE AVAILABLE AND WHERE CAN I PURCHASE THEM?
+Philips has an extensive catalog of home entertainment titles. In the United
+States, you may call a toll-free number 1-800-845-7301 for a catalog and for
+referral to a retail location where you may purchase discs. CD-i discs are
+also available via mail order; call the toll-free number 1-800-824-2567. CD-i
+software (discs) is also being stocked at a limited number of 'record' stores
+that sell audio tapes, compact disc audio titles, videotapes, etc. Rental of
+CD-i discs is also being tested in a limited number of markets. Samples of
+professional titles are available through Philips Interactive Media Systems.
+                                  *****
+
+3.  WHAT CD-I PLAYERS ARE AVAILABLE ?
+There are three classes of CD-i players: consumer, professional and
+development. Consumer players are players for home use and are sold through
+retail outlets. Professional players have specific features, such as
+connectivity, floppy disk drive, or portability, and are more expensive than
+the consumer player. Development players have features that enable title
+development, such as debugging tools and the ability to connect to an
+emulator. 
+
+The CD-i 220 player, which is designed for consumers, is available at major
+home electronics outlets around the world. Professional and development
+players are sold by Philips Interactive Media Systems and their VARs. Philips
+currently markets several CD-i player models. The CD-i 605 is designed for
+professional applications and for software development. It contains a floppy
+disk drive and can connect to a keyboard and other computer peripherals. It
+can alsobe connected to an emulator and has software testing and debugging
+features. The CD-i 360 player is a portable player that is sold in the
+professional market and is not currently available to home consumers. It is
+particularly useful for point of sale presentations, such as those used by
+pharmaceutical companies to provide product information to physicians,
+because it can be carried by the sales representative.
+
+Companies besides Philips-for example, Sony, Samsung, Goldstar, Matsushita,
+Sanyo, and Kyocera-also manufacture various CD-i players.
+                                  *****
+
+4.  WHERE CAN I BUY A CONSUMER CD-I PLAYER?
+Consumer CD-i players and discs are available at major home electronics
+outlets around the world. In the U.S., you may call a toll-free number,
+1-800-845-7301, for referral to the nearest retail store that sells CD-i
+players and discs. Rentals of CD-i players are also being tried in a limited
+number of test markets.
+                                  *****
+
+5.  WHAT ARE THE DIFFERENCES AMONG ALL OF THESE CD-ROM BASED PLATFORMS?
+CD-i, VIS, 3DO, CDTV, CD-ROM, MMCD, Macintosh CD-ROM, MPC, Sega CD, TTI,
+FM-TOWNS/Marty are some of the many different platforms for delivering CD-ROM
+based entertainment and information applications.
+
+All of the aforementioned platforms (and others not mentioned here) usually
+utilize the same kinds of components: specific audio, video, and user input
+hardware; a computer system; and a CD-ROM drive. However, the components all
+have different characteristics and features and are, therefore, generally
+incompatible. If you have a title for any of those systems, it will not work
+on any of the other platforms unless special steps have been taken by the
+developer of the title to ensure compatibility with more than one platform. 
+
+All of the above-mentioned systems play CD-DA discs. Some play CD+G discs,
+and some play CD-ROM/XA bridge discs like PhotoCD.
+
+This current world-wide incompatibility presents big challenges for both
+users and developers, but it is a fact of life until the dust settles around
+the prevailing format(s).
+                                  *****
+
+6.  WHAT ARE CD-ROM/XA BRIDGE DISCS?
+CD-ROM/XA bridge discs are discs that can be played on a personal computer
+with sufficient hardware and software, on dedicated players, and on CD-i
+players. CD-ROM/XA bridge discs contain audio-visual data and adhere to the
+CD-ROM/XA standard. Therefore, they can be read by any computer with a
+CD-ROM/XA drive. The computer needs a special program to play the audio
+visual data from the disc. In addition to the audio-visual content, CD-ROM/XA
+brdige discs contain a CD-i application program that allows you to play the
+content on a CD-i player. It is also possible to have players dedicated to
+playing a specific type of CD-ROM/XA bridge disc.
+
+The most well-known example of CD-ROM/XA bridge discs are Photo CD discs.
+Photo CD discs contain graphic images in a specified structure and a CD-i
+program. These discs can be played on a Photo-CD player, a CD-i player, and
+on a computer using a separate Photo CD access program.
+                                  *****
+
+7.  I HAVE A COMPUTER WITH A CD-ROM/XA DRIVE. CAN I PLAY CD-I DISCS ON IT?
+Some manufacturers claim their CD-ROM/XA drives are 'CD-i compatible.' They
+probably mean that the drives can read CD-i compatible data. That does not
+mean that a computer attached to their CD-ROM/XA drive can run CD-i programs.
+
+The CD-i standard includes specifications for audio, video and computer
+hardware. In contrast to a CD-ROM drive, a CD-i player contains a complete
+computer system that runs its own operating system. For a system to be CD-i
+compatible, it needs to have a Motorola 68000 family central processing unit,
+special audio and video hardware, and a special operating system called
+CD-RTOS. A CD-ROM/XA drive connected to a PC or a Macintosh does not meet the
+CD-i specification and, thus, cannot play CD-i discs.
+                                  *****
+
+8.  HOW DO I MAKE DISCS FOR CD-I?
+The creation of CD-i discs involves the development of audio and video assets
+and an interactive program. CD-i uses a real-time operating system called
+CD-RTOS (Compact Disc Real-Time Operating System). CD-RTOS is a specialized
+operating system designed specifically for CD-i and is based on the OS-9
+real-time, multi-tasking operating system. 
+
+CD-i titles can be developed through the use of an authoring system, such as
+MediaMogul from OptImage, or may involve custom software engineering, using
+C or 68000 assembly language programming. As a rule, if the title design is
+complex or if the design requires a great deal of interactivity, custom
+software engineering is required. The software engineering effort can be
+reduced through the use of software development tools and specialized
+software libraries, such as the Balboa Run-Time System.
+                                  *****
+
+9.  WHAT IS AN AUTHORING SYSTEM?
+An authoring system is a specialized system that allows a producer or
+designer to design and assemble the elements of a multimedia presentation
+without any software engineering. OptImage's MediaMogul  and Script System's
+ABCD-I are examples of authoring systems used for CD-i. Often, authoring
+systems allow you to custom engineer add-on modules or to buy add-on modules
+that provide additional functionality. 
+
+There are a several authoring systems for CD-i on the market. The
+capabilities and ease of use of these systems may vary widely. If you have
+questions about the suitability of an authoring system for your title design,
+ask the vendor for references to other CD-i developers who have produced
+similar types of titles with the system in question.
+                                  *****
+
+10. SHOULD I USE AN AUTHORING SYSTEM OR SHOULD I HAVE A SOFTWARE
+    ENGINEER WRITE A CUSTOM PROGRAM?
+Authoring systems can reduce development time and effort and make CD-i
+technology accessible to those who do not have software engineering skills.
+The design of a title produced with an authoring system is typically
+constrained to a fairly low level of interactivity and complexity. The
+creativity of the interactive designer can make these constraints less
+apparent to the user.
+
+If, however, you wish to produce a title that is more interactive or complex,
+such as an action game, custom software engineering becomes a necessity.
+Typically, titles designed for the consumer marketplace require this type of
+complexity and are much more expensive to produce because of the custom
+software engineering required to complete them. Custom engineering is done
+by writing C or 68000 assembly language programs that directly interface with
+CD-RTOS, the operating system for CD-i, or that make use of the Balboa
+Run-Time System libraries (available from OptImage). 
+
+On the other hand, many applications for presentations, point of sale,
+marketing, and training may lend themselves very well to use of an authoring
+system. If a sound and slideshow with some branching is adequate for a
+design, then an authoring system will probably serve well. Authoring systems
+are becoming increasingly sophisticated and their developer's continue to
+enhance them to add functionality. For example, MediaMogul now allows the use
+of Digital Video segments as assets for a CD-i title and also allows the use
+of plug-in modules to expand its functionality. Nonetheless, no authoring
+system currently on the market allows the title designer to approach the
+complexity of design that can be attained with the services of a skilled CD-i
+software engineer.
+                                  *****
+
+11. IF I DECIDE TO USE AN AUTHORING SYSTEM, HOW DO I KNOW WHAT HARDWARE
+    AND SOFTWARE I'LL NEED?
+The supplier for your authoring system typically can provide a complete
+solution, including hardware and software. Basically, your authoring system
+will either run on a CD-i 605 (development) player or on a personal computer.
+You will need to prepare your audio and video assets on a high end personal
+computer and convert them there to CD-i format. First you will need personal
+computer programs and hardware for the capture or creation of images and
+programs for the editing of audio and images. Some examples of these 'off-the
+shelf' programs for the Macintosh are Adobe Photoshop, Studio 32, Macromind
+Director, and DigiDesign Sound Tools II. You will also need tools to convert
+your assets to CD-i format; these are called audio and image conversion
+utilities. 
+
+In addition you'll need cables and networking software to let you connect
+your player to the personal computer and you will need an emulator so that
+you can test your work in progress. 
+                                  *****
+
+12. CAN I USE A MACINTOSH OR PC BASED AUTHORING TOOL TO CREATE CD-I
+    DISCS?
+Commonly used Macintosh and PC based authoring tools such as Macromedia
+Director or Authorware or Toolbook cannot be used to create CD-i titles. As
+yet, there is no easy way to convert the output of those tools into a CD-i
+format disc image.
+
+These personal computer platforms and the CD-i platform differ too much for
+good cross-platform authoring. When authoring on a PC or a Macintosh, you
+make use of special features of the personal computer, such as fast video
+updates, fine image resolution, and fast hard-disk access. On the other hand,
+when developing for CD-i, you want to make use of the unique features of
+CD-i, such as DYUV images, two planes, real-time audio play, video effects,
+Digital MPEG Video etc., which are not available when you are using PC or
+Macintosh tools.
+                                  *****
+
+13. I AM INVOLVED IN CD-ROM AND I WOULD LIKE TO MAKE CD-I SOFTWARE. HOW
+    CAN I PORT MY PC, MACINTOSH, CDTV, OR VIS TITLE TO CD-I?
+It is not trivial to port a CD-ROM title to CD-i. However, through the use
+of careful design and production techniques, it can be done with a lot less
+effort than starting from scratch.
+
+In our experience title development is about 25 to 50% platform specific and
+50 to 75% platform independent. In case of authoring, the actual process of
+scripting and assembling the presentation is platform specific. In the case
+of custom C programming, the software design and implementation is largely
+platform specific. On the other hand, the specific title design, the source
+audio and video assets, and the integration system can be platform
+independent.
+
+Our porting guidelines in a nutshell are:
+
+- Keep all your source assets in their high quality, original form (for
+example, in the form of 24-bit RGB images and 44 KHz PCM audio) .
+
+- Make sure the encoding pathways for all your assets are automated, or at
+least well documented.
+
+- Separate your code into platform-specific and general parts, if possible.
+
+- Verify that the design specification will translate successfully to CD-i.
+This can be done by prototyping or 'proof of concept' engineering.
+
+- Then, reimplement your title using the design, which has been modified, if
+necessary, for CD-i, any reusable code, and the original audio and video
+assets.
+                                  *****
+
+14. WHAT IS AN EMULATOR?
+CD-i programs are developed to run off of a compact disc on an optical disc
+drive. You cannot properly play back and test your programs from the hard
+disk of the computer you are using to develop the programs for your CD-i
+application. The data delivery system and CD interface, the data rate, and
+the (slow) access time of the CD drive need to be taken into account. Thus,
+it is necessary to 'emulate' play of the application from optical disc. An
+emulator is an intelligent computer-peripheral device with a high-capacity
+hard disk. During CD-i development, a disc image is built onto the hard disk
+of the emulator and the disc image can be 'played' as if it were on an
+optical disc. The emulator removes the need to burn new CD-i discs at various
+stages of development process to use for functional testing, and can, thus,
+save a lot of time and money.
+                                  *****
+
+15. WHAT SUPPORT DOES PHILIPS PROVIDE FOR THE DEVELOPMENT OF CD-I TITLES
+    FOR HOME ENTERTAINMENT ?
+Philips Media co-funds a limited number of titles and acts as a distributor
+for selected titles from independent CD-i developers. 
+
+Co-Productions
+Philips Media reviews proposals from prospective co-producers. To prepare a
+proposal, describe the subject matter for the title in two or three
+sentences. Because Philips cannot guarantee confidentiality in the handling
+of your proposal in the early stage of the proposal process, we advise you
+not to send a detailed outline or discussion of your ideas. But, do provide
+detailed information on your company (brochures, company background, etc.),
+its personnel (resumes or biographies), and facilities. Because Philips
+receives a large number of proposals, a response will take at least three
+weeks. Upon approval of your proposal for further consideration, a next step
+would be a business plan and a mutual confidentiality agreement. 
+
+Distribution for Independent Producers
+As part of Philips Media's publishing activity, independent producers are
+encouraged to seek distribution agreements for their CD-i titles. Philips
+establishes and maintains distribution channels worldwide. The procedure for
+obtaining a distribution agreement with Philips is outlined in a document
+titled 'Guidelines for Distribution License Agreements,' which is available
+upon request from the  International Product Management and Distribution
+office, Philips Media Electronic Publishing.
+                                  *****
+
+16. WHAT SUPPORT DOES PHILIPS PROVIDE FOR PROFESSIONAL OR EDUCATIONAL 
+    APPLICATIONS?
+Philips Media Systems is responsible for sales and support of CD-i
+development systems and players for use in the professional marketplace. This
+group can assist developers in designing and putting together hardware
+systems and can direct developers to suppliers of development software and
+authoring systems. 
+
+Suppliers of development systems typically offer complete CD-i development
+systems that include the hardware and software required for the type of
+application desired. The often provide training and technical support, as
+well.
+                                  *****
+
+17. IS CD-I PROPRIETARY? DO I NEED A LICENSE TO PRODUCE CD-I DISCS?
+Content developers for CD-i do not need a license. Manufacturers of CD-i
+players and CD-i discs do need a patent license from Philips. A content
+developer may obtain the same information package that is received by
+licensees for a fee of $5000. If they wish only to obtain the 'CD-i Full
+Functional Specification' (Green Book), they may sign a non-disclosure
+agreement and pay a fee of US $200. 
+                                  *****
+
+18. WHAT ARE THE RED, YELLOW, GREEN, ORANGE, AND WHITE BOOKS?
+Philips and Sony jointly developed compact disc technology and they co-own
+the patents. The two companies have written and now maintain a set of
+specifications for the encoding and formatting of digital data on compact
+discs. Each specification is referred to by a color designation and the cover
+of the specification is that color. These specifications detail the accepted
+industry foundation for interplatform compatibility. A description of each
+of the color coded specifications follows:
+
+- Red Book
+This is the specification for Compact Disc-Digital Audio. All audio CDs
+adhere to specification in the Red Book, and are, thus, assured to play on
+any CD audio player in the world.
+
+- Yellow Book
+This specification defines the computer-based CD-ROM standard. The standard
+specifies the sector format on disc. There are two sector formats: Mode 1,
+CD-ROM , 2048 byte sectors, and Mode 2, CD-ROM/XA, 2324 byte sectors. Mode
+2 sectors also contain end-of-record markers, interrupt triggers, data type
+specifications, etc. Other standards, such as ISO 9660 and Apple HFS, which
+may be used in combination with the Yellow Book standard, define the
+directory and file structures.
+
+- Green Book
+This specification builds on the Red Book and the Yellow Book and is the
+specification for Compact Disc-Interactive (CD-i).
+
+- Orange Book
+This specification covers writable CDs, including CD Recordable (CD-R),
+magneto-optical cartridge systems and single- and multi-session recording.
+
+- White Book
+This specification covers the Video CD format.
+
+These specifications are available from Bert Gall, Philips Consumer
+Electronics in The Netherlands. 
+                                  *****
+
+19. HOW DO I GET A COPY OF THE GREEN BOOK (CD-I FULL FUNCTIONAL 
+    SPECIFICATION)?
+The Green Book is available from both Philips and Sony. The Green Book can
+be obtained from Bert Gall, Philips Consumer Electronics in The Netherlands.
+The various regional CD-i associations, such as CD-i Association of North
+America and CD-i Association of Europe, have also made special arrangements
+for their members to obtain this specification. (Note that the Red, Yellow,
+Orange, and White Book are available from the same source.)
+                                  *****
+
+20. WHAT ARE CD+GRAPHICS DISCS?
+CD+G is a format that allows a music producer to add still graphics to a
+CD-DA disc. This format has been used to a limited degree; it has been most
+common in the Japanese marketplace.
+                                  *****
+
+21. WHAT ARE PHOTO CD DISCS?
+Photo CD discs are a special type of CD-ROM/XA bridge discs that allow you
+to put 35 mm photographic images on disc for play back on a dedicated Photo
+CD player or on a CD-i player. Photo CD allows you to display your personal
+photographs on your television set. The Photo CD disc contains a special CD-i
+application program that allows your pictures to be played back on a CD-i
+player. Photo CD discs can be multi-session discs. This means that after you
+have had pictures from your first roll of film 'burned' into the disc, you
+can have the photo processor add pictures in additional disc burning sessions
+until the disc is full.
+
+Photo CD has also added an interesting source of high quality photographic
+images for developers of CD-i. It is possible to read images from a Photo CD
+disc via a CD-ROM XA drive and, using Photo CD access software and image
+conversion utilities, to use the images as source assets for a CD-i disc.
+                                  *****
+
+22. WHAT ARE MULTI-SESSION DISCS?
+An optical disc is typically made in one session. The data on a
+single-session disc cannot be changed, and data can not be added to the disc.
+However, the Orange Book specifies a special format for recordable CDs:
+multi-session discs. This format allows you to use one disc for one or more
+additional recording sessions. After the initial data is burned into the
+disc, it is possible to add data during future sessions until the disc is
+full. Since you cannot change information on a recordable disc, a new session
+should contain a table of contents comprised of the old and the new
+information on the disc. The system that reads a multi-session disc needs to
+take this into account. It should not look for just any table of contents or
+directory of a CD-ROM disc; it should look for the last table of contents or
+directory. Because of this issue, many older CD-ROM drives cannot read
+multi-session discs.
+                                  *****
+
+23. WHAT ARE KARAOKE CD DISCS?
+Karaoke CD discs are a special kind of CD ROM/XA bridge disc that allow you
+to play Karaoke discs on a dedicated Karaoke CD player or on a CD-i player
+equipped with a Digital Video cartridge. The Karaoke CD standard was
+developed jointly Philips and JVC. It features the ability to play
+full-screen, full-motion video and CD-quality audio using the MPEG-1
+compression standard. Note that CD-i players with an added Digital Video
+cartridge can play Karaoke CD discs; CD-i discs do not play on a Karaoke CD
+player. 
+                                  *****
+
+24. WHAT ARE VIDEO CD DISCS?
+Video CD discs are a special kind of CD-ROM/XA bridge disc that allow you to
+play feature films and music videos on a dedicated Video CD player or on a
+CD-i player equipped with a Digital Video cartridge. A computer equipped with
+the appropriate hardware and software could also play Video CD discs. The
+Video CD standard is supported by Philips, JVC, Sony, and Matsushita. It is
+based on the Karaoke-CD standard and, thus, features the ability to play
+full-screen, full-motion video with CD-quality audio, using the MPEG-1
+compression standard.
+                                  *****
+
+25. ORGANIZATIONS THAT PROVIDE CD-I INFORMATION, PRODUCTS AND SERVICES
+
+*****
+CD-I Associations
+
+CD-i Association of North America
+11111Santa Monica Boulevard, Suite 700
+Los Angeles, CA 90025
+Contact:          Laura Foti Cohen
+Phone:            +1 310 444 6613
+Fax:              +1 310 479 5937
+
+European CD-i Association
+188 Tottenham Court Road
+London W1P 9LE
+United Kingdom
+Contact:          Julian Lynn-Evans
+
+Business to Business Interactive Compact Disc User Group
+PO Box 3421
+WestPort, CT 06881
+USA
+Contact:          Bruce Meek
+Phone:            +1 203 221 9045
+Contact:          Paul Holmes
+Phone:            +1 216 349 1116
+*****
+Authoring and Development Systems--Worldwide
+
+OptImage Interactive Services Company, L.P.
+1501 50th Street, Suite 100
+Des Moines, IA 50265-0252
+Phone:           +1 515 225 7000
+Toll-free-U.S.:   1 800 234 5484
+Fax:             +1 515 222-2080
+All OptImage representatives may be reached at the numbers above.
+Western Region:   John Washburn
+Eastern Region:   Craig Zimmerman
+Central:          Pam Wilber
+Southeast:        John Brown
+
+International Interactive Media SA (I2M)
+2229 Routes des Cretes
+Sophia Antipolis, Valbonne 06560
+France 
+Phone:            +33 92 94 21 30
+FAX               +33 92 96 21 32
+
+Script Systems Inc.
+115 Metropolitan Drive
+PO Box 601 
+Liverpool, NY  13082
+Phone:           +1 315 451 1622
+FAX:             +1 315 451 8503
+
+You may also contact Philips Media Systems for information on development
+systems.
+*****
+Philips Media Systems
+
+North America
+Philips Media Systems
+1 Philips Drive
+Knoxville, TN 37914
+Contacts:
+General:         Bernie Mitchell
+Phone:           +1 615 521 3232
+West Coast:      John Hill
+Phone:           +1 408 248 8893
+Central:         Jerry Huffman
+Phone:           +1 317 841 0224
+Southern:        Linda Olsen
+Phone:           +1 404 952 0064
+East Coast:      John Elicker
+Phone:           +1 908 827 8648
+
+
+East Asia
+Philips Interactive Media Asia Pacific
+c/o Philips Hong Kong Ltd., Consumer Service
+Site 7, Ground Floor, Whampoa Garden
+Hung Hom
+Kowloon
+Hong Kong
+Contact:         Chris Hofland
+Phone:           +852 773 5332
+Fax:             +852 334 5482
+
+Australia
+Philips Australia Centre
+3 Figtree Drive
+Homebush NSW 2140
+Australia
+Contact:        Gordon Lee
+Phone:          +61 2 7428311
+Fax:            +61 2 7644060
+
+World Headquarters
+Philips Media Systems
+P.O. Box 80002
+5600 JB Eindhoven
+The Netherlands
+Contact:        Cees van Versendaal
+Phone:          +31 40 736228
+Fax:            +31 40 735871
+
+The 'Green Book' and Other Optical Disc Specifications
+Bert Gall
+Philips Consumer Electronics
+Coordination Office Optical & Magnetic Media Systems
+Building SWA-1
+P.O. BOX 80002
+5600 JB EINDHOVEN
+The Netherlands
+
+*****
+Home Entertainment Title Development
+Philips Interactive Media
+11111 Santa Monica Boulevard, Suite 700
+Los Angeles, CA 90025
+
+Children's Label Group
+Sarina Simon, President
+
+Games Labels Group
+David McElhatten President
+
+Home Entertainment and Special Interest Labels Group
+Ann Kronen, President
+
+Education Labels Group
+Bernard Luskin, President
+
+European/Country Labels Group
+Jean-Pierre Isbouts, President
+
+FMV/Digital Video Group
+Graham Williams, President
+
+*****
+26. RELATED DOCUMENTS FOR PROSPECTIVE CD-I DEVELOPERS
+CD-i Development Environments
+CD-i Directory
+CD-i Publications
+CD-i Technical Summary
+
+You may request the publications listed above from:
+Developer Services
+Philips Interactive Media
+11050 Santa Monica Blvd.
+Los Angeles, CA 90025
+Phone:         +1 310 444 6158 or +1 310 444 6159
+Fax:           +1 310 477 4953
+
+
+**************************************************************************
+* DISCLAIMER:  This document is made to the best of the knowledge of the *
+* authors, but inevitably there may be errors or omissions. Philips and  *
+* the authors accept no liability for the information presented herein.  *
+**************************************************************************
+
+For comments, additions, and corrections, or if you have other questions,
+contact:
+Developer Services
+Philips Interactive Media
+11050 Santa Monica Blvd.
+Los Angeles, CA 90025
+Fax: +1 310 477 4953
+
+Contact:       Lucy Lediaev
+E-Mail:        Internet: lucy@aimla.com
+               CompuServe:  72056,1130
+or
+
+Contact:       Lex van Sonderen
+E-Mail:        Internet: lex@aimla.com
+               CompuServe:  71552,2204
+
+

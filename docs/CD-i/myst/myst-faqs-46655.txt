@@ -1,0 +1,573 @@
+Myst
+Written By: Brandon Bush
+7:59 PM 8/31/2006 CST
+
+Myst Island
+-----------
+
+Welcome to Myst Island. After touching a picture in a mysterious book, you
+have found yourself in the docks on a mysterious island. All around you
+lies strange devices, a huge gear, a clock tower in the sea, and an amazingly
+large tree.
+
+Enough of the novelties, lets get on with it. Take some time to explore the
+island and find all the key structures. The ones that you have to know are:
+
+The Library
+The Spaceship
+The Observatory
+The Large Gear
+The Imaging Chamber
+Both of the Breakers
+The Generator Bunker
+The Clock Tower
+The Woodland Cabin
+The Great Tree
+
+Most are fairly obvious. The Library, which is filled with, SHOCK, books,
+lies next to the observatory, which has a "dentist" chair in it. The
+spaceship is on a long walkway leading out from the library. The large gear
+is easily visible from the docks. The Imaging chamber is a bit harder to
+find. Remember where you started at the end of the docks? Face the large
+gear and turn left. You'll see an indenture. Click it to reveal the chamber.
+The breakers might be hard to find. 1 lies right next to the bunker, and
+the other off to the side near the start of the spaceship walkway. The
+generator bunker is just off the path. The clock tower is easily seen from
+the main path. The cabin is in the woods, next to the great tree, which is
+the biggest tree on the island.
+
+Now, what to do? First of all, let's find out why there's nobody here.
+Look around the docks to find a note. It seems this Atrus fellow had to leave
+quite urgently. He tells this Catherine to enter the number of switched on
+the island in the image viewer. If you go around and count them, there's about
+8 of them. Head on over to the imaging chamber. Once at the "cauldron", turn
+around and click the panel next to the stairs. Enter the number 08 and hit
+the red button. Now, turn back around and hit the button on the imager.
+
+Well, it seems as though someone has burned all of the books in Atrus'
+library. OH NOES! Books can always be replaced right? Wrong. His books are
+quite special, and you'll soon see why. Atrus suspects his son, Achenar.
+He mentions something about tower rotation, which I'll explain in a bit.
+
+Now that we have that done, what to do next. In order to do the tower
+rotation, we have to let the tower know what's what. If you don't know what
+a marker is, it's one of those funny little boxes located around the island
+with switches on it. Turn all the ones around island ON. They're located at
+the docks, the big gears, the observatory, the spaceship, the pool, the
+cabin, the bunker, and the clock tower. Don't worry about the one at the
+clock tower for now, we'll take care of it later.
+
+Now, what to do next? Well, a library sounds like a good place to start out.
+Head on over and inspect it a bit. There is a map, a red book with a red
+page, a blue book with a blue page, two pictures of the bookcase, the
+bookcase, and the fireplace. The bookcase consists of mainly burnt books,
+with five surviving books. Four describe different "ages", and 1 contains
+100+ patterns. Don't worry about this one, it's used later in the game.
+
+Now, we have to rotate the tower. Don't worry if you're confused, it took me
+a while to figure this one out. Check out the map. You'll see a bunch of
+symbols. There will be one flashing, a series of circle. That's the tower.
+Clicking and holding it will turn a line in a circle. That's what the tower
+rotation is. When it hits a key location, the line will turn red and freeze
+for a moment. Now you're locked on to a spot. What do we do now? Looking
+around you should see the two pictures of the bookcase, one where it's up,
+and one where it's down revealing a hallway. Click on the picture of the
+staircase that's down.
+
+Travel to the end of the corridor and up the elevator. Welcome to the tower.
+Around you are two ladders, each with a plaque behind them. The book shows
+where the linking book is located, and the key shows how to get to it. Based
+on where you are locked on, you'll see a majority of things. Let's unlock
+some of the books for use.
+
+If you are locked on to the gears, the key will read "2:40" and "2,2,1".
+Now, let's think about these clues for a moment. What else on the island
+might use the format of X:XX. I'll give you a moment.
+
+Give up? Don't worry, I had to have it slammed in my face before I saw it.
+Head out of the library (you have to push the picture of the closed bookcase
+to exit the library) and look down the main path. That's right, the clock
+tower. The 2:40 indicates what time the clock should be on. Head on down
+to the clock and look for a panel near the water.
+
+The panel has a large wheel, a small wheel, and a red button. The small wheel
+handles the hour, and the large wheel handles the minutes. Turn the small
+wheel 2 times and the large wheel 8 times, then hit the red button. That will
+raise a bridge. Cross the bridge and turn the marker on. Open the door and
+enter the clock tower. Inside are 3 levers, a counterweight, and a device.
+The objective is to get the dial to read 2,2,1 from top to bottom. To do this
+you have to pull the right lever, then the left lever. Now, here's the
+tricky part. Pull the right lever, and HOLD it. Hold it for about 3 spins.
+If you screw up at any time, pull the lever on the wall to reset the puzzle.
+
+Once you get it right, the tiny gear will open. Now, head to the large gears
+near the docks. The gear has moved, and now a book is visible. This book will
+teleport, or "link" you to another age, in this case, the Mechanical Age.
+Don't link just yet. Let's unlock the other ages first to save us some hassle
+later on.
+
+Let's open up the Stoneship Age. The key shows us several dates and times.
+However would we use these? There is one place on the island that uses these
+dates, the Observatory. Walk in and turn around so you are facing the door.
+Press the blue button near the door to turn off the lights.
+
+Sit down in the chair and click the device near the top of the screen. This
+will lower the imager. Each of the sliders controls a different part of the date.
+Manipulate the sliders so that each of the dates is shown on the imager. Each
+will show you a different constellation of stars. They are a snake, a leaf, and
+a spider.
+
+Now, head to the well on the main path. On either side of the well are 3 panels.
+Each has a different shape on it. Click the panels for the spider, snake, and
+leaf to activate them. That will raise the ship near the docks. Head down and
+open the cabin door to find the linking book. Once again, don't link yet. We
+still have 1 more age to unlock.
+
+Let's open up the most difficult age, the Selentic age. The key shows 59 volts.
+Head to the bunker on the main path down to the generator room. The key is to
+get the generators running with 59 volts, no more and no less. If you do go
+over 59 volts, you have to reset the breakers. They are just off the path
+outside the bunker and before the bridge leading to the spaceship. There are
+several combinations, but the one I used went like this:
+
+X O
+X X
+O O
+X X
+X O
+
+Where X is pressed and lit and O is raised and unlit. Now that the power
+is running, you can open up the spaceship. Head on over and click on the door
+to gain access.
+
+Now, there's yet another part to this puzzle. This is without a doubt the most
+difficult puzzle in Myst. On the right is a piano, and the left are several
+sliders. The key is to find the right notes and put them on the sliders so that
+the book imager works. Now, how do you know what notes to enter? Go and read
+the book in the library for the Selentic age. At the end is a diagram of the
+organ and several highlighted keys with numbers. Those are the ones to hit. The
+numbers are what order they should be hit in.
+
+I've tried to accurately reproduce the diagram in ASCII, but it doesn't get the
+point across. Here's the second best I can do:
+
+1st Key: 8 over
+2nd Key: 20 over
+3rd Key: 23 over
+4th Key: 13 over
+5th Key: 6 over
+
+8 over means 8 keys from the left, including the first key and half steps. For
+those of you who don't know what half steps are, they are the black keys placed
+periodically on the organ. Now, head back to the spaceship. Push the note that
+corresponds to each number and try to memorize the tone. Now, head over to the
+sliders and move it until it matches that note. Repeat this for the other 4
+sliders (The sliders from left to right go from 1 to 5) and pull the lever. If
+you got the notes right, a linking book will appear on the screen.
+
+An alternate method is to completely bypass the organ and go straight to the
+sliders. With them all at the bottom, click and hold one of them. This will
+play the lowest note possible. Listen carefully and slowly increase the slider,
+counting the number of times that the sound changes notes. When it reaches how
+many keys over it is, that will be the correct note. I.E move the leftmost
+slider 8 notes up, including the first, to correctly set it.
+
+When you get it just right, the screen will have a picture of a linking book.
+Don't link just yet, as you can't solve this age without having some notes from
+another age. There isn't anything you can do with the Channelwood age, as the
+puzzle doesn't stay set, so for now, let's head back to the library.
+
+If you haven't read the books on the bookshelf, do so now. They provide key
+information for each age, plus a little background information on it. When
+you're done, head over the red and blue books. If you pick them up, all you
+will see on the linking screen is static. Instead, pick up the page next to
+the books and place them in the books. The static partially clears up, and a
+person appears in each book; Achenar in the blue, and Sirius in the red. They
+each begs for you to bring them more pages.
+
+There are 2 pages hidden in each age, 1 for each of the books. Let's go get
+some of them right now. The first and most logical choice is the Mechanical
+Age. Head on to the gears and use the linking book to link to the Mechanical
+age.
+
+Mechanical Age
+--------------
+
+Hints: There is a panel with several shapes at the start. Is there anything
+       else on the island that has similar symbols?
+
+       The red button near the elevator lowers the bridge. Is there any way to
+       use the panel below to manipulate the elevator?
+
+       There are 3 buttons on the elevator. When pressed, the middle button
+       seems to cause some delay before moving. Why might this be?
+
+Solutions: The panel leads to the linking book back to Myst. On each of the
+           surrounding islands are symbols that correspond to the code. The
+           code is: Horseshoe, Upside Down Triangles with Rectangle in Middle,
+           3 Triangles with Circle, and Left Semi-Circle.
+
+           Using the button, hold it until the openings in the circles line up
+           and the diagram turns red. Head back up and press the red button to
+           raise the bridge. Now the elevator can be used.
+
+           The middle button allows you time to exit the elevator before it
+           moves. Go to the top level, hit the middle button, and exit the
+           elevator. The elevator will descend and reveal another panel. This
+           is used to move around the island. By using the panel in the war
+           room, you can discern the facing of the island based on the sounds.
+           Pull the left lever to unlock the rotation, and hold the right lever
+           while it rotates. When you think it's facing a certain direction,
+           pull the left lever back down to lock the station and hear the
+           direction sound. They go something like this:
+
+           South - Cow Bell
+           North - Beep
+           East  - Mechanical Tink
+           West  - Chirping
+
+Page Locations: Red - In the sophisticated room, look for a hidden panel under
+                      the tapestry to the right of the throne. It's located in
+                      that hidden room.
+               Blue - In the war room, open the clearly visible panel to the
+                      left of the throne. The page is located on a shelf with
+                      several bottles.
+
+Myst Island
+-----------
+
+With one of the pages in tow, head back to the library and place the page in
+the book. The images will become even more clear, and the prisoners easier to
+understand. They once again beg for even more pages, and begin to reveal there
+plight; why they are imprisoned in the books. Head back to the Mechanical Age
+and the other page. Now that you have the other books, let's head to the
+Selentic Age and get it completed. Run to the spaceship and click the screen to
+link to the hardest age in the game.
+
+Selentic Age
+------------
+
+Hints: There is a panel next to the locked door. Each slider plays a sound.
+       How can we figure out what sounds there are and in what order?
+
+       At each of the stations, pressing the button lights the symbol. Although
+       we don't know what happened, it's just possible that it could affect
+       something else on the island.
+
+       At the center of the age is a device. It views an area in 360 degrees.
+       The symbols for each of the stations is on there, as well as a Sigma
+       (Kind of blocky E) button. What happens when each of these buttons are
+       pushed. How can you clear up the static from each of the buttons?
+
+       The submarine plays a strange sound whenever you arrive at a location.
+       Where have we heard these sounds before?
+
+Solutions: The panel next to the door is what locks access from the submarine.
+           Each panel plays a sound based on its position. We have to find
+           what order what sounds play in. Go around the island to each of the
+           stations and press the red button there to activate it. Now, head
+           to the central portion of the age to get to a "tuner". This tuner
+           has a button for each of the stations symbols, as well as a Sigma
+           button to play the code for the locked door. To find the code, click
+           on the symbol to activate that noise, and press the buttons to go
+           around the island to find that noise. For ease, the frequencies are:
+
+           Water: 153.4
+           Clock:  55.6
+            Bolt: 130.3
+         Crystal:  15.0
+            Wind: 212.2
+
+           Now, press the sigma button, and the noises will play in the order
+           that will unlock the door. Head back to the building and enter the
+           noises into the slider from left to right like so:
+
+           Crystal, Water, Wind, Bolt, Clock.
+
+           Hit the button and the door will open. Go forward to the submarine.
+           Press the blue button to open the door, and go to the panel. Now,
+           press forward to descend. You have to navigate your way to the Myst
+           linking book based on the sounds. Those sounds tell you which way to
+           go. They are the same sounds that played in the Mechanical Age. The
+           correct path is:
+
+           Go forward, face west, forward, face north, forward, face east, forward,
+           forward, face south, forward, forward, face west, forward, face
+           southwest, forward, face west ,forward, face northwest, forward, face
+           northeast forward, face north, forward, face southeast, and forward.
+
+           Exit the sub and proceed to the linking book.
+
+Page Locations: Red - At the crystal pedestal
+               Blue - At the water pedestal.
+
+-----------------------------
+Intermittent Copyright Notice
+-----------------------------
+
+In the event that the website you obtained this from is not included in the
+following list:
+
+http://www.gamefaqs.com
+
+Please immediately inform me at brandon_bush1990@hotmail.com. This is placed
+here in an attempt to stop Internet plagiarism caused by the modification or
+stripping of the copyright notice at the end of the document. Thank you for
+any information that may lead to the end potential plagiarism.
+
+Myst Island
+-----------
+
+What a fun age huh? Now, place the page in the book to clear the image even
+more. Once again, both brothers beg for more pages. They also begin to accuse
+each other, saying the other was at fault for what happened. Head back to the
+Selentic Age and grab the other page. Now that we have 2 pages in each book,
+let's tackle the Channelwood Age.
+
+Now, as you may recall, we haven't yet unlocked the Channelwood age. That is
+because the puzzle does not stay set. The key shows us 7,2,4. Head to the
+cabin in the woods. But the combination, 7,2,4 into the safe to open it up.
+
+On a side note, who in their right mind would keep a box of matches locked up
+in a safe? Maybe if they were Gold and Platinum matches, but these are your
+ordinary every day wooden matches. Weird huh?
+
+Okay, open the box, grab a match, and use the match on the rough side of the
+box. With it lit, turn around and light the pilot light on the boiler. Turn the
+wheel to the right (pointer turns green) until your PSI is maxed (I.E. The
+panel shows the pointer all the way at the right), head outside to the great
+tree. It should be slowly rising, getting taller and taller. Let the tree rise
+as high as it will go, then head back to the cabin. Lower the PSI by turning
+the wheel left (pointer turns red) until the PSI exponentially drops. Run back
+outside to see the tree slowly descending. When the chamber in the tree reaches
+where you can get it, quickly enter. Let the tree completely lower to find the
+linking book.
+
+Channelwood Age
+---------------
+
+Hints: All the pipes seem to coming from someplace on the island. Where might 
+       that be? Are the pipes open or not? How can you open/close the valve?
+
+       There seems to be valves at each of the junction. How do you turn them
+       on? How about off?
+
+       We need to raise a bridge. There seems to be a pipe running there. How
+       might we get enough power to raise the bridge?
+
+       There seems to be 3 levels in Channelwood. How can we access the upper
+       levels?
+
+       The staircase is locked from the bottom side. Perhaps there's some other
+       place to enter it.
+
+Solutions: There are 3 levels to Channelwood. The first is where you manipulate
+           the water flow, the 2nd is basically useless except to open the
+           staircase, and the 3rd holds Sirius and Achenar's rooms. First,
+           we have to get the water running through the pipes. Look around and
+           find the watermill. Head up there and inspect the valve near the
+           big pump. Now, to get to the top, we have to activate the elevator.
+
+           From the watermill, go to the first junction. Turn the valve right
+           and head left to the next junction. Here, turn the valve left and
+           go right. At the next junction, turn the valve left and go right.
+           At the next intersection, turn the valve left once again, and head
+           right. Enter the elevator and pull the red lever.
+
+           Now we have to open up the stairwell. From the elevator, head forward
+           and take a right at the hut to the next building. Take another right
+           and yet another right at the hut. Follow the path and pull the lever
+           to open the stairwell. Head on over to it and go down, opening the
+           door at the bottom.
+
+           Now we need access to the pages. Head back to the first junction,
+           just off the watermill. Turn the valve here left, then go back up
+           the staircase. Here, enter the elevator to ascend to the third
+           level. There are two huts here, one for Sirius and one for Achenar.
+
+           Now we have to get out of here. First, we have to extend a bridge
+           and a pipe to connect the water flow. From the watermill, go to the
+           first junction. Turn the lever right and go left. Turn the lever
+           left and go right. Turn next lever right and go left. Turn next
+           lever right and go left, then right at the next junction to the end
+           of the walkway. Pull the lever to raise the bridge.
+
+           Cross that bridge and go to the elevator, and turn around. Head to
+           the end and turn the crank. This will extend the pipe allowing
+           water to flow to the elevator. Now, to power the elevator, head
+           back to the first junction, just off the watermill. Now, turn the
+           lever right and go left. Turn the next lever left and go right.
+           Turn the next lever left go right. Turn the next lever right and
+           go left. Head towards the elevator and enter. Inside, pull the lever
+           to be raised to a chamber containing the Myst book.
+
+Pages: Red - The first hut on the third level.
+       Blue - The second and farthest hut on the third level.
+
+Myst Island
+-----------
+
+Three down, one to go. Head back to the library and put the page in the right
+book. Once again, the image becomes clearer, and more of the plot is revealed.
+Once again, they brothers beg for pages, and accuse each other of vile
+trickery. Head back to Channelwood and get the other page to hear the other
+side of the story.
+
+Now, head to the ship that you raised earlier, the one by the docks. Head onto
+the ship and into the cabin. Pick up the linking book and link to the Stoneship
+Age.
+
+Stoneship Age
+-------------
+
+Hints: The buttons seem to be pumping something. What might that be? Where do
+       they do this?
+
+       The telescope seems to be of some importance. What might that be?
+
+       The chest seems to be resting at the bottom. Why? Could it have
+       something to do with the valve on it?
+
+       The lights are out all around the age. Is there any way to get lights
+       running through the age.
+
+       The Power Grid is a circle with a lot of buttons. This sort of looks
+       like a compass. What else on the island measures in degrees?
+
+Solutions: This age is by far my favorite. Okay, we can easily get the pages,
+           but getting to the Myst Linking Book is a bit harder. It's hidden in
+           the ship, however it's too dark to find at the moment. First, we have
+           to get to the generator. It's locked in the top of the lighthouse.
+
+           First, get to the pump stand. It looks like a bedside table with an
+           umbrella on it. Press the rightmost button to pump out the water
+           from the lighthouse. Head on over and go to the bottom. Open the
+           valve to allow the water to flow out, then close it again. Go back
+           to the stand and allow the water to flow back in.
+
+           The chest is now floating near it's key. Use the key to open the
+           chest, and use the key in the chest to open the hatch on the roof.
+           Up there, you will find a battery and a hand-crank generator. Crank
+           the generator until the battery is about halfway filled. Head to the
+           pump stand and press the middle button. Head down the nearby cave to
+           the third landing and turn around. Look for a pushed in looking
+           panel. Click it to gain access to the power room. Head to the
+           compass looking device. I figured this one out by pure luck. Press
+           the button directly on the southeast mark (135 degrees) to power the
+           age.
+
+           Now to get out. Head to the pump stand and press the leftmost pump
+           to empty out the ship. Head down and click the table to reveal the
+           book.
+
+Page Locations: Blue - Cave furthest from the lighthouse. Go down to the room
+                       and look on the bed for the page.
+
+                Red - Cave nearest to the lighthouse. Go to the room and open
+                      the bottom drawer.
+
+Myst Island
+-----------
+
+Alright, the final page. Took long enough eh? Place the page in the proper
+book, and finally the story is revealed. Both brothers beg you to get the
+page for them and not their brother. Getting the other page only provides proof
+of their hatred towards each other. They can, however, agree on 1 thing. In the
+codebook I mentioned earlier, they tell you to find pattern #115 and put it in
+the fireplace. They also both beg you to not touch the Green Book.
+
+Head over to the bookshelf and find the codebook. Flip to page 115 and copy
+down the grid. It looks something like this:
+
+XOXXOOOO
+XOXXOOOX
+XOOOXOOX
+OOXXOOXO
+XXXOXXOX
+OXXOXXOX
+
+Where X is pressed and O is not. Head to the fireplace and press the red
+switch. Enter that pattern and hit the red button again. The fireplace should
+spin around, revealing a red page, a blue page, and the green book.
+
+The brother's both agree that you shouldn't touch the book. Seems kind of
+fishy doesn't it? There are 4 paths you can take now, and I'll outline both.
+
+Good Ending
+-----------
+
+Open up the green book. You see a man, vigorously writing. He finally notices
+you, and begs you NOT to link to D'ni. Instead, you must first get the white
+page. In order to do this, go around the island and make sure all the markers
+are turned on. Then, go to the docks, and turn that marker off. Grab the white
+page and make it back to the Green Book. Link to D'ni.
+
+D'ni
+----
+
+Now, you meet Atrus, the most famous character of the Myst series. He takes the
+white page, and after a while, returns. He regrets that he can't help you, but
+he sincerely thanks you for your help. You are free to roam the island, go back
+and revisit any age you want. Don't worry though, you get off this island in
+Riven, the sequel to Myst. Simply click on the Myst book and link.
+
+Now that you're back, notice that the red and blue books have been burned to
+a crisp. This isn't the end of Sirius and Achenar however. They make their
+return in Myst IV
+
+Bad Ending 1
+------------
+
+Follow the exact same steps as the good ending, except don't retrieve the white
+page. Atrus is furious with you, as you have condemned him to D'ni forever. You
+are stuck there, unable to return to Myst, or your world.
+
+Bad Endings 2 and 3
+-------------------
+
+Take the Red or Blue page to the books. As soon as you add the page, you take
+the place in the book. Both brothers laugh insanely and rip pages out of the
+book, causing the image to become more and more staticy. Then they close the
+book, leaving you to think about your mistake for eternity.
+
+-------------------------------------------------------------------------------
+Copyright Notice
+-------------------------------------------------------------------------------
+
+This document is Copyright (C) 2006 Brandon Bush. This guide may be
+reproduced and distributed freely under such circumstances that no profit,
+monetary or not, is obtained, whether through direct donations nor pricing of
+said document. This document may ONLY be viewed on the following sites:
+
+http://www.gamefaqs.com
+
+Should this document be found on any other site, please e-mail me the URL of
+the website at brandon_bush1990@hotmail.com. The author (Brandon Bush) retains
+the right to change this guide at any time at the author's discretion. If you
+wish to post this as part of your website, please notify me first at the above
+e-mail. Chances are I won't turn you down, however I do like to know where it
+is.
+
+The author does retain the right to immediatly retract this document from ANY
+publication, electronically or physically, for any discretion as determined by
+the author.
+
+-------------------------------------------------------------------------------
+Credits
+-------------------------------------------------------------------------------
+
+Cyan Worlds and Red Orb Entertainment for creating one of the best adventure
+game franchises ever conceived.
+
+My family, for always supporting me, even when the going got tough.
+
+God, for creating me and everyone I love and cherish.
+
+CJayC, for creating the ONLY gaming site on the web, and for not selling GF's
+soul to GS.
+
+You, for choosing my walkthrough over the others. I hope it helped you out.
+That is, after all, my purpose.
+
+And always remember that famous quote from our well known redneck friend, Joe
+Dirt. "Life's a garden, dig it!"

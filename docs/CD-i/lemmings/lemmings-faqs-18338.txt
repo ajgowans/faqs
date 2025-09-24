@@ -1,0 +1,2833 @@
+                               O----------O
+                               | LEMMINGS |
+                               O----------O
+                           FAQ/Walkthrough v1.1
+         The guide that is the solution to your Lemming problems!
+                     Written by Snow Dragon (C) 2002.
+                           All rights reserved.
+
+    This FAQ is dedicated to Neal Lundberg, whose floppy drive trashed my
+   original version of this FAQ more than a year ago. He will be satisfied
+                      with this new conception, I think. 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                             TABLE OF CONTENTS
+                             =================
+                          A Back Story to the FAQ
+                                  Updates
+                              Intro and Notes
+                                How to Play
+                        Helpful Tips and Techniques
+                             Appendix of Traps
+                                Walkthrough
+                        Credits & Legal Disclaimers
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                          A BACK STORY TO THE FAQ
+                          =======================
+It may seem extremely odd for an FAQ to have a back story behind it, but this 
+FAQ is something special to me, something that touches me deep down. For this 
+document should have been published a very long time ago - early June 2001, 
+to be exact. It was all finished up and everything and was twenty-four pages 
+long. Not exactly book length, and I thought it could have been longer 
+myself, but it was a submission worthy of honor in the annals of GameFAQs. 
+With that in mind, I was ready to go to a friend's house. I had the whole 
+thing stored on a floppy disk and the plan was to submit it almost instantly 
+upon arriving at the friend's house. (I was just going to use his computer in 
+the interest of convenience. Since then, everything I've submitted has been 
+off a hard drive to minimize failure of such.)
+
+I was trying to open up the floppy drive to access my walkthrough, my 
+beautiful walkthrough that I was so proud of, and the disk wasn't reading. 
+Leave it up to my friend to tell me at that moment, "Oh, my floppy drive 
+doesn't work."
+
+MY FLOPPY DRIVE DOESN'T WORK. What made it worse was how nonchalantly he said 
+it.
+
+I remember it like it was yesterday. Several frightening blue error screens 
+followed, and when I got the disk into a working floppy drive and opened up 
+the A: window, nothing was on the disk. 24 pages of work, translating to 
+nearly five hours of my life (I'm good at Lemmings, so I completed it pretty 
+fast), was gone. Totally wiped off the face of the earth. Fortunately, I 
+don't harbor resentment about these kinds of things, and I just learned never 
+to use that friend's floppy drive again.
+
+Since that horrifying incident, however, he's gotten a new computer with 
+Windows XP and a working A: drive, and I've learned not to rely on floppy 
+disks to hold FAQs unless I'm transferring it from one comp to another. 
+Everything is okay now, and it is with a shattering burst of revitalized 
+energy that I am re-introducing the Definitive Lemmings FAQ & Walkthrough, 
+which should have been my first FAQ ever (King's Quest V now holds that 
+honor), but will now become my 23rd published document on the Internet. 
+
+You may see this entire spiel as pointless rambling and take no interest 
+whatsoever in it. I don't care what others' opinions are; this section is up 
+here to serve as a memorial to the original walkthrough, and I find it 
+important to only myself to recognize this lost work. If you have had an FAQ 
+slip through your fingers at some point and you sympathize with me, that's 
+great. I just wanted to remember what should have been available to the 
+Public Gaming Domain a long time ago. With this revisited walkthrough, I've 
+been able to expand on the original text, add things that I didn't have the 
+foresight to add the first time around, and make things easier to understand 
+for everybody, myself included. That's the story behind this FAQ. I hope you 
+find it useful in all its aspects, and I would like to hear from anyone with 
+questions at any time. My inbox is open.
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                                  UPDATES
+                                  =======
+
+7-22-02: What an idiot I am! In the rush to get this FAQ submitted, I forgot
+         that I had left the solution to 3 Mayhem ("It's hero time!") in a
+         state of incompletion. Fortunately, I spotted it, replayed the 
+         level, added the solution, and the mistake has been rectified. This 
+         is now truly the Definitive Lemmings Guide.
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                              INTRO AND NOTES
+                              ===============
+Now that you've read or skipped completely over the back story, you probably 
+already know whether you read it or not that this is an FAQ/walkthrough for 
+the original Lemmings, published in 1991 by Psygnosis and re-released in CD 
+format by Slash in 1995. That CD also includes the pseudo-sequel "Oh No! More 
+Lemmings", a game I would enjoy giving the FAQ treatment to as well since it 
+is much harder than its predecessor. Within this walkthrough lies the answer 
+to any question you could possibly come up with. My walkthroughs all have 
+different issues to tackle, and some of these can cause confusion at some 
+point, so I like to add these notes prior to the walkthrough so that nobody 
+e-mails me with questions I find annoying. We'll get to those notes in a 
+second.
+
+On an unrelated topic, those of you that are familiar with my game-related 
+works on the Internet will now notice a more-than-subtle change in format 
+from my other 22 FAQs. Using Word, I've tried to get the section headers as 
+centered as possible without automatically formatting it that way, and two 
+lines of dashes now visibly separate the different sections, so that it 
+doesn't all look like one massive document with no pauses. I hope this is 
+more helpful for everyone, not to mention easier on the eyes. If you like 
+what you see, give me some feedback at the e-mail address in the notes below.
+
+Speaking of those notes, here they are, in no particular order:
+
+** Some of this walkthrough is written from memory, but what I wasn't able to
+   recall from the recesses of my brain, I replayed using the CD version of
+   Lemmings, released by the Slash Corporation in 1995. There are a few
+   changes in it from the floppy disk DOS version that may seem minor but can
+   lead to big screw-ups if those differences aren't distinguished. A prime
+   example is that on the Slash CD, the splat distance has been increased
+   slightly, so the Lemmings can fall a little farther without dying. If you
+   are playing the floppy disk DOS version, I will indicate when these
+   changes have a notable impact on a level's solution (example: 13 Fun).
+
+** If you are playing with the floppy disk DOS version, you will occasionally
+   be asked to insert the disk in order for the program to run. This is 
+   merely a form of copy-protection. Just keep it in an easy-to-find place at  
+   all times.
+
+** Multitasking is essential to victory in some levels. If you're not sure of
+   the techniques that will lead all the Lemmings to the exit in cases of
+   extreme duress, look at the Helpful Tips and Techniques section. This has
+   a veritable encyclopedia of little hints and cool tricks that will help
+   you out when trying to beat those hardcore levels.
+
+** Of course, if you've never played Lemmings or any of its variants ever in
+   your life, you'll want to take a look at the How to Play section.
+
+** Not sure what some of those contraptions that are killing your Lemmings
+   are? Look in the Appendix of Traps for more details.
+
+** I have seen some walkthroughs for Lemmings before, and the level solutions
+   appear to be jumbled together in a mess of steps I find unsatisfactory and
+   not conducive to helping anyone in any way. Therefore, instead of a long
+   and messy paragraph for every single level, level solutions will be
+   presented in an easily comprehensible step-by-step format. To make optimum
+   use of the step-by-step, try printing out only the part you need help with
+   and crossing out or highlighting each step as you complete it.
+
+** All steps will be preceded by a plus sign (+) to tell them apart.
+
+** Within this walkthrough, you will get to see a level's vital statistics
+   (how many, percentage to save, release rate, time allotted, difficulty
+   rating) along with the level solution. It will look like the following
+   Reasonable Facsimile that I have constructed:
+
+      LEVEL #   LEVEL NAME
+      NUMBER (TO BE SAVED)
+      RELEASE RATE   TIME
+
+   I don't have to list the difficulty rating - the level will be filed under
+   the appropriate subsection.
+
+** No passwords are provided in this walkthrough. They can be easily written
+   down after you complete a level.
+
+** I haven't said this of any of my other walkthroughs, but I've heard it in
+   various places and it's true: don't read through this entire thing before
+   playing and then leap into Lemmings expecting to do a phenomenal job on
+   every level. To read the whole document before playing the game may spoil 
+   many of the game's better elements for you. Only find that which pertains
+   to your current problem and nothing more.
+
+** Finally, the biggest thing about this document: contacting me with
+   relevant questions about it. If for some reason you feel an undying urge
+   to get a hold of me with your questions, comments, requests, suggestions,
+   errors you feel compelled to point out, and all other general forms of
+   feedback, just send your message to <eubanks1084@hotmail.com>. I went to
+   great pains to explain what I like to see in your e-mail in my last
+   walkthrough, and I will reiterate those two points here.
+
+      1. Whatever your e-mail is in relation to, I want that in the subject
+         line. If it's not there, your e-mail will most likely get deleted
+         as soon as I see it. It's nothing personal against you. I just need
+         to be able to scope out the FAQ stuff in the midst of the myriad
+         spam I've been getting the past few months. At the very least,  
+         mentioning the name of the game you're having trouble with will help 
+         me out in that area. If you don't want what you've sent me to be
+         considered bulk mail, then follow this criterion and I'll read it.
+
+      2. Reading your mail, however, does not necessarily guarantee a kindly
+         worded reply. Before you click that Send button, TRIPLE-CHECK to
+         make absolutely positive that what you're asking me hasn't already
+         been answered in the text of the walkthrough. I hate it when I get
+         stupid questions. I will more than likely answer them with extreme
+         indifference or a small degree of rudeness. It has happened, and
+         those at the brunt of my written attacks have been none too happy
+         with my tone. They shouldn't be - I wasn't trying to be anything but
+         rude. Since you now know what you'll get if you are careless in
+         sending your e-mail, I expect relevant, intelligent, thought-out
+         queries to come my way. You have been warned.
+           If you happen to send me something that I may have carelessly
+         excluded from this or any of my walkthroughs, tell me. Before
+         updating, I'll confirm what you've told me to see if it works out,
+         and if it does, you will be rightly credited for your input.
+
+** That should be all for now, so enjoy busting your brain with ... er,
+   I mean, _playing_ Lemmings!
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                                HOW TO PLAY
+                                ===========
+Even upon first glance, Lemmings doesn't appear to be a difficult game to 
+learn. The first thing we will do to get you into the Lemmings groove is 
+familiarize you with all the game's screens. These include the title screen, 
+the screen you see just before entering a level, and the actual field of 
+play. Listed below are those screens and Reasonable Facsimiles of them, in 
+the order I just ran them off in.
+
+
+     1. The Title Screen
+
+         F1-----------o  F2-----------o  F3-----------o  o-------------o
+         |            |  |            |  |            |  | (up)        |
+         |  1-Player  |  |    New     |  |            |  |        FUN  |
+         |            |  |   Level    |  |            |  | (down)o-----|
+         o------------o  o------------o  o------------o  o-------------o
+
+                         ESC----------o  F4-----------o
+                         |            |  |pictures of |
+                         |    Exit    |  | methods of |
+                         |    DOS     |  |  control   |
+                         o------------o  o------------o
+
+     -> 1-Player is simply the PC version's way of saying this is how to
+        start the game. There is no 2-player mode in Lemmings (although that
+        would be VERY interesting to see implemented). In the Macintosh
+        version, this button says Let's Go! Press F1 to start on the first
+        level (or the level you have entered a password for).
+
+     -> New Level will not let you make new levels as you might think -
+        though there is a utility that lets you do just that for Lemmings.
+        This is where you enter passwords. Make sure you enter the ten-letter 
+        code correctly or you won't be able to go to the level you were    
+        after.
+
+     -> I left the F3 box blank because that's usually how I see it. However,
+        if you press F3, you will see that blank space, a musical note, and
+        "FX" there. You can toggle between no music at all, music and sound
+        effects, or just sound effects. There is no option for music only.
+
+     -> Press Up and Down to choose the difficulty you want to play at. If
+        you choose a difficulty rating without entering a password, you will
+        start on level 1 of that set of levels.
+
+     -> Press Esc to leave Lemmings when your brain is totally destroyed by
+        the intense difficulty or when the real world beckons you.
+
+     -> F4 will let you select and calibrate the control method of your
+        choice. I recommend the mouse.
+
+
+     2. The Vital Statistics Screen
+
+           o------------------------------------------------------o
+           |                                                      |
+           |                       (map)                          |
+           |                                                      |
+           o------------------------------------------------------o
+
+                           Number of Lemmings  ??
+
+                           % To Be Saved       ??
+
+                           Release Rate        ??
+
+                           Time         ? Minutes
+
+                           Rating              --
+
+     -> The map gives you a small-scale model of the level, giving you the
+        opportunity to soak it all in and see if you're ready for it.
+
+     -> There can be anywhere from eighty whole Lemmings in a level to just
+        one. This is the first number you see there.
+
+     -> Out of however many Lemmings you are required to save, a certain
+        percentage of them have to make it to a designated point intact. This
+        percentage is given to you in the % To Be Saved blank. Often, it will
+        be in the range of 10-100%.
+
+     -> "Release rate" is a term for how fast the Lemmings will fall out of
+        the hatch at the beginning of the level. The number will always be in
+        the range of 1 to 99. 1 is the absolute slowest setting - about one
+        Lemming every two-and-a-half seconds. At 99, they will flood out
+        uncontrollably. This is a setting best used to empty the remaining
+        Lemmings out of the hatch once a path has been forged, but several
+        levels start out at this speed, and you'll have to work with it,
+        because the release rate cannot be lowered past the level's initial
+        setting.
+
+     -> Time amounts in this game are always listed in whole integers. The
+        amount of time you have to beat a level may be anywhere from a paltry
+        one minute to a whopping nine.
+
+     -> Ratings are simply to tell you what difficulty a level has been
+        deemed to be. The four difficulty settings in this game are Fun,
+        Tricky, Taxing, and Mayhem.
+
+
+     3. The Field of Play
+
+        --------------------------------------------------------------
+
+
+
+
+
+                          a portion of the gaming area
+
+
+
+
+        --------------------------------------------------------------
+       | + | - |CLI|FLO|BOM|BLK|BLD|BSH|MIN|DIG|   |   |              |
+       |   |   |   |   |   |   |   |   |   |   |PSE|NUK|   mini-map   |
+       |???|???|???|???|???|???|???|???|???|???|   |   |              |
+        --------------------------------------------------------------
+
+     -> The plus and minus signs represent the release rate. By clicking the 
+        corresponding button, you can either increase or decrease it. Recall
+        that you can't put it below the initial speed for that level, nor can
+        you put it above 99.
+
+     -> CLI stands for Climber. When applied to a Lemming, that Lemming will
+        take on the ability to scale walls. This ability lasts until the end
+        of the level.
+
+     -> FLO stands for Floater. When a Lemming who is a floater falls from a
+        large distance, it will deploy a parachute-like umbrella that allows
+        them to fall any distance without splatting. Like the ability to
+        climb, this lasts until the end of a level.
+
+     SPECIAL NOTE: When a Lemming has both the ability to climb and float, it
+     will be labeled an Athlete by the game. I use this term as well, so it
+     would be a good idea for you to learn it as well. An Athlete is just a
+     Lemming that is both a climber and a floater.
+
+     -> BOM stands for Bomber. Any Lemming that is made a bomber immediately
+        affects a five-second fuse. Although usually applied to blockers,
+        situations do arise where you will have to make walkers into bombers
+        as well. At the end of the five-second fuse, the Lemming blows up.
+        Generally, you should try to use as few that you are given as you 
+        can. Lemmings can't bomb through steel under normal circumstances.
+
+     -> BLK stands for Blocker. Any Lemming that is made a blocker is frozen
+        in place semi-permanently (special situations sometimes make blockers
+        into walkers). Any walker or other Lemming that runs into a blocker
+        will turn around and go in the other direction. Blockers are not
+        always available to you or cannot be used in the interest of saving
+        enough Lemmings, so creative ways of encasing groups of Lemmings may
+        sometimes have to be found.
+
+     -> BLD stands for Builder. One builder can construct a 45-degree bridge
+        comprised of twelve tiles. If you have sound effects on, you will
+        hear a clicking when a builder is about to run out of tiles, in which
+        case you need to listen should you have to keep building a bridge.
+        I would consider builders the most common task assigned to Lemmings,
+        so they play a very important role in getting Lemmings to the exit.
+
+     -> BSH stands for Basher. Bashers punch through walls in a horizontal
+        line until they get to the end of the wall. The other Lemmings can
+        then walk through the narrow tunnel that the basher makes. Lemmings
+        can't bash through steel under normal circumstances.
+
+     -> MIN stands for Miner (not the under-18 kind - like a coal miner).
+        With pick-ax in hand, a Lemming will mine a diagonal tunnel downward 
+        in the direction it was facing when you clicked on it. Lemmings can't
+        mine through steel under normal circumstances.
+
+     -> DIG stands for ... well, Digger. Any Lemming turned into a digger
+        immediately takes to digging a tunnel straight down through the
+        terrain below it. Lemmings can't dig through steel under normal
+        circumstances.
+
+     -> PSE stands for Pause, which in this game has an icon that looks like
+        a tiny set of paws. (Get the joke? Yeah, I know, it's bad.)
+
+     -> NUK stands for Nuke. This is to be used in situations when no more
+        Lemmings can possibly be saved or when you feel like looking at a
+        thoroughly amusing pyrotechnic displays on days other than the Fourth
+        of July. When you double-click this button or press F12, all the
+        Lemmings onscreen become bombers with five-second fuses above their
+        heads. Lemmings will also cease coming out of the hatch if they are
+        still in the process of doing so. After five seconds, every single
+        Lemming will blow up in an impressive fireworks display, and you will
+        be sent to the accountability screen, which tells you how many were
+        saved and accounted for.
+
+     SPECIAL NOTE: The question marks in the field-of-play model represent 
+     the number values that are in those boxes while you are playing.
+
+Now that you know what everything on all those initially befuddling screens 
+is all about, it's safe to introduce you to the basic concept of Lemmings. 
+You are given a set amount of Lemmings per level. Out of those many or few 
+Lemmings, you must save a certain percentage of them. If you're not sure how 
+many Lemmings encompass the percentage provided, convert the percentage to be 
+saved to a decimal number (.xx) and multiply the total number of Lemmings by 
+the decimal number you got.
+
+As you've seen, you have several tools that will help you get the Lemmings to 
+the exit, because they can't do it on their own. Were they left up to natural 
+selection, every one of those Lemmings would mindlessly walk off ledges and 
+into bottomless pits, water, acid, lava, and all the other environmental 
+hazards interspersed throughout the game's 120 levels. You are their savior, 
+their divine intervention. By giving them things to do that are productive 
+and will lead them to the paradise behind the exit, you are like a god to 
+them. You won't really get a reward or anything for beating the game, aside 
+from the inner satisfaction of having beaten all 120 levels.
+
+That is basically all you have to do. Of course, the game isn't always 
+straight-up building, bashing, and bombing. If that were the case, it'd be 
+way too easy. You will have to find creative ways to use what is given to 
+you. Most tools have more uses than what is already obvious. I am the only 
+person I know who has beaten this game. Hopefully, my friends and relatives 
+who before were totally stumped should now gain all the knowledge they need 
+to take on this game - and you should too, I hope.
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                        HELPFUL TIPS AND TECHNIQUES
+                        ===========================
+In Lemmings, there is no affair that can be taken (1) lightly or (2) slowly. 
+Most levels will require you to be focusing on multiple facets of gameplay at 
+once. No amount of mousework can prepare you for some of what is ahead. If 
+you're confused and can't figure out for the life of you why the solution to 
+a level just flat-out is not working, this section contains some pointers and 
+ways to get yourself out of the rut of slowness and do things fast. Nimble 
+fingers are always a plus when doing some of these. Also, this section 
+doesn't include stuff like using two blockers to hold in a bunch of Lemmings. 
+Any fool could figure that out.
+
+-----------
+1. Hot Keys
+-----------
+"Hot keys" is computer slang for keyboard shortcuts that are more efficient 
+than doing things with the mouse. In Lemmings, hot keys are not just more 
+efficient: they're practically a hallelujah chorus in their own right. With 
+hot keys, you can assign jobs faster and select tasks or raise and lower 
+release rate while the game is paused - something you can't do with the 
+mouse. Here is a listing of what each hot key instantly jumps to:
+
+  F1 - lower release rate (hold down to do it faster)
+  F2 - raise release rate
+  F3 - climbers
+  F4 - floaters
+  F5 - bombers
+  F6 - blockers
+  F7 - builders
+  F8 - bashers
+  F9 - miners
+  F10 - diggers
+  F11 - pause the game
+  F12 - Armageddon (nuke)
+
+--------------------------
+2. Surveying the Landscape
+--------------------------
+Before each level starts, pause the game and get a good long look at the 
+terrain. During this time, you can see how much of each tool you've been 
+given, find traps you might need to be on the lookout for, formulate 
+strategies, etc. This is always a great thing to do before levels that seem 
+reasonably difficult.
+
+----------------------------------------
+3. Milking Bridges For All They're Worth
+----------------------------------------
+Wait for a builder to run out of tiles, then let him walk a little bit before 
+continuing the bridge (but not enough to fall off the bridge). You will get 
+quite a bit more length out of your bridges this way, though they won't be as 
+tall as perfectly shaped bridges.
+
+-----------------------------------------------
+4. The Ground Under Me Is Gone! I'm A Free Man!
+-----------------------------------------------
+Mine or bash the ground under a blocker to make it a walker again. This keeps 
+you from having to use bombers in situations where you have to save more than 
+that will allow.
+
+-----------------------
+5. Zigzagging Staircase
+-----------------------
+Building zigzagging staircases is the most efficient way to get out of deep 
+holes when you don't have a decent amount of climbers or other tasks 
+pertaining to your situation.
+
+--------------------
+6. Breaking the Fall
+--------------------
+When you don't have floaters available to you, you can dig at the edge of 
+certain ledges to take a good chunk out of the falling distance, which might 
+otherwise cause a lot of Lemmings to go KER-SPLAT!
+
+----------------
+7. Holding Cells
+----------------
+This is one of the special techniques that you will use most often throughout 
+the course of the game. To create a holding cell, have one Lemming start 
+digging a hole. When that hole is deep enough that the digger won't build out 
+of it, have him build to cut the hole off at a certain point. This will hold 
+as many Lemmings as are in the level until a zigzagging staircase is built to 
+help them all escape. The only problem with this is that you have to build 
+the zigzagging staircase in the right direction or they might all go off on 
+the wrong path and die!
+  Another way to make a holding cell is to have two miners mine in opposite 
+directions and have each one build when the tunnels are deep enough.
+
+--------------------------
+8. Turning Around On Steel
+--------------------------
+If you need someone to turn the other way while walking on steel, have him 
+build one or two tiles, then mine to cut off the bridge. The builder/miner 
+will make a dent in the steel and start walking off in the other direction.
+
+--------------------
+9. Steel Digging 101
+--------------------
+In the How to Play section, I noted for each type of digging Lemming that 
+they cannot dig through steel under normal circumstances. This refers to 
+trying to dig/bash/mine through a solid chunk of steel. If you dig/bash/mine 
+through steel and another destructible surface at the same time, you will go 
+through the steel portion of the tunnel without problems. There are some 
+levels where it is necessary to employ the "cheating" tactic of partially 
+going through steel.
+
+---------------
+10. Bridge Wall
+---------------
+You shouldn't have to do this very often, but if you are at a loss for 
+blockers and there is absolutely no way to hold in a restless bunch of 
+Lemmings - you can't make a holding cell due to thin ground and nothing else 
+will work - you can form a bridge wall. A barrier consisting of 10-13 bridges 
+has a thick enough base that Lemmings are not able to pass through the foot 
+of the stairs as they can with a single bridge. This is a rarely used tactic, 
+but one that is necessary to the completion of at least one level in the 
+game.
+
+--------------------
+11. Over The Blocker
+--------------------
+In cases where bombing a blocker would cause a gap in the floor that would 
+kill Lemmings, you might have to build a zigzagging bridge over some 
+blockers. Make sure they come out in the direction you intend for them to or 
+many could die needlessly. Builders will automatically turn around if they 
+run into a blocker while doing their job.
+
+---------------------
+12. Walking Time Bomb
+---------------------
+Sometimes you will have to make Lemmings bombers as they are walking or doing 
+something else when you don't possess any blockers. Some levels require this 
+just to give you a hard time. In levels where you have to do this, I will 
+clearly indicate the exact point(s) where you should start the timer on a 
+walker.
+
+------------------------------------------------------------
+13. Today, The Digger Will Be Playing The Part Of The Basher
+------------------------------------------------------------
+If no bashers are in your inventory, simply make a Lemming into a climber, 
+and when they get to the top of a surface, have them dig to create an 
+opening. This only works on thin surfaces that are not cut off by a ceiling.
+
+------------------------
+14. Pass-Through Blocker
+------------------------
+If you turn a Lemming into a blocker as soon as he hits the ground below the 
+level's starting point, the other Lemmings will at first pass through him and 
+continue on to the right, but if for some reason they happen to cross back to 
+that blocker, they will turn around when they hit him. You'll use this one A 
+LOT.
+
+-------------------------------
+15. Gimme A Few Seconds, Please
+-------------------------------
+If you pause before the hatch opens up, you can squeeze a few more seconds 
+out of a level. Opening the hatch takes nearly four seconds, so this pause is 
+especially important in those 1-minute levels where every second counts.
+
+These techniques and more will be a great deal of help to you in your journey 
+as the Lemmings Savior. If you have intuition and a bit of hindsight, that 
+will help you all the more in your quest. When combined with the multitasking 
+wonders and general tips seen here, there's no reason you won't be able to 
+tackle most levels in Lemmings.
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                             APPENDIX OF TRAPS
+                             =================
+Have your Lemmings been consistently snared in the same trap over and over 
+again, but you can't figure out what on God's green earth the thing that 
+they're getting crushed, folded, squished, throttled, or otherwise just 
+mutilated by in general might be? That's what this section is here for. 
+You'll see all the traps in the game in this section, along with some that 
+aren't in any level in the game but are actual parts in the tile sets. Traps 
+will be categorized by the tile set they match up with. There is also a 
+section for general traps that can be found anywhere.
+
+-----------------------------
+General Environmental Hazards
+-----------------------------
+
+BOTTOMLESS PITS
+These are in every level in the game, though you won't be able to get to most 
+of them in some levels. Any time you see black along the bottom of the 
+screen, that is where the abyss lies. Lemmings that wander into these endless 
+holes are gone forever.
+
+HARMFUL LIQUIDS
+Lemmings can't swim (in this game, anyway), so if they fall in any sort of 
+liquid, they'll flail their limbs helplessly for a second and then will find 
+themselves mired in whatever they've fallen into. Liquids can most often be 
+passed by building bridges over them, though in some cases there are other 
+ways around. The liquids differ according to their location, and are 
+classified in the following chart.
+
+          LOCATION | LIQUID TYPE
+     --------------+-----------------
+       underground | fresh water
+      gold pillars | fresh water
+           pastels | acid
+              hell | lava
+     crystal caves | crystal water
+
+None of the extended tile sets (as seen in 22 Fun, 14 Tricky, 15 Taxing, and 
+22 Mayhem) have water or any other sort of liquid in them.
+
+WALLS WITH ARROWS
+This is not a trap, per se, but merits a listing in this section because it 
+can hamper your progress if you are ill-prepared for it. Arrows indicate that 
+you can only dig through a wall in the direction shown. Most often, they will 
+be pointing against you, which requires you to go over them (they are hardly 
+ever attached to ceilings) and bash or mine through from the other side. 
+Again, they're not a trap - just a major inconvenience.
+
+-----------------
+Underground Traps
+-----------------
+
+STEEL TRAP
+Used here not for killing bears, foxes, or other wildlife, but Lemmings. Go 
+under them by mining or over them with one builder.
+
+10-TON WEIGHT
+If a Lemming steps on the button below one of these things, it's splat time 
+for him. You can build over the button if you want.
+
+RETRACTABLE BOULDER
+This is a sly trap. There's no button that activates it, so if you're under 
+it, it will crush you, even if you try to build over it. In that case, the 
+only way to elude this trap is to mine under it, but not so far that escape 
+is really hard or impossible, and then bash a straight tunnel out. It's only 
+in one level in Lemmings, but you have to watch out for it because it blends 
+in so well with the landscape that you may lose ten or more Lemmings before 
+you realize what's happened. Being under it also results in one of the 
+goriest deaths in the game.
+
+-----------------
+Gold Pillar Traps
+-----------------
+
+ROPE SNARE
+Just don't get a Lemming's foot caught in this. The trip around it can be 
+rough if they meet with it. They are often out of the way beyond an exit or 
+in an otherwise inaccessible area, so you won't have to deal with them most 
+of the time - they seem to have been put in most levels as mere scenery.
+
+NEEDLES
+Although the needles are only in one level (like most traps), there are two 
+sets of them in that level, and a deadly trap this is. You usually won't get 
+hurt if you run into them near the very bottom or top, so just basically 
+avoid the very middle. They will shoot out real fast and send a Lemming to 
+who-knows-where. Also, they work swiftly and with alarming accuracy, so don't 
+let too many Lemmings meet the needles.
+
+------------
+Pastel Traps
+------------
+
+MASHERS
+Equivalent to the underground area's retractable boulder, but these have a 
+button to activate them, so they can be built over easily. If a line of, say, 
+twenty Lemmings passes over a masher button, seven or eight will die. That's 
+roughly 40% of the line, so stay away from mashers if you can.
+
+SHREDDERS
+Shredders spin so freely with the wind, but they're not to be toyed with. 
+Every inch of muscle fiber, bone, and tissue in a Lemming's body will be 
+strewn about if they get too close to one of these. Often, a blocker will be 
+able to ward off one of these, but not always. One of the game's hardest 
+levels involves these shredders, and you'll know which one it is when I get 
+to it.
+
+----------
+Hell Traps
+----------
+
+FIRE BLOWERS
+There is no way to bypass one of these - it's all or nothing. In other words, 
+find a way around one. The fire will kill every Lemming in a line that passes 
+through it, even at the highest release rate. Lemmings will also suffer if 
+they touch a fire blower directly at the source. Keep all this in mind as you 
+come around them.
+
+FIRE BOXES
+Coals inside the boxes keep the flames ablaze. Lemmings can step right in 
+them without the aid of a bridge, so use blockers or another form of defense 
+against them. Fortunately, they're usually out of the way, so you won't have 
+to deal directly with them very often.
+
+------------------
+Crystal Cave Traps
+------------------
+
+SLICER
+Meeting one of these things means a Lemmings will get cut up into four neat 
+portions. I don't recall this one being in any level in the game.
+
+DEMOLECULARIZER
+It looks like two balls on steel rods - one under the Lemming, the other 
+above it. If you step between them, your molecules will torn apart in a 
+terrible mess. There's only one level where you'll see this thing, and it is 
+very easy to go around in that level.
+
+LEMMING GHOSTBUSTER TRAP
+That's the best I can describe this thing as. When a Lemming steps on the 
+Lemming Ghostbuster Trap, they'll get sucked down into it, molecule for 
+molecule. Although, like the demolecuarizer, it's only located in one level, 
+its placement will mean the difference between whether or not you are able to 
+finish the level - MWAHAHAHAHAHA! Oh my, it's hot in here.
+
+There are no traps to be found in the extended tile sets (the four levels 
+with different backgrounds than the others).
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                                WALKTHROUGH
+                                ===========
+
+
+                        T H E   F U N   L E V E L S
+
+-----------------------
+Level 1   Just dig!
+10 Lemmings (10% saved)
+RR 50   5 minutes
+-----------------------
++ Mostly, these first seven or eight levels are meant as tutorial exercises,
+  so in all honesty, you shouldn't really need help with them. But, if you're
+  just that desperate and you still can't figure out what's going on, AFTER
+  ALL THE EXPLAINING I DID ... well, okay.
++ Have one Lemming dig a hole - anywhere you want. He will eventually make
+  his way to the bottom and all the other Lemmings will follow the trail and
+  go to the exit. You only need to use one digger (you're given ten) to
+  complete the level. After one has reached the exit (10% of ten Lemmings is
+  one), you can let the rest follow suit or nuke them all.
+
+----------------------------------------
+Level 2   Only floaters can survive this
+10 Lemmings (10% saved)
+RR 50   5 minutes
+----------------------------------------
++ As you can see, the distance they will fall from that last column is too
+  much for the Lemmings to bear. Make at least one a floater, because that's
+  all you need to save. Once one has made it to the exit, you can do what you
+  please with the others.
+
+----------------------------------
+Level 3   Tailor-made for blockers
+50 Lemmings (10% saved)
+RR 50   5 minutes
+----------------------------------
++ There are several points in this level where the Lemmings could easily fall
+  to their deaths. You need to place blockers at the points where Lemmings
+  could potentially meet their graves. A novice will probably use the maximum
+  five blockers needed for the job; experts will probably only need three.
+
+-------------------------------------
+Level 4   Now use miners and climbers
+10 Lemmings (100% saved)
+RR 1    5 minutes
+-------------------------------------
++ With the one miner you are given, make him tunnel out of his prison, so to
+  speak.
++ Assign a climber to every Lemming and watch as they scale the wall to the
+  exit. Remember to save every Lemming - no nukes this time or you'll have to
+  do it again.
+
+------------------------------------
+Level 5   You need bashers this time
+50 Lemmings (10% saved)
+RR 50   5 minutes
+------------------------------------
++ Bash through the pole in front of you and the large cavern wall behind
+  that.
++ If you bash at the base of the pyramid fence each time, you'll only have to
+  use one basher. (Bashing in the middle of fences is generally not a good
+  idea unless I say it is.)
+
+-----------------------------------------
+Level 6   A task for blockers and bombers
+50 Lemmings (20% saved)
+RR 50   5 minutes
+-----------------------------------------
++ Since they all walk around the same general area in the beginning without
+  heading off anywhere else, you can just bomb the first one that comes out
+  without making him a blocker.
++ If you're not accustomed to the Walking Time Bomb trick, put a blocker as
+  close to the thin pole guarding the exit as you can and then blow him to
+  bits. If you can pull it off correctly, it just makes for good practice for
+  one of the Tricky levels...
+
+-------------------------------------
+Level 7   Builders will help you here
+50 Lemmings (50% saved)
+RR 50   5 minutes
+-------------------------------------
++ Build up to the raised platform ahead of you.
++ Build over the pit located in front of the exit. It doesn't matter if a few
+  Lemmings get caught in there.
+
+----------------------------------------
+Level 8   Not as complicated as it looks
+80 Lemmings (95% saved)
+RR 88   5 minutes
+----------------------------------------
++ Put a blocker near the opening hatch to guide the Lemmings to the exit
+  behind it.
+
+--------------------------------------
+Level 9   As long as you try your best
+80 Lemmings (90% saved)
+RR 99   5 minutes
+--------------------------------------
++ As soon as the first Lemming hits the ground, turn him into a blocker. The
+  others will initially pass through him and go to the right, but once they
+  come back around, the blocker will start to do his job. This is a useful
+  technique that you need to remember.
++ Bash through the pillar once you're safe from the shredders.
+
+-------------------------------------
+Level 10   Smile if you love Lemmings
+20 Lemmings (50% saved)
+RR 50   5 minutes
+-------------------------------------
++ Make the first one a blocker so that all other Lemmings are diverted to the
+  left.
++ Make the rest floaters. You can nuke after you've saved the minimum amount
+  if you want.
+
+----------------------------------------
+Level 11   Keep your hair on Mr. Lemming
+50 Lemmings (83% saved)
+RR 50   5 minutes
+----------------------------------------
++ Assign both a climber and a floater to the first two Lemmings out of the
+  hatch. From here on out, this combination of climber and floater will be
+  referred to as Athlete (the game's terminology, not mine).
++ When the first one is on the ground after surmounting the towering wall and 
+  is approaching the exit, make him a blocker.
++ Notice the arrows pointing left on the towering wall. This means you can
+  only bash through them in that direction. Knowing that, you know that it's
+  the other athlete's job to bash through that wall. Make him do just that.
++ Blow up the blocker so the other Lemmings can make it to the exit once the
+  athlete bashes through.
+
+-----------------------
+Level 12   Patience
+80 Lemmings (50% saved)
+RR 99   5 minutes
+-----------------------
++ Use the pass-through blocker technique at the beginning so that your flood
+  of Lemmings doesn't come back and spill off the edge into oblivion.
++ Bash through the wall.
++ When they fall into the alcove, use some builders to get yourself out of
+  there.
+
+---------------------------
+Level 13   We all fall down
+20 Lemmings (100% saved)
+RR 01   3 minutes
+---------------------------
++ This is the first level where the slight increase in splat distance between 
+  the floppy disk version and the CD version will apply. If you are playing
+  the CD version, the Lemmings will not splat if they walk off the edge of
+  the platform. If you are playing the floppy disk version, they will. The CD
+  version makes the other variations of this level extremely easy as well,
+  but if you have the dumb old floppy disk, use the step below to beat this
+  one.
++ Have every Lemming dig through the ledge. Speed the release rate up to
+  about 30 for now (raising it is absolutely necessary in later variations)
+  so the action doesn't move so excruciatingly slow. When every Lemming is at
+  the bottom and has made it to the exit, you've won. Not one Lemming can
+  slip through the cracks, or you'll have to start all over. This can be a
+  real pain in the butt with this version of the game, especially later on in
+  the harder difficulties.
+
+-------------------------------
+Level 14   Origins and Lemmings
+80 Lemmings (75% saved)
+RR 20   6 minutes
+-------------------------------
++ Either bash or mine through the first column in your way.
++ When you fall into the next area, you'll see a horizontal pillar stretching
+  out to the right between the two columns. You must build a bridge to that
+  general area so that when you bash through, your Lemmings don't end up
+  falling in the water.
++ When the bridge secures safe passage to the other side, bash through the
+  horizontal pillar.
++ Repeat the previous two steps once more to make it to the exit.
+
+------------------------------------------
+Level 15   Don't let your eyes deceive you
+80 Lemmings (50% saved)
+RR 40   8 minutes
+------------------------------------------
++ Don't use any blockers until you have bashed through the three large
+  columns in this level.
++ When you have completed the bashing, make the second Lemming in line a
+  blocker. This will let one of them pass to forge a path for the others once
+  the blocker is eliminated.
++ Build over the large pit. It should take roughly four to six bridges to do 
+  this, depending on where you start building from.
++ Build over the broken stairwell so that the Lemmings don't fall in and
+  catch themselves in the rope snare.
++ When that first Lemming has reached the exit, blow up the blocker and allow
+  the others to follow the trail.
+
+--------------------------------------
+Level 16   Don't do anything too hasty
+80 Lemmings (62% saved)
+RR 1    8 minutes
+--------------------------------------
++ Let one Lemming pass and make two others blockers in order to enclose the
+  others in a small space.
++ It will take the builder seven or eight bridges to make it to the top.
++ Once he's made sure it's safe, the others can go to "heaven," as it were.
+
+---------------------------------
+Level 17   Easy when you know how
+50 Lemmings (40% saved)
+RR 99   5 minutes
+---------------------------------
++ There is one sneaky little detail that this level doesn't bother to reveal:
+  along the bottom row are four mashers that remain hidden from sight. That's
+  what the big chunk of terrain is there for - to hide those stupid things!
+  Therefore, you must find a way around them. Not to worry, here it is.
++ Put a blocker near the far left hatch so that no one goes out into masher
+  territory.
++ Bash through all the column bases (except for the one on the far right) to
+  get the Lemmings in one big group.
++ Exhaust your supply of floaters (yes, all 20).
++ Bash through the column base on the far right to release everybody. The
+  floaters should survive and the walkers should go ker-splat. With twenty
+  floaters about, you should save the minimum requirement of 40% and no more.
+  There is, however, a special case (see below).
+
+SPECIAL CASE! If you are blessed with possession of the CD version, there is
+an interesting quirk in the programming that I don't understand but I love it 
+anyway. If you bash through the last column with a walker, everything will 
+occur as normal and your walkers will die and your floaters will live. If, 
+however, you bash through the last column using a floater, the floaters AND 
+walkers will survive! Ha ha! Tell me, how crazy is that? Oh! Oh! I need to 
+stop and breathe.
+
+-------------------------------
+Level 18   Let's block and blow
+70 Lemmings (71% saved)
+RR 80   5 minutes
+-------------------------------
++ Obviously, you don't want to use a bomber at a point where Lemmings will
+  fall into the fire boxes, so use blockers and bomb them in safe places. Do
+  this until you reach the bottom of the level and they can walk to safety.
+
+----------------------------------------
+Level 19   Take good care of my Lemmings
+80 Lemmings (70% saved)
+RR 20   8 minutes
+----------------------------------------
++ Let one go ahead while encasing the others within the confines of two able-
+  bodied blockers.
++ Start building to the exit at the middle of the last hill.
++ Once the exit is accessible, release the others.
+
+-----------------------------------
+Level 20   We are now at LEMCON ONE
+50 Lemmings (60% saved)
+RR 10   5 minutes
+-----------------------------------
++ Build over the first pit. Losing a few doesn't matter right now.
++ When the bridge is complete, put a pass-through blocker in place. Be
+  careful where you put him though. If he's on the edge of a step, Lemmings
+  can pass through him on the way back as well. Plant him firmly on a step.
++ Bash through the series of seven pillars.
++ Build to the exit and increase the release rate to finish the level faster.
+
+---------------------------
+Level 21   You Live and Lem
+80 Lemmings (60% saved)
+RR 50   8 minutes
+---------------------------
++ Bash through the rock until you get to the steel trap.
++ Build a bridge over it.
++ Let them pass to the exit.
+
+-----------------------------
+Level 22   A Beast of a level
+80 Lemmings (80% saved)
+RR 50   5 minutes
+-----------------------------
++ A Beast of a level? It must be a pretty tame beast. In any case, put a</pre><pre id="faqspan-2">
+  pass-through blocker at the beginning of the level.
++ Bash through the trees until you come to the end of the line.
++ Build a zigzagging staircase to the top.
++ Bash through the "home" tree to make the Lemmings home free. (That rhymes!)
+
+-----------------------------------------
+Level 23   I've lost that Lemming feeling
+80 Lemmings (25% saved)
+RR 50   8 minutes
+-----------------------------------------
++ First things first: place a blocker so that no one wanders into the lava.
++ Make someone bash through the wall to the left.
++ Put a blocker behind him so that the basher can bash in peace. (Also,
+  ignore the blood writings that say EXIT X - there are no exits there.)
++ Once through the large wall, which constitutes the bulk of the work, build
+  over the pit. You'll have to do this quickly, so have the builder task
+  ready to click on the basher as soon as he finishes.
++ Release the others when either exit (preferably the bottom one) becomes 
+  available.
+
+-------------------------------
+Level 24   Konbanwa Lemming san
+30 Lemmings (66% saved)
+RR 99   5 minutes
+-------------------------------
++ Where there's a ledge below the one your Lemmings start on, use a miner.
++ Use on the ledge you fall onto as well.
++ Use enough diggers above the platform that the exit is on so that less than
+  ten Lemmings get by (20 = 66%). One digger probably won't help a whole lot.
+
+---------------------------------------
+Level 25   Lemmings Lemmings everywhere
+80 Lemmings (50% saved)
+RR 99   5 minutes
+---------------------------------------
++ Let them walk up to the very top of the fence, then bash through the thin
+  wall at the end of the fence.
++ Dig however you have to get to the bottom of the web where the exit is. Use
+  blockers if necessary.
+
+----------------------------------
+Level 26   Nightmare on Lem Street
+2 Lemmings (100% saved)
+RR 30   5 minutes
+----------------------------------
++ Make both Lemmings build to the platform across from where they start.
++ Do the same thing again, this time building to the wall in front of the
+  exit.
++ When it is certain that neither of them will fall, bash through to the
+  exit.
+
+-------------------------------------
+Level 27   Let's be careful out there
+50 Lemmings (50% saved)
+RR 1    5 minutes
+-------------------------------------
++ Since it's too far of a fall to go straight down to the exit, put a blocker
+  in place so no one goes down there. You'll have to go all the way around.
++ Build over the tiny pit there to the left.
++ Put a blocker at the top of the steps to the far left.
++ When Lemmings begin turning around, start building to the ledge to the
+  right.
++ Make someone a blocker once they get to the other side to keep Lemmings
+  from taking an acid bath.
++ Build over the narrow pit to the exit.
+
+---------------------------------
+Level 28   If only they could fly
+80 Lemmings (60% saved)
+RR 80   5 minutes
+---------------------------------
++ Dig through the four platforms stacked on top of each other to start.
++ Once at the bottom, make a blocker guard the lava.
++ Watch as the Lemmings proceed left. You want one to start building up to
+  the zigzagging set of bricks that leads to the exit.
++ Put a blocker in front of the other lava pit so everybody is closed in.
++ Place a blocker at the top of the brick that the builder ascended to.
++ Continue this alternation between builders and blockers until you come to
+  the exit.
+
+-------------------------------
+Level 29   worra lorra Lemmings
+80 Lemmings (60% saved)
+RR 90   8 minutes
+-------------------------------
++ First off, put a blocker in the appropriate place.
++ Bash through to the left until the Lemmings fall into the space created by
+  the broken staircase.
++ When one Lemming turns around after hitting the brick to the right, build
+  your way out.
++ Build from the bottom half of the stairs to the pyramid above.
++ Bash through that pyramid.
++ Make a winding staircase up to the exit.
+
+--------------------------------
+Level 30   Lock up your Lemmings
+60 Lemmings (66% saved)
+RR 10   5 minutes
+--------------------------------
++ All you have to do here is bash through the wall when a Lemmings falls in
+  one of the narrow pits. If you happen to bash the wrong way, secure the
+  mistake with a blocker.
++ That's all for the Fun levels!
+
+
+                       T H E   T R I C K Y   L E V E L S
+
+----------------------------------
+Level 1   This should be a doddle!
+80 Lemmings (50% saved)
+RR 50   4 minutes
+----------------------------------
++ Man, there were Fun levels that were harder than this. But anyway ... start
+  off by letting one go ahead and using ONE blocker to leave the rest at bay.
+  (The left wall will hold them in sufficiently, so a second blocker is
+  negligible.)
++ Build over the small pit in the center.
++ Bash through the rock in your way.
++ Let the others go when the way is clear.
+
+--------------------------
+Level 2   We all fall down
+40 Lemmings (100% saved)
+RR 1    3 minutes
+--------------------------
++ It's this level again, except now you have twice as many Lemmings to mess
+  with. If you're on CD mode, max out the release rate and sit back while the
+  game does the rest. If you play on the floppy disk, raise it to 50 and work
+  twice as hard as last time to tuck those Lemmings safely away.
+
+---------------------------------
+Level 3   A ladder would be handy
+80 Lemmings (50% saved)
+RR 50   6 minutes
+---------------------------------
++ While one goes ahead to forge the trail, enclose the others within two
+  blockers.
++ When he gets somewhat near the edge of the cliff, have him dig and then
+  mine so the others don't fall too far and splat.
++ Start building a long bridge up in the middle of the first half of the 
+  bridge that the Lemming lands on. You should make it to the top after a few
+  minutes of building.
++ When the Lemmings become upwardly mobile, let them all go to the exit.
+
+---------------------------------------
+Level 4   Here's one I prepared earlier
+80 Lemmings (20% saved)
+RR 55   8 minutes
+---------------------------------------
++ Let all the Lemmings walk over the rock, and make three of them climbers.
++ When the three of them are over the rock with the left-pointing arrows, let
+  the first one go on and build his way to the exit. (He can walk over that
+  little gray lump at the end of the steel ledge.)
++ Make the second one a blocker so the third climber goes back and can bash
+  through the rock. He will climb over the large mountain to the left and
+  will presumably die, but there's more than enough room for casualties in
+  this level.
++ When the builder has successfully made it to the exit, blow up the blocker
+  so that the rest follow suit.
+
+---------------------------------------
+Level 5   Careless clicking costs lives
+80 Lemmings (20% saved)
+RR 20   5 minutes
+---------------------------------------
++ Have one guy block while another one goes on ahead to make a way for the
+  others as usual.
++ Bash through the "strings" or the spheres that "hang" from them to get to
+  the other side.
++ Build at the end of the fence to the crystal clump, then from the crystal
+  clump to the exit.
++ Release the others.
+
+----------------------
+Level 6   Lemmingology
+5 Lemmings (80% saved)
+RR 50   5 minutes
+----------------------
+NOTE: If you are playing the floppy disk version, make sure to make your
+      Lemmings floaters. If you have the CD, this is not necessary.
+
++ Make one Lemming into a climber. Make sure he's walking to the right or
+  it'll take a little bit of building to turn him around.
++ Have him build his way to the exit. You'll have to make him a floater if
+  you're playing off the floppy disk because of that long fall.
++ After a path is forged, make the other four climbers.
+
+--------------------------------------
+Level 7   Been there, seen it, done it
+75 Lemmings (73% saved)
+RR 20   5 minutes
+--------------------------------------
++ Assign the role of blocker to the first Lemming to fall out of the hatch.
++ Make the next one build to the left. Continue to make him build up to each
+  pillar all the way up to the last one.
++ Make sure two blockers keep the others in while he does this.
++ At the highest pillar, dig down a fair distance.
++ Bash or mine to the left to get out of the pillar.
++ Let the others come around.
+
+------------------------------------
+Level 8   Lemming sanctuary in sight
+80 Lemmings (60% saved)
+RR 40   8 minutes
+------------------------------------
++ Build a bridge to the left over the small pit. It doesn't matter if a few
+  Lemmings get by.
++ Put a blocker at the bottom of that bridge.
++ Build up to each successive floor. It is important to note that there are
+  tiny gaps at the end of each ledge - gaps that those Lemmings can fit
+  through. If a gap was one pixel wide, a Lemming could fit through. Remember
+  to build over these tiny holes as you make your way up. Other than that,
+  you should blow through this one easily.
+
+----------------------------------
+Level 9   They just keep on coming
+75 Lemmings (93% saved)
+RR 50   5 minutes
+----------------------------------
+NOTE: Since the level splits in two directions from the get-go, there are two
+      solutions listed here. The first solution is written for the left path,
+      and the second is for the right path.
+
+SOLUTION 1
++ Put a blocker to the right of the hatch. Let one proceed left while another
+  blocker keeps the rest in.
++ Build to the next steel ledge.
++ Build to the wall to the far left. If you run into it, mine through the
+  bridge somewhere near that wall. You shouldn't splat if you mine there.
++ Bash through the right-pointing mound of dirt.
++ Build a bridge to the exit and let the others go.
+
+SOLUTION 2
++ Put a pass-through blocker at the beginning. When one passes, make another
+  blocker to hold the others in.
++ Let that one Lemming who got by go ahead and build to the right until he
+  falls to the hill of dirt to the far right.
++ Dig through the middle of that dirt, then build to stop.
++ Mine to the left and build to get to the ledge.
++ Build to the cliff holding the exit.
++ Let the other Lemmings take the path the loner made.
+
+--------------------------------------
+Level 10   There's a lot of them about
+80 Lemmings (92% saved)
+RR 60   8 minutes
+--------------------------------------
+NOTE: There is a way to handle both sides of this level at the same time, and
+      in fact later you will have to. If you need help for this level though,
+      you're probably not ready for that kind of big business. This level
+      solution is written with the novice in mind - ergo, we will tackle both
+      sides separately.
+
++ You do, however, need to put sets of blockers on each side of the level.
+  Pausing between side switches makes this easier.
++ On the left side, with one Lemming allowed to pass, you need to bash 
+  through the wall in front of you.
++ Build to the exit.
++ Repeat for the right side.
++ Blow up the blockers that will allow the others to make the pilgrimage to
+  the central exit.
+
+--------------------------------
+Level 11   Lemmings in the attic
+50 Lemmings (84% saved)
+RR 20   8 minutes
+--------------------------------
++ Let one pass by as per the usual, then use a blocker to hold the rest in.
++ Build over the pit to the left.
++ Five bricks make up the ground the Lemmings start on. Build at the dividing
+  line between the first and second ones from the left. You should make it to
+  the thin wall that you can bash through.
++ Bash through the thin walls to the exit.
++ This last step is the most important about this level: DON'T BLOW UP THE
+  BLOCKER! You will blow a hole in the floor that will make a pit if you do.
+  This will mean the certain death of many a Lemming. Instead, build until
+  you have made a bridge over him.
+
+-------------------------
+Level 12   Bitter Lemming
+50 Lemmings (80% saved)
+RR 1    8 minutes
+-------------------------
++ Since the fall is too far for the Lemmings at the beginning, make the first
+  one out a floater. Keep the release rate at 1 for now.
++ Build zigzagging staircases until the Lemmings no longer splat.
++ Have the floater climb out of the narrow pit to the right.
++ Let him walk all the way to the edge of the plateau. Dig at that edge.
++ Build to the exit when you are quite a way down.
++ When the athlete reaches the exit, have the others build out of the narrow
+  pit.
+
+------------------------
+Level 13   Lemming Drops
+80 Lemmings (70% saved)
+RR 1   8 minutes
+------------------------
++ Assign a floater to the first Lemming. As soon as he hits the bottom
+  stairs, make him build. You have to do it when he hits the ground or you'll
+  most likely lose him. Also, as with the previous level, keep the release
+  rate at 1.
++ While the floater builds, put blockers on the steel block below the
+  entrance hatch.
++ Build a zigzag staircase up to the steel column.
++ Build to the next area.
++ There is a staircase leading up to two planks of wood, upon which the exit
+  is located. Build part of the way to it, then let the floater walk up the
+  staircase.
++ On the way back down, make a bridge that connects to the other one.
++ Build bridges until you have one that leads to the exit.
++ When there is a bridge available, release the others.
+
+-----------------------
+Level 14   MENACING !!
+80 Lemmings (87% saved)
+RR 50   6 minutes
+-----------------------
++ Make a pass-through blocker at the beginning. Let one Lemming pass (this is
+  getting terribly routine, I know) and put a blocker behind him to keep the
+  others at bay.
++ Bash through the grotesque hand, the skull, and the snake going through his
+  eyes.
++ Bash through the pile of bones.
++ Build a bridge over the large chasm and one up to the exit.
++ Release the others.
+
+----------------------------------
+Level 15   Ozone friendly Lemmings
+10 Lemmings (60% saved)
+RR 50   5 minutes
+----------------------------------
++ Bomb each Lemming as it comes out of the entry hatch and you should have a
+  hole to the bottom of the level and the exit. The only hitch here is that
+  you are provided with five bombers, but you must save 60% of the ten
+  Lemmings in this level - six of them. If you use all five bombers, you will
+  not save the minimum required percentage. Four bombers only - not five.
+
+-----------------------
+Level 16   Luvly Jubly
+50 Lemmings (80% saved)
+RR 76   5 minutes
+-----------------------
++ Mine into the ledge below you, but start bashing before the miner gets all 
+  the way through. You should end up on the side with the triangular fences.
++ Start bombing at a point, then bomb every Lemming after that a little
+  farther forward than the point before the previous one. This should make a
+  path to the exit since you don't have bashers available to you. You may
+  use the ten bombers given to you, but if you don't make it to the exit
+  after using all ten, you must start over.
+
+--------------------------
+Level 17   Diet Lemmingaid
+50 Lemmings (96% saved)
+RR 50   5 minutes
+--------------------------
++ Bomb anywhere you want on the first ledge below the hatch.
++ Below the downward jutting part (that has the fire blower on its left side)
+  is where you need to start the timer on the second bomber. Bomb in the
+  middle of that jutting part. Use the dividing line in the bricks as a gauge
+  of when to bomb.
+
+-----------------------------------
+Level 18   It's Lemmingentry Watson
+10 Lemmings (90% saved)
+RR 50   5 minutes
+-----------------------------------
++ Have the first Lemming dig through the third pillar. As he digs down, make
+  sure there is a thin part of pillar still on the right side.
++ One Lemming will walk out of the digger's hole - bestow the lone floater
+  upon him.
++ When the digger has burrowed sufficiently down, bomb him.
++ A hole will appear in the pillar that the Lemmings can walk out of without
+  splatting.
+
+------------------------------------
+Level 19   Postcard from Lemmingland
+50 Lemmings (100% saved)
+RR 50   5 minutes
+------------------------------------
++ Make the first Lemming out of the hatch an athlete.
++ When he climbs up to the first ledge, dig at the edge.
++ A little way down, build. Make sure the athlete runs into the ledge so that
+  he turns around. This is integral to completing the level.
++ Mine to the left, then bash when you're on the same level as the other
+  Lemmings.
++ The other Lemmings can then walk to the exit. Make sure to let the athlete
+  go to the exit as you need to save all the Lemmings to complete the level.
+
+-------------------------------------
+Level 20   One way digging to freedom
+80 Lemmings (95% saved)
+RR 60   4 minutes
+-------------------------------------
++ This level should have been put in Fun. This is just way too easy. To
+  start, put a pass-through blocker at the beginning.
++ Bash through the first wall in your way.
++ Make two Lemmings athletes.
++ The first one should be a blocker on the other side and the second should
+  bash through the wall pointing left (as the case was in "Keep your hair on
+  Mr. Lemming").
++ Make sure, however, that you put the blocker on one of the thick platforms.
+  If you put him on one of the thinner bricks, you'll blow a hole through and
+  all the Lemmings will meet the bottomless pit. If you bomb in the right
+  place, your victory is sealed.
+
+-------------------------------
+Level 21   All the 6's ........
+66 Lemmings (66% saved)
+RR 66   6 minutes
+-------------------------------
++ This is a straightforward level made ridiculously simple by the fact that
+  you get 66 of every tool. Not only that, but the level is just easy to
+  begin with. Have one guy bash through the first 6 and put a blocker behind
+  him.
++ Build over to the second 6.
++ Bash through it twice and build to the third 6.
++ Bash through the third 6 and let the others go.
+
+--------------------------------------
+Level 22   Turn around young lemmings!
+80 Lemmings (90% saved)
+RR 88   5 minutes
+--------------------------------------
++ Bomb the first two Lemmings out of the hatch.
++ Build to the left if necessary to get them out of the fabricated hole.
+
+---------------------------------
+Level 23   From The Boundary Line
+80 Lemmings (60% saved)
+RR 99   5 minutes
+---------------------------------
++ Bash through the wall using the first Lemming that gets to it.
++ While he's bashing, make him a climber.
++ When the climber is done bashing, you must have at least 49 Lemmings left
+  over. If you don't, you can't win, because 48 is 60% of 80, and that's what
+  you need to beat the level. If you have 49 when the climber is finished
+  bashing, go ahead. If you don't, start over. I say 49 because with the way
+  you're supposed to beat this level, the climber will have to die. If he's
+  the 48th one and he dies, you're down to 47, and that won't cut the
+  mustard. 
++ When the climber scales the wall and is headed for the exit, dig a small
+  bit before the exit.
++ Build to make him turn around. Make sure that when you build, the other
+  non-climber Lemmings will be able to walk up to the exit.
++ Mine to the left so that the other Lemmings can walk up through the
+  diagonal tunnel and watch as at least 48 of them head for the exit.
+
+-------------------------
+Level 24   Tightrope City
+80 Lemmings (93% saved)
+RR 85   2 minutes
+-------------------------
++ Let one Lemming trudge forward while you encase the others in a two-blocker
+  barricade. Put the blockers pretty close together.
++ When the one you let go along nears the exit, build up to it. It will take
+  two bridges.
++ You'll have to build over the blockers to get the others to safety. Make 
+  sure the bridge comes out in the right direction or all your escapades will
+  be for naught. Naught, I say!
+
+-----------------------
+Level 25   Cascade
+80 Lemmings (12% saved)
+RR 99   5 minutes
+-----------------------
++ You can only save as many Lemmings as there are floaters in your inventory.
+  Exhaust your floater supply. Try to space them out as evenly as possible.
++ Make the first one dig through the pillar it comes to.
++ Build to make him stop. Don't make the hole too deep - you will need to
+  construct a zigzagging staircase to make it out.
++ Make one floater an athlete so that he climbs out of the hole to the right.
++ Build to the long column you see. When he gets to it, have him bash so that
+  he doesn't turn around. If he turns around, he'll eventually die.
++ As soon as the column is bashed through, make a bridge to the exit.
++ Build out of the hole you dug awhile back. Make sure you come out in the
+  right direction or you'll have to start all over.
+
+--------------------------------
+Level 26   I have a cunning plan
+80 Lemmings (100% saved)
+RR 99   5 minutes
+--------------------------------
++ Although you are given blockers for this level, you won't be able to use
+  them since you have to save all the Lemmings here. What you have to do is
+  build yourself a Bridge Wall. (See Helpful Tips and Techniques.) If a
+  Lemming turns around as a result of building too far into another bridge,
+  you will have to start over. If one breaks through the Bridge Wall base,
+  you will have to start over. It will take the endless toil of about twelve
+  or thirteen builders to make it work.
++ Once it does work, bash through the column. You only have two stabs at it,
+  and with 80 of them in a crowded space, it doesn't always go as planned.
+  Both elements will have to come together to make this one work. If you have
+  to buy a new monitor because of this level, I don't hold myself liable.
+
+--------------------------------------
+Level 27   Island of the Wicker People
+80 Lemmings (90% saved)
+RR 60   5 minutes
+--------------------------------------
++ Let two go ahead and make the second one dig through the ledge the Lemmings 
+  start out on. The first one needs to dig a hole of his own, but needs to
+  come out ahead of the one behind him. Make them both climbers.
++ Hold the others with two blockers.
++ Near the bottom of the second one's digging, start mining. If there's one 
+  hole going straight down, there's going to be a lot of splattage.
++ Wait for them to climb over the large mountain with the arrows in it. The
+  first one needs to be a blocker sometime after you pass the steel ledge
+  with the exit on it.
++ Have the second climber build up to the exit.
++ Blow up the blocker at the beginning so that the others file into the hole
+  the digger made.
++ Put a pass-through blocker at the bottom of this hole and make one more
+  climber.
++ When he hits the blocker on the other side of the mountain, make him bash
+  through it on the return trip.
++ The others will then roam single-file to the exit.
+
+--------------------------
+Level 28   Lost something?
+80 Lemmings (90% saved)
+RR 70   5 minutes
+--------------------------
++ Stick a pass-through blocker under the entrance hatch.
++ If you haven't already noticed, it will appear as though there is no exit.
+  There is one, in fact. It's hidden in that large clump of dirt on top of
+  the thin steel ledge.
++ Build up to that large clump of dirt from the right side of it.
++ Bash, dig, and mine through it until you find the exit. The others will
+  walk to it.
+
+-------------------------
+Level 29   Rainbow Island
+80 Lemmings (98% saved)
+RR 70   4 minutes
+-------------------------
++ Put a pass-through blocker under the bottom opening hatch.
++ Bash through the top two rainbows.
++ In the middle of the second one, dig and mine to get them to the bottom.
++ Bash through to the exit. Remember not to let any Lemmings die in the
+  shredders - the blocker is the only casualty you can allow.
+
+-------------------------
+Level 30   The Crankshaft
+80 Lemmings (90% saved)
+RR 20   4 minutes
+-------------------------
++ Don't worry about this level being a race against the clock. You ought to
+  finish with a few seconds left to spare. Start by mining through the first
+  column in your way.
++ Make two of the Lemmings athletes. They need to go all the way to the end
+  of the level.
++ At every other column, let the lead athlete scale it, but make the second 
+  one mine through it.
++ Near the exit, make the lead athlete a blocker. You only need him to make
+  the other athlete turn around, so once he's done that, you can off him.
++ When the athlete is exactly between two pillars, start mining. This will
+  put him in a position where he will end up near the bottom of the column
+  so that the others can walk up into it.
++ Repeat the previous step once more so that the path is complete.
++ If everything goes as planned, all the Lemmings should make it to the exit.
++ That's all for the Tricky levels!
+
+
+                      T H E   T A X I N G   L E V E L S
+
+-----------------------------------------
+Level 1   If at first you don't succeed..
+80 Lemmings (98% saved)
+RR 40   4 minutes
+-----------------------------------------
++ Make an athlete climb over all three broken columns.
++ Use your two bashers on the first two columns.
++ Mine through the third. Your Lemming must be hugging the column as tightly
+  as possible for it to go through correctly, or else he'll mine through the
+  stairs and you'll have to restart the level.
++ When the miner has made a tunnel through the column, put a blocker as far
+  up against the stairs as possible. We'll come back to him in a second.
++ Raise the release rate to 99 to get all the other Lemmings out in a hurry.
++ Meanwhile, you have an athlete to deal with. Build over the large pit.
++ Build over the hole that would ordinarily land you in the rope snare.
++ Blow up the blocker once the path is laid out. If he's close enough to the
+  stairs, he should blow clear through them and allow the others to walk
+  mindlessly to safety.
+
+----------------------------------------
+Level 2   Watch out, there's traps about
+80 Lemmings (80% saved)
+RR 70   5 minutes
+----------------------------------------
++ Put a set of two blockers on each side of the level.
++ On the left side, mine, dig, and then mine again (all to the right).
++ On the right side, dig and then mine to the left.
++ Bash through the gray lumpy thing to the left and the rock.
++ Place a blocker while one goes ahead to make the way for the rest.
++ Make one small bridge over the steel trap.
++ Build up to the exit and let the others go.
+
+---------------------------------------
+Level 3   Heaven can wait (we hope!!!!)
+80 Lemmings (100% saved)
+RR 1    2 minutes
+---------------------------------------
++ First off, with a release rate of 1 and only two minutes on the clock,
+  there's no way 80 Lemmings are going to get to the exit in time. Pause
+  before the hatch opens (which will give you about two more valuable
+  seconds) and put it up to around 30.
++ Unpause and let one Lemming go by to be the builder for this level.
++ The one behind him needs to dig a holding cell. Dig a little bit and then
+  build to cut him off.
++ When the front man starts to go up to the exit, max out the release rate.
++ When the builder Lemming starts on his last bridge, focus on the group in
+  the hole. Build them out of their jam. Again, make sure they come out and
+  go the right way or you just did a whole lot for nothing. You should finish
+  by a close shave - just a few seconds.
+
+---------------------------------
+Level 4   Lend a helping hand....
+40 Lemmings (75% saved)
+RR 50   7 minutes
+---------------------------------
++ Put a blocker in front of the rope snare.
++ The right side is separated from the left by a stubborn wall of steel. Use
+  a Lemming over there to mine down to the left and then bash.
++ If he hits steel, use a blocker-bomber on the left side near the wall to
+  help out his buddies on the right. If he doesn't, build to cut him off at
+  some point.
++ Start on a zigzag staircase to the top of the level starting at about the
+  central right portion of the left side. You will have to work cunningly to
+  go around those pesky needles. Too many casualties will make you have to
+  start over.
++ Save one builder for the top so you can elevate your Lemmings to the exit.
+
+-----------------------
+Level 5   The Prison!
+60 Lemmings (75% saved)
+RR 50   5 minutes
+-----------------------
++ The first Lemming needs to dig at the edge of the brick until he hits the
+  patch of steel below.
++ Assign a blocker to the second Lemming to pacify the rest.
++ When the aforementioned digger hits steel, immediately build to the bar in
+  front of him.
++ It's okay if he turns around. In fact, I'd let him. It will give you time
+  to prepare for the meticulous detail involved in the task ahead.
++ Keep your fingers ready on the hot keys for this part. Bash through the
+  bar, then hit F7 and build as soon as you get through it. There are very
+  miniscule holes that separate the bars, and if you don't build over them,
+  your basher-builder will slip through the cracks with ease.
++ Repeat the bashing and building until you come out a free man on the steps
+  leading down.
++ Build a bridge to the lower exit. Bash through all four bars simultaneously
+  by bashing at the bottom of them.
++ When there's a clear road, set the others free.
+
+------------------------------
+Level 6   Compression Method 1
+50 Lemmings (60% saved)
+RR 99   3 minutes
+------------------------------
++ Don't be alarmed by the lack of floaters. You're going to beat this level a
+  different way.
++ Again, place a blocker next to the far left hatch so the Lemmings don't get
+  whacked by a bunch of mashers.
++ Have one on the far left side dig. Make sure he is FACING RIGHT.
++ Don't let him dig but for about two seconds. Then, bash to the right.
++ One sign that he is bashing correctly is that others will start falling
+  into the tunnel your basher is making. Everyone should do this. This tunnel
+  is the difference between victory and defeat. Also, it should look as if he
+  is about to stop because he doesn't have enough to bash, but he keeps on
+  going. That's another good sign.
++ The part with the steel is the Moment Of Truth. If you dug too far down,
+  the basher will come into contact with the steel and stop, in which case
+  you need to restart and not dig so far down next time. If he goes through
+  the steel and the base of the far right column at the same time, you were
+  successful. The difference in height will be enough to keep the Lemmings
+  from making the ground below a splatty mess. Try to save more than 60% if
+  at all possible.
+
+--------------------------------------
+Level 7   Every Lemming for himself!!!
+80 Lemmings (97% saved)
+RR 55   3 minutes
+--------------------------------------
++ Make the first Lemming a climber.
++ When two Lemmings are over the huge mountain to the right of the entrance
+  hatch, make the second one a blocker to hold the others back.
++ While you're waiting for the climber to go over the left-pointing rock, put
+  the release rate all the way up to 99.
++ Remember that the climber will just walk over the gray clump at the end of
+  the steel plateau, so build into it to turn him around.
++ Bash through the left-pointing wall.
++ Allow the climber to run into the blocker and turn around.
++ Have that climber build to the exit.
++ Just before he gets done, bomb the blocker and let the others walk to the
+  exit.
+
+-------------------------
+Level 8   The Art Gallery
+80 Lemmings (100% saved)
+RR 20   4 minutes
+-------------------------
++ Have the first Lemming walk over the arc of spheres.
++ Make the second Lemming out bash through it and build to hold the others
+  in. Remember to save them all.
++ With the Lemming you let by, forge a path as usual.
++ Bash through the other part of the sphere arc to let the others out.
+
+------------------------
+Level 9   Perseverance
+20 Lemmings (100% saved)
+RR 50   4 minutes
+------------------------
++ Make the first Lemming dig as soon as he hits the ground.
++ One Lemming will walk out of the hole and fall off the ledge to the right.
+  Use your only floater on him.
++ When that floater touches the ground, make him mine to the right and into
+  the steel block so that the others will turn around and head for the exit.
+  The two blockers are a ruse! DON'T USE THEM!
++ Raise the release rate to 99 so you don't have to worry about splattage.
++ After the digger is all the way through the hole, they will walk down into
+  the small mined tunnel, turn around, and head for the exit.
+
+-----------------------------------------
+Level 10   Izzie Wizzie Lemmings get busy
+5 Lemmings (100% saved)
+RR 50   5 minutes
+-----------------------------------------
++ Build a bridge so the five Lemmings can get out.
++ Build a similar staircase out of the second hole they walk into.
++ You will have to make each one that walks up to the top build to the next
+  one so that none fall. Try to use as few builders as possible to do this
+  since you only get fifteen of them.
++ At the next one, if you have the CD version, build a bridge up and let them
+  walk off. If you have the floppy disk version, build a small one up against
+  the wall and bash through to keep them from splatting.
++ After that, continue building to get to the exit.
+
+----------------------------------------
+Level 11   The ascending pillar scenario
+50 Lemmings (100% saved)
+RR 20   4 minutes
+----------------------------------------
++ Have the first one dig somewhere to the near right of the pillar you start
+  on. While he's digging, turn him into a climber.
++ Build to cut off the hole. The climber-digger will turn left and go out of
+  the hole in the desired direction.
++ Pause and put the release rate up to 99 to get them all out of that hatch.
++ Press F7 to set the taskbar on the builder and unpause the game. Make the
+  climber build, but NOT TOO CLOSE TO THE NEXT PILLAR. This is going to be,
+  indeed, a very taxing level. You must build up to each pillar so that the
+  builder barely finishes upon getting to it. If he turns around, you're in a
+  lot of trouble, because you need all the time you're given to beat this.
+  Make sure that for each pillar all the way up to the last one, you build to
+  it without running into it and turning around.
++ Once at the top, dig through the pillar.
++ Mine through it once you are quite a way down through it.
++ Build over the small pit.
++ Make a zigzag staircase going out of the hole at the beginning to the left.
+
+-----------------------------
+Level 12   Livin' On The Edge
+10 Lemmings (80% saved)
+RR 1    5 minutes
+-----------------------------
++ This level is made EXTREMELY easy by the fact that you can get away with
+  using two blockers at the beginning. While you make the first one build to
+  the wall, close in the other seven Lemmings with two blockers. Don't put
+  them too close to the builder's bridge though.
++ Bash through the wall when you come to it.
++ There's a reason this level is called Livin' On The Edge - when you come to
+  an edge, you need to build a bridge as close to it as possible. Except for
+  when you come out from bashing through the wall, you should use only one
+  bridge per edge.
++ When you have successfully used one bridge per edge, blow up the blocker
+  that is keeping the Lemmings from the exit. Really, this one should have
+  been in Fun, I think.
+
+---------------------------
+Level 13   Upsidedown World
+80 Lemmings (98% saved)
+RR 40   6 minutes
+---------------------------
++ Put a blocker to the right of the entrance hatch. This is the only
+  casualty you can spare in this entire level.
++ Mine as close to the right-pointing rock as you can. If you do it right,
+  they should come out on the thin bridge to the lower left.
++ Make a climber. He'll head over the ground to the upper left and start
+  heading toward the steel trap.
++ Mine under the steel trap. You might have to take a few tries to do this
+  right, and you can't just use another one, because you need your miners to
+  beat this level.
++ Once under the steel trap, start bashing. Your climber-basher should come
+  out near a very tall dirt mound with arrows pointing right.
++ Climb over it. When he starts walking toward the exit, build into one of
+  the roots sticking up to turn around.
++ This last part is the hardest of all. First, bash through the tall mound.
+  Then, dig just very minutely through it so that the others can walk up to
+  to the ledge. Finally, mine through it (the hardest part of this hardest
+  part - it has the biggest potential for backfire).
++ If you successfully get through it, bash through the dirt clump you come
+  to in order to release those congregated on the "V"-shaped bridge.
++ Hopefully you'll have it down!
+
+-----------------------------
+Level 14   Hunt the Nessy....
+80 Lemmings (95% saved)
+RR 30   8 minutes
+-----------------------------
++ Let one go ahead and continue building until he gets to the "Nessy's" neck.
++ Have two blockers keep the rest of them in.
++ When your builder gets to Nessy's neck, bash halfway through it.
++ At the halfway point, dig down.
++ Bash again to get out.
++ Build to the exit and let the others go.
+
+--------------------------------
+Level 15   What an AWESOME level
+80 Lemmings (80% saved)
+RR 50   6 minutes
+--------------------------------
++ Allow one brave Lemming to make the path for the others while two blockers
+  stave off the others.
++ Bash through the big worm's backside.
++ Keep bashing until you come to the last worm. There is a large dip here
+  that is nearly impossible to build out of if you fall. You can run into the
+  stars, but don't worry. They don't vaporize your builder or anything. If
+  you run into one, bash through it and continue building to the exit on the
+  worm's head.
++ Release the others upon finishing the path. Another special level come and
+  gone ... yawn... 
+
+-----------------------------
+Level 16   Mary Poppins' land
+80 Lemmings (95% saved)
+RR 50   3 minutes
+-----------------------------
++ Make three floaters.
++ Use a blocker to keep the rest of the Lemmings in.
++ Max out the release rate.
++ Let the two lead floaters continue on up the hill and go over. Make the
+  third one build into the slope so he turns around.
++ Immediately build a bridge to the ledge that the blocker is on. They'll
+  need something to step onto so that they don't splat.
++ Meanwhile, with the others headed near the exit, make the one in front
+  block it off.
++ When the other floater turns around, have him start building a bridge just 
+  before he gets to the brick over the lava. It should go up far enough to
+  again save the others from meeting with splattage.
++ Once all the bridge building is overwith, blow up both blockers that are
+  inhibiting forward progress.
+
+---------------------------
+Level 17   X Marks the Spot
+80 Lemmings (90% saved)
+RR 50   7 minutes
+---------------------------
++ Mine down to the right. It doesn't matter if a few get by. There's no way
+  eight of them will get by you, so it won't matter. Use a builder to cut off
+  the tunnel.
++ Let one go off to the left to do the bashing and have the one behind him
+  mine a tunnel to the left similar to the one going off to the right.
++ Bash and build to the exit as you did the last time you played this level.
++ Build out of the mined holding cell when there's a clear road to the exit.
+
+---------------------------------
+Level 18   Tribute to M.C. Escher
+75 Lemmings (87% saved)
+RR 50   5 minutes
+---------------------------------
++ Build a zigzag staircase starting when somebody turns around from hitting
+  the thin pole wall to the left.
++ Build it until you get to the top of the wall with the arrows pointing
+  left.
++ As soon as somebody walks on top of that wall, make him a bomber. This
+  should make him go off when you go to the other side and blow a hole so
+  that the Lemmings walk into it and don't splat when they hit the ground.
+  This hole is integral to completing the level. If you fail, repeat these
+  steps until you get it just right.
+
+-----------------------
+Level 19   Bomboozal
+70 Lemmings (91% saved)
+RR 80   2 minutes
+-----------------------
++ This is just like "Let's block and blow", except you don't have any
+  blockers. Knowing this, you'll also realize how many hours of toil you
+  could spend getting those Lemmings in just the right spot. However, that
+  shouldn't be a problem anymore. Words fail me when trying to explain how to
+  beat this level, so I've devised a nifty layout of the level that will let
+  you know exactly when to bomb. The numbers will tell you where to use each
+  bomber.
+
+  Numbers = where to bomb
+  Stars = fire boxes
+
+   |1    2                       |
+   |-----------------------------|
+   |  ****  |       |   ****     |
+   |-----------------------------|
+   |            |           |    |
+   |      ****  |          3|    |
+   |-----------------------------|
+   |     4          |    ****    |
+   |-----------------------------|
+   |      **** |    5            |
+   |-----------------------------|
+   |                         |
+   |                    **** | -> to exit
+   |----------------------------------------
+
+  On #4, make sure the Lemming is walking to the right before you bomb him.
+  Also, you can only use five bombers and no more. If you use any more, you
+  will not meet the level's minimum requirement of 91%.
+
+----------------------------
+Level 20   Walk the web rope
+80 Lemmings (88% saved)
+RR 50   5 minutes
+----------------------------
++ Put a pass-through blocker at the beginning.
++ Don't bash through the web at the very start. Build out to the left some.
++ Put a blocker at the end of the first bridge you build.
++ Build up to the right and hit the web.
++ Bash, build, and bash one more time. This will let you bash straight
+  through the web to the long thin ground ahead.
++ Bash through the second web to the exit. Raise the release rate to 99 if
+  you haven't already.
+
+-------------------------
+Level 21   Feel the heat!
+20 Lemmings (100% saved)
+RR 70   2 minutes
+-------------------------
++ Make a climber go up the wall to the right.
++ Have him build at the edge. The fire blowers are situated so that the only
+  way the Lemmings can safely reach the exit. Therefore, the bridge will have
+  to come to an abrupt halt at some point.
++ When the builder is directly over the exit, make him bash to stop. If he
+  falls in the exit without getting burned, it is safe for the others as
+  well.
++ Create another climber.
++ When he's up on the ledge, have him mine into the steel.
++ Mine in the other direction to let the others out of their alcove.
++ They should go into the exit and barely avoid the flames licking at them.
+
+-----------------------------------
+Level 22   Come on over to my place
+50 Lemmings (80% saved)
+RR 1    5 minutes
+-----------------------------------
++ Put a blocker to the right of the entrance hatch.
++ Build over the narrow pit to the left.
++ Mine through the stairs to the left. Use a builder to cut him off before he
+  gets all the way through.
++ Build up to the canopy-like ledge at the top of the level.
++ When the first one falls off the canopy and is heading toward the acid, dig
+  a little bit. Build to cut him off.
++ Build to the exit and raise the release rate to 99.
+
+-----------------------------
+Level 23   King of the castle
+80 Lemmings (95% saved)
+RR 40   5 minutes
+-----------------------------
++ You must use your builders sparingly in order to beat this level, and you
+  can only kill four of your Lemmings, so be careful. I'm going to give you
+  an inventory for this level instead of an explanation. This should make it
+  easier to know if your builder supply is wearing too thin.
+
+     3 builders for the pit to the left
+     3 to close it up on the other side
+     3 to get up to the second floor
+     3 to get up to the third floor
+     3 to get up to the fourth floor
+     3 to get up to the fifth floor
+
+  As you can see, you should have two builders left over in case you need
+  help in other areas. The biggest help I can offer is not to use too many
+  builders on the pit on the first floor. If you use too many there, you
+  won't be able to get to the top of the level.
+
+-----------------------------------
+Level 24   Take a running jump.....
+80 Lemmings (98% saved)
+RR 50   3 minutes
+-----------------------------------
++ Use as many builders as it takes to get over the first gap without letting
+  any Lemmings die.
++ Find the blue bricks in the bottom right corner. Where the two sections
+  appear to meet, there is a VERY thin gap right there that they can get
+  through. Have one build within that tiny gap. The one tile he lays will
+  keep the others from going through to the death above. That one Lemming
+  will then walk all the way to the top of the level and then to the left
+  before plummeting off a brick and dying. If you don't get what I'm saying,
+  you will when you see it all happen.
++ With the bridge tile in place, however, the Lemmings will turn around and
+  head for the exit. When they get down into the hole with the chain links,
+  build left out of it.
+
+-------------------------------
+Level 25   Follow the leader...
+80 Lemmings (90% saved)
+RR 20   4 minutes
+-------------------------------
++ You don't need to do anything until the first Lemming in line gets to the
+  very last hill. Have him build a little to the right of the middle.
++ Make the Lemming behind him bash through the left side of the last hill.
+  Build part of the way through to cut him off.
++ Make a hole pointing left in the hill next to it.
++ It will take four bridges for the builder to get up to the exit, and you're
+  using two of them to keep the bashers from bashing through hills until
+  there comes an end to the hills. That leaves you with one builder. You must
+  use him to successfully get out of the holding cell you've burrowed. If it
+  doesn't get them out of the hole or the builder goes the wrong way, restart
+  the level and repeat these steps until you get it. Also, at some point you
+  will need to max out the release rate.
+
+-------------------------
+Level 26   Triple Trouble
+80 Lemmings (98% saved)
+RR 80   5 minutes
+-------------------------
++ Speaking personally, I would have put this level in Mayhem, but I didn't
+  make the game, now did I? There is one thing you can do to ensure that
+  some of the Lemmings make it, however, and that is to create a digger just
+  to the right of the top hatch. You'll save one-third of them instantly.
++ Now concentrate on the lower left corner. Make a climber come out of the
+  alcove. As soon as he hops on top of the steel block, make him build to the
+  ring in the center. Do this until he has made a secure bridge connected to
+  the ring.
++ Repeat the previous step with a climber-builder in the lower right corner.
++ When one bashes through to the other side, he should clear out the ground
+  below the door. Have one of the climbers build up to the exit.
++ Now comes the Moment Of Truth that you'll have to face in some levels. Will
+  the throng of Lemmings in each corner be able to build out of their
+  respective shelters using only one builder each? Oh, the suspense! If you
+  do it successfully, you'll beat the level! If you don't, oh, who knows!
+  Start over, maybe! But not after you've come so far! If the Lemmings do get
+  out of their holes and make it to the exit - all of them (it is possible to
+  easily save 100%) - you can wipe your brow in relief and continue.
+
+------------------------------------
+Level 27   Here comes the bomb squad
+80 Lemmings (60% saved)
+RR 10   5 minutes
+------------------------------------
++ Put a pass-through blocker at the beginning of the level.
++ Put one up on the elevated yellow block as well.
++ Build up to the row of blocks upon which the exit rests until you hit your
+  head and turn around.
++ Put a blocker at the top of the bridge and blow him up.
++ Continue building, blocking, and bombing in this fashion until you have
+  made a hole clear through the blocks.
++ Build out of the crude tunnel and proceed to the exit.
+
+------------------------------
+Level 28   POOR WEE CREATURES!
+80 Lemmings (70% saved)
+RR 1    5 minutes
+------------------------------
++ Make the first Lemming a floater. He is the only one you can have in this
+  whole level.
++ Make him build a zigzag staircase until Lemmings stop splatting. This is
+  extremely difficult. Try to count how many you let die. If you kill more
+  than 24, you can't complete the level (70% of 80 is 56). Also, do not use
+  more than five builders while in this space.
++ If you make it work, make it so that a blocker keeps the Lemmings held in
+  while the floater goes ahead and makes a path.
++ Use two builders to get over the water.
++ Bash through the myriad crystals up ahead.
++ Another Moment Of Truth at the top of the fence: see that trap? It's sort
+  of a Ghostbusters-style thing that sucks Lemmings in and kills them. (See
+  the Appendix of Traps if you don't understand completely.) You must have a
+  spare builder in your inventory to get over it. If you don't ... too bad!
++ If you do manage to hurdle it though, blow up the blocker and let the
+  others enjoy paradise as well.
+
+--------------------------------
+Level 29   How do I dig the way?
+80 Lemmings (95% saved)
+RR 80   4 minutes
+--------------------------------
++ Let one Lemming go ahead while two blockers keep the others at bay.
++ Just like the last time you played this level, dig, bash, and mine through 
+  the ledge so the others have a path to follow down to the bridge so that 
+  they don't splat.
++ Odds are, if you're consulting this FAQ for help on this level, you're
+  despairing because your builders seem to be in rather short supply. Don't
+  worry, I can handle this easily. Only build over the water. Yes, you heard
+  me, only over the water.
++ When the builder is successfully past his watery grave, make him climb up
+  the plateau where the exit is.
++ Dig about an inch before the exit. You want to dig for about two seconds,
+  then build to cut him off.
++ As soon as he hits the wall and turns around, have him mine the long
+  distance down to the bridge. This will form a tunnel that will effectively
+  lead all the other Lemmings up THROUGH the plateau to the exit.
++ It's okay to let the climber fall into the water and die on his return
+  trip. Just blow up the blocker at the top and let the others walk through</pre><pre id="faqspan-3">
+  the brave miner's upward tunnel to victory.
+
+---------------------------
+Level 30   We all fall down
+60 Lemmings (100% saved)
+RR 1   3 minutes
+---------------------------
++ If you have the CD version of this game, you know the drill.
++ For floppy disk users, pause and put the release rate as far up as you feel
+  comfortable with. A good speed for this level would be about 70.
+
+
+                      T H E   M A Y H E M   L E V E L S
+
+-----------------------
+Level 1   Steel Works
+80 Lemmings (90% saved)
+RR 15   8 minutes
+-----------------------
++ Here is yet another level where the CD's increased splat distance factors
+  into play. You won't have to use a floater at the beginning if you play
+  with the CD, but if you have the floppy disk, make the first one out of the
+  hatch a floater. In fact, do that if you have the CD anyway. You'll need
+  him to be a floater for the next drop.
++ As soon as that floater hits the ground, make him build a bridge. The minor
+  change in fall distance is enough to save them all from high-altitude
+  deaths.
++ Put two blockers in place to hold back the others.
++ When the floater drops gently to the hole below, let him hit the wall to
+  the right and then turn around. In the middle of the hole, start building
+  your way out.
++ Once at the top, he will finally wind his way down to a very tiny hole.
+  Build one bridge to get out.
++ Erect bridges over the water. Dig when you find yourself over a steel
+  stepping stone and then start building again when you land.
++ When you get to the end of the water, start building a zigzagging staircase
+  up. You need to make it all the way to the top before your builders are
+  totally expended. Thirty may seem like enough, but it won't be if you're
+  wasteful with them.
++ When you are at the top, let the others go.
+
+-------------------------
+Level 2   The Boiler Room
+80 Lemmings (90% saved)
+RR 30   6 minutes
+-------------------------
++ Let one walk to the left and put a blocker behind him to ward off the
+  others.
++ Build as close to the steel wall as you can without actually hitting it. Do
+  this, and you will fall to the ledge below.
++ It is important to note here that no matter where you build, YOU CANNOT
+  BUILD UP THROUGH THE FIRE BLOWER! It doesn't matter how far away you get
+  from it; the flames are unbending in their death sentence on your blocker.
+  Instead, build to the part under the ledge that has the exit on it. Build
+  until you go up through the ledge. Make sure that you have built bridges to
+  keep the other Lemmings in that general area when they come up there.
++ Once the builder comes out on top of the ledge, turn him into a blocker and
+  blow a hole through the edge.
++ Release the others and make them build a short bridge to the exit.
+
+-------------------------
+Level 3   It's hero time! 
+25 Lemmings (100% saved)
+RR 99   1 minute
+-------------------------
++ Pause the game as soon as the level opens. If you wait for the sound
+  effects to go on before the hatch opens, you'll get an extra two or three
+  seconds out of this level - seconds that are sorely needed to beat it.
++ When you finally open the hatch, make the first Lemming an athlete.
++ Make the last Lemming in line mine through the ledge when he is above the
+  thin floor below.
++ Have that trailing Lemming that just mined bash through the wall with the
+  right-way-only arrows.
++ Build to fill in the tiny crack leading to the acid pool.
++ When the athlete gets to the floor above the exit, have him dig downward to
+  it.
++ Hope and pray that they all make it in time.
+
+------------------------
+Level 4   The Crossroads
+50 Lemmings (80% saved)
+RR 99   1 minute
+------------------------
++ Pause before the level starts as you did with the last level.
++ Open up when you're ready and let your Lemmings go to the top right corner
+  of the fence.
++ The gaps in the fences are bigger up here, so it's easier to get into the  
+  web by bashing through this top part and then entering through the middle 
+  of the web's left wall.
++ When you are inside the web, bash as soon as you get to each wall and
+  everything will turn out all right.
+
+----------------------------------------
+Level 5   Down, along, up. In that order
+80 Lemmings (75% saved)
+RR 80   5 minutes
+----------------------------------------
++ Dig down through the four platforms.
++ Station a blocker next to the lava as the Lemmings head right.
++ Put another one at the other end of the ground floor ledge.
++ Have someone build up to the first brick in the zigzag pattern (that leads
+  up to the exit).
++ Put a blocker on the left side of the brick.
++ When some Lemming walks up to that brick, make him build left so that he
+  runs into the blocker, turns around, and makes it to the next brick up by
+  using only one builder.
++ Repeat this clever process to the end of the level. If the Lemming does not
+  make it to the next ledge using only one builder, you must start over. You
+  only have five blockers to use, which is the minimum for completing this
+  task.
+
+----------------------------
+Level 6   One way or another
+75 Lemmings (100% saved)
+RR 50   4 minutes
+----------------------------
++ Make the first Lemming start building a bridge on the steel. When he has
+  built one tile, make him mine into the steel so he will go the opposite
+  direction of all the others.
++ Increase the release rate of 99 to get the others into the safe hole to the
+  right.
++ Have the deviant Lemming build over the hole between the steel ledges and
+  then to the wall to the far left. If you hit the wall, have him mine
+  through the bridge at a point that will not cause them to splat.
++ Build over the lump with the arrows pointing right (since you have no
+  bashers).
++ As soon as you start building the pivotal bridge that leads to the exit,
+  start multitasking and build the others out of their jam. You must go left
+  to get out. Try using only two bridges if at all possible.
+
+-----------------------
+Level 7   Poles Apart
+50 Lemmings (90% saved)
+RR 50   5 minutes
+-----------------------
++ Build only one bridge over the pit near the beginning. You will have to
+  sacrifice a few Lemmings, but make sure that no more than five die.
++ As soon as the first Lemming to successfully make it to the other side does
+  so, have him dig a small distance and then build out of his hole. This
+  ought to keep them from walking off into the pit at left.
++ Once you have secured the Lemmings in a comfy alcove, make one a climber.
++ When he gets to the top of the second pole, make him dig.
++ Build to the next one when you get to the ground.
++ Bash through it when you come to it. Make sure the climber DOES NOT turn
+  around.
++ Repeat the three previous steps twice more to escape the poles.
++ Build to the exit over the small hole before it.
++ When the path is cleared, have the Lemmings in their holding cell bash
+  through the first pole.
+
+---------------------------------------
+Level 8   Last one out is a rotten egg!
+80 Lemmings (90% saved)
+RR 55   5 minutes
+---------------------------------------
++ Allow one Lemming the chance to proceed while keeping the others in with
+  two blockers.
++ Build to the wall with the arrows that point left.
++ You can let the builder turn around when he runs into that large stack of
+  bricks. On the way back to the wall, turn him into a climber.
++ Your climber will eventually get to the top of the wall. When he is there,
+  have him dig at the right edge. Dig until you are at the perfect spot to
+  tunnel diagonally to the bridge on the other side.
++ When you are at that perfect spot, build to the right. He will turn around
+  soon enough.
++ Start mining when you get to the wall and pray that you gauged the angles
+  correctly.
++ If you did, you will end up back on the bridge you built at the beginning.
+  Make sure that the others can go up through the tunnel that you made.
++ When you get back to the right edge of the wall, dig some more. You need to
+  make a way down for the others.
++ When you are down enough that they won't splat, build one bridge.
++ Mine through it to cut it off in mid-build.
++ When the climber reaches the exit with success, allow the others to follow
+  in his successful footsteps.
+
+-------------------------------
+Level 9   Curse of the Pharaohs
+80 Lemmings (98% saved)
+RR 90   4 minutes
+-------------------------------
++ Put a blocker in front of the water. This is the only Lemming that is
+  permitted to die in this whole level.
++ Bash left through the part of the pillar that sticks out, the thin wooden
+  plank, and the pillar connected to the mess of bricks.
++ Dig through the left edge of the vertical brick just before the broken
+  staircase.
++ When your digging meets the ground, have the digger build out of the hole
+  (staircase and all).
++ Build up to the pyramid (use only two bridges if possible) and bash through 
+  it.
++ You now have either eight or nine bridges with which to make a zigzagging
+  staircase leading up to the exit. This is no simple task. Can you do it?
+  It all rides on your ability to build that bridge!
+
+------------------------------
+Level 10   Pillars of Hercules
+75 Lemmings (66% saved)
+RR 1    5 minutes
+------------------------------
++ Use up all three of your floaters at the beginning. Make your first one
+  erect a zigzagging staircase until the splatting ceases. Ensure that it is
+  at least as high as the two small ledges poking out of the middle of the
+  thin poles holding you in.
++ Have one of the floaters climb out to the left. The left path is far easier
+  to take than the right.
++ When he gets to the top, have him dig down to the smaller ledge below.
++ Build to each successive ledge until you get to the exit.
++ Max out the release rate and have one of them bash through to that tiny
+  middle ledge. They should all walk to the exit from there.
+
+---------------------------
+Level 11   We all fall down
+80 Lemmings (100% saved)
+RR 1   3 minutes
+---------------------------
++ CD users, yawn your way through the last of these dreary levels.
++ Floppy users, put the release rate up to at least 90 to have a chance at
+  winning here.
+
+------------------------
+Level 12   The Far Side
+75 Lemmings (100% saved)
+RR 50   4 minutes
+------------------------
++ Have the first Lemming out of the hatch climb out of this steel pit to his
+  left.
++ Dig through the dirt portion, then bash at the bottom to lead the others
+  out of it safely.
++ On the ledge you come out on, there is a bit of dirt between the two pieces
+  of steel. Mine down as far left as you can until you hit steel and turn
+  around.
++ Drop to the rock at the bottom and build to the hill to the right.
++ Bash through between the steel columns.
++ Once through, start zigzagging up to the exit.
++ While you're doing that, have the others build out of their hole to save
+  time. Multitasking will help you finish this one up with time to spare.
+
+----------------------------------
+Level 13   The Great Lemming Caper
+2 Lemmings (100% saved)
+RR 50   5 minutes
+----------------------------------
++ Have the first one build across to the next ledge.
++ Make the second one float down to the bottom.
++ When the floater gets to the bottom, have him bash through the brick.
++ While he's bashing, turn him into a climber as well.
++ Meanwhile, when the builder has finished his bridge, wait for him to drop
+  down and let him build to the wall in front of the exit.
++ If everything comes together correctly, the athlete at the bottom should
+  climb up through the bridge just before the builder hits the wall, and will
+  float down onto a finished bridge. This will put them both in the spot they
+  need to be in.
++ At this point, you can bash through to the exit.
+
+-----------------------
+Level 14   Pea Soup
+80 Lemmings (93% saved)
+RR 70   5 minutes
+-----------------------
++ Build up to the small ledge to the left and have a Lemming block there.
++ Start one building to the right - up to the bowl of "pea soup."
++ Have a Lemming dig through the bridge to keep others from going up with the
+  builders.
++ Use a combination of builders and diggers to go from meatball to meatball
+  (or whatever the heck those brown humps are). It will take a while to get
+  across the "bowl."
++ When you have made a path to the exit, fill in the hole in the bridge.
+
+SPECIAL NOTE: On some older computers, the meatballs or whatever they are 
+will not show up due to certain color configurations or palette changes. If 
+this happens to you, you're obviously going to have a hard time beating this 
+level. Therefore, it is in your best interest to locate the password to the 
+next level, or just die a whole lot trying. Perseverance is key!
+
+-----------------------------------
+Level 15   The Fast Food Kitchen...
+80 Lemmings (75% saved)
+RR 60   3 minutes
+-----------------------------------
++ Multitasking is your best friend here. Handle both sides of the level at
+  the same time and you will do just fine.
++ Put a set of two blockers on each side while letting one Lemming pass.
+  Pausing while switching sides of the screen will make this tons easier.
++ Have each bash through the obstacles on their respective sides.
++ You will get five builders for each Lemming on each side. This is probably
+  more than enough to handle it, but go ahead and make each one build up.
++ Keep your eyes on both of them simultaneously, making each one build again
+  when they run out of tiles.
++ When each is near the end of the line, release the trapped Lemmings on
+  their side. Done all at the same time, this one is a real piece of cake.
+
+---------------------------
+Level 16   Just a Minute...
+50 Lemmings (100% saved)
+RR 10   1 minute
+---------------------------
++ This is by far one of THE most hellish levels in the game. If you do it the
+  way I tell you to, you can just repeat this solution for another variation
+  of this level that you will have to play later.
++ Have four Lemmings bash through the large wall in front of you at once.   
+  Only make them bash as they come to the wall.
++ Have the fifth dig behind them a little of the way down.
++ After digging far enough that they can't walk out to the left and into the
+  shredder behind the entrance hatch, start making him bash as well.
++ Raise the release rate to 99.
++ Hopefully, all your Lemmings will make it to the exit just in time. You'll
+  never finish this level with more than one second left, I promise you.
+
+--------------------------
+Level 17   Stepping Stones
+80 Lemmings (88% saved)
+RR 50   4 minutes
+--------------------------
++ Let one go to the edge while the others remain held back by a blocker.
++ Build as close to the edge as possible to the VERY thin ledges ahead. Each
+  is just barely out of the reach of two bridges, so you'll have to build one
+  step of a third bridge and then bash to cut it off.
++ As soon as he bashes and falls to the single pastel tile, start building
+  again.
++ Continue to the end of the level in this fashion. The easiest way to do so
+  is to keep your fingers hovering over F7 and F8 at all times. These two hot
+  keys will be your best friend in this level.
++ After building to the exit, you will have only one builder left. You must
+  use this one builder as a means of getting past your blocker. If you don't
+  make it, you'll have to start over. Sorry, kid - them's the breaks.
+
+---------------------------------------
+Level 18   And then there were four....
+80 Lemmings (90% saved)
+RR 1   9 minutes
+---------------------------------------
++ This is not a difficult level, and it doesn't even take a very long time to
+  beat as the clock would suggest. First, concentrate on the upper hatches.
+  They are the ones that need your attention the most.
++ On the left side, have a Lemming build over the pit looming over the water
+  while a blocker keeps the others safe.
++ Meanwhile, on the right side, you need to dig a hole near the end of the
+  dirt cliff to prevent splatting. Place a blocker to keep those Lemmings up
+  there held in as well.
++ Attending to the left side once more, you need to watch the guy that was
+  building until he gets to the steel edge by the water at the bottom.
++ Build a zigzag staircase up to the exit's level. It doesn't matter if there
+  are holes near where you run into the walls and turn around. A guy in the
+  lower left corner will fill them in a little bit.
++ Watch for your Lemming on the right side as well. Have him build left over
+  the water when he gets near the exit.
++ Have each build one small bridge over the steel humps.
++ When this has been accomplished, blow up each blocker at the top level.
++ In the two lower arenas, get a climber to come up out of each one and build
+  a zigzag staircase up to the exit level. For the one on the left, make sure
+  his connects with the one that is already there to prevent water deaths.
++ When each staircase is complete, you can build those remaining out of their
+  shelters.
+
+--------------------------
+Level 19   Time to get up!
+50 Lemmings (92% saved)
+RR 20   5 minutes
+--------------------------
++ Make the first two Lemmings climbers.
++ Bomb the first one in such a spot that he explodes right on the first thin 
+  wall blocking the exit.
++ To make a straight hole through that thin wall, bomb just a little bit
+  after the point where you bombed the first climber.
++ By now other Lemmings should be toddling about on the ground. Make the
+  second one in the line a blocker, leaving one to build up to the hole that
+  was just made.
++ Build up to the hole the climber-bombers made. Be sure that you connect it
+  to the wall with no holes that any others could potentially slip through.
++ Build up over the blocker to release the others. They will slowly ascend
+  the staircase.
++ Bomb the next Lemming as soon as he walks into the bombed hole. This should
+  put him at the wall when he goes off.
++ Bomb another one just after that point to finish the job.
+
+---------------------------------------
+Level 20   No added colours or Lemmings
+50 Lemmings (100% saved)
+RR 85   5 minutes
+---------------------------------------
++ Make the first Lemming bash through the column ahead.
++ Put a blocker behind to hold the others back.
++ If you build at the very edge of the platform, you should hit it and turn
+  around. You want this to happen.
++ Mine under the blocker to make him a walker again. The miner will go all
+  the way down to the bottom.
++ Have the last Lemming in line at the top mine through the end of the
+  bridge. This will create a hole that he and the miner who went through to
+  the bottom can climb up through.
++ Have them both climb out of the lower area.
+
+-----------------------------------------
+Level 21   With a twist of lemming please
+50 Lemmings (100% saved)
+RR 1    5 minutes
+-----------------------------------------
++ Make every single Lemming out of the hatch a floater. You have enough for
+  the job. Feel free to speed up the release rate to a comfortable setting.
++ When they are all made into floaters, have one take on the daring task of
+  becoming an athlete.
++ Where the tallest vertical part of the plateau meets the shortest part,
+  dig. Dig almost to the very bottom, by the column parallel to the exit.
++ When you are there, build to it and then to the exit.
++ You only get one chance to bash your way out of the pit holding the other
+  Lemmings, so discern which direction they are walking in and bash with
+  high hopes! If they make, they will eagerly follow the athlete's trail to
+  paradise. 
+
+-------------------------------
+Level 22   A BeastII of a level
+80 Lemmings (85% saved)
+RR 75   5 minutes
+-------------------------------
++ Do the two-blocker-encasing thing that's so boring to all of us by now. Oh,
+  and let one Lemming proceed to make a way, of course. I'm stifling a yawn.
++ Build to and bash through each chandelier.
++ Ahead is a horribly disfigured object that you will have to bash through.
+  It looks to me like a tree blown horribly out of proportion. There are
+  several unanticipated empty spaces in it, so only bash as necessary.
++ When you come out, build across the pit.
++ Bash through to the end of the level.
++ Let out the others.
+
+--------------------------
+Level 23   Going up.......
+80 Lemmings (80% saved)
+RR 70   9 minutes
+--------------------------
++ Use one basher to get through the diagonal wall to the right.
++ When the Lemmings make it to the top, they will turn around and start
+  walking left. Have one build his way out of the diagonal tunnel.
++ Build a bridge that extends upward and left to the very top of the level.
++ Bash through the top of the wall. While the basher is doing his job, turn
+  him into a floater.
++ The floater should land on an incline going up and left.
++ Build a bridge out to the right to prevent Lemmings from splatting here
+  upon their arrival.
++ At the end of that bridge (an end you will determine), make the building
+  floater a blocker.
++ Let the others go. Get them out of their rut and over here.
++ When they get to the same incline that the builder-floater-blocker was on,
+  have the leader bash through the sphere at the top. They'll do the rest on
+  their own.
+
+-------------------------
+Level 24   All or Nothing
+50 Lemmings (100% saved)
+RR 99   1 minute
+-------------------------
++ With only three bashers in your inventory, it's do or die time. If you
+  screw up even once, you have to start over. A good tactic I can offer
+  here is to wait only a split second after the first Lemming falls in the
+  narrow gap to bash. This is defined by the time it takes him to hit a
+  wall and turn around once. Only your own mad skillz will lead you to
+  victory, though. Good luck.
+
+---------------------------
+Level 25   Have a nice day!
+80 Lemmings (90% saved)
+RR 1    5 minutes
+---------------------------
++ Use the same level solution that you used for "Lemming Drops" (13 Tricky) 
+  to beat this one. The only difference is that you will have to build your
+  way over the blockers instead of blowing one up.
+
+------------------------------------
+Level 26   The Steel Mines of Kessel
+80 Lemmings (75% saved)
+RR 50   8 minutes
+------------------------------------
++ Use blockers and bombers to pass through the wall to your right. Bomb at
+  the thinnest parts of the wall to use the lowest amount possible. This
+  alone will make you spend approximately half your blocker and bomber
+  supplies.
++ After successfully excavating through this wall, let one proceed while a
+  blocker holds the rest back.
++ Make that blocker build up to the thin slice of dirt. (Do you see what I'm
+  getting at already? Good!)
++ When he is across to the other side, have him block on that thin slice and
+  bomb him to kingdom come. This should make a hole for the others.
++ Explode the blocker and let the others continue to the steel trap. If
+  you worry about losing too many, have a blocker stave off the others while
+  a loner builds over the trap.
++ After a bridge has been constructed over the metal death, allow the others
+  to trudge onward to the exit.
+
+-----------------------------------
+Level 27   Just a Minute (Part Two)
+50 Lemmings (100% saved)
+RR 10   1 minute
+-----------------------------------
++ The fundamental difference between the first Just A Minute and the second
+  is that there is a small ledge missing from this one that was a part of
+  the first one. Other than that, the two are identical. You shouldn't need
+  this ledge to complete the level, however, because I saw into the future,
+  so to speak, when writing that level solution. Use the same solution I
+  wrote for that level to beat this one. (It's 16 Mayhem, in case you're not
+  aware.) You'll have to depend on the same luck to beat this one that you
+  did for that one.
+
+-----------------------------
+Level 28   Mind the step.....
+1 Lemming (100% saved)
+RR 1    7 minutes
+-----------------------------
++ Let the lone Lemming in this level walk upstairs. Have him dig directly
+  above one of the tiny ledges below.
++ Once down there, build your way over to the bricks on the tallest spaghetti
+  pole.
++ Dig a short distance into those bricks and build to turn the Lemming
+  around.
++ Fall to the small ledge below and build one bridge to each successive one.
++ Eventually you will build to a thick column. Bash halfway through it, dig
+  down some, and then bash your way out of it when you're down far enough.
++ Keep on building and bashing until you are on the set of stairs that leads
+  down to the bottomless pit.
++ Build to the under part of the stairs to your upper left. It may take a
+  while to get it connected to that part so you can bash through, but take it
+  one bridge at a time. Do not go on a bridge-building rampage trying to get
+  up there. You will run out of builders faster than you think if you try any
+  monkey business.
++ Once you do bash through, make absolutely sure you have a builder left over
+  to get over the masher. Notice that because of the presence of steel, you
+  cannot go under it.
++ Walk to the wall at the bottom of Masher Hill. If you have a basher left
+  over after all this, then by gum you beat the level!
+
+-----------------------
+Level 29   Save Me
+80 Lemmings (80% saved)
+RR 50   5 minutes
+-----------------------
++ Put blockers at the ends of the steel ledge.
++ Have one of the Lemmings build outward to the right. It helps if he is
+  pretty far left when he starts building.
++ Make another Lemming build on the bridge that the first builder is making.
++ At some point, have one Lemming dig a hole through the bridge behind the
+  builder. The others will leave the builders alone while they are free to 
+  build.
++ When the original builder is far enough out for a staircase going left to
+  be built, make him a blocker. 
++ The other builder can now stop building and make one going out to the left.
+  Get him up to the top of the steel ledge above the entrance hatch.
++ Build to the broken column pointing down.
++ Bash through it halfway and then start digging.
++ When you're far enough down not to splat, bash through again.
++ Allow him to walk all the way to the end of the walkable ledges.
++ When he falls to the steel ledge above the exit, make him a blocker.
++ Build over the hole you dug in the bridge at the beginning of the level.
+  The Lemmings will start heading for the exit. They should turn around when
+  they fall on the blocker near the end.
++ When one lands on the ledge with the exit, make him a blocker as well. The
+  rest of the Lemmings will go down to the exit.
+
+-------------------------------------
+Level 30   Rendezvous at the Mountain
+80 Lemmings (75% saved)
+RR 20   9 minutes
+-------------------------------------
++ Increase the release rate to 50, first of all. The Lemmings will come out
+  of each hatch faster if you up it to that level, and it will be easier to
+  keep track of them.
++ Pause it at the beginning and go all the way to the right.
++ Unpause and put a blocker there to keep the others from falling off the
+  edge of the known universe.
++ Pause again and rush back to the other side. For now, you're done with the
+  right half of the level. Possibly, by now, your Lemmings have encountered
+  the dreadful retractable boulder trap. This thing is a real menace to you
+  and should be evaded upon realization that it can kill your Lemmings.
++ To do that, put a blocker in front of all the Lemmings on this side except
+  for one. He needs to mine under the boulder's trajectory.
++ When he is sufficiently below it, bash until he is out. The boulder near
+  the trap one that looks identical is, in fact, not a trap - totally safe to
+  walk under.
++ Bash through the large monolith-style rock.
++ Build to the hill ahead and over the steel trap on it. You will have to
+  bash through the quaint little well to get by it, too.
++ Bash through the large columns of dirt, building over the water ever so
+  carefully so as to make it safe for the others.
++ After you're out, just build a tiny little bridge so they don't all end up
+  in that crack at the bottom of the mountain. They can walk up the rest of
+  the way.
++ Blow up the blocker on the left side and send half of your last batch of
+  Lemmings to safety.
++ Now we travel over to the right half. There is undoubtedly now a
+  respectable throng of the little green-haired creatures romping about. Make
+  one of those roaming hairballs a blocker so that one is trapped off to the
+  left and can also make a path for the others.
++ Bash through that lump of gray crud to your left.
++ Construct a zigzagging staircase that ends just above the arrows forcefully
+  pointing against you.
++ Bash through that spot of leeway and drop to the bottom. A few parts that
+  stick out from the gray lumps will break your fall.
++ Yes, you must bash to get past that tiny insignificant signpost.
++ Build over the activator button for the 10-ton weight. In fact, while
+  you're at it, build up to the rocks by the water. If you get up far enough
+  on them, the builder should at some point be able to leisurely walk up
+  them.
++ Keep on building up and left and before you know it, you'll have a viable
+  pathway to the game's last exit.
++ Let the others go and watch as the game you've invested hours in ends
+  before your very eyes.
++ Congratulations on beating the Mayhem levels! And also the entire game!
+
+After this, you will see a rather minimalistic congratulatory screen telling 
+you that you are now a Lemmings Elite Master and that you have successfully 
+completed the Save the Lemmings Campaign and a bunch of other nonsense that 
+all packs up into a nice, trite ending. From here, it's your choice as to 
+what to do with the game. You can go through it again; you can play its 
+pseudo-sequel "Oh No! More Lemmings" (under my strong recommendation); or you 
+can lock it up in that vault where you keep all your old games and never lay 
+eyes on it again. I frankly don't care what you do, but anyway, 
+congratulations for beating Lemmings! It's a very hard game! You should be 
+satisfied!
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+                        CREDITS & LEGAL DISCLAIMERS
+                        ===========================
+Finally, my second-longest FAQ ever comes to a close. This is more than just 
+an FAQ to me. It's a big investment of time into helping the befuddled masses 
+with a game I love a lot. Rest assured that this one is more eloquently 
+worded than its primitive predecessor. It took me a lot longer to write this 
+one than the last one, and I hope the amount of work I put into it is a 
+testament to that. This is, of course, barring the fact that I am (almost) a 
+Lemmings master and it took me five days to write what would take anyone else 
+nearly a month or more. Yes, I am bragging. So what, who cares. Hopefully 
+soon I will also have put together a very comprehensive guide for Oh No! More 
+Lemmings, a Lemmings pseudo-sequel with far more depth than this masterpiece, 
+if you can imagine that.
+
+This FAQ is not my work alone, but is a conglomeration of the input of 
+several other people as well. I've got the following people to thank for the 
+development and publication of this long document:
+
+** Neal Lundberg. He led me to GameFAQs and I went off running in my own
+   direction. He also helped get me started on the road to writing my own
+   FAQs, even though he's never had anything published on that site. Major
+   thanks to him, for this is now the 23rd published FAQ of mine on the
+   Internet. I wouldn't be in this business without him.
+
+** A company called VTM Hypermart makes a nifty little utility called LemEdit
+   that I used while making this document. It has detailed maps and vital
+   statistics of most of the game's levels that I used frequently to help me
+   out some. I thank both the utility and the company that made it, for it is
+   a fun and easy program to use (it lets you make your own levels, even!)
+
+** I say that I am ALMOST a Lemmings master because even I, the FAQ Writer
+   Himself, am fallible. I got help - and the solutions - for two levels that 
+   especially hurt my brain from R. Rouse's FAQ on GameFAQs (20 and 29  
+   Mayhem). He is a great Lemmings strategist and his FAQ is a masterful
+   document.
+
+** My dad, who bestowed upon me the laptop with which I write nearly all my
+   FAQs.
+
+** All those who have helped to develop my gifts of writing, spelling, and
+   forming sentences, without which this FAQ would not have been possible.
+
+** DMA Design for developing this awesome game.
+
+** Psygnosis for publishing this awesome game (that put them on the map!).
+
+** Slash Corporation for distributing an awesome CD containing this and Oh
+   No! More Lemmings.
+
+** GameFAQs and any other site that posts this FAQ.
+
+If you wish to use this on your site at all, I have guidelines regarding the 
+legal use of this document on your website. First of all, the biggest of 
+these is to first ask for permission before you use the document. All you 
+need to do is send me a simple query of consent and make it short and sweet, 
+and it's almost 100% likely the answer will be yes. I haven't had to worry 
+about anyone jacking my intellectual property yet, and I don't want to have 
+to.
+
+After gaining the permission to use this document, do not change the text in 
+the transition from one site to the other. Every word, every letter, and 
+every space must remain as it is currently written. Any modifications are 
+strictly forbidden by the disclaimers in this section of this document. While 
+I don't allow changes to the text, changing the structure by any means (such 
+as adding pictures) is perfectly fine by me.
+
+Don't sell this document for money. Should a person need this for purposes of 
+help but is without Internet access, give a copy to them for free with a 
+smile on your face. I don't like my intellectual property sold for others' 
+profit. If you're going to link to the walkthrough instead of using it on 
+your site, link to the page containing the link. That link will be on 
+GameFAQs, which is the site that all my walkthroughs go to first. Since I 
+like the rule, I tend to abide by it. Lastly, and most importantly, DON'T 
+PLAGIARIZE, or I will hunt you down like a helpless little forest animal and 
+legal repercussions will come into play. Plagiarizing is not only illegal, 
+it's incredibly stupid. I think I can tell if my own work's been illicitly 
+duplicated.
+
+This version of this walkthrough (1.1) is (C) July 22, 2002 by Snow Dragon, 
+all rights reserved. The latest version of this walkthrough can always be 
+found first at GameFAQs.
+
+Have a nice day, and have fun playing Lemmings!
+

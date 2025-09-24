@@ -1,0 +1,792 @@
+============================================
+=   WACKY WORLD OF MINIATURE GOLF **FAQ**  =
+=             for Philips CD-I             =
+=------------------------------------------= 
+=           by cbcunix@gmail.com           =
+=------------------------------------------=
+=                                          =
+=         Version 2.0,   4/3/2013          =
+=                                          =
+============================================
+
+~~~~~~~~~~~~~~~~~~~~~~
+# (1.0) Introduction
+~~~~~~~~~~~~~~~~~~~~~~
+
+Welcome to the Wacky World of Miniature Golf FAQ! This quirky Philips release
+has been the butt of many gaming jokes, mostly related to its corny jokes, but 
+also pertaining to its ridiculous gameplay timing. For example, Dragon's Lair 
+II and Supreme Warrior, both FMV titles with extremely difficult button timing, 
+have *nothing* on certain holes-in-one within this "children's" title.
+
+Voice Narrated by Eugene Levy, famous comedic actor who most recently 
+headlined the "American Pie" series of movies, his commentary overall is quite 
+funny, sarcastic and quirky. Despite being prepared by Philips's Sidewalk 
+Studios (known for children's game development), however, this title is 
+definitely NOT for kids. Pictorials of people being hung in trees, half-naked 
+women, dismembered dinosaurs, and adult humor for which the target audience 
+couldn't even possibly understand, duly represent the game's highlights.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# (2.0) Controls and General Play Info
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Playing the game is quite simple, on its face, though perfecting one's score 
+is quite difficult and patience-testing. Basic controls are as follows:
+
+Action Button (gray button on 4-button pad, first button on 3-button pad) = 
+	use to execute the shot, enter your name, etc.
+
+You can shoot to the Left(L), Middle(M), or Right(R), go back to the 
+clubhouse (Club House, exit), check your score (...), or skip the current 
+hole (..., if you have reached the stroke limit).
+
+In order to succeed in this game, one needs to TIME each shot perfectly. One 
+rule of thumb to follow, is to *pay attention to animation changes* on the 
+screen. 
+
+For example, on the '1,000,000 Years B.G.' hole, if you did not make the 
+'Hole-in-One', then the process for the second shot is as such:  
+    
+	Wait for the T-Rex's tail to come down flat on the green, and press the 
+	'Shot' button upon the tail *JUST STARTING* to come back up
+	
+The window of time needed to make this shot is 1/2 to 1 second; it makes one 
+wonder why Philips's Sidewalk Studios playtesters didn't think that the game's 
+difficult timing would not be suitable for its intended audience (which was 5 
+to 12 year old children).
+
+
+    ~~~~~~~~~~~~~~~~~~~~~
+	* (2.1) Stroke Limits
+    ~~~~~~~~~~~~~~~~~~~~~
+	The game allows you nine strokes per hole, upon which you will reach the 
+	"Stroke Limit". The screen shows a golfer slamming his golf club against 
+	the ground, while Eugene Levy provides you with one of his 'famous' smart 
+	aleck comments. Afterwards, a new option will appear to the left of the 
+	"L" shot selector, allowing you to "Give Up" the current hole, and proceed 
+	to the next hole.
+	
+	Any shots made after reaching the 'Stroke Limit', will not add to your 
+	score, hence limiting your score to a maximum of nine per hole.
+
+	
+	~~~~~~~~~~~~~~~~~~~~~
+	* (2.2)  Holes-in-One
+	~~~~~~~~~~~~~~~~~~~~~
+
+	Believe it or not, you can make a hole-in-one shot on every hole, 
+	theoretically giving you a score of 18 for the game. At first, I truly did 
+	not believe that there were hole-in-one shots for every hole, as the timing 
+	required to merely par each hole was difficult enough. Nonetheless, there 
+	*are* indeed holes-in-one shots for each hole, with the only timing 
+	indicator usually being minor changes in animation.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# (3.0)  Walkthrough of all 18 Holes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The order in which the holes appear during gameplay, are mostly random. The 
+first six holes listed here, tend to show up in the first nine playable holes 
+most often; stages such as the 'Perils of Pollyanna' and 'You Never Putt Twice' 
+are usually never played in the first nine holes. 
+
+
+######################################
+--------------------------------------
+-  The Don't Mess With My Bike Hole  -
+-      Par 3          Limit 9        -   
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   when the head of the biker is
+    -----   under the window, of the house
+	        on the left
+			
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   when both motorcycles become
+    -----   clear of the putting path
+	
+			NOTE: press button *just
+			when* the motorcycle in the
+			foreground exits to the right
+			of the path, as it is going
+			from left to right
+			
+2.  -----
+   |  M  |   when the hole in the rotating
+    -----   oil can, is rotating toward
+	        dead center (to your character)
+			from the right
+
+
+######################################
+--------------------------------------
+-     The Lost Hole of Atlantis      -
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   when the anchor in the
+    -----   background, is going from
+	        the left to the right, and
+			is DEAD CENTER of the path
+			
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   when the octopus's tentacle
+    -----   is in its raised position,
+	        totally up
+			
+2.  -----
+   |  M  |   watch the anchor's movement:
+    -----   after it goes to the right,
+	        wait for it to head back to
+			the left, and press the
+			button when it is *partially*
+			over the putting path
+
+
+######################################
+--------------------------------------
+-    The Made in the U.S.A. Hole     -
+-      Par 2          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   a split second after the 'Blue Guy'
+    -----    and Crab cross each other on their
+			 respective conveyor belts, in front
+			 of you
+			
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   wait for the 'Blue Guys'
+    -----   in the foreground, to proceed
+	        on the conveyor belt, where
+			your character's putter
+			is dead center of two of them
+			
+2.  -----
+   |  M  |   when of the red-headed dolls
+    -----   are dead center of the hole
+
+
+######################################
+--------------------------------------
+-            Shark Soup              - 
+-      Par 2          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   wait for the shark to jump
+    -----   in the right pool; press
+	        button when it is totally
+			immersed on the right side
+
+
+######################################
+--------------------------------------
+-     The American Dream Hole        -
+-      Par 2          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   
+    -----    when the dog's rear end is lined
+			 up with the chimney of the blue house,
+			 going from left-to-right
+
+			
+============
+=  NORMAL  =
+============			
+
+1.  -----
+   |  M  |   when the lawnmower's wheels
+    -----   go slightly past you, as it
+	        is moving from left to right
+			
+========
+=  OR  =
+========
+
+1.  -----
+   |  L  |   when both the lawnmower and
+    -----     the dog are clear of the
+			  putting path
+			  
+2.  -----
+   |  L  |   while the dog is going from
+    -----   left to right, press button
+	        when the dog's head completely
+			covers the hole
+
+
+######################################
+--------------------------------------
+- Hole on the Wrong Side of the Tracks
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   when the white train is in
+    -----   the middle of the putting path,
+	        *where the path encompasses half
+			of the second car, and half of
+			the third car, in the foreground *
+			
+
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   just as soon as the white
+    -----   train goes past, in the
+	        foreground
+			
+2.  -----
+   |     |
+    -----   ......
+	
+	NOTE:  If you fail to clear the middle of
+		   the track, on this shot, the train
+		   WILL HIT YOU, and then your character
+		   will go to "Miniature Golf Heaven".
+		   
+A.  -----
+   | ANY |   just press the action button,
+    -----   you will see an interesting 
+	        sequence
+
+
+			
+######################################
+--------------------------------------
+-     Hole in the Ozone Layer        -
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   when the submarine is in the
+    -----     middle of its pond, going to
+	          the left; the penguin must also 
+			  be directly in front of it, too
+			  
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   when the penguin, near the
+    -----   submarine at the far end of
+	        the screen, goes to the right,
+			at the end of its stride,
+			AND has *just started* to come
+			back left
+			
+--------
+-  OR  -
+--------
+
+1.  -----
+   |  R  |   when submarine is all the way
+    -----     to the left, and the periscope
+			  is starting to turn back around
+			  
+			  
+2.  -----
+   |  R  |   when the penguin is at right,
+    -----   and AFTER it hits the end of its
+	        stride, AND it *turns back around*
+			on its axis, to go back left
+
+3.  -----
+   |  R  |   when the submarine is going
+    -----   right to left, and is at the
+	        end of its motion (left-most
+			point)
+	
+
+######################################
+--------------------------------------
+-     Swing Along at Sing Sing       -
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   look at the third prisoner
+    -----   on the screen (the middle one):
+	
+	        after he swings his blue/purple 
+			hammer on the ground, press
+            button when the hammer comes
+            back up over his head
+
+            NOTE: press button when hammer
+            is dead center above the prisoner,
+            or a bit after, in its motion
+            from left to right
+
+
+============
+=  NORMAL  =
+============
+
+1.  ...
+			
+
+######################################
+--------------------------------------
+- 1,000,000 Years B.G. (Before Golf) - 
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   the frame right after sparks fly
+    -----    from the T-Rex's tail
+
+
+============
+=  NORMAL  =
+============	
+	
+1.	-----
+   |  R  |   when the oil sludge in front
+    -----   of you, has totally receded
+	        away from the putting path
+			
+2.  -----
+   |  M  |   when the T-Rex's tail has
+    -----   already hit the ground, and
+	        has just started to come back
+			up off the ground
+
+
+######################################
+--------------------------------------
+-         King Putt's Tomb           -
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   NOTE: there is a very small
+    -----    crack, below the 'P' in 
+	         "King Putt's Tomb"
+			 
+			 when the left "moving hole"
+			is starting to slide left, where
+			the hole starts to cross the crack
+			below the 'P' and yet the hole is
+			still slightly to the right
+
+(OR)
+
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  L  |   ....
+    -----  
+	
+....
+
+
+(OR)
+
+1.  -----
+   |  R  |   when BOTH 'moving holes' are
+    -----   in the middle, and the right
+	        hole is *just starting* to slide
+			right
+			
+2.  -----
+   |  M  |   when 'Blondie' (the blond
+    -----   'Egyptian') is dead center 
+			of you
+
+	
+######################################
+--------------------------------------
+-         Hole On the Range          -
+-      Par 3          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   groundhog's legs are splayed out;
+    -----    hind legs off the green, and forelegs
+	         are on the green
+			 
+			 !! Precise Timing !!
+	          
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  R  |   when the groundhog has already
+    -----   gone past you, and has moved off
+	        the putting path
+
+2.  -----
+   |  M  |   after the robot's lasso is 
+    -----   totally up, press button when
+	        when the lasso is *just starting*
+			to come down
+			
+
+######################################
+--------------------------------------
+-        The Great Art Hole          -
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   the first frame after the middle leg
+    -----    of the weird object starts moving to
+	         the right
+			 - legs equidistant from each other -
+			 
+			 !! Precise timing !!
+
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   when 2 of the 3 legs of the
+    -----   weird sculpture are together
+	        on the left side, and are just
+			starting to come apart
+			
+2.  -----
+   |  R  |   when the grabber arm is dead
+    -----   center, over your head; and
+	        the arm is traveling from right
+			to left
+			
+3.  -----
+   |  R  |   when the framed picture is
+    -----   all the way up
+
+
+######################################
+--------------------------------------
+-        You Only Putt Twice         -
+-      Par 5          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  R  |   when the circular hole only
+    -----	 focuses on the laser and part of
+	         the laser-emitting machine itself
+			 
+			 * circular hole is going from 
+			 right-to-left *
+			  
+============
+=  NORMAL  =
+============
+
+1.	-----
+   |  L  |   when the hole is on the 
+    -----      guy throwing the hat
+	
+2.  -----
+   |  L  |   when the guy receives the
+    -----   hat in his hand, from the
+	        right
+			
+3.  -----
+   |  L  |   when the soldier has shot
+    -----   all the way across the path
+	
+
+######################################
+--------------------------------------
+-         Ghost of a Chance          -
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  M  |   when the green arm, at the
+    -----   middle-right of the screen,
+	        is just coming out of the
+			tombstone
+			* just the hand and forearm,
+			not the elbow *
+			
+			!! Precise Timing !!
+
+============
+=  NORMAL  =
+============
+
+1.	-----
+   |  R  |   when the green arm, at the
+    -----   middle-right of the screen, 
+	        is fully extended
+
+2.  -----
+   |  M  |   when BOTH the green arm,
+    -----   and the animal skull have
+	        disappeared, AND you wait 1/2
+			second
+       
+3.  -----
+   |  L  |   when the animal skull has
+    -----   MOSTLY (not completely)
+	        disappeared; or, when the skull
+			goes away from view, behind
+			your head
+
+
+######################################
+--------------------------------------
+-       The Greasy Spoon Hole        -
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  L  |   when the napkins are falling with
+    -----    the door, and the door is down; 
+			 the third frame
+	
+			 * guy in mustard yellow sweater 
+			 has his spoon at his chest *
+			  
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  R  |   when the first man's spoon
+    -----   is in the pumpkin pie
+	
+2.  -----
+   |  L  |   when the cook's fly-swatter
+    -----   is raised, and stopped flapping
+
+
+######################################
+--------------------------------------
+-         The Hole-y Grail           - 
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  R  |   wait for the door to come down,
+    -----    then wait another second, and press
+	         button JUST right when the door
+			 starts to come back up
+			 
+			* you can hear the sound effect
+			of the door coming up, but still
+			do not see any commensurate
+			animation *
+			  
+============
+=  NORMAL  =
+============
+
+1.  -----
+   |  M  |   when the castle's entry door
+    -----   is fully down, flat
+	
+2.  -----
+   |  L  |   < SPLIT SECOND TIMING >
+    -----   immediately when fire starts
+	        coming out of the dragon's
+			mouth
+			
+			NOTE: there should only be
+			a tiny bit of fire escaping
+			the dragon's mouth, upon
+			pressing the action button
+			
+3.  -----
+   |  M  |   when the gate goes all the
+    -----   way down, press the button 
+	        at the 'slight bounce' that
+            the gate makes			
+
+
+######################################
+--------------------------------------
+-           The Golf War             -
+-      Par 4          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   |  R  |   right when the fighter plane
+    -----    goes out of view, from left-to-right
+			 -- wait a split second after
+			 it leaves the screen --
+			 
+			 !! Precise Timing !!
+
+============
+=  NORMAL  =
+============ 
+
+1.  -----
+   |  L  |   when the fighter plane is
+    -----   dead center over the building
+	
+2.  -----
+   |  M  |   after the tanks have shot
+    -----   their cannon, and the turrets'
+	        animation has stopped
+
+
+######################################
+--------------------------------------
+-      The Perils of Polyanna        -
+-      Par 5          Limit 9        -                          
+--------------------------------------
+
++++++++++++++++++
++  HOLE-IN-ONE  +
++++++++++++++++++
+
+1.  -----
+   }  M  |   after the spikes are up,
+    -----     and after they go down, AND
+	          you wait a SPLIT SECOND while
+			  they are down
+	
+============
+=  NORMAL  =
+============ 
+
+1.  -----
+   |  R  |   when the spikes are down,
+    -----   and you have a clear 
+	        putting path
+
+2.  -----
+   |  M  |   BOTH when Dr. Cretin stops
+    -----   laughing, and is not animating, 
+	        AND the 10-TON wrecking ball
+            is *just starting* to come down			
+
+3.  -----
+   |  R  |   when the tornado is dead
+    -----   center above you, going from
+	        right to left
+
+
+			
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# (4.0)  Revision History and Credits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+v1.0	=	First iteration of FAQ, 9/24/2011.
+v1.0a   =   Found 16 of 18 Holes-in-One, 10/22/2011.
+v2.0    =   Found remaining 2 Holes-in-One, and updated
+			8 Holes-in-one strategies, 4/3/2013.
+
+I would like to thank tedbob84 and ubersaurus for their
+help in discovering the two remaining holes-in-one, as
+well as determining better descriptions for eight other
+holes-in-one.
+
+I would also like to credit Philips and their Sidewalk Studios 
+for producing an entertaining, yet often frustrating game. 
+Also we would like to thank Eugene Levy, for lending his
+voice, and his offbeat humor to the game. Too bad that the
+humor is usually inappropriate for the game's targeted
+audience, which is 5 to 12 year old children.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+*******************************************************
+*    Wacky World of Miniature Golf for Philips CD-I   *
+*                      by cbcunix                     *
+*                       END FAQ                       *
+*******************************************************
