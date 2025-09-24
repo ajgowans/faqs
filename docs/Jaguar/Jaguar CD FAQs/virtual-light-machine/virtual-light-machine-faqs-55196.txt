@@ -1,0 +1,152 @@
+*******************************************************************************
+Virtual Light Machine for Atari Jaguar CD FAQ
+
+by BHodges
+
+Version  1.0
+Created  12/21/08
+
+This document Copyright 2008 by Brian Hodges.  This FAQ is not to be posted
+without explicit permission by me.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.    Introduction
+II.   Frequently Asked Questions
+III.  Version History
+IV.   Contact Information
+
+*******************************************************************************
+I.    Introduction
+
+This is a FAQ for the Atari Jaguar CD application, Virtual Light Machine.  This
+is an ACTUAL FAQ, a series of Frequently Asked Questions with answers.  Even
+though I've written many guides for GameFAQs, this is my first true FAQ, so
+please bear with me if it seems a little off.
+
+*******************************************************************************
+II.   Frequently Asked Questions
+
+-------------------------------------------------------------------------------
+What is the Virtual Light Machine?
+
+The Virtual Light Machine or VLM, is a music visualization program that was
+built into the Atari Jaguar CD unit.
+
+-------------------------------------------------------------------------------
+What exactly is a music visualization program?
+
+It is a piece of software that displays graphics that change or "dance" in
+time with the music being played.  If you've ever played a CD or mp3 in Windows
+Media Player, then you've probably seen this before.  Back when this first
+came out, it was pretty revolutionary.
+
+-------------------------------------------------------------------------------
+Who created it?
+
+The Virtual Light Machine was created by Jeff Minter aka the "Yak".  He is the
+same man who created Tempest 2000 and Defender 2000.
+
+-------------------------------------------------------------------------------
+When was it released?
+
+The Jaguar CD-Rom unit was released in 1995 and the Virtual Light Machine came
+built in.
+
+-------------------------------------------------------------------------------
+Where can I get one?
+
+Like I mentioned, it comes built into the Jaguar CD, so you're going to need
+one of those.  If money is no object, the easiest way would be to order one 
+from goatari.com for $220.  Otherwise, your best bet is to try eBay, expect to
+pay at least $80 plus shipping.
+
+-------------------------------------------------------------------------------
+How do I use the Virtual Light Machine?
+
+Put a CD in your Jaguar CD (make sure there's no game in the game slot).  You 
+will be taken to the Control Panel.
+
+...............................................................................
+Controls:
+
+A Button:    Toggle display between Control Panel, VLM with on-screen display,
+             and VLM with no OSD.
+B Button:    Play
+C Button:    Stop
+Left:        Rewind
+Right:       Fast Forward
+Pause:       Pause
+Up:          Increase Volume
+Down:        Decrease Volume
+Keypad:      Input the track number(WTA) or modify VLM (VLM)  (Press Option
+             while Control Panel is CLOSED to toggle between the two)
+Option:      Select Options (Control Panel) or Toggle between WTA and VLM modes
+             (VLM screen)
+
+...............................................................................
+Options:
+
+Pressing the Option button lets you change three different types of options.
+Use the control pad to highlight the one you want to modify and press B to 
+change that option.  When you are finished, press Option again to return to
+the Control Panel.
+
+Track Order (Left Option Box)
+
+Normal:   Play the tracks in order
+Random:   Randomizes the track order
+Program:  Let's you choose which tracks and which order to play them.  When
+          this is selected, press Down to go to the track list.  Press Left and
+          Right to select a track box.  Press B to delete that track.  When the
+          current box is empty, use the number pad to type in the track you
+          want to play in that position.
+
+Repeat Options (Middle Option Box)
+
+No Repeat:     No tracks will be repeated and music stops after last track.
+Repeat Disk:   After the last track is finished, it will loop back to the first
+               track.
+Repeat Track:  The current track will be repeated.
+
+Visualization (Right Option Box)
+
+VLM:     The Virtual Light Machine will display graphics during music play.
+VLM R:   I'm not sure what this does, it looks just like VLM.
+CD+G 1:  Turns off the Virtual Light Machine.
+
+...............................................................................
+Virtual Light Machine Visualizations
+
+Once you have music playing, press A to exit the Control Panel.  There should
+now be a light display.  There are actually 81 different display variants  to
+choose from!
+
+While on the VLM screen, press 1-9 on the number pad followed by a second 
+number to pick the variant.  (If doing this ends up switching the current track
+instead, you need to press Option to toggle VLM mode on).  If you have the
+on-screen display active, the current variant will be shown in the bottom left
+(e.g. 3-2).  
+
+*******************************************************************************
+III.  Version History
+
+1.0   12/21/08  Created FAQ.
+
+*******************************************************************************
+IV.   Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+End

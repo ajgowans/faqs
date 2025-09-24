@@ -1,0 +1,118 @@
+From: ai403@freenet.hamilton.on.ca (Lawrence Popa)
+Newsgroups: rec.games.video.atari
+Subject: Re: Double Dragon V Moves
+Date: 1 Jan 1997 20:20:01 GMT
+
+Lawrence Popa (ai403@freenet.hamilton.on.ca) wrote:
+: Here's the list of Double Dragon V moves that I've discovered:
+
+
+Oops!  Forgot the Overkill for the Boss - here's the corrected move list:
+
+             Moves for Double Dragon V on the Atari Jaguar
+             ----- --- ------ ------ - -- --- ----- ------
+
+
+Legend:
+-------
+
+U - Up                          P - Punch
+D - Down                        K - Kick
+T - Towards Opponent            L - Light
+A - Away from Opponent          M - Medium
+                                H - Hard
+
+Note:  Overkills must be performed when both characters are on the
+ground, and the attack listed by the opponents name must be used.  The
+attack must do enough damage to win the match in order for you to see
+the overkill.  Does not work in easy mode.
+
+
+Billy Lee
+----- ---
+Throw: MP
+Dragon Snake: D, DA, A&P
+Dragon Slice: T, DT, D&P
+Dragon Shock: hold A, T&P
+Dragon Slide: T, T&P
+Overkill: Standing HP
+
+Jimmy Lee
+----- ---
+Throw: MP
+Dragon Snake: D, DA, A&P
+Dragon Slice: T, DT, D&P
+Dragon Fire: Hold A, T&P
+Dragon Slide: T, T&P
+Overkill: Standing HK
+
+Jawbreaker
+----------
+Swallow: T, T&MK
+Bite and Toss: T, T&HK
+Flying Headbutt: T, T&P
+Loogie Hock: hold A, T&P
+Breath Wave: D, DA, A&P
+Ground Spark: T, DT, D&K
+Overkill: Standing HP
+
+Bones
+-----
+Throw: MP
+Eyebeam: D, DA, A&P
+Skull Toss: Hold A, T&P
+Gun Shot: T, DT, D&K
+Long Arm Lash: T, T&MP
+Super Headbutt: T, T&MK
+Overkill: Standing MP
+
+Sickle
+------
+Throw: MP
+Energy Blade: D, DT, T&P
+Whirlwind Slice: Hold A, T&P
+Rolling Sawblade: D, DA, A&P
+Flying Cartwheel Sawblade: T, DT, D&K
+Overkill: Standing MK
+
+Countdown
+---------
+Throw: MK
+Laser Bolt: Hold A, T&P
+Knucklespin Twistkick: Hold A, T&K
+Jet Flare: D, DA, A&P
+Missile Shot: T, DT, D&K
+Rocket Dive: T, T&K
+Overkill: Standing LP
+
+Sekka
+-----
+Throw: MP
+Flying Claw Slam: Hold A, T&K
+Claw Roll Attack: D, DA, A&P
+Inverted Spinkick: D, DA, A&K
+Blender from Above: D, D&LK
+Clawvault Boomerang Kick: T, T&HK
+Head Bounce Kick: In Mid-Air, D&HK
+Overkill: Standing MP
+
+Dominique
+---------
+Point-Blank Throw: MP
+Short Distance Throw: HP
+Hold and Bite: MK
+Ponytail Beam: T, DT, D&K
+Swoop Hurricane: D, DA, A&K
+Highheel Knife Slide: D, D&LK
+Overkill: Standing Long-Range MP
+
+Shadow Master
+------ ------
+Overkill: Standing HK
+
+----------------------------------------------------------------------------
+Lawrence Popa
+"Every man and every woman is a star." - Book of the Law:  Ch.1 Vs. 3
+
+
+

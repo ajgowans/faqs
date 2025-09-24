@@ -1,0 +1,1661 @@
+===============================================================================
+Cannon Fodder for the SNES
+Walkthrough
+
+Should hold relevance on the Amiga, PC, Genesis, 3D0 and Jaguar versions
+
+Created by Desert Gunstar (aka Shadow2099)
+desertgunstar@hotmail.com
+Completed July 8, 2004
+===============================================================================
+
+
+===============================================================================
+Table of Contents
+===============================================================================
+1. Introduction
+2. Controlling your Troopers
+3. Powerups and Obstacles
+	a. Vehicles
+	b. Supa-Dupa Boostas (powerups)
+	c. Enemies
+	d. Mission Objective Descriptions
+	e. Soldier Ranks
+4. General Tips
+5. Missions Walkthrough
+	5.1 The Sensible Initiation
+	5.2 Onward Virgin Soldiers
+	5.3 Antarctic Adventure
+	5.4 Supa Smashing Namtastic
+	5.5 Those Vicious Vikings
+	5.6 Westward Ho
+	5.7 Greenland Blood
+	5.8 Guerrilla Warfare
+	5.9 Great Scott Good Shot
+	5.10 One Gigantic Dust Bowl
+	5.11 Jungle More Jungle
+	5.12 Chiller Thriller Killer
+	5.13 More Moors
+	5.14 Bomb Alley
+	5.15 Get Orf Moi Land
+	5.16 Going Underground
+	5.17 The Moor the Merrier
+	5.18 Underpants Electric
+	5.19 Diablo Downstairs
+	5.20 Moors the Pity
+	5.21 Explore My Hole
+	5.22 Desert Disaster
+	5.23 Moors Et Mortem
+	5.24 Bomb the Base
+
+
+===============================================================================
+1. Introduction
+===============================================================================
+Stand at attention, soldier! You're in the world of Cannon Fodder, a quirky
+little war-game that puts you in command of a squadron of soldiers. Your
+commanders will send you everywhere from the jungles of Nam to the frozen
+wastelands of Antarctica. So strap on your boots and get ready to gun down
+the opposing army with your rifles, destroy enemy buildings with hand grenades,
+and take down enemy artillery with bazooka rockets. As the tagline goes, "War
+has never been this much fun!" It's time to enter the warzone, and this guide
+will help you do just that, albeit in a nearly repetitive, monotonous way.
+
+Because Cannon Fodder is a multi-platform title (SNES, PC, Amiga, Genesis, 3D0
+and Jaguar), I have based this walkthrough on the SNES version of the game.
+However, I have played a bit of the PC version and it is exactly the same. I am
+uncertain of the other platforms, so please point some things out to me if
+something appears different on the other consoles.
+
+
+===============================================================================
+2. Controlling your Troopers
+===============================================================================
+SNES Controls:
+
+On Boot Hill:
+Select - Enter main menu
+Start - Begin the mission
+
+On the battlefield:
+B - Fire 
+A - Move troopers
+X - Switch between grenades and rockets, if any
+Y - Look at world map
+L/R - Toggle between divided squadrons
+Start - Pause the game and enter side menu
+Select - Not used
+
+To move your troopers, point the cursor in the direction you want them to move
+and press the move button. To fire, point the cursor in the direction you want
+and press the fire button. To use a grenade or a rocket, hold down the fire
+button and press the move button. Take note that grenades and rockets are
+unusable inside vehicles.
+
+To board a vehicle, move your cursor over it until it changes to an arrow
+pointing into a square, and then press the move button. Move the vehicle the
+same way you would a trooper. You can pick up speed by holding down the move
+button longer. Fire the vehicle's weapon (if it has one) with the fire button.
+Leave a vehicle by moving the cursor over it until it changes to an arrow
+pointing outside a square, and then press the move button. Choppers must be on
+land first before you can leave them. To land a chopper, move the cursor over
+the chopper until it becomes an 'H' and then press the move button.
+
+You can split your troopers up into 2 more different squads. To do so,
+highlight the soldiers you want to split up, and then press the snake picture
+above the soldier names. Keep in mind that new squads can take grenades and
+bazookas. To change how many the new squad takes, toggle through the yellow
+lines that appear around the grenade and bazooka icons. A solid line represents
+all of that particular item. A dotted line is half, and no line is none of the
+item. After you create separate squads, you can regroup them by moving the
+troopers into each other.
+
+To see a map of the level, press the icon on the bottom left corner. If you
+want to restart the mission, press the white flag (Amiga/PC users will have to
+press escape).
+
+
+===============================================================================
+3. Powerups and Obstacles
+===============================================================================
+-------------------------------------------------------------------------------
+a. Vehicles
+-------------------------------------------------------------------------------
+Jeep: A basic land vehicle for your troopers to travel fast. These provide
+protection from enemy gunfire. Some jeeps may come with a mounted machine gun.
+
+Ski-doo: A snowmobile for getting around the rough terrain. They work
+similarly to jeeps. Some ski-doos may have a machine gun on the front.
+
+Big Gun: A fixed turret that fires explosive shells. Depending on the level,
+some big guns may be able to resist grenades and rockets. Whatever the case,
+all big guns (or vehicles, for that matter) are vulnerable to shells and
+heat-seeking missiles.
+
+Tank: These war machines fire explosive shells and provide considerable
+protection against enemy attacks. They move fairly slow.
+
+Chopper: Helicopters provide a quick way of transportation and attack. These
+come in three varieties: a simple transport chopper, a bomber, and an armed to
+the teeth chopper with heat-seeking missiles. A chopper in the air can only be
+destroyed by a heat-seeking missile, while a chopper on the ground is
+vulnerable to any explosion.
+
+
+-------------------------------------------------------------------------------
+b. Supa-Dupa Boostas (powerups)
+-------------------------------------------------------------------------------
+These powerups are rare to find. Personally, I have only found one of each
+except for the bullet-proofa vest. I haven't seen any of those in the game!
+
+Missile Boosta: Grab one of these to recieve a package of 50 heat-seeking
+missiles. These look like yellow triangles.
+
+Rank Boosta: This 4-star icon will grant the one who touches this an
+immediate rank boost to General.
+
+Bullet-Proofa Vest: This little item turns your trooper into an unstoppable
+killing machine for the remainder of the phase. Note that the trooper is immune
+to any attack, not just bullets.
+
+Trooper Boosta: The lucky soldier who manages to stumble onto one of these
+receives a missile, rank, and bullet-proofa powerups. They look like a yellow
+S, and are quite rare.
+
+Troop Boosta: One of these will provide the whole boosta package for the whole
+squadron. These are the ones with double S's.
+
+
+-------------------------------------------------------------------------------
+c. Enemies
+-------------------------------------------------------------------------------
+Soldiers: Your basic grunt. Waves upon waves of these guys will be sent to gun
+down your squadron. Some may be more aggressive than others, depending on the
+mission. They might toss a grenade in your direction in the later levels, so
+watch out.
+
+Bazooka Sniper: These guys will stand in one spot, waiting for you to get in
+their sights so they can blow you to smithereens. Try to send a single soldier
+to take them out, as one soldier will be a smaller target to hit. Also try
+throwing grenades from behind walls and trees or counter-snipe them.
+
+Enemy Artillery: Enemy Tanks and Big Guns will attempt to blow you up with
+heat-seeking missiles. Use caution when advancing on them, and try to destroy
+them one at a time.
+
+Engineers: Jeeps and Ski-doos are what the engineers handle. Shoot them with a
+bazooka before they notice your presence and begin to run you through.
+
+Enemy Air Force: These pilots will patrol the area, killing anything on sight.
+Send them flying six feet under with a heat-seeking rocket in the air, or wait
+for the chopper to land so that you can blow it up with no hassle.
+
+
+-------------------------------------------------------------------------------
+d. Mission Objective Descriptions
+-------------------------------------------------------------------------------
+Kill All Enemy: Just what it sounds like. This includes enemy troopers and
+vehicles.
+
+Destroy Enemy Buildings: Anything with a door that enemy troopers come out of
+must be destroyed. Doors with metal plating must be destroyed by shells or
+heat-seeking missiles.
+
+Destroy Enemy Factory/Computer: A factory is just another building, but a
+computer is a brownish glowing spherical structure.
+
+Rescue All Hostages: Return all of the hostages that are being held captive.
+Kill all the troopers surrounding the hostage, and then lead the hostage to the
+MASH tent on the map. Remember that these hostages can't be killed, so feel
+free to use them as human shields or whatnot.
+
+Kidnap Enemy Leader: The same as rescuing a hostage, basically.
+
+Protect All Civilians: Don't let a single civilian die. The death of an
+innocent will result in the immediate loss of the level.
+
+Get Civilians Home: Innocent people are being held like caged animals. Your job
+is to free them from their barricades and make sure they get home safe and
+sound. Unlike the Rescue All Hostages objective, civilians will not follow you
+and they can die.
+
+
+-------------------------------------------------------------------------------
+e. Soldier Ranks
+-------------------------------------------------------------------------------
+A soldier's rank will determine how fancy his tombstone will be on Boot Hill,
+if/when the soldier dies. Also, a higher-ranking soldier leads the squadron. If
+two or more soldiers have the same rank, the number of kills is used to
+determine leadership. The rank of a trooper will rise after every mission they
+survive through. Take note that newly conscripted recruits will also have their
+ranks slightly increased over missions due to 'training.'
+
+Private: A single chevron.
+
+Corporal: Two chevrons.
+
+Sergeant: Three chevrons.
+
+Staff Sergeant: A chevron and a curved line connecting the bottom ends.
+
+Sergeant 1st Class: A chevron and two curved lines.
+
+Master Sergeant: A chevron and three curved lines.
+
+Sergeant Major: A chevron, three curved lines, and a star.
+
+Specialist 4: A picture of an eagle.
+
+Specialist 6: A picture of an eagle and two curved lines on the top.
+
+Warrant Officer: A gray rectangle, with two dark gray rectangles in the middle.
+
+Chief Warrant Officer: A golden rectangle, with two rectangles in the middle.
+
+Captain: Two silver stripes.
+
+Major: A golden star.
+
+Colonel: A picture of a silver eagle.
+
+Brigadier General: A single silver star.
+
+General: Four silver stars.
+
+
+===============================================================================
+4. General Tips
+===============================================================================
+-Don't rush blindly into enemy territory. Consult your map, and then scout
+around with a single soldier before you bring in the cavalry.
+
+-When you have to destroy enemy buildings to complete a level, try not to waste
+your grenades and rockets needlessly as you may need all of them for buildings.
+
+-When you see any artillery or bazooka snipers, consider using a solitary
+soldier to take them out. By using one soldier, you make yourself a smaller
+target.
+
+-If you find your soldiers are about to die, quickly pause the game (Start
+button for consoles, P key for Amiga/PC) and restart the phase. This helps if
+you want your sergeant to live to see another promotion, or for those pesky
+missions where you start right next to enemy artillery.
+
+-Remember that you begin the game with 15 soldiers, and recieve a replenishment
+of 15 soldiers for every mission. Try not to get the newbies slaughtered on
+their first day of combat.
+
+-When splitting up forces, be careful about how you distribute the grenades and
+rockets. If left alone, a squadron might use up their grenades and rockets
+for taking out nearby soldiers. Take all the weapons for yourself if you need
+to destroy buildings, or keep the other squadron in a safe no-fire zone.
+
+-You may find levels with holes in the ground, where more and more enemy
+soldiers can crawl out. If you have to kill all of the enemy to complete the
+level, you might want to keep a squadron near these holes so that you are able
+to finish the level more quickly.
+
+-Deep water requires your troopers to use both arms to swim. Try to avoid deep
+water as much as you can if you spot any enemy soldiers or artillery nearby.
+
+-Watch out for mines and harpoons. Mines can be destroyed by shooting them, but
+harpoons are a bit harder to bypass. These traps show up on your screen as very
+tiny pixels, so sweep the area with rifle fire to be safe from mines at least.
+
+-Unless you're going for a no-kill game or something of the sort, try not to
+get too attached to your soldiers. Although it may be pretty keen to see little
+Jools get his 4-star General's badge, as the title of the game implies, use 'em
+as cannon fodder :).
+
+
+===============================================================================
+5. Missions Walkthrough
+===============================================================================
+-------------------------------------------------------------------------------
+5.1 The Sensible Initiation
+-------------------------------------------------------------------------------
+You begin the game with 15 recruits. Although the game may tell you 13, I also
+include the soldiers that are currently in action.
+
+Phase 1 of 1: It's a Jungle Out There
+-------------------------------------
+Briefing: 2 soldiers must Kill All Enemy
+
+Get used to the controls in this newbie-friendly level. Move around the tiny
+map and kill all of the the enemy soldiers that you see. You can try dividing
+your troopers into different squadrons just for the hell of it.
+
+
+-------------------------------------------------------------------------------
+5.2 Onward Virgin Soldiers
+-------------------------------------------------------------------------------
+You can have a maximum of 30 recruits at this point in the game.
+
+Phase 1 of 2: Bridge Over the River Pie
+---------------------------------------
+Briefing: 3 soldiers must Kill All Enemy
+
+There are more soldiers here, but the level is still easy to complete. Begin by
+clearing the area nearby of enemy soldiers. Make your way to the south-west
+corner of the map and take care of the soldiers there. Move west and eliminate
+any opposition that you see.
+
+After you clear the southern land mass, begin to cross the river. It's safer
+and faster if you cross the bridge, since you're defenseless in deep water.
+Move west and circle around the forest, shooting at any soldier you see. Try
+not to rush forward, as the enemy does outnumber you and one of your soldiers
+might wind up getting shot.
+
+
+Phase 2 of 2: Trash Enemy HQ
+----------------------------
+Briefing: 3 soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+There is a lot of water in this level, so try to stay on the edges of land. If
+you have to cross over water, one good technique to hold down the fire button
+while your troops attempt to swim across. This way, you can immediately start
+firing at any soldiers once you reach land.
+
+Quickly fire at the approaching soldiers in the starting area. Follow the river
+down to the bottom corner of the map, making sure to stay on land as much as
+you can. Once you reach the south-west corner, fire at any soldiers coming your
+way and move toward the east. Here, you will see a building with troops pouring
+out. To destroy it, you either pick up the crate of grenades beside the
+building or just shoot the crate itself. Be careful when destroying it, as the
+door will go flying in the south-west direction and the roof may be blown off,
+landing in a random area. I recommend moving north of the building in order to
+avoid the resulting debris. Take note that for a building to be declared
+destroyed, the door must be blown off.
+
+
+-------------------------------------------------------------------------------
+5.3 Antarctic Adventure
+-------------------------------------------------------------------------------
+You can have a maximum of 45 recruits at this point in the game.
+
+Phase 1 of 1: Blast It's Cold
+-----------------------------
+Briefing: 4 soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+There are four buildings that must be taken care of in order to complete the
+mission. Check your map and move toward the south west building. Don't worry
+about dying when you fall down the cliff, because your troops can handle it.
+You will see a crate of grenades near the building, but don't shoot it. There
+are 3 more buildings that you have to destroy, so clear the area of any enemies
+while you snatch the crate. Move back a distance and toss a grenade near the
+door of the building. Continue on north until you see the building above you,
+then destroy that building.
+
+Drop down to the southern part of the map, killing any opposition that you see.
+Move toward the east while still in the south area. Point your cursor to the
+north east, and throw a grenade at the building. Now, climb up the ramp and 
+move north east. Head to the final building at the north, but watch out because
+a lot of soldiers will be waiting for you. Once you destroy the final building,
+finish off any remaining soldiers on the level. Remember that if there are
+still buildings to destroy but you can't find enough explosives to do the job,
+you will have to restart the mission.
+
+
+-------------------------------------------------------------------------------
+5.4 Supa Smashing Namtastic
+-------------------------------------------------------------------------------
+You can have a maximum of 60 recruits at this point in the game.
+
+Phase 1 of 4: Beachy Head
+--------------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+4 buildings lie in each of the corners of the map. Start the level by going to
+the south east building. Grab the crate near the building, and then proceed to
+blow it up. Move toward the north east building and destroy it. Now, send your
+troopers west, across the river. Watch out for the brown spot on the beach, as
+this is quicksand. Move to the north west building and shoot the crate. Finally
+proceed to the south west building and detonate it to complete the level.
+
+
+Phase 2 of 4: Pier Pressure
+---------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+A simple mission with only one building to detonate. Quickly make short work
+of the approaching soldiers when you start, and then move your troopers toward
+the east. Move down to the bridge, and then throw a grenade at the building.
+Cross the river if you need to take care of any remaining soldiers.
+
+Note: From this point on, you will begin with at least one grenade for every
+trooper you start with in each level.
+
+
+Phase 3 of 4: Village People
+----------------------------
+Briefing: 5 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+There are three things that make their first appearance in this level:
+civilians, indestructible underground holes where enemy soldiers keep coming,
+and a different kind of building you have to destroy. Also, soldiers now have
+the ability to lob grenades at you, so be careful.
+
+To start off, move toward the west and then go south over the hill. While
+going south, you will see a hole in the ground on the western side. Countless
+soldiers will crawl out of this hole, and there is no way to destroy it.
+Because one of your objectives is to kill all enemy soldiers, you might want
+to consider splitting up your troopers to guard this area. You may also see
+a civilian or two near the hole. You can shoot them if you want, since they
+aren't a part of the objectives of this level. However, be warned that some
+civilians may begin attacking you.
+
+From the hole, make your way to the south eastern building. Take the east path
+all the way to the river, and then move south. Destroy the building, and then
+return to the hole area. Move south toward the huts and destroy the enemy
+building (the one  in the north west corner). The only debris that flys from
+these types of buildings is only the door, so you don't have to worry about the
+roof landing on you. Once the building is destroyed, scour the map for any
+remaining soldiers. 
+
+
+Phase 4 of 4: Quicksand
+-----------------------
+Briefing: 5 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+As the name may imply, make sure to avoid the brown areas that we all know and
+love/hate as quicksand. Make your way to the north west corner, but watch out
+for the mine trap. It is a small grey pixel north east of the solitary palm
+tree, so stand a fair distance from it and shoot it. Continue on to the east
+while avoiding the quicksand. Once you get past the quicksand fields, make your
+way to the building in the south. Destroy it, and then hunt around for any
+soldiers you may have missed.
+
+
+-------------------------------------------------------------------------------
+5.5 Those Vicious Vikings
+-------------------------------------------------------------------------------
+You can have a maximum of 75 recruits at this point in the game.
+
+
+Phase 1 of 3: The Valley of Ice
+-------------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+A very narrow and simple map. Send your soldiers westbound, killing anything in
+sight and blowing up any building you see. Be careful of the area after the
+last two buildings, as you'll have your first encounter with bazooka snipers.
+To deal with them, you can use rockets of your own if you have any. Another
+method which you'll be using commonly is to make a squadron of one soldier, and
+then use that squadron to eliminate the bazooka snipers. By doing this, you
+will have a better chance of avoiding explosives. There are 4 snipers that you
+have to deal with.
+
+
+Phase 2 of 3: Barmy Bazookas
+----------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+There are quite a number of bazooka snipers in this level, so start off by
+making a one-man squadron and give that squadron all the grenades. Take your
+one-man squadron to the building directly west. Take down the bazooka sniper
+then blow up the building. Drop down the cliff and head east. Destroy the
+building there, then hug the east side and follow the path south until you
+reach the forest area. Take care of the building and grab the rocket packs
+nearby (you may want to spilt a few rockets with the other squadron just in
+case your one-man squad dies).
+
+From the forest area, move west and kill the bazooka sniper that lies in wait.
+Move north across the small piece of land, and then quicky find and kill the
+bazooka sniper that stands a bit to the north west. From here, cross the water
+and then fire at the bazooka sniper near the hole in the ground. Move west and
+take out yet another sniper and the building beside him. Now, head back toward
+the hole in the ground and start going to the north west corner of the level.
+Three more bazooka snipers are waiting for you here, so use your own bazooka
+rockets if you have any. Finish off any other enemy soldiers you can find.
+
+
+Phase 3 of 3: My Beautiful Skidu
+--------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+This map is littered with snipers, but thankfully, you don't have to kill them
+all in order to finish the map. Only two buildings must be destroyed, but one
+of the buildings requires a daring jump with a skidoo. Like the previous level,
+create a one or two-man squadron and give the squad half the supplies. Take
+down the building directly south, and then continue south via the narrow path.
+As you move south, watch out for the sniper near the bottom corner of the map.
+
+Oh wow, a skidoo lies in wait for you! Don't hop into it just yet, though.
+First, move west and take out the bazooka sniper, and then return for the
+building and the skidoo. You'll have to blow up the barbed wire to get to it,
+so be careful not to accidentally detonate the skidoo.
+
+Practise moving with the skidoo now that you are controlling it. Move toward
+the west edge of land and drive up and down the pathway. The bazooka sniper
+north of the ramp shouldn't be much of a threat now that you're in a speedy
+skidoo. Drive over him as part of your practice. Once you're ready, prepare to
+jump over the ramp. Back up as much as you can and then drive over the ramp
+toward the western landmass. Remember that if you mess up the jump and fall in
+the water, you can conserve your soldiers by quickly exiting the vehicle before
+it completely sinks, or smack the level restart option.
+
+Once you're across the river, quicky take care of the three bazooka snipers
+near the eastern edge. After that's done, exit the vehicle near the building
+and take it out to complete the mission.
+
+Note: From this point on, you will begin with at least 2 rockets for every
+soldier that you start with on each level.
+
+
+-------------------------------------------------------------------------------
+5.6 Westward Ho
+-------------------------------------------------------------------------------
+You can have a maximum of 90 recruits at this point in the game.
+
+Phase 1 of 2: The Grand Canyon
+------------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+This map isn't too difficult, but you might get a casualty or two if you're
+not careful. Take your troops to the east, where one of the three buildings
+stand. Destroy the building, and then cross over the bridge. Be careful that
+you don't fall in one of the holes.
+
+Hug the eastern side of the map, and move south toward another building. Shoot
+the crates and take care of the sniper beside the building if the flying
+debris doesn't kill him. Now, keep on the road and move toward the structure
+in the west. You might want to split your forces and ready your bazooka
+because a sniper will be waiting for you in the south west. Destroy the
+building and take out the last couple of soldiers.
+
+
+Phase 2 of 2: Trigger Happy
+---------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+A few snipers are stalking the battlefield, but you don't have to engage any of
+them at all. Send your squad toward the building in the west direction.
+Ignoring the sniper near the structure, toss a grenade and head toward the
+next building in the south east. Watch out for chasms while you make your way
+there. Once you've blown up that building, move to the east and then north
+toward the fenced area. You don't have to walk around or make an entrance. Just
+kill the soldiers you deem threatening and toss a grenade toward the upper left
+building.
+
+
+-------------------------------------------------------------------------------
+5.7 Greenland Blood
+-------------------------------------------------------------------------------
+You can have a maximum of 105 recruits at this point in the game.
+
+Phase 1 of 3: The Slippery Stairway
+-----------------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+This level is a bit hard to manage, since you're literally fighting an uphill
+battle against a few well-placed snipers. Make a one-man squadron and give him
+all the supplies. Start by moving this squad to the west, where a sniper and a
+soldier tunnel both reside. Take the sniper out, then quickly move to the
+buildings beside the ramp in the north. Eliminate the sniper, and then destroy
+the two buildings. Make sure to use grenades, because your rockets may come in
+handy for taking out any snipers. Don't worry if you run out of explosives, as
+there is a crate of grenades at the very top.
+
+Ready your rockets and climb up the ramp, keeping your cursor in the north
+direction. Kill the sniper you see, and then immediately move west and take out
+another sniper. Don't cross the water yet, but stay in the shallow water and
+move north as much as you can. Point your cursor north to find a sniper near
+the left side of the ramp across the water. Fire a rocket, and then proceed to
+move farther up. Climb the next ramp and fire at the building to the right,
+then continue left and move up another ramp. Destroy the building you see, and
+then point your cursor a bit to the upper right corner. Fire a rocket at the
+sniper, then finish off the remaining enemy forces at the top. Scout the level
+for any surviving troopers.
+
+
+Phase 2 of 3: Return to Reykjavik
+---------------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+A fairly simple level to complete, but it can be a bit annoying due to the
+three underground tunnels in the north, south and center of the map. Consider
+placing squads in these areas. Also, be wary of civilians here as they are able
+to kill your troopers.
+
+Take your squad and move toward the igloo directly in the south. Keep going
+south, but go through the path in between the trees and stay near the edge of
+the lake in the west. Continue moving down toward the enemy structure and
+destroy it. Now hug the forest on the right and move up toward a narrow path.
+Keep on the lookout for sniper to the right. Stay behind the trees and toss a
+grenade. Don't worry about the other sniper behind him; he'll spot you and try
+to fire, but will blow himself up. Keep going to the right side of the map,
+where the rest of the enemy buildings lie. Save for the hordes of soldiers
+that you might be facing, there are no more dangerous obstacles in your way.
+Destroy the last 3 buildings in the east and north east, and then hunt down all
+the soldiers in the level.
+
+
+Phase 3 of 3: Evil Knievel
+--------------------------
+Briefing: 4 Soldiers must Destroy all Buildins and Protect All Civilians
+
+This is your first level where you must not let any innocents die. Thankfully,
+it's still an easy mission save for the driving part. Remember that if an
+innocent dies, you must restart the level.
+
+Start the level by creating a one-man squadron. Send him north toward the
+skidoo, killing the enemy sniper the your way. Now you have a choice: you can
+either re-group your squads or send your solitary soldier on a solo mission.
+If you think you're going to mess up on driving the skidoo over the ramps, you
+might want to use one soldier, since everyone in the vehicle will die when it
+gets destroyed. If you're going to send only one trooper, make sure that the
+trooper takes all of the grenades with him.
+
+Take control of the machinegun-mounted skidoo and navigate through the winding
+forest path. When you jump a ramp, try to keep your jeep in the middle as much
+as possible. Speed by the snipers that are camping near the ramps, and quickly
+make your way to the waterside. Once you reach the waterside, take the skidoo
+up the narrow path to avoid the last snipers on the bottom. Now, exit the
+vehicle and move across the water. Take out any threatening soldiers and throw
+3 grenades at the buildings, making sure that the lone civilian doesn't get
+killed by the resulting blasts.
+
+
+-------------------------------------------------------------------------------
+5.8 Guerrilla Warfare
+-------------------------------------------------------------------------------
+You can have a maximum of 120 recruits at this point in the game.
+
+Phase 1 of 4: Have a Nice Trip
+------------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Now that you're back in the jungle, you can expect some nasty things to rear
+their heads. The enemy soldiers are aggresive in this mission, so watch your
+step.
+
+When you start the level, stand still until you see an explosion.
+A sniper will try shooting you, but he'll get himself instead. Move toward the
+north east corner, where a couple of soldiers are standing. Don't go into the
+narrow pathway, though, as there are harpoon traps waiting for you. Let them
+charge into your gunfire. Once you're finished here, move to the west.
+
+Once you spot water on your screen, come to a dead stop. Let the enemy charge
+you, and don't even think about crossing the bridge after they're dead. Not
+only is the bridge path loaded with traps, but there is a sniper right across.
+Take the sniper and the two buildings with rockets, and then kill any
+remaining soldiers.
+
+
+Phase 2 of 4: Bang Bang You're Dead
+-----------------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Immediately kill the sniper to the left of you, and then take your squadron to
+the upper right corner of the map. Create a one-man squad, and give all those
+supplies to that soldier. Ready your rockets and move left. Prepare to take
+out two snipers to the left of the X landmark. Don't cross the river yet, but
+head to the right and to the edge of the river. Keep your cursor south and get
+rid of two snipers in the middle and bottom right corner. Move to the left
+while still on the edge and kill the sniper on the building toward the bottom.
+Finally, cross the river from the right side of the level.
+
+Don't enter the big gun yet, but stay on the right side and move toward the
+river edge. While moving slightly left, keep your cursor on the bottom in
+order to spot three more snipers. Now, enter the big gun and take out all of
+the five metal-plated buildings. Once that's done, eliminate the remaining
+resistance with your other squad. Remember that you can clear the area of
+soldiers around a big gun by firing just a small distance away from yourself.
+
+
+Phase 3 of 4: Deliverance
+-------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+After one look at your map, your first thought would be to navigate your way 
+through the forest. It's funny to find the forest devoid of any soldiers until
+you find that there are harpoon traps aplenty within the narrow areas. When
+you have to squeeze through a small area, try to hug the trees on the top in
+order to avoid the harpoons. Stay away from the marked pixels if you can help
+it. Also watch for the mine trap near the end of the forest maze.
+
+Once you're out of the twisting forest and at the river, stay on the right and
+continue down. After you hit the bottom right corner, move toward the left.
+Behind the plant, you'll find a Missile Boosta. Before you return to the river,
+move west as much as you can and take out the sniper with a grenade or your
+heat-seeking missiles. Now, return to the river. Take note that if you decide
+to divide your squad up, only one will carry the heat-seeking missiles.
+
+Now all you have to do is move down the river cautiously, as a few snipers are
+in the area. You might be safer on the bottom side of the river. Don't hesitate
+to use your new found heat-seeking missiles. Once you push your way into the
+bottom left corner, destroy the buildings and kill off the soldiers.
+
+
+Phase 4 of 4: Jeep Jump
+-----------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+Move into the crevice below and toss a grenade at the building you see. Now,
+keep going to the right, but watch out for the enemy jeep. If it speeds toward
+you, move back so that it will get stuck in the trees. Scrap it with a grenade
+or a rocket. Continue east, and stay behind the trees in order to avoid rocket
+fire from below. In the upper right corner, you will see a building and a jeep.
+Before you detonate the building, move the jeep away. Make sure to use a rocket
+because you'll need your grenades. At this point, you may want to create a one
+or two person squad to complete the rest of the level. Don't move the jeep
+south yet.
+
+Take your troopers to the building in the south, and clear the area of snipers.
+There is one directly right of the hut, one below and to the left (will most
+likely kill himself), and another directly below the hut. Don't fall down the
+cliff, as you will die. Once you've taken the snipers out, go back and retrieve
+the jeep.
+
+Now it's time for the jeep jump. Take the jeep and drive down the cliff in the
+area of water, which is directly below the hut. The jeep will sink down below,
+but before it sinks, quickly move your cursor over the jeep and evacuate your
+squad. You might want to make sure that no enemies are around in this area as
+well.
+
+Cross the river and go south toward the other hut. From the hut, go west until
+you see an enemy building. Throw a grenade at it, and if you have any left,
+throw another at the sniper up top. Now, return to the river and follow it down
+to the big gun. Enter and fire away at the three buildings.
+
+
+-------------------------------------------------------------------------------
+5.9 Great Scott Good Shot
+-------------------------------------------------------------------------------
+You can have a maximum of 135 recruits at this point in the game.
+
+Phase 1 of 2: Round the Garden
+------------------------------
+Briefing: 1 Soldier must Kill All Enemy and Destroy Enemy Buildings
+
+Throw your grenade at the sniper directly below you (and at the building if you
+can hit it). Now enter the machinegun-mounted skidoo and quickly take down the
+sniper to the right. Continue right and make your way to the bottom right
+corner of the map. While avoiding shells, take out the sniper in the corner.
+Move toward the right side of the level and park the skidoo.
+
+This part of the level can get very tricky, indeed. Continue on by clearing the
+immediate area of soldiers and then move west toward the big gun. Knock it out
+with a rocket and keep moving west. You will see an enemy skidoo here, but it
+will usually move up and fire at the igloo. Take this opportunity to fire a
+rocket at it. Now, your last piece of machinery lies in the east. Fire a rocket
+at the last big gun. Once you've done that, take care of the enemy army and
+structures. There is a crate of grenades beside the igloo.
+
+
+Phase 2 of 2: In at the Deep End
+--------------------------------
+Briefing: 1 Soldier must Kill All Enemy and Destroy Enemy Buildings
+
+This level gets REALLY ANNOYING REALLY FAST. You will need a fair amount of
+luck to knock down all the enemy big guns. Grab the two crates of grenades and
+ready your rockets. Swim toward the north east. You will see a small piece of
+land, so send your lone trooper there and keep your cursor north. Once your
+soldier makes it on the land, fire your rockets at the two big guns as fast as
+possible. Move north onto the land and collect the rocket pack there. Ready
+your rockets again, and move to the small island. Keep on the edge of the
+island and point your cursor west. Fire two more rockets at the big guns you
+see. Now, head into the big gun and destroy the building. Make sure to take out
+any soldiers who might be waiting for you to come out of the big gun.
+
+Move south, and get onto the upper edge of the island with the seal. Keep your
+cursor south and fire at the big gun you see. Move to the lower edge and fire
+another rocket at the big gun. Hug the left of the map and cautiously move to
+the right. You will have to take out three more big guns with your grenades.
+Push into the right landmass ever so slightly, and toss everything you have at
+the big guns.
+
+
+-------------------------------------------------------------------------------
+5.10 One Gigantic Dust Bowl
+-------------------------------------------------------------------------------
+You can have a maximum of 150 recruits at this point in the game.
+
+Phase 1 of 5: Square Dance
+--------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+This is a fairly simple level, regardless of the chopper that you will see for
+the first time. Ready your rockets and send your guys toward the first building
+to your right. Fire at the rocket pack, and then take out the bazooka sniper to
+the right of the building. Now, all that is left is to destroy the chopper,
+buildings and soldiers. The chopper is of the troop-transport variety, so it
+shouldn't be much of a threat. It is vulnerable to an explosive when it is on
+the ground. Also, watch out for another sniper at the bottom of the level.
+
+
+Phase 2 of 5: Penny for the Guy
+-------------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Immediately take your troops above the building to the right of you. Destroy
+this building and the next one to the right of you with grenades, and then
+ready your rockets. Go back to the starting point and keep your cursor down.
+Fire at the big gun you see there, and then take out the last couple of
+buildings to your left. Move your troopers right and cross the bridge, making
+sure to avoid the holes and the harpoon trap at the other end (it will be in
+the middle).
+
+Continue going south, firing rockets at the two big guns you approach. Go
+across both metal fences area and move your troops up. Keeping your cursor to
+the left, eliminate the sniper that you will see. Now step into the wooden
+fence area and destroy the building there. Be careful, as a big gun is
+stationed at the western part of the level. Destroy it, and finish off any
+remaining soldiers.
+
+
+Phase 3 of 5: Tanky in the Middle
+---------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings and Protect All Civilians
+
+There are two buildings on each side of the fence that you must destroy. Don't
+enter the jeep yet, but ready your rockets. Move your troopers right and take
+out the big gun on the far side. Blow up the buildings, and hop into the jeep.
+Use the ramp to jump over the fence, then quickly make your way to the ramp on
+the right while ignoring the enemy artillery. Jump over the fence and get out
+of the jeep. Use your rockets to destroy the last two buildings and hope that
+a civilian doesn't get caught in the explosion.
+
+
+Phase 4 of 5: If It Moves Kill It
+---------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+You will spot a tank and a sniper directly north of your position. Take cover
+behind the building by moving your troops to the little green bush. Wait for
+the tank to charge and blow itself up, and then create a one-man squad. Use
+this guy to immediately destroy the building in the south west and the north.
+Keep away from the tank in the north west. You will most likely not need to use
+the big gun, so don't worry about it getting destroyed. Be careful of the four
+snipers that guard it though, and watch out for the mine trap near the south
+end of the map. Hopefully, when you make your move north, game lag will kick in
+and allow you to kill the snipers easily.
+
+
+Phase 5 of 5: A Good Hard Tank
+------------------------------
+Briefing: 6 Soldiers must Destroy Enemy Buildings
+
+Finally, you get to make use of a tank! Unfortunately, this level won't let you
+walk away with a tank unharmed. You immediately begin next to a big gun. If it
+fires at you before you can order your troops, quickly restart the level in
+order to avoid casualties. Destroy the big gun and follow the path up the road,
+ignoring all the enemy buildings. Ready your rockets, and move until you reach
+the end. At the north end near the road corner, a big gun will be waiting. Take
+it out and move left from the road corner. There is yet another big gun to be
+destroyed here. Once that's done, enter the tank and start smashing all the
+buildings down. Be careful of the last big gun on the eastern side of the map.
+
+
+-------------------------------------------------------------------------------
+5.11 Jungle More Jungle
+-------------------------------------------------------------------------------
+You can have a maximum of 165 recruits at this point in the game.
+
+Phase 1 of 3: Lord of the Flies
+-------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+From your starting position, ready your rockets and move your troops through
+the south west path. Go west, past the quicksand fields. Keep going west until
+you hit the edge of the level, then continue south through the narrow path.
+Push your way toward the south eastern corner, and destroy the buildings there.
+Watch out for the big gun that is located near the building on the far right
+side. The chopper should not give you any problems.
+
+
+Phase 2 of 3: Whopper Chopper
+-----------------------------
+Briefing: 4 Soldiers must Get Civilian Home
+
+If the chopper gets you in its sights before you're in the tank, you might want
+to restart the level as soon as possible. This chopper is able to bomb you with
+grenades, and it's hard to shake it off your tail.
+
+Quickly move your soldiers a bit to the right in order to avoid the big gun at
+the bottom. Cross the river and toss a grenade at the big gun over the trees.
+Move down the narrow path and keep your cursor down. Destroy the big gun beside
+the building. Now, you must quickly cross the river and hop into the tank.
+Immediately take out the big guns on the east side. Cross the bridge and fire
+at the tank to the north. Now destroy the enemy building if you wish, then wait
+for the chopper to land. Destroy it, and then head for the barricade. Fire at
+it and let the civilian escape to the south east hut.
+
+
+Phase 3 of 3: Donkeytastic
+--------------------------
+Briefing: 5 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Again, you will face bombers on this level. If one starts to pursue you,
+consider immediately restarting the level. On this level, I find speed to be
+of the essence. Take your guys south until you see a big gun on the left side.
+Toss a grenade, and continue west. Take the top path and enter the chopper you
+see there. Now, fly toward the north side of the map until you see an X. Don't
+land yet, but find a suitable position close to it. Wait for the enemy chopper
+to land, then quickly land your chopper and destroy it. Be careful that you
+don't accidently crash into it when it approaches. Once you've finished it off,
+all you have to do is fly around the map and eliminate the big guns in the
+area. Make sure to land in safe areas when making your approach. Take out the
+huts, too.
+
+
+-------------------------------------------------------------------------------
+5.12 Chiller Thriller Killer
+-------------------------------------------------------------------------------
+You can have a maximum of 180 recruits at this point in the game.
+
+Phase 1 of 6: An Icicle Made for Two
+------------------------------------
+Briefing: 2 Soldiers must Destroy Enemy Buildings
+
+The most frustrating thing about this level are the vehicles that you'll be up
+against. Select your rockets and move east, keeping your cursor pointed right.
+Fire at the skidoo you see before it spots you, then quickly continue east,
+toward the igloo. Avoid the bomber chopper as much as you can. Move south of
+the igloo and enter the tank you see. Now, take your time and destroy the three
+buildings on the north side of the map.
+
+
+Phase 2 of 6: Tank You Very Much
+--------------------------------
+Briefing: 2 Soldiers must Kill All Enemy
+
+The first half of this level is easy. Hop into the tank right next to you, and
+destroy everything at the southern end of the level. Be careful near the top of
+the land mass, as three big guns and a tank will be waiting for you. Destroy
+all the buildings and park the tank near the hole. You might want to keep one
+guy in the tank because you'll be facing a sniper. If you do this, split your
+supplies up evenly.
+
+Clear the south side of any soldiers. Now, stay on the left side and move north
+across the water. You'll spot a sniper near the barricaded ramp. Try to get the
+sniper to blow up the barricade for you, then move up the ramp and gun down
+the sniper and any surrounding soldiers. Destroy the building, and clear the
+top area of soldiers. Hunt down the rest of the resistance if any exist.
+
+
+Phase 3 of 6: Death and Glory
+-----------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Move north behind the trees and toss a grenade at the big gun there. Select
+your rockets and move toward the spot where the big gun was and point your
+cursor north. Let a rocket loose at the big gun and continue east. Keep your
+cursor pointed east and fire a rocket at either the big gun itself or one of
+the mines. Swim to the island and enter the chopper on the right. Ready your
+grenades and fly toward the barricade in the south west. Land on the top side
+of the barricade and toss a grenade at the sniper. Re-board the chopper and
+land near the tank. Now, take the tank and clear the western land mass of any
+life. Head back into the chopper and land it in the south east corner. Destroy
+the building, and ready your rockets. Move north and make short work of the big
+gun.
+
+
+Phase 4 of 6: North Face of the Tiger
+-------------------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Stay behind the trees and throw grenades at the big guns directly below you and
+to the left. Select your rockets and move to the right of the trees. Point your
+cursor down and fire at the big gun. Get to the other side of the trees and
+stay alert for two more big guns. There is one in the center on the south end
+of the map and one a bit to the left. Destroy the building in the south east
+and enter the helicopter. Take the chopper to the upper right corner and make
+your way to the tank in the west. Enter the tank and quickly fire on the big
+gun on your left. Now, clear each platform of buildings and enemies. Don't
+worry about totalling the tank when you fall down the cliffs.
+
+
+Phase 5 of 6: Rescue El Presidente
+----------------------------------
+Briefing: 4 Soldiers must Rescue Hostages
+
+Because of the obscene amount of big guns in this level, you may want to
+attempt it with one or two soldiers, and then restart if the going gets bad. At
+any rate, choose your rockets and fire at the  big gun you see on the top left.</pre><pre id="faqspan-2">
+Continue down while keeping your cursor on the left. Another two big guns for
+you to destroy will soon appear to the left of the trees. Now, hug the right
+side of the map and move down toward the unoccupied big gun. Take control of it
+and fire at the approaching tank. Get out and move left. There will be two big
+guns near the trees. One is above you, and the other is below the cliff.
+
+Move past the trees and take control of the transport chopper. Land at the area
+to the right of the hostage. Use a rocket to take care of the big gun, and then
+throw two grenades - one for the soldier guarding the hostage and the other for
+the building next to him. Don't worry about killing the hostage, 'cause you
+can't. Enter the chopper and land right beside the hostage. Clear the area of
+any soldiers and get the hostage to follow you into the chopper. Escort him to
+the MASH tent in the south west.
+
+
+Phase 6 of 6: Chill Out Iceman
+------------------------------
+Briefing: 6 Soldiers must Kill All Enemy, Destroy Enemy Buildings, and Destroy
+Enemy Factor
+
+This mission isn't too difficult. You may be wondering about the three lights
+in this level. Don't worry about them; they're not necessary to complete this
+level. If you divide your squad and press them down, you will summon the
+chopper in the center of the level, but it is only a basic troop-transport.
+I suppose the designers wanted you to use this troop transport to take your
+troops to the big gun on the center building, but you can simply walk into it
+from the ground...
+
+Get your rockets out and fire at the big gun on the building due east. Cross
+the water east and keep on the look out for another big gun above you. Destroy
+the chopper on the right while it's still on the ground. Ignore the unoccupied
+big gun and move north. There is a big gun dead ahead, so destroy it. Another
+big gun lies on a building in the north west, so finish it off and enter the
+unoccupied big gun in the center. You might want to keep a soldier or two out
+of the big gun because you won't be able to get out of it.
+
+Destroy the buildings around you, and then kill off any soldiers you see.
+Once you've done that, fire at the factory door a couple of times until you
+complete the mission. The door won't fly off, so destroying the factory must
+be the last portion of the level to complete.
+
+
+-------------------------------------------------------------------------------
+5.13 More Moors
+-------------------------------------------------------------------------------
+You can have a maximum of 195 recruits at this point in the game.
+
+Phase 1 of 1: Much Much Moor
+----------------------------
+Briefing: 2 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+This is another of those annoying missions that require a bit of luck. You
+will have your first encounter with big guns that are resistant to grenade and
+rocket explosions, so your only chance is to make use of the big guns in the
+level. Quickly fire at the soldiers swimming to you, then swim across and enter
+the big gun. Fire at the enemy big gun, and then take out the sniper. Ready
+your rockets and begin move slowly to the north. You will encounter a jeep
+speeding in your direction, so fire a rocket at it. Destroy the building there,
+then move right until you see an unoccupied big gun. Enter it and destroy the
+enemy big gun and the building to your right side. Now scour the map for any
+soldiers you may have missed.
+
+
+-------------------------------------------------------------------------------
+5.14 Bomb Alley
+-------------------------------------------------------------------------------
+You can have a maximum of 210 recruits at this point in the game.
+
+Phase 1 of 3: It's All Mine
+---------------------------
+Briefing: 1 Soldier must Destroy Enemy Buildings
+
+Take note that the enemy soldiers are aggressive and the enemy big guns are
+not resistant to grenade/rocket fire in this mission. Get your rockets ready
+and move east. Get ready to fire at the sniper across the chasm and then a big
+gun to the north east of the bridge. Now move over the bridge and head to the
+south west corner. Be careful to sweep the area of mines. Enter the chopper
+and use its heat-seeking missiles to finish the level.
+
+
+Phase 2 of 3: Sandy Crack
+-------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Ready your rockets and prepare to destroy three big guns. From the starting
+point on your map, there is one in the north west corner, one to the south and
+one in the south east. Take care of the chopper once it lands on the ground.
+Once that's done, destroy the buildings and gun down any enemy soldiers. You
+can make use of the jeep to speed things up.
+
+
+Phase 3 of 3: Airlift
+---------------------
+Briefing: 4 Soldiers must Rescue Hostages
+
+Ready your rockets and enter the chopper on your right. Scout out the level
+so you know where the big guns lie. Land in the far upper left corner and
+quickly take the big gun down. Now all you have to do is move around in a
+circle; start by moving east and destroy the big gun. Clear the area and get
+the hostage to follow you, then repeat for the south and western areas. Take
+the hostages to the chopper, and then escort them to the MASH outpost in the
+south east.
+
+
+-------------------------------------------------------------------------------
+5.15 Get Orf Moi Land
+-------------------------------------------------------------------------------
+You can have a maximum of 225 recruits at this point in the game.
+
+Phase 1 of 3: Sheep Dip
+-----------------------
+Briefing: 3 Soldiers must Kill All Enemy, Destroy Enemy Buildings, and Protect
+All Civilians
+
+Quickly move to the left side in order to avoid big gun fire. Move up and to
+the left. Don't destroy the civilian building you see. Continue to the bottom
+left corner, then move right and hop into the chopper. Land near the tank in
+the upper right corner. Take control of the tank and move down, destroying the
+three big guns stationed near the edge of the river. Destroy the building, and
+hunt down the remaining enemy soldiers.
+
+
+Phase 2 of 3: Chocs Away Chappies
+---------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+Move east onto the small piece of land that is out of range of the sniper you
+see. Toss a grenade at the sniper, then make your way east. Watch out for the
+sheep; they are rigged to explode upon contact. Move across the bridge and
+destroy the building in the north. Toss a grenade over the trees at the sniper
+above you, then enter the bomber chopper. Take care of the sniper squad in the
+western area, then take one soldier and attempt to take over the empty big gun.
+Immediately fire at the enemy big gun below, then destroy the buildings you
+see.
+
+
+Phase 3 of 3: A Bridge Too Far
+------------------------------
+Briefing: 4 Soldiers must Kill All Enemy, Destroy Enemy Buildings, and Protect
+All Civilians
+
+Take your troopers into the transport chopper in the north. Do some recon work
+so you know where everything is. Before you take a landing spot, take a visit
+to the tank in the north end of the map. Fly into it and try to get the tank to
+destroy itself. Don't worry, you are completely safe unless you accidentally
+attempt to land. Land near the gray building in the east.
+
+Get into the big gun and destroy the building, and then target the jeep on the
+northern island. If you don't see it, hop back into your chopper and try to
+lure it onto the edge. Take the chopper to the civilian buildings in the south
+west. Send a solitary soldier to the big gun in the north and destroy the enemy
+artillery. Now, it is all a matter of destroying the building in the south and
+hunting down the rest of the enemy troopers.
+
+
+-------------------------------------------------------------------------------
+5.16 Going Underground
+-------------------------------------------------------------------------------
+You can have a maximum of 240 recruits at this point in the game.
+
+Phase 1 of 2: Eton Rifles
+-------------------------
+Briefing: 2 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Grenades will be useful in the underground levels. Take your troopers south and
+take out the bazooka sniper on the left. Quickly kill the next sniper in the
+upper left corner. Wait a while for the sniper behind the wall below you to
+blow himself up. Move up and toss a grenade in between the sniper and the
+building door. Continue on left and ready your rockets if you haven't already.
+
+Blow the door above you, then take out the door on the left. Being careful not
+to shoot the crate of grenades, pick them up and then fire a rocket at the
+building door. Move on to the next room on the right. Be careful; there are
+three mine traps and a bazooka sniper in here. Break down the door below and
+keep your troops moving. Go on through the narrow path and detonate the
+building door that you see. Keep going left and kill the sniper there with a
+grenade or whatnot. Finally, take out the last enemy in the north.
+
+
+Phase 2 of 2: Sewers Canal
+--------------------------
+Briefing: 3 Soldiers must Destroy Enemy Buildings
+
+Take your troops to the water in the west. Get to the stairs and toss a grenade
+at the sniper above you. Continue on left and destroy the enemy building there.
+Climb up the staircase on the left. If you want a Rank Boosta, head to the
+platform on the left. It is behind a barrier, which must be detonated 4 times.
+In any case, just get to the big gun in the upper right corner and complete
+your mission.
+
+
+-------------------------------------------------------------------------------
+5.17 The Moor The Merrier
+-------------------------------------------------------------------------------
+You can have a maximum of 255 recruits at this point in the game.
+
+Phase 1 of 1: No Way In
+-----------------------
+Briefing: 4 Soldiers must Kill All Enemy, Destroy Enemy Buildings, and Rescue
+Hostages
+
+Destroy the building door directly to your right, then continue right until
+you can see the hostage. Toss a grenade at the building to stop the flow of
+enemies, then move south across the river. Don't cross the bridge left, but
+move on down until you can see a sniper guarding the MASH outpost. Toss a
+grenade his way, then throw a grenade at the building to the right of him.
+Follow the path, and take a right when you see the barricade. Take this path
+down, but stay alert for the sniper in the south east north of the map. Enter
+the tank on your left, and head to the barricaded area. Take down the enemy
+building on the north, then head for the hostage. Clear the area of enemy
+soldiers, then take the hostage inside the tank. Return to the bridge and cross
+it, being careful of the big gun on the bottom. Get out of the tank and head
+down the river to the MASH outpost. If you missed any enemy soldiers, take them
+out.
+
+
+-------------------------------------------------------------------------------
+5.18 Underpants Electric
+-------------------------------------------------------------------------------
+You can have a maximum of 270 recruits at this point in the game.
+
+Phase 1 of 5: Take Your Partners
+--------------------------------
+Briefing: 3 Soldiers must Rescue Hostages
+
+This simple level is made annoying by the waves and waves of enemy soldiers who
+prevent the hostages from following you. Start by moving to the left. You'll
+see a big gun to the left, so wait until it attempts to fire at you and blows
+itself up in the process. Continue toward the empty big gun and fire at the
+building door all the way on the left side. Get out and enter the narrow
+corridor below you. Fire four rockets at the barrier and proceed to the area
+with the hostage. Take out the sniper with your rifle, and then move south to
+retrieve a rocket package. Keep the area clear of any enemy soldiers and take
+the hostage back to the starting point.
+
+When you reach the pool of water, fire four rockets in between both the
+barriers below you. The hostages will most likely get stuck in the corner after
+they cross the water, but that's okay. Continue to the right and destroy the
+door you see. As you enter the room, watch out for the sniper on the top. Enter
+the big gun and scrap the building door at the top and the metal door on the
+bottom. Keep going down, and kill the sniper you see there (you might want to
+throw a grenade because he'll aim for the wall as you walk through). Head into
+the big gun and destroy the building door. Now return for the hostages and
+escort them to the MASH outpost.
+
+
+Phase 2 of 5: The Scroungers
+----------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings and Protect All Civilians
+
+Yet another simple level made difficult. This time around, it's a narrow
+corridor with a large number of soldiers waiting for you to cross it. You can
+take the jeep on the left if you wish. It's not essential to reach your
+destination, but you may get shot by one of the civilians. Make your way to the
+upper left corner, where you'll have to cross through a tiny space into a big
+gun. Send your soldiers one at a time until someone can get inside, and clear
+the area with grenades if you have to. Destroy all the enemy buildings you see.
+
+
+Phase 3 of 5: Plenty of Room
+----------------------------
+Briefing: 5 Soldiers must Rescue Hostages
+
+Your key destination is in the north end of the map, where a chopper awaits.
+Take your squadron to the far east, and toss a grenade at the jeep that is
+inside the next room. Blast your way into that room with a rocket, and then
+move a bit to the left. Wait for the jeep to come at you in the upper left
+corner, and then fire a rocket at the wall while keeping out of range. You will
+see a big gun above you, so position yourself to make it kill itself. Continue
+on north into the room with the chopper. Hop in and destroy everything to make
+escorting the hostages an easier job. Grab the three hostages and send them to
+the MASH outpost
+
+
+Phase 4 of 5: Franz Klammer
+---------------------------
+Briefing: 6 Soldiers must Rescue Hostages
+
+I hope your driving skills are at peak performance, because you'll be doing
+some driving right through a couple of big guns. Quickly move your squad toward
+the left to avoid the big gun missiles. Cross the river and get to the jeep on
+the far side (keep only one man inside the jeep to preserve the other troops).
+Take the jeep and jump the ramp. Now, navigate your way across no man's land.
+Make sure that you always keep moving and don't crash into a big gun. Jump the
+ramp at the end and retrieve the hostage there. Now, head back to the river on
+the far left side and drop off the hostage.
+
+
+Phase 5 of 5: The Doors
+-----------------------
+Briefing: 6 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Are you still having fun up to this point? I sure hope you are, because you'll
+need that perverted sense of fun in order to get past this level. This level
+sports two tanks and a hell of a lot of soldiers, and all you've got is a jeep.
+What's worse is that if you want to preserve your soldiers, you'll have to get
+to the top and bomb a door open first. If you keep them in the starting corner,
+a tank may come and take all of your soldiers out.
+
+Ready your rockets and separate your squad if you wish. Your target is the
+enemy building door on the far left. To the right of this building door lies
+a wall door and a barrier right next up close to it. Ready your rockets and
+take your troops there. If a tank closes on your position, you will have to hop
+back into the jeep and attempt to lure it away. Park the jeep in front of the
+enemy building and fire away at the wall door. Fire away at the barrier, making
+sure that you don't blow yourself up. Quickly head north and into the chopper.
+Lay waste to everything in sight.
+
+If you have trouble getting into the doorway with the chopper, try going into
+the doorway to the right of that one. Then, you can throw grenades to clear the
+area.
+
+
+-------------------------------------------------------------------------------
+5.19 Diablo Downstairs
+-------------------------------------------------------------------------------
+You can have a maximum of 285 recruits at this point in the game.
+
+Phase 1 of 1: Look Out
+----------------------
+Briefing: 6 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+This map can be a bit hellbound, but just stick it out and you can succeed.
+Equip your rockets and head for the north east corner. Keep your cursor ahead,
+and fire at the jeep before it senses you. Send your guys into the upper right
+corner. Now you have to spilt your squad up into three. Take one squad and move
+them to the south west corner. Have them stand on the switch, and then take
+control of another squad. Move this squad to the switch in the north west.
+Finally, select the last squad and move them to the switch directly below. Once
+the switch turns red, pull back a bit to avoid missile fire. When the chopper
+lands, quickly enter it and destroy the big guns, then hunt down the enemy
+chopper if it isn't already down. Regroup with your boys on the ground and send
+the base down a few more feet under.
+
+
+-------------------------------------------------------------------------------
+5.20 Moors the Pity
+-------------------------------------------------------------------------------
+You can have a maximum of 300 recruits at this point in the game.
+
+Phase 1 of 4: Tank Top
+----------------------
+Briefing: 3 Soldiers must Destroy Enemy Buildings
+
+Before you head left, destroy the building on your right side. Go on your way
+and head to the far left, and then south toward a building. Keep going down
+until you find the southern most enemy structure. Destroy it, then move to the
+river. Quickly move into the pathway above you, but stop as soon as you are
+safe from the big gun. Now, create a one-man squad (you might want to use your
+lowest ranking soldier for this) and hug the left side. Move up and hold on to
+the top side. Keep going right until you reach the Trooper Boosta. Savour your
+newly found powers and destroy the rest of the buildings to complete the level.
+
+
+Phase 2 of 4: Tanktastic
+------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+Send your squad inside the tank and destroy the enemy tank above you. Take out
+the building close to you (second from the left side of the level) and the
+building directly above that one. From that top building, head to the east and
+take down the enemy tank near the barricade. Continue downwards and take the
+road to the right. Fire at the approaching building and the tank near the east
+side. Destroy the building in the upper right corner, then move back to the
+road. Go left until you hit the crossroads. Move straight down, then drive
+to the western end, where a tank lies. Waste it and the building beside it,
+then destroy the building below you. Head to the river and get out of the tank.
+The rest is easy: just move down the river and take out the buildings on each
+side. Watch out for the sniper to the left of the river, though.
+
+
+Phase 3 of 4: The Great Escape
+------------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Get Civilians Home
+
+Enter the chopper above you and head north toward a tank. Try to get the tank
+to kill itself by flying closely around it. Now move toward the island in the
+upper right corner and wait for the chopper to land there. Take it out, then
+fly to the upper left area, where a tank awaits your command. Kill the sniper
+beside the tank, then descend and take control of it.
+
+Fire at the two barricades, then follow the path toward the cottage near the
+center of the level. Take care of the big guns that you see - there are four to
+destroy. Be careful that you don't destroy the cottage. The hostage should be
+on his way shortly. You can continue hunting down the remaining soldiers.
+Although destroying enemy buildings isn't a must, it will certainly help.
+
+
+Phase 4 of 4: Whoopeee
+----------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Get your rockets ready and hop into the jeep. Follow the road to the east, then
+drive down to the building on the left. Get out of the jeep and cross the river
+below. Move down the river edge and fire two rockets at the snipers you see
+(one on each side of the river near the east edge of the map). Continue to the
+south east corner and enter the chopper there. Leave a fiery trail of
+destruction across the map to finish the mission.
+
+
+-------------------------------------------------------------------------------
+5.21 Explore My Hole
+-------------------------------------------------------------------------------
+You can have a maximum of 315 recruits at this point in the game.
+
+Phase 1 of 1: Too Many Man
+--------------------------
+Briefing: 1 Soldier must Kill All Enemy and Destroy Enemy Buildings
+
+This level is straightforward, if not a bit frustrating. Avoid the mine on your
+left side and just make your way to the big gun. The area around the big gun
+is usually a gathering point for soldiers, so toss a grenade to clear the area
+as you pass through the narrow corridor.
+
+
+-------------------------------------------------------------------------------
+5.22 Desert Disaster
+-------------------------------------------------------------------------------
+You can have a maximum of 330 recruits at this point in the game.
+
+Phase 1 of 4: Rocket Man
+------------------------
+Briefing: 1 Soldier must Kill All Enemy, Destroy Enemy Buildings, and Rescue
+Hostages
+
+Well, you start right next to an enemy big gun and an unoccupied chopper. If
+you're about to get wasted, remember to quickly restart the level. There isn't
+too much to this level, really. Just fly around in your chopper and complete
+the objectives. The only threatening enemy aside from the beginning is another
+chopper with missiles. Don't worry about it, though - its aim isn't that great.
+
+
+Phase 2 of 4: Running Out of Ideas
+----------------------------------
+Briefing: 1 Soldier must Kill All Enemy and Destroy Enemy Buildings
+
+Your key destination is the bottom right corner. Move down and kill the sniper.
+Continue on down and once you see a crate of grenades, sweep the area for a
+mine. Keep going down until you see a Troop Boosta and a big gun. Fire a rocket
+at the big gun or the mines surrounding it, then grab the Troop Boosta. Now,
+it's all a matter of taking down the enemy buildings and shooting the last
+soldiers.
+
+
+Phase 3 of 4: And They're Off
+-----------------------------
+Briefing: 1 Soldier must Kill All Enemy and Protect All Civilians
+
+You can do this the 'designed' hard way, or the easy way. First, the easy way.
+Quickly break down the fence with a rocket and then fire a rocket at the moving
+jeep. 
+
+Now, the way the developers probably wanted you to complete the level: take the
+jeep and just keep going until you hit the fence. Back off and throw a grenade,
+and keep breaking through the fence until you reach the big gun at the end.
+Target the jeep and take it down when it is in range.
+
+
+Phase 4 of 4: Go For It
+-----------------------
+Briefing: 1 Soldier must Kill All Enemy and Destroy Enemy Buildings
+
+Another easy map, save for the starting position. Quickly enter the chopper
+beside you, then destroy everything on sight.
+
+
+-------------------------------------------------------------------------------
+5.23 Moors Et Mortem
+-------------------------------------------------------------------------------
+You can have a maximum of 345 recruits at this point in the game.
+
+Phase 1 of 5: Sheep Shearer's Delight
+-------------------------------------
+Briefing: 2 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Be careful, as all enemy soldiers will now aggressively attack in every level.
+Make your way to the big gun due south east of the enemy building you see. Take
+down the enemy building, any soldiers in the area, and the two barricades to
+the east and south. Enter the southern area and jump into the chopper you find
+there. Scout out the area so that you can see where two enemy tanks lie, then
+land the chopper near the empty tank in the north east. Take control of the
+tank and knock down the barricade. Take care of the two tanks and any remaining
+soldiers you may have missed.
+
+
+Phase 2 of 5: Ireland Records
+-----------------------------
+Briefing: 3 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+A chopper awaits in the far lower left corner. Immediately cross over to the
+left island, then toss a grenade at the sniper you see. Take care of any enemy
+soldiers around you, then swim all the way to the left side of the level. Keep
+on the left and swim down until you see the chopper. From here, just fly
+around and blow stuff up. Remember that if an enemy chopper is able to get a
+lock on with a heat-seeking missile, DON'T STOP MOVING until you have completed
+the level.
+
+
+Phase 3 of 5: Gawd Help Me
+--------------------------
+Briefing: 4 Soldiers must Kill All Enemy
+
+Don't board the chopper, but ready your rockets as quickly as possible. To the
+left and top are two enemy choppers. Destroy them while they're still on the
+ground. If you fail to take them out, restart the mission.
+
+
+Phase 4 of 5: Chopper Crazy
+---------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+Arm your rockets and send a solitary soldier south. While keeping your cursor
+down, fire at the sniper below. Regroup your soldiers if you wish, then hop
+into the chopper near the sniper you killed. Land the chopper near the other
+chopper you see, but try to land near the top side so that the sniper will blow
+himself up as soon as you land. Take control of the other chopper, and continue
+the level by destroying the enemy buildings.
+
+
+Phase 5 of 5: Stop the Pidgeon
+------------------------------
+Briefing: 6 Soldiers must Kill All Enemy
+
+Go down a bit and take care of the mine trap. Continue on north and fire at the
+mine traps, but make sure that you don't hit the mine trap near the chopper
+(which will destroy the chopper, too). Also, watch out for harpoon traps. To
+avoid them, approach the island on the left side, and then move to the right
+when you see the chopper. Enter the chopper carefully, then hunt down the enemy
+choppers and big guns. If an enemy chopper makes it to your position before
+you are in the air, restart immediately.
+
+
+-------------------------------------------------------------------------------
+5.24 Bomb the Base
+-------------------------------------------------------------------------------
+You can have a maximum of 360 recruits at this point in the game.
+
+Phase 1 of 6: Save that Scumbag
+-------------------------------
+Briefing: 4 Soldiers must Kill All Enemy
+
+There's not much to this level. All it requires is some decent tank driving
+skills. Send your squad (or one soldier if you want) to the tank in the far
+east. Take control of it and head to the area with the big guns. Move around in
+a circle and destroy all of them. You may want to consult your map before doing
+so.
+
+
+Phase 2 of 6: One Man Three Choppers
+------------------------------------
+Briefing: 4 Soldiers must Destroy Enemy Buildings
+
+It doesn't matter which route you take, 'cause they all lead to choppers.
+However, the easiest route is toward the transport chopper. Enter the path on
+the right, making sure to fire over the walls and throw grenades at any
+snipers you see. Get to the chopper in the bottom right corner, and then fly it
+to the chopper in the upper right corner. Land safely and take control of the
+chopper here. Fly around and destroy the enemy buildings to finish the level.
+
+
+Phase 3 of 6: A Watery Grave
+----------------------------
+Briefing: 4 Soldiers must Kill All Enemy and Destroy Enemy Buildings
+
+Head into the transport chopper and fly to the north end of the level. Fly over
+the mines to make them detonate, then return to the south end and land. Send
+your squad to the small island where the sniper was standing. Quickly toss
+grenades at the two buildings, and then at the remaining soldiers. You must
+make your shots count, as you'll only get four grenades to play with.
+
+
+Phase 4 of 6: System Off
+------------------------
+Briefing: 4 Soldiers must Kill All Enemy, Destroy Enemy Buildings, and Destroy
+Computer
+
+There are two enemy choppers and a bunch of big guns that you will have to deal
+with. Thankfully, there is an attack chopper due north of your starting
+position. Send your squadron north and get into that chopper before the enemy
+air force spots you. Now you have to wreck everything in sight, but only this
+time you will have to dodge a fair amount of heat-seeking missiles. Even the
+big guns have heat-seeking missiles here. Just keep your cool and don't rush in
+too much. If you're wondering, the enemy computer is that brown spherical
+structure with wires sticking out in all directions. You'll need to fire at it
+a few times before it's completely destroyed.
+
+
+Phase 5 of 6: Stick Em Up Cod Breath
+------------------------------------
+Briefing: 5 Soldiers must Kidnap Enemy Leader
+
+Create a one-person squad if you wish, and then move down across the water. Hug
+the right side of the wall as you move through the narrow hallway. Quickly
+enter the jeep and make a suicide run past the big guns to the chopper.
+Hopefully, you'll make it in time. There is also a tank to the south that you
+can try to reach, but you have to drive down a narrow corridor with two big
+guns right next to you.
+
+With the chopper, use it to take out the big guns. Try not to let the big guns
+fire at you, as they will fire heat-seeking missiles that will swat you like a
+silly fly. Once all of the big guns are dealt with, eradicate the enemy forces
+in the small room. Don't worry about hurting the enemy leader, as you can't.
+Kidnap him and return him to the MASH outpost in the north.
+
+
+Phase 6 of 6: Deathtasticelastic
+--------------------------------
+Briefing: 5 Soldiers must Destroy Enemy Buildings
+
+This is it...the final level of the game. To make it interesting, you will be
+unable to look at your map, and instead of the map icon being displayed, a
+timer will appear in the bottom left corner. I think you should complete this
+level all by yourself, but if you need the help...
+
+Begin by immediately moving your troops into the water below. Once your squad
+is in the water, create a one/two person squad and give them all the supplies.
+Before you take control of that squad, though, order your main squad to move
+left (watch out for the mine, though). Now take the new squad up the ladder on
+the left. Break through all of the barriers with a couple of well-placed
+explosives and place the squad onto the switch. The big gun on your left will
+most likely kill itself when it spots this squad.
+
+Now, make another squad and move them to the bottom end of the map. Take this
+new squad up the ladder you see, but watch out for the mine trap at the very
+top of the ladder. Order the squad to stand on the switch there, then take
+control of your main squad.
+
+Move the last squad into position by climbing up the ladder on the left side
+of the map. Get into the big gun and dispatch the enemy artillery as fast as
+you can. Move onto the switch and await the chopper. Quickly hop onto the
+chopper, but don't bother regrouping. You must now seek out all the enemy
+buildings. There are three on the top end of the map and one near the lower
+left switch. Move quickly because the enemy air force will be gunning down your
+troops. Finally, take out the enemy computer in the center of the map.
+Congratulations! You've completed Cannon Fodder!
+
+
+
+Well, I've done my part. Now it's up to you, soldier!
+
+Would you attempt a suicidal solitary effort against a bunch of big guns rather
+than try to understand my writing? Is there a question or comment you'd like to
+give to me? Whip out your bazooka and launch your e-mail messages to
+DesertGunstar@hotmail.com
+
+This Document is Copyright(c) 2004 by Desert Gunstar

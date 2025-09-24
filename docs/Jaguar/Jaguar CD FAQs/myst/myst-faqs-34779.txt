@@ -1,0 +1,270 @@
+    SM              M.   XMMWXS8       ;M@MMM     MMMMMM    7MMMMMMZrZMMMMMMB
+    7MM            MMa      MMMM        MM     2M.    7MZ  MM7     MMM      M
+    ZMMM          MMM:       XMMM      MM     XMM      S8          MMM      M
+    MMMMM        MMMMM        2MMB    MM      7MMM                 MMM
+    M 0MM7      WM MMM,        MMM8  MM        WMMMM               MMM
+    M  MMM,     MS MMM           MMMMM           MMMMMW            MMM
+   MM.  MMM    MB   MMM           MMM              SMMMMr          MMM
+   Mi    MMM  MM    MMM           MMM                MMMM          MMM
+   MS    aMMMMM     MMM           MMM         M        MM          MMM
+  MMr     WMMM       MMM          MMM         M       .MW          MMM
+7 MM0,     MM       ,MMM S2.   X;:MMM Sa      MMMXXSrMM         iX MMM Xr
+
+A "Quick" Myst Guide For The Surreal PC Game That Change The Whole Wide World.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+==============================================================================
+
+*IMPORTANT! READ FIRST* It is vital that you know that this is not a super
+long and in-depth FAQ/Walkthrough for this game. This FAQ provides the fastest
+and easiest way to beat the game with all of the minimun requirements. It just
+skips all the long, in-between puzzles and gets right to the point. If you
+want to enjoy this game like everyone else has, beat it the real way, by your
+own self. If you want to just see the ending(s) or show a friend how fast you
+can beat this game after it took him hours, then this is where you want to be.
+
+------------------------------------------------------------------------------
+
+GAME:          Myst
+SYSTEM:        PC/Computer
+FAQ WRITER:    tectactoe (Tony)
+VERSION:       1.0 (Final)
+STARTED:       January 13, 2005
+FINISHED:      January 14, 2005
+
+------------------------------------------------------------------------------
+
+I.   Getting Started
+II.  System Requirements
+III. Controls
+IV.  Walkthrough
+V.   Contact
+VI.  Legal Stuff
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+I. Getting Started
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Before you go any further, read the IMPORTANT notice at the top of 
+this FAQ. It will help you better understand what I am getting at,
+and you won't be all confused while you are reading this guide.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+II. System Requirements
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Windows 3.1; or Windows 95
+- 386DX 33 MHz (486 recommended)
+- 4MB of RAM (8MB recommended) for Windows 3.1
+- 8MB RAM for Windows 95
+- Super VGA (640 x 480, 256 colors)-with compatible drivers
+- Windows sound device with compatible drivers
+- CD-ROM drive (double-speed drive or higher recommended)
+
+*PLEASE READ* Myst will only run on Windows 95, but you can get it
+to run on newer OS, like 2000/NT, ME, or XP. Here's what you do:
+
+1. Install Myst
+2. Shortcut Myst (right click desktop, New > Shortcut. Find where you
+   saved it and click OK)
+3. Right click the shortcut, go to Properties
+4. Click the tab labeled "Compatibility"
+5. Check the box next to "Run this program in compatibility mode for:"
+   and make sure you select Windows 95
+6. Check the box by "Run game in 265 colors" (if there is one)
+7. Click Apply, then click OK
+8. Double click on the Myst shortcut and everything should be fine
+
+*NOTE* After doing the above trick, you may notice that when you 
+minimize Myst, the rest of your computer will be in 256 colors and
+look old and outdated. Don't worry. Once you exit Myst, everything
+will go back to normal.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+III. Controls
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Myst is simple. On screen there is a hand. Move it around and
+click when you want your character to move to something. Sometimes
+the hand will point left/right. Click like this to turn the way
+you are facing. Clicking on certain things on the screen (like
+buttons) will activate them and whatnot. Click on other things
+(like pieces of paper) will pick them up, and you will carry it
+until you do something with it.
+
+One important thing you will need to know for my FAQ is how to
+turn ON things we call Markers. They are wooden boxes that have
+levers on the top of them. You must be close to one to turn it
+on or off. Lever up is on. Lever down is off.
+
+There are some keyboard shortcuts in Myst. Here they are:
+
+- ALT+N:  Starts a new game
+- ALT+R:  Restore (load) game
+- ALT+S:  Save game
+- ALT+F4: Exit the game
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+IV. Walkthrough
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Ok first you need to know a few things before you read. This will
+help you understand this FAQ alot better. If you already know alot
+about Myst, you can just skip these guidelines.
+
+- When I say "Markers" I am referring to things that look like
+  wooden boxes with a lever on the top.
+- To turn a marker on/off, you must get as close as possible to
+  it and click the lever. The lever up means it's ON. When the
+  lever is down, it is OFF.
+- When I say click up, it means click on something when the little
+  hand cursor is pointing up. Click left means pointing left, click
+  right is right, down is down.
+
+*NOTE! IMPORTANT* I played about half of this game with Zip mode on. This
+lets you transport to certain spots more quickly. I'm not sure if it was
+on when I was making my guide, so for certain things, the number of clicks
+may be slightly off. I still do give you a description of where you are
+going though, so it shouldn't be a problem. E-mail me if it really is.
+
+Ok, now you are ready to beat Myst in record time...
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+When you first start off on the dock, click stright ahead once to
+ahead a litte bit. You see that thing on the right of the screen?
+That's a marker. Click the lever on top. It should go up. Now it
+is ON. Yay, you have just turned your first marker on.
+
+Once that's done with, click up on the stars to the left, then click
+to the right to turn, and then click up straight ahead TWICE, and you
+should be on a platform with a huge gear and another marker. Now turn
+that marker on. Woo-hoo, two down and six to go.
+
+Now click right to turn around, and click up four times. Make sure 
+that on your third click, you click on the higher platform slightly
+to the right and do not go down the second set of steps to the dock.
+After four clicks, you should see some stairs to the right. Click up
+on them to face them. Click up them twice. You will see another one
+of those markers. Click up on it and you will move close to it. Now
+click on the lever to turn it on.
+
+Okay, now click left to turn around and face the path. Click up, but
+on the right side of the wooden path to turn that way. Now go ahead
+and click up again and you should see a circular, gray platform in
+front of you. Click up on that to move closer, and up on it again to
+stand on top of it. Now click up three times on the platform and you
+will see a rocketship and a marker. Turn the marker on.
+
+Click left again to turn around, then up three times again so you'll
+walk back across the platform. From this point, click up around the
+middle of the screen. Now you should see a subtle path two the right
+side (it is outlined with ropes strung by stakes). Click up on these
+ropes to face the path. Now click up twice, straight ahead (be sure
+not to accidentaly click down into the fountain). After doing that,
+you will see a marker to the left side of your screen. It is facing
+away from you. Oh well. Turn it on.
+
+From here, click up three times and then click right to face a small
+building with a marker in front of it. Simply do what you have been
+doing and turn that sucker on.
+
+Click left above the marker to turn back to the main path. Now from
+right here, look very closely to the left of the screen. You can see
+a small path cutting between the trees. To help see it, the grass is
+sort of a lighter shade of green. It's near the bottom of the screen.
+Click up on this path to face a cabin with a marker out front. Guess
+what? Click up once to move close, then turn it on.
+
+After that, click right to turn around and then click up thrice along
+the grassy pathway to come to a box with two gears on it. A small one
+and a big one. When you turn the small one, the hour hand on the big
+clock tower in front of you will move. The big wheel moves the minute
+hand. Skipping past puzzles and whatnot, you need to make it 2:40. In
+simpler terms, click the small gear 2 times and the big gear 8 times.
+Make sure you are looking down at the box. If you can still see the
+tower, then click on the box to face it. Now turn the gears as I said
+above, and watch a gear brigde magically form. Cool. Click up to look
+up, and then click up twice along the gear path and turn the marker
+that you see to the on position.
+
+Now click right to turn around, and click up five times to backtrack
+along the grassy path you took to get here.  After going up five times
+you should be facing a builing. Now click right and you should see the
+wooden path from earlier. Click straight up four times and you'll be
+on the platform above the dock. Now click left, and then click up one
+time and now in the lower right of the screen, you should see a wooden
+handrail. Click up on this to face some stairs. Click up on the stairs
+and you'll be on the dock. Now click right to turn around and you will
+see the first marker we turned on. Now turn it off by clicking on the
+lever again. Gasp!
+
+If you've done everything correctly up to this point, the marker door
+will open and a piece of paper will be inside. Click it to grab it.
+The cursor will now be a hand holding a piece of paper instead of it
+pointing up, so when I say click up, it means click while holding the
+paper. You know what I mean.
+
+Now, click up on the stiars at the left, and click up again to get up
+on the ledge. Click on the stairs in front of you twice to face them.
+Now click up the path four times and click right to face the library.
+Click up twice to go to the center of the library. Click to the right.
+You should now see half of a fireplace. Click up on it to face it, and
+click once more to go inside of it. Look on the left very closely for
+a red button. Click it and a gray slab will come down.
+
+When you click the gray slab, a square becomes indented. The slab is
+actually a 8x6 grid of squares. To advance, you must find the secret
+combination of squares to put in. But this is a quick guide so I will
+just tell you what to do. Look at the map below.
+
+                               O O + + + + O O
+                               + O O + O + O O
+                               O + O + + + O O
+                               O + + O + + O O
+                               O O + + O O + +
+                               O O O O O + O +
+
+The O's are the spots you need to press in. The +'s are the spots you
+need to leave alone. Click all the spots on the grid to match up with
+that. Make sure everything is correct and hit that little red button.
+Now a green book appears!
+
+For here on out, everything is pretty much straight forward. Click on
+the green book to open it and click on the picture inside to teleport
+to Dunny, a little cave thingy.
+
+Once inside Dunny, click around untill you see a dude alone at a desk.
+Click to him and give him the page when he asks. Listen to what he has
+to say and pat yourself on the back - you beat the game. Not quite the
+ending you had hoped for? Oh well. Just make sure you have that white
+page before entering Dunny or you will be trapped and you will have to
+start all over.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+V. Contact
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Questions? Comments? Problems? Feel free to e-mail me. I will answer you
+back as long as your e-mail is pointless. tectactoe(at)gmail.com.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+VI. Legal Stuff
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This guide is copyrighted. You may not post it on a site without my
+permission. The only place authorized to use it at this moment would
+be www.gamefaqs.com. If you want to post it one your site, e-mail me
+about it first.
+
+And lastly...
+Thanks to the creators of Myst for making a great game.
+
+Copyright (c) 2005 tectactoe
+
+FIN.

@@ -1,0 +1,196 @@
+                      Myst Classic- Printable Walkthrough
+
+           Created by Kenny Barney (kenb215) - kenbarney@gmail.com
+                      Version 1.0.0   Updated 2006-02-09
+For more Myst: http://kenb215.idohost.com/myst/index.html
+*******************************************************************************
+
+Myst Island - Start
+===================
+You start at the dock. There, and in 7 other places are Marker Switches.
+Familiarize yourself with the island, flip the 7 Switches you can reach, then
+return to the dock and enter the fore-chamber. Press the button on the paper
+hanging on the wall, enter the number 8, press that button, then the one on the
+imager. Go out and enter the Library. Put the Red and Blue Pages in their
+books. Clicking the picture left of the bookshelf opens a secret passage. The
+one to the right opens the door out. Look at the map. Clicking and holding on
+the flashing white circle should make a line rotate, and pause at 4 places. If
+it doesn't, flip the Switches you missed, then come back.
+
+Enter Mechanical
+================
+Rotate the map until it stops on the gears, then enter the secret passage (see
+Start). Go up the elevator, and note the key behind it (2:40 and 2,2,1). Leave
+and go to the Clock Tower. Spin the wheels (small- hours, large- minutes) until
+the Clock says 2:40. Press the red button, flip the Marker Switch, and enter
+the Clock Tower. Pull the middle lever twice, then hold the left one until the
+middle number reads 2. If you need to reset the puzzle, pull the right lever.
+When the gear opens up, go to the large gear, and enter the Mechanical Age.
+
+Mechanical Age
+==============
+Go to the Fortress. Take the right path, and face the throne. Click on the
+recessed panel to the left. Inside is a Blue Page. Go back and take the left
+path. Face the throne and press the panel to the right for the Red Page. Go to
+the back of the Fortress, press the button, and go down the stairs. Pull the
+lever so that the openings on the circles face you, then go up, close the
+stairs, and enter the elevator. Press the top arrow, then the middle button and
+quickly exit the elevator. When it lowers, go to the controls. Move the left
+lever up, then the right for a short time. Pull the left lever back down. Do
+this until you hear a spring (1 of 4 sounds). Press the orange button, and
+return to the Fortress entrance. Go down the path, and note the symbols. Return
+to the elevator and the controls. This time, rotate the Fortress until you hear
+a ping. Return to the entrance, and note more symbols. Go back to the controls
+above the elevator, and rotate until you hear a dong. Return to the start of
+the level, and enter these symbols in the pillar:
+  1: Circle with hole at bottom
+  2: Two triangles and a rectangle between
+  3: Three triangles with a circle above
+  4: Half a circle
+Have one of the two Pages before you leave. Put it in its book, then return and
+get the other page. Leave and put it in its book to finish.
+
+Enter Stoneship
+===============
+Rotate the map until it stops at the dock, then enter the secret passage (see
+Start). Go up the elevator, and note the dates behind it. Leave and go to the
+Planetarium. Turn off the light and look up in the chair. Note the stars shown
+after entering each date: Oct. 11, 1984 10:04AM, Jan. 17, 1207 5:46AM, and Nov.
+23, 9791 6:57PM. Return to the Library and open the second book from the right
+on the top shelf. Find the shapes that match the stars, then go outside to the
+pillars by the model ship. Press, the Leaf, Snake, and Beetle; only they should
+turn green when hovered on. When you hear the ship, go to the dock, enter the
+ship, then the book.
+
+Stoneship Age
+=============
+Turn left, go to the umbrella, and press the right button. Turn around and go
+to the lighthouse. At the bottom, open and close the lever on the left of the
+chest. Go to the umbrella, press the middle button, and return to the
+lighthouse. Click the key to open the chest, then use the key inside it above.
+Go up and turn the generator crank until it is fully charged. You may need to
+repeat this later. Go to the second part of the boat, climb up the platforms,
+and note 135 in the telescope. Go down, then into the corridor to Achenar's
+room. Record the note in the second from bottom shelf in the dresser, and see
+the Blue Page on the bed. Return to the starting part of the boat, and enter
+the corridor to Sirrus's room. The Red Page is in the bottom shelf of the
+dresser. Exit the room, and go up exactly one level. Press the secret door at
+the side, and go to the compass rose. Press the button by the bottom-right
+orange arrow. Exit, take a Page, and return to the umbrella. Press the left
+button, return to the boat, and go down the passage to the right. Click on the
+table to leave. Insert the Page, then return to the Age. Go to the umbrella,
+press the middle button, recharge the generator, and get the second Page. Enter
+the secret passage again to press the bottom-right orange button. Return to the
+umbrella, press the left button, go down the corridor, and leave the Age. Put
+the Page into its book.
+
+Enter Channelwood
+=================
+Rotate the map until it stops at the hexagon at the bottom-left, and enter the
+secret passage (see Start). Go up the elevator, and note the key behind it.
+Leave and go to the Cabin. Face the safe, enter "724", and open the door. Take
+out, and strike, a match. Turn and go to the boiler, then click on the square
+at the bottom-left with a lit match. Turn and hold the wheel so it moves all of
+the way right. When the banging sounds stop, move the wheel left for 20 turns,
+then quickly exit, turn around, and go down the path to the right of the Cabin.
+Enter the tree when it is moving down. If you miss the tree, turn the wheel
+again. If it takes you up, press the white button to go back. Enter Channelwood
+at the bottom.
+
+Channelwood
+===========
+Turn around and go to the windmill. Turn the handle at the bottom, then leave.
+If you don't hear water, go back and turn the handle again. Go down to the
+first junction. Look down at the switch, and turn the handle to the right. Go
+to the left, set the handle right, go left, set left, go right. Pull the handle
+at the end of the path, then continue to the end, turn around, and go left.
+Extend the pipe, then go all the way back to the second junction. While facing
+the bottom, set it left, go right, set left, go right, set left, go right.
+Enter the elevator, close the door, and pull the handle to go up. Exit the
+elevator, then go straight to the round hut, right to the square hut, turn
+right and go to the square hut, then go right through two round huts. Pull the
+handle and a door will open. Turn around and go straight to the square hut,
+right to the round hut, right to square, straight to square, and right to the
+stairs. Go down the stairs, to the first junction, and switch it so water flows
+to the stairs. Go back up, turn, and enter the elevator. Exit and go straight
+to the square hut at the end. Take the Page, then return to ground level.
+Facing the bottom of the first switch, flip it right, go left, flip left, go
+right, flip left, go right, flip right. Go back 1 junction, turn to face the
+bottom of the switch, and go left, left, then straight to the elevator. Ride up
+and leave the Age. Insert the Page then reenter Channelwood. Flip the first
+switch left, then go up the stairs and elevator. Follow the path to the side of
+the elevator. Enter the room. On the right drawer of the bed is the second half
+of a note. Write it down, then get the Red Page from the drawer by the window.
+Go back down to face the first switch, flip it, and exit the same way as
+before.
+
+Enter Selenitic
+===============
+Rotate the map until it faces the Spaceship at the top, and enter the secret
+passage (see start). Ride the elevator, and note "59 volts" behind it. Exit,
+then raise the bookshelf. Look at the tilted blue book on the middle shelf.
+Turn to the piano near the end, and note the positions of the numbered keys
+(below). Leave, and go to the brick Generator Room. Go to the control panel,
+and press the 4th button from the top on the left, and the 2nd, 3rd, and 4th
+buttons on the right. If you go above 59, lower the power, and reset the
+circuit breakers behind the Generator Room, and left of the stone path to the
+Spaceship. When the power is set correctly, enter the Spaceship. Use the
+diagram from the journal and press key 1. Listen to its tone and move the 1st
+slider behind it to match. Repeat for the other 4. Or, you can count how many
+keys from the top or bottom a note is, and move its slider by that amount. They
+should be in this position (number of notes from the bottom [counting the
+bottom as 1]):
+  Slider 1: Position 8
+  Slider 2: Position 20
+  Slider 3: Position 23
+  Slider 4: Position 13
+  Slider 5: Position 6
+
+Selenitic Age
+=============
+Go forward, just past a door on the right, then follow the stairs to the left.
+By the water at the end, note the Blue Page and press the red button. Return to
+the main path and go to the next set of stairs. Press the button by the fire,
+return, go to the clock tower, and press its button. Go to the next junction,
+and head right. Press the button in the crystal forest, and note the Red Page
+above. Go back to the junction and take the right path to a well. Press the
+button, then go down, to the other end, and up again. Open the control panel
+and set the buttons, left to right, to this angle: 1 to 153.4, 2 to 130.3, 3
+to 55.6, 4 to 15.0, 5 to 212.2. Press the red button and note the order of the
+sounds. Go back and retrieve a Page. Then return to the doorway near the
+beginning, and look at the control panel. Move the sliders to: crystal, water,
+wind, fire, clock, and press the button. Go through the door to the end of the
+path. Press the blue button, enter the Mazerunner, and press forward. Use the
+sounds to find the direction to go: North- Ping, East- Spring, South- Dong,
+West- Chirp. 2 sounds means to go between their directions. Go: N,W,N,E,E,S,S,
+W,SW,W,NW,NE,N,SE. Exit, return to Myst, insert the Page, then return for the
+other Page. Leave through the same way, and insert the last Page.
+
+End Game
+========
+Listen to both brothers, then go to the last book on the middle shelf. Turn to
+page 158, and note the diagram. Go into the fireplace, press the red button,
+and enter the same combination (shown here):
+XX    XX
+ XX X XX
+X X   XX
+X  X  XX
+XX  XX 
+XXXXX X
+
+Press the red button again, then open the green book. Listen to Atrus, then,
+from the two half notes that you found earlier, make sure all of the Marker
+Switches are up, and lower the one by the dock. Take the Page, enter the Green
+Book, and give it to Atrus. Watch the ending.
+
+*******************************************************************************
+
+Copyright
+=========
+This walkthrough was created by Kenneth W. Barney. Feel free to copy, print,
+retransmit, or sell this under the Creative Commons Attribution 2.5 license,
+provided that I retain credit for the original.
+http://creativecommons.org/licenses/by/2.5/
+
+All other copyrights and trademarks are copyright and trademark by the creators
+of Myst.

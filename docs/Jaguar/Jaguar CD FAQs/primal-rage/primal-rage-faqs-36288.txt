@@ -1,0 +1,264 @@
+ _______   _______   _______               _______   _
+|  ____ | |  ____ | |__   __|  /|  /|  /| |  ___  | | |
+| |    || | |    ||    | |    | | | | | | | |   | | | |
+| |____|| | |____||    | |    | | | | | | | |___| | | |
+|  _____| |     __|    | |    | | | | | | |  ___  | | |
+| |       | |\  \      | |    | | | | | | | |   | | | |
+| |       | | \  \   __| |__  | | | | | | | |   | | | |_____
+|_|       |_|  \__| |_______| |/  |/  |/  |_|   |_| |_______|
+               _______   _______   _______   _______________
+              |  ____ | |  ___  | |  ____ | |  ____________/
+FAQ\Move List | |    || | |   | | | |    || | |
+ Version 1.0  | |____|| | |___| | | |       | |_____________
+ by Seth0708  |     __| |  ___  | | |  ___  |  ____________/
+  Jaguar CD   | |\  \   | |   | | | | |_  | | |
+              | | \  \  | |   | | | |___| | | |_____________
+              |_|  \__| |_|   |_| |_______| |______________/
+
+   _______
+ _/ Notes \___________________________________________________________________
+|=============================================================================|
+| Primal Rage was released in the early 1990s across numerous platforms. The  |
+| different incarnations of the game vary in their moves and mini-games. For  |
+| example, the infamous golden shower fatality in absent in all variations of |
+| the game except the original arcade release. This guide covers only the     |
+| Jaguar CD version of the game, so anything listed here may not apply to     |
+| other versions of the game.                                                 |
+|                                                                             |
+| All moves and controls come from the manual itself. For all moves, assume   |
+| facing right.                                                               |
+|_____________________________________________________________________________|
+                                                            ________________
+ __________________________________________________________/ Basic Controls \_
+|=============================================================================|
+| Depending on your controller, the control scheme is slightly different. If  |
+| you are using 3-Button Controller you will can still perform all the moves, |
+| either by pressing two buttons at once or by using the numeric pad.         |
+|                                                                             |
+| 3-Button Controller                         6-Button Controller             |
+|  A-Button (Low Quick Strike)                 A-Button (Low Power Strike)    |
+|  B-Button (High Fierce Strike)               B-Button (Low Fierce Strike)   |
+|  C-Button (High Quick Strike)                C-Button (Low Quick Strike)    |
+|  Option (Low Fierce Strike)                  X-Button (High Power Strike)   |
+|  B- & C-Buttons (High Power Strike)          Y-Button (High Fierce Strike)  |
+|  A-Button & Option (Low Power Strike)        Z-Button (High Quick Strike)   |
+|                                                                             |
+| Numeric Pad                                                                 |
+|  1-Button (High Quick Strike)                2-Button (High Fierce Strike)  |
+|  3-Button (High Power Strike)                4-Button (Low Quick Strike)    |
+|  5-Button (Low Fierce Strike)                6-Button (Low Power Strike)    |
+|                                                                             |
+| Special moves are performed differently in Primal Rage than in most two-    |
+| dimensional fighters. Instead of inputing a directional command and then    |
+| pressing a button, Primal Rage has you hold the buttons and then enter a    |
+| directional command. Specific character moves are listed below.             |
+|_____________________________________________________________________________|
+   _________
+ _/ Armadon \_________________________________________________________________
+|=============================================================================|
+| For over a million years, Armadon dwelled in his cave beneath the Earth's   |
+| crust, telepathically linked to the biomass. The Cataclysms and the battles |
+| for supremacy over the changing planet tortured him. Now, he has risen to   |
+| settle things once and for all.                                             |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Snout Gouge)         Low Quick Strike (Short Tail Whip) |
+|  High Fierce Strike (Upper Snout Gouge)  Low Fierce Strike (Long Tail Whip) |
+|  High Power Strike (Power Snout Gouge)   Low Power Strike (Power Tail Whip) |
+|                                                                             |
+| Special Moves                                                               |
+|  Bed-O-Nails       High Fierce Strike & Low Quick Strike + |  ^             |
+|                                                            v  |             |
+|                                                                             |
+|  Iron Maiden       High Fierce Strike & Low Quick Strike + <- o  ^  o ->    |
+|                                                                \ | /        |
+|                                                                             |
+|  Mega Charge       High Quick Strike & Low Quick Strike + <- / | \  ->      |
+|                                                             o  v  o         |
+|_____________________________________________________________________________|
+                                                                  __________
+ ________________________________________________________________/ Blizzard \_
+|=============================================================================|
+| Blizzard is a noble god, the essence of the animal spirit. Frozen for       |
+| millennia at the heart of an immense glacier in the Himalayas, Blizzard was |
+| released when the Earth met the Great Meteor. He lived high in the          |
+| mountains, descending only when threatened. His animal power and age-old    |
+| wisdom makes him almost unstoppable.                                        |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Right Jab)           Low Quick Strike (Left Low Punch)  |
+|  High Fierce Strike (Left Jab)           Low Fierce Strike (Left Uppercut)  |
+|  High Power Strike (Power Jab)           Low Power Strike (Power Uppercut)  |
+|                                                                             |
+| Special Moves                                                               |
+|  Air Throw         (close) High Fierce Strike & Low Quick Strike            |
+|                                                                             |
+|  Freeze Breath     High Quick Strike & High Fierce Strike &                 |
+|                                                   Low Fierce Strike + <- -> |
+|                                                                             |
+|  Mega Punch        High Quick Strike & High Fierce Strike + <- ->           |
+|_____________________________________________________________________________|
+   _______
+ _/ Chaos \___________________________________________________________________
+|=============================================================================|
+| Chaos, the mightiest witch doctor on the first continent, wanted to control |
+| the evolution of humanity. During his quest, he cast a mighty spell that    |
+| backfired and turned him into a foul, disgusting beast, forced to wallow in |
+| his own filth for eons. During the Cataclysm, Chaos prayed to Throshti, god |
+| of Carrion, for release. To restore his greatness, he must defeat all his   |
+| enemies. When his task is completed, Chaos will regain control of his life  |
+| and lead his tribe to greatness.                                            |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Left Jab)           Low Quick Strike (Low Punch)        |
+|  High Fierce Strike (Right Cross)       Low Fierce Strike (Right Head Bash) |
+|  High Power Strike (Power Jab)          Low Power Strike (Power Grab)       |
+|                                                                             |
+| Special Moves                                                               |
+|  Grab-N-Throw      High Fierce Strike & Low Fierce Strike + -> <-           |
+|                                                                             |
+|  Ground Shaker     High Fierce Strike & Low Quick Strike + <- o <-  /       |
+|                                                                \   o        |
+|                                                                             |
+|  Power Puke        High Quick Strike & Low Fierce Strike + ^  o             |
+|                                                            | /  ->          |
+|_____________________________________________________________________________|
+                                                                    ________
+ __________________________________________________________________/ Diablo \_
+|=============================================================================|
+| Diablo is evil in its purest form. He was released from a fiery prison deep |
+| within Earth, to which he was drawn by the pain and torment caused in the   |
+| Great Cataclysms. When he has conquered the planet, he will live just to    |
+| torture it. If none are left to oppose him, he will burn the entire planet, |
+| sparing only the cruel and vicious.                                         |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Straight Chomp)     Low Quick Strike (Right Lep Rip)    |
+|  High Fierce Strike (Quick Jab Chomp)   Low Fierce Strike (Tail Whip)       |
+|  High Power Strike (Power Chomp)        Low Power Strike (Power Whip)       |
+|                                                                             |
+| Special Moves                                                               |
+|  Hot Foot          High Fierce Strike & Low Fierce Strike + o  \            |
+|                                                              \  o           |
+|                                                                             |
+|  Inferno Flash     High Fierce Strike & Low Quick Strike &               ^  |
+|                                                      Low Fierce Strike + |  |
+|                                                                             |
+|  Torch             High Quick Strike & Low Quick Strike + ^  o              |
+|                                                           | /  ->           |
+|_____________________________________________________________________________|
+   ________
+ _/ Sauron \__________________________________________________________________
+|=============================================================================|
+| Sauron is the god of Hunger. When he was released from his sleep of ages by |
+| the catastrophe, his instinct forced him to devour human flesh to remain    |
+| immortal. The hungry hordes of humanity worshipped him, but lived in fear   |
+| of his presence. Because, many humans had sought refuge with other rulers   |
+| of the planet, Sauron must defeat the others and feast in their followers.  |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Straight Chomp)     Low Quick Strike (Right Leg Rip)    |
+|  High Fierce Strike (Lunge Chomp)       Low Fierce Strike (Tail Whip)       |
+|  High Power Strike (Power Chomp)        Low Power Strike (Power Whip)       |
+|                                                                             |
+| Special Moves                                                               |
+|  Cranium Crusher   High Quick Strike & Low Fierce Strike + |  ^             |
+|                                                            v  |             |
+|                                                                             |
+|  Earthquake Stomp  High Quick Strike & High Fierce Strike &          ^  |   |
+|                                                  Low Fierce Strike + |  v   |
+|                                                                             |
+|  Primal Scream     High Quick Strike & Low Quick Strike + |  ^              |
+|                                                           v  |              |
+|_____________________________________________________________________________|
+                                                                     _______
+ ___________________________________________________________________/ Talon \_
+|=============================================================================|
+| Talon was the great chief of the Raptor Clan on a hidden South Pacific      |
+| island for eons. When the Great Meteor rearranged the continents, Talon's   |
+| island came in contact with the mainland. Wanting to ensure the safety of   |
+| his wives and children, Talon set out to eliminate all dangers to his       |
+| clan's welfare. Talon prefers to live in luxury, keeping humans as cattle   |
+| and hunting them for sport.                                                 |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Left Slash)         Low Quick Strike (Slash Kick)       |
+|  High Fierce Strike (Upper Chomp)       Low Fierce Strike (Roundhouse Kick) |
+|  High Power Strike (Power Chomp)        Low Power Strike (Power Kick)       |
+|                                                                             |
+| Special Moves                                                               |
+|  Brain Basher      High Fierce Strike & Low Quick Strike + <- o  ^  o ->    |
+|                                                                \ | /        |
+|                                                                             |
+|  Frantic Fury      High Quick Strike & Low Fierce Strike + <-  / | \ ->     |
+|                                                               o  v  o       |
+|                                                                             |
+|  Pounce And Flip   High Fierce Strike & Low Quick Strike + -> | \           |
+|                                                               v  o          |
+|_____________________________________________________________________________|
+   _________
+ _/ Vertigo \_________________________________________________________________
+|=============================================================================|
+| Long ago a sorceress named Vertigo appeared from another dimension. In a    |
+| great magical battle during the Mesozoic Wars, Vertigo was banished to the  |
+| moon by the arch-mage Balsafas. The meteor crash weakened the old shields   |
+| enough for Vertigo to return and enslave the planet once again. Once        |
+| victorious, she plans to enslave hordes of humans and have them build an    |
+| insane palace in multiple dimensions.                                       |
+|                                                                             |
+| Basic Moves                                                                 |
+|  High Quick Strike (Jab Chomp)          Low Quick Strike (Tail Whip)        |
+|  High Fierce Strike (Lunge Chomp)       Low Fierce Strike (Snap Tail Whip)  |
+|  High Power Strike (Power Chomp)        Low Power Strike (Power Whip)       |
+|                                                                             |
+| Special Moves                                                               |
+|  Teleport           High Fierce Strike & Low Fierce Strike + |  |           |
+|                                                              v  v           |
+|                                                                             |
+|  Voodoo Spell       High Fierce Strike & Low Quick Strike + <- <-           |
+|                                                                             |
+|  Voodoo Spit        High Quick Strike & Low Quick Strike + -> ->            |
+|_____________________________________________________________________________|
+                                                       _____________________
+ _____________________________________________________/ Final Battle Ground \_
+|=============================================================================|
+| If you have the difficulty set to ten or higher you will move on to the     |
+| Final Battle Ground upon initially defeating the six other fighters. Here   |
+| you will fight all six of your opponents again, but this time it will be an |
+| endurance-type match where you have to defeat all six of them, plus a clone |
+| of yourself, on one life bar. If you can do this, then you can truly say    |
+| you've mastered your given character.                                       |
+|_____________________________________________________________________________|
+   _______________
+ _/ The Dracolich \___________________________________________________________
+|=============================================================================|
+| Arcade lore, and a Gamepro article, indicated that an update to Primal Rage |
+| was planned that would include a boss fighter to be faced on the moon once  |
+| the seven basic fighters had been defeated. This boss, whose name is not    |
+| known, was to be a dracolich. A dracolich would be the animated bones of a  |
+| dinosaur-like creature. It was described as having a horn, six claws, and   |
+| a spiked tail. It was said to be able to fly and have the ability to suck   |
+| its foe's life and heal itself. Sadly, this never came to be and every      |
+| console version of Primal Rage only includes the seven basic fighters.      |
+|_____________________________________________________________________________|
+                                                      ______________________
+ ____________________________________________________/ Alternate Game Modes \_
+|=============================================================================|
+| Endurance                                                                   |
+|  Selectable from the title screen, Endurace Mode allows you to pick four of |
+|  the fighters and use them against four computer opponents. You begin with  |
+|  your first fighter and battle the computer's first fighter. Whoever wins   |
+|  faces their foe's second fighter, and so on until only one player has any  |
+|  fighters left.                                                             |
+|                                                                             |
+| Tug-Of-War                                                                  |
+|  Selectable from the title screen, Tug-Of-War pits two fighters against one |
+|  another like normal. The catch here is that the players share the same     |
+|  life bar. By hitting one's foe it moves the life bar in their direction.   |
+|  The match ends when one player fills the bar all the way up in their favor |
+|_____________________________________________________________________________|
+   ____________
+ _/ Copyrights \______________________________________________________________
+|=============================================================================|
+| Primal Rage is (c) Atari/Midway Games                                       |
+|_____________________________________________________________________________|

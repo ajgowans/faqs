@@ -1,0 +1,391 @@
+*******************************************************************************
+Checkered Flag for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  02/07/10
+
+This document Copyright 2010 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Basic Gameplay
+         A.  Controls
+         B.  Steering
+         C.  Basic Strategies
+IV.    Race Options
+         A.  Color
+         B.  Weather
+         C.  Airfoil
+         D.  Tires
+         E.  Gearing
+         F.  Drones
+         G.  Race
+         H.  Laps
+         I.  Track
+V.     Tracks
+         A.  Green Valley
+         B.  River Mouth
+         C.  Desert Pass
+         D.  Deep Wood
+         E.  The Hole
+         F.  Island Hop
+         G.  The Gorge
+         H.  Concrete Canyon
+         I.  Sunset Strip
+         J.  Arctic Run
+VI.    Cheats
+VII.   Game Review
+VIII.  Version History
+IX.    Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Checkered Flag.  It contains
+information on how to play the game and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Press B on the Title Screen to enter the Race Options Screen.  Use the Joypad
+to make your choices and press B when you are ready to race.  For more info
+see the Race Options section below.
+
+*******************************************************************************
+III.   Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joypad Up     Shift to Higher Gear
+Joypad Down   Shift to Lower Gear
+Joypad Left   Steer Left
+Joypad Right  Steer Right
+A Button      Accelerate
+B Button      Brake
+C Button      Hold for Cruise Control
+Numpad 1      Cockpit View
+Numpad 2      View #2
+Numpad 3      View #3
+Numpad 4      View #4
+Numpad 5      View #5
+Numpad 6      View #6
+Numpad 0      Toggle Music On/Off
+* + #         Reset
+
+-------------------------------------------------------------------------------
+B.  Steering
+
+Here's how steering is described in the instruction booklet:
+
+"Steering velocity follows a shallow bell form and with practice can be
+ anticipated for successful turns."
+
+Huh?  I guess they realized that was clear as mud because there is a second
+paragraph for clarification:
+
+"While holding the Joypad down, the car will turn a small amount at first, then
+ will turn more sharply before lessening again."
+
+So basically the developers decided to make the steering more realistic, but
+ended up making the game nearly unplayable.
+
+-------------------------------------------------------------------------------
+C.  Basic Strategies
+
+-  When turning TAP the joypad, do NOT hold it down.
+
+-  I recommend using the cockpit view (Camera View 1).
+
+-  Use Wet Tires in Rain or Fog to compensate for loss of traction.
+
+-  A Low Airfoil gives you more speed but less control, a High Airfoil gives
+   you more control but less speed.
+
+-  Until you get the hang of steering, I recommend choosing Auto 5 as your
+   gearing.
+
+-  The Save Feature saves your best times and race options but NOT your
+   Tournament!  If you want to complete Tournament, you must do it in one
+   sitting.
+
+*******************************************************************************
+IV.    Race Options
+
+-------------------------------------------------------------------------------
+A.  Color
+
+The Color option allows you to change your car's paint scheme.  The six choices
+are: Red/Black, Blue/Yellow, White/Green, Red/White, Green/Blue, and
+White/Orange.
+
+As far as I can tell, this is purely cosmetic and has no effect on your car's
+performance.
+
+-------------------------------------------------------------------------------
+B.  Weather
+
+Weather affects visibility and how well your car handles.  The four types are:
+
+Sun
+
+The "optimal" weather condition, visibility and handling will be at their best.
+
+Rain
+
+Rain will make it harder to see and the wet track will make steering even more
+challenging than usual.  Be sure to use Wet Tires!
+
+Fog
+
+Fog makes it very difficult to see.  It will also dampen the track and make
+your car handle worse than usual.
+
+Dark
+
+Dark lets you race at night.  Visibility will be even worse than during Fog,
+but the track won't be slick.  You must unlock Dark by entering a code (see
+the Cheats section for more info).
+
+-------------------------------------------------------------------------------
+C.  Airfoil
+
+The Airfoil can be adjusted to modify your car's speed and handling.  A Low
+Airfoil will increase your speed but decrease your handling while a High
+Airfoil will increase your handling but decrease your speed.
+
+-------------------------------------------------------------------------------
+D.  Tires
+
+It's crucial to choose the correct tires for the current track conditions.  Use
+Dry Tires when the weather is Sun or Dark and use Wet Tires when it is Rain or
+Fog.
+
+-------------------------------------------------------------------------------
+E.  Gearing
+
+This option lets you choose whether you want an automatic (Auto 5) or manual
+(Man 6) transmission.
+
+The manual transmission has an extra gear meaning your car will have a higher
+top speed.
+
+-------------------------------------------------------------------------------
+F.  Drones
+
+This option lets you choose how many opponents you wish to race against in
+Single Race mode.  In Free Practice it will always be 0 and in Tournament it
+will always be 5.
+
+-------------------------------------------------------------------------------
+G.  Race
+
+You can choose one of three race modes:
+
+Single Race
+
+This allows you to run a single race on the track of your choice against
+CPU drones.
+
+Free Practice
+
+This is the time trial mode.  Here you can race without any drones to try to
+get the best lap time possible.
+
+Tournament
+
+You will race against five CPU drones on each of the ten tracks for the
+championship.  You earn 6 points for first, 5 points for second, 4 points for
+third, 3 points for fourth, 2 points for fifth, and 1 point for last place.
+
+In Tournament Mode the Weather, Laps, and Track options are preset and cannot
+be changed.
+
+-------------------------------------------------------------------------------
+H.  Laps
+
+This option allows you to choose how many laps (1 - 99) you wish to race in
+Single Race or Free Practice.
+
+-------------------------------------------------------------------------------
+I.  Track
+
+Choose which track you wish to race on in Single Race or Free Practice.
+
+*******************************************************************************
+V.     Tracks
+
+In this section I list the Tournament track conditions as well as my best
+lap times and the set up I used to achieve those times.
+
+-------------------------------------------------------------------------------
+A.  Green Valley
+
+Track Conditions
+Laps:  10          Weather:  Sun     My Best Lap:  0:33:8
+
+Recommended Setup
+Airfoil:  Low      Tires:  Dry       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+B.  River Mouth
+
+Track Conditions
+Laps:  13          Weather:  Rain     My Best Lap:  0:27:0
+
+Recommended Setup
+Airfoil:  High     Tires:  Wet        Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+C.  Desert Pass
+
+Track Conditions
+Laps:  10          Weather:  Sun     My Best Lap:  0:39:4
+
+Recommended Setup
+Airfoil:  High     Tires:  Dry       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+D.  Deep Wood
+
+Track Conditions
+Laps:  13          Weather:  Fog     My Best Lap:  0:38:3
+
+Recommended Setup
+Airfoil:  High     Tires:  Wet       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+E.  The Hole
+
+Track Conditions
+Laps:  15          Weather:  Fog     My Best Lap:  0:31:2
+
+Recommended Setup
+Airfoil:  Low      Tires:  Wet       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+F.  Island Hop
+
+Track Conditions
+Laps:  12          Weather:  Sun     My Best Lap:  0:37:2
+
+Recommended Setup
+Airfoil:  High     Tires:  Dry       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+G.  The Gorge
+
+Track Conditions
+Laps:  15          Weather:  Rain    My Best Lap:  0:26:4
+
+Recommended Setup
+Airfoil:  Low      Tires:  Wet       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+H.  Concrete Canyon
+
+Track Conditions
+Laps:  12          Weather:  Rain    My Best Lap:  0:29:8
+
+Recommended Setup
+Airfoil:  Low      Tires:  Wet       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+I.  Sunset Strip
+
+Track Conditions
+Laps:  14          Weather:  Sun     My Best Lap:  0:27:9
+
+Recommended Setup
+Airfoil:  Low      Tires:  Dry       Gearing:  Auto 5
+
+-------------------------------------------------------------------------------
+J.  Arctic Run
+
+Track Conditions
+Laps:  10          Weather:  Sun    My Best Lap:  0:34:2
+
+Recommended Setup
+Airfoil:  High     Tires:  Dry      Gearing:  Auto 5
+
+*******************************************************************************
+VI.    Cheats
+
+Dark Mode
+
+To unlock Dark Mode, while on the Race Options Screen highlight the Weather
+option and enter 8, 4, 7, and 3 on the numpad.  Dark (nighttime) will now be
+available as a weather option.
+
+Special Thanks go to the Atari Times for posting this on their website!
+
+*******************************************************************************
+VII.   Game Review
+
+Checkered Flag is a polygonal 3D racer developed by Rebellion, the same team
+that created Alien vs. Predator and Skyhammer, two of the best games available
+for the Atari Jaguar.  So how does Checkered Flag compare?
+
+Graphically, Checkered Flag is a complete dud.  The primitive polygons are
+SNES Fx chip caliber and just look awful.  You'd think that the total lack of
+texture maps would help the framerate, but no, it's just as bad as Supercross
+3D!
+
+As bad as the graphics are, it's the controls that kill this game.  The manual
+proudly proclaims that steering "follows a shallow bell form".  The explanation
+given is that when you first press the joypad, the car turns a little bit, then
+a lot, then a little again.  While wanting to have a "realistic" control scheme
+sounds in theory, it absolutely sucks in practice.  One other "interesting"
+thing about the controls is the cruise control button.  Holding this down
+will freeze your speed until you press another button or crash.
+
+The physics are also out of whack, every time you BRUSH against a wall or
+car you end up bouncing around (think Ridge Racer DS).  When you "crash", your
+car will flip over and land right side up and ready to go.
+
+The one bright spot is the soundtrack.  While not the best quality, the tunes
+are catchy and are a good fit for a racing game.  There is also some sparse
+digitized voice.
+
+Jaguar fans looking for a good racing game should check out Super Burnout or
+World Tour Racing.  Checkered Flag is one racer that doesn't qualify.
+
+Pros
+
++  I really like the music.
+
+Cons
+
+-  HORRIBLE controls.
+-  Terrible graphics.
+-  No two player mode.
+
+*******************************************************************************
+VIII.  Version History
+
+1.0   02/07/10   Completed FAQ.
+
+*******************************************************************************
+IX.    Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing your opinions of this guide and any thoughts or
+suggestions for improvement.
+
+*******************************************************************************
+
+
+End

@@ -1,0 +1,445 @@
+*******************************************************************************
+White Men Can't Jump for Atari Jaguar FAQ/Move List
+
+by BHodges
+
+Version  1.0
+Created  05/03/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  VS Mode
+         B.  Tournament
+         C.  Resume Game
+         D.  Options
+         E.  Joypad
+III.   Basic Gameplay
+         A.  Controls
+         B.  Rules
+         C.  Super Dunks
+         D.  Attributes
+         E.  Basic Strategies
+IV.    Vs. Mode
+V.     Tournament Mode
+         A.  Object
+         B.  Street Games
+         C.  Slam City Tournament
+VI.    Teams
+VII.   Game Review
+VIII.  Version History
+IX.    Contact Information
+
+*******************************************************************************
+I.  Introduction
+
+This is a FAQ for the Atari Jaguar game White Men Can't Jump.  It contains a
+list of controls, gameplay strategies, a complete list of Super Dunks and a 
+mini-review.
+
+*******************************************************************************
+II.  Getting Started
+
+-------------------------------------------------------------------------------
+A.  VS Mode
+
+Allows you to play a single game of basketball with 1 -4 players.
+
+-------------------------------------------------------------------------------
+B.  Tournament
+
+Allows you to begin a game in Tournament Mode.
+
+-------------------------------------------------------------------------------
+C.  Resume Game
+
+This allows you to resume Tournament mode from where you left off.  You can
+have up to three different saves at any time.
+
+-------------------------------------------------------------------------------
+D.  Options
+
+Allows you to change various game settings.
+
+...............................................................................
+Scoring
+
+Standard Score means that field goals are worth two points and shots from 
+behind the three point arc are worth three.
+
+Street Scoring means that field goals are worth one point and shots beyond the
+arc worth two.
+
+...............................................................................
+Time/Score
+
+Can choose to have no time limit or games of 5, 10, or 15 minutes.  Score
+can be set so that the game ends when one team scores 11, 15, or 21 points.
+
+...............................................................................
+Possession
+
+Standard Play means that after a team scores, the other team gets the ball.
+
+In Make It/Take It, the scoring team retains possession.
+
+...............................................................................
+Messages
+
+You can choose to turn the in-game messages on or off.
+
+...............................................................................
+Player Arrows
+
+You can choose if you want the player arrows to always be on or to have them
+disappear after a few seconds.
+
+...............................................................................
+Change on Falls
+
+If this is on, you will automatically switch to control of the other player
+whenever you get knocked down.
+
+-------------------------------------------------------------------------------
+E.  Joypad
+
+Selecting this option allows you to change the button configuration on the
+joypad.
+
+*******************************************************************************
+III.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Note:  You can reconfigure the buttons anyway you like on the Configure Joypad
+       screen.
+
+Offense
+
+A Button  Tap to fake a pass, Hold to pass
+B Button  Hold to jump and release to shoot the ball
+C Button  Speed Boost / Tap twice to switch players.\
+Pause     Pause the game
+
+Defense    
+
+A Button  Punch
+B Button  Jump
+C Button  Speed Boost / Tap twice to switch players
+Pause     Pause the game
+
+-------------------------------------------------------------------------------
+B.  Rules
+
+...............................................................................
+Fouls
+
+No blood no foul!  And since this game is rated KA Kids to Adults (aka E for
+Everyone), there is no blood and therefore no fouls!  Feel free to punch your
+opponent as often as you can!
+
+...............................................................................
+Travelling
+
+Since you will automatically dribble the ball, the only time you will be called
+for travelling is when you jump with ball and land before shooting.
+
+...............................................................................
+Goaltending
+
+Goaltending is called when a player interferes with a shot while the ball is
+in downward progress, i.e. you can only block a shot while your opponent is
+shooting.  For example, if your opponent is shooting a three, you can't
+stand in front of the basket and jump up and try to catch the ball.
+
+If goaltending is called, the shot is considered to be made and the team is
+awarded however many points the shot was worth.
+
+...............................................................................
+Clearing the Ball
+
+In half-court basketball, whenever there is a change of possession, the ball
+must be taken beyond the three point arc before that team is allowed to shoot.
+
+I've read several reviews where players found this confusing and had a hard
+time telling when they needed to clear the ball.  I honestly don't see how,
+whenever you need to clear the ball A.) a message will appear on screen, B.)
+you'll hear a player on the court yell that you need to clear, and C.) an
+icon will appear at the top of the screen with a picture of a ball and hoop
+crossed out!
+
+...............................................................................
+Out of Bounds
+
+There is no out of bounds, the ball will always be in play.
+
+-------------------------------------------------------------------------------
+C.  Super Dunks
+
+Each character is capable of five different Super Dunks (see the Team section
+for a complete list).  The more complicated the dunk, the more difficult it is
+to block.
+
+You need energy to perform a Super Dunk.  The higher your energy meter, the
+further away from the basket you'll be able to dunk.  To perform a Super Dunk,
+simply hold down the B button and input the sequence of joypad directions.
+When you release, B, your character will perform the dunk.
+
+If you are having difficulty pulling off Super Dunks, make sure your character
+is standing still (i.e. let go of the d-pad) THEN hold down the B button and
+quickly input the motions, then quickly let go of the B button.
+
+-------------------------------------------------------------------------------
+D.  Attributes
+
+...............................................................................
+Shooting (Sht)
+
+This determines how accurate the player is while shooting.  The higher the
+stat, the more likely a shot will be made.
+
+...............................................................................
+Energy (NRG)
+
+Energy is represented by the green meter.  The meter is depleted by using the
+speed boost.  Once the meter has been completely drained, you will not be
+able to use the speed boost until it has refilled some.
+
+Energy is also key to performing Super Dunks.  The higher the meter, the
+farther from the basket you'll be able to dunk.
+
+...............................................................................
+Speed (Spd)
+
+This attribute determines how fast your character moves.
+
+...............................................................................
+Anger
+
+Anger is represented by the red meter.  Your meter goes up whenever you punch
+your opponent or commit a foul (like goaltending).  The higher the meter, the
+longer it will take you to stand after being knocked down.
+
+-------------------------------------------------------------------------------
+E.  Basic Strategies
+
+-  When shooting, try to release the button at the top of your jump.
+-  Punch your opponents as often as possible!
+-  Use your teammate to set up picks.
+-  Make absolutely sure your teammate is open before passing the ball!
+
+*******************************************************************************
+IV.  Vs. Mode
+
+Vs. Mode allows you to play a single game of 4 on 4 basketball with 1 - 4
+players.  First you will choose which teams to play as.  If you are playing
+against the CPU, you can press right and left on the joypad to change the
+computer skill level (represented by the gold stars at the top).  Afterwards
+you choose which court you wish to play on.
+
+Using the Team Tap
+
+In order to play with three or four players, you'll need to use the Team Tap.
+Plug the Team Tap into port #2 on the Jaguar.  Plug Player 2's controller into
+port A, Player 3's controller in port B, and Player 4's controller in Port C. 
+
+*******************************************************************************
+V.  Tournament Mode
+
+-------------------------------------------------------------------------------
+A.  Object
+
+The object of this mode is to earn enough money to enter the Slam City 
+Tournament and then win the tournament itself.  This mode can be played with
+one or two players.
+
+-------------------------------------------------------------------------------
+B.  Street Games
+
+You start off by borrowing $500 from a pair of loan sharks.  The goal is to
+bet on street games until you have raised enough money to pay the $5,000 entry
+fee to the tournament.  You can choose from three wagers, generally the higher
+the wager, the tougher the opponent.  Your progress will automatically be
+saved after each game.
+
+If you fail to raise enough money by the end of thirty games or if you lose
+all of your money, then the game is over and you have to answer to the loan
+sharks ...
+
+-------------------------------------------------------------------------------
+C.  Slam City Tournament
+
+After you have raised the five grand, you'll automatically enter the Slam City
+Tournament.  The "tournament" is actually just a single game against one of the
+other teams, winner take all.
+
+*******************************************************************************
+VI.  Teams
+
+NOTE:  Since the attributes are displayed in-game as bar graphs, these numbers
+       are only approximations.
+
+Special Thanks to ataritimes.com for their Super Dunks list!
+
+ _____________________________________________________________________________
+|     Team Name      | Player | Sht | NRG | Spd |            Dunks            |
+|____________________|________|_____|_____|_____|_____________________________|
+|3 PT. KINGS         |Jules   |  5  |  4  |  6  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|3 PT. KINGS         |Freaky  |  5  |  6  |  4  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|6TH STREET SHOOTERS |Saber   |  6  |  4  |  4  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|6TH STREET SHOOTERS |Rush    |  4  |  6  |  6  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|COOL CATS           |O.G.    |  5  |  7  |  3  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|COOL CATS           |G Love  |  4  |  6  |  7  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DIS MASTERS         |Tower   |  3  |  5  |  6  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DIS MASTERS         |Eggman  |  5  |  7  |  4  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DUNKIN' DEMONS      |Titan   |  4  |  4  |  5  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DUNKIN' DEMONS      |Wisp    |  3  |  6  |  4  |LR, LL, R, DU, DRU           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|URBAN ANGELS        |Mace    |  5  |  6  |  7  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|URBAN ANGELS        |Stress  |  5  |  5  |  5  |LR, LL, R, DU, DRU           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|BEACH BUMS          |Dr. Ed  |  5  |  4  |  4  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|BEACH BUMS          |Slag    |  4  |  7  |  4  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|METAL HEDZ          |Gruff   |  4  |  6  |  5  |DD, U, R, UD, RL             |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|METAL HEDZ          |Scrape  |  4  |  5  |  6  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|MUSCLE BOYZ         |Burger  |  4  |  8  |  3  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|MUSCLE BOYZ         |Stomp   |  5  |  7  |  3  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|PSYCHO SQUAD        |Rabies  |  7  |  6  |  3  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|PSYCHO SQUAD        |Twitch  |  3  |  6  |  6  |LR, LL, R, DU, DRU           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SCREAMIN' WHEELS    |Hail    |  4  |  4  |  6  |LR, LL, R, DU, DRU           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SCREAMIN' WHEELS    |Goose   |  3  |  6  |  7  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SLAMMERS            |Skin    |  3  |  6  |  6  |D, DU, UU, L, RDL            |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SLAMMERS            |Smack   |  5  |  6  |  4  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|STREET SHARKS       |Grip    |  6  |  4  |  5  |LU, RR, L, DU, ULD           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|STREET SHARKS       |Fence   |  4  |  7  |  4  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SURF CREW           |Van     |  5  |  4  |  6  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|SURF CREW           |Rio     |  4  |  8  |  5  |LR, LL, R, DU, DRU           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DIRTY RATS          |Hack    |  4  |  6  |  3  |LD, RD, L, DD, RUL           |
+|--------------------|--------|-----|-----|-----|-----------------------------|
+|DIRTY RATS          |Sully   |  3  |  6  |  6  |LR, LL, R, DU, DRU           |
+|____________________|________|_____|_____|_____|_____________________________|
+
+*******************************************************************************
+VII.  Game Review
+
+The Atari Jaguar's library is notorious for consisting of a high percentage of
+shovelware, and White Men Can't Jump is usually near the top of that list.
+Naturally I had low expectations when I popped the game in and began to play.
+
+White Men Can't Jump is supposedly based on the movie of the same name, but
+they really have nothing in common.  Billy and Sidney (Woody Harelson and
+Wesley Snipes) are not even in the game!  My theory is that Billy and Sidney 
+WERE originally intended to be that 15th team, but licensing issues or
+something forced the developers to omit them.
+
+The game itself consists of two modes: a Vs. Mode which is a single game of
+basketball that can be played with 1-4 players and Tournament Mode, which is
+basically a story mode that can be played with one or two players.  In
+Tournament Mode, the object is to use the $500 you received from two loan
+sharks and bet on your basketball games.  You need to raise $5000 in order to
+enter the big basketball tournament.  The tournament itself feels a bit
+anti-climatic, it consists of just a single game against one of the other teams
+(I was really hoping you would be taking on Billy and Sidney).
+
+The basketball engine works pretty well, but I have one major complaint, the
+main defensive move is to punch (not shove, PUNCH) your opponents.  I know
+street ball is supposed to be rough, but this just feels wrong.  The Super
+Dunks also seem a little too cartoony and a bit out of place.  On the bright
+side, the programmers nailed the A.I. of your teammate!
+
+The controls in this game are surprisingly good.  I've heard a lot a complaints
+from other gamers about how they were stiff and unresponsive, but everything
+works great for me.  I had no trouble shooting, passing, punching, and pulling
+off Super Dunks at will.
+
+Let's move onto the graphics, but before we begin I need to explain my
+philosophy.  I strongly believe that graphics are about the last thing a gamer
+should be concerned with.  Now I know how everyone likes everything to be
+as hi-res and photorealistic as possible, but all I care about graphics-wise
+in my games is that A) you can tell what's going on and B) the framerate is
+smooth.  Unfortunately, White Men Can't Jump fails both of these criteria
+miserably.  The graphics are very fuzzy, it's difficult to tell who has the 
+ball, which players are on which team, or even tell the males and females
+apart!  The frame rate is also terrible.
+
+I can't help but feel that there was a lot of wasted potential here.  If the
+developers had just been able to fix the graphics, flesh out the Tournament
+Mode, and include the main characters from the movie, this game could have been
+great.  Instead it's merely playable.
+
+While not nearly as bad as its reputation, I still would recommend that Jaguar
+fans skip White Men Can't Jump and pick up NBA Jam TE instead.
+
+Pros
+
++  Up to four players can play.
++  Game saves your progress.
++  If you bought the game new it should come with a Team Tap (a $29.95 value!).
+
+
+Cons
+
+-  The graphics are just horrible, they seem more appropriate for a first 
+   generation SNES game than 64-bit.
+-  The game has absolutely nothing to do with the movie it's supposedly based
+   on.
+-  The game is very short, it took me less than an hour to finish Tournament
+   Mode!
+
+*******************************************************************************
+VIII.  Version History
+
+1.0   05/03/09   Created FAQ.
+
+*******************************************************************************
+IX.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+
+End

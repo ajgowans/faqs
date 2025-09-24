@@ -1,0 +1,493 @@
+
+===============================================================================
+*********************** KASUMI NINJA: FAQ/MOVELIST ****************************
+===============================================================================
+
+                 Atari Jaguar Beat 'em Up; released 1994 UK
+
+                 FAQ/Movelist (Final Version) 29/03/2004
+
+Author - falsehead (Sophie Cheshire). Contact me at falsehead@aol.com
+
+Copyright stuff; this is (c) Sophie Cheshire. If you wish to use this FAQ on
+your website, feel free to do so under the following conditions. a) You email
+me first and let me know where it will be appearing and b) you do not alter the
+content in anyway (if you need to change the formatting slightly for display
+purposes that's OK).
+
+This guide may NOT be used as part of a restricted Pay-to-Enter website or in
+print unless you are prepared to pay me for its inclusion.
+
+If I find out that any part of this FAQ has been lifted and used without credit
+to me, especially if you use it to earn money, then I will be annoyed. I didn't
+type all this up for the good of my health you know.
+
+===============================================================================
+*********************************** CONTENTS **********************************
+===============================================================================
+
+1) INTRODUCTION/REVISION HISTORY
+
+2) THE BASICS
+- The Plot!
+- Playing the Game
+- Shared Fighting Moves
+
+3) CHARACTERS SPECIAL MOVES
+- Alaric
+- Angus MacGreggor
+- Chagi
+- Danjan
+- Habaki
+- Pakawa
+- Senzo
+- Thundra
+
+
+4) CHARACTER PROFILES
+
+- Alaric
+- Angus MacGreggor
+- Chagi
+- Danjan
+- Habaki and Senzo
+- Pakawa
+- Thundra
+
+===============================================================================
+***************************** 1) INTRODUCTION *********************************
+===============================================================================
+
+INTRODUCTION - Kasumi Ninja, an interesting attempt at a Mortal Kombat style
+fighting game doomed to obscurity due to appearing on the sadly neglected Atari
+Jaguar console.  This games uses similar style digitised fighters and very
+over-the-top blood n' gore, which was probably quite daring at the time, but in
+these days of games like Manhunt and GTA3 now looks rather innocuous.
+
+Anyway, this is a straightforward; battle through a tournament to defeat the
+Boss type Beat 'em Up with two-player Vs. Mode to add to the fun. So in
+this FAQ you'll find all the basic fighting moves, all the characters special
+moves and a quick run through of how to play the game.  The fighting isn't in
+the league of the Streetfighter games that were around when the game first came
+out, but its characters are a bit more charismatic than those in the Mortal
+Kombat series, so if you can get the hand of using the limited Jaguar pad to
+fight with, you should get some enjoyment out of it like I did. Have fun!
+
+
+*******************************************************************************
+
+REVISIONS - (17/01/2004).
+
+First version.  All fighting moves, special moves and deathmoves written up.
+game background and character profiles included as well as guide to difficulty
+and gore.  Hope to add some more stuff on fighting strategy in the next (and
+probably final) update.
+
+Final Version (29/03/2004) - Well, I decided against character strategies in
+the end, it would have been pretty pointless as the characters all fight the
+same.  So I have just fixed some typoes and fiddled with the formatting and
+that's it, I shall not be doing any more work on this guide.
+
+===============================================================================
+****************************** 2) THE BASICS **********************************
+===============================================================================
+
+THE PLOT - "Discover the Mystery...
+
+For many generations, rumours have persisted of a small, well-hidden island
+known as Kasumi, which has produced the world's most renowned ninjas. With the
+help of the Preeminent Celestials, the island is kept shrouded in secrecy. An
+impenetrable wall of mist surrounds the island, making it undetectable to
+modern technology. Those who find the island uninvited, are never heard from
+again.
+
+All your life you have trained hard in body and spirit at the only home you
+have known: the Dragon Cloud Temple on Kasumi Island. At the temple you are
+trained by the Elders, a group of three wise and powerful Ninjas. This group of
+Elders consists on Hiei, who embodies the lighter aspects of human nature;
+Kaioh, who embodies the aspect of indifference; and Gyaku, who embodies the
+darker side of human nature. This balance of good and evil is what keeps the
+portal to the netherworld closed.
+
+Using the blackest magic, Gyaku eliminate the other two Elders, throwing the
+cosmic forces out of alignment. When this happened, the gate to the demon world
+was blown open and Gyaku became possessed by the most powerful demon in the
+netherworld. With this power, Gyaku could destroy the Earth!
+
+Your fate has been preordained by the Celestials to fulfil a great and
+terrible prophecy. You were told of this by the Elders when you were very
+young. Throughout your life you wondered what it meant. Now you are sure it is
+your destiny to defeat Gyaku, close the gate to the netherworld and restore
+balance to the universe.
+
+The Celestials cannot help you directly, but they have blessed you with the
+power of absorbing other's abilities. To gain these abilities, you must defeat
+a variety of champions representing the best fighters in the world. They have
+been chosen by the Celestials to aid you in your quest. Only through
+persistence and perseverance, you will have a chance to challenge Gyaku."
+
+-------------------------------------------------------------------------------
+PLAYING THE GAME
+-------------------------------------------------------------------------------
+
+The basic aim of the game is to pick a character and then fight your way
+through all the others before fighting the final boss, Lord Gyaku.  Except he
+isn't the final boss, the final boss is in fact Demon Gyaku!  As you defeat the
+characters, they can be selected between bouts to carry on the fight.  When all
+characters are defeated and available for use, the key to Lord Gyaku's Sky
+temple is yours and you can go onto the final battles.
+
+When fighting Lord Gyaku, you must beat him three times.  Once he is beaten for
+the final time DO NOT do a Death Move on him.  He will then transform into
+Demon Gyaku and must again be beaten three times to complete the game.
+
+You can chose several difficulty options to play in, but only HARD and NINJA
+GOD will allow you to fight the demon, who will appear as long as you DO NOT
+finish Lord Gyaku with a death move.  If you play in NORMAL mode you can fight
+Gyaku, but not the demon. In Easy mode you cannot fight as far as Gyaku.
+
+You can adjust the gore settings of the game, and allow death moves in this way.
+None		No blood.
+	
+Combat	Every time you hit your opponents, you will draw blood, but it will
+            not stay on the ground.
+		
+Disturbing	Your opponents will bleed and blood will pool on the floor and drip
+            from the Ninja swords at the top of the screen.
+	
+Gore Fest	Only accessible with the Parental Lock OFF. The	ultimate blood fest
+            with blood spraying, dripping and flying everywhere.
+
+You can only perform DEATH MOVES in GOREFEST mode, if you are in any other
+mode, the death moves will just not activate.
+
+
+-------------------------------------------------------------------------------
+SHARED FIGHTING MOVES
+-------------------------------------------------------------------------------
+
+EXPLANATION OF MOVE INPUT INSTRUCTIONS
+
+Here is a lovely rendition of the d-pad positions:
+
+ O   O   O
+  \  |  /              --O means "forward" (f)
+
+ O--   --O             \
+                        O  means "down-forwards" (df)
+  /  |  \
+ O   O   O             O-- means "back" (b)
+
+
+A capital F or D or U means press and HOLD that button while performing the
+rest of the button presses.
+
+If the f, d, u, b is in small case then that means just tap. A comma separating
+the commands means the buttons must be pressed in quick succession, but not at
+the same time.  A Plus sign + indicates when two buttons must be pressed
+together.
+
+A lot of the moves must be executed by rolling the thumb through quarter and
+half circle motions of the d-pad back and forth starting from the down
+position.  Mostly I have shortened these to "QCF" which is the motion from
+down, down-forward and forwards and "QCB" which is the motion from down,
+down-back and back.  But occasionally some characters have moves that reverse
+this, so I have had to list them as full range of moves i.e. "b, db, d".  The
+quarter circle motion is the same, it's just going the other way from back or
+forwards to down.
+
+The same goes for "HCB" and "HCF".  These require you to roll the d-pad through
+180 degrees from front to back or back to front via the down directions. Again
+then "HCB is the movement through f, df, d, db, b and HCF is b, db, d, df, f.
+
+CONTROLS
+
+A = Punch
+B = Kick
+C = Special Move (when combined with d-pad inputs)
+
+Pummel           quickly tap Punch multiple times
+Jump Punch       U + Punch
+Flying Punch     UF + Punch
+Crouch Punch     D + Punch
+Uppercut         U + Punch
+Jump Kick        U + Kick
+Flying Kick      UF + Kick
+Sweep Kick       D + Kick
+Roundhouse       B + Kick
+Jump             U
+Crouch           D
+Block            Hold backwards on the D-pad
+Crouch Block     Hold Down-backwards on the D-Pad
+
+Keypad 0         Toggles Music on/off
+# and *          Resets game
+
+
+===============================================================================
+******************* 3) CHARACTERS SPECIAL MOVES *************************
+===============================================================================
+
+As well as all being able to perform the shared moves listed above, each
+character has some special moves and a Death Move for finishing off bout
+spectacularly. All special moves are activated by pressing and holding the C
+button.
+
+I've decided not to bother with character strategies as they small amount of
+moves mean tactics are limited, it also keeps the movelist to a manageable size
+of printing out, if you so desire to do so.
+
+-------------------------------------------------------------------------------
+ALARIC (King of the Goths)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + d,db,b,ub,u  Exploding Bamboo Stick
+C + f,u          Goth Hammer
+C + hcf          Power Slide
+
+f + Kick         Throw
+
+C + f,b,f, Kick  DEATHMOVE (close range)
+
+
+-------------------------------------------------------------------------------
+ANGUS MACGREGGOR (The Scottish Brawler)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + d,u          Caber Toss
+C + d,f          Glasgow Kiss
+C + b,ub,u,uf,f  Great Ball of Fire
+
+b + Punch        Throw
+
+C + f,b,d        DEATHMOVE
+
+
+-------------------------------------------------------------------------------
+CHAGI (The Kickboxer)
+-------------------------------------------------------------------------------
+
+C + b,f,f        Fireball
+C + b,u          Hammer Kick
+C + f,f, Kick    Knee Slam
+
+b + Punch        Throw
+
+C + f,b,f        DEATHMOVE
+
+-------------------------------------------------------------------------------
+DANJA (The Urban Vigilante)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + b,b,b,f      Exploding Bolas
+C + d,u,u        Side Teleport
+
+b + Punch        Throw
+
+C + u,u,b        DEATHMOVE
+
+-------------------------------------------------------------------------------H
+ABKI (The Ninja)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + hcf          Ninja Fireball
+C + u,u          Ninja Teleport
+C + b,b,f,f      Whirlwind Kick
+
+b + Punch        Throw
+
+C + b,u          DEATHMOVE
+
+-------------------------------------------------------------------------------
+PAKAWA (The Comanche Chief)
+-------------------------------------------------------------------------------
+
+C + b,u,u        Buffalo Stomp
+C + hcf          Eagle Claw
+C + f,f,f        Head Butt
+
+b + Kick         Throw
+
+C + f,d,f,b      DEATHMOVE
+
+-------------------------------------------------------------------------------
+SENZO (The Ninja)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + hcf          Ninja Fireball
+C + u,u          Ninja Teleport
+C + b,b,f,f      Whirlwind Kick
+
+b + Punch        Throw
+
+C + u,d          DEATHMOVE
+
+-------------------------------------------------------------------------------
+THUNDRA (The Amazon Queen)
+-------------------------------------------------------------------------------
+
+SPECIAL MOVES
+
+C + f,f,f        Grab Punch
+C + b,f,f        Jungle Lunge
+C + d,u          Teleport
+
+b + Punch        Throw
+
+C + u,u,f        DEATHMOVE
+
+===============================================================================
+*************************** 4) CHARACTER PROFILES *****************************
+===============================================================================
+
+The characters in this game sure are a motley bunch.  These profiles are
+reproduced from the games manual.
+
+-------------------------------------------------------------------------------
+ALARIC (King of the Goths)
+-------------------------------------------------------------------------------
+Some of history's most feared and ferocious warriors were the Goths. The Goths
+were a nomadic tribe from Northern Europe who would travel the continent in
+search of battles to join so that they might pillage and kill, their two
+greatest joys! The most ruthless of the Goths was their king, Alaric. Not only
+was he a renowned fighter, he was also a skilful tactician, leading his tribe
+to certain victory time and time again. One of his greatest accomplishments was
+his imaginative use of gunpowder in many dangerous and unique ways.
+
+-------------------------------------------------------------------------------
+ANGUS MACGREGGOR (The Scottish Brawler)
+-------------------------------------------------------------------------------
+Angus Macgregor is the Blacksmith of his village Loch Katrine, as was his
+father, and his father's father before him. The constant pounding of hot iron
+has made Angus a burly man. Legend of Angus' strength quickly spread to the
+other clans of Scotland and as a result he was constantly challenged to tests
+of strength. These tests included wrestling, boxing and weight lifting. Angus
+always won easily, but he always had high praise for his opponents, especially
+at their funerals. Angus soon discovered that he loved to brawl and became
+obsessed with fighting. Any pub Angus visited soon encountered a severe lack of
+both furnishings and patrons. Angus soon ran out of those who would challenge
+him, causing him much anger. This anger grew inside of him every day, like a
+fire consuming his soul. Now Angus has dedicated his life to finding a worthy
+opponent, one who might be able to give him the fight of his life.
+
+-------------------------------------------------------------------------------
+CHAGI (The Kickboxer)
+-------------------------------------------------------------------------------
+
+Chagi Nelson, five time world kickboxing champion, has never lost a
+professional bout. Even at the tender age of sixteen, Chagi KO'd his very first
+opponent in the first round. Chagi has trained all over the world, mixing
+different martial arts to develop a style all his own. Loud and obnoxious,
+Chagi has the ability to back up his big mouth with a dazzling display of
+speed and skill. Chagi currently owns a chain of successful kickboxing schools
+and convenience stores. He has also been seen in many popular action films such
+as: Under-seize; the Sci-Fi dance thriller the Lambadanator; and the most
+famous of his films, the Kickboxing Kidd Series I - XII. He can also be seen
+currently on TV's Trudger: Lodi Private Eye.
+
+-------------------------------------------------------------------------------
+DANJA (The Urban Vigilante)
+-------------------------------------------------------------------------------
+By day Danja Ureda is an assistant DA fighting in court to lock up criminals
+and keep the streets safe. By night, she is a Vigilante, fighting in a
+different court, where she is judge, jury and executioner! Danja grew up on the
+wrong side of the tracks, but she studied hard in school and became an
+exceptional student. As a result, she was persecuted by her classmates and had
+to quickly learn the laws of the street to survive. When Danja graduated from
+high school (as Valedictorian) she was quickly offered multiple scholarships
+for her academic and athletic abilities. She worked hard in college, and studied
+self-defence and exotic weapons to increase her street fighting skills. She
+earned straight A's and was accepted to Harvard Law School, where she
+specialized in criminal law. Graduating at the top of her class, she was
+offered many prestigious positions, but decided to take a job with the District
+Attorney in the inner city instead. She soon realized how corrupt the justice
+system really was and decided to use her street fighting skills to take the law
+into her own hands. Danja has mixed the martial arts she learned in college
+with her streetfighting tactics and her personal preference for a weapon, the
+bolas. These bolas have been modified to administer her brutal brand of
+justice, giving them a real bang for their buck.
+
+-------------------------------------------------------------------------------
+HABKI and SENZO (The Twin Ninjas)
+-------------------------------------------------------------------------------
+Habaki is the eldest son (by ten minutes) of the Kiri-ga-kure family. At an
+early age the twin brothers were left in the care of the monks at the Dragon
+Cloud Temple. The two brothers were equally adept at the arts, both spiritually
+and physically. The Elders, noticing the great skill of the twins, offered them
+a chance to advance their arts by training as disciples under one of the
+Elders. Habaki was chose by Kaioh and Senzo was chosen by Hiei. There have also
+been rumors of Gyaku taking a disciple, but no one has ever seen his student.
+During tournaments held at the Dragon Cloud Temple, the twins always cause a
+special interest because of their fierce competitiveness. The final match
+always comes down to the two brothers and each have won an equal number of
+Championships over the years.
+
+-------------------------------------------------------------------------------
+PAKAWA (The Comanche Chief)
+-------------------------------------------------------------------------------
+Pakawa is the chief of the Comanche fighting tribe, the Tu-Wee-Kah. For many
+years the Comanches lived in harmony with nature. When the colonists settled
+in, the Comanches welcomed them with open hearts. As time went on, the
+colonists grew greedy and started to forcefully take the land from the
+Comanches, with no respect for the Comanche life. Pakawa decided to train a
+group of elite warriors and called them the Tu-Wee-Kah. The Tu-Wee-Kah were the
+equivalent of the Green Berets of their time and they were the ones who were
+sent in first to stealthily assassinate the opposition and disable key
+positions, the rest of the tribe would then attack. Pakawa has been in many
+battles and he is proud of the many scalps that he has collected.
+
+-------------------------------------------------------------------------------
+THUNDRA (The Amazon Queen)
+-------------------------------------------------------------------------------
+Thundra is the queen of a lost tribe of Amazon warriors. These warriors have
+taken a solemn oath to protect the rainforest from modern industrialists who
+wish to destroy it for their own profit. This is done by surgically sabotaging
+vital equipment and assassinating high ranking company officials. Thundra is
+their greatest warrior and as a result, she was appointed queen. She has
+trained her warriors in a fighting art handed down for generations. This art
+was taken directly from the forces of nature and those who have mastered this
+art can channel their inner power to imitate the fury of nature.
+
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+-------------------------------------------------------------------------------
+Feel free to email me about any aspect of this guide, any contributions you
+would like to make will be fully credited if used and are more than welcome.
+Please inform me of any errors, typos etc so I can rectify them immediately
+My email is falsehead@aol.com
+
+(Blatant plug: check out my games website at www.kungfuhamster.cjb.net for
+loads of info on Martial Arts, Beat 'em Ups, Kung Fu Movies and Pokemon!)
+
+Please also check out another great site for next generation gaming news and
+reviews htpp://www.thunderbolt.be
+
+Big Thanks to CjayC, the cool bloke who runs GameFAQs.  You've given me the
+opportunity to reach more people with my stuff than I ever could have alone!
+
+Special thanks go out to: BillyKane, Magus747, Andy787, totalstuff and Pat
+Uhler for being such a laugh, and giving me the push to actually start
+contributing my own work back in the good old days of the DC board.
+
+Thanks also to my homies in the Review and FAQ boards for continuing support
+and being all round awesome dudes (and gals)! asherdeus, bloomer, sashanan,
+Andrew Schultz, MaxH, Vegita, Marc Golding, Jesse Eubanks, Adrenaline and
+Banandgril Love yah all guys/girls
+
+==============================================================================
+********************************** THE END ***********************************
+==============================================================================
+
+
+

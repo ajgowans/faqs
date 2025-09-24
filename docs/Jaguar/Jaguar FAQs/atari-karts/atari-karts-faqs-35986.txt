@@ -1,0 +1,502 @@
+             [][][][][][]  AA  TTTTT  AA  RRR  IIIII    ||
+             [][][][][][] A  A   T   A  A R  R   I      ||
+             [][][][][][] AAAA   T   AAAA RRR    I     /  \
+             [][][][][][] A  A   T   A  A R R    I    //||\\
+             [][][][][][] A  A   T   A  A R  R IIIII // || \\
+             ||         _  _    __    ____  ____  ___ 
+             ||        ( )/ )  /__\  (  _ \(_  _)/ __)
+             ||         |  (  /(__)\  )   /  )(  \__ \
+             ||        (_)\_)(__)(__)(_)\_) (__) (___/
+  ___________||_____________   ______________________   ______________________
+ ()_________________________) ()_____________________) ()_____________________)
+ || I. Atari Karts          | ||                     | ||                     |
+ || II. The Racers          | || FAQ / Driving Guide | ||    Atari Jaguar     |
+ || III. The Tracks         | ||    Version  1.00    | ||    Midway Games     |
+ || IV. Game Credits        | ||     by Seth0708     | ||    Released 1995    |
+ || V. Copyrights           | ||                     | ||                     |
+ ||_________________________| ||_____________________| ||_____________________|
+ ||          ||            || ||                    || ||                    ||
+ ||          ||            || ||                    || ||                    ||
+_||__________||____________||_||____________________||_||____________________||
+
+ ______       _______       _______       _______       _______       _______
+|______|     |_______|     |_______|     |_______|     |_______|     |_______|
+
+_______________________________________________________________________________
+
+
+()_____________
+||             |
+|| Atari Karts |
+||_____________|
+||
+|| Atari Karts was a racing game released in the dying days of the Atari
+|| Jaguar. Clearly intended to be Atari's answer to Nintendo's Mario Kart,
+|| Atari Karts has a "battle" theme to it instead of a purely "racing" theme.
+||
+|| The Atari Jaguar was the first system to sport 64-bit processors and
+|| graphics, however it is now largely unknown. It was released during the
+|| heated video game wars between Sega and Nintendo and never really picked
+|| up steam. In the end Atari was dissolved and the name sold. If you're
+|| interested in reading about the system, check out the Hardware guides here
+|| on GameFAQs.
+||
+|| Update: After a few years I have gone back and updated this guide. Sadly,
+|| the reason I never finished this guide in the first place is that I had a
+|| lot of trouble running it on my emulator, and that is still very problematic
+|| even now. However, I can at least move through the third cup, and as such
+|| have updated this guide, but the fourth cup will not load correctly. If you
+|| reading this can help me with descriptions of the fourth cup, find anything
+|| amiss, or think some noteworthy strategies should be added, please do not
+|| hesitate to drop me a line. I will update the guide and, as always, credit
+|| you with anything I put in.
+||
+|| Second Update: Trying to complete my unfinished guides on GameFAQs, I
+|| decided to tough it out and play the last races even though the backgrounds
+|| are blacked out the track flickers in and out on my emulator. This may lead
+|| to some problems with how the maps are drawn, but in the interest of
+|| completeness' sake I think it is better to offer some information than none.
+|| If anyone actually reads this guide and has any corrections to make, do not
+|| hesitate to drop me a line.
+
+()_____________
+||             |
+|| The Drivers |
+||_____________|
+||
+|| Like Mario Kart, Atari Karts has an interesting assortment of racers to
+|| chose from. You begin with seven racers, but you can unlock four more by
+|| winning the different Challenges. Below is an analysis of each racer in
+|| Atari Karts and instructions for unlocking the secret racers.
+||
+|| Bentley Bear
+||	He's a bear. Aside from that he's about average in all categories.
+||
+|| Fire Bug
+||	One of the fastest racers in the game. Fire Bug is unlocked after you
+||	complete the Miracle Challenge.
+||
+|| Haratari
+||	The manual says he's an alien. Looks more like a demon to me, but I'll
+||	take their word for it. He's your first secret racer, unlocked after
+||	you beat the Beginner Challenge.
+||
+|| Miracle Man
+||	The last secret racer and, understandably, the best racer in the game.
+||	Unlocked after you complete the Jaguar Ace Challenge.
+||
+|| Miz Tress
+||	This human woman has excellent acceleration. The problem is her top
+||	speed is very low. Thankfully her steering is still fairly solid.
+||
+|| Ptarmigan
+||	This snowman just looks vicious. It's got just above average speed,
+||	average acceleration, and low steering. All in all, not a good choice.
+||
+|| Pulpito
+||	The octopus has fairlu good speed and steering, but his acceleration
+||	leaves something to be desired. You gotta get him going, but once you
+||	do he's a stable racer.
+||
+|| Pum King
+||	I'm not even joking, that is this racer's name. You unlock him after
+||	finishing the Warrior Challenge. Resembles a pumpkin.
+||
+|| Regius
+||	This cool-looking chicken is alright. His speed is about average, while
+||	his acceleration is low. He really excells at steering, presumably
+||	because of his solid weight.
+||
+|| Skully
+||	The skeleton racer is bad to the bone in every way, and I don't mean
+||	"bad" as in cool. He is deficient in speed, acceleration, and steering.
+||	Being dead must be taking its toll on him.
+||
+|| Vulky
+||	Another alien. This one has high speed, but low acceleration and
+||	steering. If you're confident in your driving skills, use him. If not,
+||	be warned...
+||
+
+()____________
+||            |
+|| The Tracks |
+||____________|
+||
+|| The racers are all fine and good, but the tracks are the most important
+|| part of this guide. They're divided up by Challenge and then Cup. In Atari
+|| Karts each Challenge functions like a Cup in Mario Kart, while each Cup
+|| functions like an individual race. Thus a "Cup" is actually just one race
+|| map. The names are all pretty boring, so I've provided a slightly more
+|| descriptive name for each track in paranthesis by their map below.
+||
+|| A complete listing is provided here:
+||____________________________________________________________________________
+| Beginner Challenge   Warrior Challenge   Miracle Challenge   Jaguar Ace     |
+|  Borregas Cup 1       Borregas Cup 2      Borregas Cup 3      Borregas Cup 4|
+|  Carleton Cup 1       Carleton Cup 2      Carleton Cup 3      Carleton Cup 4|
+|  Tempest Cup 1        Tempest Cup 2       Tempest Cup 3       Tempest Cup 4 |
+|  Miracle Race 1       Miracle Race 2      Miracle Race 3      Miracle Race 4|
+|_____________________________________________________________________________|
+Beginner Challenge
+ Borregas Cup 1 (Alien Planet):
+ ****************************** The first race present a fairly basic track
+ ****************************** set on an alien environment. Craters block the
+ *************               ** sides of the track, while aliens watch from
+ *************               ** the sidelines. A few random barrels are set
+ **                ******    ** about to block your path, but they're largely
+ **                ******    ** inconsequential. At this difficulty you can
+ **      ****************    ** hit them and still pass the other racers on
+ **      ****************    ** the same lap.
+ **      ****************____**
+ **      ****************    **
+ **      ****************    **
+ **      ****************    **
+ **      ****************    **
+ **                          **
+ **                          **
+ ******************************
+ ******************************
+
+ Carleton Cup 1 (Icy Snow Field):
+ ****************************** The second race provides you with a few more
+ ****************************** turns to deal with, but little more in terms
+ *********             ******** of hazards. Along the bottom left are a few
+ ********               ******* ice spikes sticking out of the ground, but
+ ***         ********       *** other than that there is little to hamper you.
+ **        ***********       ** You race on ice here, so you have a tendency
+ **        ***********       ** to slip a little. Also watch out for the
+ **                ***       ** snowmen on the sidelines because they can stop
+ ***                **       ** you if you crash into them.
+ ***************    **       **
+ ***************    **_______**
+ ***                **       **
+ **                ***       **
+ **     **************       **
+ **     **************       **
+ **                          **
+ ***                        ***
+ ******************************
+ ******************************
+
+ Tempest Cup 1 (Beachfront):
+ ****************************** This is the first race where you'll see jumps.
+ ****************************** The areas on the map where the water cuts over
+ ***       **********       *** the track are where the jumps are. Simply hit
+ **         ********         ** the yellow line before them to jump across the
+ **    **              **    ** water. If you miss it is not so critical in
+ *********            ********* this race since the water lines are relatively
+ **    ******************    ** small, but in future races in can make or
+ **    ******************    ** break you. Again this beachfront race is a bit
+ **    ******************    ** harder than the last race, but nothing too
+ **____******************    ** tough.
+ **    ******************    **
+ **    ******************    **
+ **    *****    *   *****    **
+ **    ****     *    ****    **
+ **             *            **
+ **          ******          **
+ ***        ********        ***
+ ******************************
+ ******************************
+
+ Miracle Race 1 (Dirt Road):
+ ****************************** The final race of the Beginner Challenge is
+ ****************************** really fairly easy. There are some tight turns
+ ***                 ********** if you're going fast enough, but truly nothing
+ **                   ********* overly challenging. The race takes place on a
+ **      ********      ******** dirt road in a field. Signs and barrels litter
+ **     **********          *** the sides of the track. If you win this race,
+ **     ***********          ** you will unlock Haratari for play.
+ **_____****************     **
+ **     *****************    **
+ **     *****************    **
+ **     *******      ****    **
+ **     ******        ***    **
+ **     ******   **   ***    **
+ **      ****    **    *     **
+ **              **          **
+ ***            ****        ***
+ ******************************
+ ******************************
+
+ Warrior Challenge
+  Borregas Cup 2 (Beachfront)
+ ****************************** This is the first of several repeat tracks you
+ ****************************** will encounter. Here it is Tempest Cup 1.
+ ***       **********       *** The areas on the map where the water cuts over
+ **         ********         ** the track are where the jumps are. Simply hit
+ **    **              **    ** the yellow line before them to jump across the
+ *********            ********* water. If you miss it is not so critical in
+ **    ******************    ** this race since the water lines are relatively
+ **    ******************    ** small, but in future races in can make or
+ **    ******************    ** break you. Again this beachfront race is a bit
+ **____******************    ** harder than the last race, but nothing too
+ **    ******************    ** tough.
+ **    ******************    **
+ **    *****    *   *****    **
+ **    ****     *    ****    **
+ **             *            **
+ **          ******          **
+ ***        ********        ***
+ ******************************
+ ******************************
+
+  Carleton Cup 2 (Castle Outskirts)
+ ****************************** Although the background is different, this
+ ****************************** track is identical to Miracle Race 1. The big
+ **                   ********* u-turn about two-thirds of the way through
+ **                   ********* the race is the trickiest part, but you have
+ **     **********    ********* already completed this track once.
+ **     **********           **
+ **     **********           **
+ **_____*****************    **
+ **     *****************    **
+ **     *****************    **
+ **     ******        ***    **
+ **     ******        ***    **
+ **     ******   **   ***    **
+ **     ******   **          **
+ **              **          **
+ **              **          **
+ ******************************
+ ******************************
+
+  Tempest Cup 2 (Alien Planet)
+ ****************************** This is actually a repeat of Carleton Cup 1,
+ ****************************** but without the icy hazards from before. Now
+ *********             ******** we are on an alien planet, and even though it
+ ********               ******* is later in the game this race is easier than
+ ***         ********       *** the one it is based off of. There are a few
+ **        ***********       ** golden alien things on the sidelines by the
+ **        ***********       ** first and last two turns, but they are far
+ **                ***       ** enough off the side that they truly pose no
+ ***                **       ** real threat.
+ ***************    **       **
+ ***************    **_______**
+ ***                **       **
+ **                ***       **
+ **     **************       **
+ **     **************       **
+ **                          **
+ ***                        ***
+ ******************************
+ ******************************
+
+  Miracle Race 2 (Desert Highway)
+ ****************************** This is the only totally unique track of the 
+ ***********       ************ Warrior Challenge and one of my personal
+ **********          ********** favorites. As you can see, there are a lot of
+ ***         *****    ********* quick, precision turns here. Since you likely
+ **      **********        **** breezed through the first three tracks of the
+ **     ****************    *** challenge you might be able to ride your score
+ ***      ***************   *** to victory, but if you want to take first you
+ ****_____********         **** need someone with good handling. Finishing the
+ ****     *******   *********** Warrior Challenge in first (not just this race)
+ ****     *******   *********** will unlock Pum King for your use.
+ ****     ********   **********
+ ****     *********   *********
+ *****     *********        ***
+ ********   **************   **
+ *********          *****    **
+ **********    ***   ***    ***
+ ******************        ****
+ ******************************
+
+Miracle Challenge
+  Borregas Cup 3 (Beachfront)
+ ****************************** Although you might think this is yet anoter
+ ****          **************** repeat track, that first jump will show you
+ ***            *************** otherwise. The key here, as with any of the
+ **       **               **** beachfront tracks, is hitting your jumps. You
+ **      **************     *** will probably notice a small island with a
+ ***********************     ** power-up just after the two jumps in a row.
+ **     ***************      ** Only go for this if you missed the jump;
+ **_____********           **** deliberately going for it will not make up any
+ **     *******   ************* time if you could have made both jumps and the
+ **     *******   ************* turn.
+ **     *******    *   *     **
+ **     ********   *   *      *
+ **     *******************   *
+ **      ***************  **  *
+ **       *****************   *
+ ***           *              *
+ ****          *             **
+ ******************************
+
+  Carleton Cup 3 (Green Hills)
+ ****************************** This is a mirrored version of Miracle Race 1,
+ ****************************** which is actually slightly harder. The first
+ ***            ****        *** u-turn is the toughest part of the track, and
+ **              **          ** this time about there are more things to crash
+ **      ****    **    *     ** into on the sidelines of the track. I really
+ **     ******   **   ***    ** like the music here; while it does not sound
+ **     ******        ***    ** like racing music, the melody is very nice.
+ **     *******      ****    **
+ **     *****************    **
+ **     *****************    **
+ **_____****************     **
+ **     ***********          **
+ **     **********          ***
+ **      ********      ********
+ **                   *********
+ ***                 **********
+ ******************************
+ ******************************
+
+  Tempest Cup 3 (Asian Temple)
+ ****************************** This is a slightly modified Tempest Cup 1, with
+ ****************************** no jumps and a u-turn that seems to be a little
+ ***       **********       *** longer than the first time. With the jumps no
+ **         ********         ** longer an issue, the programmers saw fit to put
+ **    **              **    ** a lot of small pillars throughout the track,
+ **    ***            ***    ** making this third round on the track much more
+ **    ******************    ** troublesome. Thankfully there is a very nice
+ **    ******************    ** melody like the last race to move us through a
+ **    ******************____** new background.
+ **    ****          ****    **
+ **    ***            ***    **
+ **    ***    ****    ***    **
+ **    ***   ******   ***    **
+ **    **    ******    **    **
+ **          ******          **
+ **          ******          **
+ ***        ********        ***
+ ******************************
+ ******************************
+
+  Miracle Race 3 (Stormfront)
+ ****************************** You are not seeing things, this is the same
+ ****************************** track twice in a row, only this time instead
+ ***       **********       *** of pillars were have Western-style gravestones
+ **         ********         ** and crosses. Again, the obstacles are the
+ **    **              **    ** worst part and just take a steady driving arm
+ **    ***            ***    ** (or just avoid the power-ups) to get by. If
+ **    ******************    ** you place first in the Miracle Challenge with
+ **    ******************    ** your completion of this race, you will unlock
+ **    ******************____** Fire bug who is possibly the fastest racer in
+ **    ****          ****    ** the game.
+ **    ***            ***    **
+ **    ***    ****    ***    **
+ **    ***   ******   ***    **
+ **    **    ******    **    **
+ **          ******          **
+ **          ******          **
+ ***        ********        ***
+ ******************************
+ ******************************
+
+Jaguar Ace
+  Borregas Cup 4 (Icy Snow Field)
+ ****************************** This race seems to be identical to the second
+ ****************************** race of the Beginner Challenge. The major
+ *********             ******** obstacle here is to take into account that the
+ ********               ******* ice will make you slip. This is only the second
+ ***         ********       *** icy race, so enjoy.
+ **        ***********       **
+ **        ***********       **
+ **                ***       **
+ ***                **       **
+ ***************    **       **
+ ***************    **_______**
+ ***                **       **
+ **                ***       **
+ **     **************       **
+ **     **************       **
+ **                          **
+ ***                        ***
+ ******************************
+ ******************************
+
+  Carleton Cup 4
+ ****************************** Best I can tell, this seems to be anoter repeat
+ ****************************** of this basic design. The quick U-shaped turn is
+ **                   ********* the toughest part of the course, but by now
+ **                   ********* you've seen this course multiple times and know
+ **     **********    ********* what to expect from it.
+ **     **********           **
+ **     **********           **
+ **_____*****************    **
+ **     *****************    **
+ **     *****************    **
+ **     ******        ***    **
+ **     ******        ***    **
+ **     ******   **   ***    **
+ **     ******   **          **
+ **              **          **
+ **              **          **
+ ******************************
+ ******************************
+
+  Tempest Cup 4
+ ****************************** The entirity of Jaguar Ace is repeats, so for
+ ****************************** your third race you get the most repeated track
+ ***       **********       *** design in the game. There is very little here
+ **         ********         ** to obstruct you, making this probably the
+ **    **              **    ** easiest race of the challenge to get first in
+ **    ***            ***    ** and bolster your score.
+ **    ******************    **
+ **    ******************    **
+ **    ******************    **
+ **____******************    **
+ **    ******************    **
+ **    ******************    **
+ **    *****        *****    **
+ **    ****          ****    **
+ **                          **
+ **          ******          **
+ ***        ********        ***
+ ******************************
+ ******************************
+
+  Miracle Race 4
+ ****************************** Another repeat, but this one is of Miracle Race
+ ***********       ************ 2, which is a great one. As with before, there
+ **********          ********** are a lot of precision turns involved here,
+ ***         *****    ********* giving you a good race to go out on. If you
+ **      **********        **** finish first in the Jaguar Ace challenge you
+ **     ****************    *** will unlock Miracle Man, the best racer in the
+ ***      ***************   *** game.
+ ****_____********         ****
+ ****     *******   ***********
+ ****     *******   ***********
+ ****     ********   **********
+ ****     *********   *********
+ *****     *********        ***
+ ********   **************   **
+ *********          *****    **
+ **********    ***   ***    ***
+ ******************        ****
+ ******************************
+
+()______________
+||              |
+|| Game Credits |
+||______________|
+||
+|| Developer			Programmers
+||	Miracle Designs			Filip Hautekeete
+|| Excutive Producer			Peter Vermeulen
+||	Bill Rehbock		Graphics/Sound/Music
+|| Producer				Miracle Designs Team
+||	Loic Duval			Loic Duval
+|| Lead Tester				Jen Smith
+||	Jennifer Vernon		Marketing Product Manager
+|| Lead Tester				Jeanne Winding
+||	Lance Lewis		Creative Services
+|| Testers				Greg LaBrec
+||	Martin Krawetz			Diana Bredfeldt
+||	Jason Cordero			Design Works
+||
+
+()____________
+||            |
+|| Copyrights |
+||____________|
+||
+|| Atari Jaguar is (c) Atari Corp.
+||
+|| Atari Karts is (c) Midway Games and Miracle Designs
+||
+|| Mario Kart is (c) Nintendo
+||

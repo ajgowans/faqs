@@ -1,0 +1,1433 @@
+     |------------------|
+     |                  |
+     |                  |
+     |___.          .___|
+         |          |.____________.    ._________. .______    ._____.         
+         |          ||            \   /          \ |      \   |     |
+         |          ||_    .__     |  |   .__.    ||_      \  |   ._|
+         |          |  |   |  |    |  |   |  |    |  |      \ |   |
+         |          |  |   |__|  __/  |___|  |____|  |       \|   |
+         |          |  |         \                   |   \    |   |
+         |          |  |   |--|   |   |---|  |----|  |   |\       |
+         |          |  |   |  |   |_  |   |__|    | _|   | \      |_.
+         |          | _|   |  |     | |           ||     |  \       |     
+         |          ||_____|  \_____|  \.________/ |_____|   \______|
+     .___|          |___.  ____  ____ ___   ______ ___ ______  ____
+     |                  | / ___|/    \| |   |     \|  || ___| |    \
+     |                  | \_--\ |_||_|| |   .--|| ||  || |_   |  o |
+     |                  | ___\ ||-||-|| |_||.--|| ||  || |__  | || /
+     |__________________||_____/\____/|____||____/ |__||____| |_||_|
+
+                    
+  ---------------------------------------------------------------------
+                             
+                             Iron Soldier
+                         for the Atari Jaguar
+                    FAQ / Walkthrough  Version 0.2
+                 Written by cnick (seamanci@yahoo.com)
+
+                     Last Updated: April 25th, 2003
+                
+
+Newest versions of this guide can be found ONLY at: www.gamefaqs.com
+
+WRITTEN EXLUSIVELY FOR GAMEFAQS.COM
+Copyright 2003 cnick.
+
+-----------------
+table of contents
+-----------------
+
+1. INTRODUCTION / UPDATES
+2. STORY
+3. CONTROLS
+4. GAMEPLAY
+      - weapons
+      - enemies
+      - buildings
+      - crates
+5. WALKTHROUGH
+      - block one
+      - block two
+      - block three
+      - block four
+6. CHEATS
+7. CREDITS
+
+
+=========================================================================
+1) INTRODUCTION / UPDATES
+=========================================================================
+
+Introduction  ___________________________________________________________
+
+Giant robots. Mmm... I'm in flavor country. Aside from maybe Tempest 2000
+and Alien Vs. Predator, this game is the ultimate crack of the Atari
+Jaguar system. This also does a decent job of displaying what most games
+were missing, that "64-bit" graphics the system had. Obviously, you're
+going to have to move on to the Battlespheres and Hover Strike CDs of
+the Jaguar world to see what the system was capable of, but Iron Soldier
+is an amazing game, with at the time, some pretty darn good graphics.
+
+Even though there is a complete (and darn good) guide already up on
+GameFAQs, this is one of my favorite games on the Jaguar so it's was 
+an easy decision to do this. And this is clearly the best FAQ online
+anyway ^_^ .
+
+Got the cartridge, but no overlay? <www.atariage.com> has a scan on of
+it. I'm not sure it's at the proper size to fit on your controller. But,
+the web site also has scan of every page of the manual. Head to page 27,
+and an overlay is there. But the scans are at the original size, you
+should be able to print out that page, than cut out the overlay. Instant
+overlayication!
+
+Want some more information on the series? A sequel under the name of 
+Iron Soldier 2 was published by Telegames for the Jaguar and Jaguar CD.
+The cart version is far rarer (and costs about $20 more), but is
+basically the same thing. Loading times are a bit faster, but you lose
+the FMV sequences on the CD version. Which one is better? If you have
+the Jaguar CD, getting the CD version is a no-brainer. But the CD unit
+is an expensive-as-heck investment. So if you don't want to blow $150 for
+the very few games on the CD unit, you can spend a bit more for the 
+cartridge version of IS2. Telegames also published Iron Soldier 3 on
+the Playstation (although had the graphics upgrade been capable from the
+Jaguar, methinks Telegames would've released it on the Jag).
+
+I'd appreciate any e-mail to correct mistakes, add your opinion on 
+something, contribute something I've missed, etc. Feel free to e-mail me
+about it, or make your own guide to compensate for my crappiness. I'd 
+prefer you contribute though. Also, if I don't reply to your e-mail, its
+because your question is in the FAQ, or I simply don't care. Okay, that
+was a little rude. I'll rephrase. If your e-mail doesn't warrant a
+response from me, I'm not going to bother. 
+
+Updates  ________________________________________________________________
+
+Version 0.2 (April 25, 2003)
+ - Added some more in various sections. FAQ 100% done.
+
+Version 0.1  (April 20, 2003)
+ - First revision. Everything done, methinks.
+
+=========================================================================
+2) STORY
+=========================================================================
+DESTROY THE CORPORATE MACHINE!
+
+Industry has taken over the planet. Three-quarters of the Earth's surface
+is covered with concrete and steel cities and wastelands. The Iron Fist 
+Corporation (IFC) has used military force to conquer national governments 
+and create a worldwide military dictatorship.
+
+Recently, the IFC developed a new weapon for use in urban areas: a 
+42-foot tall piloted robot, known as the Iron Soldier (or, IS). With such
+a weapon, they will have no trouble maintaining their hold on the 
+populace.
+
+However, an organization has been formed to stop the IFC. This group, 
+known as the Resistance, has even managed to capture an early production
+model of the Iron Soldier Unit.
+
+This is where you come in. As a member of the Resistance, your job is to 
+pilot the Iron Soldier in a one-man war against Iron Fist. The fate of 
+the world rests on your shoulders, but at least your IS's shoulders can 
+mount rockets...
+
+=========================================================================
+3) CONTROLS
+=========================================================================
+
+General
+-------
+Directional Pad - * Looks up, down, left, right. 
+                  * Up and down can be reversed through options menu.
+                  * Controls Cruise missiles. Up climbs, down dives (can 
+                    be reversed).
+
+C Button - * Hold down to look faster.
+           * Tap C to center your view.
+
+B Button - * Pres to fire currently selected weapon.
+
+A Button - * Walks / Stops.
+           * A+Up walks forward.
+           * Once moving, no longer have to hold A.
+           * A+Down walks backward.
+
+Option Button - * Select hand-held weapons.
+                * Press repeatedly to switch between hands.
+
+
+Selecting Weapon Mounts
+-----------------------
+Use the Option Button and Number Pad to select Weapon Mounts. Whatever 
+weapon is on a mount will be usable when that mount is selected. If the 
+weapon is out of ammunition or no weapon is mounted, that mount cannot 
+be selected.
+
+Keypad 1 - Selects the Right Shoulder mount.
+
+Keypad 3 - Selects the Left Shoulder mount.
+
+Keypad 4 - Selects the Right Hip mount.
+
+Keypad 6 - Selects the Left Hip mount.
+
+Keypad 7 - Selects the Right Hand mount (or press the Option Button).
+
+Keypad 9 - Selects the Left Hand mount (or press the Option Button).
+
+
+Advance Controls
+----------------
+You can look up and down, left and right without changing your walking
+direction if you turn the Advanced Controls on.
+
+Use the Keypad 2 to switch the Advanced Controls ON/OFF.
+
+While Advanced Controls are ON, only A+ Directional left/right will turn
+the IS left or right.
+
+C+ direction or a direction alone will make the IS look around without 
+changing your walking direction. You can only look 90 degrees to the 
+left, right, up, or down without turning the body of the IS.
+
+*NOTE* A lot of times when people think they have a problem with the 
+game's control, it seems they tend to hit Keypad 2, which triggers 
+Advance Controls. It's fairly easy to accidentally hit, so if you notice
+anything weird, and you don't use advance controls, its likely you
+hit it. *END NOTE*
+
+Options
+-------
+(Through the top menu screen; default in brackets)
+
+Difficulty           Easy     [Medium]   Hard
+Aiming up/down      [normal]   reverse
+Missile up/down     [normal]   reverse
+
+A + C button        [normal]   swapped
+INGAME Music        [on]       off
+
+Test Music          [Industria]
+                     Tazzo IV
+                     Chockh!!! 
+                     Thrill
+                     Ascending
+                     Iron Right        
+
+=========================================================================
+4) GAMEPLAY
+=========================================================================
+
+-------------------------------------------------------------------------
+WEAPONS
+-------------------------------------------------------------------------
+NOTE: Mounting more than one of any weapon will give you more ammunition
+for that weapon, but otherwise has no effect on weapon performance.
+
+Note2: weapon evaluation is simply my opinion on how you should use the 
+weapon (or for that matter, use the weapon at all).
+
+Note3: the game's overlay is awkward. Instead of making things simple,
+the overlay is designed as if you were looking at the front of your
+Iron Soldier (instead of behind him). Get used to it :(
+
+
+S t a n d a r d   M a n i p u l a t o r
+
+description
+------------
+Basically, your hands. Allow you to use hand weapons like a Rifle or
+Grenades. It is a powerful weapon in its own right. Use the SM to pound
+on buildings or enemy IS units. Make sure you're right next to the object
+or enemy that you want to hit.
+
+evaluation
+-----------
+Despite initial impressions, the manipulator is damn effective in-game.
+Instead of wasting ammunition to destroy buildings, you can use your
+hands to blow them up. I don't recommend using these against other
+enemy units, particularly against other Iron Soldiers. They are strong
+enough to withstand a good amount of beating, and you can't afford to
+stand still for so long. Also, you should have plenty of Assault Rifle
+ammo to take out small enemies like tanks and helicopters, where they
+shouldn't even get too close to you to begin with. Considering how
+fast you get the Chain Cutter, the Standard Manipulator is simply 
+out-classed by the game's other weapons.
+
+
+C a s s y   A s s a u l t   R i f l e
+
+description
+-----------
+This weapon is a 75 MM semiautomatic hand-held rifle, with a healthy 
+supply of ammunition. It will fire three-round bursts if you hold down 
+the B Button. It has a decent range and firepower and it is a good 
+all-purpose weapon. Unfortunately, the ammo is held in magazines, so it 
+takes two  hands to use. The rifle cannot be carried if you have equipped
+your IS with a Chain Cutter.
+
+evaluation
+----------
+Considering it’s the first weapon in the game, you should already know 
+this is a very weak weapon. Helicopters and tanks take awhile to take
+down, let along enemy iron soldier units. The early levels you're limited
+to just the assault rifle are fairly easy, so you can make do with its
+relatively weakness. If you do face an enemy Iron Soldier, definitely
+don't use this. You'll get bitch slapped like nobody's business. Heck,
+you'll get bitch slapped with pretty much any weapon, but moreso if
+you're using this.
+
+
+P a r k e r   C h a i n   C u t t e r
+
+description
+------------
+This chain-drive cutting device replaces your right hand and must be 
+mounted on the arm. It is an excellent close-up weapon to quickly destroy
+buildings or enemy IS units. Remember, like the Manipulator, you must
+stand right next to your target to hit it.
+
+evaluation
+-----------
+Not much to say here. It's obviously better than the manipulator, but
+it also takes away the use of one of your hands. The ideal way to use
+the Chain Cutter is to know when you use it. For example, when first
+facing the Heavy Tank, Tasset, the Chain Cutter is a great weapon to
+have equipped to quickly cut down the tank. But in a mission where you
+don't need a heavy duty, hard hitting, close-ranged weapon, it's 
+absolutely worthless! Still, it does its job nicely, and it has its
+uses. The walkthrough part of this guide will tell you when exactly you
+need it - practically every level! Why? Because with the gatling gun,
+there's no need for the Assault Rifle anymore. This frees up the hands
+every mission after the first block. Which is great because the cutter
+takes down buildings damn quick, so you don't have to worry about getting
+pounded by enemies as you try to find a REPAIR or SUPPLY crate.
+
+B a d g e r   H a n d   G r e n a d e s
+
+description
+------------
+These oil-drum sized grenades explode on impact and have a large 
+explosion area. Even if you don't hit a target directly, it still may be
+destroyed by the explosion. Grenades always fly a fixed distance. 
+Practice throwing these so you know just how far they go. You can even
+throw them over buildings. Be careful not to be too close to the 
+explosion -- you may damage your own IS! Each grenade rack holds eight
+grenades. Grenades are hip mounted.
+
+evaluation
+-----------
+The grenades are "okay" weapons to use. I found that they were simply too
+slow to throw, and finally blow up to destroy whatever you want. Granted,
+you'll need them to blow up certain things; use them there. But as a 
+general weapon, I think I'll pass. Enemies move far too fast for these 
+guys to be effective, and switching weapons takes longer than it should.
+Even looking back to the beginning of the game, I found use the assault
+rifle over switching to grenades, throw, than switch back to my assault
+rifle. Even that can do some damage. But to give some grenades some 
+credit, if you run into an enemy Iron Soldier early in the game, they do
+a decent job of taking them down. Unfortunately, rockets are far 
+superior against enemy ISs, and the grenades only use is really to blow
+up buildings really, really fast.
+
+R a c h e l s   G a t l i n g   G u n
+
+description
+------------
+This weapon is a rapid firing, 6-barrel gatling gun that fires 40 MM 
+rounds at over 600 rounds per minute. It is devastating at short range,
+but its power drops off rapidly at longer ranges. It carries a lot of
+ammunition, but don't waste your shots. it can be mounted on any shoulder
+or hip mount.
+
+evaluation
+-----------
+Yes! Gatling guns own! What's nice about these is you can use them on
+your shoulder; meaning extra ammunition if you put two on, or you can
+only put one on and leave the other shoulder for something else. 
+Definitely a plus over the assault rifle. Although weak at long-distances
+(mostly because of aim; you're not hitting anything), the gun mows down
+anything that gets close by. Helicopters, Greaves, Tanks, you name it,
+this tears them a new one. Just make sure they are relatively close to
+you. Lastly, remember you can equip the gatling gun on your Iron 
+Soldier's hips. Arguably the best weapon in the game, as you'll use it
+every single level once you are rewarded with it.
+
+W o l f p a c k   R o c k e t   L a u n c h e r
+
+description
+------------
+This rocket launcher fires 12 deadly rockets. The rockets are explosive
+but not as powerful as the Badger Grenades. They can be used over greater
+distances, so you need to figure in the advantages of the two weapons
+before choosing one. Rocket Launchers can be mounted on any shoulder
+or hip mount.
+
+evaluation
+-----------
+At first glance, the Wolfpack rocket launcher kinda sucks. It’s weaker 
+than grenades; what's the point of using it? In levels with infinite
+ammo, like War is Heck and Urban Renewal, the rocket launcher is a great
+way to blow things up fast. While it doesn't have the one shot destroys
+any building damage like the grenade, its much faster; and with unlimited
+ammo, you can take a good amount of buildings out fast. Because of their
+quickness, the rockets are also really good against the few enemy ISs
+you fight in the game. Fire off 10 or so, then charge in with the chain
+cutter. I don't recommend using these as ship-destroyers; they are far
+too weak.
+
+C h a r l o t t e   R a i l   C a n n o n
+
+description
+------------
+This cannon uses electromagnetic pulses to fire 120 MM armor-piercing
+rounds at incredible velocity. With no restrictions on distance, you
+can nail anything you see. Unfortunately, the Rail Cannon shoots fairly
+slow, with no rapid fire options like the Rifle or Gatling Gun has.
+Recommended to be used in sniping situations. Can be mounted on either
+shoulder mount.
+
+evaluation
+-----------
+On first impression, the Rail Cannon r0x0rs. Then you'll come to a second
+conclusion: it’s simply okay. I'll add to a likely third conclusion. 
+Like the Chain Cutter, the Rail Cannon has its uses; in other parts of 
+the game, it sucks. That good thing about the weapon is that you can
+equip it on your shoulder. Which means you don't lose out on another
+weapon you want to use (like the Rocket Launcher or the gatling gun).
+It's great for turrets in long distances; takes the damn things in one
+shot. The Rail Cannon is also extremely accurate, so it’s great for
+long-distance kills. Its okay against enemy Iron Soldiers, but its
+damage is a bit weak.
+
+S l a t e   H e a v y   S h i e l d
+
+description
+------------
+Increases your defensive abilities, as it absorbs 50% of the damage you
+receive from your enemies. You cannot use other weapons when it is 
+selected (other than stomping) and you must have the shield selected in
+order for it to protect you. The shield can be mounted on either shoulder
+mount.
+
+evaluation
+-----------
+Useless in my opinion. I never felt I needed to use this once. Since it
+only absorbs 50% of the damage received, I see no reason not to use
+a weapon instead to destroy the enemies attack you! The one useful thing
+I can think of for this shield is after you've used rockets/grenades
+against an enemy IS, and you're charging for the finishing blow with
+the chain cutter. This would be nice, as the IS would likely get one
+more shot off. But considering you need to use it on your shoulders, 
+there are more important things that need to be used over this, such
+as rockets.
+
+S a b l e   C r u i s e   M i s s i l e
+
+description
+------------
+This weapon can literally be "flown" to the target. When you fire the
+missile, it will switch to a missile camera view. Use the direction pad
+to steer the missile to your target.
+
+The "ammo" bar represents how much fuel the missile has -- if you run out
+of fuel, it will explode! Otherwise, it will explode on impact with its 
+target.
+
+You can also detonate it at any time after launch by pressing the B 
+Button. The explosion is as powerful as a Hander Grenade, so if you use 
+the missile properly, you can destroy several buildings or enemies that 
+are close together. Unfortunately, only one missile will fit on a mount 
+at time, so use them carefully! Also, be careful not to detonate it 
+close to your IS or you will take damage from the blast. Cruise missiles 
+can be mounted on either shoulder. 
+
+evaluation
+-----------
+Since you get this weapon so late in the game, it’s hardly useful. Still,
+in the one mission where it is, it’s absolutely amazing (one missile =
+one destroyed ship!). I never tried these against enemy ISs. It could
+work wonders if it blows them up in one hit, but, it still leaves you
+with one part of your body used up for one shot. If you do want to use
+this often, I suggest using it where there's a lot of warehouses to
+resupply your missiles.
+
+-------------------------------------------------------------------------
+ENEMIES
+-------------------------------------------------------------------------
+
+' G l a i v e '   H e l i c o p t e r
+
+description:
+------------
+These enemies fire bullets or rockets at you. They also like to fly over
+your head and get behind you, so try to destroy them before they get too
+close.
+
+to defeat:
+----------
+Yawn. These guys are annoyances if anything. Unfortunately, there's a lot
+of them, and they seem to be on your backside every single minute. The
+good thing about the Glaives are that they go down easily. If you're
+facing numerous enemies, these are the last guys to kill. And rightfully
+so. They do fire rockets every now and then, so don't let them pack on
+you too much. They go down easy, so no need to worry.
+
+' G r e a v e '   V . T . O . L .
+
+description:
+------------
+These unusual planes use turbine engines to hover or fly around. They
+drop bombs from above, so keep them from getting above you. The Greave
+looks like a helicopter/plane hybrid (minus the blades), but with a 
+fairly short wing-span.
+
+to defeat:
+----------
+Like Helicopters, these go down fast. It's easy to tell if they're
+around, by the bombs they drop. If you hear them, make it your priority
+to search and destroy. They can do massive damage, and can be tough to
+hit if you aren't looking for them (or busy dealing with other enemies).
+Fortunately, I've found that even the Assault Rifle can kill them fairly
+quick, so once you find them, you should have no time taking them out.
+But do kill them quick! They tend to circle around your head, making it
+tough for you to get in position to kill them. Of course, as they are
+circling, they are dropping bombs like badmen, and seriously went a dent
+to your armor.
+
+' G a n t l e t '   A t t a c k   P l a n e
+
+description:
+------------
+This fixed-wing aircraft flies quickly overhead and drops bombs. They
+won't enter the battlefield until a few minutes have past in the mission.
+As long as you're moving, it’s likely you won't run into them much. 
+The Gantlet looks like your standard plane.
+
+to defeat:
+----------
+Like anything in the sky, shoot it down. Unlike the Greave, this guy 
+won't surround you, constantly bombarding you with bombs. He does have
+a decent amount of armor, so the gatling gun will have its work cut out
+for it. But as long as you prepared for these guys, they should be no
+problem. Although the have more armor than the VTOLs, I definitely 
+believe the VTOLs are the tougher of the two bombers in the game.
+
+' B r a s s a r d '   L i g h t   T a n k
+
+description:
+------------
+These tanks are everyone (yes... :( ) They fire cannon shots and once 
+in a blue moon fire off a 1-shot rocket. Needless to say, they'll likely
+be dead before they get it off.
+
+to defeat:
+----------
+Umm...yeah. Smashy smashy. You'll want to step on these guys mostly.
+Use any bullet-type gun to get them from a distance. They do a little
+damage though, that you can usually work on other enemies, then just
+step on them to destroy the tank. 
+
+' T a s s e t '   H e a v y   T a n k
+
+description:
+------------
+Watch out for these brutes! They fire powerful cannon shots and are
+incredibly tough (hence the name, heavy). Unfortunately, you will not
+be able to smash them with your feet; they're too big!
+
+to defeat:
+----------
+Two words: Chain Cutter. Walk up to the sucker, and chain him to death.
+He DOES hurt, so get in there fast. Grenades and rockets are okay against
+him, but the longer he's alive, the better chance he has to wasting your
+health. Simply walk up towards him, and the chain cutter will do the rest
+for you. He isn't in many missions, so don't worry about facing this
+guy often. And when he is present, there's just one or two in the level.
+
+' J a v e l i n '   R o c k e t   L a u n c h e r
+
+description:
+------------
+This device does not move, but is still dangerous. It can fire off two
+rockets in any direction. If you get close enough, you step on these
+just like Light Tanks and Gun Turrets. The Javelin looks much smaller
+compared to the Heaume gun turret.
+
+to defeat:
+----------
+Like the Gun turret below, long-distance attacks work best against these
+guys. They simply do too much damage once you get in their range. Since
+they do fire off rockets, you can opt to use your gatling guns to blow
+then up as you approach them. This forgoes the use of any long-distance
+attack and is relatively easy to do with no danger to damage. As always,
+keep your eye out for Javelins. Keep a watchful eye so that you can take
+them out before they have a chance to shoot. They do hurt.
+
+' H e a u m e '   G u n   T u r r e t
+
+description:
+------------
+Basically a lesser version of the Javelin, but they fire machine gun
+bullets instead of deadly rockets. The Heaume looks like a regular
+turret, with a black space indicating where the gun is shooting from.
+
+to defeat:
+----------
+The Assault Rifle (or anything that can shoot long-distances) work
+extremely well against these guys. They don't take too long to go down,
+so they aren't much of a problem. Just don't let them fire on you for
+long. They do some serious damage, especially if you get close to one
+without knowing it. Keep your eyes out, look for their fire, and you
+should be perfectly okay. When surrounded by numerous enemies, take out
+the turrets first. They can take off a lot of damage and can be destroyed
+fairly quick.
+
+E n e m y   I S   U n i t s
+
+description:
+------------
+As inventors of the Iron Soldier, Iron Fist Enterprises will not hesitate
+to use these against you. They can be armed with a variety of weapons,
+but most of them mount Wolfpack Rocket Launchers. They are quite sturdy,
+so be sure you have lots of grenades or rockets. They are easiest to
+destroy in close combat (but watch out for their punch!)
+
+to defeat:
+----------
+Explosives work okay, but they are rather inefficient; particularly
+grenades. So what should you do? Preferably you should have the gatling
+gun or the chain cutter. You want something that can damage fast. Rockets
+can do the job, but you may not have much to use. The gatling gun or
+chain cutter are excellent substitutes to pound on thee guys. I 
+discourage the use of the Assault Rifle or the Standard Manipulator 
+against enemy IS units. You simply do not do enough damage, and he will
+bitch-slap you back to a restart.
+
+' B e h e m o t h '   F r i g a t e s
+
+description:
+------------
+These massive, armed ships are frequently a target you will need to take
+out to complete a mission. They take several hits from Grenades or other
+heavy weapons to destroy and they are usually armed with two turrets, 
+which can fire cannon shots or rockets. They are frequently docked, but 
+can occasionally sail out of Grenade range, so keep an eye on them
+and don't waste time destroying them.
+
+to defeat:
+----------
+Grenades are your friend! Seriously, the Rail Cannon sucks, and the 
+Rocket Launcher is too weak. But grenades can take these guys out in
+four or five hits. The tough thing is getting the right distance to make
+sure you're actually hitting the ship. But it’s definitely something you
+should've practiced, and should have no problem doing it. An advantage
+to the slowness of these ships is that you can fire off all the grenades
+off at once (assuming you're actually hitting them), and sink them in
+a matter of seconds. Don't bother doing anything else against these guys;
+grenades do the job fine.
+
+-------------------------------------------------------------------------
+BUILDINGS
+-------------------------------------------------------------------------
+
+Factory
+-------
+Rectangular buildings usually with  smoke stack(s) on them (that would be
+the ideal evidence). They often contain repair crates, so keep your eye
+out for them. They are quite sturdy, so expect to wail on them a bit.
+
+Warehouse
+---------
+Normal looking rectangular buildings. A little bit higher than factories.
+They may have any one of the possible crates, so blow them up when you
+see them. A new weapon may hide in one of these! Warehouses range from
+quite sturdy, to downright weak.
+
+Residential Block
+-----------------
+Tall buildings, although not quite as big as skyscrapers. They rarely
+have crates in them. Most of the population lives in buildings like this.
+
+House
+-----
+eh, looks like a house ^_^ Rich corporate officials like to live in 
+these. They are extremely fragile, and never contain crates. They're fun
+to step on though (you better believe that!)...
+
+Water Tower
+-----------
+A cylinder shaped building on top of some stands. These buildings are
+fragile structures with no crates inside.
+
+Fuel Tanks
+----------
+Hexagonal-shaped, low laying buildings. These buildings are sturdy, but
+explode when destroyed. The explosion will damage nearly buildings and
+enemies, and may even set off other fuel tanks in a chain reaction! You
+can be damaged by exploding fuel tanks, so be careful. Repair crates are
+occasionally found in the wreckage of fuel tanks.
+
+Skyscrapers
+----------
+The tallest buildings in the game. One of the sturdiest buildings in the
+game, they occasionally have crates in them. It’s likely you won't blow
+these up often then ;)
+
+Control Towers
+--------------
+Larger variation of the Water Tower. These towers coordinate enemy
+attacks. They are often placed near objectives.
+
+Power Plants
+------------
+A semi-sphere and smoke stack define a power plant. They are incredibly
+sturdy, and usually contain crates. See one? Destroy it!
+
+-------------------------------------------------------------------------
+CRATES
+-------------------------------------------------------------------------
+
+WOOD Crates
+-----------
+Wooden blocks of polygon fun. These crates contain extra Rockets, Cruise
+Missiles, or Grenades. You can replenish some of your ammo by picking
+up these crates.
+
+STEEL Crates
+------------
+Steel-looking boxes (look grey). These contain extra ammo for the
+Assault Rifle, Gatling Gun, or Rail Cannon. Pick these up if you are
+running low on ammo for any of these weapons.
+
+REPAIR Crates
+-------------
+Yellow/black stripped box. They repair about 1/4 of your total hit damage
+to your IS when you pick them up.
+
+SUPPLY Crates
+-------------
+Brown box with a square logo it. Some missions require you to collect
+supplies to aid the resistance. Be sure you collect any Supply crates
+you come across.
+
+WEAPON Crates
+-------------
+Brown box with a star logo on it. These usually contain new IS weapons.
+Pick up any weapon crates you find to equip your IS with newer weapons
+for later missions.
+
+*NOTE* If you find a lot of "empty" crates in a mission, try selecting
+different weapons for that mission the next time you play. You may find
+that those "empty" crates are not so empty if you have the right weapons
+with you...*END NOTE*
+
+=========================================================================
+5) WALKTHROUGH
+=========================================================================
+
+Note: Missions are in order that I recommend. Remember, missions come in
+blocks of 4, where you can choose which one to do (except the last block;
+those have to be done in order). For the most part, the order is left to
+right, or top to bottom. But, make sure you check the mission title just
+in case.
+
+Note2: Instead of a straight-forward walkthrough, I'm simply putting
+main hints and tips. IS has a very large polygonal world that creates a
+very nonlinear process in completing levels. You really aren't limited
+in doing anything. Besides, telling you go right, then straight, then
+left takes away from some of the game; exploring the world is just as
+fun as blow things up! (okay, maybe not as fun, but close ;))
+
+
+-------------------------------------------------------------------------
+                             - Block One -
+-------------------------------------------------------------------------
+
+T h e   B u s t
+
+Briefing: 
+---------
+"The resistance wants you to destroy a local Iron Fist Warehouse
+complex. Follow the road out of town to get there. Grab any supplies you
+find."
+
+- Level is designed on three sets of buildings. You start at the biggest,
+  and you end on the smallest.
+
+- Head forward, following the road. It'll bend off to the left; keep
+  going and you'll see in the distance the two other areas. A white
+  arrow on the road tells you where you need to go next.
+
+- You can skip past that second set of buildings (most factories), and
+  go across the grass to the last platform with all the warehouses.
+  If you're in dire need of healing or ammo, you'll want to continue
+  on the road. It's likely you can skip this section.
+
+- The last platform contains about 7 warehouses. One includes a new
+  weapon, the Grenades; you're forced to get them, so don't worry about
+  not getting them. Once all 7 warehouses are destroyed, the level will
+  end.
+
+
+M i d n i g h t   R a i d
+
+Briefing:
+---------
+"A midnight raid on an enemy supply dump will give the Resistance 
+supplies that are badly needed. The dump is watched by four guard towers 
+and several tanks. Keep a lookout for new weapons too."
+
+- There's a significant amount of enemies in this levels. A majority are
+  just tanks. Luckily, those annoying helicopters are fairly nonexistent
+  here. Me likes, but you know we'll pay for this soon.
+
+- Move straight forward, only slightly leaning to the left. You're 
+  looking for a large group of warehouses, on a red platform (ground).
+  You know you're getting close when you start running into turrets (both
+  rockets and the normal gun-kind). Four Control Towers border this area.
+
+- Save your grenades to blow up the MANY warehouses in this area. I'll
+  definitely save you time, and you'll simply just have to pick up 
+  supplies to finish.
+
+- Why use grenades? Because you're going to be attacked constantly.
+  Your likely enemies are tanks, so they aren't too tough, but watch out f
+  for rocket turrets. They do some damage if you don't kill them fast.
+  The assault rifle works well against them; long distance kills.
+
+- Collect all the supplies on the platform, and the mission will end. I'm
+  not sure if you need to collect the Gatling Gun. I don't remember
+  collecting it (it’s supposed to be in this section of the city), but
+  I had it for my next mission. Thoughts?
+
+
+C a r e   P a c k a g e
+
+Briefing:
+--------- 
+"Iron Fist Enterprises is using massive cargo ships to transport I.S. 
+Mechs. Blow up the ships before the I.S. units can deploy."
+
+- Lock and load. You should have your assault rifle on both hands, two
+  grenades on your hips, and two gatling guns on your shoulders.
+
+- Use assault rifle on anything relatively far away. Gatling guns on
+  anything that gets close. Save your grenades for the two ships.
+
+- From the start of the mission, turn left and stay on the coast. This
+  keeps you away from most fighting, and leads you straight to the
+  Cargo ships. We're on a tight schedule; take too long, and the ships
+  will drop of enemy IS units. Not cool, especially considering your
+  weapons.
+
+- Moving along the coast, you should run into the first ship, which is
+  perpendicular from you. Get to your grenade-distance, and fire three or
+  four off. This should take out the ship, and you can worry about 
+  taking out the turrets/helicopters/tanks on your ass. Since the gun
+  turrets on the ships are invincible, and practically have laser-guided
+  bullet shots, the cargo ship is priority. 
+
+- A warehouse on the other side of the port has a REPAIR crate, which
+  you'll likely need. Here's a small picture to show exactly where it is,
+  considering its importance:
+
+                   ^  <-- Path to second cargo ship.
+                   |
+                   |
+                   |
+           x   x    x    x  <-- warehouses; one of them has REPAIR 
+                                                            CRATE
+        |-----------------------
+        |                                [
+        |                                [ (Skyscraper)
+        |  ( C A R G O   S H I P )       [
+        |                                [
+        |________________________
+
+- As the picture describes, follow the path straight ahead to the 
+  second cargo ship. The second ship is hidden between two skyscrapers.
+  It's tough to get in a good position, so you'll have to make do. When
+  you finish it off, the mission ends, so don't worry about enemies
+  pounding on you if it takes awhile to blow it up. IT IS fricking tough
+  to know how far you're throwing those damn grenades.
+  
+
+L o n d o n   B r i d g e
+
+Briefing: 
+---------
+"Iron Fist is using bridges to transport weapons off an island. Destroy 
+the center struts of the bridges with grenades to collapse them."
+
+- You start on the southern section of the city. Two bridges are located
+  to the northwest, and northeast (one on west more north). It really
+  doesn't make a difference.
+
+- Because I did, lets head northwest. Destroy anything that runs into
+  you. There are helicopters galore in this mission, so we gotta deal.
+  The gatling guns to tear them a new one if they get close to you.
+
+- Walk right up to the bridge, along the river. Fire off four or five
+  grenades, and the bridge should blow up. Make sure you do a test 
+  grenade to make sure you're at the right distance (from the water, 
+  which acts as a barrier, you shouldn't miss). 
+
+- Turn around, and move forward. You'll see the second bridge. Repeat
+  exactly what you did for the first bridge, and mission complete.
+  I've heard rumors of this being stronger, but I didn't notice it
+  being significantly stronger; maybe a grenade or two, but that's about
+  it.
+
+- You'll receive the Chain cutter weapon for completing this level.
+
+
+-------------------------------------------------------------------------
+                             - Block Two -
+-------------------------------------------------------------------------
+
+W a l k   i n   t h e   P a r k
+
+Briefing: 
+---------
+"The Resistance headquarters has come under attack by a battalion of 
+enemy tanks! Destroy all the tanks before they destroy the Resistance. 
+Watch out for other forces that may provide cover fire for the tanks."
+
+ - Standard level; enemies here are nothing new, so load up on at least
+   two gatling guns, and maybe some grenades. The grenades work nice to
+   quickly blow up buildings for supplies. Two gatling guns should
+   provide ample ammunition for the whole level, but you could go three
+   gatling guns, one grenade. Lastly, make sure you have the Chain
+   Cutter equipped. You're going to need it for a Heavy Tank.
+
+ - Get into the center square, with all the grass, and the monument in
+   the center. The 12 tanks, plus heavy tank all are in this area! Yeah,
+   this makes things very easy. Stay in the area, keep the look out for
+   the last few tanks you'll originally miss, and the mission goes by
+   fast.
+
+ - The northeast corner of this "square" has a bunch of warehouses, full
+   of supplies. Toss a grenade or two to take out a few, and pick up
+   your rewards if you need it (unlikely).
+
+ - The heavy tank is easily visible in the town square. I recommend
+   getting the Chain Cutter out immediately, and cut him up to shreds.
+   He's capable of doing the most damage from any enemy in the level.
+   So even if you're surrounded by helicopters and other tanks, take
+   it out. The rest are so easy to kill, and do so little damage, that
+   they aren't much of a worry.
+
+ - With a couple tanks left, you're going to have to keep your eyes
+   peeled. Their tough to see, but they will show up in this main square.
+   Don't worry though! It doesn't take too long for them to all show up.
+
+
+F o x   a n d   H o u n d
+
+Briefing: 
+---------
+"Rebel agents have discovered that a new Iron Fist weapon is being 
+transported through the city in several trucks. Find and destroy all of 
+the trucks and capture the gun and any supplies you find."
+
+ - Three trucks are driving around the city; destroying those is your
+   goal. 
+
+ - From the start of the level, turn around and follow the road. 
+   Eventually you'll run into your first tank. I recommend not trying
+   to follow it on the road. It takes some time to catch up it where
+   you can blow it up with your gatling guns.
+
+ - Continue on the road and you should eventually see the second truck.
+   Depending on how fast you destroyed the first truck will affect where
+   you'll see this second one. Keep your eyes-peeled along the road in
+   the northwest corner of the map (assuming you started in the 
+   southwest corner). 
+
+ - With the second truck destroyed, look out for the last truck in the
+   southeast corner. Again, it may not be there if you've been too slow
+   or too fast. If you don't see it, move into the center of the city
+   and look around 360 degrees until you see it. It's pretty easy to
+   see the truck, even at a distance.
+
+
+H u n t   t h e   H u n t e r
+
+Briefing: 
+---------
+"An enemy Mech is terrorizing a pro-Resistance town. It is armed with 
+rockets. You must find a way to protect yourself from the rockets and 
+destroy him quickly."
+
+ - Hunt the Hunter is one of the simplest missions in the game. 
+   Unfortunately, it's also one of the hardest (with the weapons 
+   available at the time).
+
+ - Load up with the Rail Cannon, grenades, gatling gun, and the Chain 
+   Cutter. We're going all out on this mo-fo.
+
+ - At the start of the level, note the long green area that separates
+   the two sections of the city. The IS is hanging around on the other
+   side. You may even see him somewhat; stay away from him for now. We
+   are not yet ready to fight him.
+
+ - From the beginning, turn left, and go straight. You'll run into some 
+   warehouses and even a power plant at the very edge of the level.
+   Not only do these buildings drop off some nice supplies for grenades,
+   but they should give a couple of REPAIR crates. 
+
+ - Ideally, you should see the IS destroying buildings, and heading
+   towards you. What to do next? You want to start coming in towards
+   him now. He should be fairly close by now.
+
+ - Rail Cannon him from a distance. It isn't too damaging, but its
+   accurate as hell, and you should be relatively far away where your
+   gatling guns and grenades are worthless. When you see his rockets 
+   coming, quickly switch to your gatling guns to take them out. You
+   should get a majority of them; I was surprised by the amount you
+   can blow up before hitting you.
+
+ - At grenade distance, launch all your grenades. Not too quickly though!
+   The IS does tend to move back and forth between distances, and many
+   of your grenades will be too slow and miss him. Shoot off three or
+   four, switching to your gatling guns to take out rockets/helicopters/
+   tanks, then back to grenades for another bombardment. 
+
+ - If he's still standing after your grenades, charge up to him with your
+   Chain Cutter. He should go down fairly quickly. If he doesn't, its 
+   likely you're a terrible shot with the grenades. Practice makes
+   perfect, no?
+
+
+P e a r l   H a r b o r
+
+Briefing:
+--------- 
+"Four Iron Fist Cargo Ships are currently docked at a lightly guarded 
+ship yard. Destroy all four before they can escape."
+
+ - Argh! Hard!!!1111 Two grenades, chain cutter, rocket, and the gatling 
+   gun should comprise of your weapons. Rocket could be substituted for
+   Rail Cannon, but it doesn't make much difference.
+
+ - Immediately go into the city, towards the red skyscraper near you. 
+   Continue along the road, and you'll approach a second red skyscraper.
+
+ - Shortly past the second one, a Greave will fly up and move towards
+   you. Take him out with your gatling guns before he has to chance to
+   drop one single bomb.
+
+ - You should notice the first ship ahead of you. Get into grenade-range,
+   and fire off three or four shots. Be careful not to waste a bunch,
+   we need them for the other ships, and finding extra grenades only
+   adds to the small amount of time we have on this mission.
+
+ - Once it’s destroyed, turn around and go past the second red skyscraper.
+   
+ - Continue moving along, and take a left at the last red skyscraper 
+   before you reach the shoreline. In front of you are a bunch of brown 
+   warehouses. Destroy them, but don't pick up your goodies. You'll want
+   to save them incase you need it.
+
+ - Two more ships will come towards you. Don't waste your ammo though;
+   they are too far away for now. Wait around, while blowing up any
+   helicopters that approach you. The first ship should approach you,
+   at perfect distance for a grenade toss. Kill it, and wait for the
+   second one to come. Surprisingly, somehow it finds it way close
+   enough for you to kill it with grenades. Awesome. 
+
+ - Pick up the supplies that the warehouses left, and head straight
+   back to where you started (assuming your back is against where the
+   ships were). If you need it, destroy the red skyscrapers for some
+   REPAIR crates. I think you automatically run into two, so at the
+   very least you should get one.
+
+ - Unfortunately, this last ship is too far for grenades. Get your
+   Rockets primed, and fire! Your Rail Cannon should be able to finish
+   off the ship. Unfortunately, there's not too many warehouses nearby,
+   so do try and actually hit the darn thing.
+
+
+
+-------------------------------------------------------------------------
+                            - Block Three -
+-------------------------------------------------------------------------
+
+P a n d o r a ' s   B o x
+
+Briefing:
+---------
+"The IFC has turned one of their research centers into a fortress. Get 
+inside the Fortress and find out when they are building."
+
+ - Load up with grenades, rockets, gatling gun, rail cannon, and the 
+   chain cutter for cutting up buildings. 
+
+ - The part of the city where you start has some warehouses. 
+   Unfortunately, I wasn't able to get anything from them. Which means
+   I recommend just following the road in front of you into the desert.
+
+ - Get the Rail Cannon out, and nail anything from long-distance. There's
+   a good amount of turrets around that need to be blown up. The tons
+   of buildings between you and the fortress hold supplies galore. The
+   factories all have REPAIR crates. Blow them up before you approach
+   the fortress, but don't use them into you need to.
+
+ - As you approach the fortress, take out your Rail Cannon to blow up
+   the turrets inside. A couple of shots should do it.
+
+ - There appears to be some confusion next. I've heard people say 
+   they got the IS inside the fortress to come out; but I was never
+   able to. If he does come out, just approach him like you did levels
+   before: grenades, maybe some rockets, then chain cutter.
+
+ - Whether he comes out or not, you'll have to blow up one of the brown
+   doors to get inside. A barrage of rockets will do it; tons of grenades
+   will do it also. Do whatever pleases you. If the IS is still alive,
+   heal up and reload your weapons, primarily the rockets and grenades.
+
+ - I recommend tossing a few grenades inside the fortress. It will blow
+   up some of the enemies inside, such as turrets and tanks. It's not
+   necessary, but considering how tough Iron Soldier's can be, its best
+   to have nothing else bothering you.
+
+ - If the IS won't come out, he'll at the very least approach the 
+   missing door, where you can blast him. Rockets, grenades, rail cannon,
+   whatever. Charge in, and chain cutter him to death. Really, he went
+   down much easier then in 'Hunt the Hunted.'
+
+ - Inside the fortress, destroy the warehouses until you pick up a new
+   weapon: the Slate Heavy Shield.
+
+H o r n e t ' s   N e s t
+
+Briefing: 
+---------
+"Iron Fist helicopters are plaguing Resistance forces across the city. 
+Find and destroy their airfield and eliminate any helicopters
+you see."
+
+ - This is a really, really easy level. Pick whatever you want for
+   weapons, but I recommend one gatling gun, and two rockets. Whatever
+   else is fine, as you don't need it for completing the objective (you
+   could choose grenades over rockets, but rockets are way too fast too
+   be chosen over grenades.
+
+ - At the start of the level, take a right and following the road. 
+   Keep going, into an open field, through some apartment-type buildings,
+   and you'll end up at the airfield. Along the way, you'll run into a
+   tank or two, and some rocket turrets. The gatling gun does a nice job
+   of destroying all of these.
+
+ - When you reach the airfield, a bunch of helicopters will launch an
+   attack at you (like...5). Destroy them with your gatling gun, then 
+   switch to your rockets and destroy the four helicopter buildings.
+   Lastly, destroy the control tower at the end of the airfield.
+   Mission over.
+
+ - Told ya it was easy ^_^
+
+O n e - M a n   A r m y
+
+Briefing: 
+---------
+"The IFC has constructed a tank factory on the outskirts of a desert 
+town. Watch for the power plant and destroy all the nearby buildings to 
+stop tank production."
+
+ - As usual, two rockets and at least one gatling gun is necessary.
+   The chain cutter is a definite must, as we will need it's insanely
+   powerful attack. To round out the weapon list, one grenade set.
+
+ - Take the road right in front of you. As you reach a wide-open space,
+   veer off to the right. See all those buildings, with the power plant
+   in the corner? That's where we're going.
+
+ - Keep a heads up for turrets, tanks, and one heavy tank. Walk up to
+   the heavy tank, and introduce him to your chain cutter. He goes down
+   quick.
+
+ - Unleash your grenades and rockets on all the smaller buildings. This
+   should go by fast. Use your gatling gun to finish off anything left
+   standing. For the two red skyscrapers and the power plant, equip the
+   Chain Cutter and let it rip.
+
+ - With the last building destroyed on this plot of land, the mission
+   will immediately end. Victory.
+
+T h e   B e s t   D e f e n s e
+
+Briefing:
+---------
+"A Resistance laboratory is trying to develop a long-range  missile. Iron 
+Fist is sending forces to destroy the lab, however. Protect the lab at 
+all costs!"
+
+ - I like a pair of rockets, one grenade, one gatling gun, and the chain
+   cutter in this mission. You could substitute one rocket for the rail
+   cannon, which in hindsight probably is a better idea.
+
+ - You immediately start at the lab. The two last, cylinder-shaped</pre><pre id="faqspan-2">
+   buildings are the ones you need to protect. The brown warehouses 
+   should be destroyed, so that you can use their contents if ever 
+   needed.
+
+ - Walk around the area, destroying the helicopters and tanks that run
+   into you. Within three minutes, a heavy tank should knock on your
+   doorstep. Of course, you got the chain cutter to greet him, and 
+   welcome him home.
+
+ - At this point in the mission, saddle up and look for the Iron Soldier
+   doing this thang. Assuming you started the mission pointing north,
+   he should be behind you. Don't worry about loose helicopters attacking
+   the lab. The real threat was the heavy tank, which you took out. But
+   don't take that as a guarantee that they WON'T destroy it. Find the
+   enemy IS and kill him!
+
+ - Shoot rockets at a distance, then grenades at their proper distance.
+   When you get up to him, chain cutter him to death. It's likely he
+   may punch you once, so make sure you took full advantage of the 
+   REPAIR crates around the lab you were protecting. 
+
+ - Is it just me, or are these Iron Soldiers getting easier to kill?
+
+ - The Sable Cruise Missile is your reward.
+
+
+
+-------------------------------------------------------------------------
+                            - Block Four -
+-------------------------------------------------------------------------
+
+*NOTE* The following levels have to be done in order. Fortunately, we
+are allowed to save after each mission. *END NOTE*
+
+U r b a n   R e n e w a l
+
+Briefing: 
+---------
+"Resistance spies have found out that Iron Fist is making a nuclear bomb 
+somewhere in their southern Industrial Complex. No one knows what 
+building it is in, so your job is to level the place - leave no buildings
+standing!"
+
+ - Lock and load: two rockets, grenades, gatling gun, and chain cutter.
+   (yeah, I know; I've been saying this for the last 6-7 levels!)
+
+ - Like the briefing says, blow up every single building! YESSS!!!111
+
+ - Unfortunately, it's as boring as it sounds. Every single building
+   needs to go down. Those water towers next to you when you start? 
+   Ya damn right.
+
+ - With so many buildings, ammo and health should be no problem. 
+
+ - There are three islands with buildings on them. A full set of rockets
+   should take each one out. Make sure you remember this! Sometimes they
+   are hard to see.
+
+ - Forget about using the Gantlets or the VTOLS to blow up some 
+   buildings. While they will do some damage, it’s simply not worth it to
+   allow them to freely bomb. They do as much damage as the IS's twin
+   cannon sometimes!
+
+ - There is an enemy IS at the skyscraper end of the area. I recommend
+   taking him out when you have the chance, early in the level. Why?
+   Because the more buildings you destroy, the more of a chance he has
+   to shoot you. And even at long distances, he still ownz like nobody's
+   business.
+
+ - Because this mission takes forever, rockets and grenades really blow
+   things up quickly. Since we practically have an unlimited amount of
+   ammo here, I recommend not skimping out on using them. Seriously,
+   use the chain cutter on every single building here? ^_^
+
+E s c o r t   S e r v i c e
+
+Briefing: 
+---------
+"Resistance refugees need to be evacuated from a deadly fighting ground 
+and taken safely out of the city. You must protect the trucks that are 
+transporting them. Stop any enemies that could hurt the convoy of 
+trucks!"
+
+ - Okay, this mission is hard and easy at the same time. I recommend 
+   having at least one rocket, and one Rail Cannon. The rest is up to 
+   you. You'll need the Chain Cutter, obviously, and the gatling gun
+   is nice. Still, it’s not completely necessary, as you don't fight too
+   many enemies in this level.
+
+ - So what to do? Follow the three trucks, keeping pace with them. 
+   Fortunately, nothing comes out of the blue to kill them. You merely 
+   need to keep your eyes open.
+
+ - Everything is a-ok until after the first fuel tanks. As the trucks
+   take a right hand turn, a heavy tank awaits. Suggestion? Outrun your
+   trucks to take out the tank first. If you shoot at it, it will turn
+   around and shoot at you, completely forgetting about the trucks!
+
+ - As the trucks turn right for a second time, get ready for some aerial
+   bombardment, primarily from a Gantlet attack plane. If you're feeling
+   lucky, nail the sucker with the Rail Cannon. If not, hope to god 
+   the gatling gun can take him fast enough before he drops his bombs.
+   Careful, there's a couple of VTOLs that show up. 
+
+ - The trucks will now go through the skyscraper part of the city. 
+   Walk ahead of the trucks, and nail the heavy tank awaiting you. This
+   is the last real test in the level; if you've made it this far (and
+   you only need one tank), you've made it.
+
+ - Past the destroyed tank, the path moves on a bit to the end. Other 
+   than the occasional helicopter, you should be perfectly okay.
+
+ - Remember, you only need one truck to survive. Whew.
+
+R e t u r n   t o   S e n d e r
+
+Briefing: 
+---------
+"Iron Fist is blockading a Resistance port with a fleet of warships, 
+cutting off valuable medical supplies. Destroy the warships so the 
+Resistance fleet can dock."
+
+ - Easy level. Which is nice, because the two other "destroy the ship"
+   missions are hard. Load up with whatever, but have two cruise 
+   missiles and one grenade. Chain Cutter is nice to blow up buildings,
+   but the Shield is nice for health. Choose whatever you want.
+
+ - Turn right immediately, and head straight towards the shoreline.
+   A bunch of fuel tanks are at your immediate left, and two helicopters
+   that are on the ground (which obviously get up fairly quick).
+
+ - Destroy the two ships nearby with grenades. You may have to wait a 
+   little for the second one to get into range. That's okay.
+
+ - Which that, fire off a cruise missile at the next ship (should be in
+   view). To get your directions okay, the ship should be to the left
+   when you first approached this area. If you can't use the cruise
+   missiles right, do the mission over again until you can. This
+   strategy relies on the use of these bad boys.
+
+ - With the third ship destroyed, blow up the warehouses nearby until 
+   you reload the cruise missile you used. I KNOW there are two here,
+   but you should only need one.
+
+ - Leave this area to move on the opposite side of the city (towards the
+   skyscrapers). Just keep your eyes open, and you'll run into both.
+   Just fire off a cruise missile when you see one. They are both on this
+   side of the shoreline, but if you don't see him, you're likely on the
+   wrong area. I'll draw a little map to make sure you're okay.
+
+      SP                               |   x5
+                                       |
+   |       |-------------------|       |
+   |       |                   |
+   |    CM |                   |
+   |-------|
+       x1    x2      x3             x4
+
+ - Each ship is designated by x, and the number is in the order you'll 
+   likely destroy them in. CM is where the cruise missile supply crate
+   should be. SP is your starting position. Obviously, this thing isn't
+   to scale.
+
+ - With the 5th ship destroyed, the mission ends.
+
+ 
+
+W a r   i s   H e c k
+
+Briefing: 
+---------
+"The Resistance forces have broken through to the Iron Fist core 
+territories. Now you must destroy the Iron Fist Command Center. Take out
+all skyscrapers. Watch out for enemies. Good Luck! You will need it..."
+
+ - ah, the last mission in the game. It's been fun, but its time to end
+   this. I like grenades in this level; moreso than rockets, simply
+   because they're more powerful, and can blow up more buildings faster.
+   Unfortunately, this leaves you a little naked against the IS at the
+   end, as rockets are a great way to take it out from a distance. There
+   are A LOT of warehouses in this level, so you could trade in one
+   grenade for a rocket, and be okay ammo-wise.
+
+ - See all those skyscrapers? Blow them up. One grenade does the trick.
+
+ - Basically every enemy in the game is present here, but your biggest
+   threat is the fricking VTOLs!!! Unlike the Gantlet Attack Planes,
+   these will circle around you and bomb you over and over again. And
+   you die. You must keep a look out for these mo-fos! Once you get into
+   an open area, they are fricking pains in the butt.
+
+ - Once you get most of the skyscrapers down, a enemy IS should show
+   up. As usual, grenades/rockets from a distance, then chain cutter him
+   to death. When you do make your run at him, make sure you aren't
+   surrounded by any VTOLs or Gantlets. That would most seriously suck.
+
+ - One of the skyscrapers is surprisingly tough to blow up (in the
+   opposite corner where you start). I recommend getting to this 
+   relatively early, because once most of the skyscrapers are down,
+   enemies have it easy targeting you.
+
+ - I hate not to put too much strategy in this level, but really, its
+   basically Urban Renewal all over again.
+
+
+=========================================================================
+6) CHEATS
+=========================================================================
+(from the Mage's cheat guide, found at ataritimes.com)
+
+Use this on the options screen (unless otherwise noted)
+
+
+All Weapons & Levels      Keypad #s 3,7,6,6,8,2,4,2 
+
+Unlimited Ammo            Keypad #s 2,7,2,8,3,7 
+
+Extra fast rotation       Keypad #s A+C while turning (in-game)
+
+Repair                    Hit yourself with a Cruise Missile
+                          (only during the low energy warning!)
+
+Mission Pass/Fail         Keypad #s 2,8,8,8,6,6,7,7,3,7,7
+                          (then during game play press:  
+                                                   * = Fail,  # = Pass)
+
+Insane Difficulty         Keypad #s 6,8,2,4 
+
+Display Mission Stats     Keypad #s 8 (during game play)
+
+Single-Frame Advance      Pause, Keypad #s 1 or 3 (during game play)
+
+Swivel Mech View          At mech configuration screen, select add or
+                          remove weapon then press 1 or 2 to swivel mech.
+
+
+=========================================================================
+7) CREDITS
+=========================================================================
+ 
+Credits
+  CJAYC <www.gamefaqs.com> - For creating the coolest site on the net and 
+    hosting this FAQ.
+  Lonnie Smith - Wrote the FAQMAC on practically every single Jaguar game
+    including this one.
+
+This GUIDE is (c) 2003 cnick.  This guide may be not be reproduced at all
+except for personal, private use. This guide is not to be used for 
+profitable/promotional purposes (even if no money would be made by 
+selling it or posting it on a for-profit webpage) ; this includes being 
+used by publishers of magazines, guides, books, etc. or being 
+incorporated into magazines, etc. in ANY way.  Unless noted on this 
+guide, this document should not be found on any web site other than 
+gamefaqs.com. This GUIDE was created and is owned by myself. Any 
+characters, names, places, or miscellaneous objects are copyright their 
+respective companies. 
+
+Iron Soldier FAQ/WALKTHROUGH (c) 2003 cnick
+-End of FAQ-
+

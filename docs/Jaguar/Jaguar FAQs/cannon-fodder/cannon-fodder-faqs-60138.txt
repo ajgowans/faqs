@@ -1,0 +1,499 @@
+                            Cannon Fodder Name FAQ
+                    by Rob Browning (pluvius3 @ gmail.com)
+                         v1.00 (Written June 6, 2010)
+-------------------------------------------------------------------------------
+
+
+*TABLE OF CONTENTS*
+ -----------------
+
+I.    DISCLAIMER
+II.   VERSION HISTORY
+III.  INTRODUCTION
+IV.   NAMES
+V.    ACKNOWLEDGEMENTS AND CLOSING WORDS
+
+
+**************
+I.  DISCLAIMER
+**************
+
+This FAQ is copyright 2010 Rob Browning, all rights reserved.  All trademarks
+and copyrights contained in this document are owned by their respective
+trademark and copyright holders.  Redistribution for profit is prohibited.
+Free distribution is allowed provided that this FAQ is left intact and
+unchanged, with credit given to the author, and that any sites distributing
+this FAQ update it regularly.  Personal, private use of this FAQ is allowed
+with no restrictions.
+
+
+********************
+II.  VERSION HISTORY
+********************
+
+v1.00 (06-06-10):  First release.
+
+
+******************
+III.  INTRODUCTION
+******************
+
+Q.  What is this FAQ for?
+A.  This FAQ contains a list of the names of the recruits that fight for your
+side in Cannon Fodder, a game developed by Sensible Software for many
+different systems including the Commodore Amiga.  This FAQ is based on the
+Sega Mega Drive version, but should apply to most of the others as well.
+
+Q.  Why did you write this FAQ?
+A.  One of the most noticeable things about Cannon Fodder is that each of your
+squadmembers, most of whom die horrible deaths only to be replaced by others,
+have individual and non-random names.  This is a pretty neat touch as well as
+one that drives home the point that war treats soldiers, each of whom are
+unique beings with unique histories and families and such, like interchangeable
+parts in a machine.  I wanted to see what this list of names was, as well as if
+there were any Easter eggs included.  I thought some other gamers might be
+interested.
+
+Q.  How exactly did you dump the list of names?
+A.  First of all, I used a nice little hex-editor called Thingy to do a
+relative search in the ROM.  A relative search allows one to find a line of
+text anywhere in the ROM, even if the line of text isn't encoded in ASCII (the
+standard method of digitizing text); for example, I searched for the name
+"Jools" which led me to the area of the ROM where the list of names could be
+found.  Since this list was encoded in simple ASCII, all I had to do from there
+was dump the list to a standard text file and edit it manually.  It was
+actually pretty easy; Sensible did not use multiple methods of encoding the
+text, nor did it use any tricks to make the ROM size smaller (which would've
+made dumping the list consequently more difficult for reasons which go beyond
+the scope of this document).
+
+Q.  Is the list complete?
+A.  Yes.  There are 360 recruits that show up by the end of the game, and there
+are 360 names on the list.
+
+Q.  So are there any Easter eggs in the list?
+A.  Yes, there are several:
+
+-The first five or so names are nicknames for members of Sensible Software and
+the Cannon Fodder development team.  Jools programmed the game, Jops designed
+the levels, Stoo did graphics, and RJ and Jops both wrote the music.  Ubik is
+also a reference to a Sensible member, though I'm not entirely sure about the
+next few (there were a Chris and a Pete, but I don't know about a CJ).
+
+-The last few names are negative and insulting, since you'd have to be very
+wasteful of men to get to them and your chances of beating the last mission
+would be fairly low as a consequence.
+
+-There's a pretty interesting mix of names; some of them are dead normal such
+as Greg and Frank, while others like Killer and Pizza are more bizarre.
+
+-The names do unfortunately repeat themselves on occasion.  Most notable is the
+fact that Steve pops up once, then once again, then a third time almost
+immediately after the second.
+
+-Wizkid was the name of one of Sensible's other games, a sequel to their
+popular Wizball game.
+
+-There are some famous pairs and groups on the list.  These include Mario and
+Luigi; Ali and Tyson; Iceman and Goose; Bono and the Edge; Crosby, Stills,
+Nash, and Young; the crew of the starship Enterprise; and a horde of Biblical
+characters.
+
+
+*********
+IV. NAMES
+*********
+
+Here's the whole point of the FAQ, the list of names:
+
+JOOLS
+JOPS
+STOO
+RJ
+UBIK
+CJ
+CHRIS
+PETE
+TADGER
+HECTOR
+ELROY
+SOFTY
+MAC
+BOMBER
+STAN
+TOSH
+BRAINS
+NORM
+BUSTER
+SPIKE
+BROWNY
+MURPHY
+KILLER
+ABDUL
+SPOTTY
+GOOFY
+DONALD
+WINDY
+NIFTA
+DENZIL
+CEDRIC
+ALF
+MARTY
+CECIL
+WALLY
+PERVY
+JASON
+ROY
+PEEWEE
+ARNIE
+LOFTY
+TUBBY
+PORKY
+NORRIS
+BUGSY
+GREG
+GUS
+GINGER
+EDDY
+STEVE
+HUGO
+ZIPPY
+SONNY
+WILLY
+MARIO
+LUIGI
+BO
+JOHAN
+COLIN
+QUEENY
+MORGAN
+REG
+PETER
+BRETT
+MATT
+VIC
+HUT
+BUD
+BRAD
+ASHLEY
+LES
+REX
+LOUIS
+PEDRO
+MARCO
+LEON
+ALI
+TYSON
+TIGER
+FRANK
+REUBEN
+LEYTON
+JOSH
+JUDAS
+AJ
+LEX
+BUTCH
+BISON
+GARY
+LUTHER
+KERMIT
+BRIAN
+RAY
+FREAK
+LEROY
+LEE
+BANJO
+BEAKER
+BASIL
+BONZO
+KELVIN
+RONNIE
+RUPERT
+ROO
+DAN
+JIMMY
+RONNIE
+BOB
+DON
+TOMMY
+EDDIE
+OZZY
+MARK
+PADDY
+ARNOLD
+TONY
+TEDDY
+DOM
+THEO
+MARTIN
+CHUNKY
+JON
+BEN
+GIRLY
+JULIAN
+GARY
+PIZZA
+MARK
+CIARAN
+JOCK
+GRAVY
+TRENDY
+NEIL
+DEREK
+ED
+STEVE
+BIFF
+STEVE
+PAUL
+STUART
+RANDY
+LORETA
+SUZIE
+PUMPY
+URMER
+ROGER
+PUSSY
+MEAT
+BEEFY
+HARRY
+TINY
+HOWARD
+MORRIS
+THOR
+REV
+DUKE
+WILLY
+MICKY
+CHAS
+MELONY
+CRAIG
+SIDNEY
+PARSON
+ROWAN
+SMELLY
+DOK
+STEW
+DONALD
+ADRIAN
+PAT
+ICEMAN
+GOOSE
+DIPPY
+VIV
+FAGS
+BUNTY
+NOEL
+BONO
+EDGE
+ROBBIE
+SEAN
+MILES
+JIMI
+GORDON
+VAL
+HOBO
+FUNGUS
+TOILET
+LAMPY
+MARCUS
+PELE
+HUBERT
+JAMES
+TIM
+SAUL
+ANDY
+ALF
+SILKY
+SIMON
+HANDY
+SID
+GEORGE
+JOFF
+BARRY
+DICK
+GIL
+NICK
+TED
+PHIL
+WOODY
+WYNN
+ALAN
+PIP
+MICKEY
+JUSTIN
+KARL
+MADDOG
+HORACE
+HAROLD
+GAZZA
+SPIV
+FOXY
+NED
+BAZIL
+OLIVER
+RETT
+SCOT
+DARREN
+EDWIN
+MOSES
+NOAH
+SETH
+BUDDAH
+MARY
+PILOT
+MCBETH
+MCDUFF
+BELLY
+MATHEW
+MARK
+LUKE
+JOHN
+ASLAM
+HAM
+SHEM
+JOSHUA
+JACOB
+ESAW
+OMAR
+SAUL
+ENOCH
+OBADIA
+DANIEL
+SAMUEL
+BEN
+ROBBO
+JOEBED
+ISMAEL
+ISREAL
+ISABEL
+ISARAT
+MONK
+BLIP
+BACON
+DANUBE
+FRIEND
+DARRYL
+IZZY
+CROSBY
+STILLS
+NASH
+YOUNG
+CHEESE
+SALAMI
+PRAWN
+RADISH
+EGBERT
+EDWY
+EDGAR
+EDWIN
+EDRED
+EGGPIE
+BROS
+SONIC
+ZIGGY
+ALFRED
+SIGGY
+HILDA
+SNELL
+SPARKS
+SPOOK
+TOPCAT
+BENNY
+DIBBLE
+BENKER
+DOSEY
+BEAKY
+JOIST
+PIVOT
+TREE
+BUSH
+GRASS
+SEEDY
+TIN
+ROLLO
+ZIPPO
+NANCY
+LARRY
+IGGY
+NIGEL
+JAMIE
+JESSE
+LEO
+VIRGO
+GARTH
+FIDEL
+IDI
+CHE
+KIRK
+SPOCK
+MACCOY
+CHEKOV
+UHURA
+BONES
+VULCAN
+FESTER
+JETHRO
+JIMBOB
+DECLAN
+DALEK
+HICKEY
+CHOCCO
+GOCH
+PABLO
+RENOIR
+ROLF
+DALI
+MONET
+MANET
+GAUGIN
+CHAGAL
+KID
+HULLY
+ROBERT
+PIERS
+RAITH
+JEEVES
+PASTER
+ADOLF
+DEITER
+DENI
+ZARK
+WIZKID
+WIZARD
+IAIN
+KITTEN
+GONNER
+WASTER
+LOSER
+FODDER
+
+
+*************************************
+V.  ACKNOWLEDGMENTS AND CLOSING WORDS
+*************************************
+
+Thanks to:
+
+Sensible Software, for developing this game.
+
+Virgin Interactive, for publishing this game.
+
+CJayC and everyone else at GameFAQs, for their excellent resource (as well as
+giving me a place to host this FAQ).  This FAQ can also be found at Neoseeker.
+
+Necrosaro, for creating a great hex-editor specifically for ROMs.
+
+The makers of Kega Fusion, the prime emulator for pre-Saturn Sega systems.
+
+Sega, for making the Genesis (Mega Drive), a system that had so many good
+games despite being second-best.
+
+And, of course, you for reading.
+
+Questions, comments, and criticisms can be sent to pluvius3 @ gmail.com
+(without the spaces obviously).  Please put "Cannon Fodder FAQ" or something
+similar in the subject line so I will know what the email is about.  If you
+mention something that I feel should be in this FAQ, I will insert it in a
+future update and give you credit.
+
+Copyright 2010 Rob Browning, all rights reserved.

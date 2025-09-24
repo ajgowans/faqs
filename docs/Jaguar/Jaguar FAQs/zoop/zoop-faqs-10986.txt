@@ -1,0 +1,200 @@
+				ZOOP (SNES) Version 0.01 
+				3/15/2001  08:18 EST
+
+			(c)2001 Daniel Taber. 
+                   Please contact me @ dtaber@safeplace.net.
+		
+
+LEGAL STUFF:
+You may NOT use this FAQ for profit, sell this FAQ with other FAQs or 
+programs,
+but you MAY use this FAQ for personal use as long as you give full 
+credit to ME.
+This game is copyrighted by Viacom Newmedia, and I am in no way 
+affiliated with them in any way.
+Zoop is (c) 1995 Viacom Newmedia
+
+Okay. Enough of the legal stuff! I don't want to do it, but I have to.
+
+
+Part One: THE OPTIONS
+-----------------------------------------------------------------
+
+There are two modes of play. They are:
+
+1. Continual: When you finish a stage, all the shapes that are left are 
+carried over to the next stage.
+2. Level: The screen is cleared after each stage.
+
+Once you select your game, you choose the stage you want to start at 
+(stage 1-9), and the difficulty (0-4). The higher the difficulty, the 
+more shapes you start with at the beginning of a game (Continual) or 
+stage(?) (Level).
+
+ Part Two: THE SCREEN
+------------------------------------------------------------------
+
+WARNING! Bad ASCII Art Follows!!
+
+0059000         | | | |      0100  
+Score           v v v v   # of shapes 
+                . . . .    left to  
+                . . . .   clear stage 
+                . . . .
+                . . . . 
+                . . . . 
+                -------
+->. . . . . . .|. . . .|. . . . . . . <-Shapes start on the outer  
+->. . . . . . .|. . . .|. . . . . . . <-parts of the screen and  
+->. . . . . . .|. . . .|. . . . . . . <-work their way towards the
+->. . . . . . .|. . . .|. . . . . . . <-center (the box) by moving
+                -------                 inwards one space when a new
+                . . . .                 shape is created in that space.          
+                . . . .                 Note that shapes can only be in                         
+Arrows          . . . .                 space marked with a period.
+indicate        . . . .      Stage #    Now I will show you in greater 
+direction       . . . .	          04    detail how they move and how  
+of movement.    ^ ^ ^ ^                 they don't.
+                | | | |
+
+The art that follows is not the entire screen, but this will help you 
+understand the way shapes move. It's kinda like a zoom.
+
+|. . . . . . . 
+|. . . . . . .
+
+There are four different shapes. They are: red, blue, green, and purple.
+
+g = green shape
+r = red shape
+b = blue shape
+p = purple shape
+
+Here is an ASCII animation on how shapes move and how they do NOT move.
+
+
+HOW SHAPES MOVE
+
+(1) 
+|. . . . . . b<- A blue shape is created. 
+
+(2)
+|. . . . . b b<- Another blue shape is created in the same space.
+
+(3)
+|. . . . b b r<- A red shape is created this time in that same space. 
+                 Note that the blue shapes moved to the left (which is 	           
+towards the box).
+
+
+HOW SHAPES DO NOT MOVE
+
+Example 1
+(1)
+|. . . . . . b<- A blue shape is created.
+
+(2)
+|. . . . b . b<- A shape CANNOT have a space between it and another                          
+		     shape! There are TWO exceptions to this. You'll find 
+		     them under "Powerups".           
+
+Example 2
+(1)
+|. . . . . . b<- A blue shape is created.
+|. . . . . . .<- Note there are two columns here. You see why that's                 
+	           needed in the next part.
+
+(2)
+|. . . . . . .
+|. . . . . . b<- Shapes cannot move from column to column!
+
+
+
+Part Three: HOW TO PLAY
+------------------------------------------------------------------
+
+You start the game with 0 points and a clear screen. Shapes will start 
+to appear. You are a triangle that is inside the box. You can't move out 
+of the box. You have one of the four shape colors to start the game.
+The goal is to eliminate as many shapes as possible.
+In level 1, the shapes appear very slowly, but get faster as you 
+progress through the game.
+How do you eliminate the shapes?
+Simple. You just move around, and when you're in the direction and 
+column or row you want, press A, B, X , or Y.
+Any shapes that are the same color as your man will be eliminated for 
+points. However, if you hit a shape that is NOT the same color as your 
+man, the shape will become the color of what your man was, and you will 
+become the same color as the shape you hit. The scoring is as follows:
+
+One shape with one move: 100 pts
+Two shapes: 100+200=300 pts
+Three shapes: 100+200+300=600 pts
+Four shapes: 100+200+300+400=1000 pts
+Five shapes: 100+200+300+400+500=1500 if on a row, otherwise...
+Column of five shapes: 100+200+300+400+500+5000=6500 pts!
+Six shapes: 100+200+300+400+500+600=2100 pts
+Row of seven shapes: 100+200+300+400+500+600+700+10000=12100 pts!!
+
+If any shape gets inside the box, your game is over!!
+
+Part Four: POWERUPS 
+There are four powerups in the game. When you collect them, you look 
+like that powerup until you use it. You can control what you do with it, 
+but when you hit ANY shape, you lose the powerup.
+They are:
+
+star(?): Clears one row or column on one side. Worth 100 pts for each            
+	   shape cleared.
+paint blob: Clears all of the shapes that are the same color as the   	      
+FIRST shape you hit on that side ONLY. 100 pts for each    	      shape 
+eliminated. Exception number one to the "no space   		between 
+shapes" rule.
+lightning bolt: Clears any shape directly next to the FIRST SHAPE
+                it hits and the next two layers after that. ASCII would          
+		    help here. And here it is:
+
+
+			|. . b B R G p
+                  |. . . l B B b
+                  |. . . R P B g
+
+l = lightning bolt
+
+Any letters that are capitalized would be eliminated. 100 points per 
+eliminated shape. This is the second exception to the "no space between 
+shapes" rule.
+
+spring: THE MOST USEFUL THING IN THE GAME!!!!!!!!!
+        If you collect five of these, the ENTIRE SCREEN IS CLEARED OF        
+	  SHAPES! Helps EXTREMELY well when you're about to lose!! 100  	  
+points for each shape eliminated when screen is cleared when 	  five 
+springs are collected.
+
+
+Part Five: OTHER STUFF
+
+ZOOP Internet High Scores
+Rank         Score             Name               Shapes Eliminated 
+            ???,???		 ???????                 ??????
+
+
+In case of a tie in score, whoever eliminates more shapes gets 
+higher/highest rank. 
+To help weed out false scores, you need to send me a Snappy or 
+equivilent stuff or a photo WITH THE SYSTEM IN THE PICTURE!!
+
+Part Six: THANKS & SHOUT-OUTS
+----------------------------------------------------------------------
+A big thank you to GameFAQs for hosting this FAQ.
+Also a big thank you to my dad, who bought me this game.
+
+A few shout-outs to all the people in Philly, my bro David and his buds, 
+my buds (especially Jon!), the Philadelphia 76ers,  the Philadelphia 
+Flyers, the Philadelphia Phantoms, and all the other Philadelphia sports 
+teams! We love you! One last thing...
+               76ers ALL THE WAY, BABY!
+
+
+
+

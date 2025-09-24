@@ -1,0 +1,627 @@
+Date: Mon, 09 Jun 1997 18:43:54 -0600
+From: halliwee@ts436.dyess.af.mil
+Subject: BATTLESPHERE: THE FAQ
+Newsgroups: rec.games.video.atari
+
+THE SEMIOFFICIAL BATTLESPHERE FAQ
+
+last updated June 9, 1997
+Compiled by Clay Halliwell
+halliwee@ts436.dyess.af.mil
+e.halliwell@genie.com
+
+Publisher   4Play
+Developer   4Play
+Released    n/a
+Product#    n/a
+Media       4 megabyte (32 megabit) cartridge
+Players     1-16
+ProCtrlr    Yes
+JagNet      Yes
+CatNet      Yes
+
+NOTE: Since BattleSphere is still a work in progress, everything in this
+FAQ is subject to change without notice. So if something you see listed
+here doesn't make the final cut, don't go whining to me or 4Play about it.
+
+//// BATTLESPHERE WEB RESOURCES
+
+The BattleSphere Page
+http://www.best.com/~sebab/dvidgames/dsphere
+
+Official BattleSphere Countdown Page
+http://www.mbi.ucla.edu/people/legrand/sphere.html
+
+Mark Santora's BattleSphere Playtester's Page
+http://home.earthlink.net/~santora/playtstb.html
+
+Thunderbird's Garage
+http://home.sprynet.com/sprynet/Thunderbird
+
+
+//// THE CREATORS
+
+Q. Who is 4Play?
+A. 4Play is:
+
+Scott Le Grand  Graphics and game programming, polygon engine, game
+                design, sound effects, and some of the options and setup
+                screens
+Douglas Engel   Networking code, sound and music engine, cool intro,
+                artwork, ship design, game design, sound effects, menus
+                and high-score screens, NVRAM drivers, joystick drivers,
+                the "story" screens, pause screens, setup screens, and
+                the ship selector
+Tom Harker      All that annoying CEO business dude stuff, the CatBox,
+                game critic
+Steph Wukovitz  Music, game critic, math wizard
+
+NOTE: As of April 18, 1997, Scott Le Grand and Stephanie Wukovitz were
+married. It's still Steph Wukovitz though.
+
+Q. Who else contributed to BattleSphere?
+A. Here's an incomplete list, sure to grow:
+
+Damien M. Jones: For the "Julia" code he donated from the ill-fated
+   Virtual VCS.
+Tom McComb: For donating all of the CAD 3D programs to us.
+John Harris: For all of his feedback on playability.
+Mark Santora: For his playtesting and video production
+Clay Halliwell: For maintaining the BS FAQ
+Bill Longworth: Thanks for the 1084 monitor!  It was a godsend!
+Ralph Barbagiallo: For fixing an absolutely horrible-sounding MOD.
+Ralph@Cybercube: For providing us with InShape, our object builder.
+Jer Horwitz: For not being afraid to speak his mind about our ideas.
+Allen C. Huffman: The GOD of Cool Samples.
+John Mathiesen: For answering 100 or more questions.
+Bill Rehbock: The GOD of Alpine Boards and general Atarian coolness.
+Tim Wilson: The man behind our configurable radar scheme.
+All the guys on the BattleSphere topic on Genie: This game's YOUR fault!
+   :-)
+Various competitive system fanatics: Keep it up, your stuff's hilarious!
+   After all, we all know that the 16 BIT JAG SUX!
+Star Raiders, Doom, TIE Fighter, and Iron Soldier: Our 4 strongest
+   inspirational computer games.
+Babylon 5: The coolest show on the air right now.
+
+
+//// GENERAL
+
+Q. What is BattleSphere?
+A. BattleSphere is a first-person, single or multi player, networkable
+   3D space combat simulator for the 64-bit Atari Jaguar. It's also a
+   dessert topping and a floor wax.
+
+Q. What is the story behind BattleSphere?
+A. 800 years in the future, the seven dominant races of the galaxy are
+   at war. Stealing a plot idea from an ancient Star Trek episode, they
+   have agreed to confine their hostilities to Sector 51, a spherical
+   sector of space formerly used by the Earth government to secretly
+   test new weapons and starships. Each race has sent its best soldiers
+   and military hardware to participate in a tournament of space battles
+   in this Battle Sphere. The race that wins the tournament will be
+   given control of the galaxy.
+
+Q. What are the play modes?
+A. There are 5 unique play modes in BattleSphere:
+
+Training: 1 Console. Mission-based series of 20 short levels which
+introduce the player to the control scheme and enemies within the
+BattleSphere.
+
+Free-For-All: 1-8 Consoles. This mode pits you up against 15 other ships
+in an all-out battle to reach a selectable number of points. You will
+re-generate after getting killed after a configurable time delay, with a
+1 kill penalty. The first player to reach the goal is the victor! This is
+something like "DeathMatch" in Doom or Quake.
+
+Gauntlet: 1-2 Consoles. The player(s) are given 1-6 starbases to defend
+against waves of incoming enemy fighters, bombers, capital ships and
+strange things until all starbases are destroyed. Periodically, a
+destroyed starbase will be replaced.
+
+Alone Against the Empires: 1 Console. A game similar to Star Raiders.
+The universe is broken up into 64 or so spherical sectors. Some of those
+sectors, close to the center, contain starbases. The outer sectors contain
+armadas of enemy ships, enemy starbases, and random strange things (all
+depending on the skill level). Play proceeds as the enemy ships head for
+the center in order to destroy the starbases. Enemy reinforcements will
+arrive at the edge of the universe as long as there are enemy starbases.
+Play continues until 1) All friendly starbases have been destroyed (you
+lose) or 2) All enemy forces have been eliminated (you win).
+
+BattleSphere: 2-8 Consoles. Netrek meets TIE Fighter. Two alien races at
+a time are placed in the Battle Sphere with a number of starbases and
+capital ships. The object of the mode is to capture the enemy team's
+bases using special energy weapons... but you need to accumulate kills to
+be able to upgrade your ship to be able to carry these weapons. Once you
+upgrade your ship, you can dock with your bases and load up on special
+weapons. But watch out! If you get destroyed, you have to start over
+again. Once you have sufficient weapons to conquer a base, and you get
+through the enemy fighters defending it, you can lay into it and take it
+over. Once the base is yours, you can go after the next. Be careful
+though because the enemy may not want you taking over their base and may
+take their own base down with a last-ditch bombing run, if it looks like
+you're about to conquer it!
+
+Q. What are the alien races?
+A. There are 7 known alien races in BattleSphere:
+
+Oppressors: Resemble the human race's concept of demons, and it is
+believed that Earth legends of demons were caused by the arrival of an
+Oppressor strike force that was somehow destroyed soon after it reached
+the planet. They once controlled 80% of the known galaxy but have been
+slowly losing their hold as they encounter one disaster after another.
+The Oppressors will do anything to regain their former hold on the
+galaxy.
+
+Se'Bab: An all-female slave race of the Oppressors until the sudden
+arrival of the Telchines 50 years ago weakened their hold leading to a
+brutal rebellion and double blow to the Oppressors which destroyed half
+of their empire. The Se'Bab were bred for beauty and obedience. This has
+translated into extreme xenophobia towards all other races and extremely
+aggressive, almost suicidal battle tactics. The Se'Bab bare one breast at
+all times in defiance of male power.
+
+Telchines: Appeared 50 years ago and are presumed to originate from a
+neighboring galaxy. Their advanced craft brutally vaporized a section of
+the Oppressor's empire which indirectly triggered the rebellion that freed
+the Se'Bab from their Oppressor masters. The Telchines do everything in
+threes and are obsessed with the 5 Platonic solids. Their ships have
+threefold symmetry. No one has ever seen a Telchine and lived. They appear
+to be transforming space around their empire.
+
+Slith: Lizard-like beings whose ships seem to be alive.  They are rumored
+to devour their prisoners after interrogation. Their capital ships
+resemble snakes and lizards, and can reproduce if sufficient resources
+are supplied. Their weapons are tailored to achieving the paralysis and
+capture of other ships for this purpose rather than simply destroying
+them.
+
+Smg'Heed: Last surviving descendants of the human race, mostly wiped out
+by a scourge of retroviruses and accumulated debt from placing their
+entire GPP into developing absurdly powerful weapons. As a result, their
+ships are based on modified 20th century technology, have lousy
+maneuverability, but do incredible damage if they manage to hit anything.
+Watch out for their self-destruct systems! The other races decided to
+include them in the tournament mostly on the fear that they'd activate
+one of their many budget-busting Doomsday Devices had they not done so.
+
+Ocatanut: A feline race that follow the Slith wherever they go. An uneasy
+alliance exists between them, but it has been suspended for the sake of
+the tournament. There is the general belief that there will be some form
+of power-sharing between them if either race wins the tournament. The
+Ocatanut focus on stealth and speed to overcome their enemies.
+Frequently, they will then share their kills with the Slith.
+
+Thunderbirds: The sworn enemies of the Ocatanut and the Slith. They are
+hawk-like predators who blend speed and firepower in their ships. They
+are fixated on coup-like(?) behavior and they tend to make a great show
+of any kill, making sure their victim knows who it was who has beaten
+them. It is believed that the Se'Bab and the Thunderbirds have been
+sharing technology.
+
+Q. Are there any secret races?
+A. ;-)
+
+Q. What kinds of ships are there?
+A. Fighters, Bombers, and Superships are available to the player.
+   Capital ships and starbases are always under computer control, except
+   in Alone Against the Empires mode, where you will be able to order
+   friendly capital ships and escorts to attack or defend certain sectors.
+
+Q. How many ship designs are there in the game?
+A. Since we know each race has 1 of each of the 5 ship types, one can
+   deduce that there are AT LEAST 35 different ships.
+
+Q. Are there any secret ships?
+A. But of course.
+
+Q. Are there Easter Eggs?
+A. Doug sez, "We were putting easter eggs in games before most people knew
+   what computer games were!"
+
+Q. What weapons are available?
+A. There are 7 different weapons at your disposal:
+
+Lasers: Basic offensive weapon. Most ships mount multiple lasers, which
+can be set to fire in rotation or simultaneously.
+
+Mines: Proximity-fused explosives that drop out the back of your ship.
+
+Missiles: Shoot straight out from your ship and explode on impact. Can be
+shot down (this weapon may not make the final cut).
+
+Homing Missiles: Seek and destroy the currently selected target. Can also
+be shot down.
+
+Stasis Bolts: Freeze what they hit for a limited amount of time.
+Cumulative effect for multiple hits.
+
+Plasma Bolts: Basically glorified lasers which do not deplete energy.
+
+Base Bolts: Computer virus-laden power surges used as a tactical weapon
+for conquering enemy starbases or reinforcing friendly starbases under
+base bolt assault from an enemy.
+
+Q. Does the enemy AI exploit all available weapons?
+A. Yes, depending on its IQ.
+
+Q. What weapons do capital ships and starbases use?
+A. Lasers, homing missiles, and plasma torpedoes.
+
+Q. What special powerups are available?
+A. Base bolts and ship upgrades in Battle Sphere mode as well as
+   regenerations in Gauntlet and Alone Against the Empires.  You're
+   on your own in Free for All.
+
+Q. Are weapon powerups bought, collected, or earned?
+A. Earned.
+
+Q. Are there adjustable difficulty levels?
+A. Yes.
+
+Q. Are there any planets, asteroids, or gas clouds?
+A. No.
+
+Q. Can you collide with or shoot the debris from destroyed ships?
+A. You can collide with it but you cannot currently shoot it.  This
+   will change if possible before the final cut. It's a matter of
+   needing space to handle this correctly.
+
+Q. Can you dock with starbases?
+A. Yes.
+
+Q. In cooperative pilot/gunner mode, does the gunner's crosshair "float"
+   onscreen to stay pointing at the same area of space during
+   maneuvers?
+A. No.
+
+Q. Is there lead-computed targeting? A. Yes. The sight is a blue
+crosshair that transitions to red as you close	in on the perfect "lead"
+for the target. There's also a beeping sound that  increases in frequency
+as the perfect lead is closed in on.
+
+Q. Can you target specific parts of ships?
+A. Maybe.
+
+Q. What radar views are available?
+A. BattleSphere's two radar screens provide front and aft views.
+
+Q. How much freedom of movement is there?
+A. The full six degrees of freedom... your ship can pitch, yaw, and roll,
+   fly forward and backward, and go anywhere in the game universe.
+
+
+//// NETWORKING
+
+Q. How many consoles can BattleSphere network?
+A. 2 consoles with JagNet (JagLink required).
+   2-8 consoles with CatNet (CatBox required).
+
+Q. Can you network two Jaguars via modem?
+A. No, but it's not 4Play's fault :-(.
+
+Q. How many players does BattleSphere support?
+A. Up to 16 players (8 networked consoles with 1 pilot and 1 gunner
+   per console).
+
+Q. Does gameplay slow down as more consoles are networked?
+A. No. In fact the game actually speeds up, due to AI processing being
+   equally distributed among all available consoles.
+
+Q. When one consoles's frame rate drops, does everyone else's frame rate
+   drop?
+A. No. BattleSphere's rendering engine runs independently of the main
+   game logic and network code.
+
+Q. How does BattleSphere handle node loss?
+A. Doug sez: "BattleSphere tries really hard to recover from interruptions
+of the network due to accidental disconnection from the network (you pull
+the network wire out accidentally) but due to circumstances beyond 4Play's
+control, there's a chance that one or more of the Jags on the network will
+go deaf if you pull it out or plug it back in at just the right time (see
+modem use).
+
+Due to reasons beyond our control (see modems) the network doesn't
+really know for sure that it's offline and so no messages pop-up to tell
+you that the network is down. The game will continue to update your
+"universe" and will patiently wait for the other nodes to send their own
+updates. If you reconnect successfully, then things will continue as
+normal. If you don't reconnect, then the whole game gets out of sync and
+you'll see bizarre things happening (shots go through things, etc.).
+
+If the network wasn't such a delicate balancing act to get running in the
+first place (see modem use), we would have been able to make recovery
+from errors much more robust. There's just no point to doing that if Jags
+can go deaf on you for no good reason.
+
+BattleSphere also doesn't like node-losses due to power-down. If one Jag
+powers down, it will most likely cause the game in progress to behave in
+strange ways. If you reboot that Jaguar you will have to restart the game
+over on all the Jags because that node cannot "remember" the state of the
+game it was playing if it loses power. Quake and most other games don't
+support leaving a game and re-joining it later, so we don't see this as a
+major drawback.
+
+BattleSphere has an auto-node-detect sequence which it performs at the
+start of a networked game that assigns node numbers and whatnot, and if
+you cycle power, it will lose that info and the node will have to wait
+for a new game to begin so that the nodes can be reassigned.
+
+The point here is that you shouldn't have any problems if you don't fuss
+with the cables or you don't shut off your console mid-game.
+
+For what it's worth, I think a lot of Lynx games work the same way that
+we do."
+
+Q. How is pausing handled in networked modes?
+A. Team play cannot be paused (don't ask).
+
+Q. How many teams can there be?
+A. 2.
+
+Q. Can you set an option so you can't damage teammates?
+A. No.
+
+Q. Can you switch to the views of other players on the network?
+A. No.
+
+Q. Is BattleSphere networking subject to interference from Hell?
+A. No.
+
+Q. Will BattleSphere still be fun even if it's not networked?
+A. YES!!! YES!!!! YES!!!!!
+
+
+//// GRAPHICS
+
+Q. What resolution does BattleSphere run at?
+A. 320x240, overscanned.
+
+Q. What color depth does BattleSphere run at?
+A. The title and intro screens are full 24-bit (16.7 million) color.
+   Almost everything else is in 16-bit (65,536) color, and there's a few
+   menus and whatnot with 8-bit (256) color (no need for any more).  The
+   game itself is 16-bit color.
+
+Q. Are the ships in BattleSphere texture mapped?
+A. No. The ships in BattleSphere are primarily gouraud-shaded. Texture
+   mapping is used sparingly to provide detail on top of the gouraud
+   shading, a technique 4Play calls "Decal-Mapping(tm)".
+
+Q. Are ships light-sourced?
+A. Yes.  All 3D objects are light-sourced.  Cockpit interiors are faux
+   light-sourced as well.
+
+Q. Is there light-sourcing from weapons?
+A. No.
+
+Q. What is the maximum number of polygons per ship model?
+A. 256.
+
+Q. What is the maximum number of decal maps per ship model? A. The limit
+of decal-maps is the same as the number of polygons in a ship.	Each map
+could be 1 polygon up to the limit per ship.
+
+Q. How many different 3D objects were designed for the game?
+A. If you take into account all of the detail levels of all of the models,
+   as well as all of the debris chunks and miscellaneous bits, there are
+   over 400 different 3D models in the game.
+
+Q. How far is the clipping "horizon" for objects?
+A. Far enough that most objects are down to 1 pixel by 1 pixel before
+   disappearing, and those that aren't have NO clipping horizon.
+
+Q. Does the rendering engine use load management?
+A. Yes.
+
+Q. Uhhh... what exactly is load management?
+A. Load management is a goofy made-up term for variable-detail models.
+   As an object moves farther away from the player, load management
+   switches to successively lower-detail object models, easing the load
+   on the rendering engine. BattleSphere uses 3-5 levels of model
+   detail.
+
+Q. Does the rendering engine use MIP mapping?
+A. No. No great loss since, as noted above, texture mapping is minimal.
+
+Q. What frame rate does BattleSphere run at?
+A. Maximum frame rate: 60 FPS
+   Minimum frame rate: 10 FPS
+   Average frame rate: 30 FPS
+
+Q. Does the starfield fly past when you're moving?
+A. No. Moving stars would only be seen if you were moving at a multiple
+   of the speed of light, and if you were moving faster than light, your
+   field of view would be contracted to a single point (see "Cosmos").
+
+Q. Do the stars twinkle?
+A. No. Twinkling is an atmospheric effect. BattleSphere is set in space.
+
+Q. Is there real-time lens flare?
+A. Yes.
+
+Q. Do ships become visibly damaged as you shoot them up?
+A. Yes.
+
+Q. What are the explosions like?
+A. Explosions consist of several bitmapped explosion animations plus
+   lots of out-of-control flying spinning ship pieces a la Babylon 5 and
+   the Death Star battle in Star Wars. Each explosion animation is 16
+   64x64 frames in 16-bit color.
+
+Q. Are there animated ships?
+A. Yes.
+
+Q. Are there drive flares?
+A. No.
+
+Q. Are there blinking lights on the ships?
+A. No.
+
+Q. Are there exterior ship views?
+A. No.
+
+Q. What information is displayed on the HUD?
+A. Shield strength
+   Energy
+   Velocity
+   Thrust
+   Laser Energy
+   Pilot's crosshair
+   Gunner's crosshair (if present)
+   Gun firing status and configuration
+   Current weapon and ammo remaining
+   Targeting brackets around all onscreen objects
+   Lock-on warning
+   Missile warning
+   Kills
+   Score
+
+
+//// SOUND
+
+Q. Are the sound effects in stereo?
+A. Yes.
+
+Q. Are the sound effects Dolby Surround or Q-Sound encoded?
+A. No.
+
+Q. Is there in-game music?
+A. Yes.
+
+Q. How many audio channels are there?
+A. BattleSphere's sound driver provides 6 stereo channels and 4 mono
+   channels simultaneously (16 individual channels total). The channels
+   are individually 8-bit, and are mixed into a 16-bit output. During
+   gameplay, the stereo channels are used for sound effects and the
+   mono channels are used for music. Outside of gameplay, the music
+   driver is free to use all 16 channels.
+
+Q. How many music samples are used for the soundtrack?
+A. This is still in a state of flux.  However, 512K (4 megabits) of
+   BattleSphere's ROM space is dedicated to music and digital samples.
+
+
+//// OTHER TECH STUFF
+
+Q. How many ships can be in play at once?
+A. There can be up to 16 fighters, superships, capital ships, or
+   starbases in play simultaneously.
+
+Q. How many shots can each ship have "in the air" at once?
+A. 15 shots.
+
+Q. What type of collision detection does BattleSphere use?
+A. A collection of bounding boxes, cylinders, and spheres. 4Play had
+   BSP collision in there briefly but it was not worth the bandwidth
+   it consumed.
+
+Q. How big is BattleSphere's NVRAM chip? A. Doug sez, "We have our choice
+of 256 byte, 512 byte, 1024 byte, 2K  or 4K NVRAM chips.  Which one we
+eventually use will give us more  things to save.  The final choice will
+be based on pricing and  availability of NVRAM chips at the time of
+manufacturing, amount of  expected orders, cart's intended MSRP, etc.  In
+other words, I've  written code to access more NVRAM than any other Jag
+game (new low-level  drivers).	What we do with them is still up in the
+air."
+
+
+//// MISCELLANEOUS
+
+Q. When will BattleSphere be released?
+A. When it's done.
+
+Q. When will BattleSphere be done?
+A. Sometime in 1997.
+
+Q. Will 4Play accept pre-orders for BattleSphere?
+A. No.
+
+Q. Will BattleSphere come out on any other game consoles, or the PC?
+A. It might, but no such conversion is currently planned.
+
+Q. Will there be a sequel to BattleSphere?
+A. If sales warrant it.
+
+Q. Will 4Play be releasing a BattleSphere CD remix of the music, a la the
+   Tempest 2000 soundtrack?
+A. Depends on how many people would buy it, and how busy Steph gets.
+
+Q. What is "Star Battle"?
+A. The original title for BattleSphere.
+
+Q. When did development on BattleSphere begin?
+A. January 1994.
+
+Q. How don't you spell 4Play?
+A. 4 Play, 4-Play, Four Play, Foreplay, Phoarpleigh.
+
+Q. Is it true Atari canceled Space War 2000 after seeing Battlesphere?
+A. Most likely.
+
+Q. Is the Jaguar really 64-bit?
+A. Yes.
+
+
+//// IN-JOKES
+
+The Default High Scores (Alone Against the Empires)
+
+1) T-BIRD     Doug "Thunderbird" Engel, 4Play
+2) SCOTT      Scott Le Grand, 4Play
+3) STEPH      Stephanie Wukovitz, 4Play
+4) BIGTOM     Tom Harker, 4Play/ICD/Black Cat Design
+5) ANDREWS    ?
+6) ROB        ?
+7) DON        Don Thomas, formerly of Atari
+8) RALPH      Ralph Mariano, editor of ST Report
+
+
+The Enemy Races
+
+Oppressors: "Oppressor" is Scott Le Grand's online handle. The 
+Oppressors appear to be partially based on the aliens in Arthur C. 
+Clarke's "Childhood's End". Thunderbirds: "Thunderbird" is Doug Engel's
+online handle. It's also his  favorite model of car (Doug sez, "Actually,
+after 'classic' T-Birds.  Ford's really screwed them up in recent
+years."). Se'bab: "Sebab" is Stephanie Wukovitz's online handle. It's
+also "babes"  spelled backwards. The Se'bab appear to be inspired by the
+Moon-dwelling  Amazonians that were constantly popping up in 50's sci-fi
+flicks. Telchines: Obsessed with threes, the Telchines appear to be
+partially  based on the aliens in Arthur C. Clarke's "Rendezvous With
+Rama". Smg'Heed: A corruption of "smeg-head", a common pejorative on the 
+British sci-fi comedy "Red Dwarf". "Smeg" itself is a shortened form of 
+"smegma" (look it up). Slith: Every interchangeable lizard race from
+"Battle Beyond the Stars" to  "Enemy Mine". Ocatanut: Sounds like a
+mangling of "cat" and "astronaut". Perhaps the	race that inflicted
+Disney's "The Cat from Outer Space" on us?
+
+
+The Ships
+
+Starfire: A reasonable facsimile of Babylon 5's Starfury fighter.
+Falcon 303: Much of BattleSphere's graphics and sounds were created
+   on an Atari Falcon 030.
+Pulverizer: Not just a Space Shuttle look-alike... in the game's story,
+   these really are refurbished Space Shuttles.  Originally known as
+   "Ranger 3", for those of you into obscure references.
+Vyper: More than a little similar to BattleStar Galactica's Colonial
+   Viper.
+Ajax: This Ocatanut ship is named after Doug's cat.
+Gauntlet, Level 42: The ships on this level should look familiar to
+   anyone who's seen "Mars Attacks!". And of course "42" is a significant
+   number to Hitchhiker's Guide to the Galaxy fans.
+Gauntlet, Level 69: Has a reference to an old SNL character (Coneheads
+   perhaps?).  And the level number, "69" needs no explanation.
+
+
+Miscellaneous
+
+The location of the BattleSphere, Sector 51, is a play on Area 51, which
+is where the U.S. government keeps all those UFOs that keep crashing here.
+
+-------------------==== Posted via Deja News ====-----------------------
+      http://www.dejanews.com/     Search, Read, Post to Usenet
+

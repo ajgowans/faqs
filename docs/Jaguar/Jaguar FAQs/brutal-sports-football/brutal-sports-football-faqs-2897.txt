@@ -1,0 +1,241 @@
+Forum:  				Section:  Jaguar Games/Tips
+Subj :  BSF - Roll our own FAQ
+To   :  all				
+
+
+
+
+
+
+
+
+            I am trying to build a basic FAQ for "Brutal Sports Football
+            for the Atari Jaguar" with help from other on-line folks.
+            Please post any additions or corrections to this FAQ here,
+            or (even better) E-Mail me so I can add to it. If anyone has
+            video capture or is a good artist, pictures of the power-ups
+            would be very useful for some people.
+
+
+            Respond to:
+
+
+            Internet = waynejs@kaiwan.com
+            GEnie    = head.trip
+            AOL      = headtrip_x
+            CIS      = 74214,565
+
+
+            Thanks!
+
+
+
+
+
+            This is what I have in version 0.5 - 9/28/94 (CIS seems to have       
+       screwed up my formatting):
+
+
+
+
+
+
+                               Brutal Sports Football
+
+
+                                         by
+
+
+                                      Telegames
+
+
+                                       for the
+
+
+                          Atari Jaguar 64-Bit Game Console
+
+
+                                   FAQ version 0.5
+
+
+
+
+
+
+               I have had Brutal Sports Football for 2 days and I like
+            it a lot. I wasn't going to buy it because it didn't look
+            "64-Bit", and I don't normally like sports games. I broke
+            down and bought it when I finished Wolfenstein 3D and was
+            going nuts waiting for the "Magical, Wonderful,
+            October/November Games Orgy" <grin>.
+
+
+               Now that I've been playing Brutal Sports Football for a
+            little while I actually like it a lot. It reminds me of
+            Speedball 1 & 2 for the Atari ST and Amiga - constant
+            action, some strategy, and FUN! I wish the people around me
+            weren't too snobby or afraid to play video games; it looks
+            like a _lot_ of fun for 2 players!
+
+
+               The only gripe I have about Brutal Sports Football is
+            that you can't adjust the music/FX levels (just music
+            on/off) and that the manual STINKS. We can't help the music
+
+            thing, but we _can_ make a FAQ to remedy the manual problem.
+            So, here we go... and remember what the 'Teacher' says...
+            "jaguar Jaguar JAGUAR!"
+
+
+
+
+                                    Playing Tips:
+
+
+            1. Be sure to use the three 'formations' during play. Press
+            the '1' key for "Defense", '2' for "Normal" and '3' for
+            "Aggressive".
+
+
+                "Defense" (#1) allows you to 'pack' your half of the
+                field with your players (best for when you are looking
+                to hold onto a lead for a win).Use it when the opposing
+                team is heading towards your end of the field.
+
+
+                "Normal" (#2) is the multi-purpose formation. It offers
+                defensive & offensive positions, and is pretty
+                'normal'.
+
+
+                "Aggressive" (#3) puts your team in attacking
+                formation, pushing towards your opponents goal. It's a
+                very useful way to keep the opposing team busy while
+                you forge ahead. It also places several teammates near
+                the enemy goal so you can pass the ball and 'baffle'
+                'em
+
+               * Continually changing formations can really improve your
+               scores.
+
+ 
+            2. Whenever your goalie has the ball - kick it downfield!
+
+ 
+            3. It usually helps to approach the other team's goal from
+            the side. The computer team passes a lot near the goal, and
+            passing near their goal seems to outsmart them. Also, you
+            can kick towards their goal, and when their goalie catches
+            the ball you can score by slamming him into the goal while
+            he's holding the ball! It makes him cry <evil grin>.
+
+
+            4. If you're losing by a wide margin, concentrate on wiping
+            out your opponents (GamePro Magazine).
+
+            5. The first player you should eliminate is the goalie. Once
+            he's gone, it's a lot easier to score goals (GamePro
+            Magazine).
+
+
+
+
+
+                                      Controls:
+
+
+            The manual for Brutal Sports Football leaves a lot to be
+            desired. Especially for 70 bones! This area of the FAQ will 
+
+            try to outline any controls not mentioned in the manual, and
+            elaborate on the ones that _are_ mentioned.
+
+
+            Locker Room:
+
+
+            The Locker Room is where you can repair & improve your team
+            between league matches. Unfortunately the manual doesn't say
+            much about it. Here's some information...
+
+
+            1. You have 9 team members, but only 7 play in a game. The
+            trick is to use your 7 best men. The only exception is #1 -
+            he's the goalie so you need to keep him in good shape! When
+            you select "Locker Room" from the options after a league
+            game, you come to a screen with all you team members in
+            treatment chambers. Initially all players are selected, but
+            you can use L-R on your joypad to select individual team
+            members.
+
+
+            First, find your best 6 guys besides #1 (your goalie). If a
+            guy is standing he's doing pretty good. If he's kneeling
+            he's 'hurting'. If he's got a bandage where his head should
+            be - it's not his day! You can also tell a players health by
+            looking at the red ovals next to his number. The higher the
+            red, the better off he is.There's also a green "Life-O-
+            Meter" above each players head (or where his head _was_).
+            The wider the green "Life-O-Meter", the better the poor mug
+            is doing.
+
+
+            Once you've found your 6 most promising players you need to
+            "fix 'em up". Use the L-R on the joypad to select a player
+            (he becomes highlighted). Then use the 'B' button (or 'UP')
+            on the joypad to close the treatment door. Once the door is
+            closed you may select one of the three treatments. The Cross
+            means 'Health', the Jagged Line means 'Speed', and the
+            Helmet means 'Cranial Reconstruction" (for headless cases).
+            One tip: After your first match, the last two players are
+            still in perfect health because they haven't played yet. Use
+            them in the next match if you need to.
+
+
+            The best thing to do is fix up your goalie first. Next, work
+            your way down the other 6 candidates, giving them a little
+            more health at a time until either they're all healthy or
+            you run out of money. If you still have money left, or if
+            you don't want to use it all on repair, you can make your
+            players faster. It's best to start with the goalie.
+
+            While repairing your players you can use the 'A' button on
+            the joypad to select a player for the next game. Selected
+            players have a red light above them. Be sure to keep your
+            goalie in the game!
+
+
+            Once you're happy with your selections use the L-R on you
+            joypad to center the selector (all players are lit). Next
+
+
+
+
+
+        use 'Down' twice, until you see 'Exit' appear. Press 'B' to
+            return to the previous screen.
+
+
+
+
+            Well, that's all I've got so far. Please write me to add to
+            this FAQ; I'll mention all contributors. You can reach me
+            at:
+
+
+            Internet = waynejs@kaiwan.com
+            GEnie    = head.trip
+            AOL      = headtrip_x
+            CIS      = 74214,565
+
+
+
+
+            Thanks!
+
+
+            Wayne
+
+            Did I mention that the manual sucks?
+
+

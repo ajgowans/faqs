@@ -1,0 +1,520 @@
+ALIEN vs. PREDATOR 
+
+For the ATARI JAGUAR
+Developed by REBELLION
+FAQ Version- 1.02  (07/09/00)
+
+Written by:  Jeremy Moore   
+My e-mail:   bird33@pa.net
+----------------------------------------------------------------------
+
+Version 1.00 07/09/00--  original 
+Version 1.01 07/10/00--  corrected title
+Version 1.02 07/12/00--  Cleaned up the FAQ a bit, added a few tips, and other 
+minor info. added an other stuff section...
+----------------------------------------------------------------------
+
+
+--- LEGAL CRAP ---
+     This FAQ is written by ME, copyrighted by ME, and owned by ME. =)
+All names are copyright either, FOX, Atari, or Rebellion Software 
+respectively...
+
+     If you would like to use this FAQ on your site... just e-mail me and ask...  
+more than likely I'll say yes... we Jaguar fans gotta stick together  =)
+
+     However, in no way will you change this FAQ, or profit from it in anyway.
+----------------------------------------------------------------------
+
+
+
+
+
+--- INTRODUCTION ---
+     The Atari Jaguar, the first 64-bit console on the market (like it or not, 
+and agree with me or not....  it WAS a 64-bit system, that much is proven ) met 
+with mixed response when it was released.  Released with a game called 
+Cybermorph, a fully 3D action/flight game.  While Cybermorph was a great game in 
+its own right, the Jaguar lacked that one, great, killer app.  In 1994, that 
+killer app made its appearance, first in rumors, then a VERY cool, yet rarely 
+shown commercial.  If Atari would have marketed games like this better, we may 
+have had seen a completely different fate in store for Atari's 64-bit machine.  
+This game could have propelled Jaguar sales into the millions on name alone, 
+with proper marketing.... starting with showing the commercial at a time when 
+most people would have been awake to see it...  That game was Aliens Vs. 
+Predator (AvP).
+  
+     It was the ultimate match-up between two of Sci fi's most deadly Extra-
+Terrestrials... The universes' greatest Hunters vs. the ultimate survivors...  
+throw in some Colonial Marines(ie: meat) and alot of bullets flying, blades 
+cutting, and tails whipping... and you have a REAL survival horror game.  
+Resident Evil has nothing on AvP, slow moving Zombies don't seems so scary when 
+compared to a half dozen Aliens coming running at you from all angles... then, 
+just as you finish the last one off  with the last of your pulse rifle's ammo, 
+you hear a laugh, but see nothing, suddenly, out of nowhere! a Predator appears, 
+and all you have is a few rounds in your shotgun... RUN!!!... oops... too 
+late.... he took you out with a well placed blast from his shoulder cannon...  
+add that feeling to a game with no music, only the eery sounds of the station 
+lightly humming in space, the air suddenly comes to life with the sounds of guns 
+blazing and Aliens screaming... play this game with the lights off.....
+----------------------------------------------------------------------
+
+
+
+
+
+--- STORYLINE ---
+     Weyland Yutani's Colonial Marine training base, Camp Golgotha recieves a 
+signal from a distress beacon on an unidentified derilect spacecraft, numerous 
+attempts at contact have failed, a towing ship is deployed and the ship is 
+docked at the Sublevel 5 airlock, and the ship is boarded  ****WARNING!!! 
+WEAPONS FIRE DETECTED!***   ***ALERT! MASSIVE WEAPONS DISCHARGE! EVACUATE! 
+ESCAPE PODS PREPPED! DISTRESS BEACON ACTIVE!***  A second unidentified craft, 
+drawn by the emergency beacon approaches the training station, Auto defense 
+systems offline in distress situation, Unidentified craft docking at airlock on 
+Sublevel 1 ***WARNING! INTRUDER ALERT!***  --- so ends the last transmissions 
+from Golgotha...
+----------------------------------------------------------------------
+
+
+
+
+--- CHARACTERS / SCENARIOS ---
+
+
+
+-THE ALIEN-
+     The ultimate survivor, capable of surviving in the most harsh of 
+conditions, the Aliens weapons are its Claws, Tail and Teeth,  moving at 
+incredible speed the Alien has the ability to strike quickly, before your 
+opponent knows what hits him, you also have free reign of the airducts.  The 
+Aliens goal is simple, The Alien Queen has been taken captive by the Predators, 
+RESCUE her.  In the Alien Scenario, you cannot heal yourself, to stay alive you 
+must cocoon marines, then wait, in time they will be infected and Aliens will 
+gestate inside, ready to burst when your current Alien dies.  Meaning the one 
+means nothing, the HIVE is what matters, save the queen, regardless of how many 
+Aliens it takes you to do so.  
+
+     The cocooning process is farely simple when you come upon a human attack 
+them by Claw attack, Tail Slash, and then clawing attack once more... after the 
+three hit combo, if effective you will see a message stating Cocooning complete.  
+You may have up to 3 cocoons active at one time.
+*WARNING* cocooned enemies do take a small amount of time to gestate, meaning if 
+you go and get yourself killed before another Alien is ready to emerge, its GAME 
+OVER... make SURE you always have at least one Alien in reserve at all times... 
+also keep in mind that when your current Alien dies, your next one will emerge 
+where the host was cocooned, meaning if you advanced up two levels to the 
+predators ship, and die, your back on sublevel 3 where your last host was 
+cocooned...   Attacking repeatedly drains strength, so vary your attacks... 
+unless you'd like your repeated tail slashes to do little to no damage...
+
+     Your mission is simple....  Rescue the Queen, the Hive MUST survive.......
+-----------------------
+
+
+
+
+-THE PREDATOR-
+     Having recieved a distress call from an Oxygen Breather's compound, a young 
+Predator has been given the perfect scenario for his rite of passage, The most 
+deadly of species have come into conflict with one of the weakest, resulting in 
+the opportunity for the perfect Hunt, here we will find a Queen! the ultimate 
+prize, her skull shall make a fine trophy!
+
+     There is much fighting here, while the Oxygen Breathers(Humans) should pose 
+little threat, the Aliens will pose much more a deadly one.  Fight with Honor 
+Young Warrior, and you shall be rewarded, Fight without honor, and you will 
+surely die. 
+
+     Essentially, this means that you must NOT kill while under the cloak of 
+invisibility, doing so reduces your honor points, killing while visible raises 
+them.  As your honor points rise new weapons will be made available to you, 
+however, as you begin, only the wristblades will be available, as you make 
+honorable kills your honor points rise and in doing so new and better weapons 
+will come available, making life MUCH easier...
+
+     The Predator, is rather slow and cannot enter airducts, but is very strong, 
+capable of withstanding tremendous punishment... and capable of dishing out just 
+as well   >=)  his ability to turn invisible will allow him to surprise and 
+attack Marines, appearing out of nowhere to slaughter them. BEWARE however, that 
+getting too close to a marine even when invisible, they will see you (I guess 
+they hear you or see that funky distortion effect) and they can hurt you bad 
+with their weaponry if they spot you... Invisibility has no effect on Aliens... 
+and they can find you visible or not... my advice, in alien infested areas... 
+just say visible.... taking the occasional hit from a human before you can kill 
+them is worth it compared to accidentally killing an alien while invisible and 
+losing a ton of honor points....
+
+     The Predator can heal himself through his medical computer, which uses 
+standard human med kits and food as raw materials for healing compresses for the 
+Predator.... using the MedComp slowly drains its raw materials reserves as it 
+heals you, so a good strategy would be to make sure your at full health, and 
+your MedComp's reserves are full before going into heavily infested areas.  
+Additionally the Predator has an Audio Waveform Analyzer, a device that detects 
+changes in the audio environment around him, meaning that it will resonate when 
+somethings moving near him.  Overlooked but very handy....
+
+     The Predator also posses several different vision filters while invisible, 
+which will look familiar to anyone who's seen the movies... even the sound 
+effect while using the invisibility or changing filters is right on with the 
+movie sounds.
+
+     So good journey Youthful Warrior, go and claim your prize....
+
+-HONOR POINT SYSTEM-
+
+     Remember... all of these weapons have unlimited ammo... but like the Alien 
+they have strength meters, using the same attack repeatedly drains it... and 
+lowers its power, and when its drained you cannot use this weapon until it 
+repleneshes itself sufficiently.
+
+WRISTBLADES- [ Available from the start] 
+Double sided, twin wristblades... short range, actually, rather strong, but 
+there range guarantees you'll be taking some damage while using them.
+[ the "+" is honorable kills  the "-" are dishonorable kills]
+  Alien         +10,000   or  -10,000
+  Marine        +5,000   or  -5,000
+  Face Hugger   +900  or  -900
+  Egg           +300  or  -300
+  Yellow Drum   +100  or  -100
+
+COMBI STICK- [ 150,000 Honor Points]
+A Pole Arm, its a spear like weapon, roughly equal attacking strength to the 
+wristblades but with slightly better range... you should be able to take out 
+most enemies with slightly less damage done to yourself...   
+[ the "+" is honorable kills  the "-" are dishonorable kills]
+  Alien         +10,000  or  -10,000
+  Marine        +5,000   or  -5,000
+  Face Hugger   +900     or  -900
+  Egg           +300     or  -300
+  Yellow Drum   +100     or  -100
+
+SMART DISKS- [ 350,000 Honor Points]
+We all remember this nasty disk weapon from the movies, capable of easily 
+slicing through any enemy, incredible range, capable of killing enemies as soon 
+as they appear in the limits of your line of sight, in my ever so humble opinion 
+the best Predator weapon in the game
+[ the "+" is honorable kills  the "-" are dishonorable kills]
+  Alien         +5,000   or  -20,000
+  Marine        +2,500   or  -10,000
+  Face Hugger   +450     or  -1,800
+  Egg           +150     or  -600
+  Yellow Drum   +50      or  -200
+
+SHOULDER CANNON- [ 750,000 Honor Points] 
+The most powerful Predator weapon, incredible raw power.  good range too, but 
+watch out if using this sucker in close quarters, the explosion from its blast 
+could easily kill you as well... if you have a nice open area though, this 
+weapon can deal some massive damage...
+[ the "+" is honorable kills  the "-" are dishonorable kills]
+  Alien         +5,000   or  -20,000
+  Marine        +2,500   or  -10,000
+  Face Hugger   +450     or  -1,800
+  Egg           +150     or  -600
+  Yellow Drum   +50      or  -200
+
+**IMPORTANT**  ...remember though, that even after attaining these weapons, 
+killing enemies while invisible (without honor) your honor points will drop, and 
+you can lose these weapons ... so stay visible while your killing... especially 
+in Alien infested areas...  even in Marine areas as long as you don't get 
+yourself surrounded.
+-----------------------
+
+
+
+
+-THE COLONIAL MARINE-
+     ... straight out of his cryogenic suspension prison sentence, this Marine 
+wakes up to find everyone slaughtered, and alone on the Golgotha Space Complex 
+with nothing but a lot of real nasty things just itching to kill him...
+
+Name-  Lewis, Lance J.
+Rank-  Private
+reason for imprisonment- Striking a Superior Officer
+
+     The Marine is slow, and takes punishment quite easily, BUT he packs some 
+high powered weaponry.  He can enter airducts as well, but these are heavily 
+infested by Aliens most of the time.  Basically what you get by picking the 
+marine is high firepower balanced out by relatively weak defenses.  The Marine's 
+scenario has by far the most in depth story throughout, as you are the sole 
+surviving marine trying to discover what happened to the entire crew during your 
+cryogenic imprisonment.  
+     The Marine has to search computer databases, and the bodies of fallen 
+comrades, for the locations of equipment, and for higher security cards to 
+access some information, and to open the hatches to higher security areas such 
+as the Armory.  Which means a LOT of searching will be required to get to all 
+the areas necessary to discover the entire story...
+     Your only goal is to get out alive... just set the complex to Self 
+Destruct, and get to an escape pod.... simple huh?
+
+MARINE WEAPONRY
+     ...remember, a Human hand to hand would be less than effective against the 
+stuff in this game, so your only chance of fighting is by weaponry, meaning if 
+you run out of ammo for all your weapons, your screwed, you cannot attack... 
+which is realistic, seeing as how I doubt an Alien or Predator would really even 
+notice a puny marine punching it.... I mean look at the guys face.... he ain't 
+no Schwartzenegger   =)    so  if you run out of ammo, run like hell and try to 
+find some before you die....  its not hard to find its laying everywhere.
+
+SHOTGUN-
+     Pump action single barreled shotgun for last ditch Proximity Fire weapon... 
+its decently effective against Aliens... 3 shots will take one down,  next to 
+useless against Predators... just run like hell...
+
+M41-A PULSE RIFLE-
+     This sucker fires 10 x 24 mm explosive-tipped caseless rounds, at a 
+extremely high fire rate... works great against Aliens, short burst will 
+splatter one nicely, decent against a Predator, but still not too effective,  be 
+careful not to fire too long, as this eats ammo relatively fast...
+
+FLAME THROWER-
+     Fire based weapon,  Decent agains aliens,  somewhat less effective against 
+Predators, all in all the M41-A is the better weapon.  Not a bad weapon but eats 
+through fuel very quickly however.
+
+SMART GUN-
+     Steady Harnessed, full assault weapon, with smart targeting system...  pure 
+and simple, once you have this gun, few things will threaten you. One shot kill 
+of Aliens, and Predators are no longer something to worry about once your 
+packing this sucker.
+
+MOTION TRACKER-
+     This device tracks anything that moves within 15 meters 360 degrees around 
+yourself VERY USEFUL...
+
+FOOD-
+     Restores roughly 10% of your health
+
+MED KIT-
+     Restores 25% of your health
+
+SECURITY CARDS-
+     Card's 1-10  - gain access to higher security areas of the complex, also in 
+the Med Lab, computers will heal you accordingly to Card clearance level
+-Card's 4, 5 and 6 allow 50% energy restoration
+-Card's 7, 8 and 9 allow 75% energy restoration
+-Card 10 allows 100% energy restoration
+----------------------------------------------------------------------
+
+
+
+
+
+--- CAMP GOLGOTHA SUB-LEVELS ---
+     ... real quick run through
+
+SUB-LEVEL 1-- Airlock containing the Predator's ship is located here and Armory
+SUB-LEVEL 2-- Medlab, Armory... 
+SUB-LEVEL 3-- Brig, Canteen, Marines starting point.... 
+SUB-LEVEL 4-- Training Maze, Armory...   HUGE area...  
+SUB-LEVEL 5-- Airlock, Alien Ship located here and Escape pod
+
+ALIEN SHIP--  Alien Queen(in Marine and Predator games)
+PREDATOR SHIP--  Alien Queen(Alien game)
+----------------------------------------------------------------------
+
+
+
+
+--- ITEM LOCATIONS ---
+
+--MARINE ITEMS-- 
+
+AMMO, FOOD and MED KITS-
+     Located in all levels in multiple locations
+
+-SECURITY CARDS-
+#01-- Sub-Level 3
+#02-- Sub-Level 3
+#03-- Sub-Level 2
+#04-- Sub-Level 4
+#05-- Sub-Level 5
+#06-- Sub-Level 4
+#07-- Sub-Level 1
+#08-- Alien Ship
+#09-- Predator Ship
+#10-- Alien Ship- Queen's room
+
+- WEAPONRY-
+
+SHOTGUN-
+     Right outside of your cell, if you can't find this one, stop playing this 
+game right now 
+
+M41-A PULSE RIFLE-
+     Multiple locations, Sub-Level's 1, 2, 3 and 4 all contain Pulse rifles... 
+but most are in sealed sections requiring either higher clearance or use of 
+airducts..
+ 
+FLAME THROWER-
+     Multiple locations, Sub-Level's 2 and 4
+
+SMART GUN-
+     Predator Ship
+
+MOTION TRACKER-
+     Sub-Level 5
+
+ESCAPE POD-
+     Sub-Level 5
+
+
+--PREDATOR ITEMS--  
+
+FOOD and MED KITS-
+     Located in all levels in multiple locations
+
+ALIEN QUEEN-
+     Alien Ship, in the Queens room    (duh =)
+
+
+--ALIEN ITEMS--
+
+HUMANS-
+     Cocooning material ( although they'd prefer not to be =)  located on all 
+levels
+
+ALIEN QUEEN-
+     Predator Ship
+----------------------------------------------------------------------
+
+
+
+--- MISCELLANEOUS ---
+
+
+-AUTOMAP FEATURE-
+
+     A very overlooked and absolutely essential feature in AvP is the automap 
+feature, which maps the current level as you go, pressing   8  on the numeric 
+pad toggles it on or off, once you leave the current level, all map features are 
+gone, so try to search each level as thoroughly as possible before moving on...
+
+
+-SAVING and LOADING-
+
+     To save your game first press pause, then option to bring up the options 
+menu, then select from one of the 3 save slots...
+
+     Saving a game records current Card Clearance, reserve aliens, ammo, health 
+and Med Comp reserves,  weapons gained... (Predators weapons will be retained 
+but his honor points will be at only the bare minimum for the current highest 
+weapon attained)
+
+***IMPORTANT***   when loading a game... enemies are all placed randomly.... so 
+if you save in a room with no enemies, and load it later, you may be stuck right 
+at the start with 3 aliens right on top of you...    When loading a game all 
+enemies, ammo and healing items are regenerated... and randomly placed...
+----------------------------------------------------------------------
+
+
+
+---HINTS---
+
+-     When using the marine, try to draw aliens out into open areas so that the 
+acid splash left behind can be avoided, instead of having to walk through it in 
+cramped corridors...
+
+-     Try to clear out and search as much of each level as possible before 
+moving on, it helps because then you keep your automap for the level and search 
+out all possible sections for ammo, health, and items...  this way you don't 
+have to repeatedly come back to the level and face regenerated enemies as 
+much...
+
+-     Try to get as many honor points as possible fighting marines, that way 
+you'll have better weapons ready by the time you reach the alien infested 
+sections of the ship...
+
+-     Try to destroy Alien Eggs quickly before a Face Hugger can emerge...  if 
+one does attach itself to you... move left and right rapidly with the joypad to 
+get it off
+
+-     Save your game in Elevators, with the door closed, no enemies can randomly 
+appear in there
+
+-     Don't be afraid to run.... its better to find healing items and live then 
+to waist ammo and die
+
+-     When using the Alien... don't use all your cocoons in one section... 
+unless you like backtracking...
+
+-     When using the Predator, if your close to attaining a new weapon... get it 
+before you save, the game only records the highest weapons bare minimum honor 
+points, which means you could lose a TON of Honor Points and have to work your 
+way up to that next level again....   so get enough honor points for that new 
+weapon before you save...
+
+-     As the Marine, backing up while firing is effective to get more room while 
+firing...  just make sure you're not backing up into a worse situation than what 
+your firing at   =)
+
+-     Don't Spray, use concentrated fire... You'll need the ammo
+
+-     Barrels explode, accidentally hitting one nearby could hurt and or kill 
+you
+----------------------------------------------------------------------
+
+
+
+---OTHER STUFF---
+(things that make ya say hmmmm?....   =)
+
+-     While Playing as the Predator, you may come across a room containing a 
+Face Hugger, an Alien Egg, an Alien, AND a Marine (or some combination of 
+such)... none of which are attacking each other, but the second you open that 
+door, they all come running for you  (well the egg hatches... an the face hugger 
+runs after ya, but you get the idea...  =)
+
+-     In the Alien and Predator scenarios, there are craploads of Marines 
+everywhere, but not ONE other to be found in the Marines game,  you'd think at 
+least one or two would have been able to hole up somewhere with all that high 
+powered weaponry.
+
+-     Pretty Amazing... Aliens can use doors, and elevators... yet can't pick up 
+that dead Marines shotgun and start firing away... tearing through doors, and 
+using airducts to change levels would have been more realistic....   ah well...  
+
+-     When you pick up a weapon, listen to the Marines voice, then look at his 
+face in the upper corner of the screen display...  doesn't quite match huh?   
+The voice would fit pretty well if the guy looked more like Curt Russell from 
+the "Escape from New York / LA" flicks... as is he looks more like Doogie Howser 
+5 years later.
+
+-     How comes you can't cocoon a Predator, if you ever read the AvP books or 
+comics... you may have seen the kind of Alien that comes out of an infected 
+Predator...  think... LARGE!  and really mean... moreso even than usual  =)
+
+-     When you acess the computers, man tell me that voice isn't dead on 
+perfect....  this game did the movies justice, in fact everything in this game 
+is dead on perfect... 
+
+-     OK... the Game rocked.... now Wheres the Alien vs. Predator movie?  =)
+----------------------------------------------------------------------
+
+
+
+
+--- SPECIAL THANKS ---
+-     Thanks to the writers of the AvP Jaguar Manual for some of the names I had 
+forgotten   =)
+
+-    Firstly, I'd like to thank Rebellion for making this fantastic game... 
+which has kept my attention for so long, and my love for this game just 
+continues to grow...  
+
+-     I'd like to thank Atari for giving us the Atari Jaguar, which is one of my 
+favorite systems... 
+
+-     Thanks to Twentieth Century Fox studios for making those cool ass 
+movies...
+
+-     Thanks to The Coca Cola company for supplying me with the necessary 
+caffeine to write this... and do all the insane item hunting   =)
+
+-     Thanks to all the rest of you Jaguar fans...
+----------------------------------------------------------------------
+
+
+................. Thats it..... Game over man...... GAME OVER!!!!
+
+

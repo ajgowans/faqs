@@ -1,0 +1,377 @@
+Attack of the Mutant Penguins
+Atari Jaguar
+Sunrise Games Ltd.
+Atari
+Original Price: 64.99
+
+FAQ written by: Jeremy Moore
+E-Mail: bird33@pa.net
+
+______________________________________________________________________
+
+Version 0.50  06/03/00   began FAQ, figured out basic outline
+Version 1.00  06/07/00   Finished up FAQ pretty much
+
+______________________________________________________________________
+
+
+
+
+LEGAL CRAP---
+
+     This FAQ is written by ME, copyrighted by ME, and owned by ME. =) All
+names are copyright either, Sunrise Games Ltd. or Atari respectively... If you
+would like to use this FAQ on your site... just e-mail me and ask... more than
+likely I'll say yes... we Jaguar fans gotta stick together =) However, in no
+way will you change this FAQ, or profit from it in anyway.
+
+______________________________________________________________________
+
+
+
+First of all, this is not a walkthrough, being nothing but a puzzle/action
+game, there are far too many variables to which way penguins may go, to how
+many gremlins your able to find, so basically what this document is, is a
+helpful had to getting started, and  understanding the game.  To give somebody
+a step for step walkthough on a puzzle game is pretty much impossible, much
+like trying to tell someone how to play Lemmings, or Worms, or tetris for that
+matter... everyone will play differently... this guide will help you understand
+your options and let you plan your own strategy for the game.
+
+______________________________________________________________________
+
+
+
+STORYLINE
+
+     "It's a fairly well known fact theat the Earth's television transmissions
+bounce around the atmosphere and off satellites positioned around the Earth's
+orbit.  Some of these signals are beamed far into space where they could,
+potentially be picked up by aliens.  What?  You don't believe in aliens?  You
+better think again.  The Earth is being threatened by something, and it's sure
+not Human...
+
+     It all started in the far off galaxy of 'Bleurgggh' (Nebula Quadrant),
+where an evil race of slimy green (but reasonably stupid) aliens were
+monitoring the Earth's transmissions.
+
+     Unfortunately for them but lucky for us, they tuned in only at a specific
+time to a specific television channel and picked up the Wildlife Show.  After
+watching a few shows, they disguised themselves as the obviously dominant
+species on Earth - the penguin.
+
+     Soon after landing on Earth they realized they had made a mistake.  It was
+unlikely that a penguin could infiltrate the human race and become President,
+so a rethink was in order.  They decided to disguise themselves yet agian, as
+humans.
+
+     So, to recap, we have slimy green aliens disguised as penguins disguised
+as humans, trying to invade the Earth.  Of course, they had to improvise a bit
+on the new disguises.  As a result, the new disguises fool nobody!
+
+     When Earth penguins found out about this slur on their integrity, they
+were not happy and now they're out to set the record straight.  Woe to any
+alien penguin who meets a good penguin.  He'll be in for a fight!
+
+     Word of the Earth's plight has also reached those champions of
+intergalactic do-goodery, Bernard and Rodney.  This dynamic duo is a legend
+throughout the known universe.  You don't mess with these boys.  Bernard is a
+demon with a frying pan, and Rodney kicks but with a baseball bat.  In case you
+haven't figured it out, Bernard doesn't cook, and Rodney can't play baseball. 
+They use their accessories in OTHER ways!" -- Storyline Text taken from the
+manual
+
+______________________________________________________________________
+
+
+BASICS
+
+     Basically, Attack of the Mutant Pengins is a puzzle/action game.  On a
+play field there is a mazelike and at the end of the area is the "Doom Scale"
+the premise here is to stop the Mutant Penguins from reaching the scale, while
+allowing the good penguins to reach it.  If at any time the ammount of Mutant
+Penguins outnumber the ammount of good penguins on the Doom Scale then the Doom
+Scale activates, and you lose, Mutant Penguins win, anarchy will reign, cats
+and dogs will live together in harmony, Pizza delivery boys will be on time,
+and in general the world will go to crap...
+
+     At the beginning of each level you will be allowed to view the entire play
+field before it begins, at first you have no weapon, your first goal is to grab
+as many "Gremlins" as you can (gremlins are the short furry little blue
+puffballs that are running about on the stage) once you have some of them, use
+them on treasure chests.  To gain your weapon you must open three chests that
+contain the three letters that spell out your weapons name (ie: to get Rodney's
+bat, you must gather the letters B, A, and T) once you have all the letters you
+can then use the weapon.  Gremlins are also used to start up penguin killing
+machinery which will help buy you some time, especially in the later levels
+where every little bit helps.  The more gremlins you use on a chest or trap,
+the faster they'll open it, or build the trap.  After they finish their work
+the Gremlins scatter, pick them up again... you can used gremlins on several
+items at once if you have enough of them.
+
+     Combat with the Penguins is simple... hitting a mutant penguin (or a good
+one for that matter) with your weapon causes the penguin to spin and be stunned
+for a short time and orbs will scatter, if you gather five orbs without
+swinging your weapon(just hit a few penguins then run around and grab all the
+orbs) your weapon will power up and will kill any penguin you hit good or bad
+(so swing carefully) for a set number of swings (usually 5) then will revert to
+your normal weapon again.  Gathering Ten orbs without swinging will cause a
+double powerup allowing for ranged attacks for a set number of attacks.
+
+     So basically, what you need to do is run like mad, gather gremlins (and
+free any good penguins if there are some behind bars by activating switches)
+use the gremlins on treasure chests, gather all your weapon letters, then start
+killing the evil penguins.  When the count number of bad penguins reaches Zero
+you win the stage (the evil Penguin Counter is in the upper left portion of the
+screen).  While making sure to let the good penguins reach the Doom Scale, and
+not letting the Mutant Penguins anywhere near it... easy huh?   yeah it is....
+for the first couple of levels anyway.   >=)
+
+
+     Special weapons can be found as well to help slow the progress of those
+evil penguins, as will activating traps, or using signs to change the direction
+the penguins travel (the aliens are stupid and go whichever way the signs
+point)  Also good penguins will help you by fighting the aliens when they come
+into contact with each other... its a sight to see when a massive group of good
+and evil penguins clash, fists(er... fins) and smoke fly  heehee!!!
+
+______________________________________________________________________
+
+
+
+CHARACTERS
+
+     There are two heroes to pick from, there are some pros or cons to which
+you pick... Bernards frying pan stuns enemies by sending them spinning and is
+easier to hip people with, and Rodney's baseball bat is a bit harder to hit
+people with, and has no real stun time.
+
+Bernard - looks sorta like a robot, or possibly looking at his red buket-esque
+head... a cheap star wars rip-off movie throwaway character.  His weapon is a
+frying pan, which stuns the enemy, Bernard is the easier character to play the
+game as.
+
+Rodney - Basically looks like a green eggplant with legs and arms.  His weapon
+is the baseball bat. In my opinion using Rodney adds a good deal more challenge
+to the game.
+
+Good Penguins - look like your average ordinary penguins, surprisingly these
+guys seem to like to scrap, and will fight with alien penguins at the drop of a
+hat =)
+
+Alien Penguins - these are Penguins dressed in different clothes.  Some are
+cowboys, Shakespearean Actors/Actresses, Indians, Romans, and Elvis
+impersonaters (HAHA)  and more.
+
+Mutant Penguins - once the alien penguins reach the Mutation Station they will
+transform into these Giant green monstrosities... the good penguins don't stand
+a chance against these fellows.
+
+The Dragon - on some stages he'll be sleeping peacefully somewhere... wake him
+up with a hit from your weapon to help fry the bad guys.
+
+
+______________________________________________________________________
+
+
+
+WEAPONS - and other instruments of destruction
+
+(remember... to power up hit an enemy and grab 5 orbs without using the weapon
+again, power up #2 hit several enemies then grab 10 orbs before swinging your
+weapon again)
+
+Baseball Bat - Rodney's weapon- the more difficult weapon to wield.
+Power Up #1  HUGE spiked bat (five uses then returns to normal)
+Power Up #2  Breathe fire (five uses then reverts to power up #1)
+
+Frying Pan - Bernards Weapon- when you hit an enemy, it sends them spinning,
+and stuns the target for a bit.
+Power Up #1  Flashing pan
+Power Up #2  Flying Frying Pan   =D
+
+*Special weapons/items* (one use items)
+
+Glue - not really a weapon, but will slow down the penguins for a short while
+
+Dynamite - heehee send on alien penguin into Orbit  =D
+
+Coins - work much like gremlins (except you use the Special weapon button to
+use them instead of the Gremlin use button)
+
+Instant builds - work like gremlins to start up deadly traps, except this
+activates the trap instantly.
+
+Samurai Power- gives 10 seconds of samurai power, slice up as many enemies as
+possible.
+
+
+TRAPS
+
+traps start off as piles of material waiting to be built, use gremlins on them
+to build them, once running, they will tear up any penguins dumb enough to walk
+into it , they're great to use when large groups of aliens are aproaching.
+
+Some machines HELP the aliens however, hangliders can take the aliens directly
+to the doom scale area, and some levels have these or teleporters, which also
+will let the penguins reach the end faster, use signs or traps to deter them
+(or chop em up) before they reach these things
+
+There are a lot of different machines to help and hinder you.
+
+Spinning blades - great trap in most stages, dices aliens quickly
+
+Spinning gloves - will spin around enemy and slow them down greatly.
+
+Steam guns - these work... but timing is hard to get right sometimes, and can
+kill good penguins, better off without it...
+
+Dragon - smack this sleeping monster with your weapon, he'll wake up and
+incinerate any aliens that wak by (to my knowledge he leaves the good penguins
+alone ie: he's never killed any of mine EVER and I've played this game WAY too
+much  =)
+
+Teleporter - deter those penguins from the teleporter, unless you want to lose
+a stage quickly
+
+Hanglider - again try to deter the penguins from reaching this
+
+Giant Drill - guess what this sucker does =)
+
+Signs - some posts can't be turned, some can be turned by flipping nearby
+switches, these are a great help when things start getting crowded early on.
+
+Juke Box - plays music duh! ( just watch those Alien Elvis impersonaters dance
+when they get near this  =D  )
+
+Mutation Station - if an alien penguin reaches this, he'll activate it, and it
+will transform him into a HUGE green monster, if these guys start reaching the
+Doom scale it will be over quickly, again try to make them detour away from
+this
+
+there are other types of traps, littered in the landscape figuring them out is
+relatively easy, remember, the only way you lose the game is to let the evil
+penguins reach the doom scale, so don't be afraid of going toe to toe with the
+enemy as soon as you have your weapon, sometimes thats the best strategy you
+can use...
+
+
+______________________________________________________________________
+
+
+PANDEMONIUM
+
+     This is a great way to get acustomed to the controls and strategies
+involved in this game, there are 4 Pandemonium stages to choose from.  In these
+stages the enemies keep coming, there is an unlimited amount of them, so you
+can't win, but they are great for training and getting good at combatting the
+evil Mutant Penguin Menace  =D
+
+______________________________________________________________________
+
+TACTICS
+
+     There are a TON of variables to this game.  Your options are unlimited,
+but the basic purpose will always be the same, stop the alien penguins.
+
+
+Tactic #1:  Frontal Assault-
+
+     This will definately get you through alot of stages (but not all). 
+Basically, you run like hell, grab some gremlins, open chests and get your
+weapon.  Then you start pounding aliens til they're all dead.  A decent
+strategy, but some levels will make you pay for ignoring the rest of the
+playfield where a second group may sneak in, or terrain and placement may be
+against you.
+
+Tactic #2:  Misdirection plays
+
+     Begin with surveying the area and getting your weapon, once the enemies
+pattern is figured out, change signs, set traps and let them walk head first
+into some spinning blades of death or a dragons fiery jaws.  This basically
+works great on levels where treasure chests are spread out and you need time to
+reach them.  only requirement is, the level needs to have signposts to change.
+
+Tactic #3:  Free for All!!!
+
+     Get your weapon as fast as possible, all the while setting traps and
+leading aliens into them with signs, release any penned up good penguins, and
+use signs to send them at the enemy, the requirement here is an alotment of
+good penguins to free... this tactic will buy you gobs of time, and usually
+will slaughter alot more aliens than it will good penguins.
+
+Tactic #4:  Follow the leader
+
+     Grab your weapon ASAP... then get as many of your good penguins to the
+doomscale as fast as possible.  then basically stand in front of the doomscale
+and let the aliens come to you, the upside to this is it takes little thought. 
+The downside is... if you get overwhelmed, it'll be game over in a hurry...
+
+Tactic #5:  Camping
+
+     Get you weapon, then fight your way up to the point where aliens appear on
+the map, and as they appear, stun then kill them... this usually works well for
+the first few stages, but when they start coming in mass groups, you'll be in
+trouble.
+
+
+     These are basic tactics, and will get you through most of the game, some
+stages will require some thought, using machines to get to certain areas fast
+and what not... you'll no doubt find a tactic of your own eventually that
+you'll stick to, but to start with any of these five should get you pretty far.
+
+______________________________________________________________________
+
+
+BONUS STAGES
+
+     After the stage is complete you will play a short mini game, depending on
+your score in these bonus stages you will start the next stage with more good
+penguins already on the doom scale (VERY helpful in later rounds)
+
+these are fairly simplistic (but FUN!!!) action sequences
+
+Bonus stage #1
+Penguin Attack:  if you've played Galaxian, Galaga, centipede or Phoenix...
+then you can play this.
+
+Bonus stage #2
+Penguin Range:  basically move cross-airs around a screen and shoot the
+penguins as they fly around
+
+Bonus stage #3
+Penguin Control:  Us catapults to launch cannon balls at penguins as they float
+by on icebergs, there are 3 different catapults, one for each of the 3
+different ranges, as a iceberg comes on screen, grab a cannon ball, load it up
+in the appropriate catapult and fire... sink as many as you can.
+
+
+______________________________________________________________________
+
+
+SPECIAL THANKS
+
+Thanks to Sunrise Games ltd. for making such an addictive game
+
+Atari for making such a great console
+
+The Coca Cola company for the caffiene intake
+
+and all you for reading it... Peace...
+
+
+
+Overview:
+
+     All in all, you'll get a ton of enjoyment out of this game.  its a great
+puzzler that you can realistically play a different way every time you ever
+play it...
+
+Its a shame this game got so little press, its incredibly addictive, and is
+definately worth being in any Jaguar owners collection.
+
+______________________________________________________________________
+
+
+................. Thats it..... Game over man...... GAME OVER!!!!
+

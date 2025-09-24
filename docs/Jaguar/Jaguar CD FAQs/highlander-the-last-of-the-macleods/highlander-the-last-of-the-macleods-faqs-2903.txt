@@ -1,0 +1,272 @@
+
+
+=====================================
+ATARI JAGUAR 64 HIGHLANDER I FAQ v1.0
+=====================================
+by <R.J.Turner@tees.ac.uk>, 27/2/96.
+
+1.0 - This is the first and rather basic version- lacks overview
+
+-----------------
+TABLE OF CONTENTS
+-----------------
+1.	Overview
+2.	Controls
+3. 	The Village
+4. 	The Canyon
+5. 	The Sewers
+6.	The City
+7.	The End
+8.	Tips/Hints
+9.	The Secret
+
+
+   --------
+1. OVERVIEW
+   --------
+   blah de blah de blah
+
+   Atari Corporation is currently planning on releasing Highlander I
+   for the PC-CDROM platform under the "Atari Interactive" PC label.
+   We can only hope that this release demonstrates the Jaguar power!
+
+
+   --------
+2. CONTROLS
+   --------
+   The controls are rather complex when you consider that Quentin is
+   capable of using bare hands, a sword, a gun, and acting in defence.
+   However, the most useful controls are listed below for the sword!
+
+   UP    - Run forwards
+   BACK	 - Back-up slowly
+   LEFT	 - Turn to the left
+   RIGHT - Turn to the right
+
+       Sword!          With Gun!
+       -----           --------
+   A - Walking Jump    Shoot backwards
+   B - Next Swipe      Shoot forwards
+   C - Jab (yes)       Shoot from hip
+
+   PAUSE - Pause and special functions- load/save from MemoryTrack
+   OPTION - Access inventory function
+
+
+   -----------
+3. THE VILLAGE
+   -----------
+Q. How do I kill the first guards around the village?
+A. With your bare hands! Try doing a low kick to knock them over.
+
+Q. How do I open the chest in one of the huts- do I need to?
+A. You can't until you go to the canyon and get the crowbar.
+   You will indeed need the contents of the chest in the sewers.
+
+Q. How do I survive when I exit via the front gate?
+A. Don't exit via the front gate! (Kill them later.)
+
+Q. How do I get through the back gate of the village?
+A. Use the STICK found in a hut to break the lock on it.
+
+Q. Where do I find a SWORD- I can't find one in the huts.
+A. You need to leave the village by the back gate for the hill. 
+
+Q. What do I do with Quentin's mother's LOCKET?
+A. No purpose known, but triggers a FMV section of the story.
+
+Q. What do I do with Clydes's little WATERWHEEL?
+A. No purpose known, but triggers a FMV section of the story.
+
+Q. Where do I find the plank which I've found I need in the canyon?
+A. When you walk past the front gate look by the fence to the left.
+
+
+   ----------
+4. THE CANYON
+   ----------
+Q. How do I get across the gap in the raised walkway on the right?
+A. You did pick up the PLANK to the left of the front gate of the
+   village didn't you?
+
+Q. How do I get past the guards at the top of the right-hand stairs?
+A. Either be quick to kill them, or run past them and kill them later.
+
+Q. How do I get across the gap in the raised walkway on the left?
+A. You did pick up the LEVER when you investigated the right side?
+
+Q. I've heard that the gas-gun is around here! Where do I find it?
+A. You will find two gas-guns. One is to the left of the entrance
+   to the turret- but watch out for the quicksand. The other is to
+   the left of the tank, although you'll lose lots of energy getting
+   it and my advice is to leave it because it is not worth energy.
+
+Q. What is the CROWBAR which I've found in the guard turret for?
+A. You will need this to get the chest back in the village open!
+
+Q. What do I do with the FLOWER which I found in the canyon?
+A. This has no purpose to your mission- but read about THE SECRET.
+
+Q. How do I get past the deadly tank blocking the main canyon?
+A. You can't I don't think- you need to bypass it through the
+   narrow side canyon. (The one with the annoying snipers!)
+
+Q. How do I get into the hidden area to the left of the tank?
+A. It is very hard to get there- sneak up the left hand side of the
+   canyon and attract the guard out- kill him this side of the rock.
+   Next run round and into the gap- trouble is although there is a
+   piece of bread and a gas gun you will still get shot and the area
+   is not really worth visiting unless there is something hidden.   
+
+Q. How do I get into the control turret outside the canyon gate?
+A. You need the key- have you already killed the gate-keeper?
+
+Q. How do I activate the control panel in the turret to open the gate?
+A. The settings of the control panel are randomized for every game.
+   When you visited the three canyon guard turrets you should have
+   noted down the colour and position of the control panel there.
+   Having moved the appropriate coloured bars to their positions,
+   move your hand off the bottom of the screen to activate control.
+
+
+   ----------
+5. THE SEWERS
+   ----------
+Q. How do I get across the gap in the rope/plank bridge to safety?
+A. You JUMP across the gaps, and you may need to run up to the gaps.
+
+Q. How do I get through the spinning blades of the fan blades?
+A. The clue is there- get through at 3 second intervals. Use the
+   STOPWATCH and you will trigger a full motion video solution.
+
+Q. How do I get through the door with the security panel outside?
+A. You will need to get the key to the door- by exploring there
+   and getting a key, then going back down to the sewers and using
+   it to open the two security doors blocking off the sewer ends.
+
+Q. How do I get through the door where the guard says "Go away".
+A. You need the guard's uniform which was in a chest in the village.
+   (You did go back from the canyon with the crowbar for that...?)
+
+Q. How do I kill the guard in the gym behind the gym netting?
+A. You didn't use all your gas gun bullets earlier on did you?
+
+
+   ----------------------
+6. CENTRAL ENERGY CHAMBER
+   ----------------------
+Q. I keep getting killed running along the side of the large pipes,
+   or I get shot several times. What do I do to avoid getting killed?
+A. Run, and jab at the guards as soon as you meet them. (Or shoot'em!)
+
+Q. How do I kill the guards in the watch towers who keep shooting me?
+A. I've heard of people who have killed one, but it's better simply
+   to run and dodge past them. Killing them requires the gas gun,
+   and you would need to stand very close and be extremely lucky.
+
+Q. What is the code for the control panel outside the security door?
+A. This is randomized each game- so I cannot tell you. To find the
+   code you need to visit all three guards rooms around the walkway.
+   One bar is green- I thought the bar at 3 was zero- but it was not!
+   Having moved the appropriate coloured bars to their positions,
+   move your hand off the bottom of the screen to activate control.
+
+Q. How do I kill the guards as I enter the large round chamber?
+A. It is a good idea to shoot one, then kill the other by sword.
+
+Q. I've reaching the Holding Cells. Do I go ahead and free the clan?
+A. You don't want much advice do you? Yes of course you do- go on...
+
+Q. I'm a sick personality. Can you kill any of the freed prisoners?
+A. Nope, not as far as I can see. I suspect there is a secret here!
+
+
+   -------
+7. THE END
+   -------
+Q. What happens at the end?
+A. You think I'm telling you everything? (You do, don't you...?)
+   Lets just say that there is good reason for a Highlander II.
+
+
+   ----------
+8. TIPS/HINTS
+   ----------
+Q. What is the biggest tip for playing Highlander I Jaguar CD?
+A. Buy a MemoryTrack (must have) and save VERY regularly. Try to 
+   save each stage under a separate slot, but keep 4+5 slots for
+   the last safe position and the current position respectively.
+
+Q. How do I kill two or more guards when I meet them?
+A. Never face more than one- back up to a narrow point where you can
+   get them one at a time in sequence, or run past them to a position
+   where you can turn and face them in the sequential manner described.
+   The doorways of the guard turrets are of particular use this way.
+
+Q. How do I kill the guards quickly using the sword only?
+A. The best technique is to jab at them, sometimes swiping too.
+
+Q. How do I avoid getting shot by the snipers I cannot kill?
+A. Run, run while carrying the sword- the gun slows you up! The
+   best thing to do is tap left/right while running. Don't weave,
+   that slows you up- you just need to -TAP- left/right gently.
+
+Q. How do I get some more ammunition for the gas gun?
+A. You don't. You get some ammunition with the guns, and that
+   is it. Do not rely on the gun. You need it really only once.
+
+Q. Do I need to make a map when I am exploring the sewer rooms?
+A. No, just remember each section is a large letter 'H' design.
+
+Q. Do I need to carry everything I find like the various orders,
+   and if I do does it slow me down, or is there a limit to them?
+A. I've never found any use for the orders- but maybe there is one!
+   There is no limit to what you carry, but it delays item selection.
+
+Q. What do you know about Highlander II and III- and their release?
+A. Regrettably nothing. The release of these titles is questionable.
+
+
+   ----------
+9. THE SECRET
+   ----------
+Q. What secrets have been found?
+A. The Temple of the Chicken God(!) is hidden in a canyon passage.
+
+   Yep, remember when you had to run through the side canyon to
+   avoid being killed by the tank- well, when you come out the 
+   far side, and Quentin starts running towards you, head over
+   to the right (left of the screen) behind a bolder and you will
+   enter a secret passageway. Progress down it, and hey presto!
+
+   Put the flower in the empty vase and you will activate the
+   teleporter in the middle of the room. You will see that the 
+   teleporter has views of various locations and when you walk
+   into one of them you will be teleported there. There is NO
+   way that has been found, however, of teleporting back to it!
+
+   When you've put the flower in the vase you may find that you
+   discover a RUBBER CHICKEN! Yes, you can wield this just like
+   the sword, and even go out of the temple and attack guards...
+
+   The temple is decorated with portraits and characatures of the
+   people involved in the Highland project. Well worth visiting!
+   (It seems exposure to Jaguar development kits is dangerous.)
+    
+
+-----------
+THE CREDITS
+-----------
+Me.			R.J.Turner@tees.ac.uk
+Ken Beeby.		Helped me after I traded my own Highlander!
+Chips (UK).		At Middlesbrough, Cleveland, UNITED KINGDOM.
+Atari Corporation.	For releasing such a brilliant CD product!
+
+
+This document originally originates from my Jaguar web site at:-
+	http://ourworld.compuserve.com/homepages/rj_turner
+Please pay this site a visit, and give me some feedback on it!
+
+---
+Fin. (I'm getting MYST next- that needs no new FAQ- very popular!)
+---

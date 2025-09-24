@@ -1,0 +1,1379 @@
+                           ---------------------
+                           THEMEPARK by Bullfrog
+                           ---------------------
+
+                    FREQUENTLY ASKED QUESTIONS LIST v0.4
+
+                       Last Update: 23 November 1995
+
+                             Maintained by:
+                    David Leadbetter <davidl@cs.uq.oz.au>
+
+                             Contributors:
+                      Peter Elfers <elfers.pad@sni.de>
+                    (author of the Transport Tycoon FAQ),
+                  Adam Williamson <adam@scss.demon.co.uk>,
+                       (maintainer of the Wolf3D FAQ),
+                 Howard Ship <hship@sinistar.cac.stratus.com>,
+                 Trevor Farrell <Trevor@farrell.demon.co.uk>,
+                     Ludvig Linton <linton@algonet.se>,
+                     Carsten Poulsen <carp@kom.auc.dk>,
+                 Brian Taylor <btaylor@pyromania.apana.org.au>,
+                   Richard Develyn <rad@cix.compulink.co.uk>,
+                  Isaac Ashdown <isaac@mashdown.demon.co.uk>,
+                            plus many others
+
+
+  NOTE: Changes since the last version are indicated by a '!' in the
+  leftmost column.
+
+
+  Introduction:
+  ------------
+
+  Welcome to a FAQ list for Themepark.
+  This file attempts to answer many frequently asked questions
+  relating to Themepark, concerned with game installation and
+  game play.
+
+  Please email any comments, suggestions or questions to the maintainer
+  at the address shown above.
+
+
+  Contents:
+  --------
+
+  0.0 Abbreviations
+  1.0 Installation FAQs
+    1.1 Versions
+    1.2 Hardware FAQs
+    1.3 Software FAQs
+  2.0 Gameplay FAQs
+    2.1 Game mechanics
+    2.2 Game simulation
+  3.0 Bugs
+  4.0 Play Reference
+    4.1 Renaming Attractions
+    4.2 Handymen Zoning
+    4.3 Signposts
+!   4.4 The Stock Market
+!   4.5 One of the little people has gotten stuck!
+!   4.6 Miscellaneous
+  5.0 Play Strategies
+  6.0 Park Design
+  7.0 Utilities
+!   7.1 Cheats
+!   7.2 Patches (sorry, none here!)
+!   7.3 Demo
+!   7.4 Other
+  8.0 Tables
+    8.1 General Info
+    8.2 Price/Profit Ratios
+! 9.0 Alternate Information Sources
+
+
+  -----------------
+  0.0 Abbreviations
+  -----------------
+
+  This section explains and abbreviations used throughout this file.
+
+  LMB - left mouse button
+  RMB - right mouse button
+
+  Each question in the FAQ sections is classified as follows:
+    Q: Question/Problem
+    A: Answer/Solution
+    R: Related Point
+
+
+  ---------------------
+  1.0 Installation FAQs
+  ---------------------
+
+  This section contains frequently asked questions related to installation
+  and configuration of Themepark.
+
+  1.1 Versions
+  ------------
+
+  Versions of ThemePark exist for the PC, MAC, and Amiga (any others?).
+  This FAQ is aimed at the PC version only.  However much of the
+  information it includes is applicable to the other versions.  This
+  section on installation is applicable to the PC version ONLY!
+  Anyone wanting to write a version of the FAQ for the other platforms
+  is free to use the info in this FAQ (I'd appreciate being contacted
+  first though).
+
+
+  1.2 Hardware FAQs
+  -----------------
+
+    Q: My mouse doesn't work
+    A: Themepark has some serious problems with many mouse drivers.
+       (The general symptom is the mouse being restricted to the
+       top half of the screen)
+       The solution that seems to work for most people is to use
+       the MOUSE.COM that comes with Windows.
+
+!   Q: Sometimes the mouse jumps around the screen.
+!   A: If your mouse driver is loaded in Mouse Systems Mode, you
+!      should find that switching to Microsoft mode for playing
+!      ThemePark will correct this problem.
+
+    Q: Problems running intro.
+    A: A lot of people with CD-ROMs and/or sound cards have trouble
+       running the intro.
+       Try using the '-o' switch, or not run the intro at all (edit
+       the Themepark batch file).
+
+    Q: No mouse on the "Enter Nickname" screen
+    A: Some people with CD-ROMs and soundcards don't get the pointer
+       on the nickname screen.  Apparently this is a memory problem,
+       and the only solution is to free up more memory (or buy some
+       more), or turn off sounds.
+
+    Q: I can't get sounds to work with my soundcard
+    A: To run low quality sounds you need to have 4M RAM
+    A: To run high quality sounds you need to have 8M RAM
+    NOTE: These are the minimum requirements.  Even if you satisfy
+         these, you may not get sounds unless you are running a minimal
+         configuration.
+
+    Q: How do I get SVGA mode to work?
+    A: Themepark uses the VESA video standard to run in high-res mode.
+       If your video card doesn't have VESA support built in, you need
+       to run a VESA TSR (usually supplied with the video card, or
+       a 3rd party util like UNIVBE - see Section 7.4).
+
+    Q: How well does ThemePark run on a 386?
+    A: If you play all your other games on a 386, chances are you'll
+       find ThemePark fine to play on a 386.  The game _does_ slow
+       down as you get more little people in the park.  One tip though,
+       if you've only got a 386, DO NOT play in SVGA mode -- this is
+       _really_ slow!
+
+
+  1.3 Software FAQs
+  -----------------
+
+    Q: Are these any patches available for the game (PC version)?
+    A: I am not aware of any patches currently available or being
+       made :-(
+
+    Q: It just won't work after installing!
+    A: If you are running EMM386, try installing without EMM386 loaded.
+
+    Q: What's the difference between the floppy and CD-ROM versions?
+    A: Both version are the same, except that with the CD-ROM version
+       you get some bonus "cut scenes" of first person views of the
+       rides.
+
+
+  -----------------
+  2.0 Gameplay FAQs
+  -----------------
+
+  This section contains frequently asked questions related to game play.
+
+  2.1 Game Mechanics FAQs
+  -----------------------
+
+  This sections deals with questions to do with building your park.
+
+    Q: I am having trouble building loops.
+    A: Loops can only be placed on a flat, straight section of
+       horizontal track.
+
+    Q: I am having trouble building cork-screws.
+    A: Cork-screws can only be placed on a flat, straight section
+       of vertical track.
+
+
+    Q: I am having trouble getting loops to work.
+    A: Someone has suggested that roller coasters must be longer than
+       a certain length before loops work.
+    A: The coaster car may not be going fast enough to reach the top
+       of the loop -- modify the track to make the car faster.
+
+    Q: I am unable to turn on the coaster.
+    A: This may be caused by not leaving enough room on the track
+       for the roller coaster to stop.
+
+    Q: The coaster never stops to let passengers on and off.
+    A: This may be caused by not leaving enough room on the track
+         for the roller coaster to stop.
+    R: The coaster will stop _twice_ if the track passes right next to
+         the ride entrance on both sides.
+
+    Q: Piece placement.
+    A: The actual placement and apparent placement of some rides
+       (especially the track ride entrances) can be very confusing.
+       Often removing a few lengths of extra track at both ends
+       will provide enough space to replace the object.
+
+    Q: Rides not being used.
+    A: Make sure you have queue lanes and the exit joined up to the
+       path.
+    A: Swap the queue path and exit around (for track rides).
+    A: People can't seem to walk across bridges that are part of a path
+       intersection -- add in a section of path between the bridge and
+       the intersection.
+
+    Q: How do you use direction signs.
+    A: Click on the attraction you wish to point to with the sign tool,
+       then place the sign where you want it.
+       Rotate the sign (if necessary) by clicking the LMB on the sign with
+       the sign tool. (see section 4.3 for further info)
+
+    Q: I can't replace a ride.
+    A: You have to demolish the old ride first.  To do this click on
+       the old ride with the RMB.  However you have to click in a certain
+       spot.  Change into "tiny" mode to see where to click.
+       Alternatively you can click on the ticket booth (for rides that
+       have one).
+    R: Demolishing the Roller Coaster or Big Dipper entry will also
+       demolish all connected track, so it's a good idea to break
+       the track manually first unless you like rebuilding the entire
+       track.
+
+    Q: Piece placement difficulties - trouble placing ride tracks,
+       rides, shops, etc...
+    A: Unfortunately this is one of the annoying bugs you will probably
+       come across eventually.
+       It may be linked to a bad game state (e.g. rides exist that need
+       repair _really_ badly).
+    A: Sometimes it just requires a few persistent clicks to place
+       objects (sometimes a LOT of clicks!).
+    A: Sometimes attempting to place objects on long grass will leave
+       short grass that can cause placement difficulties.
+       Demolishing the short grass (i.e. click with RMB) may fix the
+       problem.
+
+
+  2.2 Game Simulation FAQs
+  ------------------------
+
+  This section deals with questions to do with running your park.
+
+    Q: My game gets really slow.
+    A: The game slows down as the number of people in the park increases.
+    A: If you have a bad game state, the game might slow down
+       (e.g. rides exist that need repair _really_ badly)
+
+    A: Running in SVGA mode slows the game down.
+    A: Running at higher game speeds can slow down the game.
+       Choosing a slower game speed will increase the game response speed
+       (though game time will be slower of course).
+
+    Q: "Due to your bad park planning ... has gotten stuck".
+    A: The places people usually get stuck are in queue lines,
+       under attractions, and sometimes on the bus stop (!!)
+       Identify stuck people that are walking but stay in the same
+       place.
+       People stuck in queue lines can get freed by emptying the line
+       (e.g. turn the ride off)
+       People stuck under rides (because you built the ride on them)
+       can only be freed by destroying the ride.
+       [Anyone know how to help people that get stuck on the bus stop?]
+    A: If you can't find the stuck person (and it really bothers you),
+       empty the park of people by closing the park for a short while.
+       (see Section 4.5 for further info)
+
+    Q: Visitors get stuck in ride queues.
+    A: They should get unstuck when the queue moves, or when the queue
+       is emptied (do this by turning the ride off and on).
+
+    Q: My mechanics get stuck
+    A: Sometimes mechanics like to have lunch in comfortable places
+       they can't get out of.  When they are called to repair a ride
+       they get stuck continually answering their radio.
+       Simply pick them up with your "tweezers" and put them somewhere
+       else.
+
+    Q: My handymen get stuck in "turbo mode".
+    A: Picking them up with your "tweezers" should also fix up this
+       problem.
+
+    Q: "Your XXX ride has gotten so old you should replace it".
+    A: Unless you want the ride to blow up (leaving unmovable debris),
+       you need to locate the old ride and replace it.
+
+    Q: Black arrows over handymen.
+    A: This means that the handyman has a route assigned.
+
+    Q: Visitors don't follow queues, paths, etc...
+    A: Naughty aren't they ;-)
+
+    Q: Bikers in the park.
+    A: Bikers are attracted by two things: litter and fast rides.
+
+    Q: Everyone left my park.
+    A: Chances are you accidentally pressed 'O' and closed the park.
+
+    Q: How do I make more money?
+    A: You major income comes from two sources:
+         - shops, and
+         - the stockmarket (in simulation mode)
+       So, make sure you're shops stay stocked, and it's worth spending
+       some time getting the prices just right (see the table below for
+       some indication of price/profit ratios).
+       Learn to wheel'n'deal on the stockmarket to make a packet!
+       (see section 5.0 for further info)
+
+!   Q: How can I make the little people happy?
+!   A: Ask them what they think (LMB on a person with the query tool),
+!      and fix up any common problems.
+
+    Q: How to get the satisfaction levels up.
+    A: Turn on the fireworks display.
+    A: Have a few entertainers at the entrance to hand out umbrellas,
+       so that the little people aren't effected by the weather.
+    A: Put in more exciting rides.
+    A: Lower the gate fee.
+
+    Q: Why are so many little people wandering around hungry and thirsty
+       when I have shops everywhere?
+
+    A: The little people may not be able to find your shops.  Use
+       signposts to advertise their position.
+    A: Your prices may be way to high for the average little person.
+    A: Selling balloons, etc to the little people helps them forget
+       how hungry and thirsty they are.
+
+    Q: How do I know what prices to charge at my shops?
+    A: The best way to set the prices is to "ask" the little people.
+       Start by adjusting the prices in large steps, and watching what
+       the little people say as they go by.  If they are hungry but it's
+       too expensive they'll say so, if not, they'll buy something.
+       Once you have the price roughly right, you can spend a bit more
+       time fine tuning the price if you really want too.
+
+    Q: I have completed all the research, but I missed out on some of
+       the objects.
+    A: This is probably a bug in the game?
+
+    Q: I have completed all technology research before researching all
+       the rides.  Can you get updated versions of these rides?
+    A: Some sort of research strategy may be required here, so that
+       you can still research ride updates after you have finished
+       researching all rides?
+
+  --------
+  3.0 Bugs
+  --------
+
+  This section is intended to include a list of the bugs in Theme Park.
+  If you hit a problem, this is a useful place to check to see if you've
+  become a bug victim.
+
+  > Does anyone out there have a comprehensive list of bugs to add to these?
+
+    - Stats for your employees do not always reflect reality:
+      - The time working meter is often red (= 0% ?) for someone, even though
+        they are actually working at the time;
+      - Sometime the months employed field is not accurate.
+
+    - Demolishing some structures leaves the ground unusable (you have
+      to re-demolish each effected square to use it).
+
+    - Monorail cars can sometimes try to go in opposite directions around
+      the track (usually when the entrances have track on both sides).
+
+    - employees and little people can get stuck in silly places (employees
+      can get moved manually, sometimes nothing can unstick a little person!):
+!     - little people sometimes think they get stuck when standing in line;
+!     - little people can have rides/etc built on top of them, sometimes
+!       getting them stuck;
+!     - etc.
+
+    - plenty of mouse related glitches:
+      - path tool selected if path is under cursor when picking shops, rides,
+        scenery;
+      - placing signposts near rides often changes what the sign points
+        to rather than placing the sign;
+      - etc.
+
+!   - various screen display bugs:
+!     - any screen update when in "Tiny Mode" erases all litter/vomit from
+!       the screen (annoying when you want to scroll around the screen in
+!       tiny mode to find the vomit the little people are gacking at);
+!     - the ride speed indicator incorrectly displays the "redline" section
+!       in hi-res;
+!     - etc.
+
+
+  ------------------
+  4.0 Play Reference
+  ------------------
+
+  This section is meant to supplement the manual.
+  Any poorly described sections of the manual should be enhanced here.
+
+
+
+  4.1 Renaming Rides
+  ------------------
+
+  Park Attractions can be renamed by the player.
+  This can be done as follows:
+    1. Select the attraction you want to rename and open it's info
+       screen;
+    2. Bring up the name editing box by LMB clicking on the attraction
+       name at the top of the info screen;
+    3. Edit the attractions name;
+    4. LMB Click the "tick" button to finish.
+
+  NOTE: The "cross" button in the editing box doesn't seem to work.
+    So to leave an attractions name unchanged simply change it to
+    what it was originally.
+
+  Nice as it is to be able to do this, this can make it harder
+  when it comes to finding your rides that need replacing:
+    - the Advisors warning uses the default name anyway;
+    - all rides of the same type are renamed, not just one ride.
+
+
+  4.2 Zoning Handymen
+  -------------------
+
+  Once you get a few things set up in your park and some little people
+  wandering around, you'll quickly find rubbish (and other things)
+  on the ground spoiling your park.  You use handymen to clean the
+  mess up.  However, handymen left on their own, will quickly disappear
+  to happily mow the lawns forever, while your park turns into a waste
+  refuge!
+  To keep each handyman on track, you can use the zoning functions to
+  assign them cleaning routes.
+
+  A couple things to keep in mind with handymen zoning are:
+    - the route is a loop that passes through all control points
+      (reachable from the handyman's current position);
+    - the route can only follow the park paths and ride queues;
+    - any route that covers disjoint sections of path will only be
+      patrolled in the sections that the handyman can reach without
+      leaving the park paths (in fact when you are in the zone editing
+      mode, only those sections of the route "reachable" by the handyman
+      will be shown);
+
+  Handyman zones are assigned as follows:
+    1. Select the handyman whose zone you want to work on (place the
+       handyman on a path with the "tweezers" if necessary);
+    2. LMB click the zoning button.
+       This will toggle the handyman zoning mode.  In this mode two
+       extra buttons are available:
+         - the "erase zone" button;
+         - the "add control point" button.
+    3. Select the "add control point" button;
+    4. LMB click on the path in the places you want the zone to pass
+       through.  As new control points are added, the zone route (shown
+       with black shading) is extended to include the new control points.
+       Note: you can only have up to 8 control points in a zone.
+    5. LMB click on the zoning button when you have finished
+       assigning the zone to exit the handyman zoning mode.
+
+  Your handyman will now obediently patrol his zoned route picking up
+  the litter as he passes by.
+
+
+  4.3 Signposts
+  -------------
+
+  Signposts are useful things for guiding the little people around your
+  park. When the little people pass a signpost and see something they
+  like, they will walk in the direction the signpost points.
+
+  Each signpost can point to:
+    - 1 ride (white sign);
+    - 1 shop (red sign);
+
+    - the exit (blue sign).
+
+  Placing Signs:
+    1. Select the signpost tool;
+    2. Select the object to point to:
+       With the signpost tool:
+          - LMB click on a ride selects white sign pointing to that ride
+          - LMB click on a shop selects red sign pointing to that shop
+          - LMB click on the exit selects blue sign pointing to the exit
+    3. LMB click on the path to place the sign.  When placing a new sign,
+       the sign will be placed so that it points "towards" the selected
+       object.
+    4. Adjust the sign (if necessary) by LMB clicking on the sign with
+       the signpost tool to rotate the sign.
+       Note: clicking on an existing signpost only rotates the sign whose
+         colour matches the current colour of the signpost tool.
+
+  Note: The little people trust that the direction the sign points actually
+    points to the attraction, so make sure you orient the sign (as described
+    in step 4 above) to point in the direction the little people should walk
+    to get there.
+
+  Caution: Close signposts should generally point away from each other.
+    Close signposts that point towards each other might trap little people
+    between them who are interested in the objects of both signposts.
+    i.e.  Rather than using signposts like:
+
+           --------------
+            o=>    <=o
+           -\\-------\\--
+
+          You should use the signposts like:
+
+           --------------
+            <=o    o=>
+           ---\\---\\----
+
+
+! 4.4 The Stock Market
+! --------------------
+!
+! Success in the stock market depends on having a fundamental knowledge
+! of how it actually works.  The goal is very simple: Buy low, Sell high;
+! and you'll be making lots of money (not to mention all the dividends you
+! get in between).
+!
+! In ThemePark, the main challenge for the stock market amateur is mainly
+! how to buy any shares (that is, before you opponents do).
+! 
+! You can count on unowned company shares being available at three times:
+!   1. when the company is just started;
+!   2. when the company is doing badly;
+!   3. when the companies stock doubles.
+!
+! At any other time, you'll have to be lucky to get your hands on `good'
+! shares.  The above knowledge can be made use of in the following way:
+!
+!   1. Companies are added a few at a time for the first few years
+!      of the game.  You can take this opportunity to acquire initial
+!      shares in the companies then;
+!
+!   2. Clearly, no-one wants to own bad shares, since as their value drops,
+!      you are losing money.  However, they may not stay bad forever,
+!      and when they turn, you'll have an ideal opportunity to get some
+!      shares dirt cheap (provided you can beat you opponents to it). The
+!      hard part is knowing when they have hit rock bottom;
+!
+!   3. When stock obtains a high enough value, the existing shares are
+!      halved in value, and the number of shares is doubled.  These extra
+!      shares are initially unowned, so when this happens, it provides
+!      a great opportunity for obtaining some good shares (if you can
+!      beat you opponents to it that is).
+
+!
+! ThemePark makes things even simpler, since the major financial changes
+! are performed at the end of each month.  So to `wheel and deal' on the
+! stock market, you need only check the share prices once at the start of
+! each month, and can spend the rest of your time running your park.
+
+
+! 4.5 One of the little people has gotten stuck!
+! ----------------------------------------------
+!
+!   "Through your bad park planning one of the little people has
+!    got stuck, find out where and help them"
+!
+! When the advisor tells you this, you know you are in for a long game
+! of hide and seek, which you may never win.  However, the following
+! method should improve your rate of success.
+!
+! The first thing to know is all the common places the little people do
+! get stuck.  So here's a few:
+!   - in ride queues;
+!   - under rides;
+!   - between the scenery;
+!   - amongst ride tracks.
+!
+! Next, we want to make sure that we do not spend numerous minutes searching
+! the park for someone who simply freaked out when they found themself
+! helplessly trapped in a ride queue, only to be freed moments later when
+! the queue moved, so it doesn't hurt to wait for a few minutes to see if
+! the advisor continues to insist that someone truly does need help.
+!
+! If it seems that someone actually did manage to get themself stuck, you
+! need to make a careful sweep of the entire park in an attempt to find
+! them.
+!
+! On the first sweep, switch to tiny mode, and look for people trapped
+! under the park attractions.  Unfortunately the only way to get these
+! peeps unstuck is to destroy the ride, wait for them to walk clear, and
+! rebuild the ride in it's original position.  Most often people get
+! stuck in this way when rides are carelessly placed on wandering peeps.
+!
+! If the first sweep does not produce the trapped person, be prepared to
+! take a more careful sweep of all the rest of the park.  Again, it is
+! often best to use tiny mode, so that attractions do not obscure the
+! poor little lost soul.  Basically you just need to keep your eye open
+! for a person that is walking quite frantically without going anywhere,
+! and hope for the best.
+!
+! Once you find the trapped person attempt to rescue them.  Depending on
+! where they are stuck, you can try one or more of the following:
+!   - turn off the ride so the queue files out
+!   - remove the entrapping obstacles to let them get out.
+! If you are _really_ unlucky, someone may get stuck where they cannot be
+! freed from, such as getting stuck atop the bus stop!
+!
+! If at this stage you just cannot locate the unfortunate person, closing
+! your park is one last desperate measure you can take to find them.
+! Hopefully, once the crowd has thinned out enough, it should be a simple
+! matter to locate the trapped person.
+
+
+! 4.6 Miscellaneous
+! -----------------
+!
+! Cleaning up after the little people:
+! -----------------------------------
+!
+!   One thing that is bound to make a lot of little people unhappy fast,
+!   is lots of litter lying about the park.  For normal litter, just 
+!   assign enough handymen to you park paths to keep things clean, and
+!   forget about it.
+
+!
+!   However, the sound of little people puking (and the accompanying
+!   complaining) are an emergency that need immediate attention.
+!   Grab the nearest idle handyman (be careful not to mess up handymen
+!   with assigned routes), and clean up the mess before it spreads.
+!   The best way to find the mess is to switch into tiny mode, since
+!   all rubbish stays normal size.  This should make the large vomit
+!   spots relatively easy to find.
+!
+!   NOTE: due to the display update bug (see 3.0) that erases all rubbish
+!   in tiny mode, make sure you only scroll the view in normal mode.
+
+! Quick Save/Load
+! ---------------
+!
+! In addition to being used to save the current game stated when you exit
+! the game, the `continue game' can also be used as a `Quick Save' game
+! while you are playing.
+! Use the following keys:
+!   ALT-S   to save the game
+!   ALT-L   to load the last save point
+!
+! This may be useful for performing `experiments' with your park, without
+! having to go through the slightly more tedious menu save and menu load
+! process.
+
+  > What other bits do people think need explaining?
+
+
+  -------------------
+  5.0 Play Strategies
+  -------------------
+
+  This section contains a few game strategies.
+  If you are having trouble doing well in the game following one of these
+  strategies may prove beneficial.
+
+  NOTE: Some of these strategies are included WITHOUT permission of the
+  person who posted the strategy.  Credit has been given wherever possible.
+
+
+! Strategy 0: Quick Tips:
+! -----------
+
+! Here are a few quick tips to keep in mind.  These are generally reflected
+! by the strategies outlined below.
+
+!   1. Listen to the advisor
+!     - the only things he tells you should be obvious things you either
+!       overlooked or forget!
+
+!   2. Listen to the little people
+!     - spend some time surveying customers to fine tune your prices:
+!       - extra sales may provide more income than extra profit;
+!       - extra sales means faster usage of stocks (== more money);
+!       - keep the little people happier.
+
+!   3. Keep your warehouse stocked
+!     a) Any time your warehouse runs out of stock you lose money!
+!       - do not over stress you stock capacity, only have as many
+!         shops as you can continuously supply (you'll hurt your ratings)
+!       - upgrade your warehouse ASAP so you can add more shops
+!     b) If you don't need to re-order the moment stock arrives, or
+!        Each order is not a full order, you don't have enough shops!
+
+!   4. Prizes are valuable income (especially early on)
+!     - try to keep your ratings good
+!     - a single excellent rating is better money than all average ratings!
+!        Excellent = $10,000
+!        Good      = $ 5,000
+!        Average,
+!        Poor, Bad = $     0
+
+!   5. Rides justify gate prices, shops and sideshows make extra money
+!     - make sure you maintain a profitable ratio of rides:shops:sideshows
+!       One drink; food; sideshow per ride is quite reasonable;
+!     - each time you add an extra ride, your admission price can be
+!       increased.
+
+
+!   6. Park employees get paid whether they work or not, so only hire
+!      handymen, mechanics and guards as they are needed, and keep shifting
+!      your entertainers to where they are needed (so they earn their pay,
+!      and make the little people happy).
+
+
+  Strategy 1: Beginners Tips
+  -----------
+
+  This strategy was described by:
+    Mike Wallis <mike.wallis@3do.com>
+
+    1. Make sure you listen to your advisor -- especially when he talks
+       about the admission prices.
+    2. When just starting out, don't open your park until you've laid out a
+       few rides, bathrooms, food and drink stands, and merchandise shops.
+       You don't want your first guests to enter a park that has been poorly
+       laid out, because they'll be dissatisfied and word of mouth will hurt
+       future attendance levels.
+    3. Research the following first:
+       1) ride upgrades;
+       2) ride technology;
+       3) shops/attractions/games.
+
+       1) The ride upgrades will allow higher guest capacities, as well as
+          more reliability.
+       2) The ride technology will, obviously, give you access to better and
+          more exciting rides.
+       3) The shops/games will give you a wider selection of food/drink,
+          merchandise, and game units to place.  These will generate profits
+          for you.
+    4. Don't pump too much money into research, as the research expenses are
+       incurred PER MONTH.
+
+    One important thing to note is that admission prices alone will not
+    provide enough revenue for your park to operate.  That's where
+    food/merchandise/game units come into the picture.  Combined with front
+    gate admission prices, the revenue that food/merchandise/game units
+    generate should bring your park into the black...
+
+
+  Strategy 2: General Method
+  -----------
+
+  This general strategy was described by:
+    Edward Kenworthy <ekenworthy@cix.compulink.co.uk>
+
+    I've had no problems - I've never had to take out a loan even.
+    (This is playing in full sim, medium hard).
+
+    My strategy:
+
+    1) Build all the rides that are available ASAP.
+       (build good rides two times and really good rides three times if you
+       can afford it)
+    2) Build shops, but not too many if it's not a rich country.
+    3) ALWAYS increase the price of the things your shops sell by 20-50% of
+       the default.
+    4) Research the maximum possible, spread between all areas, but
+       particularly the new rides and better rides.
+    5) When you have enough money, buy all your own shares - and then as
+       many of the others as you can afford.
+    6) Hire a mechanic when you find rides breaking down - and no sooner -
+       and hire an extra one each time you find rides breaking down and all
+       the mechanics are busy.
+    7) Hire cleaners as soon as rubbish appears (and assign them cleaning
+       routes).
+    8) When you build toilets hire a cleaner just to clean them - nothing
+       clears the park quicker than chain vomiting ! (By the way the number
+       of people in the park bears little relation to the number of little
+       people running around it ! - you have to look at the graphs for the
+
+       true picture!)
+    9) Hire a *few* entertainers.
+
+    The general rule is, don't buy anything or hire anyone unless you need
+    them. And don't forget to keep the warehouse stocked.
+
+  Additions described by:
+    Brad Bishop <bbishop@austin.ibm.com>
+
+    I have also found that if your workers strike (and, I don't particularly
+    care for unions, myself) you can click on the worker and then (for lack
+    of a better term) user the 'pinchers' to pick them up off the picket
+    like and set them back to work. Seems to work, they seem to happily go
+    about their chores. I don't know how this affects the rest of the game,
+    though.
+
+    One thing I would change from the recommendations above... Don't just
+    buy as much stock as you possibly can. You can build up quite a bit of
+    cash by buying low and selling high rather than just buying everything.
+    I have found that sometimes other parks stock will slip below 100/share
+    so that it costs you virtually nothing to buy all of their stock.
+    Usually, the next year that same stock is worth over 10,000/share so
+    that you make quite a nice little profit.
+    One other thing, make sure that your concessions are constantly stocked,
+    the majority of the cash you will make will not be from tickets but from
+    Ice Cream, Soda, Fries, Toys, Balloons, etc... This is where the cash
+    flow is for your park.
+    Once you have everything stabilized (at least for me) your park will make
+    you a little money but most of your cash will come from the stock market
+    (relatively speaking - what I mean is that your park will do fine on its
+    own once you really have it going, and will supply you with a nice income,
+    but there is a lot of money to be made with stocks).
+
+
+  Strategy 3: Satisfying The Masses
+  -----------
+
+  This strategy was described by:
+    Adam Williamson <adam@scss.demon.co.uk>
+
+    1. First of all, hire mechanics.
+       When a ride breaks down, don't wait for a mechanic, TELL him to fix
+       it (you do this by questioning him, clicking the spanner, and clicking
+       on the ride you want him to fix).
+    2. Build LOADS of shops, and KEEP THEM STOCKED.
+    3. Put trees down next to every bit of path.
+    4. Have firework displays (press F).
+    5. Hire lots of entertainers.
+    6. Every time you build a ride, put your ticket prices up, because people
+       don't PAY to get on rides -- their only function is to make people pay
+       more to come in.
+    7. Buy yourself out on the stock market straight away - you don't want to
+       be taken over.
+
+
+  Strategy 4: The Tech Advantage
+  -----------
+
+  This strategy was described by:
+    Howard Ship <hship@sinistar.cac.stratus.com>
+
+    Build a park and develop it to death.  Optimize for profit.  Crowd
+    the rides in.  Don't care about esthetics.  Eventually, you will be
+    rolling in money (example:  500 people in park, gate fee of *zero*,
+    income around 90K a month).  Build up 5 or 6 million this way, then
+    sell the park.  By this time, you will be number 1 in 4 or 5 areas.
+
+
+    When you sell the park, it resets you and your competition.  Use that
+    incredible cash to maximize your research.  You will be able to
+    crank out and setup an amazing park well before the competition.  On
+    your second park, layout things more carefully.
+
+
+  Strategy 5: Something different
+  -----------
+
+  This short strategy was described by:
+    Peter Elfers <elfers.pad@sni.de>
+
+    As an alternative to developing your park year after year, a different
+    approach is to develop a park just to sell it (if you can) at the end
+    of the year.  There is an auction where you can wait until the price
+    is very high, then use that money to build a new park (even in the
+    same country).
+
+
+  ---------------
+  6.0 Park Design
+  ---------------
+
+  This section is intended to provide some opinions on useful park designs.
+  Your themepark can be designed with a number of factors in mind.
+  Things you may want to consider in designing the park layout:
+    - park aesthetics (i.e. making it nice to look at - both for the
+      player and the little people)
+    - clutter control (i.e. keeping the rides nicely spaced out)
+    - crowd control (i.e. getting the little people distributed around the
+      park)
+    - facility layout (i.e. what facilities work best grouped together)
+    - host climate (i.e. the conditions: climatic and financial, of the
+      country your park is in
+
+
+  6.1 Park Aesthetics
+  ------------------
+
+  In the PC version you can use the nickname "DEMO" when starting Theme Park
+! to check out a demo park.  The demo park is built into the game, so to
+! see it, choose "Continue Park" after you enter the nickname "DEMO".
+!
+! Here are a few simple things you usually want to do in order to make your
+! park more aesthetically pleasing to the little people:
+!   - place trees/fences along the path ways;
+!   - keep the litter levels low.
+
+
+  6.2 Clutter Control
+  -------------------
+
+! For non-experts, you may want to keep you park fairly spaced out.
+! Keeping plenty of space around your attractions will provide many
+! benefits, including the following:
+!   - extra space for reorganizing attractions without rebuilding the
+!     entire park (especially when you want to fit in a new ride after
+!     one blows up!);
+!   - extra space for doing minor modifications such as:
+!     - adding in extra path between attractions;
+!     - rearranging (or extending) you ride queues;
+!   - extra space for laying down non-elevated ride tracks that zig-zag
+!     about the park;
+!   - ample clearance for placing and adjusting signposts, so that nearby
+!     rides do not interfere with the process.
+
+
+  6.3 Crowd Control
+  -----------------
+
+  Here are a few ideas for spreading out the crowd in the park:
+    - use arrows on the path to lead the crowd to the inner park
+      (where the better rides are -- right?)
+!   - position the ride entrances and exits (where possible) to
+!     channel the crowd about the park.  In general at least place the
+!     entrance and exit on different sides of the ride
+    - use a wide entrance area to avoid congestion at the park entrance
+
+
+
+  6.4 Facility Layout
+  -------------------
+
+! As a general rule, mixing the rides, shops, and sideshows all together
+! is a much better practise than grouping these things together.
+! Here are some more specific (yet obvious) suggestions for grouping
+! facilities:
+!   - place a food stall with a beverage stall (and vice versa).
+!     If you use appropriate combinations, you can use one to boost sales
+!     at the other (for example, selling _salty_ fries right next to a
+!     cola stand);
+!   - place the more expensive shops near the more exciting attractions.
+!     When the excited little people leave the ride, they are more likely
+!     to pay a higher price.
+
+
+  6.5 Host Climate
+  ----------------
+
+
+  6.6 Interesting Things To Try
+  -----------------------------
+
+  Here's some interesting ideas to try that you may not have considered
+  before:
+
+  RIDE CHAINS:
+    - build a roller coaster "chain":
+      i.e. an entrance ... some track ... another entrance ... more track ...
+      ... more track ... the first entrance.
+    - do the same with the bumper cars, or the tube ride (the mono rail's
+      not the only way to get around the park ;-) ).
+
+  STREET FAIR:
+    - Use the grassy area out the front of your ThemePark to create a
+      street fair!  Sure, it's only 3 squares wide, but you have a decent
+      selection of shops and scenery that will fit in that, and if you're
+      tricky, you can even manage to fit in some of the track rides!
+      (see the table on space requirements for clues on what things you
+      can use in your "street fair").
+
+
+  -------------
+  7.0 Utilities
+  -------------
+
+  This section covers any utilities for use with Themepark.
+  It includes cheats, patches, and demos.
+
+  7.1 Theme Park Cheats
+  ---------------------
+
+  BuiltIn Cheats:
+
+    ThemePark has a built in cheat player that you can use to try out
+    all the ride, shops, and scenery.  To access this cheat player,
+    choose to start a new Themepark, and use the nickname "HORZA".
+    (Make sure you have "First game" set to "NO".)
+    While you are making your park, the following cheat keys are
+    available:
+
+      C        - gives you $50,000
+      ALT-Z    - gives you ALL rides
+      CTRL-Z   - gives you ALL shops
+      LSHIFT-Z - gives you ALL scenery
+
+!   NOTE: Once enabled the cheat mode cannot be disabled, so to get
+!   the above cheat functions in your own parks, simply start or continue
+!   a park as HORZA, exit to the main menu screen, start a new park,
+!   changing the nickname to your own nickname, then load the game you want,
+!   and presto, cheat keys are enabled in your park! :-)
+
+  Third Party Cheats:
+!   A money cheat for ThemePark can be found at the following site:
+!
+!     <URL: http://happypuppy.com/games/avatarx/cheats/tparkcht.zip>
+!
+!   The cheat is quite small (only an 8Kb ZIP file) and can be applied
+!   to any of the ThemePark save games to boost the available cash to
+!   $500 million!
+
+
+  7.2 Patches
+  -----------
+
+! Sadly, there is currently no patch for ThemePark, despite how badly it
+! it needed to fix up the numerous bugs.  Worse still, it has been said
+! that there is no plan, nor intent, to ever make a patch.
+
+!
+! There _is_ a ThemePark archive in the patches section of the Games Domain
+! WWW site, however, it contains only files that are identical to the
+! original ThemePark files.
+!
+! Anyone wanting to check this out for themselves can find this file at:
+!
+! <URL: http://www.gamesdomain.co.uk/patches/themeprk.html>
+
+
+  7.3 Theme Park Demo
+  -------------------
+
+  Builtin Demo:
+  -------------
+
+  ThemePark has a built in DEMO player.  Use the nickname `DEMO' and
+  continue the game to see the builtin demo park in the PC version.
+
+
+! Playable Demo:
+! --------------
+!
+! A playable demo of Theme Park does exist.  Links to a number of sites the
+! demo can be downloaded from are on:
+!
+!   <URL: http://www.gamesdomain.co.uk/lordsoth/theme.pa.html>
+!
+! The demo is a 1.31Mb ZIP file.
+!
+! Here's a brief overview of what you can do with the demo:
+!   - 3 year playing time (after which you get dropped to DOS);
+!   - brief introductory tutorial from the advisor (which MUST be done,
+!     since you cannot scroll the screen until you finish it);
+!   - Sandbox play mode only: the research, stock and shares screens
+!     aren't implemented;
+!   - SoundBlaster FM music support only;
+!   - No digital sound support;
+!   - The following `cheat' keys are available in the demo:
+!       C - add $50,000
+!       T - cycle through weather conditions
+!       Y - perform end of year evaluation (and give out awards)
+!   - The following usual keys are also available: (this is not exhaustive)
+!       F - toggle the fireworks display
+!       R - toggle between hi-res and lo-res modes (hi-res requires VESA)
+!       O - open/close the park
+!   - limited set of attractions provided
+!       - rides:
+!           - Bouncy Castle
+!           - Tree House
+!           - Merry-Go-Round
+!           - Ghost House
+!       - shops:
+!           - Mr Whippy Ices
+!           - Balloon World
+!           + Big Time Fries
+!       - scenery
+!           - Apple Tree
+!           - Rose Bush
+!           - Outhouse
+!           - Lake
+!
+! Note: Additional attractions made available through research during the
+! allowed playing period may vary.  I've only seen Big Time Fries researched
+! though, and invoking the other cheat functions to enable all rides, shops,
+! and scenery causes the game to crash when the selection screen/window
+! for these are opened.
+  
+
+  7.4 Other
+  ---------
+
+    VESA TSRs:
+    ----------
+
+    If you don't have a VESA TSR for your video card there are plenty
+    available by ftp.  SciTech Software's UNIVBE is an outstanding VESA TSR
+    product available as unimpaired shareware.  Not only does it support
+    the majority of video cards, but it often offers speed increases over
+    the manufacturers VESA support (including built in VESA support)!
+
+    UNIVBE is available at you nearest SimTel mirror:
+
+    e.g. <URL: ftp://ftp.coast.net/SimTel/msdos/graphics/univbe51.zip>
+
+
+  ----------
+  8.0 Tables
+  ----------
+
+  This section includes some tables with various useful bits of info.
+  > Any suggestions on the contents of this sections are welcomed.
+
+  8.1 General Info
+  ----------------
+
+
+  These tables list some basic (but useful) info on Rides, Shops, and
+  Scenery.
+
+
+  RIDES
+
+  +-----------------+-----+-------+-----+-----+-----+-----------+------------+
+  |                 |     |       |     |     | Capa|           |            |
+  |Name             | Area| Extra | Full| Type| city| Excitement| Reliability|
+  +-----------------+-----+-------+-----+-----+-----+-----------+------------+
+  |Race Car Ride    | 2x1 | Track | Y   | GT  | 25  | Very Good | Quite Good |
+  |Rubber Tubing    | 2x1 | Track | Y   | GT  | 25  | Excellent | Quite Good |
+  |Big Dipper       | 5x1 | Track | N   | RT  | 4   | Superb    | Okay       |
+  |Monorail         | 5x2 | Track | N   | RT  | 2   | Bad       | Top Notch  |
+  |Roller Coaster   | 5x2 | Track | N   | RT  | 4   | Top Notch | Okay       |
+  |Loop The Loop    | 5x1 | -     | Y   | TE  | 0   | Top Notch | Okay       |
+  |Water Splash     | 5x1 | -     | Y   | TE  | 0   | Superb    | Okay       |
+  |Cork Screw       | 1x6 | -     | Y   | TE  | 0   | Excellent | Okay       |
+  |Big Wheel        | 4x4 | Ent   | Y   | SR  | 6   | Good      | Excellent  |
+  |Bouncy Castle    | 4x4 | Ent   | Y   | SR  | 4   | Okay      | Very Bad   |
+  |Flight Sim       | 4x4 | Ent   | Y   | SR  | 5   | Superb    | Poor       |
+  |Ghost House      | 4x4 | Ent   | Y   | SR  | 5   | Okay      | Very Good  |
+  |Haunted House    | 4x4 | Ent   | Y   | SR  | 14  | Excellent | Very Good  |
+  |Maze             | 4x4 | Ent/  | Y   | SR  | 16  | Very Bad  | Very Good  |
+  |                 |     | Exit (1)    |     |     |           |            |
+  |Merry-Go-Round   | 4x4 | Ent   | Y   | SR  | 4   | Bad       | Poor       |
+  |Observation Tower| 4x4 | Ent   | Y   | SR  | 20  | Bad       | Okay       |
+  |Observatory      | 4x4 | Ent   | Y   | SR  | 30  | Okay      | Superb     |
+  |Parasol Chairs   | 4x4 | Ent   | Y   | SR  | 6   | Quite Good| Poor       |
+  |Pirate Boat      | 4x4 | Ent   | Y   | SR  | 8   | Excellent | Very Good  |
+  |Plane Flyer      | 4x4 | Ent   | Y   | SR  | 4   | Quite Good| Very Good  |
+  |Planet Rocket    | 4x4 | Ent   | Y   | SR  | 10  | Bad       | Poor       |
+  |Snakes & Ladders | 4x4 | Ent   | Y   | SR  | 1   | Poor      | Very Bad   |
+  |Space Shuttle    | 4x4 | Ent   | Y   | SR  | 6   | Very Good | Very Good  |
+  |Super Spinner    | 4x4 | Ent   | Y   | SR  | 20  | Quite Good| Very Good  |
+  |Tree House       | 4x4 | Ent   | Y   | SR  | 1   | Poor      | Very Good  |
+  |Clown Acts       | 6x5 | - }   | N   | LS  | 24  | Okay      | Superb     |
+  |Cowboy Acts      | 6x5 | - }(2)| N   | LS  | 24  | Good      | Superb     |
+  |Dolphin Acts     | 6x5 | - }   | N   | LS  | 24  | Quite Good| Superb     |
+  |Medieval Acts    | 6x5 | - }   | N   | LS  | 24  | Very Good | Superb     |
+  +-----------------+-----+-------+-----+-----+-----+-----------+------------+
+
+
+  SHOPS
+
+  +-----------------+-----+-----+----------+---------------+
+  |Name             | Area| Full| Type     |  Addictiveness|
+  +-----------------+-----+-----+----------+---------------+
+  |Balloon World    | 5x2 |  N  | Toy      |  -            |
+  |Coffee Shop      | 3x3 |  Y  | Drink    |  -            |
+
+  |Coconut Shy      | 3x2 |  Y  | Sideshow |  Very Good    |
+  |Duck Shoot       | 3x2 |  Y  | Sideshow |  Poor         |
+  |Gunshoot         | 3x2 |  Y  | Sideshow |  Quite Good   |
+  |Mr Whippy Ices   | 3x2 |  Y  | Sweet    |  -            |
+  |Novelty Shop     | 3x2 |  Y  | Novelty  |  -            |
+  |Saloon           | 3x2 |  Y  | Drink    |  -            |
+  |Tincan Alley     | 3x2 |  Y  | Sideshow |  Good         |
+  |Arcade           | 3x1 |  Y  | Sideshow |  Top Notch    |
+  |Big Time Fries   | 3x1 |  Y  | Fast Food|  -            |
+  |Big Time Burger  | 3x1 |  Y  | Fast Food|  -            |
+  |Gift Shop        | 3x1 |  Y  | Gift     |  -            |
+  |Pokey Cola       | 3x1 |  Y  | Drink    |  -            |
+  |Race Track       | 3x1 |  Y  | Sideshow |  Very Good    |
+  |Steak Restaurant | 3x1 |  Y  | Savory   |  -            |
+  |Toyland          | 3x1 |  Y  | Toy      |  -            |
+  +-----------------+-----+-----+----------+---------------+
+
+
+  SCENERY
+
+  +-----------------+-----+-----+
+  |Name             | Area| Type|
+  +-----------------+-----+-----+
+  |Lamp Post        | 1x1 | O   |
+  |Tree Stump Fence | 1x1 | F   |
+  |Birch Tree       | 1x1 | P   |
+  |White Fence      | 1x1 | F   |
+  |Castle Wall      | 1x1 | F   |
+  |Orange Tree      | 1x1 | P   |
+  |Apple Tree       | 1x1 | P   |
+  |Privet Hedge     | 1x1 | F   |
+  |Rose Bush        | 1x1 | P   |
+  |Tropical Bush    | 1x1 | P   |
+  |Weeping Tree     | 1x1 | P   |
+  |Palm Tree        | 1x1 | P   |
+  |Oak Tree         | 1x1 | P   |
+  |Spooky Tree      | 1x1 | P   |
+  |Outhouse         | 1x1 | T   |
+  |Boggy Crapper    | 1x1 | T   |
+  |Lake             | 3x3 | W   | (3)
+  |Super Toilet     | 1x1 | T   |
+  |Centre Fountain  | 3x2 | W   |
+  +-----------------+-----+-----+
+
+  Table Key:
+
+  Area - the minimum bounding area required to build the object
+  Extra - (Rides only) Addition Space outside the minimum bounding area
+    required for:
+    Track - the rides track
+    Ent   - the rides entrance
+    Exit  - the rides exit
+  Full - (Rides and Shops) indicates whether or not the minimum bounding
+    area is filled by the object.
+  Ride Type: (4)
+    RT - raised track (i.e. Paths can be placed underneath)
+    GT - ground track (i.e. Require dedicated space)
+    TE - track extras (i.e. require flat, straight track to go on)
+    LS - live show
+    SR - standard ride
+  Capacity - (Rides only) The ride capacity (or for raised track rides, the
+    capacity per car on the ride).</pre><pre id="faqspan-2">
+  Excitement - (Rides only) The ride excitement level.
+  Reliability - (Rides only) The rides reliability.
+  Shop Type - (Shops only) (5)
+    For Refreshment shops - the food type sold
+    For Souvenir shops - the object sold
+    For Sideshows, the addictiveness is additionally recorded.
+  Addictiveness - (Sideshows only) How addictive the side show is.
+  Scenery Type:
+    P - plant/tree
+    F - fence
+    W - water feature
+    T - toilet/latrine
+    O - other
+
+  Notes:
+!   (1) All of the live action shows (....) have restricted/fixed positions
+!       for the entrance booth and exit stairs.  The placement positions
+!       of these are within the bounding area of the ride, the remainder of
+
+!       which is typically filled with ride queues.  
+
+!   (2) Rides with totally fixed positions for the entrance and exit outside
+!       of the bounding area of the ride (i.e. Maze), will `reclaim' this
+!       space from various existing uses, such as pathways, etc, without
+!       requesting permission.  This is useful to keep in mind to save some
+!       minor pain when placing these rides.
+        
+    (3) A Lake piece must be placed in a 3x3 area, but can be reduced
+        to take up only a 2x2 area (and can of course be made much larger)
+
+    (4) All track ride entrances can be oriented in four ways:
+          facing down ("normal"),
+          facing up,
+          facing left, or
+          facing right.
+        The area required to place the ride entrance varies according to
+        the orientation of the entrance (raised track ride entrances are
+        manually oriented, ground track rides are automatically oriented).
+
+    (5) For shops, it is possible to reclaim the area under the shop for
+        other objects (except the square directly under the shop -- see
+        this in tiny mode).
+        You can reclaim this area by erasing the ground under the shop
+        (i.e. RMB click on the square).
+        This will change the grass from short "used" grass to normal
+        "usable" grass. You can also do the same to the square directly
+        under the shop (just click "No" when it prompts you to confirm the
+        delete operation), but the only thing you can put down is a path.
+        In this was you can pack MUCH more into your park if you really
+        want to (you effectively reduce the space requirements for each
+        shop to a single square!).  It looks pretty messy however.
+
+
+  8.2 Price/Profit Ratios
+  -----------------------
+
+  These tables (provided by Trevor Farrell <Trevor@farrell.demon.co.uk>),
+  are the results of an experiment that aim at determining the optimal
+  sales margin for various shops.
+  Tables are included only for "Big Time Fries" and "Balloon World".
+  (Tables for other shops will gladly be accepted from anyone wanting
+  to conduct their own experiments.)
+
+  Trevor explains:
+
+    The results were obtained by saving a setup, setting a price, running
+    the sim for a predetermined time and noting sales, reverting to the
+    saved setup, adjusting the prices, etc...
+
+    It is clear from the limited data so far that the margins are very
+    different for different products, but there was good correlation for
+    the results presented. They seem repeatable and consistent.
+
+    My conclusion is that the initial computer suggested mark ups are way
+    too low for most products.
+
+
+  +---------------------------------------------------+
+  | Big Time Fries:                                   |
+  |                                                   |
+  |   Buying at: 35                                   |
+  |   Computer suggested mark up: 45                  |
+  |                                                   |
+  +---------+--------------+--------+-------+---------+
+  |   Price | Contribution | Margin | Sales | Profit  |
+  +---------+--------------+--------+-------+---------+
+
+  |    45   |  10          |  29%   |  36   |  360    |
+  |    50   |  15          |  43%   |  30   |  450    |
+  |    52   |  17          |  49%   |  25   |  425    |
+  |    54   |  19          |  54%   |  20   |  380    |
+  |    55   |  20          |  57%   |  28   |  560    |
+  |    56   |  21          |  60%   |  20   |  420    |
+  |    58   |  23          |  66%   |  19   |  437    |
+  |    60   |  25          |  71%   |  10   |  250    |
+  |    65   |  30          |  86%   |  10   |  300    |
+  |    75   |  40          |  114%  |  4    |  160    |
+  |    85   |  50          |  143%  |  0    |  0      |
+  +---------+--------------+--------+-------+---------+
+
+  +---------------------------------------------------+
+  | Balloon World                                     |
+  |                                                   |
+  |   Buying at: 10                                   |
+  |   Computer suggested mark up: 12                  |
+  |                                                   |
+  +---------+--------------+--------+-------+---------+
+  |   Price | Contribution | Margin | Sales | Profit  |
+  +---------+--------------+--------+-------+---------+
+  |    10   |  0           |  0%    |  29   |  0      |
+  |    12   |  2           |  20%   |  26   |  52     |
+  |    14   |  4           |  40%   |  27   |  108    |
+  |    16   |  6           |  60%   |  23   |  138    |
+  |    18   |  8           |  80%   |  24   |  192    |
+  |    20   |  10          |  100%  |  21   |  210    |
+  |    22   |  12          |  120%  |  21   |  252    |
+  |    30   |  20          |  200%  |  0    |  0      |
+  +---------+--------------+--------+-------+---------+
+
+  Unfortunately, the economic environmental conditions that were
+  used in this experiment are unknown, but may well be an influencing
+  factor.
+  Addition questions also remain:
+    - Does the optimal margin change during the life of the game?
+    - Is the optimal margin dependant on starting price?
+
+
+! ---------------------------------
+! 9.0 Alternate Information Sources
+! ---------------------------------
+!
+! There are a number of WWW pages that have other information of interest
+! for ThemePark players.
+!
+! The Games Domain WWW site contains the reviews of ThemePark from
+!   - Game Bytes
+!     (http://www.gamesdomain.co.uk/GameBytes/issue21/greviews/themepark.html)
+!   - GD Review (of course)
+!     (http://www.gamesdomain.co.uk/gdreview/pc/june/themep.html)
+!
+! Bullfrog provide some inside information into the game on their WWW site:
+!   - Some basic tips:
+!     (http://www.bullfrog.co.uk/hints/index.html)
+!   - "Alex Trowers Guide To ThemePark"
+!     (http://www.bullfrog.co.uk/hints/alex_html#themepark)
+
+  [THE END] 

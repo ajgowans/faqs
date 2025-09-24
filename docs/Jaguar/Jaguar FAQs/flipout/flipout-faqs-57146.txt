@@ -1,0 +1,981 @@
+*******************************************************************************
+Flip Out! for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  07/19/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  New Game
+               1.  Load Game
+               2.  Difficulty
+               3.  Credits
+               4.  Exit Options
+         B.  Options
+               1.  Master Volume
+               2.  Music Volume
+               3.  Save Game
+               4.  Load Game
+               5.  Exit Options
+               6.  Exit to Map
+         C.  Memory Clear
+III.   How to Play
+         A.  Object of the Game
+         B.  Flipping
+         C.  Controls
+         D.  Options
+         E.  Difficulty Levels
+               1.  Normal
+               2.  Hard
+               3.  Insane
+               4.  Psychotic
+IV.    Characters
+         A.  Spectators
+         B.  The Rodeo Rider
+         C.  The Red Baron
+         D.  The Tile Eater
+         E.  The Cursor Decoy
+         F.  The Tile Flipper
+         G.  Gooey
+         H.  Corky
+         I.  Graffiti Master and The Janitor
+         J.  Sluggy
+         K.  The Wizard
+         L.  Space Slime
+         M.  King Fluffy
+V.     Locations
+         A.  Cheese Planet
+               1.  Overview
+               2.  Puzzle 1
+               3.  Puzzle 2
+               4.  Puzzle 3
+               5.  Puzzle 4
+               6.  Puzzle 5
+               7.  Puzzle 6
+               8.  Puzzle 7
+               9.  Puzzle 8
+              10.  Puzzle 9
+              11.  Puzzle 10
+              12.  Puzzle 11
+         B.  Yellowstone National Park
+               1.  Overview
+               2.  Puzzles 1-5
+         C.  Mt. Rushmore
+               1.  Overview
+               2.  Puzzles 1-3
+         D.  Sphorkle Diner
+               1.  Overview
+               2.  Puzzles 1-5
+         E.  Easter Island
+               1.  Overview
+               2.  Puzzles 1-4
+         F.  Hoopla World
+               1.  Overview
+               2.  Puzzles 1-10
+         G.  Planet Pigskin
+               1.  Overview
+               2.  Puzzles 1-10
+         H.  Zero Gravity Arena
+               1.  Overview
+               2.  Puzzles 1-5
+         I.  King Fluffy Encounter
+               1.  Overview
+               2.  Puzzle 1
+VI.    Secrets and Cheats
+         A.  Skip Puzzle
+         B.  Unlock All Locations
+         C.  See Programmers' Heads
+VII.   Game Review
+VIII.  Version History
+IX.    Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Flip Out!.  It contains instructions
+on how to play, strategies for winning, cheats, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+-------------------------------------------------------------------------------
+A.  New Game
+
+Choose New Game to begin a new game.  You will be taken to the Map Screen,
+press A, B, or C to enter the Cheese Planet and begin playing.
+
+-------------------------------------------------------------------------------
+B.  Options
+
+...............................................................................
+1.  Load Game
+
+Choose Load Game to select a previously saved game from the list.  After
+choosing a save file, you'll be asked to choose a difficulty level.
+
+...............................................................................
+2.  Difficulty
+
+Choose Difficulty to change the difficulty level to Normal, Hard, Insane, or 
+Psychotic.  Difficulty levels are explained further in the How to Play section
+of this FAQ.
+
+Note:  This only effects a New Game, when you load a saved game, the Difficulty
+       Select screen will automatically come up and whatever you choose will
+       overwrite your previous selection.
+
+...............................................................................
+3.  Credits
+
+Choose Credits to view the games credits.  Press A, B, or C to move on to the
+next screen.  When you are done, you'll be taken back to the Options screen.
+
+...............................................................................
+4.  Exit Options
+
+Choose Exit Options to return to the Title Screen.
+
+-------------------------------------------------------------------------------
+C.  Memory Clear
+
+To clear the cartridge's saved memory, while on the Title Screen hold down
+*, Option, and #.
+
+*******************************************************************************
+III.   How to Play
+
+-------------------------------------------------------------------------------
+A.  Object of the Game
+
+The object of the game is to match the colored tiles with the pattern on the
+floor.  The trick is that there is one more tile than space, so you must
+perform a juggling act.  If the extra tile lands before you finish the puzzle,
+then you lose!  There is NO time limit and you have unlimited chances to solve
+each puzzle.
+
+-------------------------------------------------------------------------------
+B.  Flipping
+
+You flip a tile by selecting it with your cursor using the joypad, then
+pressing one of the fire buttons (A, B, or C).  It will land in the space under
+the next tile you flip.  For example, if you flip tiles A, B, and C, tile A
+will land where tile B was and tile B will land where tile C was.  If you don't
+flip anymore tiles, tile C will then crash and you'll lose the puzzle.
+
+-------------------------------------------------------------------------------
+C.  Controls
+
+Joypad        Move the cursor
+A Button      Flip current tile
+B Button      Flip current tile
+C Button      Flip current tile
+Option        Bring up Options Screen
+Pause         Pause the game
+
+-------------------------------------------------------------------------------
+D.  Options
+
+...............................................................................
+1.  Master Volume
+
+Choose this to adjust the volume level by pressing left/right on the joypad.
+Press the fire button when you are done.
+
+...............................................................................
+2.  Music Volume
+
+Choose this to adjust the music volume by pressing left/right on the joypad.
+Press the fire button when you are done.
+
+...............................................................................
+3.  Save Game
+
+Choose this option to save your current game in one of the five save slots.
+Use the joypad to input your initials, then press the fire button when you are
+done.
+
+...............................................................................
+4.  Load Game
+
+Choose this to load a previously saved game.  After selecting the game you
+want, you'll be asked to choose a difficulty level.
+
+...............................................................................
+5.  Exit Options
+
+Select Exit Options to return to the puzzle.
+
+...............................................................................
+6.  Exit to Map
+
+Choose Exit to Map to go to the Map Screen.  While on the Map Screen, press
+up/down on the joypad to choose a location then press the fire button to
+select.  You can only go to locations that have been unlocked.
+
+-------------------------------------------------------------------------------
+E.  Difficulty Levels
+
+Note:  The ending is the exact same for all four difficulty levels!
+
+...............................................................................
+1.  Normal
+
+This is the default difficulty.
+
+...............................................................................
+2.  Hard
+
+In Hard, the tiles on the ground will all be the same color.  You'll only be
+able to see their true colors will they are in the air.
+
+Note:  Mt. Rushmore will play exactly as it did in Normal.
+
+...............................................................................
+3.  Insane
+
+In Insane, the tiles will ALWAYS be the same color.  When a tile lands in the
+proper place, it will continuously flash.  The only way to figure out which
+tile goes where is by trial and error.
+
+Note:  Mt. Rushmore will play exactly as it did in Normal.
+
+...............................................................................
+4.  Psychotic
+
+In Psychotic, the tiles will always be the same color just like the Insane
+difficulty.  The difference is that after they land in the correct spot, they
+will only flash for about a second then STOP.  You'll have to remember where
+the correctly placed tiles are, this becomes next to impossible when the other
+characters start to mess with your tiles!
+
+Note:  This is the only difficulty level that affects Mt. Rushmore!
+
+*******************************************************************************
+IV.    Characters
+
+-------------------------------------------------------------------------------
+A.  Spectators
+
+Spectators have green skin and will wander onto the playing field on certain
+levels.  They will never interfere with your tiles, so you really don't have to
+pay any attention to them.
+
+-------------------------------------------------------------------------------
+B.  The Rodeo Rider
+
+The Rodeo Rider has red skin and is easily identified by his cowboy hat and his
+yelling "Yee Haw!" when he grabs a tile.  Once he grabs onto a tile, you'll be
+unable to flip it.  In order to buck him off the tile, select his tile with the
+cursor and press the fire button repeatedly.
+
+-------------------------------------------------------------------------------
+C.  The Red Baron
+
+The Red Baron is actually purple and wears a scarf.  When in the air he will
+make a noise like an airplane propeller.  The Red Baron will hop onto the 
+playing field and act as one of the tiles.  This forces you to keep TWO tiles
+in the air instead of the usual one.  This messes up the gameplay mechanics
+somewhat.  For example, if you flip tiles A, B, and C, tile A will land in tile
+C's place instead of tile B's.  You can flip the Red Baron in the air just like
+a tile, after a few flips, he'll get bored and return to the sidelines.
+
+-------------------------------------------------------------------------------
+D.  The Tile Eater
+
+The Tile Eater is red and shaped like a tile.  He'll wander onto the playing
+field and gobble up a tile.  He can be flipped just like a regular tile, after
+a few flips, he'll spit out his tile and return to the sidelines.
+
+-------------------------------------------------------------------------------
+E.  The Cursor Decoy
+
+The Cursor Decoy looks just like your cursor.  He will move around the playing
+field, flipping tiles.  You can flip him off the board by moving your cursor
+to the same tile he's on and pressing the fire button.
+
+-------------------------------------------------------------------------------
+F.  The Tile Flipper
+
+The Tile Flipper is red and acts like the Cursor Decoy.
+
+-------------------------------------------------------------------------------
+G.  Gooey
+
+Gooey looks like his name.  He will jump on the board and act in a manner
+similar to the Red Baron, the only difference is that you CANNOT flip him with
+your cursor.  All you can do is wait for him to get bored and return to the
+sideline.
+
+-------------------------------------------------------------------------------
+H.  Corky
+
+Corky will only appear in Yellowstone National Park.  He likes to wander around
+the playing field, stuffing his head into the geysers.  To get him out, select
+his geyser with your cursor and repeatedly press the fire button.
+
+-------------------------------------------------------------------------------
+I.  Graffiti Master and The Janitor
+
+Graffiti Master and the Janitor only appear at Mt. Rushmore.  The Graffiti
+Master will fly around spray painting the face pieces.  Once a piece has been
+painted, you'll have to wait for the Janitor to clean it before you can flip
+it.
+
+-------------------------------------------------------------------------------
+J.  Sluggy
+
+Sluggy looks like, well a slug.  He only appears in the Sphorkle Diner.  He'll
+jump onto the tables, preventing you from flipping that table's food.  If you
+attempt to flip him off, he'll only stay longer, so it's best just to ignore
+him and wait for him to hop off the table on his own.
+
+-------------------------------------------------------------------------------
+K.  The Wizard
+
+The Wizard only appears on Easter Island.  He has two different types of magic.
+First he can cast a spell that freezes some tiles.  While a tile is frozen, it
+cannot be flipped.  To unfreeze a tile, select it with your cursor and press
+the fire button repeatedly.  His other trick is to change all the tiles to the
+same color.  You'll only be able to see their true color while they are being
+flipped.
+
+-------------------------------------------------------------------------------
+L.  Space Slime
+
+Space Slime will only appear in the Zero Gravity Arena.  He is second only to
+King Fluffy in sheer annoyance.  Space Slime will descend onto the playing 
+field, then move around, flipping tiles as he goes.  If you don't dispatch him
+quickly, he will completely undo all of your hard work!  To get rid of him,
+move your cursor to the tile he's on and press the fire button.  He usually
+descends down the middle of the screen and lands on the middle tile on the
+bottom.  As soon as you see him, make your way there and flip him off as soon
+as possible!
+
+-------------------------------------------------------------------------------
+M.  King Fluffy
+
+King Fluffy is the ruler of the Cheese Planet and the final boss in the game.
+He's the guy standing in the background of every stage and uses his magic to
+flip the tiles to start each puzzle.
+
+King Fluffy has three magical attacks.  He can freeze tiles and change their
+colors just like the wizard.  He can also flip tiles as well.  The best way to
+deal with him is to work fast!
+
+*******************************************************************************
+V.     Locations
+
+Note:  All puzzle "solutions" listed here are the same for all four difficulty
+       levels.
+
+-------------------------------------------------------------------------------
+A.  Cheese Planet
+
+...............................................................................
+1.  Overview
+
+You begin your game by competing in the Great Tile Flipping Festival on the
+Cheese Planet.  This is basically a tutorial level to help ease you into the
+gameplay.  The object is to match the colored tiles with the pattern on the
+floor.  About the fifth puzzle on, spectators will wander onto the playing
+field.  They won't actually interfere with gameplay so you can just ignore
+them.
+
+It's also interesting to note that the Cheese Planet is the only location where
+the solution configuration is different for each puzzle.
+
+...............................................................................
+2.  Puzzle 1
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Blue  | | Blue  | | Blue  | | Blue  |
+|       | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Blue  | | Green | | Blue  | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Blue  | | Blue  | | Blue  | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+3.  Puzzle 2
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Blue  | | Green | | Blue  | | Green |
+|       | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Green | | Green | | Green | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Blue  | | Green | | Blue  | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+4.  Puzzle 3
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Green | | Blue  | | Green | | Blue  |
+|       | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Blue  | | Green | | Blue  | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Green | | Blue  | | Green | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+5.  Puzzle 4
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Blue  | | Blue  | | Blue  | | Purple|
+|       | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Green | | Green | | Green | 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Purple| | Purple| | Purple| 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+6.  Puzzle 5
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Light | | Dark  | | Green | | Green |
+| Blue  | | Blue  | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Dark  | | Green | | Purple| 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Green | | Purple| | Light | 
+|       | |       | | Blue  | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+7.  Puzzle 6
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Light | | Purple| | Green | | Grey  |
+| Blue  | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Dark  | | Yellow| | Dark  | 
+| Blue  | |       | | Blue  | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Green | | Purple| | Light | 
+|       | |       | | Blue  | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+8.  Puzzle 7
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Red   | | Green | | Dark  | | Grey  |
+|       | |       | | Blue  | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Purple| 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Red   | | Green | | Dark  | 
+|       | |       | | Blue  | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+9.  Puzzle 8
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Red   | | Green | | Dark  | | Grey  |
+|       | |       | | Blue  | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Orange| | Orange| | Orange| 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Purple| 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+10.  Puzzle 9
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Red   | | Green | | Dark  | | Grey  |
+|       | |       | | Blue  | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Orange| | Green | | Orange| 
+|       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Purple| 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+11.  Puzzle 10
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Dark  | | Dark  | | Pink  | | Grey  |
+| Green | | Blue  | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Red   | 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Purple| | Orange| | Light | 
+|       | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+...............................................................................
+12.  Puzzle 11
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Dark  | | Dark  | | Pink  | | Grey  |
+| Green | | Blue  | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Red   | 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Purple| | Orange| | Light | 
+|       | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+-------------------------------------------------------------------------------
+B.  Yellowstone National Park
+
+...............................................................................
+1.  Overview
+
+While it may look different at first glance, gameplay is the exact same as
+before, just match the alien with the geyser of the same color.  The geyser
+configuration is the same for all five puzzles.  You'll notice that there are
+two yellow aliens, if you look closely you'll notice that the "extra" one is
+wearing red water wings.
+
+You'll have to deal with Corky here, he'll stick his head in a geyser,
+hampering your progress.  To get him out of a geyser, select him with your
+cursor and press the fire button repeatedly.
+
+...............................................................................
+2.  Puzzles 1-5
+
+           _ _ _ _     _ _ _ _             _ _ _ _
+          |       |   |       |           |       |
+          | Yellow|   | Blue  |           | Yellow|
+          |       |   |       |           |       |
+          |_ _ _ _|   |_ _ _ _|           |_ _ _ _|
+ _ _ _ _                       _ _ _ _    
+|       |                     |       |    
+| Green |                     | Red   |  
+|       |                     |       |  
+|_ _ _ _|                     |_ _ _ _| 
+           _ _ _ _                       _ _ _ _
+          |       |                     |       |
+          | Purple|                     | Orange|
+          |       |                     |       |
+          |_ _ _ _|                     |_ _ _ _|
+
+-------------------------------------------------------------------------------
+C.  Mt. Rushmore
+
+...............................................................................
+1.  Overview
+
+Here the goal is to unscramble the faces on Mt. Rushmore.  The Graffiti Master
+and Janitor will appear here.  The Graffiti Master will fly around and spray
+paint pieces, once they've been painted, you can't flip them until they are
+cleaned by the Janitor.
+
+It's important to note that this level is not affected by the Hard and Insane
+difficulty levels!  On Psychotic, the pieces will still look normal, but now
+only flash for a second once they are properly placed.
+
+...............................................................................
+2.  Puzzles 1-3
+
+ _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _ 
+|             | |             | |             | |             |
+| Washington's| | Jefferson's | | Roosevelt's | | Lincoln's   |
+| Hair        | | Hair        | | Hair        | | Hair        |
+|_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _|
+ _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _ 
+|             | |             | |             | |             |
+| Washington's| | Jefferson's | | Roosevelt's | | Lincoln's   |
+| Eyes        | | Eyes        | | Eyes        | | Eyes        |
+|_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _|
+ _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _ 
+|             | |             | |             | |             |
+| Washington's| | Jefferson's | | Roosevelt's | | Lincoln's   |
+| Nose        | | Nose        | | Nose        | | Nose        |
+|_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _|
+ _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _   _ _ _ _ _ _ _ 
+|             | |             | |             | |             |
+| Washington's| | Jefferson's | | Roosevelt's | | Lincoln's   |
+| Mouth       | | Mouth       | | Mouth       | | Mouth       |
+|_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _| |_ _ _ _ _ _ _|
+
+
+-------------------------------------------------------------------------------
+D.  Sphorkle Diner
+
+...............................................................................
+1.  Overview
+
+Sphorkle Diner is very similar to Yellowstone, except instead of matching
+aliens and geysers, it's aliens and food.  Sluggy is the adversary here, he
+will climb onto a table and you won't be able to flip the food there until he
+hops off.  If you try to flip Sluggy off the table, it just makes him sit there
+longer, so it's best just to ignore him and move on until he moves.
+
+...............................................................................
+2.  Puzzles 1-5
+
+           _ _ _ _     _ _ _ _             _ _ _ _
+          |       |   |       |           |       |
+          | Orange|   | Yellow|           | White |
+          |       |   |       |           |       |
+          |_ _ _ _|   |_ _ _ _|           |_ _ _ _|
+ _ _ _ _                       _ _ _ _    
+|       |                     |       |    
+| Purple|                     | Red   |  
+|       |                     |       |  
+|_ _ _ _|                     |_ _ _ _| 
+           _ _ _ _                       _ _ _ _
+          |       |                     |       |
+          | Green |                     | Blue  |
+          |       |                     |       |
+          |_ _ _ _|                     |_ _ _ _|
+
+-------------------------------------------------------------------------------
+E.  Easter Island
+
+...............................................................................
+1.  Overview
+
+Finally, back to flipping tiles!  Easter Island is pretty much the same as the
+Cheese Planet, with the statues adding a new wrinkle to the gameplay.
+
+The top row of tiles is inside the mouths of the statues.  You CANNOT move your
+cursor from statue to statue and you can only enter/exit a statue when its
+mouth is open.  If you get trapped inside, don't panic!  Just keep flipping
+the tiles until the mouth opens and you can escape.  I strongly recommend
+matching the tiles in the statues first, then moving on to the rest of the
+grid.
+
+The Wizard will appear here to cause trouble.  He has two magical attacks.  He
+can freeze some tiles, while they are frozen, they cannot be flipped.  To
+unfreeze a tile, select it with your cursor and repeatedly press the fire 
+button.  He can also change the tile colors, you will only be able to see a
+tiles true color while it is in the air.
+
+...............................................................................
+2.  Puzzles 1-4
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Dark  | | Pink  | | Purple| | White |
+| Blue  | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Red   | 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Dark  | | Orange| | Light | 
+| Green | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+-------------------------------------------------------------------------------
+F.  Hoopla World
+
+...............................................................................
+1.  Overview
+
+Hoopla World is just like the Cheese Planet, the only difference is the advent
+of competitors.  The Red Baron, Tile Eater, and others will appear to prevent
+you from solving the puzzles.  Be sure to check the Characters section to
+learn how to deal with them effectively.
+
+...............................................................................
+2.  Puzzles 1-10
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Dark  | | Dark  | | Pink  | | White |
+| Green | | Blue  | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Red   | 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Purple| | Orange| | Light | 
+|       | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+-------------------------------------------------------------------------------
+G.  Planet Pigskin
+
+...............................................................................
+1.  Overview
+
+Planet Pigskin is just like Hoopla World (even has the same tile layout!), the
+competitors will just be more aggressive than before.
+
+...............................................................................
+2.  Puzzles 1-10
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       |
+| Dark  | | Dark  | | Pink  | | White |
+| Green | | Blue  | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Light | | Yellow| | Red   | 
+| Blue  | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | 
+| Purple| | Orange| | Light | 
+|       | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| 
+
+-------------------------------------------------------------------------------
+H.  Zero Gravity Arena
+
+...............................................................................
+1.  Overview
+
+Now it's getting complicated!  You will have THREE grids to solve here, on top
+of that, the dreaded Space Slime haunts this area.  The Space Slime will appear
+and quickly move across the grids, flipping tiles as it goes.  To get rid of
+the Space Slime, move your cursor to the tile he's on and press the fire
+button.  Be sure to take care of him quickly, he can do a LOT of damage in a
+hurry.  He will usually land on the center square of the bottom grid, so as
+soon as you see him, head there right away!
+
+...............................................................................
+2.  Puzzles 1-5
+
+ _ _ _ _   _ _ _ _   _ _ _ _        _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       |      |       | |       | |       |
+| Purple| | Blue  | | Green |      | Red   | | Pink  | | Light |
+|       | |       | |       |      |       | |       | | Blue  |
+|_ _ _ _| |_ _ _ _| |_ _ _ _|      |_ _ _ _| |_ _ _ _| |_ _ _ _|
+ _ _ _ _   _ _ _ _   _ _ _ _        _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       |      |       | |       | |       |
+| Light | | Red   | | Light |      | Pink  | | Yellow| | Orange|
+| Blue  | |       | | Blue  |      |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _|      |_ _ _ _| |_ _ _ _| |_ _ _ _|
+
+
+                                    _ _ _ _   _ _ _ _   _ _ _ _
+                                   |       | |       | |       | 
+                                   | Yellow| | Light | | Yellow| 
+                                   |       | |Blue(O)| |  (O)  | 
+                                   |_ _ _ _| |_ _ _ _| |_ _ _ _| 
+                                    _ _ _ _   _ _ _ _   _ _ _ _
+                                   |       | |       | |       | 
+                                   | Green | | Gold  | | Green | 
+                                   |  (O)  | |       | |       | 
+                                   |_ _ _ _| |_ _ _ _| |_ _ _ _| 
+                                    _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+                                   |       | |       | |       | |       |
+                                   | Purple| | Blue  | | Orange| | White |
+                                   |  (O)  | |       | |  (O)  | |       |
+                                   |_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+
+-------------------------------------------------------------------------------
+I.  King Fluffy Encounter
+
+...............................................................................
+1.  Overview
+
+Note:  Be sure to save your game BEFORE the battle with King Fluffy.
+
+This is it, the final battle.  King Fluffy is a very tough competitor, not
+only can he freeze and color tiles like the Wizard, he can affect more of them
+at once.  He is also capable of flipping your tiles, undoing a lot of your
+hard work!  There's no trick to beating him, you just have to work hard and
+fast!
+
+Once you beat King Fluffy, you'll see a brief ending and then be asked to
+input your initials for the high score.  You'll then be taken to the high
+score table, you'll be stuck here, the only thing you can do is turn off the
+power (your score will already be saved).
+
+...............................................................................
+2.  Puzzle 1
+
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _   
+|       | |       | |       | |       | 
+| Orange| | Red   | | Blue  | | Maroon| 
+|       | |       | |       | |       | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _   
+|       | |       | |       | |       | 
+| Green | | Red   | | Gold  | | Light | 
+|       | | (O)   | |       | | Green | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _   
+|       | |       | |       | |       | 
+| Light | | Dark  | | Teal  | | Purple| 
+| Blue  | | Blue  | |       | |  (O)  | 
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _| 
+ _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _   _ _ _ _
+|       | |       | |       | |       | |       |
+| Purple| | Yellow| | Pink  | | Red   | | White |
+|       | |       | |       | |       | |       |
+|_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _| |_ _ _ _|
+
+*******************************************************************************
+VI.    Secrets and Cheats
+
+I got the following cheats from www.ataritimes.com:
+
+Note:  These cheats are VERY fickle, you have to time them just right for them
+       to work!
+
+-------------------------------------------------------------------------------
+A.  Skip Puzzle
+
+To skip the current puzzle press 7, 7, 9, 8, 8, 9, # on the number pad BEFORE
+King Fluffy flips the tiles.
+
+-------------------------------------------------------------------------------
+B.  Unlock All Locations
+
+To unlock all the locations on the Map Screen input 7, 7, 9, 8, 8, 9, 9 on
+the number pad while you're on the Map Screen.
+
+-------------------------------------------------------------------------------
+C.  See Programmers' Heads
+
+Press 1, 4, 2, 8, 3, 7, 2, 2 BEFORE King Fluffy flips the tiles on any puzzle
+with the three alien cheerleaders to see the game programmers' heads.
+
+Note:  I've never gotten this one to work, but since I had so much trouble
+       getting the first two codes to work, I have no idea if this code is
+       real or a hoax.
+
+*******************************************************************************
+VII.   Game Review
+
+Flip Out! has a reputation of being one of the worst games for the Atari
+Jaguar, so I was pleasantly surprised to find that I actually ENJOY playing it!
+It's a very simple puzzle game, the object is to match colored tiles with the
+pattern on the floor.  The trick is that there is one more tile than available
+spaces, so you must perform a juggling act while solving.
+
+The main gripe that I have with this game is that it is WAY too easy.  There 
+are four difficulty levels, these operate by concealing the colors of the tiles
+to various degrees.  The second and third levels aren't really that much more
+challenging than the first, just a bit more trial and error involved.  The
+fourth level is completely unplayable, there's no skill involved, just pure 
+luck!
+
+Overall, Flip Out! is a fun, albeit short game that every Jaguar fan should
+give a chance.
+
+Pros
+
++  Very easy for anyone to pick up and play.
++  While the graphics are 16-bit caliber, they still look great.
++  Four difficulty levels to choose from.
++  Game saves your progress and high scores.
+
+Cons
+
+-  You'll finish this one in a single afternoon.
+-  No multiplayer.
+
+*******************************************************************************
+VIII.  Version History
+
+1.0   07/19/09   Completed FAQ.
+
+*******************************************************************************
+IX.    Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+End

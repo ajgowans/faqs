@@ -1,0 +1,313 @@
+CANNON FODDER - Walkthrough/FAQ
+Super NES
+Version 0.5
+
+Authored by: GadesXion aka Shouvik :)
+
+shouvik_sayef@yahoo.com (Put "Cannon Fodder" in the subject line)
+AIM: gadesxion
+
+--Z101-------------------------
+Table Of Contents (Use Ctrl+F)
+-------------------------------
+
+Z101 - Table Of Contents
+Z102 - Intro
+Z103 - Version History
+Z104 - Game Basics
+Z105 - Passwords
+Z106 - Walkthrough
+Z107 - FAQ
+Z108 - Legal Stuff and Acknowlegements
+
+--Z102
+Intro
+-----
+
+Cannon Fodder is a classic underrated addictive game for the Super NES which i 
+discovered had been neglected on the FAQ boards and thus decided to write this
+FAQ for. Its a fun little game where you control a group of soldiers and 
+elimintate any enemies in the given level.
+
+
+
+--Z103---------
+Version History
+---------------
+
+0.5 - My first FAQ! Game basics section is complete. Walkthrough and passwords
+complete through Mission 5!
+
+
+--Z104-----
+Game Basics
+-----------
+
+The Intro Screen : 
+
+First the "score" at the top is the number of kills 
+home = your kills
+away = your casualties 
+(Graves will form on the hillside as your caualties grow)
+
+on the left column, the Heroes are ones that have been killed, and the Squad 
+are the people that are alive.The following number is their individual kills
+
+
+By pressing select at the first screen the options menu will pop up:
+
+Load Game : This option is actually a password entry screen; passowords for 
+thecurrent level can be found by selecting Save Game
+
+Save Game : This option gives the password for the current level
+
+Key Define : The controls for Cannon Fodder can be assigned with this option. 
+My recomended controls are as follows:
+
+Move   - B
+Shoot  - Y
+Map    - X
+Weapon - A
+
+Stereo : Stereo is set to off by default, change it if you wish
+
+
+Pressing start will begin the mission
+-
+
+Gameplay Basics
+
+Basically you move a target around the battlefield, pressing move will command
+your soldiers to move to the target, pressing fire will command then to fire
+at the target very simple-- but it gets complicated as strategy is needed in
+the later missions. By pausing you can move soldiers individually and you must
+usethe map to help you plan out your attacks.
+
+If you pause and select the names of soldiers and then the snake thingy it
+will separate your troops into groups so you can command them individually,
+dont worry though because troops that are left alone WILL defend themselves,
+although not very effectively. (Use R and L to switch between
+soldiers/ groups)
+
+
+--Z105---
+Passwords
+---------
+
+Mission 1 - NBPBZ
+Mission 2 - BCBCY
+Mission 3 - SCSDX
+Mission 4 - CDBGW
+Mission 5 - TDSHT
+
+-
+
+--Z106-----
+Walkthrough
+-----------
+:: Note the number of Recriuts remaining is only if you travel through the 
+game with 0 casualties::
+
+Mission 1: The Sensible Initiation
+---------
+Phase 1/1: Its A Jungle Out There
+Briefing : With 2 soldiers you must kill all enemy
+
+13 Recriuts Remaining
+3 Enemy Soldiers
+
+Very easy, if you lose this mission you should not even bother with the rest 
+of the gamejust move your soldiers into range of the enemy and openly fire on 
+them, kill all 3 of them and youre done!
+
+
+Mission 2: Onward Virgin Soldiers
+---------
+Phase 1/2: Bridge Over the River Pie (Haha like the movie get it?)
+Briefing : With 3 soldiers you must kill all enemy
+
+27 Recriuts Remaining
+17 Enemy Soldiers
+
+This level is MUCH harder and is what the rest of the game will be like. You 
+now have 17 enemies as opposed to 3. I still recommend you keep all of your 
+soldiers in just 1 group. First off there will be an enemy swimming
+towards you from the north, kill him immedietly. Next 3 enemies to the south
+stay by the trees and lure them 1 at a time and pick them off for easy kills.
+Now head west along the south border, 2 soldiers will come rushing in, pick
+them off (your groups mass firing should get it done very easily). Head north
+when you hit the west border and pick off the 2 soldiers standing by the 
+river.
+Now go to the bridge (use the map if youre lost) and pick off the one guard
+across the bridge. Go west and lure the guards by firing bullets near them
+until they come into your range, and then pick them off. As always use the
+trees for cover. Go around the trees and head east slowly, you will be 
+approached by 2 soldiers at the clearing, pick em off. (see a pattern here?)
+Head east and kill the last 3 soldiers. You win! watch your soldiers jump
+around in victory :)
+
+
+Phase 2/2: Trash Enemy HQ
+Briefing : With 3 soldiers you must -kill all enemy -destroy enemy buildings
+
+27 Recriuts Remaining
+22+ Enemy Soldiers (Soldiers will continue coming out of the building if you
+		   do not destroy it)
+1 Enemy building
+
+I think by now you get the idea of the game, so i can condense my strategy.
+At the very start 2 soldiers come in from the west, kill them and cross the
+river. There are 2 more soldiers by the trees You know what to do. When you 
+reach the end of the peninsula, 2 soldiers to the west across the river and
+one incoming from the south. As a reminder stick to the land so your soldiers
+wont be slowed. Follow the river east along the north shore. One soldier will
+come from the east and one more is across the river at the end of the south
+peninsula. Go south and follow the river west killing the 3 soldiers along
+the way. Go south and kill the 2 soldiers waiting in the corner. Go east
+and kill the 9 soldiers along the way until you see a building. Kill the 2 
+soldiers north of the building and any that come out of the building. There
+is a little brown crate next to the building- pick it up to recieve grenades.
+To use a grenade target the barrels around the building HOLD down fire and 
+then press move, when you throw a grenade at the barrels they will explode
+and destroy the building. ::Note keep your soldiers a safe distance from
+the buildings when destroying them, flying debree can kill your soldiers::
+Mission Complete!
+
+
+Mission 3: Antarctic Adventure
+---------
+Phase 1/1: Blast Its Cold
+Briefing : With 4 soldiers you must -kill all enemy -destroy enemy buildings
+
+41 Recriuts Remaining
+?? Enemy soldiers
+4  Enemy buildings
+
+First kill the soldier to the south and any that come out of the building. 
+Head east kill the 2 approaching soldiers and any out of the building. Go
+down the slope - Dont worry about the building yet come back for it when you
+get the grenades.-  go east past the lake (make sure you are not followed). 
+You will see a building with crates around it. DO NOT shoot the crates! kill 
+all surrounding enemies and go and pick up the crates and destroy the
+building. Go back and destroy the 2 buildings you passed along the way with
+your grenades. Come back and go west, there are ALOT of enemies along the way
+make sure not to slip up or you may lose one of your soldiers very easily.
+when you see the 4th building you can throw grenades at it or just shoot the
+crate. Mission Complete!
+
+Mission 4: Supa Smashing Namtastic
+---------
+Phase 1/4: Beachy Head
+Briefing: With 4 soldiers you must  -destroy enemy buildings
+
+56 Recriuts Remaining
+?? Enemy Soldiers
+4 Enemy Buildings
+
+Your first objective is to get some grenades. Head down to the start of the 
+bridge and head straight east, follow the path until you see a building
+with a crate next to it (SE corner of the map. Kill the soldier to the west 
+and east of the buildingand destroy it before more soldiers come out of it.
+Head north along the path until you find another building. Commence 
+destruction. Head NW and continue west across the river, watch for
+enemies and you will come up on another building. Grab the grenades and 
+destroy it. Head south along the west shore killing enemies along the way.
+Find the last building in the SW corner. Destroy it. Phase Complete!
+
+Phase 2/4: Peer Pressure
+Briefing: With 4 soldiers you must -kill all enemy -destroy enemy buildings
+
+56 Recriuts Remaining
+?? Enemy soldiers
+1 Enemy Buildings
+
+From the start come out shooting and kill all the soldiers, when its safe
+cross the river and destroy the building in the SE corner. Phase Complete
+
+
+Phase 3/4: Village People
+Briefing: With 5 soldiers you must -kill all enemy -destroy enemy buildings
+55 Recriuts Remaining
+2 Enemy Buildings
+
+Simple mission, head west, kill enemies along the way. Go south all the way 
+to the southwest corner and destroy the 4 huts (Optional i guess) and take
+the extra grenades go down to the SE corner for the last building. Go back
+through the level and pick off any soldiers you missed. Phase Complete!
+
+Phase 4/4: Quicksand
+Briefing: With 5 soldiers you must -kill all enemy -destroy enemy buildings
+55 Recriuts Remaining
+1 Enemy Buildings
+
+Go north, avoid the quicksand or your soldiers will sink and die. 2 enemy 
+soldiers to the north. There isa landmine under the next patch of quicksand,
+shoot it. Take grenades and go around the next patch. Head south and then
+west to find the building killing enemies along the way. After the building
+is destroyed go back and kill any enemies you may have missed. Mission
+Complete!
+
+
+Mission 5: Thos Vicious Vikings
+---------
+Phase 1/3: The Valley Of Ice
+Briefing: With 3 soldiers you must -kill all enemy -destroy enemy buildings
+
+70 Recruits Remaining
+5 Enemy Buildings
+
+Head west until you find 2 buildings pick up grenades and rockets 
+(rockets are used the same as grenades, use weapon to switch between them)
+go back and fire a rocket at the building you saw earlier. Continue
+west until you see 2 buildings across the river. Continue west, watch out for
+rocket soldiers; theyre very deadly. After theyre all killed Phase Complete!
+
+-- The walkthrough will be updated in my next version Thank YOU!
+
+--Z107
+FAQ
+---
+
+1. How do i use grenades/ rockets?
+A: Hold fire down and press move while the target is where you want to throw
+your grenade/ fire your rocket.
+
+2. What do those badge thingies mean?
+A: Whoever has more of them will "lead" the group it is assigned to.
+
+3. Can I ungroup soldiers?
+A: As far as i know you cannot, if i am mistaken please email me a note, or
+put it on the boards, i am on the boards more than i check my email i remind
+you.
+
+4. Can I email you questions?
+A: As i said before i would much rather you post questions on the board, if
+i do not get to them then, then you may email me, but if you do ask anything
+i have included in this FAQ thus far i will simply delete your email.
+Make sure to put "Cannon Fodder" In the subject
+
+--Z108----------------------
+Legal Stuff/ Acknowlegements
+----------------------------
+
+Copyright 2004 Shouvik Sayef
+Thus far only GameFAQs has permission to put my guide up on their site, it
+may not be used partially or whole for profit, if it is used i would like
+to recieve credit for it, or you are a dirty plagerizer!
+
+Thus far no one but me has made any contributions, as this is the first
+draft, but hopefully that will change.
+
+-I would like to thank GameFAQs for putting this wonderful game up for
+bounty and encouraging me to write this, my first FAQ. 
+
+-I would like to thank the creators of Cannon Fodder for making such a 
+great addictive game.
+
+Updates will come shortly
+
+-- Please Email me if you would like to put my FAQ on your site or if you 
+would like to make contributions, i remind you to put "Cannon Fodder" in
+the subject line. 
+
+Thank You and have a wonderful day!

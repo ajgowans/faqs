@@ -1,0 +1,250 @@
+Ultra Vortek fans and players! If you read rec.games.video.atari, you've 
+probably seen Vaultkeeper's exhaustive UV FAQ. We've been amazed at how fast the 
+UV moves and codes have spread on the Internet, and it seems natural to put a 
+FAQ here compiled by players rather than a cheat sheet of our own. Vaultkeeper 
+wrote and updates this list, so if you have additions or corrections you should 
+mail them to him.
+
+
+Vaultkeeper's Ultra Vortek FAQ
+
+New to this revision: More Poopalities.
+
+Ultra Vortek FAQ Version 5.5
+
+------------------------------------------------------------------------
+Sections 
+
+1.Brief Overview 
+2.The characters and their moves 
+3.Secrets 
+4.Credits 
+
+------------------------------------------------------------------------
+
+Section One
+
+
+This is the Jaguar's second fighting attempt and I must say it really 
+kicks butt! It consists of seven playable characters ranging from robots to 
+humans with extraordinary powers. By combining the graphics of MK with the 
+gameplay of SF2 this game is really a winner. Enough talk. There are fatalities 
+in this game known as "Annihilations" as well as background "Annihilations" in 
+which the background interacts and kills your opponent. One last thing... each 
+character has multiple "annihilations."
+
+
+------------------------------------------------------------------------
+
+
+Section Two
+
+
+Move Key
+Punch- A Uppercut- Down+A.
+Kick- B Sweep- Down+B.
+Jab- C
+There are a number of charge moves but they will be labeled carefully with a *.
+
+
+Buzzsaw
+
+
+
+
+HI Buzzsaw- Forward, forward A. 
+*Pain Machine- Hold Away, forward B. 
+Low 
+Bolo- Forward, forward C. 
+*Gut Spear Uppercut- Hold Away, forward A. 
+Air Grab 
+and Slam- While the opponent is in the air press Down, A. 
+Richochet Blades- in 
+the air press Down,C. 
+Gut Grinder- Away, A. 
+
+Annihilations 
+
+Screwed- Down, forward A. (3 guys away) 
+Decap- Forward, forward, forward C. 
+(anywhere) 
+
+Poopality 
+
+Down, Down, Back, Forward, Back, C, A, hold B 
+
+
+Dreadloc
+
+Smoke Ring- Forward, back A. 
+*Speed Slice- Hold Away, forward A. 
+Come to 
+Daddy- Forward, forward A. 
+Spin Staff- Down, forward C. 
+Upclose combo- ??? 
+
+Low Jab- Down, A. 
+Angle Spear Dive- in the air press Down, down A. 
+Back Off, Man!- Forward+A. (close) 
+
+Annihilations 
+
+Decap- Away, forward C. (5 guys away) 
+Stomach Impale- Forward, forward, 
+forward C. (3-4 guys away) 
+
+Poopality 
+
+Down, Down, Back, Forward, Back, C, A, hold B 
+
+
+Grok
+
+*Bouldermorph- Hold Away, down C. 
+*GroundPounder- Hold Away, C. 
+Boulder 
+Bounce (air)- in the air press Down+C. 
+The Tenderizer- Away+A. (Close) 
+
+Annihilations 
+
+Super Duper Mega Major Uppercut- *Hold Down, C. (close) When doing this 
+annihilation keep holding down when you press A+C. 
+Death from Above--While 
+directly above the opponent (jump at them), press Up, Down, A+B. 
+
+
+Lucius
+
+Lightning Blast- Down, forward A. (Can also be done in the air) 
+Hawk Attack 
+(low)- in the air press Down+C. 
+Hawk Teleport- in the air press C. 
+
+Electrotherapy- Forward, back A. (Close) 
+Spinning Back Kick- Away+B. 
+Hawk 
+Attack (high)- in the air press Down+A. 
+Ground Spark Wave- Forward, forward B. 
+
+Annihilations 
+
+Electrifying- Forward, forward, away A. (close) 
+Decap- Jump, in the air press 
+Away, away A. (anywhere) 
+
+POOPALITY! 
+
+Down, Down, Away, Forward, Away, "A", "C", Hold "B" 
+
+
+Mercury
+
+Spinning Blade Sweep- Down, down, B+C. 
+Big Gooey Pounder- Away, forward A. (Close) 
+*Sawblade- Hold Away, forward, B. 
+Porcupine Spike Defense- Down, down, A+B. 
+
+Annihilations 
+
+Decap- Forward, forward A. (3 guys away) 
+Fresh Meat- Down, forward C.(anywhere) 
+
+Poopality 
+
+Down, Down, Back, Forward, Back, A, C, hold B 
+
+
+Skullcrusher
+
+Brain Fryin' Wave- Forward, forward, A. 
+Creeping Ground Blast- Forward, 
+forward, C. 
+*Choke and Thump- Hold Away, forward A. 
+*Grim Dive of Death- Hold 
+Down, up. 
+Charged Particle Blast- Away, forward, C. 
+Stride and Slide- Forward, 
+B. 
+Knife Headbutt- Away, forward A. (Close) 
+
+Annihilations 
+
+Sizzler- Forward, forward, away C. (2 guys away) 
+
+Volcana
+
+Flame Blast- Down, forward A. 
+Fireport (behind)- Down, away. 
+Fire Breath- 
+Away, A. (Close) 
+*Flying Firedive- Hold Away, forward, C. 
+Aerial Firebomb- in 
+the air press Down,A. 
+Fireroll- in the air Forward+C. 
+Fireport Uppercut- Hold 
+Down, Up. 
+*Flame Wall- Hold Away, B. 
+
+Annihilations 
+
+Blown Away- Forward, forward, away, A. (Close) 
+Shaken and Burned- Down, 
+forward, C. 3 guys away to anywhere) 
+
+Stage Annihilations: Execute an uppercut on your opponent when you are prompted 
+on the following stages: 
+
+Stoned Poseidon 
+Hells Kitchen 
+The Temple of the Vortek. 
+
+The Inner City Chaos Stage--Press D, D, D A or C (it depends which character you 
+are) far away. 
+------------------------------------------------------------------------
+
+Section Three
+
+Hidden Stages
+
+Press the # key at the background select screen in two player mode and you 
+access the "Hidden Palace." 
+Follow the same rules except press * and you access 
+the "Subway Passage." 
+Press and hold simultaneously 1, 2, 3, 7, 9, Option and 
+you access Test Mode 
+
+Music change
+
+In the middle of the round press pause. Hit A,B, or C to alter music, sound fx, 
+and volume. 
+
+Hidden Character #1...Carbon
+
+Start a game on killer mode, when you make it to you the Subway background you 
+must do the following... get a double flawless victory, then perform an 
+annihilation move on the opponent in the area to the left marked with the 
+words," No fighting in this area." He looks like Grok only darker and has one 
+extra move.
+
+Voice Modem Code
+
+At the title screen (the one with the eye on it), press buttons 9, 1, 1.
+
+------------------------------------------------------------------------
+
+Section Four
+
+And a special thanks goes out to...
+
+John-- GHeller128 @Aol.Com 
+J9hawks @Aol.Com 
+Black Destroyer Inc. 73771,134@Compuserve.Com 
+Harj 76532,1142@Compuserve.Com 
+Gyaku @Aol.Com 
+David Gross Dgross1@Execpc.Com 
+
+The above Ultra Vortek FAQ is Copyright c 1995 vaultkeepr@aol.com, used with 
+permission by Beyond Games, Inc.
+Copyright c 1995 Utahworks and Beyond Games, Inc. 
+

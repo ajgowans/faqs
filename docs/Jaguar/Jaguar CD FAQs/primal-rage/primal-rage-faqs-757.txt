@@ -1,0 +1,4141 @@
+ Subject: Primal Rage FAQ v2.8, 1/8
+From: vctr113062@aol.com (Vctr113062)
+Date: 15 Sep 1996 01:49:36 -0400
+Message-ID: <51g5dg$7te@newsbf02.news.aol.com>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               ______        __                  __ 
+              |   __ \.----.|__|.--------.---.-.|  |
+              |    __/|   _||  ||        |  _  ||  |
+              |___|   |__|  |__||__|__|__|___._||__|
+                    ______
+                   |   __ \.---.-.-----.-----.        ____
+          ___      |      <|  _  |  _  |  -__|     .-~. /_"-._
+         `-._~-.   |___|__||___._|___  |_____|    / /_ "~o\  :Y
+             \  \                |_____|         / : \~x.  ` ')
+              ]  Y                              /  |  Y< ~-.__j
+             /   !  Primal Rage 2.3 FAQ    _.--~T : l  l<  /.-~
+            /   /   09/15/'96       ____.--~ .   ` l /~\ \<|Y
+           /   /    v 2.8  .-~~"        /| .    ',-~\ \L|
+          /   /             /     .^   \ Y~Y \.^>/l_   "--'
+         /   Y           .-"(  .  l__  j_j l_/ /~_.-~    .
+        Y    l          /    \  )    ~~~." / `/"~ / \.__/l_
+        |     \     _.-"      ~-{__     l  :  l._Z~-.___.--~
+        |      ~---~           /   ~~"---\_  ' __[>
+        l  .                _.^   ___     _>-y~
+         \  \     .      .-~   .-~   ~>--"  /
+          \  ~---"            /     ./  _.-'
+           "-.,_____.,_  _.--~\     _.-~
+                       ~~     (   _}       -Row
+                               `. ~(
+                                 )  \
+                                /,`--'~\--'~\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+by Evan Gridley (ejg1@cornell.edu), updated & maintained by Victar
+(vctr113062@aol.com)
+
+ADAPTED FROM THE PRIMAL RAGE 1.7 FAQ 
+BY   ZARGON  a.k.a.  MASTER LAO  (YU8954@NOVA.GMI.EDU)  
+AND  PERICOM  (EQR5MALIKI@CLUSTR.NORTH-LONDON.AC.UK) 
+PROOFREAD BY  UNDERMIND  (imfacyc@prism.gatech.edu)  
+       owner of Mardi Gras Games            
+
+This file is Copyright   1994 (barely...) 1995, & 1996. All rights
+reserved. Distribution of this file, in whole or in part is permitted,
+provided that it isn't modified in any form and that proper credit is
+given to the authors.
+
+Atari and Primal Rage are trademarks of Atari TWI. All copyrights are
+owned by their respective owners, no infringement intended.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++What's New++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Changes from Primal Rage 2.3 FAQ v2.7
+        PR for IBM PC patch noted
+        32X PR cheat code added
+        "Rage on Records" web site added
+        PR merchandise info/rumors added
+        a little PR2 info slipped in
+
+Changes from Primal Rage 2.3 FAQ v2.6
+        Updates to PR for home versions section (no Mac PR :-()
+        Chaos' FoFury corrected (it's really 2+3, D-T-U-A)
+        Final word on Chaos' BOUNCER named combos
+        PSX PR *does* have combo names! ^_^
+        PR action figures are here!! ("Meet the Critters" updated :)
+        PR card game rules added
+        Where to order the PR music soundtrack!!!
+        PR pulled from the store shelves?!?
+
+Changes from Primal Rage 2.3 FAQ v2.5
+       Chart added to Jumping section
+       *Major* updates to PR for home versions section!!!
+       PR action figures are coming!
+
+Changes from Primal Rage 2.3 FAQ v2.4
+       Combos added, all Armadon's, Blizzard's, & Vertigo's named combos
+FOUND!
+       Move descriptions modified (Blizzard's Punching Bag *not* infinite)
+       List of strong -> weak interruptible attacks added to Combos
+       Cheat menus elaborated, Genesis cheat code FOUND!
+       Notes added to PR for home versions section
+       PR for 32-bit systems release date pushed back to 2/16/96 :-(
+       Exact Game Zero WWW site for this FAQ!
+       Minor corrections
+
+Changes from Primal Rage 2.3 FAQ v2.31
+       Combos added, all Diablo's named combos FOUND!
+       No combo names in Genesis PR either, & Genesis cheat doesn't work
+:-(
+       Block high/low lists cover all basic & special moves
+       Whoops! 2 air hits + Air Throw is impossible!
+       Move descriptions modified (Inferno Flash *is* blockable in ver
+2.3!)
+       Additions to No-Cheeze section
+       Blizzard, Talon, & Vertigo in Dragon magazine #223!
+       Get this FAQ from Game Zero's WWW site!
+
+Changes from Primal Rage 2.3 FAQ v2.2
+       Combos added, all Sauron's named combos FOUND!
+      SNES/Genesis cheats added to PR for home systems
+       Corrections to high/low blocking section
+       Additions to No-Cheeze section
+       Post-mortem Combos added to Combos section
+      Combo minimum hit mistakes fixed (TRAIN WRECK takes only 7 hits!)
+      Other minor corrections
+
+Changes from Primal Rage 2.3 FAQ v2.1
+     Whoops! Pterodactyls worth only 1% health
+     Combos added, *all* combo names found!
+
+Changes from Primal Rage 2.3 FAQ v2.0
+     Combos added, all Talon's named combos FOUND!
+     Combo key revamped
+     Info tidbits added to some move descriptions (PR Guide again)
+     No Cheeze meter correction, notes added
+     New Info added to Eat a Worshiper (w/help from the PR Guide)
+     Info added to PR for home systems (I got SNES PR!!!)
+     Trivialities (Jason Leong in Sauron's ending :)
+
+Changes from Primal Rage 2.3 FAQ v1.9
+     Vertigo's moves modified 
+     Combos added (new combo names!)
+     Moves that "trigger" combo names added where known
+     Lots of PR for home systems info added 
+     Minor stuff (Talon's flexible tail is creative license! :)
+
+Changes from Primal Rage 2.3 FAQ v1.8
+     Many combos added 
+     Lightning combos marked, percentiles and min. required hits added
+where known
+     Talon's Pounce & Flip, Frantic Fury corrected 
+     Talon's Run description modified
+     New Final Battle Bug added
+     Free Play info added
+     Quick/Fierce vs. High/Low mistake in "Normal Moves" section fixed
+     Special moves that extend combos marked with a "^"
+     All tabs replaced with spaces
+     Teeny little things
+
+Changes from Primal Rage 2.3 FAQ v1.71
+     Combos added 
+     Barney Armadon color mistake fixed
+     Anti-CPU strategies added
+     Buffer your hop jumps, even in combos! 
+     Jumping, Final Battle sections moved
+     Minor stuff
+
+Changes from Primal Rage 2.3 FAQ v1.6
+     Combos added (streakers confirmed :)
+     ASCII fixed *again*, esp. in moves section
+     NEW UPGRADE is not coming...? :-(
+     misc. minor stuff
+
+Changes from Primal Rage 2.3 FAQ v1.5
+     Combos added
+     Simultaneous Attack Collisions added
+     Infernal & Gut Buster moves fixed
+     Some move descriptions modified (esp. Cannonball, Inferno Flash)
+     Raining Cows (and Bricks & Ice Balls!) confirmed
+     New Final Battle bug added
+     Note to Combos section added (& "streakers"?)
+     PR coming to home systems!!!
+     Cross-up corner trap added
+     More boss/upgrade rumors added
+     More streamlining & misc stuff
+
+Changes from Primal Rage 2.3 FAQ v1.0
+     Storyline (from the GamePro PR Arcade Players Guide!)
+     Meet the Critters (with statistics swiped from the Guide!)
+     All 3rd fatalities confirmed
+     Blizzard's Mega Punch descriptions corrected, many move descriptions
+elaborated
+     Combos added
+     Colors section elaborated
+     Ballistic section elaborated (guess what source!)
+     Scoring info added! (love that Guide!)
+     More ASCII streamlining & touch-ups
+     Ending pictures better described (still more thanx to the Guide!)
+     Misc. trivial stuff
+
+Changes from Primal Rage 2.3 FAQ v0.9
+     More info on all 3rd fatalities added
+     Info on Final Battle added
+     Raining Cows added to Secrets 
+     New colors added
+     Combo section updated a little
+     Moves also described in simplified code
+     Total Domination, Quick Kill, Scoring info added
+     CPU AI patterns added
+     Several other misc. things added
+     ASCII touch-ups & streamlining
+     spell-checker, proofreading, minor corrections
+
+Changes from FAQ (v1.3) for Primal Rage 1.7
+     FAQ Updated for 2.3 Chips!
+     Atari pack-in Chip info -- from the source!
+     Combination Names!
+     New Fatality Names!
+     0.6 more PR!!! (???)
+     Old combo listings removed/changed
+
+Additions from FAQ (v 1.12):
+     Even more accurate moves list!
+     NEW CHIP INFO!!!
+
+Additions from FAQ (v 1.0):
+     Sauron's Flesh Eating is there...oops!
+     Armadon's Leaping Uppercut correction
+     Primal Rage is on the Web!  (see Latest and Greatest)
+
+Additions from FAQ (v .93):
+     Chaos' Golden Shower and both Vertigo's fatalities have been
+confirmed
+     Armadon's Meditation and Sauron's Flesh Eating fatalities!
+     Combos like mad...multiple hits in the air explained
+     Some minor corrections (Chaos, Diablo)
+
+Additions from FAQ (v .9):
+     Letter system is back to match the template on the game
+     Clock and Counter changed to Toward and Away, respectively
+     Volleyball secret on Sauron's stage!
+     Corrections (Armadon, Diablo)
+     Talon's Jugular Bite FOUND!
+     More combos, endings
+     Jumping section
+
+Additions from FAQ (v .86):
+     The minimum movements needed have been checked!
+     Corrections for many of the characters!
+     Joystick visuals added to Special Moves section
+     Tabs are fixed!!!
+     Slide for Talon and the apes added to the Normal Moves section
+     More descriptions
+     A couple more combos
+     Endings!
+
+Additions from FAQ (v .82):
+     New Headings
+     What's New section
+     New Intro
+     Combos section
+     Offense and Defense Section
+     New moves, fatalities, and how to chomp on humans!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++ Table of Contents+++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.  Introduction  (What is Primal Rage)
+  1.1 Storyline
+  1.2 Meet the Critters
+2.  Moves List  (What can they do? The basic, funky, and wacky stuff)
+  2.1  Normal Moves
+  2.2  Special Moves
+  2.3  Jumping
+  2.4  Combos
+3.  Brain Gauge  (duh...what's that?)
+4.  Offense and Defense  (attack!  uh, run away!)
+  4.1  Offense
+  4.2  Defense
+     4.2.1 Blocking
+     4.2.2 Cross-up attacks
+     4.2.3 Avoiding Projectiles
+  4.3  Simultaneous Attack Collisions
+  4.4 Total Domination, Quick Kill & Scoring
+  4.5 CPU AI patterns
+  4.6 Final Battle
+5.  Endings (Spoilers here)
+6.  Misc stuff (That's cheeze! No, it's not! and other stuff)
+  6.1  Colors!
+  6.2  Cheeze alert!
+  6.3  Eat a worshiper!
+  6.4  Going ballistic
+  6.5  Sudden Death & the Clock
+  6.6  Secrets
+     6.6.1  Volleyball
+     6.6.2  Bowling
+     6.6.3  Raining Cows 'n' stuff!
+  6.7  Free Play!
+  6.8  PR Version
+  6.9  NEW UPGRADE is not coming. :-(
+7.  PR for home systems!!!!
+   7.1 PR is out for ten home systems! Quick List.
+   7.2 Brief descriptions of PR for various systems
+      7.2.1 Game Boy/Game Gear PR
+      7.2.2 SNES PR
+      7.2.3 Genesis PR
+      7.2.4 IBM PC CD-ROM PR
+      7.2.5 32X PR
+      7.2.6 3DO PR
+      7.2.7 Jaguar CD PR
+      7.2.8 PSX PR
+      7.2.9 Saturn PR
+   7.3 SNES, Genesis, 32X cheat codes & menus
+   7.4 PR pulled from the store shelves?!?
+8. Beyond the Game (Merchandising! :)
+  8.1 PR chars in Dragon magazine!
+  8.2 PR action figures!
+  8.3 PR cards & cardgame rules
+  8.4 PR soundtrack is out!!!
+  8.5 PR comic book...?
+9. PR2 preview! Whee!!!!!
+10.  Latest and Greatest (where and how to get this FAQ)
+  10.1  Send me e-mail! (Confirmations? Corrections? Combos? Mail 'em! :)
+11.  Credits (who we "borrowed" stuff from and famous people)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++ 1.  Introduction+++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*************************************************
+In the future civilization dies in the cataclysms.  
+The Draconians were born from the death of old Earth.  
+Who will rule the new Urth?
+*************************************************
+
+Fighting games have recently swamped the arcades. They range from really
+bad animation and graphics to just a plain old copy of another game.
+Primal Rage changes that by having excellent graphics and unique
+characters. But you say, "Who made this? Those dudes that made Asteroids?"
+Yup, that's them. They have released two games in 1994 and Primal Rage is
+one of them! Using what's called "Stop-Motion Animation," the graphics are
+intense. You are given seven characters to choose from: prehistoric
+dinosaurs, giant apes, and mythological creatures. Atari has put a lot of
+work into it. Two years worth! The special moves system is also new and
+different (see Special Moves). Primal Rage debuted at the 1994 CES in
+Chicago, and was voted "Showstopper" by Game Pro Magazine.
+
+Go see for yourself!
+
+///1.1 Storyline///
+
+     Before there were humans, gods walked the earth. They embodied the
+essence of Hunger, Survival, Life, Death, Insanity, Decay, Good, and Evil.
+They fought countless battles up through the Mesozoic Wars. Then Balsafas,
+an archmage from a parallel dimension, anticipated the threat that Earth's
+gods posed. He was not powerful enough to kill the gods, so instead he
+banished one to a rocky tomb within the moon. This disrupted the fragile
+balance between the gods; pandemonium ensued, and a great explosion threw
+clouds of volcanic dust into the atmosphere. The dinosaurs died out, and
+the surviving gods went into suspended animation.
+     Now, the impact of a huge meteor strikes the Earth. Its destructive
+force wipes out civilization, rearranges the continents, and frees the
+imprisoned gods. Get ready to rumble...
+
+///1.2 Meet the Critters///
+
+ARMADON, God of Life 
+a.k.a. "The Protector of the Ecosystem," "Tank Boy"
+Based on: Triceratops, Ankylosaurus, Stegosaurus
+Height: 17 feet
+Length: 27 feet
+Weight: 2.25 tons
+Rage Factor: +121%
+Consumption Rate: 570 lbs. per day
+Domain: the Hollows, a big underground chamber filled with stalactites and
+stalagmites. There are numerous cave openings with worshipers living in
+them.
+
+A big guy with lots of horns and spikes, Armadon is a slow mover and poor
+jumper but has some of the game's easier combos, which are quite damaging
+for their length. His combos run up to a maximum of 9-10 hits. Unlike the
+other reptiles, Armie doesn't really "bite" but rather attacks with the
+horn on his face. Probably the easiest character to use against the CPU,
+because of his strength & high priority basic attacks. His original name
+was "Spike" (perhaps that was before the game designers saw "The Land
+Before Time"... ^_^)
+    [from action figure Primal Profile]: "Guardian of the delicate and
+fragile ecological balance, Armadon was the last of the dino-beasts to
+emerge from his subterranean confines. Connected with Earth's lifeforce
+and energy flow, Armadon ascended to save the planet from the dino-beasts
+who want ultimate control over it. Ironically the battle for power raging
+among the beasts has caused a nearly irreversible terminal imbalance on
+the planet they are fighting to rule. Unable to tolerate the titans'
+destruction of the planet, Armadon's mission is to put an end to the
+battle for supremacy and the immense devastation caused by it."
+
+BLIZZARD, God of Good
+a.k.a. "The Noble Protector of Evolution," "Fahrenheit -451"
+Based on: Gorilla/King Kong
+Height: 20 feet
+Weight: 1.8 tons
+Rage Factor: +153%
+Consumption Rate: 715 lbs. per day
+Domain: the Cliff, an icy and mountainous area. There's a temple in the
+mountainside to the right. The big mountain in the background has the
+faint pattern of an ape face.
+
+Blizzard is a big ape with powers of elemental cold and semi-invulnerable
+rushing punches (sort of a de-evolved cross between Sub-Zero & Balrog :).
+His freezing abilities are excellent for setting up killer combos, and his
+air throw is good for cheezing the CPU. He can jump really high, too, but
+lacks a Leaping Attack. Blizzard's recorded combos run up to 14 hits, more
+if his multi-hit Punching Bag special move is involved.
+    [from action figure Primal Profile]: "In order for life to continue
+its natural progression, a delicate balance must be struck. This is the
+atmosphere that Blizzard has fought for millions of years to maintain.
+Enraged by the massive destruction he saw when he emerged from his primal
+slumber, Blizzard has embarked on a relentless execution mission. As
+guardian of natural evolution, Blizzard is determined to return Urth to
+its former state. As leader of the Virtuous Beasts (Armadon, Blizzard,
+Sauron, & Talon) Blizzard battles to return the balance to the Urth, even
+if it means destroying each and every dino-beast in the process!"
+
+CHAOS, God of Decay
+a.k.a. "The Mighty Techno-Witch Doctor," "Bodily Function Man"
+Based on: gorilla/Son of Kong 
+Height: 17 feet
+Weight: 1.1 tons
+Rage Factor: 181.4%
+Consumption Rate: <634 lbs. per day
+Domain: the Ruins, a strip of land near the wreckage of what was once a
+metropolis. A river flows in the background, and a beached yacht lies to
+the left.
+
+Similar to Blizzard but smaller, faster, and with slightly less jumping
+power, Chaos is an ape prone to disgusting bodily functions. His flatulent
+projectile is good for setting up combos, and his air Ground Shaker is
+great for cheezing the CPU. By interrupting his 1+2 with a low 4, he can
+string together combos up to 12+ hits in the corner. Though the entire PR
+gang is quite vocal, Chaos is the only one who ever speaks a word - if he
+loses a battle, he cries "No!" as he collapses. Chaos bears no relation
+whatsoever to that diamond-lovin' "Martial Champions" babe.
+    [from action figure Primal Profile]: "In his quest for control and
+domination over the world, Chaos has become his own worst nightmare. Right
+after the Cataclysms, he existed as a renegade scientist who wanted to
+take control of the new Urth. But his desire to dictate the process of
+human evolution proved to be his undoing when he conducted a genetic
+experiment that went horribly wrong. Instead, he was turned into a
+hideously disgusting beast."
+
+DIABLO, God of Evil
+a.k.a. "The Evil Flame Thrower," "EXTRA Toasty"
+Based on: Allosaurus (a relative of T-rex)
+Height: 17 feet
+Length: 29 feet
+Weight: 1.2 tons
+Rage Factor: +155.9%
+Consumption Rate: <525 lbs. per day
+Domain: The Inferno, a rocky volcanic island created by a geothermic
+upheaval ten times as great as that which made the Hawaiian islands.
+Pyramids and stone sculptures lie among the active   volcanoes and lava.
+
+A striped, bipedal fire-breathing reptile with a big mouth and useless
+tiny foreclaws, quick on his feet and an excellent jumper. Instead of a
+throw, he has a teleport with unblockable fire. Diablo's in-close game is
+very weak (Chaos can even hit him out of Quick Attacks done within
+range!), but the speed, power and versatility of his long range attacks
+make him a good distance fighter. His combos top out at around 10 hits,
+unless one buffers in hop jumps. Diablo bears no relation whatsoever to
+that spandex-coated Marvel dweeb.
+    [from action figure Primal Profile]: "Now that Diablo, leader of the
+Destructive Dinos (Chaos, Diablo, & Vertigo), has been released from his
+fiery prison deep within the Urth, he seeks to turn the world into a
+raging inferno. Determined to pursue his vision for Urth as a dominion of
+evil, Diablo thrives on inflicting immense pain and agony on his enemies.
+His followers and foes alike believe that Diablo is evil incarnate.
+Annihilation of all other dino-beasts is essential for Diablo to continue
+his reign of terror and carry out his gruesome vision for Urth."
+
+SAURON, god of Hunger
+a.k.a. "The Carnivorous King of Hunger," "Ray, the Ugly Shape-changer on
+Steroids"
+Based on: Tyrannosaurus Rex
+Height: 20 feet
+Length: 27 feet
+Weight: 2.5 tons
+Rage Factor: +149.6%
+Consumption Rate: 780 lbs. per day
+Domain: the Cove, a sandy beach next to the ocean. A decaying
+Parthenon-like temple lies in the background surf.
+
+Sauron is similar to Diablo but larger; he's the biggest critter in the
+game, and consequently the biggest combo target. Both Diablo and Sauron
+walk differently than real Allosaurs/Tyrannosaurs, which most likely held
+their heads and upper bodies lower to the ground. He is somewhat slow (yet
+presumably faster than real T-rexes ever were), a medium jumper, and
+dishes out major damage. His air-throw and air Earthquake Stomp are
+excellent for cheezing the CPU. Doing combos above 8 hits is almost
+impossible unless you buffer in an extra jump. (The Ring, the Ring, WHERE
+IS THE RING?!?!?)
+    [from action figure Primal Profile]: "For some dino-beasts,
+immortality comes at a price. For Sauron, the cost is nothing less than an
+insatiable appetite. From his first appearance on the new Urth, one of the
+Virtuous Beasts, attracted many believers. All of Urth is the battlefield
+for Sauron, as he towers into war after war, in his quest for domination!
+Waging war with the primal titans is what Sauron lives for, for in their
+defeat is tomorrow's lunch."
+
+TALON, God of Survival
+a.k.a. "The Protector of the Innocent," "The Little Bastard"
+Based on: Deinonychus (a relative of Velociraptor)
+Height: 16 feet
+Length: 30 feet
+Weight: 0.9 tons
+Rage Factor: +109.77%
+Consumption Rate: 408 lbs. per day
+Domain: the Strip, a grassy stretch of land dotted with trees. The number
+49 is faintly visible in the ground at center screen. A waterfall splashes
+off to the right.
+
+The smallest and fastest critter in the game, Talon is a striped raptor
+with a feathered crest running along the back of his neck. His teeth are
+visible only on the front half of his mouth, and he has a large upraised
+claw on the second toe of each foot. (Deinonychi normally kept this claw
+cocked so as not to interfere with moving about, but brought it down to
+slash at their prey's belly). His size makes him a frustratingly small
+target; he can even duck completely underneath most projectiles. That
+combined with his excellent jumping ability makes up for his lack of a
+projectile move. As further compensation, he also has the only special
+moves in the game with auto-hits: his two-hit Jugular Bite, and three-hit
+Pounce & Flip.
+     Talon is the only critter who flips during his jumps, and the only
+reptile who can attack with his front claws. He cannot attack with his
+tail, which incidentally is much more flexible than the rigid,
+balancing-pole tails of real Deinonychi. His speed and high-priority air
+attacks make him one of the easiest characters to use vs. human or CPU
+opponents. His biggest weaknesses are probably his short range and the low
+damage rating of virtually all his attacks (on version 2.3, at least).
+Thanks to his combo-extending Slasher move, Talon can get 12-hit combos on
+big characters with relative ease. It's hard to do more than 10 hits on
+small characters. 15-hit combos are possible if a big opponent is
+cornered. Talon bears no relation whatsoever to that cyborg loser from
+Bloodstorm, or that gal hawk-warrior from "The Aniverse", or that
+cat-wizard from "Marvel 3099", or...
+    [from action figure Primal Profile]: "Talon is in his most vicious
+state when it comes to the defense of his raptor clan. Before the
+Cataclysms, Talon's home was peaceful and harmonious; but now Talon and
+his followers have been thrust into an unfamiliar life of power struggles,
+battling between tribes and dino-beasts."
+
+VERTIGO, Goddess of Insanity
+a.k.a. "The Mesmerizing Sorceress," "I am Woman, Hear Me Hiss"
+Based on: king cobra, Sellosaurus (mistakenly named "Efraasia")
+Height: 18 feet
+Length: 48 feet
+Weight: 1.3 tons
+Rage Factor: +120.37%
+Consumption Rate: 597 lbs. per day
+Domain: the Tomb, a grassy knoll with Stonehenge-style rock structures.
+Images of Vertigo's petrified enemies are visible in the leftmost stones.
+A full moon is in the sky.
+
+The only female PR critter, Vertigo has a body shaped somewhat like that
+of a Sellosaurus (a young Sellosaurus was once mistakenly called
+"Efraasia", hence the word in GamePro's articles & PR Strategy Guide).
+Like Sellosaurus, she is a lightly built with legs longer than her
+forearms, and has a long neck & tail. Unlike Sellosaurus, she has only two
+fingers on her front hands (Sellosaurus had five) and the head & hood of a
+king cobra. Her hood is outlined with small spikes, and has white markings
+on its back resembling a long-toothed skull. Her original name was
+"Cobrasaur," but that was too obvious. ^_^ She spits venom and hisses
+instead of crying out.
+     Vertigo can't jump much higher than Armadon; she's only a little
+faster than him on the ground, and *painfully* slow in the air unless she
+uses a long jump or hop jump. Vertigo is the weakest PR character in terms
+of damage per attack, but her attacks possesses the longest reach, and
+that combined with her Come Slither special move lets her do combos up to
+14 hits on any opponent, in or out of the corner. She can cast spells,
+too; her teleports and unblockable "Voodoo Spell" help make up for her
+lack of a regular throw or leaping attack. Unlike the rest of the PR gang,
+she cannot kick with her hind legs. Her lack of any basic or special
+anti-air move outside of some jumping attacks is a significant liability.
+Vertigo bears no relation whatsoever to that loopy count from "Batman
+Adventures," or that mutantess from the X-Men cartoon...
+    [from action figure Primal Profile]: "Total insanity governs Vertigo's
+every action. With her mesmerizing powers of mind control and mastery of
+the unknown, she has attained mythical proportions among her followers.
+Vertigo's followers are loyal and their devotion is complete, fanatical
+and blind. She believes the defeat of all other dino-beasts can only be
+accomplished by utilizing her sorcery and the power of her devout
+followers... if she doesn't destroy their minds first."
+
+????, God of Death?
+a.k.a. "Property of Golden Axe III"
+Based on: Advanced Dungeons & Dragons dracolich?
+Height: ?
+Length: ?
+Weight: ?
+Domain: Dinosaur Graveyard [of the Final Battle]? This area is littered
+with mounds of dinosaur bones, including a couple big skeletons propped up
+to the left. The ground has bright red cracks in it, and there's a huge,
+swirling vortex in the sky.
+
+There was going to be another PR upgrade that reportedly would add a
+dragon-skeleton boss capable of flight & with an energy-siphoning power.
+Alack, the upgrade plans were scrapped, so that the boss shall live only
+in our imaginations... (and in my Mortal Kombat fanfic, "The Coming of
+Winter." Sauron, Vertigo, & some of Talon's cousins also have bit parts!
+E-mail me at vctr113062@aol.com for a copy. :)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++ 2.  Move list++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///2.1  Normal Moves///
+
+Primal Rage has four buttons arranged in a square, and a joystick.  The
+first vertical column of buttons are "Quick" attacks.  The second are
+"Fierce."  The upper horizontal row of buttons are "High" attacks, and the
+bottom row are "Low" attacks. Both High buttons or both Low buttons
+pressed together are an extra-damaging "Power" attack, just like the AB
+and CD attacks in Samurai Shodown. The High Quick button also functions as
+the "start" button.
+
+In addition to ASCII representations, the buttons will be referred to as
+1=High Quick, 2=High Fierce, 3=Low Quick, 4=Low Fierce. A "+" signifies
+that two buttons are pressed together; for example, "1+2" indicates that
+both the High Quick and the High Fierce buttons are pressed at the same
+time.
+
+Player 1 side joystick and button configuration:
+
+      Up-Away  Up   Up-Toward              Strong
+              (UA)  (U)   (UT)            ___|___
+                O    O    O                    |       |
+                 \   |   /                   Quick  Fierce
+
+Away (A) O--         --O Toward (T)       O       O
+
+                 /   |   \                     O       O
+                O    O    O
+    Down-Away  Down  Down-Toward
+      (DA)     (D)      (DT)
+
+"Standing" means that the character is standing normally during the move
+(joystick is neutral); "low" or "crouching" means that the character is
+crouching during the move (joystick is held down).
+
+Key:
+O = button pressed
+. = button not pressed
+U = Up
+T = Toward
+A = Away
+D = Down
+UT = Up & Toward 
+UA = Up & Away 
+DT = Down & Toward
+DA = Down & Away
+Full = Do a full circle
+  Toward = full circle clockwise when facing right  (T-D-A-U)
+  Away = full circle counterclockwise when facing right  (T-U-A-D)
+  (think of a wheel rolling "away" or "toward" you're opponent)
+
+A hyphen (-) represents a fluid motion, in which you roll the joystick.
+For example:
+      D-T       is       |  \  --O      which is Sub-Zero's (MK) freeze
+motion
+                            O   O          or Ken's (SF2) fireball motion.
+
+A comma (,) means that you just tap the joystick. For example:
+      D, U      is     |    O         which is Guile's (SF2) flash kick
+motion
+                          O    |
+
+Note: many special moves let you get away with either tapping or rolling
+the joystick, but most fatalities specifically require one or the other.
+
+All characters:
+O . = Quick Bite   . O = Chomp   O O = Big Chomp
+. .                          . .                     . .
+
+[or, 1=quick bite, 2=chomp, 1+2=big chomp]
+
+. . = Quick Tail   . . = Tail    . . = Big Tail
+O .                     . O           O O
+
+[3=quick tail, 4=tail, 3+4=big tail]
+
+Move specific to Talon and the Apes (Chaos and Blizzard):
+     |      . .   = Slide
+    O   O O
+[crouching 3+4. BTW the apes' "slide kick" is reminiscent of Cammy's
+crouching Roundhouse or Nakoruru's crouching CD]
+
+Talon also has a short slide which is:
+       |    . .
+      O   . O
+[crouching 4]
+
+///2.2 Special Moves///
+
+   We'll be classifying special moves into eight types:  Projectiles,
+Leaping Attacks, Unblockables, Stomps, Teleports, Anti-air,
+Anti-projectile and "generic" attacks.  Projectiles & Teleports are
+self-explanatory, and "generic attacks" are basically "special" punches or
+kicks.  The rest require some explanation.  Leaping Attacks are specially
+guided jumping attacks which were unblockable in version 1.7, and can only
+be blocked high in version 2.3. Leaping Attacks are too slow to be combo'd
+after basic attacks, although you can still interrupt basic attacks with
+them, and some Leaping Attacks can be followed up with more hits. Stomps
+are attacks in which the character stomps the ground and tries to shake up
+his opponent. They were unblockable in version 1.7; you had to avoid them
+by jumping. In version 2.3, you must either jump or block a Stomp low,
+otherwise it will toss you into the air for a beating!  
+     Unblockables are special moves which cannot be blocked, such as
+throws. Attempting an Unblockable move on a character in block-stun will
+causes a cheeze warning - see Misc. Info for more on cheezey stuff! If you
+do a ground-based throw when your opponent is an invalid target (in the
+air, in block-stun, still getting up from a knockdown, or too far away),
+your character will go through a "missed throw" animation during which you
+may get pounded. "Missed throw" animations can be used as taunts by the
+creative! ^_^ One Unblockable move, Vertigo's Voodoo Spell, is not a
+throw. You can always jump to avoid Unblockables, but if your opponent
+fakes you into jumping at the wrong time, he can retaliate with an
+anti-air move!
+     Anti-air moves work especially well against airborne opponents
+(particularly since you cannot block in the air), but can also hit
+opponents on the ground. Anti-air moves aren't necessarily 100%
+invulnerable to all air attacks, so be careful! In general, your
+character's exposed back or hindquarters are a vulnerable target, and most
+special moves leave a character open to a low 3+4 or similar attacks.
+Anti-projectile moves are useful for bypassing a projectile and attacking
+the enemy at the same time. Leaping Attacks technically fall into this
+category (if executed with *extremely* swift timing) but for practical
+purposes they're given their own class. Throws that hit and a few other
+moves render you temporarily immune to projectiles, but have an extremely
+short attacking range (and if you're that close a smart opponent isn't
+likely to toss projectiles anyway). The other anti-projectile moves
+usually have a limited or very specific invulnerability area/period and
+attacking range; if you mis-time the move you'll run into the projectile,
+and if the enemy's too near or far, you won't hit him and may be
+susceptible to counterattack. 
+
+   The Primal Rage special move system works opposite the standard; to do
+a special move, you press _and hold down_ the appropriate buttons, then
+execute the joystick motion. Unlike certain Killer Instinct shadow moves,
+you do not have to let go of the buttons to complete the special move.
+You'd better do so anyway, though, unless you like to stand still forever
+- you can't move or block while holding down the buttons for special
+moves, except Talon's "Run".
+
+   Despite Primal Rage's attempt to revolutionize the "special move"
+system, the new version 2.3 upgrade allows you to execute moves either
+through the proprietary PR style or through "traditional" style
+button/joystick motion. Probably due to a lot of "I can't do the moves"
+(read the cabinet next time...!) from new players. So much for "onward and
+upward."
+
+   The version 2.3 upgrade contains new programming which allows you to
+execute joystick motions, _then_ press the requisite buttons. Even 360
+degree moves like Blizzard's Punching Bag can be done the traditional way,
+provided that you move joystick so quickly that Blizzard doesn't jump by
+accident. In a few situations this has caused unintentional special moves,
+but in general it does make the special moves more forgiving. (tho' some
+would consider this bad... "oh, no, now _anyone_ can freeze my butt?" :)
+
+  All Special Moves listed work on a Primal Rage version 2.3 arcade
+machine, SNES PR, or IBM PC PR with a four-button game pad. They should
+all work on PSX, 3DO, Jaguar CD, and Saturn PR as well. As for Genesis &
+32X PR, be aware that "version 2.3 only" moves & fatalities are not in
+those versions. Game Boy/Game Gear PR have their own movelist separate
+from this FAQ. If IBM PC PR is played with the keyboard or two-button game
+pad, then the moves are different; see the PR for PC FAQ for more
+information. 
+
+These moves have been personally confirmed by yours truly on a PR arcade
+machine (yes, even Armadon's Meditation! I can actually do it now! :).
+Note that the arcade manager can set a GORE/NO GORE switch. In NO GORE
+mode, all the blood is turned off, all fatalities are disabled, and you
+cannot eat people; they'll just bounce into the air. Major bummer...
+
+  ^  indicates 'Combo Starter and/or Extender.' Marks special moves that
+can be followed up with ground or volley hits. 
+    All special moves can interrupt basic attacks; the overwhelming
+majority of special moves can be combo'd after a basic attack, and most
+special moves will end a combo. A few special moves, such as Armadon's
+Iron Maiden, are too slow and require too much recovery time to be part of
+a combo at all.
+
+  *  indicates 'Finishing Move'
+     NOTE1: These can be done from ANYWHERE but don't stand too close or
+you'll hit your opponent while trying to hold down the buttons! For those
+'two-part' fatalities such as Vertigo's Petrify, hold the first two
+buttons while you do the first set of joystick movements, then press the
+remaining buttons WHILE STILL holding the first two buttons, and finish
+the remaining joystick movements. 
+    NOTE2: you _must_ do the fatalities _quickly_ or they won't work. Do
+not pause between the halves of a two-part fatality. If you mess up, you
+can typically re-enter the fatality at least once more before time runs
+out, so keep trying and don't give up!
+    Easy enough? ^_^
+
+  ** indicates 'Chomp a human for more life.' Chomp a Human moves can hit
+opponents for a little damage.
+
+///ARMADON///   (The Hollows)
+_________________________________________________
+| Bed-o'-Nails: Armadon balls up like a porcupine with spikes sticking
+out; keep holding the buttons to make it last longer. Projectiles will
+pass harmlessly over him. Easier to use in combos on Talon and/or on home
+versions of PR. Anti-air.
+|
+|Hold 2+3; move joystick D, U
+|
+|     . O        |  O                        
+|     O .       O  |
+|_________________________________________________
+| Iron Maiden: Jumps into the air and turns his back downward and lands on
+opponent [the most damaging single move of the game]! Used to be
+Unblockable on ver 1.7, but not 2.3. Leaping Attack (cannot be combo'd).
+|
+|Hold 2+3; move joystick A-U-T
+|
+|     . O            O   O   O             
+|     O .        O--  \  |  /  --O
+|_________________________________________________
+| ^ Mega Charge (a.k.a. "Rushing Uppercut"): Takes five steps and then
+does an uppercut with his horn. On version 2.3, Armadon can volley his
+opponent after the move hits. Anti-air; used to be anti-projectile on
+version 1.7, but not in version 2.3.
+|
+|Hold 1+3; move joystick A-D-T
+|
+|     O .        O--  /  |  \  --O           
+|     O .            O   O   O
+|_________________________________________________
+| The Gut Gouger: Impales and tosses the opponent with his horn.
+Unblockable (throw).
+|
+|Hold 1+2+3; move joystick T, A
+|
+|     O O       --O    O--                  
+|     O .
+|_________________________________________________
+| Hornication Uppercut: Shouryuken! Armadon does a jumping nose spike.
+Anti-air.
+|
+|Hold 1+2+3; move joystick DT-T-UT
+|
+|     O O        \  --O   O                  
+|     O .           O      /
+|_________________________________________________
+| Spinning Death: Gets into a ball and spins across the screen. Used to be
+anti-projectile on version 1.7, but not on version 2.3. Anti-air.
+|
+|Hold 1+4; move joystick A, T-D (or just circle joystick toward)
+|
+|     O .        O--  --O  \     |             
+|     . O                       O  O
+|_________________________________________________
+| ^ Flying Spikes: Armadon shoots spikes from his tail. If Armadon's
+opponent is cornered a medium distance away, the Flying Spikes can be
+followed up with a standing 2, 1+2, etc. Projectile.
+|
+|Hold 2+4; move joystick A-U
+|
+|     . O            O   O                   
+|     . O        O--  \  |
+|_________________________________________________
+| *Gut Fling: Armadon digs his horn & beak into the opponent, slinging the
+blood 'n' guts around. Fatality.
+|
+|Hold 1+2+3; move joystick D, D, D, D, U
+|
+|     O O       |  |  |  |  O               
+|     O .        OOOO  |
+|_________________________________________________
+| *Meditation: Armadon curls up and creates electricity that zaps his
+opponent. Fatality.
+|
+|Hold all buttons; tap joystick T, D, A, T, T 
+|
+|     O O        --O   |   O--  --O  --O     
+|     O O                O
+|_________________________________________________
+| *The Impaler: Armadon curls up and shoots several spikes up into the
+air; they fall on his opponent, skewering him. Fatality. Version 2.3 only.
+
+|
+Hold all buttons; tap joystick D, A, U, D. (Sometimes the move happens if
+you do other things, but this is the fully confirmed, most reliable
+method.)
+
+|     O O       |  O-- O  |                 
+|     O O      O        |   O
+|_________________________________________________
+| **Chomp a human: Armadon brings his tail over his head and uses it to
+snatch a sacrifice, proving that he's not purely herbivorous.
+|
+|Hold all buttons; move joystick U-T
+|
+|     O O        O   O                       
+|     O O        |  /  --O
+|_________________________________________________
+
+///BLIZZARD/// (The Cliff)
+_________________________________________________
+|  Mega Punch (Short): Gives your opponent a big bash to the head.
+Projectiles or attacks to his upper body will pass harmlessly through him
+during the windup, just like all other Mega Punches. The Short Mega Punch
+has a brief wind-up, short range, and little recovery time. It's quick
+enough to use after a low 3+4. Anti-air & anti-projectile (also immune to
+all Earthquake attacks).
+|
+|Hold 1+3; move joystick A, T
+|
+|     O .        O--   --O                   
+|     O .
+|_________________________________________________
+| Mega Punch (Quick): This punch has the fastest wind-up, medium range,
+and the longest recovery time. It can be used after the low 3+4. Anti-air.
+Anti-projectile against very fast projectiles only (also immune to all
+Earthquake attacks).
+|
+|Hold all buttons; move joystick A, T
+|
+|     O O        O--   --O                   
+|     O O
+|_________________________________________________
+| Mega Punch (Long): This has the same wind-up and recovery time as the
+Short Mega Punch, and the longest range. In version 1.7, it did more
+damage than the other two Mega Punches. Anti-air & anti-projectile (also
+immune to all Earthquake attacks).
+|
+|Hold 2+4; move joystick A, T
+|
+|     . O        O--   --O              
+|     . O
+|_________________________________________________
+| Mega Punch (Fake): Blizzard winds up for a Long Mega Punch but doesn't
+actually punch! Does not hit or damage opponent (duh :).
+|
+|Hold 1+3; move joystick D, U
+|
+|     O .        |  O                       
+|     O .       O  |
+|_________________________________________________
+| ^ Freeze Breath (a.k.a. "Cold Breath"): Chill your opponent out Sub-Zero
+style, immobilizing him for a brief time, and hit him with a combo before
+he thaws. Don't use both the Freeze Breath and the Ice Geyser in a combo,
+or you'll get a No Cheeze meter! The Freeze Breath is slower and more
+difficult to combo after basic attacks than the Ice Geyser, but does
+inflict slightly more damage. On version 2.3, enemies don't stay frozen
+for as long. Projectile. 
+|
+|Hold 1+2+4; move joystick A, T
+|
+|     OO        O--   --O                   
+|     . O
+|_________________________________________________
+| ^ Ice Geyser: Blizzard creates a vertical column of ice, inflicting a
+little damage and freezing the opponent as per his Freeze Breath. Don't
+use both the Ice Geyser and the Freeze Breath in a combo, or you'll get a
+No Cheeze meter! Victim must be close and either in the air or not
+blocking. Enemies don't stay frozen for as long on version 2.3. Anti-air.
+|
+|Hold 1+2+4; move joystick D, U
+|
+|     O O        |  O                        
+|     .  O        O  |
+|_________________________________________________
+| ^ Punching Bag: Grab and stun your opponent until he shakes out of it
+(by rapidly moving his joystick back and forth). Quickly hit button 1
+several times to beat him up, then before his brain meter regenerates and
+he escapes your grasp, tap another button to deliver the wind up punch:
+2=low arc, 3=medium arc, 4=high arc. The Punching Bag can be followed up
+with various volley attacks. It is the punches, not the grab, that hurt
+the opponent and count as combo hits. This is a fairly weak move in and of
+itself. Multi-hit move. Unblockable (throw).
+
+NOTE: Even if the victim does not actively shake out of the Punching Bag,
+his brain meter slowly regenerates anyway, and once it's full the Punching
+Bag comes to an end. Shaking out of the Punching Bag is pretty easy to do.
+On an actively resisting second player or the CPU, one can typically get
+5-7 hits out of this move (not counting follow-up attacks). On a passive
+second player, I've gotten up to 43 hits with my own finger power, and an
+absolute maximum of 48 hits using the turbo setting on my SNES joystick.
+|
+|Hold 1+4; move joystick T-D-A-U
+
+|     O .        Full                        
+|     . O        Toward
+|_________________________________________________
+| Air Throw: Grab opponent in the air. Useful in combos too. On arcade
+version 2.3 only, Blizzard can air-throw some opponents (Blizzard, Chaos,
+Diablo, Sauron) when they are standing on the ground, unless they do a
+special move. Unblockable (throw).
+|
+|Tap 2+3 when in the air directly above opponent
+|
+|     . O
+|     O .
+|_________________________________________________
+| Throw: Blizzard appears to do a hop-jump backward and air-throw his
+opponent, even though this is a ground-based move. Unblockable (throw).
+|
+|Hold 2+3; move joystick A-U-T
+|
+|     . O             O   O   O              
+|     O .        O--   \  |  /   --O
+|_________________________________________________
+| *Brain Bash: Blizzard pounds opponent into the ground and punches his
+brain out! Sheeva who? ^_^ Fatality.
+|
+|Hold 1+2+4; move joystick D, D-A-U-T
+|
+|     O O        |  +  Full                        
+|     .  O        O     Toward
+|_________________________________________________
+
+| *To-Da-Moon: Blizzard does the punching bag, winds up, and knocks
+opponent into the background! Fatality.
+|
+|Hold all buttons; move joystick D, D, D, D, U
+|
+|     O O        |  |  |  |  O               
+|     O O       OOOO  |
+|_________________________________________________
+| *Redemption: Sends opponent's soul to heaven, leaving only the bones.
+Fatality. Version 2.3 only. 
+|
+Hold all buttons; tap joystick D, T, U, D, U
+
+|     O O        | --O  O |  O               
+|     O O       O        |  O |
+|_________________________________________________
+| **Chomp a human: Blizzard scrapes his hand along the ground, grabs a
+worshiper, gobbles him/her, and spits out the bones.
+|
+|Hold all buttons; roll joystick A-U-T-D
+|
+|     O O        Full                         
+|     O O        Toward
+|_________________________________________________
+
+///CHAOS/// (The Ruins)
+_________________________________________________
+| Grab-'n'-Throw: Grabs opponent by the neck and tosses him across the
+screen. Unblockable (throw).
+|
+|Hold 2+4; move joystick T, A
+|
+|     . O        --O   O--              
+|     . O
+|_________________________________________________
+| ^ Power Puke (Slow): Chaos pukes a blob of green vomit. If the opponent
+is far away, Chaos can follow the Slow Power Puke up with a Battering Ram
+that doesn't hit, but does bring him close enough to combo in some more
+damage. Alternatively, he can follow up the far Slow Power Puke with the
+Flying Butt Slam or a long jump + air combo. Projectile.
+|
+|Hold 2+3; move joystick U-T
+|
+|     . O       O   O                        
+|     O .        |  /  --O
+|_________________________________________________
+| Power Puke (Fast): This move is much easier to finish combos with than
+the Slow Power Puke. Projectile.
+|
+|Hold 1+4; move joystick U-T
+|
+|     O .       O   O                        
+|     . O        |  /  --O
+|_________________________________________________
+| Fart of Fury: Chaos sticks his butt in the air and farts a poisonous,
+slow-moving green cloud. Projectiles pass over him as he does so. If the
+cloud makes contact, it does no damage and won't count as a combo hit, yet
+it will stun the opponent until he shakes out of it (by rapidly moving his
+joystick back and forth). Unlike other projectiles, the FoFury will
+disappear after traveling a single screen length. Projectile (cannot be
+combo'd).
+|
+|Hold 2+3; move joystick D-T-U-A
+|
+|     . O       |             O O O                
+|     O .      O    --O  /    |    \  O--
+|_________________________________________________
+| ^ Ground Shaker (a.k.a. "Ground Pound," "Ground Smash"): Chaos jumps and
+lands creating an earthquake. Can be followed up with various volley
+attacks. Stomp. Unlike Sauron's Earthquake, it tends to throw Chaos'
+opponent away from him on the arcade version. Given precise timing, enemy
+projectiles will pass over Chaos' head as he slams the ground. Can be done
+in the air on version 2.3 only.
+|
+|Hold 2+3; move joystick A, AU, AD
+|
+|     . O             O     /                  
+|     O .        O--   \  O
+|_________________________________________________
+| ^ Flying Butt Slam: Jumps and lands on opponent with his butt. Hold
+joystick toward or away to determine which way he bounces off. Can be
+combo'd after a Slow Power Puke from far away, but little else. Can be
+followed up with low-hitting attack turned into a combo, such as low 3, 2,
+1+2 etc. if it hits. Used to be Unblockable on ver 1.7, but not 2.3.
+Leaping Attack.
+|
+||Hold 2+4; move joystick D-T-U-UT-DT
+|
+|     . O        |  \  --O  O  O  O  --O  \   
+|     . O        O   O     /   |  /               O
+|_________________________________________________
+| ^ Battering Ram: Chaos puts his shoulder out and charges. He can usually
+volley his opponent if it hits. Anti-air.
+|
+|Hold 1+3; move joystick T, T
+|
+|     O .        --O  --O                    
+|     O .
+|_________________________________________________
+| *Golden Shower: Chaos raises a leg and urinates on the opponent; all
+that's left are the bones. Fatality.
+|
+|Hold 1+3 and move joystick D, D; then hold all buttons and move joystick
+A, T, A, T
+|
+|     O .    |  |        then O O   O--  --O  O--  --O    
+|     O .   O O              O O
+|_________________________________________________
+| *Cannonball: Chaos does a cannonball into the water [lethally poisoning
+the water supply ^_^]. Fatality. On version 1.7, this only works on stages
+with water in the background [Chaos' Ruins, Sauron's Cove, & Talon's
+Strip]. On version 2.3, this move will work on any stage; if there's no</pre><pre id="faqspan-2">
+water in the background, you won't see Chaos go for a swim, but you will
+hear the "fatality music" and your opponent will be dead/flickering in the
+final battle. 
+|
+|Hold all buttons; move joystick AD, UT-DT-AD
+|
+|     O O           /  O  --O  \    |    /        
+|     O O         O  /            O O O
+|_________________________________________________
+| *The Churl: Chaos does an extremely slow Power Puke and walks off the
+edge of the screen, emerging on the other side to suck the puke back in!
+[This presumably grosses his opponent to death ^_^]. Fatality. Version 2.3
+only.
+|
+Hold all buttons; tap joystick T, T, T, A, A, A. 
+
+|     O O        --O --O --O O-- O-- O--      
+|     O O                
+|_________________________________________________
+| **Chomp a human: Chaos scrapes his hand along the ground, grabs a
+worshiper, gobbles him/her, and spits out the bones.
+|
+|Hold all buttons; move joystick T-D-A
+|
+|     O O        --O  \    |    /  O--           
+|     O O                O O O
+|_________________________________________________
+
+///DIABLO/// (The Inferno)
+_________________________________________________
+| ^ Fireball (Slow): Diablo spits a fireball that travels across the
+screen. Can be followed up with the Pulverizer if the opponent is far
+away, certain basic attacks if the opponent is medium distance away and in
+the corner, or a long jump with air attacks if the opponent is an entire
+screen length away and in the corner. Projectile.
+|
+|Hold 2+4; move joystick D-T
+|
+|     . O        |  \  --O                   
+|     . O       O   O
+|_________________________________________________
+| Fireball (Fast): This move is easier to finish combos with than the Slow
+Fireball. Projectile.
+|
+|Hold 1+3; move joystick D-T
+|
+|     O .        |  \  --O                    
+|     O .       O   O
+|_________________________________________________
+| ^ Torch: A short-range, very damaging flame blast from Diablo's mouth.
+The flame must burn for a moment before it can hit his opponent; hold the
+buttons down for the Torch to last up to five seconds (if you release the
+buttons immediately, Diablo's mouth opens but no flames come out - a "Fake
+Torch" taunt! :). Enemy projectiles pass harmlessly through Diablo. On the
+arcade version only, he is also immune to Armadon's Iron Maiden. The Torch
+will stun Diablo's victim for a short time. The Torch is too slow to be
+combo'd after a hit, but it can be followed up with various attacks.
+|
+|Hold 1+3; move joystick U-T
+|
+|     O .        O   O                        
+|     O .        |  /  --O
+|_________________________________________________
+| ^ Hot Foot: Diablo lowers his head and spits a fiery blast that goes
+about half-way across the screen at his opponent's feet, knocking him
+down. If Diablo's victim is cornered then the Hot Foot can be followed up
+with a low 1, which will bounce him in the air for two more volley hits.
+Anti-projectile.
+
+Note: It is easier to volley opponents after the Hot Foot on home versions
+of PR. Some opponents (Armadon, Talon) are more easily volleyed than
+others. Vertigo cannot be volleyed after the Hot Foot.
+|
+|Hold 2+4; move joystick UA, DT
+|
+|     . O       O    \                       
+|     . O         \    O
+|_________________________________________________
+| ^ Mega Lunge: Diablo ducks, charges, and throws his head up. On the
+arcade version, Diablo can follow up the Mega Lunge victim with volley
+hits if the victim is cornered. On home versions, the victim does not have
+to be in the corner to get volleyed. Anti-air & anti-projectile.
+|
+|Hold 1+4; move joystick D-T
+|
+|     O .        |  \  --O                
+|     . O        O  O
+|_________________________________________________
+| The Pulverizer: Leap into the air and stomp on your opponent a few times
+(but only hits once). Recovery time after a missed landing is virtually
+nil. Used to be Unblockable on ver 1.7, but not 2.3. Leaping Attack; can
+be combo'd with a Slow Fireball from far away, but little else. 
+|
+|Hold 1+4; move joystick U-T-D
+|
+|     O .        O   O       \    |           
+|     . O        |  /   --O    O O
+|_________________________________________________
+| ^ Inferno Flash:  Diablo teleports in a flash of fire. If the opponent
+is nearby and in the open, Diablo will reappear on his other side. If the
+opponent is nearby and in the corner, Diablo will reappear on the same
+side. If the opponent is far away, Diablo may reappear in the same place.
+The fire during Diablo's disappearance (not his reappearance) is a
+short-range attack that will damage the enemy and stun him for a short
+time. Can be followed up with various attacks if the victim is cornered.
+Teleport; used to be Unblockable on version 1.7, but not version 2.3.
+|
+|Hold 2+3+4; move joystick U
+|
+|     . O        O                            
+|    O O        |
+|_________________________________________________
+| *Incinerator: Diablo rears back and blows a HUGE blast of fire that
+burns the flesh off the bones! Fatality.
+|
+|Hold all buttons; move joystick UA-D-DT
+|
+|     O O        O   O--   /  |  \            
+|     O O          \       O   O   O
+|_________________________________________________
+| *Fireball: Diablo blasts a big fireball that roasts your opponent!
+Fatality.
+|
+|Hold 2+3+4; move joystick T, T, T
+|
+|     .  O        --O  --O  --O                
+|    O O
+|_________________________________________________
+| *Infernal: Diablo stomps on the ground and sends his opponent down a
+fiery fissure, to hell. Fatality. Version 2.3 only.
+|
+Hold 1+3+4; tap joystick U, D, U, D, D
+
+|     O .         O  |  O  |   |                   
+|     O O        |  O  |  O O
+|_________________________________________________
+| **Chomp a human: Diablo dips his head down and chews up a worshiper.
+|
+|hold all buttons; move joystick D, U, D
+|
+|     O O        |   O  |                      
+|     O O       O   |  O
+|_________________________________________________
+
+///SAURON/// (The Cove)
+_________________________________________________
+| Primal Scream: Sauron roars and creates a short-range shield around
+himself; does heavy damage to brain meter. Projectiles pass harmlessly
+through him. Anti-air.
+|
+|Hold 1+3; move joystick D, U
+|
+|     O .        |  O                       
+|     O .       O  |
+|_________________________________________________
+| ^ Earthquake Stomp: Jump on the ground to send your opponent flying
+toward you, then volley him. Stomp. It used to be Unblockable in version
+1.7, but not in version 2.3. Can be done in the air on version 2.3 only. 
+|
+|Hold 1+2+4; move joystick U, D
+|
+|    O O       O  |                         U, D
+|     . O        |   O
+|_________________________________________________
+| The Cranium Crusher: Shouryuken! ^_^ Sauron leaps head-first into the
+air. Leaves you vulnerable if you miss. Anti-air.
+|
+|Hold 1+4; move joystick D, U
+|
+|     O .        |  O                         
+|     .  O      O  |
+|_________________________________________________
+| Leaping Bone Bash: Pounce on your opponent and bite off some of his
+flesh. Used to be Unblockable on ver 1.7, but not 2.3. Leaping Attack
+(cannot be combo'd).
+|
+|Hold 2+3; move joystick D, U, D
+|
+|     . O        |  O  |                      
+|     O .       O  |  O
+|_________________________________________________
+| ^ Stun Roar: Fireball-like rings of sound fired from his mouth; does
+heavy damage to brain meter. If Sauron's opponent is cornered a medium
+distance away, the Stun Roar can be followed up with a standing 2 or a hop
+jump + air hits. Projectile.
+|
+|Hold 1+3; move joystick A, T
+|
+|     O .        O--  --O
+|     O .
+|_________________________________________________
+| Air Throw: Grab opponent in the air. Useful in combos too. On arcade
+version 2.3, Sauron can air-throw some opponents (Blizzard, Chaos, Diablo,
+Sauron) when they are standing on the ground, unless they do a special
+move. Unblockable (throw).
+|
+|Tap 2+4 when in the air directly above opponent
+|
+|     . O
+|     . O
+|_________________________________________________
+| Neck Throw: Sauron bites his opponent in the neck and tosses them across
+the screen.  Unblockable (throw).
+|
+|Hold 2+4; move joystick T, A
+|
+|     . O        --O  O--                     
+|     . O
+|_________________________________________________
+| *Carnage: Grab your opponent by the throat and shake him up. Fatality.
+|
+|Hold all buttons; move joystick A, T, A, T, A
+|
+|     O O        O--  --O  O--  --O  O--      
+|     O O
+|_________________________________________________
+| *Flesh Eating: Sauron walks over to his fallen opponent and tears into
+him, eating each piece as he rips it off. Fatality.
+|
+|Hold 1+3 and move joystick D, D; then hold all buttons and move joystick
+U, U (Sometimes the fatality happens if you do other things, but this is
+the fully confirmed, most reliable method.)
+|
+|     O .          |  |    then  O O    O O      
+|     O .         O O           O O     |  |
+|_________________________________________________
+| *Grape Crusher: Sauron jumps onto the opponent as if doing an Earthquake
+Stomp, squishing him flat! Fatality. Version 2.3 only.
+|
+Hold all buttons; tap joystick U, D, U, D, D
+
+|     O O       O  |  O  |   |
+|     O O        |  O  |  O O
+|_________________________________________________
+| **Chomp a human: Sauron dips his head down and chews up a worshiper.
+|
+|Hold all buttons and move joystick D, D, U
+|
+|     O O       |  |   O                      
+|     O O      O O  |
+|_________________________________________________
+
+///TALON/// (The Strip)
+_________________________________________________
+| ^ Brain Basher: Talon flips in the air and lands on the opponent's head
+(Bison who? :). Hold joystick toward or away to determine which way Talon
+flips off. On version 2.3, Talon can follow the Brain Basher up with extra
+attacks as he rebounds. Used to be unblockable on ver 1.7, but not 2.3.
+Leaping Attack.
+|
+|Hold 2+3; move joystick A-U-T
+|
+|     . O            O   O   O                
+|     O .        O--  \  |  /  --O
+|_________________________________________________
+| Pounce & Flip: Talon runs forward, steps three times on his opponent,
+and flips off [does no block-damage in version 2.3]. 3-hit move.
+Anti-projectile.
+|
+|Hold 2+3; move joystick T-D-DT
+|
+|     . O        --O  |  \  
+|     O .              O   O
+|_________________________________________________
+| Frantic Fury: Talon becomes a blur of claws and creeps toward opponent.
+Keep holding the buttons to make it continue longer. Anti-air.
+|
+|Hold 1+4; move joystick D-T
+|
+|     O .         |  \  --O          
+|     . O        O   O   
+|_________________________________________________
+| ^ The Slasher (a.k.a. "Double Slash"): Two fierce slashes, but only hits
+once. Most projectiles pass harmlessly through him. This move can be
+followed up with various attacks. Anti-air.
+|
+|Hold 1+3+4; move joystick D-T
+|
+|     O .        |  \  --O                 
+|     O O     O   O
+|_________________________________________________
+| The Face Ripper: Talon jumps on the opponent and bites his face several
+times, although this move counts as only one combo hit. Blanka who? ^_^
+Unblockable (throw).
+|
+|Hold 2+4; move joystick D-T
+|
+|     . O        |  \  --O                
+|     . O       O   O
+|_________________________________________________
+| Jugular Bite: Talon jumps onto opponent and chomps his neck. 2-hit move.
+|
+| NOTE: Talon's opponent must be in a hit-reaction, i.e. this move can
+only be used within a combo that connects (see combos section for combos
+with Jugular Bite). Otherwise, Talon goes into his "missed throw"
+animation...
+|
+|Hold 2+4; move joystick A, T
+|
+|     . O        O--  --O               
+|     . O
+|_________________________________________________
+| Run Forward/Back: Talon can run toward or away very fast. This is good
+for dodging (can outrun Battering Ram and Mega Punch). Another use is to
+knock down your enemy, then Run into him, and you can push him into the
+corner before he finishes getting up. Talon can only block high while he
+is running away, and cannot block at all when he is running toward. Does
+not hit or damage opponent, of course.
+|
+|Hold 1+3; hold joystick T or A
+|
+|     O .        --O  or  O--             
+|     O .
+|_________________________________________________
+| *Heart Wrenching: Talon walks up to the opponent, cuts him open with his
+lower claws, rips his heart out, and eats it. Fatality.
+|
+|Hold 1+3+4; move joystick T-D-A-U
+|
+|     O .        Full                         T-D-A-U
+|     O O        Toward
+|_________________________________________________
+| *Shredder: Talon does a Frantic Fury; blood flies everywhere. Fatality.
+On version 1.7, the opponent just falls down like usual. On version 2.3,
+the opponent remains standing, horribly mangled.
+|
+|Hold 1+4; move joystick T-D-A-U
+|
+|     O .        Full                         T-D-A-U
+|     . O        Toward
+|_________________________________________________
+| *Stampede: Talon whistles, and a stampede of similarly colored baby
+Talons shred the fallen opponent with mini-Frantic Furies. If the victim
+is in the corner, blood will spontaneously erupt from his chest before the
+li'l ones reach him! Fatality. Version 2.3 only.
+|
+Hold all buttons; tap joystick T, A, U, D
+
+|     O O        --O O--  O |                   
+|     O O                      |  O
+|_________________________________________________
+| **Chomp a human: Talon scoops up a worshiper in his front claws and
+devours him.
+|
+Hold all buttons; move joystick T-D
+|
+|     O O        --O  \     |                   
+|     O O                O  O
+|_________________________________________________
+
+///VERTIGO/// (The Tomb)
+_________________________________________________
+| Venom Spit (Slow): Vertigo spits purple acid across the screen.
+Projectile.
+|
+|Hold 1+3; move joystick T, T
+|
+|     O .        --O  --O               
+|     O .
+|_________________________________________________
+| Venom Spit (Fast): This move is much easier to use in combos than the
+Slow Venom Spit. Projectile.
+|
+|Hold 2+4; move joystick T, T
+|
+|     . O        --O  --O                     
+|     . O
+|_________________________________________________
+
+| ^ Voodoo Spell: Vertigo emits short-range hypnosis rings that do no
+damage but stun her opponent until he shakes out of it (by rapidly moving
+his joystick back and forth), setting him up for a short combo. This move
+counts as a combo hit and cannot be blocked, yet can be avoided by
+jumping. Don't use both the Voodoo Spell and the Come Slither in a combo,
+or you'll get a No Cheeze meter! Unblockable.
+|
+|Hold 2+3; move joystick A, A
+|
+|     . O        O--  O--                   
+|     O .
+|_________________________________________________
+| ^ Come Slither (a.k.a. "Ankle Drag"): Get over here! Vertigo lashes her
+tail at her opponent's feet and drags him over for some beating. This move
+counts as a combo hit, yet inflicts no damage. It stuns your opponent for
+a short time, unless he/she was already stunned by the Voodoo Spell - in
+which case your opponent remains wide awake and will probably hurt you
+before you recover. Projectiles will pass through Vertigo if the Come
+Slither connects, but hit her if it does not connect. Don't use both the
+Come Slither and the Voodoo Spell in a combo, or you'll get a No Cheeze
+meter! Anti-projectile.
+|
+|Hold 1+3; move joystick A, A
+|
+|     O .        O--  O--                     
+|     O .
+|_________________________________________________
+| Scorpion Sting: Whips her tail across the screen, and a blade shoots out
+too.
+|
+|Hold 2+3; tap joystick T, T
+|
+|     . O        --O  --O                     
+|     O .
+|_________________________________________________
+| Ground Teleport: Rolls up in a ball and reappears _on the ground_ next
+to opponent; choose which side by holding the joystick toward or away
+after doing the move. Does not hit or damage opponent. Teleport. Can be
+done in the air on version 2.3 only.
+|
+|Hold 2+4; move joystick D, D 
+|
+|     . O        |   |                         
+|     . O       O  O
+|_________________________________________________
+| Air Teleport: Rolls up in a ball and reappears _in the air_ next to
+opponent; choose which side by holding the joystick toward or away after
+doing the move. Does not hit or damage opponent. Can be done while on the
+ground or in the air. Teleport. Version 2.3 only.
+|
+|Hold 2+4; move joystick D, U
+|
+|     . O        |  O                       
+|     . O       O  |
+|_________________________________________________
+| *Petrify: Vertigo does a Voodoo Spell that turns her opponent into
+stone, and then she Scorpion Stings him to bits. Fatality.
+|
+|Hold 2+4 and tap joystick A, A, A; then hold all buttons and tap joystick
+T, T
+|
+|     . O        O-- O--  O--     then    O O      --O  --O    
+|     . O                                           O O
+|_________________________________________________
+| *Shrink and Eat: Vertigo does a Voodoo Spell that shrinks her opponent.
+She then eats him like a worshiper. Fatality.
+|
+|Hold 2+4 and tap joystick A, A, A; then hold all buttons and tap joystick
+D, U
+|
+|     . O        O-- O--  O--     then    O O       |  O    
+|     . O                                           O O      O  |
+|_________________________________________________
+| *La Vache Qui Rit ["The cow that smiles/laughs"]: Vertigo turns the
+opponent into a cow that moos, runs away, and gets butchered by
+McDonald's. ^_^ Fatality. Version 2.3 only.
+|
+Hold all buttons and tap joystick A, A, A, D, T
+
+|     O O        O-- O-- O--  |  --O
+|     O O                           O
+|_________________________________________________
+| **Chomp a human: Vertigo bends her neck down, lifts a worshiper high up,
+and swallows him whole like a snake eating mice.
+|
+Hold all buttons; move joystick D-T-U
+|
+|     O O        |  \  --O   O  O             D-T-U
+|     O O        O   O      /   |
+|_________________________________________________
+
+///2.3  Jumping///
+
+   All characters can do three types of jumps in Primal Rage. First, to do
+a standard jump, just press up or diagonally up like any other fighting
+game. Pretty easy, eh? The second type of jump is the long jump. To do a
+long jump, tap down, then do a "normal" jump immediately afterward This
+jump will be higher and faster than the standard jump, and it will go much
+farther. No more characters whose only jump is a drifter... The third type
+of jump is the most difficult, and most surprising jump in any game. A
+"hop jump" (a.k.a. "tiger jump") is the shortest possible jump and
+*extremely* fast! You do a hop jump by pushing the joystick in the
+direction you want to jump, then down, then do the standard jump (either
+tapping or rolling the joystick will work). Additionally, the hop jump can
+now be done straight up, just tap toward (or away), down, and straight up!
+ Unlike version 1.7, Primal Rage version 2.3 lets you execute hop jumps
+versus the computer, and the computer can use them against you, too!
+Here's a chart to summarize the three different jumps:
+
+Jump Type    | Toward | Away         | Up
+________________________________
+normal jump  |  UT         | UA          | U
+long jump      |  D, UT    | D, UA      | D, U
+hop jump       | T, D, UT | A, D, UA | T or A, D, U
+
+     For even more excitement, you can buffer in hop jumps so that they
+interrupt your power attacks! Chris Tang (TANG@agames.com) writes:
+
+>There are extremely effective techniques that utilize this move. My
+favorite is jumping in with one or two hits, following up with two or
+three ground attacks which end in a power. While the power comes out, I
+buffer in the motion for the hop jump- F, D, U. As soon as my power makes
+collision, my hop jump will send me straight up into the air, where I can
+launch an attack to catch a low-blocking opponent off-guard. Also, this
+technique can be used for hit-and-run blocked combos by using the
+backwards hop-jump instead. This style of play is fast, frantic, and
+aggressive. It's also a lot of fun.
+
+Note: Long jumps & hop jumps are not in Game Boy/Game Gear PR. They should
+be in every other version, though.
+
+///2.4  Combos///
+
+   Yes, you too can do devastating combos in PR. You can even volleyball
+your opponent in the air! Combos are easy to execute. PR has a fully
+orthogonal interrupt-driven combo system. That means the "rules" for
+combos are [from GamePro's PR Guide]:
+
+1. There are three "levels" of attacks: quick/fierce, power, & special
+moves
+2. Any special move can interrupt any quick, fierce, or power attack
+3. Any power attack can interrupt any quick or fierce attack
+
+NOTE1: Not all quick attacks can necessarily be combo'd into all fierce
+attacks, though many can. Some fierce attacks can be combo'd with quick
+attacks only if the enemy is very close. As an example: low 1, low 1, low
+4 works great for Talon but not for Armadon. In a very few cases, a power
+attack will interrupt a quick attack but will still be too slow to combo
+(Talon's low 1, 3+4 will not combo).
+
+NOTE2: All characters can start a combo by stringing most of their quick
+attacks together (example: Talon's 3, 3, 3, 3 combo), and it is
+occasionally possible to string fierce attacks together (Armadon's
+in-close 2, 2, 2). Each character has a few stronger basic attacks that
+can be interrupted with basic attacks of equal or weaker strength. Most of
+these happen to be in-close attacks. Here's a list of examples I've found
+in the arcade and on my PC (note: some of these work better on certain
+opponents, or combo'd after air hits).
+
+Armadon: in-close 2, 2, 2 | in-close 4, 2 | in-close 3+4, low 1
+Blizzard, Chaos: in-close 2, 1 | in-close 1+2, 1 | 1+2, low 4 | low 3+4,
+low 4
+Diablo, Sauron: low 2, low 1 | in-close 4, 3 | in-close 3+4, 3
+Talon: in-close 2, 3 | 4, low 1 | 3+4, low 1
+Vertigo: in-close 1+2, 1 | in-close 4, low 4 | in-close 3+4, low 4
+
+     Basic and special moves can both be "buffered" into a combo. In a
+combo that alternates between bites and tail attacks, you must tap the
+buttons quickly. In a combo that chains bites together or chains tail
+attacks together, you must tap the buttons even more quickly. Combo hits
+can be done at any time - whenever you hit an opponent, you can tack on
+another hit, unless the knockback pushes your opponent too far away. EVEN
+IN THE AIR! You can do a maximum of two attacks in the air (and possibly
+follow up with Chaos' air Ground Shaker or Sauron's air Earthquake). Air
+hits make great combo starters or enders! Each character has certain air
+combos that are easier to use, because they have better range, are harder
+to counter, or are less likely to knock the opponent too far back. Here
+are some of the easier air combo starters:
+
+Armadon: air 4, air 3+4 | air 2, air 1+2
+Blizzard, Chaos: air 4, air 3+4 | air 4, air 1+2
+Diablo, Sauron: air 4, air 3+4 | air 4, air 1+2
+Talon: air 4, air 1+2 | air 2, air 1+2
+Vertigo: air 3, air 3+4 | air 4, air 3+4
+
+Note that if your air hit(s) strike your opponent too high, you might not
+be able to extend the combo with ground hits. Hitting too high doesn't
+occur as frequently as in games like SF2, though, especially if you use a
+long/hop jump, get two air hits, or fight a small opponent.
+
+Special attacks can be used to end any combination, or prolong it!  Many
+special moves such as Blizzard's Ice Geyser have a greater range when used
+within combos, and every character has at least one special move that can
+be followed up with more hits or volleys. Note that any given combo cannot
+have more than five of the same basic attack, one low 3+4, and one of any
+given special move (slow and fast projectiles are considered different
+special moves).
+
+Are your combos still too short? Extend them by using two jumps! Just
+buffer a hop-jump into your air hits, and you can score another couple air
+hits followed by the rest of your combo! Sauron's 8-hit THE SECRET OF THE
+COW combo is an example of this: air 4, air 3+4, (hop jump) air 4, air
+1+2, 1, 2, 1+2, Primal Scream. 
+
+And there's a bonus (three, actually)! Be forewarned that if you get a No
+Cheeze meter, then your combo will end and the cheezey move you did won't
+count as a combo hit or inflict damage. 
+
+Thunder claps with lightning will happen if you do at least 4 hits _and_ a
+minimum of 35% damage. To find out how many hits & how much damage your
+combo did, just look at the left or right side of the screen, depending on
+whether you're on the one-player or two-player side. [When the CPU does
+combos on you, its side will display the number of hits in the combo but
+not the damage rating, and the CPU never gets lightning or combo names.]
+
+If you haven't seen it, the thunder and lightning are incredible.
+Especially when you're not expecting it (but I guess you are now. =) In
+v2.3, you get as many claps as you got hits! (in 1.7 you could only get
+10!) [Notes: Vertigo can get one clap of lightning in version 2.3 if she
+uses a teleport in any combo. PR for the IBM PC only bequeaths one clap of
+lightning no matter how many hits your combo had.] Due to the decreased
+damages for attacks in v2.3, lightning is less often seen, but IT IS
+THERE! Finding combos that do more than 35% damage is harder now than
+ever, though!
+     Unfortunately, it isn't any easier to get lightning during the Final
+Battle. Even though attacks on a dead/flickering opponent will do extra
+damage [see Final Battle section], the damage percentiles calculated to
+determine lightning & displayed on the side of the screen will reflect how
+much damage the combo would have done, if your opponent were alive &
+healthy.
+    Don't despair if you can't get a thunderbolt 'n' lightning (very very
+frightening(ly!)) combo; there is another reward for using special moves
+in combos! If you use certain moves in a combination, a "name" for the
+combo will be printed out in the top center of the screen! Unfortunately,
+only the arcade version 2.3, PR for the IBM personal computer, and PR for
+the Sony Playstation are known to have combo names. There are no combo
+names in PR arcade version 1.7, or PR for the SNES, Genesis, Game Boy,
+Game Gear, 32X, Jaguar CD; probably not 3DO or Saturn PR either.
+   All of the named combos have three 'levels.' The named combos are
+usually activated by one or more special moves, though a few are triggered
+by certain basic moves or some combination of basic + special moves. There
+is also a minimum hit requirement, which can be anywhere from 3 to 50 hits
+for a given combo name. For example, if you use Sauron's Neck Throw in a
+combo which hits at least 4 times, you'll see "CRUNCHY." If the combo hits
+at least 6 times, you'll see "EXTRA CRUNCHY." If the combo hits at least 7
+times you'll see "TAKE A BITE OUTTA CRIME!" So the combo naming scheme
+goes something like that - the first level is "[NAME]", the second level
+is usually "SUPER [NAME]" or some modifier, and the third level is a weird
+variation on the first two, with an exclamation "!" or question "?" mark
+at the end (one has "...").
+     On both versions, "streakers" or naked worshipers (Nudalities!!! :)
+will dash across the screen if Vertigo does a 5-hit or higher combo ending
+in the Come Slither, or Armadon does a 5-hit or higher combo ending with
+the Hornication Uppercut. No one has been able to eat these guys, and not
+for lack of trying, so perhaps it isn't possible to chomp them.
+
+///Post-Mortem Combos///
+
+PR lets you finish your combos even if your opponent runs out of health in
+the middle of 'em. "Post-mortem" combos occur when the opponent is
+defeated before the last hit of the combo takes place. If you finish your
+second victory with a post-mortem combo, you'll still have the usual
+chance to do a fatality.
+     There are only two cases when post-mortem combos don't work. First,
+post-mortem combos cannot be done during the Final Battle. Second, the
+instant that one critter is defeated, all projectiles will no longer touch
+either player for what's left of the round. This makes it easier to do
+fatalities, since a late projectile won't hit your victim by accident and
+mess up your attempt. A side effect, however, is that post-mortem combos
+ending with a projectile don't entirely work; the projectile will pass
+harmlessly through your opponent. In order to get combo names that are
+tied into projectile finishes, the entire combo must hit while your enemy
+is still healthy enough to take it.
+
+Key:
+(1) (2)   Numbers are for which buttons are being pressed.
+(3) (4)
+
+   air - hit the buttons while you are jumping 
+   low - hit the buttons while crouching
+   in-close - denotes a very close-range basic attack, usually with
+special animation & extra damage; e.g. Blizzard's in-close 2 is a more
+damaging headbutt instead of a punch
+   whiff - move does not actually hit opponent
+   [corner] - victim must be in the corner when combo starts
+   [corner cross-up glitch] - Armadon or Talon must be the victim, and
+they must be crossed up, in the corner, _and_ recovering from a Leaping
+Attack. In the arcade version only, this produces a freak situation with
+zero knockback; you can string up to five crouching quick attacks in a row
+for extra-long combos. This glitch doesn't seem to work when I play as
+Armadon.
+   [cross-up]- victim must be hit behind his center of mass when combo
+starts (easiest to do when you just dodged his Leaping Attack by jumping
+straight up)
+   [deep] - victim must be close by/hit deep when combo starts
+   [medium] - victim must be medium distance away when combo starts (may
+be very precise)
+   [far] - victim must be far away when combo starts
+   [very far] - victim must be on the other side of the screen when combo
+starts
+   [arcade] - combo may not work on home versions, due to increased
+knockback
+   [cheezey] - combo will earn a No Cheeze meter
+   (A, B, C, D, S, T, or V) - combo works best on character(s) whose
+initial is listed. Other characters tend to be too small or get knocked
+too far back.
+   * - combo is known to earn lightning
+   x% - ver. 2.3 damage percentiles are added where known, assuming that
+the attacker hasn't gone ballistic in a two-player game (see section 6.4,
+"Going Ballistic").
+
+   Combo names are listed both with combos and separately. Thanks to Sir
+Galahad's search of the text file of PR for the IBM PC, we now have _all_
+combo names, and yours truly has personally devised & done a combo to earn
+each name! :-) The triggering move(s) of a combo names are listed in
+{curly brackets}. Minimum hit requirements are listed in (parentheses).
+Combo names with the same trigger are grouped together, from shortest to
+longest. Corrections or additions are quite welcome.
+
+///ARMADON/// 
+
+     PINCUSHION COMBO {Mega Charge, Bed-o'-Nails} (4)
+     SUPER PINCUSHION COMBO (7)
+     VENTILATION! (9)
+     DIVEBOMBER {Hornication Uppercut} (5)
+     SUPER DIVEBOMBER (6)
+     ATOMIC BOMB COMBO! (7)
+     DEATH DART COMBO {Flying Spikes} (5)
+     SUPER DEATH DART COMBO (6)
+     BULLSEYE! (7)
+     GUT BUSTER {Gut Gouger} (5)
+     SUPER GUT BUSTER (6)
+     MAJOR INTESTINAL TRAUMA! (7)
+     STEAMROLLER COMBO {Mega Charge, Spinning Death} (5)
+     SUPER STEAMROLLER COMBO (7)
+     ROLLING THUNDER! (10)
+     FREIGHT TRAIN {Mega Charge, Hornication Uppercut} (5)
+     TRAIN WRECK (7)
+     THE DERAILER! (10)
+
+3 Hit:    air 1, 1, Gut Gouger or Hornication Uppercut
+4 Hit:   [deep (T)] low 4, low 3+4, Mega Charge, Bed-o'-Nails = PINCUSHION
+COMBO (28%)
+*4 Hit: air 1+2, 2, 1+2, Gut Gouger = 36%
+*4 Hit: 3+4, Mega Charge, low 2, Hornication Uppercut = 36%
+5 Hit:   2, 3+4, Mega Charge, 4, Spinning Death = STEAMROLLER COMBO
+5 Hit:   [corner, medium] Flying Spikes, 2, 3+4, Mega Charge, low 2 =
+DEATH DART COMBO (31%)
+*5 Hit:  air 2, air 1+2, 2, 1+2, Hornication Uppercut = DIVEBOMBER (36%)
+*5 Hit:  air 2, air 1+2, 2, 1+2, Gut Gouger = GUT BUSTER (37%)
+6 Hit:    low 1, low 1, low 3+4, Mega Charge, 2, Flying Spikes  = SUPER
+DEATH DART COMBO
+6 Hit:    low 1, low 1, low 3+4, Mega Charge, 2, Hornication Uppercut =
+FREIGHT TRAIN (33%)
+*6 Hit:  air 2, air 1+2, low 1, low 2, low 1+2, Hornication Uppercut =
+SUPER DIVEBOMBER (38%)
+*6 Hit:  air 2, air 1+2, in-close 2, 2, 1+2, Gut Gouger = SUPER GUT BUSTER
+(43%)
+*7 Hit:  [cross-up, arcade (A, T)] air 2, air 1+2, low 1, low 1, low 1,
+low 1+2, Hornication Uppercut = ATOMIC BOMB COMBO! (38%)
+*7 Hit:  [deep (A, D, S, T, V)] air 2, air 1+2, 1, 1, 2, 1+2, Gut Gouger =
+MAJOR INTESTINAL TRAUMA! (40%)
+*8 Hit:  air 2, air 1+2, low 1, low 1, low 3+4, Mega Charge, 2, Flying
+Spikes = BULLSEYE! (40%)
+*8 Hit:  air 4, air 3+4, low 1, low 1, low 3+4, Mega Charge, 2,
+Hornication Uppercut = TRAIN WRECK (42%)
+*8 Hit:  air 2, air 1+2, low 1, low 1, low 3+4, Mega Charge, 4, Spinning
+Death = SUPER STEAMROLLER COMBO (42%)
+*8 Hit:  [cross-up (S, T)] air 2, air 1+2, 1, 2, 1+2, Mega Charge, low 2,
+Bed-o'-Nails = SUPER PINCUSHION COMBO (44%)
+*9 Hit:  [cross-up (T)] air 2, air 1+2, low 1, low 1, low 1, low 3+4, Mega
+Charge, low 2, Bed-o'-Nails = VENTILATION! (42%)
+*10 Hit: [corner, deep (V)] air 2, air 1+2, low 1, low 1, low 1, low 2,
+low 3+4, Mega Charge, 1, Spinning Death = ROLLING THUNDER! (45%)
+*10 Hit: [corner, deep (V)] air 2, air 1+2, low 1, low 1, low 1, low 2,
+low 3+4, Mega Charge, 3, Hornication Uppercut = THE DERAILER! (46%)
+
+///BLIZZARD///
+
+      JACK HAMMER {air 3+4, 4, 3+4 in that sequence} (4)
+      SUPER JACK HAMMER (6)
+      I'VE FALLEN, AND I CAN'T GET UP! (11)
+      BLIZZARD'S BRUISER COMBO {Ice Geyser, 1+2, low 3+4} (4)
+      BLIZZARD'S BONE BREAKER (7)
+      DOES IT HURT? (10)
+      COME FLY WITH ME {low 3+4, Ice Geyser, Air Throw} (6)
+      IT'S THE ONLY WAY TO FLY (7)
+      BOOM SHAKALAKA! (9)
+      LIGHTNING JAB COMBO {Punching Bag} (7)
+      SUPER LIGHTNING JAB COMBO (18)
+      UNLEASH THE POWER OF RAGE! (50)
+      MIDNIGHT SLAM {Punching Bag, Air Throw} (7)
+      SUPER MIDNIGHT SLAM (18)
+      BE KIND TO ANIMALS! (50)
+      CRUSHED ICE {two air 3+4s, two 1+2's, low 3+4} (8)
+      CRYSTAL CRASHER (9)
+      HAVE AN ICY TASTE OF TANG! (14)
+
+    *note* Mega Punch combos are iffy sometimes - you need to pick which
+of the 3 MPs to use depending on range, whether the opponent is "bouncing
+up" from being hit out of a special move, etc.
+
+3 Hit:   low 4, low 3+4, Mega Punch
+3 Hit:   air 3+4, low 1, low 3+4
+4 Hit:   low 1, low 1, low 3+4, Short Mega Punch
+4 Hit:   air 3+4, 1, low 4, low 3+4
+4 Hit:   air 3+4, low 3, low 3+4, Mega Punch
+4 Hit:   Ice Geyser, 1+2, low 4, low 3+4 = BLIZZARD'S BRUISER COMBO (22%)
+4 Hit:   air 4, air 3+4, 4, 3+4 = JACK HAMMER (32%)
+5 Hit:   air 4, air 1+2, low 4, low 3+4, Mega Punch
+6 Hit:   Freeze Breath, air 4, air 3+4, 4, 3+4, Quick Mega Punch = SUPER
+JACK HAMMER
+6 Hit:   low 4, 1+2, low 4, low 3+4, Ice Geyser, (jump toward) Air Throw =
+COME FLY WITH ME (34%)
+6 Hit:   [corner (A, B, C, V)] low 4, low 3+4, low 4, 1+2, Ice Geyser,
+(jump toward) Air Throw = COME FLY WITH ME (34%)
+7 Hit:   Freeze Breath, 5-hit Punching Bag, (jump toward) Air Throw =
+MIDNIGHT SLAM 
+7 Hit:   Ice Geyser, low 4, 1+2, low 4, 1+2, low 4, low 3+4 = BLIZZARD'S
+BONE BREAKER (32%)
+*7 Hit:  low 4, 1+2, low 4, low 3+4, Ice Geyser, (jump toward) air 3+4,
+Air Throw = IT'S THE ONLY WAY TO FLY (38%)
+8 Hit: Freeze Breath, 5-hit Punching Bag, (jump toward) air 2, 1+2 =
+LIGHTNING JAB COMBO
+8 Hit:   air 3+4, 1, Ice Geyser, air 3+4, 1, 1, low 3+4, Long Mega Punch 
+*8 Hit: [deep] air 3+4, low 4, 1+2, low 4, 1+2, Ice Geyser, (jump toward)
+air 3+4, low 3+4 = CRUSHED ICE (45%)
+*9 Hit:  low 4, 1+2, low 4, 1+2, low 4, low 3+4, Ice Geyser, air 3+4, Air
+Throw  = BOOM SHAKALAKA! (46%)
+*10 Hit: low 4, 1+2, Ice Geyser, (jump toward) air 4, air 3+4, 1, 2, 1+2,
+low 4, low 3+4 = DOES IT HURT? (44%)
+*11 Hit: air 4, air 3+4, low 4, 1+2, low 4, 1+2, low 4, low 3+4, Ice
+Geyser, (jump toward) air 3+4, Air Throw = CRYSTAL CRASHER (57%)
+*11 Hit: air 4, air 3+4, low 4, 1+2, low 4, 1+2, Ice Geyser, (jump toward)
+air 4, air 3+4, 4, 3+4 = I'VE FALLEN, AND I CAN'T GET UP! (58%)
+*14 Hit: [corner (A, B, C, V)] air 4, air 3+4, 3, 2, 1+2, low 4, 1+2, Ice
+Geyser, (jump toward) air 4, air 3+4, low 1, low 1, low 3+4, low 4 = HAVE
+AN ICY TASTE OF TANG! (66%)
+*14 hit:  [corner (A, B, C, V)] air 4, air 3+4, low 4, 1+2, low 4, 1+2,
+Ice Geyser, air 4, air 3+4, low 4, low 3+4, low 4, 4, 4 (73%)
+*16 Hit: air 4, air 3+4, low 4, 1+2, low 4, 1+2, low 4, Ice Geyser, 5-hit
+Punching Bag, (jump toward) air 1+2, Air Throw = MIDNIGHT SLAM (68%)
+*18 Hit: air 4, air 3+4, low 4, 1+2, Ice Geyser, 11-hit Punching Bag,
+(walk toward) 1+2, Long Mega Punch = SUPER LIGHTNING JAB COMBO
+*26 Hit: 25-hit Punching Bag, (jump toward) Air Throw = SUPER MIDNIGHT
+SLAM (35%)
+*50 Hit: air 4, air 3+4, 2, 1+2, low 4, Ice Geyser, air 4, air 3+4, 1,
+1+2, 39-hit Punching Bag, (jump toward) Air Throw = BE KIND TO ANIMALS!
+*50 Hit: air 4, air 3+4, low 4, 1+2, low 4, Ice Geyser, air 4, air 3+4, 2,
+1+2, 39-hit Punching Bag, (jump toward) air 3+4 = UNLEASH THE POWER OF
+RAGE!
+*52 Hit: air 4, air 3+4, 3, 2, 1+2, low 4, 1+2, Ice Geyser, 43-hit
+Punching Bag, (walk toward) 4 = UNLEASH THE POWER OF RAGE!
+
+///CHAOS///
+
+     NON-DAIRY COMBO {Grab 'n' Throw} (3)
+     SUPER NON-DAIRY COMBO (4)
+     TOFU! (5)
+     SEWER SPEWER {Fast Power Puke} (3)
+     SUPER SEWER SPEWER (4)
+     WAKE UP AND SMELL THE CHAOS! (5)
+     LUNCH LAUNCHER {Slow Power Puke, Fast Power Puke} (3)
+     SUPER LUNCH LAUNCHER (4)
+     CHUNKY CREAM CORN COMBO! (5)
+     HURLER COMBO {Slow Power Puke} (3)
+     HYPER HURLER COMBO (4)
+     TASTES BETTER COMING UP! (6)
+     WACKY COMBO {low 3+4, Battering Ram} (4)
+     SUPER WACKY COMBO (7)
+     THE CADELINA SPECIAL! (10)
+     THE SPINNER {two 1+2s} (5)
+     SUPER SPINNER (6)
+     DEVASTATOR! (7)
+     THE SPANKY {two air 1+2s} (5)
+     SUPER SPANKY (6)
+     THE FLYSWATTER! (7)
+     THE BOUNCER {air Ground Shaker}
+     SUPER BOUNCER
+     MASTER OF DISASTER!
+
+Note: I talked with a PR programmer about Chaos' BOUNCER combo names. It
+seems that some glitch prevents the BOUNCER names from appearing when one
+does a combo involving Chaos' air Ground Shaker (believe me, I've tried).
+The BOUNCER names exist only in the game's text files. :-(
+
+3 Hit:    [far] Slow Power Puke, (whiff Battering Ram) 1, Fast Power Puke
+= LUNCH LAUNCHER (13%)
+3 Hit:    Ground Shaker, Battering Ram, 1+2
+3 Hit:    [far] Slow Power Puke, Flying Butt Slam, low 4 = HURLER COMBO
+3 Hit:    low 4, low 3+4, Slow Power Puke = HURLER COMBO (19%)
+3 Hit:    2, 1+2, Fast Power Puke = SEWER SPEWER (21%)
+3 Hit:    2, 1+2, Grab-'n'-Throw = NON-DAIRY COMBO (26%)
+4 Hit:    [far] Slow Power Puke, (whiff Battering Ram) 4, 1, Fast Power
+Puke = SUPER LUNCH LAUNCHER (18%)
+4 Hit:    low 1, low 1, low 3+4, Battering Ram = WACKY COMBO (19%)
+4 Hit:    1, 2, 1+2, Slow Power Puke = HYPER HURLER COMBO (22%)
+4 Hit:   air 4, air 3+4, 1, Fast Power Puke = SUPER SEWER SPEWER (24%)
+4 Hit:   air 4, air 3+4, in-close 2, Grab-'n'-Throw = SUPER NON-DAIRY
+COMBO (31%)
+5 Hit:   [far] Slow Power Puke, (whiff Battering Ram) 1, 2, 1+2, Fast
+Power Puke = CHUNKY CREAM CORN COMBO! (25%)
+5 Hit:   [far] Slow Power Puke, Flying Butt Slam, low 3, 1, Fast Power
+Puke = CHUNKY CREAM CORN COMBO! (25%) 
+5 Hit:    air 3, air 1+2, Ground Shaker, (jump toward) air 3, air 1+2 =
+THE SPANKY (27%)
+5 Hit:    air 4, air 3+4, 4, 1, Fast Power Puke = WAKE UP AND SMELL THE
+CHAOS! (28%)
+*5 Hit:  1+2, low 4, 1+2, low 4, low 3+4 = THE SPINNER (35%)
+*5 Hit:  air 4, air 3+4, 2, 1+2, Grab-'n'-Throw = TOFU! (37%)
+*5 Hit:  [deep] air 1+2, in-close 1+2, Battering Ram, in-close 1+2, (jump
+toward) air 1+2 = THE SPANKY (39%)
+
+6 Hit:    [corner, far] Slow Power Puke, (long jump toward) air 4, air
+3+4, low 1, low 1, low 3+4 = TASTES BETTER COMING UP! (29%)
+6 Hit:      air 4, air 3+4, 1, 2, 1+2, Slow Power Puke = TASTES BETTER
+COMING UP! (32%)
+*6 Hit:   [deep] air 1+2, 3, 3+4, Battering Ram, in-close 2, (jump toward)
+air 1+2 = SUPER SPANKY (38%)
+*6 Hit:    air 4, air 3+4, 2, 1+2, low 4, 1+2 = SUPER SPINNER (39%)
+*7 Hit:    air 4, air 1+2, (jump again) air 3+4, Ground Shaker, Battering
+Ram, low 2, 1+2 = ?
+*8 Hit:    air 4, air 3+4, low 1, low 1, low 3+4, Battering Ram, low 2,
+low 1+2 = SUPER WACKY COMBO (37%)
+*8 Hit:   air 4, air 1+2, in-close 1, 2, 1+2, Battering Ram, in-close 2,
+(jump toward) air 1+2 = THE FLYSWATTER! (39%)
+*9 Hit:   [corner cross-up glitch, arcade (A, T)] air 4, air 3+4, low 1,
+low 1, low 1, low 1, low 1, low 3+4, Battering Ram = SUPER WACKY COMBO
+*9 Hit:   air 4, air 3+4, low 4, 1+2, low 4, 1+2, low 4, low 3+4, low 4 =
+DEVASTATOR!
+*10 Hit: [corner] air 4, air 3+4, 1, 2, 1+2, low 4, low 3+4, Battering
+Ram, low 2, low 1+2 = THE CADELINA SPECIAL! (48%)
+                
+///DIABLO///
+
+     BURN, BABY, BURN {Torch, Inferno Flash, Hot Foot} (3)
+     DISCO INFERNO (6)
+     PYROMANIAC! (10)
+     FLAMING FACE COMBO {Slow Fireball} (4)
+     SUPER FLAMING FACE COMBO (5)
+     WARM IT UP, DIABLO! (6)
+     BURNING EYEBALL COMBO {Fast Fireball} (4)
+     MELTING EYEBALL COMBO (5)
+     FLAMING BALL OF DOOM! (7)
+     DOUBLE FIREBALL {Slow Fireball, Fast Fireball} (4)
+     DOUBLE FIREBALL DELUXE (5)
+     GREAT BALLS OF FIRE! (7)
+     HEADACHE {Mega Lunge} (4)
+     MIGRAINE (6)
+     SKULL SPLITTER! (8)
+     ORIGINAL RECIPE COMBO {Torch, Hot Foot} (4)
+     EXTRA CRISPY COMBO (6)
+     YOU WANT FRIES WITH THAT COMBO? (9)
+     AFTERBURNER {Inferno Flash} (5)
+     SUPER AFTERBURNER (6) 
+     SPONTANEOUS COMBUSTION! (8)
+
+3 Hit:   [corner, medium] Slow Fireball, 3+4, Fast Fireball = 22%
+3 Hit:   [corner, deep] Torch, Inferno Flash, Hot Foot = BURN, BABY, BURN
+(36%)
+4 Hit:   1, 2, 1+2, Mega Lunge = HEADACHE
+4 Hit:   3, 2, 1+2, Slow Fireball = FLAMING FACE COMBO (25%)
+4 Hit:   3, 2, 1+2, Fast Fireball = BURNING EYEBALL COMBO (25%)
+4 Hit:   [corner, medium (A, B, C, D, S, T)] Slow Fireball, 2, 3+4, Fast
+Fireball = DOUBLE FIREBALL (27%)
+*4 Hit: Torch, 3, 2, 1+2 = 35%
+*4 Hit: Torch, 2, 1+2, Hot Foot = ORIGINAL RECIPE COMBO (42%)
+5 Hit:    air 4, air 3+4, 2, 1+2, Slow Fireball = SUPER FLAMING FACE COMBO
+5 Hit:   [deep] low 3, low 3, 2, 1+2, Inferno Flash = AFTERBURNER
+5 Hit:   low 3, low 3, 2, low 3+4, Fast Fireball = MELTING EYEBALL COMBO
+(25%)
+5 Hit:   [corner, very far] Slow Fireball (long jump toward) air 4, air
+3+4, 1+2, Fast Fireball = DOUBLE FIREBALL DELUXE (29%)
+6 Hit:   [deep] air 4, air 3+4, low 3, 2, 1+2, Inferno Flash = SUPER
+AFTERBURNER
+*6 Hit: Torch, low 3, low 3, 2, 1+2, Hot Foot = EXTRA CRISPY COMBO (42%)
+*6 Hit: [corner, (A, B, C, D, S, T)] Torch, Inferno Flash, Hot Foot, low
+1, 1+2, in-close 2 = DISCO INFERNO (49%)
+*6 hit: [corner] Torch, 1+2, Inferno Flash, 2, 1+2, Hot Foot = DISCO
+INFERNO (51%)
+*7 Hit: air 4, air 3+4, 3, 3, 2, 1+2, Slow Fireball = WARM IT UP, DIABLO!
+(36%)
+*7 Hit: air 4, air 3+4, 3, 3, 2, 1+2, Fast Fireball = FLAMING BALL OF
+DOOM! (36%)
+*7 Hit: air 4, air 3+4, low 3, low 3, 2, low 3+4, Mega Lunge = MIGRAINE
+(36%)
+*7 Hit: [corner, very far] Slow Fireball, (long jump toward) air 4, air
+3+4, 1, low 2, 1+2, Fast Fireball = GREAT BALLS OF FIRE! (37%)
+*8 Hit: [corner] air 4, air 3+4, low 1, 1+2, Inferno Flash, low 1, 1+2,
+Slow Fireball = SPONTANEOUS COMBUSTION!
+*8 Hit: [corner] Torch, low 1, 2, 1+2, Inferno Flash, low 1, low 1, low 1
+= SPONTANEOUS COMBUSTION! (45%)
+*9 Hit: [corner] air 4, air 3+4, low 3, low 3, 2, 1+2, Mega Lunge, 2, 2 =
+SKULL SPLITTER! (42%)
+*9 Hit: [corner cross-up glitch, arcade (A)] Torch, in-close 4, low 3, low
+3, low 3, low 3, low 3, in-close 3+4, Hot Foot = YOU WANT FRIES WITH THAT
+COMBO? (45%)
+*9 Hit: [corner (A, B, C, D, S, T)] Torch, 1, 1, 2, 1+2, Hot Foot, low 1,
+2, 1+2 = YOU WANT FRIES WITH THAT COMBO? (51%)
+*10 Hit: [corner cross-up glitch, arcade (A)] Torch, low 3, low 3, low 3,
+low 3, low 3, in-close 3+4, Inferno Flash, 1+2, Hot Foot = PYROMANIAC!
+(51%)
+*10 Hit: [corner] Torch, low 3, 2, 1+2, Inferno Flash, low 1, low 1, 2,
+1+2, Hot Foot = PYROMANIAC! (58%)
+*15 Hit: [corner] Torch, (hop jump up) air 4, air 1+2, in-close 3, 1+2,
+(hop jump up) air 4, air 3+4, 3, 1+2, Inferno Flash, low 1, low 3+4, Mega
+Lunge, 2, 1+2 = SPONTANEOUS COMBUSTION!
+
+///SAURON///
+
+     THE STOMPER {Earthquake Stomp} (4)
+     THE SUPER STOMPER (5)
+     YOUR DRIVING DAYS ARE OVER, PUNK! (6)
+     THE SAURON SLAM {Earthquake Stomp, Air Throw} (4)
+     EARTHQUAKE SHAKER (5)
+     HAVE A NICE DAY! (6)
+     UP, UP, AND AWAY {Earthquake Stomp, Cranium Crusher} (4)
+     BUMP, SET, CRUSH (5)
+     IT'S A BEAUTIFUL DAY IN THE NEIGHBORHOOD! (6)
+     CRUNCHY {Neck Throw} (4)
+     EXTRA CRUNCHY (6)
+     TAKE A BITE OUTTA CRIME! (7)
+     EAR SPLITTER {Primal Scream} (4)
+     SUPER EAR SPLITTER (6)
+     THE SECRET OF THE COW! (7)
+     ROARING TERROR {Stun Roar} (4)
+     SUPER ROARING TERROR (6)
+     IN YO' FACE DISGRACE! (8)
+     ROCKET LAUNCHER {Cranium Crusher} (4)
+     SUPER ROCKET LAUNCHER (6)
+     THANK YOU FOR FLYING SAURON AIRLINES! (8)
+
+3 Hit:  air Earthquake Stomp, 4, Cranium Crusher
+4 Hit:  3, 2, 1+2, Stun Roar = ROARING TERROR (23%)
+4 Hit:  1, 2, 1+2, Neck Throw = CRUNCHY
+4 Hit:  [medium] Stun Roar, 2, 1+2, Neck Throw = CRUNCHY
+4 Hit:  low 1, low 1, low 3+4, Cranium Crusher =  ROCKET LAUNCHER (25%)
+4 Hit:  3, 2, 1+2, Primal Scream = EAR SPLITTER (28%)
+4 Hit:  air 4, air 1+2, air Earthquake Stomp, 1+2 = THE STOMPER
+4 Hit:  air 3+4, air Earthquake Stomp, (jump again) air 3, Air Throw = THE
+SAURON SLAM (32%)
+*4 Hit: air 3+4, air Earthquake Stomp, in-close 1+2, Cranium Crusher = UP,
+UP, AND AWAY (38%)
+5 Hit:  air 4, air 3+4, air Earthquake Stomp, low 2, low 1+2 = THE SUPER
+STOMPER
+*5 Hit:  air 1+2, (jump again) air 4, air Earthquake Stomp, (jump again)
+air 3, Air Throw = EARTHQUAKE SHAKER (37%)
+*5 Hit:  air 4, air 3+4, air Earthquake Stomp, in-close 1+2, Cranium
+Crusher = BUMP, SET, CRUSH (40%)
+*6 Hit: [corner] air 4, air 3+4, (jump up) air 4, air 1+2, 1, 1 = 35%
+*6 Hit: [deep] air 4, (jump again) air 4, air 3+4, air Earthquake Stomp,
+1, 4 = YOUR DRIVING DAYS ARE OVER, PUNK!
+*6 Hit: air 4, air 3+4, low 3, 2, low 3+4, Primal Scream = SUPER EAR
+SPLITTER (37%)
+*6 Hit: air 4, air 1+2, (jump again) air 4, air Earthquake Stomp, 1,
+Cranium Crusher = IT'S A BEAUTIFUL DAY IN THE NEIGHBORHOOD! (39%)
+*6 Hit: air 3+4, 3, 3, 2, 1+2, Neck Throw = EXTRA CRUNCHY (40%)
+*7 Hit: air 4, air 3+4, 3, 3, 2, 1+2, Stun Roar = SUPER ROARING TERROR
+(37%)
+*7 Hit: [deep] air 4, air 3+4, low 3, low 3, 2, low 3+4, Primal Scream =
+THE SECRET OF THE COW! (39%)
+*7 Hit: air 4, air 3+4, 3, 3, 2, 1+2, Neck Throw = TAKE A BITE OUTTA
+CRIME! (41%)
+*7 Hit: air 4, air 3+4, 3, 3, 2, low 3+4, Cranium Crusher = SUPER ROCKET
+LAUNCHER (41%)
+*7 Hit: air 4, air 3+4, (jump again) air 4, air 1+2, air Earthquake Stomp,
+(jump again) air 3, Air Throw = HAVE A NICE DAY! (44%)
+*7 Hit: air 4, air 3+4, (jump again) air 4, air 1+2, air Earthquake Stomp,
+1, Cranium Crusher = IT'S A BEAUTIFUL DAY IN THE NEIGHBORHOOD! (44%) 
+*8 Hit: [deep, arcade (D, S, T, V)] air 4, air 3+4, low 3, low 3, 3, 2,
+1+2, Stun Roar = IN YO' FACE DISGRACE! (38%)
+*8 Hit: [deep, arcade (D, S, T, V)] air 4, air 3+4, low 3, low 3, 3, 2,
+low 3+4, Cranium Crusher = THANK YOU FOR FLYING SAURON AIRLINES! (41%)
+*8 Hit:  air 4, air 3+4, (hop jump) air 4, air 1+2, 1, 2, 1+2, Primal
+Scream = THE SECRET OF THE COW!
+
+///TALON///
+
+     YUMMY {Face Ripper} (4)
+     DELICIOUS (5)
+     TALON'S FACE RIPPER IS MMM-MMM GOOD! (7)
+     THE SKULL SLICER {Brain Basher} (4)
+     SUPER SKULL SLICER (5)
+     FULL FRONTAL LOBOTOMY! (9)
+     THROAT POPPER COMBO {Jugular Bite} (5)
+     SUPER THROAT POPPER COMBO (7)
+     GO FOR THE JUGULAR! (8)
+     SLIDER {two low 4s} (5)
+     SUPER SLIDER (7)
+     SLIDE, SLIDE, SLIPPIDY SLIDE... (11)
+     ELEGANT {Pounce & Flip} (6)
+     GLORIOUS (7)
+     WARP FACTOR NINE! (9)
+
+3 Hit:   air 1+2, 1, 1+2
+4 Hit:   [corner, arcade] 3, 3, 3, 3 = 16%
+4 Hit:   [deep, arcade] air 3+4, low 4, 1+2, Face Ripper = YUMMY
+4 Hit:   [corner] Brain Basher, (hold joystick toward) air 1+2, low 1, low
+1 = THE SKULL SLICER (21%)
+5 Hit:   1, low 4, 1+2, Jugular Bite = THROAT POPPER COMBO
+5 Hit:   air 1+2, low 1, low 1, low 4, low 3+4 = 25%
+5 Hit:   [corner] Brain Basher, (hold joystick toward) air 1+2, low 1, low
+1, low 3+4 = SUPER SKULL SLICER (25%)
+5 Hit:   [cheezey (A, B, D, S, V)] low 4, 3+4, Slasher, low 1, low 1, low
+4 = SLIDER (26%)
+6 Hit:   air 1+2, 2, 1+2, Pounce & Flip = ELEGANT
+6 Hit:   [deep, arcade] low 1, low 1, Slasher, low 1, low 4, Face Ripper =
+DELICIOUS
+7 Hit:   [cheezey (A, B, D, S, V)] low 1, low 1, low 4, 3+4, Slasher, low
+1, low 1, low 4 = SUPER SLIDER
+7 Hit:   [deep, arcade] low 1, low 1, Slasher, low 1, low 4, 1+2, Face
+Ripper = TALON'S FACE RIPPER IS MMM-MMM GOOD! (31%)
+7 Hit:   air 4, air 1+2, 1, low 4, 1+2, Jugular Bite = SUPER THROAT POPPER
+COMBO
+8 Hit:   low 1, low 1, Slasher, low 1, low 4, 1+2, Jugular Bite = GO FOR
+THE JUGULAR! (32%)
+8 Hit:    low 1, low 1, Slasher, low 1, low 4, Pounce & Flip = GLORIOUS
+*9 Hit:  [(B, D, S, V)] low 1, low 1, low 2, 3+4, Slasher, low 1, low 1,
+low 4, 3+4 = 35%
+*9 Hit:  [cross-up] air 1+2, low 1, low 1, Slasher, low 1, low 1, low 1,
+low 4, low 3+4 = 35%
+*9 Hit:  Brain Basher, air 4, low 1, Slasher, low 1, low 1, low 4, low
+3+4, Frantic Fury = FULL FRONTAL LOBOTOMY!
+*10 Hit: air 2, air 1+2, low 1, low 1, Slasher, low 1, low 1, low 4, low
+3+4, Frantic Fury = 40%
+*12 Hit: [deep] air 4, air 1+2, 1, low 4, 1+2, Slasher, 1, 2, 1+2, Pounce
+& Flip = WARP FACTOR NINE! (44%)
+*12 Hit: [cheezey, corner (B, D, S, V)] air 4, air 1+2, low 1, low 1, low
+2, 3+4, Slasher, low 1, low 1, low 4, 3+4, low 1, low 4 = SLIDE, SLIDE,
+SLIPPIDY SLIDE... (46%)
+*15 Hit: [corner (B, D, S, V)] Brain Basher, (hold joystick toward) air 2,
+air 1+2, low 1, low 1, low 2, 3+4, Slasher, low 1, low 1, low 4, 3+4,
+Pounce & Flip = FULL FRONTAL LOBOTOMY! (56%)
+
+///VERTIGO///
+
+     THE SPITTER {Slow Venom Spit} (5)
+     SUPER SPITTER (6)
+     HERE'S LOOKIN' AT YOU, KID! (8)
+     THE WHIP {air 4, 3+4, Scorpion Sting} (5)
+     SUPER WHIP COMBO (7)
+     CRACK THAT WHIP! (9)
+     BLINDER {Fast Venom Spit} (5)
+     SUPER BLINDER (7)
+     YOU'LL PUT YOUR EYE OUT! (11)</pre><pre id="faqspan-3">
+     STREAKER COMBO {Come Slither, Scorpion Sting} (7)
+     SUPER STREAKER COMBO (10)
+     THE PEEPLES PUNISHER! (13) [named after a PR programmer]
+
+3 Hit:   low 3, low 3+4, Scorpion Sting
+4 Hit:   air 3+4, 2, 1+2, Scorpion Sting
+5 Hit:   Voodoo Spell, 1, 2, 1+2, Fast Venom Spit = BLINDER (18%)
+5 Hit:   Come Slither, 1, 2, 1+2, Scorpion Sting
+5 Hit:   low 1, low 1, low 2, low 3+4, Scorpion Sting = 25%
+5 Hit:   air 3, air 3+4, 2, 1+2, Scorpion Sting
+5 Hit:   low 1, low 1, low 1+2, Come Slither, Slow Venom Spit = THE
+SPITTER
+5 Hit:   air 4, air 3+4, 4, 3+4, Scorpion Sting = THE WHIP (32%)
+6 Hit:   low 1, low 1, low 2, low 1+2, Come Slither, Slow Venom Spit =
+SUPER SPITTER
+6 Hit:   2, 1+2, Come Slither, 2, 1+2, Scorpion Sting
+7 Hit:   [deep, arcade] low 1, low 1, low 1, low 2, low 1+2, Come Slither,
+Slow Venom Spit = SUPER SPITTER
+7 Hit:   air 4, air 3+4, Voodoo Spell, 1, 1, 1+2, Fast Venom Spit = SUPER
+BLINDER (28%)
+7 Hit:   [medium] 3+4, Come Slither, (walk toward) low 1, low 1, low 2,
+low 3+4, Scorpion Sting = STREAKER COMBO
+*7 Hit:   air 4, air 3+4, 4, 3+4, Come Slither, 1+2, Scorpion Sting =
+SUPER WHIP COMBO (36%)
+8 Hit:  Voodoo Spell, (hop jump toward) air 4, air 3+4, low 1, low 1, low
+2, low 3+4, Scorpion Sting
+9 Hit:   low 1, low 1, low 2, low 1+2, Come Slither, (hop jump toward) air
+4, air 3+4, 1, Slow Venom Spit = HERE'S LOOKIN' AT YOU, KID!
+*9 Hit:   air 4, air 3+4, 4, 3+4, Come Slither, (walk toward) 1, 1, 2,
+Scorpion Sting = CRACK THAT WHIP! (35%)
+*10 Hit: air 4, air 3+4, 1, 2, 1+2, Come Slither, 1, 2, 1+2, Fast Venom
+Spit = SUPER BLINDER
+*11 Hit: low 1, low 1, low 2, low 1+2, Come Slither, (hop jump toward) air
+4, air 3+4, 1, 1, 1+2, Fast Venom Spit = YOU'LL PUT YOUR EYE OUT! (38%)
+*12 Hit: air 4, air 3+4, low 1, low 1, low 2, low 1+2, Come Slither, (walk
+toward) low 1, low 1, low 2, low 1+2, Scorpion Sting = SUPER STREAKER
+COMBO
+*13 Hit: [deep] air 3, low 1, low 1, low 2, low 1+2, Come Slither, (hop
+jump toward) air 4, air 3+4, low 1, low 1, low 2, low 3+4, Scorpion Sting
+= THE PEEPLES PUNISHER! (50%)
+*14 Hit: air 4, air 3+4, low 1, 1, 2, 1+2, Come Slither, (hop jump toward)
+air 4, air 3+4, low 1, 1, 2, 1+2, Scorpion Sting = THE PEEPLES PUNISHER!
+
+These are only some of the combos possible.  There are probably millions
+more! Try combining different parts from different combos to get a new
+one! 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++ 3.  Brain Gauge+++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Under your health bar (the big artery extending from your heart) is your
+Brain Gauge.  Each time you take or block a hit, your brain gauge goes
+down. If your brain gauge ever reaches "empty" when you get hit (_not_
+while blocking), electricity will loudly crackle around your brain and you
+will become stunned.  Although you can't get stunned while blocking, you
+can still be taken to "empty" brain, allowing a quick stun with few
+successful hits thereafter.
+
+   Brain power regenerates quickly; as long as you don't get hit for a
+while you will soon be fine.  However, if you _do_ become stunned, shake
+the joystick left and right (nothing else will help!) to regain your brain
+faster. Once it reaches "full" again you will return to normal. This also
+works for "auto stuns" from certain special moves: Blizzard's Punching
+Bag, Chaos' FoFury, and Vertigo's Voodoo Spell. Auto stuns from other
+special moves (Blizzard's Freeze Breath and Ice Geyser, Diablo's Inferno
+Flash and Torch, Vertigo's Come Slither) last for only a short while
+whether you try to shake out of it or not.
+     Note that if a character's brain meter is emptied during a combo,
+he'll become dizzy when the combo is completed. If his brain meter is
+emptied with a hit or combo that knocks him down, he'll be dizzy when he
+gets back up.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++ 4.  Offense and Defense++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///4.1  Offense///
+
+   Mix it up! Using attacks that require the opponent to block low and
+high alternately can be very disturbing (not to mention frustrating!), so
+know which attacks must be blocked high and which low! Same goes for being
+on defense - see that section for more details. Stomps can be blocked low
+on version 2.3. The old "Leaping Attacks" can now be blocked with standing
+blocks (just press away!), although your recovery time from the block is
+seriously long, so the only bad result of doing a Leaping Attack is being
+vulnerable in the air (though you do also land close to your opponent, so
+if you're a distance fighter...). The exception is Talon's Brain Basher -
+it's possible for an opponent like Armadon to block it and then uppercut
+him with a low 1+2.
+   Remember that on version 2.3, all blocked basic attacks and nearly all
+blocked special attacks _do damage_ to your opponent. Unlike most other
+games, this damage is indeed significant, and will tip any close match.
+Block damage can be used to beat reclusive opponents, human or CPU, if you
+can sustain an assault for long enough. Just do "dink" damage for the
+entire round, and when the clock runs out and the other guy has no health
+left...
+
+///4.2  Defense///
+
+4.2.1 Blocking
+
+   Blocking in Primal Rage starts off simple: to block a high attack, pull
+directly away from your opponent on the joystick. To block a low attack,
+pull down and away on the joystick. Don't touch or hold down the buttons
+while doing this, or you won't be blocking! If you get hit once, and
+someone starts to unleash a combo, you can't block it. That's why it's
+called a combo! So, the moral of the story is... don't get hit! ^_^ On the
+other hand, sometimes a human player or even the CPU will accidentally
+pause in the middle of a combo, unintentionally ending it early and giving
+you a chance to block their next attack.
+
+   New in version 2.3 is block damage. Well, not entirely new, but now all
+blocked basic attacks & almost all blocked special attacks do significant
+"tick" damage to the blocker's heart meter, and slight damage to the brain
+gauge. However, you can't usually die from taking block damage, no matter
+how little health you have left! So turtle up when you're running on
+empty! [Note: there seems to be an unintentional exception: if the block
+damage of a move precisely equals the amount of health left, then blocking
+it can be fatal. This has been seen many times with block damage from
+basic attacks like Vertigo's low 3+4, and special attacks like Armadon's
+Iron Maiden.]
+
+Block these attacks high. Many involve a descending overhead strike. Note
+that all Leaping Attacks must be blocked high.
+
+1) Armadon's low 3 and Iron Maiden
+2) Blizzard's 3+4
+3) Chaos' 4, 3+4, and Flying Butt Slam
+4) Diablo's Pulverizer
+5) Sauron's Leaping Bone Bash
+6) Talon's 1+2 and Brain Basher
+7) All air attacks, of course. Be extra careful on combo'd air attacks -
+you have to block both hits high!
+
+Block these low; most of them involve a strike to the feet. Note that
+Earthquakes and everyone's low 3+4 must always be blocked low:
+
+1) Armadon's low 4 and low 3+4
+2) Blizzard's low 3, low 4, and low 3+4
+3) Chaos' low 3, low 4, low 3+4, and Ground Shaker
+4) Diablo's low 3, low 4, low 3+4, and Hot Foot
+5) Sauron's low 3, low 4, low 3+4, and Earthquake Stomp
+6) Talon's low 4 and low 3+4
+7) Vertigo's low 3+4 and Come Slither
+
+All basic & special moves not on either list can be blocked high or low
+(except Unblockable special moves, which cannot be blocked at all). I
+checked on my SNES! ^_^
+
+4.2.2 Cross-up Attacks
+
+     Beware cross-up air attacks, which hit you so far behind that you
+must push the joystick forward to block! Each character has a center of
+mass located at about the abdomen. If an attack hits you in front of your
+center of mass, you can defend normally. If it hits behind your center of
+mass, you must hold your joystick in the opposite direction instead. The
+2.3 CPU Talon likes to do cross-up air 1+2s on you as you're getting up
+from a knockdown! When buffering a special air attack into air cross-up
+hits, do the move in the direction you're facing when airborne. Do special
+moves the ordinary way when buffering them into ground hits, cross-up or
+not.
+     Armadon's Spinning Death is another example. If Armie times it
+precisely as you get up, he'll be spinning behind your center of mass -
+you must hold the joystick in the opposite direction you'd otherwise hold
+it, or you will get hurt. The 2.3 CPU Armadon does this every once in a
+while. 
+     There is a particular arcade version only cross-up corner-trap that
+can get you a No Cheeze meter! Take Vertigo vs player (or CPU) Armadon.
+Armadon does the Iron Maiden when Vertigo is standing in the right-hand
+corner. Vertigo jumps up to avoid the attack, and comes down directly
+above Armadon, who is recovering from his special move. Facing away from
+the corner [left], she bites him with lots of low 1s. The low 1s hit
+Armadon behind his center of mass, so the knockback sends him back toward
+the corner, right into Vertie's jaws! If Vertie tries to use more than
+five 1s in a single combo she'll get a No Cheeze meter, which is the only
+thing that keeps this trap from turning into a an infinite combo.
+
+4.2.3 Avoiding Projectiles
+
+Jumping to avoid projectiles can be hazardous to your health. If you take
+off with a long jump or Leaping Attack as soon as your opponent begins to
+fire, you might be able to score a hit, but then again you might not clear
+the projectile and/or jump straight into an anti-air attack. All
+characters seem to be more vulnerable to projectiles underneath them if
+they do a jumping High Attacks (jumping Low Attacks are safer). For
+example, if Vertigo does a jumping quick bite, rendering her body
+horizontal way above Blizzard's Freeze Breath, she'll get frozen anyway.
+So, what do you do when you opponent think's he's Ryu? Four other possible
+options...
+
+a)  Some parts of some moves are invulnerable to some attacks (sometimes
+:). Moves such as Chaos' FoFury, Diablo's Torch, Sauron's Primal Scream, &
+Talon's Slasher will allow projectiles to pass through or over your
+character without hitting you. Teleports will let you avoid the projectile
+completely. And then there's all the anti-projectile moves other than
+Leaping Attacks...
+
+b)  Depending on who you are, you can just fire a projectile to cancel
+your opponent's projectile.  Some projectiles pass through some other
+projectiles, though, so be warned!
+
+c)  If your projectile doesn't cancel the opponent's projectile and you
+still have some time, you can fire another projectile. The second
+projectile will cancel your opponent's projectile! Diablo vs. Chaos is a
+good example. This hasn't been tested on everyone, so it might not work
+for some!
+
+d) Some characters are can duck underneath some projectiles when they
+crouch, or block low. For example, Vertigo can duck completely under
+Blizzard's Freeze Breath if you hold the joystick straight down (not
+down&back), while Diablo & others can duck completely underneath Sauron's
+Stun Roar if they crouch or block low. On the other hand, no one can duck
+underneath Chaos' Power Puke. Some characters' basic attacks (such as
+Vertigo's crouching bites, or Talon's low claw attacks and slide kicks)
+can hit a nearby projectile thrower without trading damage.
+
+///4.3 Simultaneous Attack Collisions///
+
+kuan@agames.com (Frank Kuan): writes:
+Here's an interesting bit if info about version 2.3.
+When SIMULTANEOUS collisions occur between normal (quick, fierce) and
+power (two button), it follows this general formula:
+
+1. quick wins over fierce
+2. fierce beats power
+3. power beats quick.
+
+There are a few exceptions. An air attack done during a quick hop attack
+has less priority than any other attack. On version 1.7, it was more
+streetfighter'ish in the sense that any normal attack may have a "sweet
+spot" where at the right range and timing, it would always beat anything
+else. Version 2.3 was tuned so that "sweet spots" on normal and power
+attacks were removed, so that simultaneous collisions would occur more
+often and it would follow the arbitration rules of above. 
+
+The beauty of the 3 rules of arbitration is that it GUARANTEES the
+usefulness of every single normal/power attack in the game. It's like
+rock/papers/scissors. If Talon uses air high power too much, you KNOW you
+can beat him with any fierce attack. 
+
+///4.4 Total Domination, Quick Kill, & Scoring///
+
+4.4.1 Total Domination
+
+In version 2.3, winning a "perfect" battle (i.e. without losing *any*
+health, not even block-damage) is acknowledged as a "TOTAL DOMINATION."
+These are not always as hard to get as one might think, especially in
+certain matches vs the CPU (try repeatedly using Sauron's air 3, Air Throw
+on CPU Diablo).
+
+4.4.2 Quick Kill
+
+A normal PR round lasts for 60 seconds. On version 2.3, vanquishing your
+opponent in the first 10 seconds of the round merits a "QUICK KILL" award.
+This is *much* harder to get than a TOTAL DOMINATION, though not
+impossible (try swiftly & repeatedly using Diablo's standing 1+2 on CPU
+Armadon, or stunning CPU Blizzard with five of Vertigo's standing 3+4s,
+teleporting next to him, and finishing him off with a lethal combo). 
+
+4.4.3 Scoring
+
+     PR has a scoring system just like most other video games out there.
+When the arcade game is in demo mode, you can bring up the high score
+screen anytime by hold the joysticks toward one another. Hold the
+joysticks away from each other to bring up the credits screen.
+     If you beat the top score then you get to enter up to 15 letters, and
+the character you played will crouch atop a shadowy hill (facing right if
+you used the 1-player side, or left if you used the 2-player side)
+whenever the scores are displayed. You have plenty of time to enter your
+name, since the countdown begins with 20 seconds and renews to 15 seconds
+every time you enter a letter, until it runs out or you enter the "end"
+square.
+     If your score is worthy of a 2nd through 10th place slot, then you
+just get to enter three letters. On version 1.7, your name would be
+completely eliminated from the roster if it were bumped off the top slot.
+On version 2.3, the name in the top slot name is merely bumped to second
+place by a higher score, and then only its first three letters are
+visible.
+     Note that the operator can allow only certain letter combinations in
+the Full Name entry, if he wishes. The PR Censor has a default setting to
+Strict, and if you enter a censored word it will be replaced by a string
+of j's (except for the first letter).
+     Unfortunately, you cannot see your score on the game screen during
+your battles. In between battles, when the game shows you what area you
+have just conquered, your score is represented by the "number of
+worshipers" in the lower right-hand corner. The scores in the chart below
+are for version 1.7, though I doubt they've been changed much for version
+2.3...
+
+Action                                    Worshipers/Points Awarded
+
+each continue                                                  1
+every 1% damage inflicted on opponent          100
+first four hits in a single combo                        1,000 per hit
+fifth and successive hits in a single combo        2,000 per hit 
+     (maximum 20,000 per combo)
+eating one of your opponent's followers           10,000
+     (except during Bonus Round)
+opponent eats one of your followers                -10,000
+you eat one of your own followers                  -40,000
+     (except during the Bonus Round)
+Total Domination, or Quick Kill,                     20,000
+     or both in same round
+doing a finishing move                                     50,000
+world domination                                             100,000
+winning the game                                             200,000
+bonus for winning with less than 10 continues  1,000,000
+bonus for winning without continuing              5,000,000 
+     (these last three bonuses aren't cumulative)
+
+///4.5 CPU AI patterns///
+
+     The CPU AI in version 2.3 has been almost completely overhauled. From
+the second battle on up, the CPU tends to use all its special moves more
+(except fatalities, which it never does), more elaborate combos, and
+cannot be as easily suckered with a constant barrage of attacks as before.
+But in addition to its new strengths, the CPU has also gained new
+weaknesses. Generally, you can win by anticipating and retaliating against
+the CPU's tendency to jump and/or use special moves. Here are some very
+brief weaknesses to exploit, if you want to rule the new Urth...
+
+CPU Armadon
+
+     Use anti-air moves or Armadon/Blizzard/Chaos/Talon's low 1+2 to hit
+CPU Armadon out of the air when he jumps, which is very often. Block and
+retaliate against his Mega Charge. He's also a sucker for Armadon's Mega
+Charge, Diablo's Mega Lunge, and Chaos/Sauron's air Earthquake. Vertigo
+can go for a low 1+2, Fast Venom Spit combo, or bite him out of the air
+with her low 2 if she's far enough away, then do a Venom Spit as he gets
+up. He'll probably either do the Iron Maiden or jump with a 4; she can
+wait until after he swings his tail, knock him down with another bite, and
+repeat. Use her air-to-air teleport to escape his corner-traps.
+     Want to practice your ground combos? Knock Armie down and crouch next
+to him. Wait for him to get up and try his tail-over-the-head attack. Then
+nail him with a combo that begins with a low 1. Your low 1 is faster than
+his attack; you'll hit him out of it and work him over! If you slip up and
+attack too early, he'll just block your attempted combo, which is not as
+much fun. ^_^
+     Want to practice your air combos? Knock Armie down and toss a
+projectile at him just as he gets up. If the projectile hits him, he'll
+often do the Iron Maiden; jump straight up and pound him with a combo on
+the way down.
+     Armadon always starts his turn in the Final Battle with an off-screen
+wail; then he leaps in with the Iron Maiden. 
+
+CPU Blizzard
+
+     Armadon and Vertigo can repeatedly swat him with their standing 3+4
+from far enough away; Blizzard can repeatedly use the Short Mega Punch
+followed by low 1s; Blizzard and Sauron can Air Throw him if he doesn't
+Ice Geyser them first. Diablo and Sauron can chomp him with their standing
+2 when he's just within their range; Chaos and Sauron can use their air
+Earthquakes; Talon can get him with combos starting with a low 4 from a
+short distance away. On home versions, Talon can do a low 4 out of range;
+when Blizzard retaliates with an out-of-range Ice Geyser, Talon can close
+in with the real attack. Characters with projectiles can knock Blizzard
+down and toss a projectile so that it is in the middle of the screen (not
+quite about to hit him) when he gets up. He'll long jump over it and do a
+combo ending in a Mega Punch. Block the combo and retaliate with one of
+your own. Everyone can long jump or hop jump back in the hope of suckering
+Blizzard into a Mega Punch, duck/block the move, knock him down, and
+repeat.
+     Blizzard always starts his round in the Final Battle with the Freeze
+Breath from off screen; then he jumps in.
+
+CPU Chaos
+
+     He almost always follows up his Power Puke or FoFury with either the
+Battering Ram or the Flying Butt Slam. Block/dodge the moves and
+retaliate. Armadon can jump in on him with air 4, air 3+4. Blizzard and
+Sauron can repeatedly air throw him even if he's on the ground. Chaos and
+Sauron can fall back on their air Earthquakes. Diablo can long-jump in
+with air 3+4s; if he leaps from the right distance, Chaos will jump into
+the attack, especially if Chaos is just getting up from a knockdown. Talon
+can nail him by long-jumping in with combos that start with air 2, air
+1+2. Vertigo can teleport to the ground on his opposite side and nail him
+with a combo that starts with a low 1.
+     Chaos always starts the Final Battle with the FoFury from off-screen
+(block or long jump away to avoid it); then he leaps in with the Flying
+Butt Slam.
+
+CPU Diablo
+
+     He tends to jump in response to your jumps. Leap toward him with your
+air 3 or air 4 until you knock him down; then as he gets up, jump toward
+him with an air throw or air combo, and he'll probably jump into it. The
+key is not to do the air attack until after he jumps. Hang back when he
+starts going crazy with out-of-range attacks, though, because he's about
+to leap forward with his high-priority air 1+2. When you're getting up
+from a knockdown, he likes to try a three-hit cross-up combo followed by
+the Pulverizer. Block the combo, then jump and hit him out of the air.
+     Diablo always starts the Final Battle with a roar from off screen
+(his voice is more hoarse than Sauron's - probably a side effect of all
+that smoking :); then he teleports in, appearing a short distance away.
+
+CPU Sauron
+
+     He likes to use his air Earthquake Stomp followed up with his
+standing 1+2 a lot. When he goes for the Earthquake, long jump toward him
+(avoiding the stomp) and combo him. He'll try walk up to you and bite you,
+too; wait until he's in range and scratch him with low 1s.
+     Sauron always starts the Final Battle with a roar from off screen.
+Then he jumps straight down from above with an Earthquake Stomp, but this
+particular earthquake won't damage you and he won't follow it up with his
+standing 1+2. 
+
+CPU Talon
+
+     He has the most vicious of all the overhauled CPU AI's. He'll fall
+for Armadon's Iron Maiden, Chaos' & Sauron's air Earthquakes, or Diablo's
+air 3+4 a lot. Blizzard can tick block-damage off him with combos
+involving the Fake Mega Punch. Talon can target his alter ego's backside
+with the air 1+2. Everyone can hop jump toward him and make him block some
+air attack(s). He'll frequently respond with his Slasher or a slide kick +
+Frantic Fury combo; low block and quickly retaliate.
+     Talon always starts the Final Battle with a yowl from off screen,
+then jumps in with the Brain Basher. 
+
+CPU Vertigo
+
+     Like Diablo, she tends to jump in response to your jumps. If you jump
+toward her with a high priority air attack(s) (such as Vertigo's 3+4, the
+other lizards' 1+2, or the apes' 2 or 4) then she'll most likely leap into
+it. This way, you can stun her with repeated combos like Armadon's air
+1+2, 1+2; Sauron's air 1+2, Primal Scream; Talon's air 4, air 1+2;
+Vertigo's air 4, air 3+4. Again, the key is not to attack until after she
+leaves the ground. If her jumping bites hit you instead, then you probably
+either jumped from the wrong distance or attacked too soon. She's
+vulnerable to combos starting with a low 1 whenever she uses her
+ground-to-ground teleport, and she almost never uses air teleports except
+in response to certain special attacks, such as projectiles.
+     Vertigo always starts the Final Battle with a hiss from off screen,
+then teleports in, appearing on the ground a short distance away.
+
+///4.6  Final Battle///
+
+     After using one character to conquer all seven territories, the last
+of which must be won from the CPU, you are awarded "WORLD DOMINATION." If
+a second player joins in during the first six matches, beating him will
+conquer the territory and ruler you otherwise would have fought, even if
+the second player didn't use that character. If that's the case, though,
+then you lose the opportunity to do a fatality on the ruler you didn't
+fight. If a second player joins in while you are fighting for your seventh
+territory, you must re-conquer the entire world after beating him. If you
+join in during any match and beat the other player, you must conquer all
+the other territories afterward, even if he conquered some of them and
+you're using the same character as he did. You'll also have to re-conquer
+the world if you lose a match and continue on the other side, or with a
+different character (changing your character's color won't make a
+difference though :).
+     After winning WORLD DOMINATION, you arrive at a stage where you have
+to fight all seven characters again in one big round, with the clock
+turned off. This is called the "Final Battle." It takes place on a special
+"Dinosaur Graveyard" stage. There are no worshipers or pterodactyls moving
+about in the background. If you die during the Final Battle then you can
+continue from the precise point at which you left off [the continue
+countdown is 15 seconds instead of the usual 10], but you cannot change
+characters and if a second player joins in the Final Battle ends (see
+Final Battle Bugs in version 2.3).
+       Fortunately, there are three ways to make the Final Battle easier.
+The first is to do fatalities on as many opponents as you can (remember
+that you can't do a fatality on an opponent if your second win is a "time
+over" victory, or if you don't fight him because a second player has
+joined in). Dead enemies will flicker like ghosts in the Final Battle, and
+every attack you do to them will inflict extra damage. Regardless of
+whether a given enemy is solid or flickering, the instant you exhaust his
+health meter he will collapse and revert to bones, which become part of
+the background. Unlike normal rounds, you can't finish a big combo if your
+opponent expires in the middle of it. When an enemy dies, you stand still
+and will remain frozen until you hear the voice of your next foe.
+     The second advantage is to know each CPU foes' signature entrance,
+anticipate it, and dodge or retaliate (signature entrances are described
+in section 4.5, "CPU AI PATTERNS"). There are two ways to tell which
+opponent you'll fight next. One is to watch for the name under the enemy's
+health meter, which appears just as the battle starts. The other is to
+listen for the enemy's voice (or projectile sound, for the apes). Each PR
+character has a unique voice for their wordless battle cries/screams of
+pain.
+     Your third advantage is that before arriving at this stage, you have
+a chance to acquire more than 100% total strength. The game will say "NOW
+YOU MUST REPLENISH YOUR HEALTH BEFORE THE FINAL BATTLE," and a 20-second
+bonus round commences. It takes place on the background of the last enemy
+you beat, and all you do is eat worshipers and pterodactyls for more
+strength. It is possible to obtain a maximum of 100% extra health, which
+will appear in a green life meter after your red life meter has been
+exhausted. You can eat both people & pterodactyls in the bonus round by
+doing each character's 'Eat a worshiper' move, or use a normal bite to eat
+just the pterodactyls. The humans are much more nutritious than the
+pterodactyls, which give you a mere 1% health each. Even if you can't find
+anything to eat, 18% extra health automatically trickles into your reserve
+life bar. If the NO GORE switch has been set for PR, you won't be able to
+eat people during the Bonus Round; instead, you automatically get 50%
+extra health.
+
+A little phrase pops up during this mini-round:
+
+     Armadon - TO GIVE YOU STRENGTH FOR THE FINAL CONFRONTATION, YOUR
+TRIBE SACRIFICES ITSELF TO YOU.
+     Blizzard - NOW, DINE ON A FINE FEAST OF FOLLOWERS.
+     Chaos - CHOW DOWN, IT'S A PAGAN PICNIC.
+     Diablo - FEASTING FRENZY!
+     Sauron - EAT OF YOUR TRIBE THAT YOU MIGHT REMAIN IMMORTAL.
+     Talon - CHEW UP AS MANY HUMANS AS YOU CAN.
+     Vertigo - SWALLOW THE TINY HUMANS WHOLE.
+
+FINAL BATTLE BUG in ARCADE VERSION 1.7:
+
+     At the mini-round, do NOT get 100% health. If you do, in the Final
+Battle, when you lose your first 100% of health, you will NOT get the
+health you earned in the mini-round. Your game will be over.
+
+FINAL BATTLE BUGS in ARCADE VERSION 2.3:
+
+1) Several times now, I've seen a second entire *red* life meter appear
+after the first red life meter was used up, but before the green life
+meter was started. Not to complain, but it was kind of weird... 
+
+2) When Chaos' "signature entrance" FoFury cloud appears a short distance
+behind you, do not hold the joystick toward it (i.e. don't back into it
+while trying to block). The game will freeze, display a screenful of
+incomprehensible numbers along with the words "press three times to
+continue," and reset when you tap the buttons. It's happened to me on
+several occasions with different characters, and this time I *am*
+complaining. A simple way to avoid this glitch is to long jump away from
+the FoFury when it appears, avoiding it and Chaos' Flying Butt Slam.
+
+3) It is possible for a second player to join in during the Final Battle
+on version 2.3. You'll fight your match on the dinosaur graveyard stage,
+and the winner will get to re-conquer the world. Unfortunately, the game
+will crash if/when you make it back to the Final Battle again. When this
+happened to me, halfway through the Final Battle I heard Sauron's roar but
+the game reset before he could show up.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++++++ 5. Endings+++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you defeat all seven opponents during the Final Battle, the
+following words appear:
+
+          [char name] CONQUERS
+          CONGRATULATIONS 
+          YOU ARE RULER 
+          OF THE NEW URTH 
+
+Your entire tribe of worshipers runs on screen to cheer your success. Then
+comes a couple paragraphs of text about your character, followed by a
+captioned picture. If your score is worthy of a place on the roster, you
+get to enter your initials or full name and glimpse your score on the
+king-of-the-hill demo screen.
+
+///ARMADON///
+
+     For over a million years, Armadon had lived peacefully in his cave
+beneath the Earth's crust, telepathically linked to the biomass. The
+Cataclysms and the battles for supremacy over the changing planet tortured
+him. So he rose up to settle things once and for all.
+     Now that the threat has past, he settles down into the ground to
+enjoy some well deserved rest. The land is scarred but calm. At least for
+now...
+
+Followed by a picture of Armadon in a cave. His worshipers have built some
+dwellings into the cave's walls; three women are climbing up various
+ladders. Armadon sits in the middle of the cave meditating, with his eyes
+closed. His body is outlined with electricity. 
+
+Picture Caption:  THE MEDITATION OF ARMADON
+
+///BLIZZARD///
+
+      Blizzard is a noble god, the essence of the animal spirit. Frozen
+for a millennia at the heart of an immense glacier in the Himalayas,
+Blizzard was released when the Urth met the great meteor. He lived high in
+the mountains, descending only when threatened. With his animal power and
+age-old wisdom, he was unstoppable.
+      With no threats remaining, he returns to his mountain retreat. One
+day, though, a new force will invade his land from across the endless
+ocean...
+
+This text is followed by a picture depicting Blizzard sitting in an
+ice-covered chair. He is calmly looks ahead, chin in hand. A man and two
+women bow to him; a third woman leans against his throne.
+
+Picture Caption:  BLIZZARD'S SOLITUDE
+
+///CHAOS///
+
+     Chaos was the mightiest witch doctor on the first continent. His
+greatest wish was to control the evolution of humanity. In his quest for
+power, he cast a mighty spell which backfired and turned him into a
+disgusting beast, forced to wallow in his own excrement for eons. During
+the Cataclysm, Chaos praised Throshti, God of Carrion, for release.
+However, to restore his greatness, he had to defeat all of his enemies.
+     Now, his task completed, he regains control of his life and leads his
+tribe to greatness. One day, though, his people will be threatened and he
+will have to pursue power again...
+
+Followed by a picture of the human Chaos standing in an archway barely
+illuminated by four burning torches. His left hand is on the back of an
+almost completely nude woman, who hugs his side. A ghost-like figure of
+his ape form is in the background darkness.
+
+Picture Caption:  CHAOS' REDEMPTION
+
+///DIABLO///
+
+     Diablo is evil in its purest form. He was released from his fiery
+prison, deep within the Urth, drawn by the pain and torment caused in the
+great Cataclysms. Now that he has conquered the planet, he lives to
+torture it. With none left to oppose him, he begins to burn the entire
+planet, sparing only the cruel and vicious. He turns the world into a
+living hell.
+     For centuries he will revel in the inferno he has created, until at
+last his rule is challenged by a traveler from across the great sea...
+
+Followed by a picture of Diablo standing near a bloodstained gallows with
+skeletons hanging from it. Two worshipers, a man and a woman, are at his
+feet. They are apparently fighting for his enjoyment, each using a single
+bone as a weapon. Bloody, crucified skeletons surround the de facto arena.
+And you thought Shao Kahn was bad... ^_^
+
+Picture Caption:  DIABLO'S HELL
+
+///SAURON///
+
+     Sauron is the god of Hunger. When released from his sleep of ages by
+the catastrophe, he soon realized that he must devour human flesh to
+remain immortal. The hungry hordes of humanity worshiped him, but lived in
+dread fear of his presence. Many humans soon sought refuge with other
+rulers of the planet. Sauron had no choice but to defeat the others in
+order to feast on their followers. Now that he has devoured most of the
+land, he sets off in quest of new lands and new meals...
+
+This text is followed by a awesomely sick picture. It depicts Sauron
+standing on the beach next to humongous piles of eaten bodies. Faint
+images of faraway carrion birds fly above his banquet. A dead body hangs
+from Sauron's teeth. In the foreground is a mostly eaten, fleshless body,
+and Jason Leong (a PR creator/artist :) with his skull broken open and
+brains spilling out (the brains are censored from the picture in the PR
+Players Guide!). The sky is dark red-orange from a brilliant setting sun.
+There are no living worshipers.
+
+Picture Caption:  THE FEAST OF SAURON
+
+///TALON///
+
+      For eons, Talon was a great chief of a raptor clan on a hidden South
+Pacific island. When the great meteor rearranged the continents, Talon's
+island was brought in contact with the mainland. Wanting to ensure the
+safety of his wives and children, he set off to eliminate all dangers of
+the clans welfare.
+      Now raptors live a life of luxury, and humans are kept as cattle or
+hunted as sport while raptors lounge about in the sunshine. His clan is
+completely safe and Talon will be happy until the newcomers arrive...
+
+Followed by a picture of Talon and two smaller raptors without crests
+reclining human-style on a grassy hill, under a budding tree. The lounging
+raptors are overlooking a wooden cattle-style pen containing at least six
+worshipers, male and female, two of whom are running from a raptor with a
+big net. Outside the pen, two more men flee across the plains from another
+pair of raptors.
+
+Picture Caption:  TALON'S DREAM
+
+///VERTIGO///
+
+      Long ago a sorceress named Vertigo appeared from another dimension.
+Then in a great magical battle during the Mesozoic Wars, Vertigo was
+banished to the moon by the arch mage Balsa Fas. The meteor crash,
+however, has weakened the old shields enough for her to return and enslave
+the planet once again.
+     Reveling in her victory, Vertigo has enslaved hordes of humans,
+having them build her an insane palace in multiple dimensions. Few minds
+can endure the torture, but there are plenty of humans. One day while
+practicing her arcane arts, she discovers a land where she is not queen...
+
+Followed by a picture of a forward-facing Vertigo looking up and hissing
+in the middle of some purple swirls. She is standing at a 45-degree angle
+with her left foot upraised. She is covered with horizontal stripes (!),
+and her hood is framed with jagged points. A man and a woman in the
+foreground are covering their ears. In the background are three
+Escher-style stairways with tired-looking humans walking up or down them.
+
+Picture Caption:  THE PALACE OF VERTIGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++ 6.  Misc stuff++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///6.1  Colors!!!///
+
+ In version 2.3, all characters come in four colors. You choose your color
+when you select your character. Pick your character by holding down either
+button 2, button 3, button 4 or no other buttons as you press button 1. 1
+is the Original Recipe color; 1+2 is the old alternate color; 1+3 and 1+4
+are new colors. The CPU is always the Original Recipe or old alternate
+color. Should you and another player choose the same character with the
+same color, then the one who chose the color in dispute first gets to keep
+it. The late chooser is stuck with the Original Recipe color unless that
+was the color in dispute, in which case he's stuck with the old alternate
+color.
+     Each character also has a particular color for their conquered
+territory/worshipers' clothing. In a character vs same character match,
+the other set of worshipers have a slightly different clothing color.
+
+Armadon  
+   1=ochre&brown 1+2=green&olive 1+3=purple ("Barney Armadon" :)
+1+4=yellow
+   Territory, worshiper's clothing color: neon green
+   Alternate worshiper's clothing color: olive
+
+Blizzard  
+   1=dark blue&brown 1+2=cyan&gray 1+3=green&gray 1+4=silver&white
+   Territory, worshiper's clothing color: blue
+   Alternate worshiper's clothing color: dark blue
+
+Chaos 
+   1=pink&grey 1+2=lilac&grey 1+3=green&pink 1+4=green&purple
+   Territory, worshiper's clothing color: yellow
+   Alternate worshiper's clothing color: dark yellow
+
+Diablo 
+   1=red&black 1+2=orange&red 1+3=green&red 1+4=dark olive&brown
+   Territory, worshiper's clothing color: red
+   Alternate worshiper's clothing color: orange
+
+Sauron 
+   1=yellow&purple 1+2=fluorescent yellow&blue 1+3=fluorescent
+yellow&cinnamon  1+4=purple&black ("Barney the King")
+   Territory, worshiper's clothing color: purple
+   Alternate worshiper's clothing color: dark purple
+
+Talon 
+   1=orange 1+2=orange-yellow 1+3=lilac ("Son of Barney") 1+4=white 
+   (Talon always has black stripes and white crest/underbelly/feet.)
+   Territory, worshiper's clothing color: white
+   Alternate worshiper's clothing color: gray
+
+Vertigo 
+   1=blue&cyan 1+2=green&aquamarine 1+3=green&yellow 1+4=green&purple
+("Bride of Barney")
+   Territory, worshiper's clothing color: aqua
+   Alternate worshiper's clothing color: light green
+
+///6.2  Cheeze Alert///
+
+Are you sick and tired of your opponent yelling, "That's cheezey!"? Well,
+PR has it's own cheeze alert! If you do something that the _game_ thinks
+is too cheezey, it will flash a "No Cheeze" sign. When this happens the
+victim will not be hurt or stunned by the cheeze, and if the cheezey move
+was part of a combo, it does not count as a combo hit and the cheezey
+combo ends. This feature was added as a conscious attempt to prevent the
+inescapable traps that have been known to plague other fighting games. No
+sign, no cheeze. End of argument. =)
+
+Known Cheeze Alerts:
+   Attempted throw or unblockable attack immediately after a blocked
+attack (while opponent is trapped in "block-stun")
+   Attempt to use same special move twice in a combo (slow & fast
+projectiles are considered to be two different special moves)
+   Attempt to use the same basic move more than five times in a combo
+   Two low 3+4s in a combo 
+   Both Blizzard's Freeze Breath and Ice Geyser in a combo
+   Three of Blizzard's 1+2s in a combo
+   Three of Chaos' 1+2s in a combo
+   Two of Diablo's air 1+2s in a combo
+   Two of Diablo's air 3+4s in a combo
+   Two of Sauron's air 1+2s in a combo
+   Two of Sauron's air 3+4s in a combo 
+   Two of Talon's low 3s in a combo
+   Two of Talon's low 4s in a combo (version 2.3 only)
+   Both Vertigo's Come Slither and Voodoo Spell in a combo
+   Vertigo teleporting in, doing a combo, then teleporting out
+
+Note: On version 1.7, one could string Talon's low 4s together in a combo
+by doing a low 4, interrupting it with the Run Backwards move, immediately
+doing another low 4, and so on. Since Talon's low 4 has a long range and
+relatively little knockback, one could string five of them together at any
+time for a nasty combo (in comparison, most other Fierce attacks will
+knock the enemy out of range after one to three hits). The version 2.3
+programmers fixed this trap by making two of Talon's low 4s in a combo
+cheezey. Even so, Talon's SLIDER combo names require two low 4s in a
+combo, so to get the SLIDER names you must also get a No Cheeze meter!
+Talon's low 3 is presumably similar; it has so little knockback that it
+would be too easy to string five of them together anytime, so two of them
+in a combo was officially made cheezey.
+
+///6.3  Eat a Worshiper/// 
+
+   Eating people is fun and easy! In version 2.3, worshipers taste better
+and are more filling!  They now give significant energy bonuses, so chow
+down. Each character has a special move JUST TO EAT PEOPLE, and they're
+all different. See the moves section to find out how. Ordinary bites will
+just knock humans into the air, and you can't eat 'em unless they're on
+the ground. It does take a moment to eat, so be careful - if your opponent
+isn't distracted or stunned, he may bop you and send your dinner flying!
+During a normal match, your worshipers will run into the foreground (where
+you can eat them!) whenever you do a combo or get dizzy. The best way to
+eat your opponent's followers is to get him dizzy, wait for his followers
+to rush forward, trip him with your low 3+4, and combo the attack into
+your Chomp a Human special move. You can also eat your own worshipers
+after doing a combo that knocks your opponent down, but remember that
+eating your own tribe will cost you points!
+
+If you're having trouble pursuing & accidentally bopping your dinner
+during the Bonus Round, keep 3+4 held down all the time, from before the
+round starts. Your character can walk back and forth with these buttons
+held down. When you're in the right position to eat your dinner, hold down
+1+2 as well (even if you do a standing bite by accident, it probably won't
+disturb the humans) and then move the joystick. You can eat pterodactyls
+only during the Bonus Round, by using either the Chomp a Human move or any
+High Attack.
+
+There are six different tribespeople, three men and three women:
+
+
+Appearance                                  Name          %Health on rev
+1.7, and rev 2.3
+
+pterodactyls (Bonus Round only)  --                 1%, 1%
+woman with short black hair         Jeanette        3%, 10%
+woman with long blond hair         Tracy            4%, 12%
+woman with long black hair          Renee           4%, 12%
+bald man with spear                      Jason            6%, 13%
+muscular man with short hair        Ron              8%, 16%
+fat man with dreadlocks                Rob              12%, 21%
+
+The number of worshipers you see on screen is a representation of the
+total number of worshipers/points you've accumulated divided by 50,000,
+fractions rounded down, maximum of ten of your followers on screen at a
+time (except after winning the Final Battle). There are always at least
+three tribespeople on screen at the start of a round, even if they were
+all eaten last round. The higher your score is, the greater the
+probability of having meatier worshipers on screen, which is especially
+helpful during the Bonus Round before the Final Battle.
+
+Some characters eat worshipers faster than others.  Blizzard, for example,
+takes his time chomping on a human & spits out the bones, while Talon just
+stuffs 'em in his mouth.
+
+Fastest eaters:  Diablo, Sauron, Talon
+Medium eaters: Armadon, Vertigo
+Slowest eaters:  Blizzard, Chaos
+
+In addition to being eaten, your worshipers have different reactions to
+various things during a fight. Even if they all get eaten during a match,
+you'll still hear the cheers 'n' stuff from their off-screen comrades.
+
+     You move around --> Tribe runs back and forth, following you
+     You get hit --> Tribe is sad
+     You hit your opponent --> Tribe cheers
+     Do a combo that has three or more hits, <35% damage and doesn't end
+in a special move --> Crowd cheers: YIP! YIP! or ALRIGHT!
+     Do a combo that does <35% damage and ends in a special move --> Crowd
+cheers: YYEECCHH! or YYEEAAHH! or EEEWWW!
+     Do Blizzard's Air Throw, Chaos' FoFury or Ground Shaker, Sauron's Air
+Throw or Earthquake Stomp --> Both tribes fall down, then get back up
+     Win a round --> Crowd cheers, does victory dances
+     Lose a round --> Crowd is dejected; women weep, men stomp their feet
+     Win a match --> Your tribe chases enemy tribe away
+     You get dizzy --> Tribe members run forward and pray to you for help
+     You do a combo --> As many tribe members as hits in your combo (up to
+maximum of all your tribe present) run forward and worship your power
+     Armadon does 5+ hit combo ending in Hornication Uppercut, or Vertigo
+does 5+ hit combo ending in Come Slither --> Naked, inedible worshipers
+dash across the screen
+     Hit a tribesperson --> Person goes flying
+     Eat a pterodactyl (Bonus Round only) --> Pterodactyl cries Ah-RAW!
+and disappears in a tiny spatter of blood
+     Eat a tribesperson --> Crowd goes EEEWWW. Victim screams AIEEEEEE!
+(female) or UAAAAGH! (male). Tastes like chicken! ^_^
+
+///6.4  Going ballistic///
+
+This feature occurs only in player vs. player matches. On version 1.7 &
+presumably 2.3 as well, each character goes ballistic if he/she
+
+1) Has 50% less health than the opponent
+2) Has less than 30% health left
+3) The character gets hit out of a special move, tripped by a low 3+4 or
+certain special moves, thrown, or hit out of the air (i.e. gets knocked
+down)
+
+The wounded character's brain meter crackles as if telegraphing a stun,
+but when they get up they start flickering (the character constantly
+switches between the current color and the Original Recipe, or else the
+Original Recipe and the old alternate) and go into the ballistic state.
+The character announces this state with a brief, recycled piece of
+animation during which they can't hurt or be hurt by their opponent (like
+the "full POW meter" animations in Samurai Shodown II). In the ballistic
+state, all your attacks do significantly more damage. You can tell if you
+are in that state if your character is flickering and has one of these
+words under your character's name.
+
+     Armadon - SAMADHI [Bed-o'-Nails animation]
+     Blizzard - ZEN [Ice Geyser animation]
+     Chaos - INSANE [Power Puke animation]
+     Diablo - STEAMED [Incinerator fatality animation]
+     Sauron - RAMPAGING [Primal Scream animation]
+     Talon - BERSERK [Frantic Fury animation]
+     Vertigo - RABID [hood flare from victory animation]
+
+On version 1.7 and probably 2.3 as well, going ballistic has the following
+effects:
+
+1) your attacks do 40% more damage than usual [fractions are rounded down]
+2) you receive 15% less damage from any attack
+3) you take zero block-damage
+4) you have no combo regulation (combos are normally regulated so that
+after a certain number of hits, each successive hit does only so much
+damage)
+5) you can stay ballistic for 20 clock ticks at the most
+
+In tug-of-war mode (where both dinos share one big lifebar, available on
+some home versions of PR) it is possible, albeit unlikely, for both
+players be ballistic at the same time.
+
+///6.5 Sudden Death & the Clock///
+
+   A PR match is best two out of three rounds. Round one is "First Blood,"
+round two is "Vengeance", and round three [if there is one] is
+"Domination." Each of these rounds begins when the announcer says "RAGE!"
+and lasts for up to sixty seconds. The last ten seconds are accompanied by
+shrill cricket chirps, as a reminder that you're running out of time. If
+the two of you still have health left by the end of the round, you'll both
+be knocked down. Then the one with the most energy will get back up; the
+other guy will stay flat on his back. This is a "time over" victory, which
+is announced with the words "[char name] WINS." You'll also see "[char
+name] WINS" when either character gains his first victory, time over or
+not. 
+     A "decisive" victory, in which you completely exhaust your opponent's
+health meter, will fry his brain meter and explode his heart meter. If
+your first victory is decisive, he'll keel over in an "I lost" animated
+sequence. If your second win is a decisive victory, then he'll be stunned
+for a few moments while you can try a fatality. Should you not do the
+fatality correctly, or hit him with any move by accident, he'll keel over
+again. In any case, you'll see the words "[char name] CONQUERS." Note that
+if your second victory is a time over win, you won't have the opportunity
+to perform a fatality. Your current victories are represented near your
+life meter with a little claw-symbol.
+     A draw in PR is announced with the words "DEAD EVEN" and does not
+count as a win for either contestant. If the third round ends without a
+clear winner [both characters have zero wins, or one win each], you both
+get knocked down and go immediately into a "Sudden Death" round as you get
+up. This round lasts for only 30 seconds [20 seconds on version 1.7] and
+has a meteor shower thrown in.  Both players begin with a full bar of
+health. As the round progresses, each players' health automatically
+decreases at a steady rate and both fight as usual until one loses.
+Whoever wins the Sudden Death round wins the match, and has the usual
+opportunity to perform a fatality on the loser.
+     Since both characters' energy bars are empty by the end of the 30
+seconds, neither character can get a "time over" victory during Sudden
+Death. If Sudden Death ends in a draw, then both opponents lose and you
+lose your credit. During the continue countdown, instead of one victorious
+critter & one unconscious critter, you'll see both contestants lying
+unconscious, side by side.
+</pre><pre id="faqspan-4">
+///6.6  Secrets - Volleyball, Bowling, Raining Cows 'n' Stuff///
+
+6.6.1  Volleyball
+
+When you and an opponent are on Sauron's stage, have one player do a combo
+on the other. Once you do this, worshipers will run out and start bowing.
+Have one player who is close to the worshiper hit him. The worshiper
+should bounce over to the other player. Before the worshiper lands, have
+the other player hit the worshiper back. After bouncing the worshiper back
+and forth ten times, a judge on a high chair and a net will pop up and the
+round clock stop. You and your opponent can now play volleyball with a
+helpless human! Once a player reaches a score of three, you resume
+fighting. You can eat the "ball" too. With Vertigo, I ate the ball twice
+when I hit quick bite! I lost the point because of that!
+
+6.6.2  Bowling
+
+On any stage, have two Armadon players continuously execute the Spinning
+Death on each other.  After three Spinning Death collisions, the players
+bowl two frames! Ten worshipers will get into a bowling pin formation and
+let you roll over them with the Spinning Death.
+
+6.6.3 Raining Cows 'n' Stuff! [confirmed by jdavis@iglou.com (Jason
+Davis)]
+
+Mentioned in the "Primal Rage Arcade Player's Guide" by the guys at
+GamePro. Play as Chaos in his home stage (the Ruins). Arrange for a Sudden
+Death round to take place (see below). If you do a FoFury so that the
+green cloud is in the air as the Sudden Death begins, the sky will rain
+cows instead of meteors. If you don't do an FoFury on Chaos' stage, the
+sky will rain bricks. If Sudden Death occurs on Blizzard's stage, the sky
+will rain ice balls. This feature doesn't seem to be in SNES PR (which is
+also missing the standard meteor shower during Sudden Death).
+
+///6.7 Free Play!///
+
+When you have to pay for your game, putting less than 1 credit in a PR
+machine makes the sound of a cricket chirp, and putting 1 credit in makes
+a pterodactyl cry. But you'll know that a PR 2.3 machine has been set to
+"free play" if the words DEMO ONLY appear near the top of the screen. Free
+play mode is a great opportunity to practice your combos! Player vs.
+player battles work as usual, but you can't lose to the CPU. All CPU
+opponents will fight as if they were the first enemy on a normal
+difficulty setting; what's more, you can't lose energy! No matter how many
+times the CPU bites you, you'll get a TOTAL DOMINATION with every match
+(and you can still enter your score at the end like usual)! I'm pretty
+sure this wasn't the case for the free play setting on version 1.7; can
+anyone confirm?
+
+///6.8  PR version///
+
+To check what version of PR your arcade has, push up on the left joystick
+and pull down on the right simultaneously, during the title screen. The
+"production version" is 1.7. If you have a beta version, bug your arcade
+owner to get it updated! The "Hot New Version 2" that Atari has made a
+spiffy Blizzard sign for is 2.3, and has "Version 2.3" on the title screen
+in big letters made of bones. It has many features that will turn various
+players on or off, depending...
+
+Not-so-brief list of version 2.3 changes:
+
+-demo mode intro text has letters made of bones instead of black letters
+-one new fatality for each character added
+-eating humans adds much more energy to your health meter
+-100% health bug from ver 1.7 fixed
+-gameplay speed changed
+     Diablo, Sauron, most leaping attacks, most projectiles sped up
+     Armadon, Blizzard, Talon slowed down
+-Simultaneous attack collisions tuned: "sweet spots" removed,
+quick->fierce->power->quick "round robin" priority system added
+-little SF2-style "Christmas Lights" added; they flash with every strike,
+blocked or not
+-gone are the faint "blue shields" that used to appear when blocking
+attacks
+-generally, damage to heart & brain meters decreased, but block-damage to
+heart increased 
+-block-damage usually won't kill you
+-if you're on the ground, projectiles don't knock you down anymore
+-combo names, Total Domination, Quick Kill features added
+-Sudden Death lasts for 30 seconds instead of 20
+-hop jumps can now be used vs the CPU
+-CPU's "AI" patterns changed; many old tricks no longer work, but some new
+tricks do
+-"fatality"/"no fatality" music added; other music enriched w/more
+percussion
+-a previous high score drops to 2nd when beaten
+-In free play mode, the words "DEMO ONLY" appear & CPU can't hurt you 
+-all Leaping Attacks can be blocked 
+-all Stomps can be blocked and/or done in the air
+-Armadon's Spinning Death and Mega Charge don't go under projectiles
+anymore
+-Armadon can volley his victim after the Mega Charge
+-Blizzard's Freeze Breath inflicts damage; Freeze Breath & Ice Geyser
+don't last as long
+-Chaos' Battering Ram makes an annoying new sound
+-Chaos' Cannonball finishing move can kill enemies on any stage 
+-Diablo's Torch combos more easily
+-Diablo's Inferno Flash can be blocked
+-Talon's low 4 is cheezey to use twice in a combo
+-Talon can attack (or be attacked) as he rebounds from the Brain Basher
+-Talon's Pounce & Flip does no block-damage
+-Talon's Shredder fatality made gorier
+-Vertigo has a new teleport, and can do both old & new teleports in the
+air
+
+///6.9 NEW UPGRADE is not coming. :-(///
+
+Another update for Primal Rage was scheduled for Jan '95. It was supposed
+to add a boss character; the December '94 issue of GamePro magazine had a
+tantalizing silhouette of who the new Rage boss might have been. He looked
+like a horned dracolich [animate dragon skeleton], with three claws on
+each limb and three spines on the end of his tail. GamePro's sources
+mentioned rumors that the boss would have been capable of flight and
+possessed an energy-siphoning power. But, alas...
+
+John Bailon, Southern Hills Golfland (H20ORSNO@aol.com) writes:
+>FYI, Atari/TWI decided to scrap the second update PR that was slated for
+release early this year.  It seems that too many operators complained that
+the 2.3 update actually made their collections worse and went back to the
+original version 1. 
+
+riesenberger@agames.com adds: 
+>Sorry, bub, no new upgrades.  
+>The Final Battle is also the reason that there will not be another
+graphic upgrade:  The "boss" that was supposed to appear during Final
+Battle was viewed as not-enough-bang-for-the-buck.  Here at Time Warner
+Interactive, we've been too busy working on the sequel...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++ 7.  PR is out for home systems! **NEW INFO**+++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///7.1 PR is coming to eleven home systems! Quick List.///
+
+dlenna@micro.ti.com (Dmitri Lenna) passes on some very interesting
+information from Intelligent Gamer Online:
+
+>[Ed. We contacted Tracy Egan at Time Warner Interactive regarding Primal
+Rage and T-MEK, and here's what we learned for you: coding of some Primal
+Rage translations began when the arcade games were still in their first
+(1.x) revisions, but the programmers went back and retroactively added
+features to the 1.7 code to improve it. As a result, several of the
+versions (namely the Genesis and handheld games) will be "hybrids,"
+drawing features from 1.7 and 2.3 where appropriate. The SNES and
+next-generation versions, on the other hand, will all use Primal Rage
+version 2.3 code, as we were told that those systems would better be able
+to handle it.
+
+                               Primal Rage Update
+
+In response to reader inquiries on the subject of Primal Rage (see the IG
+Online E-mailbag for issue seven) home translations, here's the latest
+information straight from Time Warner Interactive (updated by yours
+truly):
+
+   Arcade: 32MB, 7 Gods, people, 70+ moves, 9 special moves (3 fatalities)
+per God, combo names, Easter Eggs
+
+///Current Releases (available from your local store)///
+
+   Game Boy: 0.25 MB, 6 Gods (Vertigo is gone), no people, 16 moves, 4
+special moves (1 fatality) per God, no combo names, no Easter Eggs, no new
+stuff
+   Game Gear: 0.5 MB, 6 Gods (Vertigo is gone), no people, 16 moves, 4
+special moves (1 fatality) per God, no combo names, no Easter Eggs, no new
+stuff
+   SNES: 3 MB, 7 Gods, people, 70+ moves, 9 special moves (3 fatalities)
+per God, no combo names, Easter Eggs, no new stuff
+   Genesis: 3 MB, 7 Gods, people, 70+ moves, 8-9 special moves (2
+fatalities) per God, no combo names, Easter Eggs, no new stuff
+   IBM PC CD-ROM: 250 MB, 7 Gods, people, 70+ moves, 9 special moves (3
+fatalities) per God, combo names, Easter Eggs, new play modes
+   Jaguar CD: 250 MB, 7 Gods, people, 70+ moves, 9 special moves (3
+fatalities) per God, no combo names, Easter Eggs, new play modes
+   3DO: 250 MB, 7 Gods, people, 70+ moves, 9 special moves (3 fatalities)
+per God, no combo names, Easter Eggs, new animated sequences, new play
+modes
+   PSX: 250 MB, 7 Gods, people, 70+ moves, 9 special moves (3 fatalities)
+per God, combo names, Easter Eggs, new animated sequences, new play modes
+   32X: 4 MB, 7 Gods, people, 70+ moves, 8-9 special moves (2 fatalities)
+per God, no combo names, Easter Eggs, no new stuff
+   Saturn: 250 MB, 7 Gods, people, 70+ moves, 9 special moves (3
+fatalities) per God, new animated sequences, Easter Eggs
+
+There used to be plans for Mac CD PR, but they've been scrapped. :-(
+
+Easter Eggs: Look for arcade favorites plus new cheat modes.
+
+  On a side note if I may.. the Megs refers to MegaBytes; video game
+companies for some reason or another use MegaBits. Video game magazines
+have will the SNES and Genesis versions listed at 24 megs, and the 32X  at
+32 megs. GB will be 1 Meg and GGear will be 2. As for the CDROMs, I  don't
+imagine those are exact, but as an old high school physics teacher used to
+say "Close enough for Government work" :).
+
+///7.2 Brief descriptions of PR for various systems///
+
+I've had hands-on experience with only the arcade, SNES, Genesis, IBM PC,
+and PSX versions of PR. All the information I have on the other versions
+is gathered from magazines, newsgroups, e-mail from helpful PR fans, etc.
+
+7.2.1 Game Boy/Game Gear PR
+
+A great deal has been lost in the translation, including long jumps/hop
+jumps, many moves & fatalities, combo names, and poor Vertigo. The
+remaining special moves are done differently than in the arcade. Consult
+the PR for Game Boy/Game Gear movelist to find out how. We've finally
+found Diablo's fatality, and do let me know if any of the other moves are
+incorrect! Most of the moves are from published PR guidebooks, but the
+guides aren't always right (they got Diablo's fatality and a few others
+wrong). As far as we know, all special moves & fatalities are done exactly
+the same for either GB or GG PR.
+    There are a couple differences between GB and GG PR. Chaos' Golden
+Shower fatality is as normal in GG PR, but GB PR changed/censored it to
+some kind of "acid spit" effect (more evidence of Nintendo's
+squeamishness). And of course, GG PR is in color while GB PR is in black
+and white.
+
+7.2.2 SNES PR 
+
+Overall, PR for the Super Nintendo is a decent translation of arcade PR
+2.3. All basic moves, special moves, & fatalities are there, but Chaos'
+Golden Shower fatality is censored. When you do the Golden Shower, Chaos
+just stands there and a censor sign (the No Cheeze meter without the
+cheeze) appears. When you do Chaos' Churl...
+
+peter.bott@swcbbs.com (PETER BOTT) writes:
+>i've seen chaos suck the churl in, and i've seen it go by him or not even
+reach him too.  it all depends on where chaos is on the screen when he
+does the fatality.  
+
+     Unfortunately, some moves (especially fatalities) are hard to do on
+standard SNES control pads. A Capcom joystick works OK; C&L arcade-quality
+joystick is reportedly the best kind. SNES PR's other disadvantages
+include the lack of combo names, increased knockback (so that a few arcade
+combos don't work), and you can only reconfigure the buttons to one of
+twelve pre-set options, instead of being able to assign any basic attack
+to any button. 
+    There is a sound test mode you can access anytime, and a cheat menu
+you can access with a code. BTW the instruction manual incorrectly says
+you must be at least difficulty level 7 to reach the Bonus Round/Final
+Battle. You actually have to play at difficulty level 10 (the factory
+default) or higher to reach the Bonus Round/Final Battle.
+
+7.2.3 Genesis PR 
+
+This cart is quite inferior to the SNES version, and the PC version tops
+'em both. Genesis PR's graphics and sound are of course poorer. The
+characters lack all the new moves and fatalities that were added to arcade
+version 2.3. There are no combo names. Worst of all, many more arcade
+combos are missing for no good reason. Sauron cannot chain two 1s
+together, Talon cannot chain a low 1 into a low 4, etc. It isn't a
+question of knockback; the combos simply don't work. There is a "Training
+Mode" play option, where you can fight one match against the CPU opponent
+of your choice; big whoop. There is also a cheat menu you can access with
+a code.
+    Genesis PR does have one advantage over SNES PR. Unlike SNES PR,
+Genesis PR lets you reconfigure your controller as you please, and assign
+any basic attack to any controller button. 
+
+7.2.4 PR for the IBM PC CD-ROM 
+
+IMHO, this is possibly the best translation out there. It easily surpasses
+the SNES/Genesis/GB/GG versions. The graphics are excellent. The music &
+sound effects have been completely redone, and are OK - though on my sound
+card, some of the background music can hardly be recognized as the tunes
+from the arcade. Best of all, there are combo names! At this time, the
+only home-system translations known to have combo names are PR for the IBM
+PC and Sony Playstation.
+    In IBM PC PR, special moves are done differently on the
+keyboard/2-button joystick than in the arcade. If you use a four-button
+joystick, all special moves are the same as in the arcade. I recommend
+getting a Gravis four-button PC joystick, which is amazingly cheap ($25 or
+less). With the Gravis joystick in hand, the gameplay control is quite
+satisfactory; I can do my 14+ hit combos just fine. You can reconfigure
+your keyboard/joystick controls as you please. 
+   There is some load time off the CD before the start a match (or in the
+Final Battle/elimination play modes, when a new dino jumps in). It isn't
+very long (20 seconds max?), unless you used the "small install" option to
+squeeze PR onto your PC. There's a shorter pause when the game loads
+fatalities. During the actual gameplay, load time is almost nonexistent.
+There's a brief pause when you first eat a human, but not much else.
+   PR for the IBM PC offers two new play modes: tug-of-war, where both
+critters share one big life bar (like the Death Match mode of World Heroes
+:), and elimination, where each player picks several dinos. There is no
+new animation for the intro/ending sequences, though. 
+   There are few glitches. One of the more noticeable is that Vertigo's
+low 3+4 has almost zero range, even though her tail covers half the
+screen(???). Another, more serious glitch is that IBM PR does not run on
+everyone's computer. I never had any trouble with my version 1.0, but
+other people had their version 1.2 of the game locking up. Fortunately,
+there is a patch to fix this problem at
+
+http://www.megamed.com/megapak/megapak5/megapak5hints.html
+
+You can download the file prr16pat.zip (506K) or the uncompressed version
+prr16pat.exe (~1.2MB). Thanks to reike@munch.uni-paderborn.de (Burkhard
+Reike) for telling us about it.
+
+	For more info on PR for the PC (including all keyboard moves),
+consult the PR for IBM PC FAQ.
+
+7.2.5 32X PR
+
+Like Genesis PR, 32X PR is a translation of the earlier arcade version
+1.7. That means all the new moves & fatalities added in version 2.3 aren't
+there. No combo names, either. :-( There is a cheat menu, and we finally
+have the right code to access it.
+
+7.2.6 3DO PR
+
+PR for the 3DO has brand-new animated intro sequences, plus the option of
+tug-of-war and endurance play modes. There are no combo names. The
+character animation is reportedly quite well-done, although the sprites
+are a little smaller than the PSX version. There seems to be at least one
+bug:
+
+anstey@sun.soe.clarkson.edu (Charles Anstey) writes:
+>I was playing as Vertigo against the computer and performed a fatality
+against Chaos.  When I got to the final battle, I had to fight Chaos
+first.  This is where the bug is.
+   The first time, I got hit at the start with his FoFury cloud and I 
+disappeared from the screen, not teleporting, and never came back. Chaos
+just kept jumping and attacking where I used to be but he never hit me and
+I couldn't do anything.  RESET. The second time, I was able to avoid the
+starting fart cloud, but 10 seconds later I did the Voodoo Spell and then
+I just disappeared. Chaos again continued attacking where I used to be,
+but I was gone permanently. RESET.  
+   It seems that if you are playing Vertigo (I haven't tried any others
+yet), and do a fatality on Chaos, and have to fight him first in the final
+battle, Vertigo will disappear and never reappear for no apparent  reason.
+
+
+7.2.7 Jaguar CD PR
+
+Jaguar CD PR reportedly has somewhat smoother animation than PSX PR, the
+trade-off being that Jaguar PR has smaller sprites. Elimination (both
+players pick several dinos) and tug-of-war (both players share one big
+lifebar) play modes are included. There is no new intro/ending animation.
+No combo names, either. The combo system is reportedly altered (read:
+"screwed up"); some arcade combos don't work on the Jaguar, and
+vice-versa.
+   When playing this game, don't confuse the numbers on the Jaguar joypad
+with the numbers we use to describe the moves. In this FAQ, numbers refer
+to the different attack buttons. Like all CD translations, Jaguar CD PR
+has a certain amount of load time.
+
+7.2.8 PSX PR
+
+PR for the Sony Playstation has brand-new animated intro (but no animated
+ending sequences), plus the option of tug-of-war play mode (where both
+dinos share one big lifebar). This just in - PSX PR does indeed have combo
+names!!! At this time, the only home-system translations known to have
+combo names are PR for the IBM PC and Sony Playstation. The PSX character
+sprites are very large, about 90% of arcade size, though some animation
+frames are reportedly missing. 
+
+I now own PSX PR, and I can report that the CPU AI is tougher, too. It was
+disappointing not to see any rendered endings (PSX Tekken 2 spoiled me, I
+guess), and the intro really didn't have enough dinos in it for my tastes
+(just Sauron & Talon, and you don't see very much of 'em.) Here's a brief
+description of the new animated intro:
+
+Gameboy@ix.netcom.com (William Longworth) writes:
+>There is a sequence showing a comet striking an asteroid, which sends a
+hail of meteors down on the Earth. The meteors smash into buildings and
+generally wreck the joint. There is then a sequence showing Sauron and
+Talon squaring off in the rubble of a burning city (near a strangely
+well-preserved auto). There is no fighting, just edging around each other.
+The whole thing concludes with a blurry still and a cut to the arcade
+title screen.  
+   Most of the effects are badly done in the intro, and the characters
+look like the victims of bad morph targets or really clumsy skeletal
+deformation. They look better standing still than moving.  
+
+7.2.9 Saturn PR
+
+It hit the store shelves a while ago. According to the 1996 EGM2 "fighting
+games special" (with Reptile on the cover), Saturn PR has the same new
+cinematic into sequence as PSX PR, and *new cinematic endings*! There's
+even a picture or two or Armadon in the hollows, and Chaos beating his
+chest. It would appear that Saturn PR is the only version with cinematic
+endings. The Easter Eggs (bowling, volleyball, skydiving cows) are
+supposed to be in there, and the chars should have all their version 2.3
+moves. No word on the no play modes, but they're almost certainly included
+too.
+
+/// 7.3 SNES, Genesis, 32X Cheat Codes & menus///
+
+The SNES cheat code is courtesy of GamePro's "Primal Rage Official
+Player's Guide" for SNES, Genesis, GB & GG, written by John Fisher with
+Allan McGraw! I've tested this code on my SNES, and it works. To access
+the cheat menu on SNES PR, press the following sequence on the control pad
+at the Start/Options screen (L = Left, R = Right):
+
+L, L, L, R, R, L, L, R, R, R, L, R
+
+A "Cheats" option will appear. Selecting it brings up the following menu:
+
+///The SNES Cheat Menu///
+
+   Plr 1   1 Hit Wins - one hit kills player 2 (all player 1's attacks
+inflict 100% damage, even special moves that don't normally hurt his
+opponent)
+   Plr 2   1 Hit Wins 
+   Plr 1   Invulnerability - player 1 doesn't suffer health damage when
+attacked (unless the 1 Hit Wins cheat is activated for player 2)
+   Plr 2   Invulnerability
+   Freeplay - you get unlimited continues
+   Silent Turbo Mode - you can play the game at turbo speed, but without
+sound
+______
+
+The Primal Rage Official Player's Guide incorrectly implies that the SNES
+cheat code works on PR for the Sega Genesis. The true Genesis cheat code
+has been published in the January 1996 issue of GamePro magazine. I've
+tested this code on my Genesis, and it works. To access the "Extra
+Options" cheat menu on Genesis PR, press the following sequence on the
+control pad at the Start/Options screen (L = Left, R = Right, U = Up):
+
+L, U, R, R, U, L, R, R, L, L, U
+
+The March '96 issue of GamePro incorrectly implies that you can gain
+access to the "Extra Options" cheat menu on 32X PR simply by putting the
+curser on "Start" at the Start/Options screen. We finally have the *real*
+32X PR cheat code, thanks to Steven Yau (sky21@ix.netcom.com). At the
+"start" option, do
+
+       L, R, U, D, D, U, R, L
+
+The Genesis & 32X cheat menus are almost exactly the same. The only
+difference is the 32X cheat menu doesn't have the "Okay, Right?" option,
+which doesn't seem to do anything in Genesis PR anyway. 
+
+///The Genesis/32X Cheat Menu///
+
+   Freeplay - you get unlimited continues
+   No Damage to PL1 - player 1 doesn't suffer health damage when attacked
+   No Damage to PL2
+   No Dizzy Damage to PL1 - player 1 doesn't suffer dizzy damage when
+attacked
+   No Dizzy Damage to PL2
+   One Hit Kills PL1 - one hit kills player 1
+   One Hit Kills PL2
+   One Hit Dizzies PL1 - one hit makes player 1 dizzy
+   One Hit Dizzies PL2
+   Disable Countdown - the end-of-battle countdown is eliminated
+   Disable PAUSED Message - the pause message is erased when you pause the
+game
+   Soak Test - in demo mode, the CPU repeatedly fights whole matches
+against itself
+   Start at Feast Round - the game starts at the Bonus/Feast Round, just
+before the Final Battle
+   Play Bowling Game - take a wild guess. ^_^
+   Okay Right? - I don't think this does anything(?) It isn't in the 32X
+cheat menu.
+   Disable Extra Options - takes away the Extra Options menu until you
+re-enter the cheat code
+   DONE! - Takes you back to Start/Options screen
+
+///7.4 PR pulled from the store shelves?!?///
+
+The June '96 issue of GamePro confirms what has been disbelievingly
+shunted about the net: one outraged mother managed to get Primal Rage
+pulled from store shelves across the country. 
+   Ellie Rovella of Gilbert, Arizona became incensed when her 11-year-old
+son bought and played Genesis PR, using GamePro's strategy guide to
+execute Chaos' Golden Shower fatality (in which Chaos kills his opponent
+with his acidic urine). Rovella was so outraged she not only returned the 
+game, but also launched a grass-roots campaign with the following results:
+Target has removed Primal Rage from 22 stores, and Best Buy has pulled it
+from 251 stores all over the country. Rovella has established an
+800-number to spread the word and protested to several US senators.
+
+GamePro ProNews writes:
+   "Time Warner Interactive, maker of the game, points out some key facts
+in its response to the boycott. First, it maintains that Rovella never
+contacted TWI directly and instead immediately took her fight to the
+media. When contacted by unhappy consumers, TWI tries to satisfy them and
+often reimburses them, but Rovella never gave TWI a chance to plead its
+case. Second, the game has been played by millions of gamers at home and
+in arcades since 1994, and this is the first major complaint TWI has
+heard; if Primal Rage is so offensive, why hasn't anyone protested before?
+Third, the game was rated by the Entertainment Software Ratings Board
+(ESRB) as being appropriate for teens [age 13 and up], a fact prominently
+displayed on the packaging (along with
+a graphic description of the game's violent action). By the ESRB's
+standard, her son was to young to be playing the game."
+
+   Let me also remind y'all that SNES PR specifically censored Chaos'
+Golden Shower fatality, though as far as I know Rovella got _all_ types of
+PR pulled from the store shelves. :-( I think Derek Dinges' letter to the
+editor of the Mesa, Arizona _Tribune_ puts it best: "If I want to purchase
+such a game, it should be up to me. I am an adult, and I should not be
+inconvenienced just because one woman feels the subject matter of the game
+is inappropriate... If Ms. Rovella wants to discourage her son from buying
+certain games... then she needs to take that up with her son. Otherwise
+leave me and my constitutional rights alone."
+   I encourage y'all to rally your pens to Primal Rage's defense. Write
+your senator or your retailer, and let them know what you think.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++ 8.  Beyond the Game (Merchandising! :)++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///8.1 PR characters in Dragon magazine!///
+
+Dragon magazine issue #223 has an article about putting Primal Rage
+characters in a fantasy role-playing game scenario! It has detailed
+Advanced Dungeons & Dragons statistics for Blizzard, Talon, & Vertigo. The
+folks at TSR seem to think that Armadon is the God of Good, Blizzard the
+God of Survival, and Talon the God of Death. I disagree, for reasons
+briefly explained in my transcript of the article - feel free to e-mail me
+(vctr113062@aol.com) for a copy!
+
+///8.2 PR action figures///
+
+From the Feb/March '96 issue of "Tomart's Action Figure Digest":
+    "Primal Rage, the hit arcade and home video game from Time Warner
+Interactive, enters a third dimension with the unveiling of the action
+figure line from Playmates at Toy Fair '96. Many of the creatures'
+fighting features have been captured in the figures' actions so that kids
+can act out the battle for survival with their favorite living, breathing,
+prehistoric characters. With more than a million units of the game in
+circulation, there will be plenty of recognition for the brand... and it
+looks like another good year for dinosaurs even if kids know nothing about
+the game."
+
+Well, the generous folks at TWI sent me free samples of the Sauron, Talon,
+& Vertigo action figures (thanks so much!!!). They were so cool I had to
+complete my collection w/Armadon, Blizzard, Chaos & Diablo when they hit
+the shelves. I found 'em for sale at Kay-Bee Toy & Hobby, and a little
+cheaper at Toys R Us (about $7 each). The figures were selling out
+amazingly fast, especially the reptiles; I had to drive all the way across
+town to find Diablo.
+    I have the Primal Rage Basic Assortment set of seven figures. Each is
+about six inches tall, and intended for ages 4 and up (some accessories
+are small and can be a choking hazard for very young children). They are
+vividly painted, mostly in their default colors. All of them have jointed
+shoulders & hips, and some extra moveable joints. They're composed of
+reasonably durable plastic (Chaos/Vertigo are partly rubber). Each critter
+is individually numbered, comes with accessories (claw-shaped dino
+overshoes or the like, a worshiper, two Rage cards, a rendition of their
+background on cardboard), and has a special "Primal Power." The storyline
+for these critters has been tweaked just a tiiiiiny bit; for example, the
+rapacious Sauron is now a Virtuous Beast (just be sure to keep those
+steakburgers comin'!)
+   See section 1.2, "Meet the Critters" for action figure stats and
+storylines. Here's a quick take on the toys themselves (I tested all their
+special features, too! :).
+
+    -Armadon is light tan with a sparse few deep brown stripes; his eyes
+are green with round pupils. He has moveable joints at the shoulders,
+hips, tail base, and neck. For accessories, he has a Spiked Tail Mace,
+Armored Horn, and worshiper. Special features: pull back Armie's left arm
+to make his Bed-o'-Nails spikes extend from his back; push forward his
+tail to launch his spring-loaded tail spikes. Do watch out; the spikes
+really will fly across the room! Armie is a Virtuous Beast (good guy).
+
+    -Blizzard is white-furred with blue skin and a soft tuft of white
+hair; his eyes are yellow with round pupils. He has moveable joints at the
+shoulders, elbows, hips, tail base, and neck. For accessories, he has Ice
+Pulverizers and a worshiper. Special features: rotate the wheel on his
+back or pull and release his arms to make him swing his Pulverizing Mega
+Punch. Blizzard is the leader of the Virtuous Beasts (good guys).
+
+    -Chaos is pink-furred with grey skin and a soft tuft of pink hair; his
+eyes are yellow with round pupils. He has moveable joints at the
+shoulders, elbows, waist, and hips. For accessories, he has a Shaman
+Staff, Skull Pounder, and worshiper. Special features: hold Chaos' head
+underwater and squeeze his body to fill him up; then aim his face and
+squeeze again for his Churl attack. He can spit water only a few feet.
+Since he's designed to squirt water, his head and midsection are soft
+rubber instead of hard plastic. (No, the figure does not have a Golden
+Shower feature - get yer mind outta the gutter! :) Chaos is a Destructive
+Dino (bad guy).
+
+   -Diablo is deep red with black stripes; his eyes are brown with slitted
+pupils. He has moveable joints at the jaw, shoulders, hips, and tail base.
+You have to "plug in" his tail, a task that requires strong hands. ^_^ For
+accessories, he has Pulverizer Claws, Blistering Lava Rocks, and a
+worshiper. Special features: pull his right arm to make his jaws open and
+shut. Load the Lava Rock (fireball) into Diablo's mouth, then pull his
+right arm to make him launch his Fireball Attack. Diablo is leader of the
+Destructive Dinos (bad guys).
+    Diablo is the only PR action figure whose special feature wouldn't
+work for me. The lava rocks wouldn't fit in the launcher within his mouth,
+and the launch mechanism itself didn't seem to be working. I don't know
+whether it's a defect in my particular figure, an oversight in the figure
+design, or merely my innate clumsiness. Diablo's mouth will still go
+chomp-chomp-chomp when I pull his arm.
+
+   -Sauron looks the most like his arcade counterpart. He's deep yellow
+with royal purple stripes; his eyes are yellow with slitted pupils. He has
+moveable joints at the jaw, shoulders, hips, and tail base. You have to
+"plug in" his tail, a task that requires strong hands. ^_^ For
+accessories, he has Clip-on Carnage Chewing Jaws, Earthquake Stomping
+Claws, and a worshiper. Special features: pull on his right arm to make
+his jaws open and shut, in the Bone Bash attack. Sauron is a Virtuous
+Beast (good guy).
+
+   -Talon is deep orange with white crest, underbelly, and feet. He has a
+pattern of hollow black diamonds outlined with white striping his back,
+tail, and legs; the second half of his tail is all black. His eyes are red
+with slitted pupils. He has moveable joints at the shoulders, hips, and
+tail base. You have to "plug in" his tail, a task that requires strong
+hands. ^_^ For accessories, he has Ripper Wrist Claws, Frantic Fury Foot
+Claws, and a worshiper. Special features: pull up on his arms until they
+lock, then push his one of his legs back to make him whip down his arms in
+the Slasher Attack. Talon is a Virtuous Beast (good guy).
+
+   -Vertigo is deep blue with green tinges and aqua stripes/splotches. Her
+eyes are purple with slitted pupils. She has moveable joints at the jaw,
+shoulders, hips, and tail base. You have to "plug in" her tail, a task
+that requires strong hands. ^_^ For accessories, she has the Voodoo Spell
+Staff, Scorpion Sting Tail, and a worshiper. Special features: put her
+head underwater and squeeze her body to fill her up. Then point her head
+and squeeze her again for her Venom Spit. Vertie can squirt water farther
+than Chaos can (up to a yard or more)! Since she's designed to squirt
+water, her head and midsection are soft rubber instead of hard plastic.
+Vertie is a Destructive Dino (bad gal).
+
+A special set of larger PR action figures just hit the shelves! The
+critters are selling for around $22 each, and their chief special feature
+appears to be chewing up loyal followers. Here's the description from the
+Feb '96 issue of "Lee's Action Figure News & Toy Review":
+   "The Super Rage assortment will contain both good and bad dino-beasts,
+and will be done in a larger 9" format. Figures will include: Primal Rage
+Sauron, Diablo, Blizzard, and Talon.
+   "Each Super Rage figure will be individually numbered and come on a
+blister card, with Exclusive Primal Rage Collector Game Card Starter
+Packs, accessories and Mini-Loyal Follower Action Figure (for Mmmm... good
+dino dinin')."
+
+For more on Playmates' PR toys, check out their World Wide Web site at 
+
+   http://www.playmatestoys.com/pages/primal/primal.htm
+
+///8.3 PR cards & cardgame rules///
+
+There were a few PR cards in an issue of Game Players magazine from at
+least a year ago; good luck finding it. They had a picture of each
+character's head on the front and a few moves on the back (some of them
+incorrect). The pictures are the most fascinating thing about them;
+they're not typical game-screen or action-figure shots. Though the
+critters are colored like the action figures, they're more detailed; for
+example, you can see each individual feather in Talon's crest.
+
+Now, about the PR card game. The PR action figures each come with two Rage
+cards, one of the figure's char, one of a randomly selected other char.
+The cards each have a picture of the critter with some text describing
+him/her on the front. Each PR critter has two cards devoted to him/her,
+with slightly different pictures and identical text. Players can collect
+these cards and use them to play the Rage! game, by the following rules:
+
+   1) The game can be played by two or more players.
+   2) Shuffle and deal all of the cards face down in front of each player.
+Begin with the player to the left of the dealer.
+   3) Each player takes the top card on their pile, turns it face up and
+adds it to a pile in the middle of the players.
+   4) If a matched pair of characters appears, the first player to shout
+"RAGE!" takes the pile of cards in the middle and places these cards at
+the bottom of the pile in front of them.
+   5) If two players shout "RAGE!" at the same time, the players must face
+off in head to head battle where they play each other. The first player to
+shout "RAGE!" dominates and takes both piles of cards.
+   6) A player who shouts "RAGE!" when there is no match, places all their
+cards face up in the pile in the middle of the players.
+   7) The game is over when the other players are out of cards, and the
+last player who has collected all the cards dominates the new "Urth."
+
+If anyone out there wants to trade Primal Rage/Mortal Kombat/Street
+Fighter/Killer Instinct cards, please do e-mail me at vctr113062@aol.com!
+^_^
+
+///8.4 PR soundtrack is out!!!///
+
+You won't find it on store shelves, but you can mail-order a CD soundtrack
+of remixed PR music from Rage On Records! "All the Rage" is one of my
+favorite music CDS (along with my Killer Instinct, Mortal Kombat, and
+Tekken 2 soundtracks ^_^).
+   The soundtrack is produced by Jeanne Parson (creator of all music and
+sound effects for arcade PR!) and Lisa Jaime. Since many PR background
+music themes are fairly short, they've been extended/mixed with additional
+melody, percussion, instruments, and occasionally voiceovers or lyrics.
+For example, Talon's song has a violin melody above the drumbeat rhythm of
+his usual background music. In addition to the background tunes of the
+seven chars, there are three brand-new songs, for a total of ten hits.
+
+   The PR soundtrack costs $15 (California residents please add 8 1/4%
+sales tax). Shipping may be extra if you live outside the USA. The check
+or money order should be made out to "Rage On Records" and sent to
+
+Rage On Records
+P.O. Box 56382
+Hayward, CA 94545
+
+Don't forget to include your shipping address! You can also telephone your
+order to Rage On Records at 1-800-648-6989, or e-mail them at
+RageOnRecs@aol.com. Finally, they have a web site at
+
+http://www.diablohill.com/rage_on
+
+///8.5 PR comic book...?///
+
+There are rumors of a forthcoming PR comic book. If it reaches the store
+shelves, I know I'm going to grab myself a copy!
+
+rganuza@luna.cas.usf.edu (Raptor) writes:
+>Oh, one more piece of news. There is a Rage comic coming out at the end
+of Septermber. Maybe you should let people know about it. It's by an
+independent company called something like sirius.  Hope they draw everone
+right.
+9. PR2 preview! Whee!!!!!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++9. PR2 preview! Whee!!!!!+++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The June 1996 issue of EGM2 features a quickie preview of PR2! Its
+storyline is that the great meteor was actually a cosmic egg, from which a
+terrible new force has now hatched. One thousand years after PR, the gods
+of Urth have split up the world into different regions; each region
+reflects the nature of its god. The gods communicate with their followers
+via human Shamans. Now the cosmic egg has hatched, unleashing a new force
+that banishes all the gods from the Urth. So the gods pass their power
+onto their Chosen humans, who can even morph into the gods' forms. A new
+god, the superb hunter, has entered the scene. PR2 will have six buttons
+instead of four.
+   There's a piece of artwork showing an unnamed male barbarian with
+serrated sword (he looks like Killer Instinct 2's Tusk with a square
+haircut); he's Sauron's Chosen. 
+
+   Latest word on the net is that PR2 will have ten new characters
+(yowza!), and that the release date was pushed back to December because of
+stop-motion delays. I'm looking forward to it, but I do hope at least ONE
+of the chars is a true reptile (not just the occasional shape-shifter). If
+I wanted to play humans, I could take my pick from some 50 other fighting
+games... :-(
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++ 10.  The Latest and Greatest++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+///10.1 How to get this FAQ///
+
+1) From the newsgroups
+
+This just might be the last time I post the FAQ to the newsgroups, unless
+someone specifically requests a one-time repost. There really isn't much
+left to update the FAQ with (well, maybe if I scrape together $250 for a
+Saturn + PR and see all the rendered endings, but I doubt that will happen
+anytime soon...)
+
+2)  By ftp
+
+Type the following commands to get the latest version of this FAQ :-)
+
+> ftp ftp.netcom.com
+> Login:- anonymous
+> Password:- [Your e-mail address, e.g. eqr5maliki@clstr.unl.ac.uk]
+> cd pub/vidgames/faqs
+> hash
+> get [filename]
+> quit
+
+if you can't get into netcom by ftp, use their e-mail server.. it used to
+be 
+quite fast : ftp-request@netcom.com
+
+3)  By WWW
+
+Check out the ProPage area in Game Zero Magazine's new World Wide Web
+site! They've got many other video game FAQs in addition to this one.
+
+http://www.gamezero.com/team-0/pro_page/faq/primal_rage.html
+
+4)  By e-mail
+
+If you want this guide by e-mail then send me (Victar, vctr113062@aol.com)
+your e-mail address and I'll e-mail you a copy. I'll attach it as a file
+in ASCII text unless you specify some other WordPerfect compatible format.
+
+
+Other PR documents you can find from these sources:
+
+The PR condensed movelist (squeezing all joystick moves onto four pages)
+The PR for Game Boy/Game Gear movelist (now with Diablo's fatality!)
+The PR for IBM PC FAQ (includes all moves for the keyboard)
+
+///10.2  Send me e-mail and nobody gets hurt! ^_^///
+
+If you find any additional information, corrections, confirmations, or
+want to read my fanfic, please e-mail me at vctr113062@aol.com. I'm
+sometimes sluggish with the replies, but I do read all my e-mail, I
+promise!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++ 11.  Credits++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRIMAL RAGE 2.3 FAQ COMPILED/EDITED BY EVAN GRIDLEY
+BASED ON PRIMAL RAGE 1.7 FAQ v1.3 BY ZARGON AND PERICOM
+UPDATED BY VICTAR
+
+Extra Special Thanks to UNDERMIND (imfacyc@prism.gatech.edu) for
+proofreading
+the v1.7 moves since he owns a few arcades of his own!  Go visit Mardi
+Gras Games!
+
+Special Thanks to the following people who contributed towards the making
+of
+this FAQ :-)
+
+Zargon a.k.a. Master Lao ................................PR 1.7 FAQ
+Editorship
+Pericom (eqr5maliki@clustr.unl.north-london.ac.uk)....PR 1.7 FAQ
+Editorship
+Baron Von Riesenberger (Production Coordinator Team Rage).....Initial
+Moves, Combos
+Tony Cannon  (wanderer@leland.stanford.edu)..........A Whole Slew of
+Stuffs
+Luis Vigo.......................................................Other
+Moves
+Chris Caniano  (v096mhqb@ubvms.cc.buffalo.edu)..................Other
+Moves
+Jason Hunt  (jason.hunt@nitelog.com)..................All Endings and
+Moves
+Todd "hawk"Bauman...............................................Other
+Moves
+Raymundo E Arras  (rarras@mason1.gmu.edu).......................Other
+Moves
+Rob Williams  (Ray's manager at Timeout)........................Other
+Moves
+James Belcher  (WILDGAMER@aol.com)..............................Other
+Moves
+Dave Nguyen  (st93prpw@dunx1.ocs.drexel.edu)....................Other
+Moves
+Boingo Lover  (boingo@netcom.com)...............................Other
+Moves
+John F  (johnf@triton.unm.edu)..................................Other
+Moves
+James Melki  (jmelki@mcc.mott.edu)..............................Other
+Moves
+Doug McClendon  (dmc@falcon.cc.ukans.edu)....................Text and
+Moves
+Salvatore D. Tepedino 
+(stepedin@ic.sunysb.edu).................Corrections
+Christopher Alan Moon 
+(moon@niko.unl.edu)......................Corrections
+Tung-Feng-Lai 
+(gregory@Garg.Campbell.CA.US)....................Corrections
+dug@lugaru.com..................................................Correction
+s
+IZZY4PA@MVS.OAC.UCLA.EDU........................................Correction
+s
+Evan John Gridley  (ejg1@cornell.edu)(hey, that's me!)......Info and
+Combos
+Victar (vctr113062@aol.com) [yeah, me & what Armie? :)]...PR 2.3 FAQ
+Editorship
+Sceadeau 
+(MSA7064@ritvax.isc.rit.edu)...............................Combos
+Jin Im 
+(m-yim@ux4.cso.uiuc.edu).....................................Combos
+Paul Hurlbut 
+(genius@pipeline.com)..................................Combos
+Kurt Van Thomme 
+(krv002@acad.drake.edu).............................Combos
+Douglas William Cole
+(dougc@cw-u02.umd.umich.edu)......................Info
+Chris McCullough 
+(25096@ef.gc.maricopa.edu)...........................Info
+John Bailon, Southern Hills Golfland (H20ORSNO@aol.com)...Info
+Eric Ching 
+(eric@parcplace.com)................................Suggestions
+Bernard Ryan......................................Miscellaneous
+Information
+Casey Barton  (cebarton@napier.uwaterloo.ca)..Making a WWW page of this
+FAQ
+Andy Eddy  (vidgames@netcom.com).................Keeping this FAQ
+somewhere
+Ben Hayek
+(bhayek@ux4.cso.uiuc.edu).......................................Combos &
+Corrections
+Donger (bc80115@bingsuns.cc.binghamton.edu).....................Combos 
+Shane Knighton (sknighto@acs5).........................Confirmations
+Jason Davis (jdavis@iglou.com)...........................Confirmations &
+Combos
+Carnage (scott@inbox.wash.inmet.com)...............PR home release dates
+Frank Kuan (kuan@agames.com).........................Simultaneous Attack
+Collisions
+Crunchy T. Frog (igwnxl0r@umiami.ir.miami.edu)...........Confirmations &
+Combos
+Todd Sinclair (todd.sinclair@castles.com)........................Combos &
+Strategies
+Dmitheon (lennad@nuge115.its.rpi.edu)...........................Combos &
+Info
+Antichrist
+lordelren@aol.com...........................................Confirmations,
+Info
+Patrick Joseph Coffman (urmom@mcl.ucsb.edu)..............Combos
+Jeff Fairman (sa39041@odin.mda.uth.tmc.edu).................Corrections
+Chris Tang (TANG@agames.com)....................................Info &
+Combos
+Matt (FARNEYMP@udavxb.oca.udayton.edu).................Combos
+JKnight (jknight@csra.net).....................................Corrections
+& Combos
+Adrian Bradley (atb@engin.umich.edu).............................Combos
+master young (d8young@sbcc.cc.ca.us)............................Combos
+44699@ef.gc.maricopa.edu...............................................Com
+bos
+Intelligent Gamer
+Online..........................................................Info
+Mr A J Collier (SIBAJC@upe.ac.za)....................................Info,
+Combos
+Sir Galahad (ermac@imap1.asu.edu).................Combos & Combo names
+Todd Sinclair (ace@community.net)..................Info
+cwh.......................................................lotsa Combos!!!
+chuckd7664@aol.com..........................................Combos
+Rajesh Nanda (s001rhn@alpha.wright.edu)...........Combos
+Michelle Ringer (s005mlr@desire.wright.edu).......Combos
+Peter Bott (peter.bott@swcbbs.com).....................SNES, PSX PR info
+"Tomart's Action Figure Digest" magazine.............action figure info
+Charles Anstey (anstey@sun.soe.clarkson.edu)......3DO PR info
+Scott Fitzpatrick (sfitz@oico.com)........................3DO PR info
+Adam Houkal (ahoukal@rs6000.cmp.ilstu.edu).....PSX PR info
+William Longworth (Gameboy@ix.netcom.com)...PSX, Jaguar PR info
+Il Oh (il@teleport.com).........................................Jaguar PR
+info
+Josh Andler (richie@primenet.com).......................32X PR info
+Andrew Stefanski (stefansk@evansville.edu)..........Jaguar PR info
+Brian Wayne Johnson (brian.wayne.johnson@mwcs.mb.ca)...GB/GG PR info
+Chun Tham (ctham@gpu.srv.ualberta.ca)................3DO PR info
+Raptor (rganuza@luna.cas.usf.edu)..................move correction, PR
+soundtrack info, etc.
+Cool Daddy D (derryl@agames.com)......sending me action figures!!! :-) :-)
+:-)
+Rage On Records (RageOnRecs@aol.com)...sellin' a rockin' PR soundtrack!
+Phil Stroffolino (phil@maya.com)..................info (Mac PR canceled)
+Pandora (pandora@getnet.com)....................corrections
+Steven K. Yau (sky21@ix.netcom.com).......getting the 32X cheat code
+Larry Whittaker (Larry.Whittaker@UCR.EDU).....passing the 32X code to me!
+Burkhard Reike (reike@munch.uni-paderborn.de)....IBM PR patch info
+John Fisher, Steve Reisenberger, & the guys at GamePro.....writin' a
+kickin' PR Guide!
+John Fisher with Allan McGraw................writin' a bitin' PR for home
+systems Guide!
+GamePro again.......................publishing all the new fatalities &
+cheat codes in their magazine! 
+
+and anyone else I've forgotten! (sorry! :)
+
+

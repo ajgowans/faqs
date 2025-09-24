@@ -1,0 +1,1550 @@
+*******************************************************************************
+Iron Soldier 2 for Atari Jaguar CD FAQ/Walkthrough
+
+by BHodges
+
+Version  1.2
+Created  10/27/10
+Updated  11/08/10
+
+This document Copyright 2010 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+IV.    Basic Gameplay
+        A.  Controls
+        B.  Arming Screen
+        C.  HUD
+        D.  Basic Gameplay
+        E.  Basic Strategies
+V.     Walkthrough
+         A.  Mission  1:  Plant Closure
+         B.  Mission  2:  Rat Trap
+         C.  Mission  3:  Supply Run
+         D.  Mission  4:  Field of Fire
+         E.  Mission  5:  Road Block
+         F.  Mission  6:  Bomb Squad
+         G.  Mission  7:  Duck Hunt
+         H.  Mission  8:  Grounded
+         I.  Mission  9:  Fill 'er Up
+         J.  Mission 10:  A Bridge Too Far
+         K.  Mission 11:  Acid Rain
+         L.  Mission 12:  Out go the Lights
+         M.  Mission 13:  Air Patrol
+         N.  Mission 14:  Rebel Yell
+         O.  Mission 15:  Corporate War
+         P.  Mission 16:  Sea Strike
+         Q.  Mission 17:  Safety Check
+         R.  Mission 18:  Archipelago
+         S.  Mission 19:  Drive Thru
+         T.  Mission 20:  Iron Ghost
+VI.    Weapons
+         A.  Standard Manipulator
+         B.  Parker Chain Cutter
+         C.  Cassy Assault Rifle
+         D.  Badger Hand Grenades
+         E.  Rachels Gatling Gun
+         F.  Sable Cruise Missile
+         G.  Sherry 00 Gauge Shotgun
+         H.  Slate Heavy Shield
+         I.  Charlotte Rail Cannon
+         J.  WolfPack Rocket Launcher
+         K.  Ferret Homing Missiles
+         L.  Carlisle 75MM Heavy Machinegun
+         M.  Corinne Automatic Grenade Launcher
+VII.   Enemies
+         A.  'Glaive' Helicopter
+         B.  'Greave' V.T.O.L.
+         C.  'Gantlet' Attack Plane
+         D.  'Wyvern' Jet Fighter
+         E.  'ROC' Transport Plane
+         F.  'Brassard' Light Tank
+         G.  'Basilisk' Fast Attack Vehicle
+         H.  'Tasset' Heavy Tank
+         I.  'Behemoth' Frigate
+         J.  'Javelin' Rocket Launcher
+         K.  'Heaume' Gun Turret
+         L.  'SATYR' War Strider
+         M.  Iron Soldier
+         N.  Cold Iron Gunner
+VIII.  Secrets and Cheats
+IX.    Game Review
+X.     Special Thanks
+XI.    Version History
+XII.   Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ/Walkthrough for the Jaguar CD game Iron Soldier 2.  It contains a
+list of controls, a complete walkthrough, and a mini-review.
+
+*******************************************************************************
+II.    Background Story
+
+Here is the background story from the instruction booklet:
+
+"The War Continues!
+
+After Iron Fist Corporation was destroyed, the Resistance set up a democratic
+government called the United Republic.
+
+However, now that Iron Fist is gone, the rival corporation, known as PENTA, is
+trying to take over IFC's old territory by raiding and terrorizing the United
+Republic.
+
+This time, you are part of the UR's elite defense force.  Your job is to pilot
+an Iron Soldier and use it to eliminate the terrorist forces and protect the UR
+from military harm."
+
+*******************************************************************************
+III.   Getting Started
+
+You can press B to skip the opening intro.  On the Title Screen are three
+choices:
+
+START GAME
+
+Begin a new game at the current difficulty level (default is Medium).
+
+LOAD GAME
+
+Load a previously saved game.  Press the corresponding save slot number on the
+numpad to load.
+
+OPTIONS
+
+Here you can change the difficulty level, invert the joypad for the IS and
+Cruise Missile, swap the A and B Buttons, and change the sound mode.  Please
+note that "Normal" for Aiming is Up moves up and Down moves down while Normal
+for Cruise Missile means Up moves down and Down moves up!
+
+*******************************************************************************
+IV.    Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joypad Up/Down            Look Up/Down
+Joypad Left/Right         Move Left/Right
+A Button + Up             Increase Speed
+A Button + Down           Decrease Speed/Reverse
+B Button                  Fire Current Weapon
+C Button + Joypad         Turn Faster
+A + C + Joypad            Turn Even Faster
+Option                    Switch Weapon
+Pause                     Pause Game
+Numpad 1                  Select Right Shoulder Mount
+Numpad 2                  Advanced Controls (Joypad turns turret, Joypad + C
+                          turns entire Iron Soldier)
+Numpad 3                  Select Left Shoulder Mount
+Numpad 4                  Select Right Hip Mount
+Numpad 6                  Select Left Hip Mount
+Numpad 7                  Select Right Hand
+Numpad 8                  Display Mission Stats
+Numpad 9                  Select Left Hand
+Numpad * + #              Reset
+
+-------------------------------------------------------------------------------
+B.  Arming Screen
+
+This can be a little confusing (or at least it was for me at first).  Your
+Iron Soldier has a total of six mounts that can hold weapons.  Each weapon has
+two restrictions: it can only be mounted on certain mounts and there is a
+maximum number of each weapon you are allowed to carry (see Weapons section for
+details).
+
+Use the Joypad to select a weapon and display its stats.  To mount it press B.
+If there is an available mount for that weapon it will flash.  You can use the
+Joypad to cycle through all available mounts.  When you are ready to place a
+weapon press B.
+
+To remove a weapon, you do NOT select it on the left!  Instead you press C then
+use the Joypad to choose the MOUNT you want to remove.  Press B to remove or
+C to cancel.
+
+-------------------------------------------------------------------------------
+C.  HUD
+
+On the left side of the screen is a bar representing the ammo remaining for the
+selected weapon.  Your radar and speed are displayed on the right.  In the
+center is your targeting reticule and the bottom your health meter.
+
+-------------------------------------------------------------------------------
+D.  Basic Gameplay
+
+The game is divided into 20 missions split into four groups.  Except for the
+last group, you can play a group's missions in any order.  Before each mission
+you will be given a briefing explaining (usually badly) what your goal is.
+
+Gameplay consists of you walking around shooting things.  You have a radar on
+your HUD that shows nearby enemies but no compass or level map.  EVERYTHING you
+see is destructible: enemies, buildings, even friendly units.  Be careful, some
+buildings, such as fuel tanks, will explode when destroyed and these explosions
+can damage your Iron Soldier.  
+
+If you fail a mission (i.e. allowed something you were supposed to protect to
+be destroyed) then you will be taken to the Mission Fail screen where you will
+be berated.  If your energy reaches zero, your Iron Soldier will be destroyed
+and you will be punished by having to watch the death cinematic (CANNOT be
+skipped!) then asked if you want to continue (you have unlimited continues).
+Either way you'll end up at the Mission Select Screen again.
+
+When you successfully complete a mission, you'll be shown a victory briefing,
+then be given a chance to save your game to the Memory Track.  Press the
+save slot number you want to use on your Numpad.
+
+-------------------------------------------------------------------------------
+E.  Basic Strategies
+
+-  Watch your radar carefully.  Aerial units will usually head right towards
+   you.
+
+-  Use your Chainsaw or Manipulator when knocking down buildings to conserve
+   ammo.
+
+-  If you are having trouble remembering the numpad mapping, it helps to think
+   of it as looking at an Iron Soldier:  2 is the head, 1 and 3 the shoulders,
+   4 and 6 the hips, and 7 and 9 the feet.  Or you can always use an Iron
+   Soldier 1 overlay...
+
+-  Repair Crates are most often found in fuel tanks while Ammo Crates are
+   usually found inside of warehouses.
+
+-  You can play the missions in groups 1-3 in any order.  If you are having
+   trouble with a particular mission (especially in the first two groups), then
+   skip it and come back later with better weapons.
+
+-  Try beating the first ten missions in this order for optimal equipment:
+   1, 3, 2, 4, 5, 6, 10, 7, 8, 9
+
+*******************************************************************************
+V.     Walkthrough
+
+Note:  This walkthrough was written while playing the EASY difficulty.
+
+-------------------------------------------------------------------------------
+A.  Mission 1:  Plant Closure
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Empty             | Left Shoulder:  Empty              |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Assault Rifle     | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Terrorists are using abandoned factories outside of town to build a new high
+speed walker.
+
+Destroy the main industrial installations in the desert.
+
+TIPS:
+
+The first mission is an easy warm-up to get your feet wet.  The hardest part of
+this mission is actually figuring out what you need to destroy.  
+
+Take a good look at the rotating map on the mission briefing screen.  You'll
+see a circular road leading from the city to three rectangular lots and back
+to the city.  Your goal is to level ALL structures in those three lots.  When
+you destroy a building housing an enemy walker it'll dash off, just ignore it.
+
+Turn left and follow the road left to the first lot.  Use your Grenades on the
+fuel tanks, then switch to your Manipulator to destroy the rest of the
+buildings.  Be sure to grab the striped crates, these will repair damage to
+your Iron Soldier.
+
+Now follow the road to the second lot and flatten it using the same strategy
+as before.  You'll find more Repair Crates here as well brown ones that will
+replenish your Rifle Ammo and Grenades.
+
+Keep moving to the third lot and raze the structures here.  You'll find a
+star crate, this contains the Rachels Gatling Gun which will now be available 
+for future missions.  A few seconds after clearing the final lot the mission
+will end and you'll be taken to the debriefing screen.
+
+-------------------------------------------------------------------------------
+B.  Mission 2:  Rat Trap
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Gatling Gun       | Left Shoulder:  Gatling Gun        |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Assault Rifle     | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Spies have found warehouses used by PENTA terrorists to hide illegal weapons.
+They are located on an small isle and defended by enemy troops.  Destroy all
+buildings on this isle and try to capture the weapons stored there.
+
+TIPS:
+
+Time for a "real" mission!  During this mission you will have to deal with
+Gantlets, V.T.O.L.s. and even an enemy Iron Soldier!  The V.T.O.L.s are
+the biggest threat, destroy them as soon as you see them.
+
+As soon as the mission starts, a Gantlet will make a bombing run, destroying
+the building in front of you.  Move forward towards the water then follow it
+left.  When you see the bridge, DON'T cross, keep following the water left.
+
+There are two Repair Crates inside the fuel tanks.  Immediately past them is
+an enemy I.S., quickly dispatch it with Grenades.  If you run out, use your
+Assault Rifle.
+
+Keep going till you cross the bridge to the small island.  Level EVERYTHING
+here.  Each group of fuel tanks holds two Repair Crates each.  The four
+blue warehouses contain the Supply Crates you're after.  Successful completion
+of this mission will earn you the use of Sable Cruise Missiles.
+
+-------------------------------------------------------------------------------
+C.  Mission 3:  Supply Run
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Gatling Gun       | Left Shoulder:  Gatling Gun        |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Assault Rifle     | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA troops are massing in a small city.  Raid their camp and destroy the
+warehouses on the island to capture their supplies.
+
+TIPS:
+
+There are five groups of warehouses, each group holds two supply crates so
+all we need to do is collect 10 crates and we're done.  Easy right?
+
+What makes this mission so challenging is the dearth of repair crates, the only
+two I've found are inside the factories to the right of the mission start.  The
+key to success here is to work fast and avoid taking damage as much as
+possible.  Glaives are the biggest threat, watch your radar carefully and take
+them out with the Gatling Gun.
+
+Once again we'll start out by heading left towards the gold warehouses.  Raze
+them using Grenades.  Inside will be two Supply Crates, Assault Rifle Ammo, and
+Grenades.  Continue towards the left.  As you approach the brown warehouses,
+use your Assault Rifle on the Glaive that is taking off, then use it to destroy
+the first warehouse, then use your Gatling Gun on the remaining buildings.
+There's no Supply Crates here, but you will find valuable ammo.
+
+Continue your trek towards the left.  A building will explode and an enemy
+I.S. will appear, quickly take it out with Grenades.  Once he's taken care of,
+look RIGHT, you'll see four blue warehouses containing two Supply Crates and
+Ammo.
+
+Now comes the toughest part.  Keep heading left and you'll encounter a group
+of blue warehouses, then a brown group, and one final blue group.  Each group 
+contains two Supply Crates.  By the time you reach that last group, you'll 
+probably be on life support, so use your remaining Grenades to level them fast
+and grab the crates to complete the mission.  Your reward will be the Sherry 00
+Gauge Shotgun.
+
+-------------------------------------------------------------------------------
+D.  Mission 4:  Field of Fire
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Cruise Missile    | Left Shoulder:  Cruise Missile     |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Shotgun           | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA has launched a surprise attack on the UR.  Protect the main skyscrapers
+against the enemy forces and destroy all SATYR Walkers.
+
+TIPS:
+
+The skyscrapers you have to defend are the two red buildings and the three
+blue towers with pyramid tops.  In order to complete the mission, you have to
+destroy all three SATYRs before those five buildings are destroyed.  The 
+Glaives, SATYRs, and V.T.O.L will attack the buildings while the Brassards and
+Basilisks concentrate on your Iron Soldier.  If you need them, the warehouses
+near the red buildings contain a couple of Repair Crates.
+
+Walk towards the red buildings, taking out any tanks and choppers you encounter
+with your Shotgun (one shot at close range will do).  Once you are past the
+second red building, look left and off a ways you'll see the lone blue tower.
+The first walker will approach from this direction.  Fire off a Cruise Missile
+and take him out.
+
+Do a 180 and head towards the twin blue towers.  To their left is a V.T.O.L.
+on the ground.  Head over and take it out with your Shotgun before it launches.
+
+Now head back towards the red buildings.  The second walker will approach from
+this direction, quickly dispatch it using your grenades.
+
+The final walker will approach from the direction of the twin towers.  Head
+over there and wait for him to appear.  As soon as you see him take him out
+with your remaining Cruise Missile.  Once he's down, you'll complete the
+mission and be rewarded with the Heavy Shield.
+
+-------------------------------------------------------------------------------
+E.  Mission 5:  Road Block
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Gatling Gun       | Left Shoulder:  Gatling Gun        |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Shotgun           | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Criminals are hijacking our transport trucks by blocking off their travel
+routes.  Clear the routes and protect the trucks from harm until they can
+make it out of the city.
+
+TIPS:
+
+You start the mission with two transport trucks, a third will join your convoy
+a short time later.  At least one of your trucks must make it to the end in
+order to successfully complete the mission.  Even though I carried a full 
+weapons load into this mission, I ended up only using the Gatling Gun.
+
+In this mission, with the exception of the V.T.O.L, only the GROUND units will
+attack your trucks.  It's vital to take out the roadblocks, the trucks will
+run right into them and blow themselves up.  You can destroy roadblocks with
+either your weapons or your feet.  Also, please note that you can destroy the
+trucks by accidently shooting or stepping on them so be careful!
+
+The trick to this mission is that instead of sticking close to the convoy, you
+should run ahead and take out any roadblocks and ground troops.  There are 
+really only two other things to look out for:  After passing between the twin 
+blue towers, you'll see a V.T.O.L. take off, destroy it quickly.  The other is
+the ROC transport plane, it'll drop off multiple Basilisks by parachute.  Take
+them out with your Gatling Gun while they are floating down.
+
+It really comes down to trial and error, once you learn the ambush sites it
+shouldn't be too difficult.  Your reward for a successful mission is the
+Charlotte Rail Cannon.
+
+-------------------------------------------------------------------------------
+F.  Mission 6:  Bomb Squad
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Shield            | Left Shoulder:  Rail Gun           |
+|------------------------------------+------------------------------------|
+| Right Hip:       Gatling Gun       | Left Hip:       Gatling Gun        |
+|------------------------------------+------------------------------------|
+| Right Hand:      Shotgun           | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Industrial terrorists have placed car bombs throughout the city.  Destroy these
+cars before too many of the bombs can go off.
+
+TIPS:
+
+Let me break down the numbers for you:  there are 12 bombs and if four blow up
+you fail the mission, so that means to win you must destroy at least nine.
+The "car" bombs are the red vans.  Some are en route to their targets, others
+have already arrived.  A message will appear whenever a bomb goes off.  Proper
+use of the Shield is key to surviving long enough to complete the mission.
+
+As soon as the mission starts head forward down the street.  Turn right at the
+turn.  Remember those brown warehouses on the left, we'll be coming back soon.
+You'll see a van, destroy it then continue forward to the one behind it.  When
+that one's destroyed, do a hard right.  You'll catch a glimpse of a van rolling
+down the street.  
+
+Once you blast it do a 180 and head back towards those brown warehouses.  As
+you approach use your Gatling Gun to destroy the warehouse on the far right to
+reveal a van.  Stomp it then turn around and hang a right down the street,
+another van will be heading towards you.  
+
+After you've taken him out, hang a left and head towards the factory.  Blast it
+as you're walking to reveal a much needed Repair Crate.  Then bear slightly to
+your right towards the twin factories, inside those are two more Repair Crates.
+By now a ROC will have dropped off a group of Basilisks so you'll be taking a
+lot of damage.
+
+Head past the field of fuel tanks.  There are two vans parked among the
+buildings.  After they're toast, turn left and you should see a van going down
+the street.  Take it out and continue down the street along the edge of the
+city.  Off in the distance you'll see another van, take it out with your Rail
+Gun.  Continue forward and take out the final van.  The WolfPack Rocket
+Launcher will now be available for use.
+
+-------------------------------------------------------------------------------
+G.  Mission 7:  Duck Hunt
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Rocket Launcher   | Left Shoulder:  Rail Gun           |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Shotgun           | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA troops are attacking the UR's main harbor.  Locate and destroy all
+enemy ships before the enemy can cause greater damage to the city.
+
+TIPS:
+
+This is actually a pretty easy mission!  All you have to do is destroy all five
+ships before all buildings are destroyed.  Your targets are stationary and 
+there are plenty of Ammo and Repair Crates lying around.  It takes 18 rockets
+or 21 rail blasts to sink a ship.  This mission is actually even easier if you
+have beaten Mission 10 and have earned the Grenade Launcher!
+
+Start by turning right and destroying the ship in the distance using your Rail
+Gun.  Then proceed towards your left and take out the ship with your Rocket
+Launcher (pump that B button hard!).
+
+Clear the factories and warehouses on your right with the Shotgun.  Grab the
+crates then proceed to the next ship.  Take it out using your Rocket Launcher,
+if you run out of rockets, switch to the Shotgun.
+
+Continue on, clearing out the warehouses as you go.  Take out the next ship
+using Rockets.  Keep moving until you see the final ship, take it out with your
+Rail Gun to finish the mission.  You'll be rewarded with the Ferret Homing
+Missiles.
+
+-------------------------------------------------------------------------------
+H.  Mission 8:  Grounded
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Gatling Gun        |
+|------------------------------------+------------------------------------|
+| Right Hand:      Shotgun           | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+An illegal PENTA military airbase has been discovered within striking range of
+UR territory.  Destroy the airbase before they launch all of the attack planes.
+
+TIPS:
+
+Your mission is to destroy all five jets as well every building on the
+airfield.  Once they get in the air, the only weapon you have that can bring
+them down will be your Homing Missiles so don't waste them!
+
+Turn slightly to the right and head towards the yellow tank.  Walk between
+the tanks and take out the gun turret, V.T.O.L., and tank using your Gatling 
+Gun.  
+
+Keep heading straight towards the airfield.  As soon as you see the red tower,
+launch four rockets to destroy it, then use a rocket to blow up the yellow
+fuel tanks, there are two critical Repair Crates inside.
+
+Past the tanks is a Tasset Heavy Tank, quickly use your rockets to destroy it
+then use your Gatling Gun to take out the Basilisk.
+
+Use your Shotgun to take out the four Wyverns on the ground, then head back
+to the Repair Crates.  Collect them and take out any ground forces you see.
+Use your Homing Missiles to take out the Wyvern in the sky.  Quickly use your
+remaining Rockets and Shotgun to level the buildings before several SATYRS
+appear.  Your reward for completing this mission is the Carlisle 75 MM Heavy 
+Machine Gun.
+
+-------------------------------------------------------------------------------
+I.  Mission 9:  Fill 'er Up
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Enemy agents are sabotaging our transports.  Protect the truck convoy from
+enemy fire.  At least two trucks have to reach their destination to complete
+this mission.
+
+TIPS:
+
+This mission is like a harder version of Road Block (yippee).  Unlike in
+Road Block, it's critical to stay near your convoy to protect it from aerial
+attacks.
+
+There are three "traps" to watch out for.  The first is at the very beginning,
+after you see the first helicopter take off, if you look right you'll see a
+V.T.O.L.  You need to destroy it quickly, it can take out your whole convoy in
+a single pass!  The second is the SATYR that appears when you reach the city.
+Quickly dispatch it using Rockets.  The final ambush is in the form of a bomber
+that appears near the end of the stage.  You want to save a couple of Homing
+Missiles for this part so you can quickly take care of him.
+
+Other than these, it's basically a matter of sticking close to your convoy and
+taking out threats as they appear with your Heavy Machinegun.  There are plenty
+of Ammo and Repair Crates inside the warehouses if needed.
+
+-------------------------------------------------------------------------------
+J.  Mission 10:  A Bridge Too Far
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA backed terrorists are driven bomb-laden trucks through the city.  Stop
+the trucks before they can destroy their targets.
+
+TIPS:
+
+This mission is like an EASY version of Bomb Squad.  In order to win, you must
+destroy ALL ten trucks before they explode.  Fortunately the trucks are en
+route to their targets.  The trucks are yellow with red skull and crossbones
+on them so they're easy to spot.  You can take them out at a distance with two
+Rockets.
+
+Start by turning left them walking forward.  You should see a truck through
+the gaps between buildings.  After you take him out, do a 180 and head back to
+where you started.  A couple more trucks will enter the area.  From this point
+on it's just a matter of patrolling the city and taking out the remaining
+trucks.  Your biggest concern is actually the Choppers and V.T.O.L.s that will
+gang up on you, but they're nothing a Homing Missile can't fix...
+
+Once you've completed this mission you'll unlock the game's final weapon: the
+awesome Corinne Automatic Grenade Launcher.
+
+-------------------------------------------------------------------------------
+K.  Mission 11:  Acid Rain
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Rail Gun          | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Gatling Gun       | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA troops are trying to capture a major industrial center by air drop.  Stop
+this attack by destroying all their ground forces.
+
+TIPS:
+
+If only they were all this easy!  The mission briefing for once is pretty 
+self explanatory, all you need to do to win is destroy all enemy ground forces.
+Since the enemy is trying to capture and not destroy the city, you can take 
+your time.
+
+Start out by walking forward and heading slightly to the left.  You should
+pop out in a field that contains a lot of yellow and grey fuel tanks.  When you
+arrive, enemies will already be parachuting down, take them out with your
+Heavy Machinegun before they land.  On the far side of the field is a SATYR,
+quickly destroy it with Rockets then clear out the area.
+
+This field is your "safe zone".  The strategy is to stay here and pick off
+enemies as they appear.  Watch the ROCs, once they start dropping off troops
+take them out with your Rail Gun before they land.  The fuel tanks contain
+Repair Crates if you get low on health.  Once the ROCs are done, a couple of
+Gantlets will appear, take them down with Homing Missiles.
+
+Once your radar is clear, it's time to move to the other side of the city and
+mop up.  Use your radar to track down and eliminate the remaining ground enemy
+forces.  There is one more SATYR to deal with, but other than that it should
+be an easy task.
+
+-------------------------------------------------------------------------------
+L.  Mission 12:  Out go the Lights
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Rocket Launcher   | Left Shoulder:  Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+An automated defense system has gone berserk.  Shut it down by destroying the
+four power plants delivering its energy.
+
+TIPS:
+
+The first thing you'll notice is that this is a night mission so spotting
+enemies will be difficult.  The main threats here are the towers, take them out
+with three Rockets as soon as you see them.  There are also a couple of SATYRs
+running around.  Study the map before the mission begins to get a feel of
+where the power plants are located.  There's plenty of ammo hidden inside of
+the factories and warehouses.
+
+Turn slightly to the right and you'll see the first power plant off in the
+distance, head towards it.  As you approach, you'll see a tower on the right,
+take it out with Rockets.  Destroy the dome using your Grenade Launcher, the
+power plants are very sturdy and will take a lot of Grenades so pump that B
+button!
+
+Once the dome is destroyed follow the road to the next target.  Destroy it like
+before.  Next to the dome is a skyscraper that is hiding a Repair Crate.  Head
+past the factories to the third dome.  A warehouse next to this one contains a
+Repair Crate.  Continue on to the final dome and quickly raze it with your
+Grenades.  Once the dome stops exploding your mission will be complete.
+
+-------------------------------------------------------------------------------
+M.  Mission 13:  Air Patrol
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Destroy all the warehouses in the city and collect the supplies found there.
+But be warned: PENTA has called in an air strike against your Iron Soldier.
+
+TIPS:
+
+Another mission briefing hit by the ambiguity gremlin.  The goal is to collect
+all 13 Supply Crates.  The crates can be found in both warehouses AND
+factories.  The mission ends once you collect the thirteenth Supply Crate, even
+if you haven't destroyed all the buildings.
+
+Once you know where you're supposed to look, this mission is actually really
+easy!  Just turn left and make a circuit around the island, destroying any
+warehouses and factories you see.  You can stay on the beach, there are no
+crates inside the city itself.  Use your Grenade Launcher to raze the buildings
+quicker, two Grenades will do the trick.  There are plenty of Repair Crates
+hidden inside the fuel tanks if you get low on energy.  Enemy resistance is 
+light, use your Heavy Machinegun and Homing Missiles on the aerial units and 
+your Grenade Launcher on the pair of SATYRs patrolling the island.
+
+-------------------------------------------------------------------------------
+N.  Mission 14:  Rebel Yell
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenades          | Left Hip:       Grenades           |
+|------------------------------------+------------------------------------|
+| Right Hand:      Chainsaw          | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Terrorists have taken control of two Iron Soldier units on the outskirts of the
+UR.  Destroy the two units before they begin damaging buildings inside UR
+territory.
+
+TIPS:
+
+One of the toughest missions so far, enemy Iron Soldiers can withstand a TON of
+punishment!  Fortunately they appear one out a time so you don't have to worry
+about them ganging up on you.  You can intercept them well before they enter
+the city so really all you have to worry about is surviving.
+
+When you start the mission, equip your Homing Missiles and start walking
+forward.  Quickly take out the SATYR then switch to your Gatling Gun to take
+out the Basilisk.  Keep walking, the second yellow fuel tank contains a Repair
+Crate.
+
+Eventually the first Iron Soldier will appear.  Switch to Grenades and lob all
+eight at him once you're in range.  Then switch to your Chainsaw and go up 
+close for the kill.  He won't fire Rockets while your close but he will punch,
+and those punches do a lot of damage.  Repeat this pattern: hit him with the
+Chainsaw and when he turns towards you quickly put it into reverse.  When he
+turns away, go back in and hit him again.  
+
+Once he's destroyed, replenish your health and ammo by leveling warehouses,
+factories, and fuel tanks.  Several Wyverns will appear; take them out with
+your remaining Homing Missiles.  Eventually the second enemy I.S. will appear
+near where you fought the first one.  Take him down using the same tactics.
+
+-------------------------------------------------------------------------------
+O.  Mission 15:  Corporate War
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Gatling Gun       | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Chainsaw          | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA has build (sic) a military base dangerously close to United Republic
+territory.  Don't leave a single building standing!
+
+TIPS:
+
+Looks like the ambiguity gremlin took the night off.  The briefing says it all,
+raze every single building to the ground!  No special strategies here: clear
+the immediate vicinity of enemies, demolish the fuel tanks with the Grenade
+Launcher and the other buildings with your Chainsaw.  Rinse, lather, repeat.
+
+I prefer to take out the surrounding areas first then the city itself, but it
+really doesn't matter.  There are swarms of aerial enemies, take them out with
+your Gatling Gun and Homing Missiles.  There are also a lot of SATYRs running
+amok, your Grenade Launcher is best for them.  Don't worry too much about
+conserving ammo, there are tons of crates to be found.
+
+-------------------------------------------------------------------------------
+P.  Mission 16:  Sea Strike
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Find and destroy all enemy ships before they can escape.  A newly developed
+ground transport system will help you.
+
+TIPS:
+
+Pretty straightforward, you just need to destroy all six ships to complete the
+mission.  There are tons of enemies around making survival difficult, so 
+proceed with caution.  The "transport system" is basically a disc on the ground
+that teleports you when you step on it.  Unfortunately, it's a one-way trip, so
+make sure you're done with your current island before moving on.
+
+The first ship is directly in front of you, take it out with the Grenade
+Launcher.  Turn right and follow the coast to the first transport, it's hiding
+behind a building.  Step on it.
+
+Walk forward to the first ship, sink it, then follow the coast to the third.
+Once it's sunk, step on the disc.  Grab some ammo from the warehouses then
+follow the road to the next transport.  When you pop out, the fourth ship will
+be on your right.  Follow the coast and walk through the city to the fifth
+ship.  The sixth and final ship will be offshore, if you angle your Grenade
+Launcher high enough, you can hit it.
+
+-------------------------------------------------------------------------------
+Q.  Mission 17:  Safety Check
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Shield            | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Chainsaw          | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA has build(sic) a fortress to protect their supplies against UR attacks.
+Destroy their defense system and capture all items they are storing inside.
+
+TIPS:
+
+If you know what you're doing this can be a very easy mission!  There is a 
+small fortress containing 19 Supply Crates, 2 Repair Crates, and a lot of
+defenders.
+
+Start out by walking forward, then when you emerge head right.  Take out any
+towers you see with a burst of three Rockets.  Use your Homing Missiles on
+aerial units.  The fuel tanks to the right of the fortress contain three
+Repair Crates.  Now head towards the eastern door of the fortress.  Hit it
+with all your remaining Rockets then use your Chainsaw to finish breaking it
+down.  The INSTANT it goes down equip your Shield and run inside.  The crates
+are line up in three rows, just ignore the enemies and collect the crates one
+row at a time.  Easy!
+
+-------------------------------------------------------------------------------
+R.  Mission 18:  Archipelago
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+PENTA has built a very large industrial complex consisting of several islands.
+Destroy all factories, fuel tanks, and warehouses to stop their weapon
+production.
+
+TIPS:
+
+Hard.  Not only are the islands swarming with enemies, there is one you can't
+even teleport to!  There are no special tricks here, just clear the island
+then teleport to the next.  There are plenty of Ammo and Repair Crates to be
+found.  If there is a way to teleport to the small island with the dome, I
+can't find it.  You will have to level all buildings (including the dome) by
+sniping at it from the two islands closest to it.
+
+-------------------------------------------------------------------------------
+S.  Mission 19:  Drive Thru
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Rocket Launcher   | Left Hip:       Rocket Launcher    |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Once again PENTA is attacking our transports to slow down our weapon
+production.  Protect the transports and stop the enemy attacks by destroying
+the walkers coordinating the illegal activities.  At least 3 trucks have to
+survive.
+
+TIPS:
+
+Definitely the hardest mission in the game.  There are three groups of two
+transports each making their way through the city.  There are three SATYRs
+in the level, take them down on sight with your Rockets.
+
+Really the only thing you can do is walk back and forth through the city
+destroying any enemies and barricades you see.  Good luck.
+
+-------------------------------------------------------------------------------
+T.  Mission 20:  Iron Ghost
+
+ =========================================================================
+|                          RECOMMENDED EQUIPMENT                          |
+|------------------------------------+------------------------------------|
+| Right Shoulder:  Homing Missiles   | Left Shoulder:  Homing Missiles    |
+|------------------------------------+------------------------------------|
+| Right Hip:       Grenade Launcher  | Left Hip:       Grenade Launcher   |
+|------------------------------------+------------------------------------|
+| Right Hand:      Heavy Machinegun  | Left Hand:      Manipulator        |
+ =========================================================================
+
+BRIEFING:
+
+Our agents have found PENTA's well protected headquarters on an island.  They
+are building a new weapon called COLD IRON GUNNER there.  Destroy this unit
+before PENTA is able to complete the weapon and uses it to crush the UR.
+
+TIPS:
+
+Wow...talk about anti-climatic, this is a fairly easy mission and the Cold Iron
+Gunner is actually easier to kill than an Iron Soldier!
+
+Just follow the coast on the left and avoid going into the cities themselves.
+When you reach the end, a building will explode and the Cold Iron Gunner will
+appear.  Just pump it full of Grenades and it will go down quickly.  Too easy.
+
+*******************************************************************************
+VI.    Weapons
+
+-------------------------------------------------------------------------------
+A.  Standard Manipulator
+
+ ===================================================
+| Weapon:   Standard Manipulator                    |
+|---------------------------------------------------|
+| Found:      Game Start                            |
+|---------------------------------------------------|
+| Mounts:     Hands                                 |
+|-------------------------+-------------------------|
+| Ammo:       N/A         | Max:     x2             |
+|-------------------------+-------------------------|
+| Range:      Melee       | Speed:   ??             |
+|-------------------------+-------------------------|
+| Precision:  ??          | Damage:  ??             |
+ ===================================================
+
+Comments:
+
+Basically your I.S.'s punch.  Since you can never mount a weapon in your left
+hand, you will always have this available.  You must be right next to your
+target, you will see puff of smoke if you land a hit.
+
+-------------------------------------------------------------------------------
+B.  Parker Chain Cutter                                          
+
+ ===================================================
+| Weapon:  Parker Chain Cutter                      |
+|---------------------------------------------------|
+| Found:      Game Start                            |
+|---------------------------------------------------|
+| Mounts:     Right Hand                            |
+|-------------------------+-------------------------|</pre><pre id="faqspan-2">
+| Ammo:       N/A         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Melee       | Speed:   Slow           |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  Medium         |
+ ===================================================
+
+Comments:
+
+This appears to do the same amount of damage as your Manipulator, but at a
+much higher rate of speed.  The Chain Cutter is useful for destroying
+buildings and enemy Iron Soldiers, but little else.  The biggest drawback is
+that if you have the Chain Cutter equipped, you can't carry a Rifle nor a
+Shotgun.
+
+-------------------------------------------------------------------------------
+C.  Cassy Assault Rifle
+
+ ===================================================
+| Weapon:  Cassy Assault Rifle                      |
+|---------------------------------------------------|
+| Found:      Game Start                            |
+|---------------------------------------------------|
+| Mounts:     Right Hand                            |
+|-------------------------+-------------------------|
+| Ammo:       400         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Medium      | Speed:   Slow           |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  Medium         |
+ ===================================================
+
+Comments:
+
+The Assault Rifle has decent all around stats and is your primary weapon for
+the early missions until the Gatling Gun makes it obsolete.
+
+-------------------------------------------------------------------------------
+D.  Badger Hand Grenades
+
+ ===================================================
+| Weapon:  Badger Hand Grenades                     |
+|---------------------------------------------------|
+| Found:      Game Start                            |
+|---------------------------------------------------|
+| Mounts:     Left/Right Hips                       |
+|-------------------------+-------------------------|
+| Ammo:       8           | Max:     x2             |
+|-------------------------+-------------------------|
+| Range:      Short       | Speed:   Medium         |
+|-------------------------+-------------------------|
+| Precision:  Low         | Damage:  Lethal         |
+ ===================================================
+
+Comments:
+
+How many other games can you think of where you begin the game with the most
+powerful weapon already available?  Grenades work well against tough, slow
+moving enemies like Iron Soldiers and ships.  Grenades are thrown in a high,
+awkward arc, making it difficult to hit your target.
+
+-------------------------------------------------------------------------------
+E.  Rachels Gatling Gun
+
+ ===================================================
+| Weapon:  Rachels Gatling Gun                      |
+|---------------------------------------------------|
+| Found:      Mission 1                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders, Left/Right Hips |
+|-------------------------+-------------------------|
+| Ammo:       800         | Max:     x2             |
+|-------------------------+-------------------------|
+| Range:      Short       | Speed:   High           |
+|-------------------------+-------------------------|
+| Precision:  Low         | Damage:  Medium         |
+ ===================================================
+
+Comments:
+
+You'll use this more than any other weapon.  The Gatling Gun has a very high
+rate of fire making it an excellent choice for small, fast enemies and also for
+shooting down enemy missiles.  The closer you are to your target, the more
+damage you'll do.  The Gatling Gun's lone drawback is its short range.
+
+-------------------------------------------------------------------------------
+F.  Sable Cruise Missile
+
+ ===================================================
+| Weapon:  Sable Cruise Missile                     |
+|---------------------------------------------------|
+| Found:      Mission 2                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders                  |
+|-------------------------+-------------------------|
+| Ammo:       1           | Max:     x2             |
+|-------------------------+-------------------------|
+| Range:      Long        | Speed:   Slow           |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  High (Lethal?) |
+ ===================================================
+
+Comments:
+
+A weapon that's coolness is only matched by its uselessness.  After firing a
+Cruise Missile, you switch to an inside camera view.  Fly the missile using the
+joypad and press B to detonate (or just ram your target).  Your ammo meter here
+is really the fuel gauge.  The game lists the damage stat as "High" but the
+instruction manual says it is equal to a Grenade (Lethal).  There are two
+reasons this weapon is useless: first is that you only get ONE shot per mount,
+secondly a Cruise Missile will only kill SATYRs or weaker with one hit (unlike
+in Iron Soldier 1 where a single missile could sink a ship!).  Mission 4 is the
+only mission they come in handy, leave them in the hangar for the rest.
+
+-------------------------------------------------------------------------------
+G.  Sherry 00 Gauge Shotgun
+
+ ===================================================
+| Weapon:  Sherry 00 Gauge Shotgun                  |
+|---------------------------------------------------|
+| Found:      Mission 3                             |
+|---------------------------------------------------|
+| Mounts:     Right Hand                            |
+|-------------------------+-------------------------|
+| Ammo:       100         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Short       | Speed:   Slow           |
+|-------------------------+-------------------------|
+| Precision:  Poor        | Damage:  High           |
+ ===================================================
+
+Comments:
+
+A definite upgrade from the Assault Rifle, the Shotgun is capable of destroying
+all minor enemies with a single shot!  Like the Gatling Gun, the Shotgun has a
+short range and the closer you are to your target, the more damage you'll 
+inflict.
+
+-------------------------------------------------------------------------------
+H.  Slate Heavy Shield
+
+ ===================================================
+| Weapon:  Slate Heavy Shield                       |
+|---------------------------------------------------|
+| Found:      Mission 4                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders                  |
+|-------------------------+-------------------------|
+| Ammo:       N/A         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      N/A         | Speed:   N/A            |
+|-------------------------+-------------------------|
+| Precision:  N/A         | Damage:  Defense        |
+ ===================================================
+
+Comments:
+
+Not a weapon but a defensive item, when the Shield is equipped damage from
+enemies is cut in half.  Unfortunately you are unable to use any other weapons
+while the Shield is equipped.  You CAN still step on enemies.  Like the Cruise
+Missile the Shield's usefulness is limited BUT Mission 17 is tailor made for
+it.
+
+-------------------------------------------------------------------------------
+
+I.  Charlotte Rail Cannon
+
+ ===================================================
+| Weapon:  Charlotte Rail Cannon                    |
+|---------------------------------------------------|
+| Found:      Mission 5                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders                  |
+|-------------------------+-------------------------|
+| Ammo:       25          | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Long        | Speed:   Slow           |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  High           |
+ ===================================================
+
+Comments:
+
+It sounded so wonderful in the instruction manual: a high powered weapon with
+INFINITE range.  But unfortunately for us it only looks good on paper.  The
+Rail Cannon is basically the game's sniper rifle, it is very accurate and can
+hit anything you can see onscreen.  It does about the same amount of damage as
+a Shotgun blast  So what could be wrong?  Three things:  it's actually too
+accurate, you have to have your target dead center in your sights in order to
+hit it, the rate of fire is slower than the Shotgun, and you only get 25
+rounds.  The best use for the Rail Cannon is taking out parachuting enemies
+before they can land.
+
+-------------------------------------------------------------------------------
+J.  WolfPack Rocket Launcher
+
+ ===================================================
+| Weapon:  WolfPack Rocket Launcher                 |
+|---------------------------------------------------|
+| Found:      Mission 6                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders, Left/Right Hips |
+|-------------------------+-------------------------|
+| Ammo:       12          | Max:     x4             |
+|-------------------------+-------------------------|
+| Range:      Long        | Speed:   Medium         |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  High           |
+ ===================================================
+
+Comments:
+
+One of the best weapons in the game, the Rocket Launcher combines power and
+range with a high rate of fire.  You can carry up to four Rocket Launchers
+at a time for a total of 48 Rockets!
+
+-------------------------------------------------------------------------------
+K.  Ferret Homing Missiles
+
+ ===================================================
+| Weapon:  Ferret Homing Missiles                   |
+|---------------------------------------------------|
+| Found:      Mission 7                             |
+|---------------------------------------------------|
+| Mounts:     Left/Right Shoulders                  |
+|-------------------------+-------------------------|
+| Ammo:       6           | Max:     x2             |
+|-------------------------+-------------------------|
+| Range:      Long        | Speed:   Medium         |
+|-------------------------+-------------------------|
+| Precision:  Lethal      | Damage:  High           |
+ ===================================================
+
+Comments:
+
+Basically the Rocket Launcher with heat seeking.  Perfect for taking care of
+those pesky aerial units.  The only drawback is that you get 6 shots per mount.
+You will automatically lock on to the enemy closest to the targeting reticule
+(not closest to your Iron Soldier).  Fire with B.
+
+-------------------------------------------------------------------------------
+L.  Carlisle 75MM Heavy Machinegun
+
+ ===================================================
+| Weapon:  Carlisle 75MM Heavy Machinegun           |
+|---------------------------------------------------|
+| Found:      Mission 8                             |
+|---------------------------------------------------|
+| Mounts:     Right Hand                            |
+|-------------------------+-------------------------|
+| Ammo:       800         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Long        | Speed:   Medium         |
+|-------------------------+-------------------------|
+| Precision:  High        | Damage:  High           |
+ ===================================================
+
+Comments:
+
+The best hand weapon in the game.  The Heavy Machinegun is more powerful
+than the Assault Rifle and has a longer range.  It's also fully automatic, so
+hold down that B button!
+
+-------------------------------------------------------------------------------
+M.  Corinne Automatic Grenade Launcher
+
+|===================================================
+| Weapon:  Corinne Automatic Grenade Launcher       |
+|---------------------------------------------------|
+| Found:      Mission 10                            |
+|---------------------------------------------------|
+| Mounts:     Hips (uses both)                      |
+|-------------------------+-------------------------|
+| Ammo:       100         | Max:     x1             |
+|-------------------------+-------------------------|
+| Range:      Medium      | Speed:   High           |
+|-------------------------+-------------------------|
+| Precision:  Poor        | Damage:  High           |
+ ===================================================
+
+Comments:
+
+The best weapon in the game.  The Grenade Launcher fires a less powerful
+version of the Hand Grenade but it is much easier to aim and you get to carry
+100 rounds!  Excellent against ground units, the only downside is that it takes
+up BOTH hip mounts.
+ 
+*******************************************************************************
+VII.   Enemies
+
+-------------------------------------------------------------------------------
+A.  'Glaive' Helicopter
+
+Small but annoying.  Glaives will either attack with gunfire or Rockets.  They
+like to attack in groups, so be on your guard.  Don't waste Rockets on them
+unless absolutely necessary, you're handheld weapons should make short work of
+them.
+
+-------------------------------------------------------------------------------
+B.  'Greave' V.T.O.L.
+
+Similar to a Glaive, but more dangerous.  Instead of Rockets, Greaves make
+short bombing runs on your Iron Soldier.  You'll want to take them out as soon
+as you can, they can drain your life quickly.  Like Glaives, Greaves are best
+dealt with using your handheld weapons.
+
+-------------------------------------------------------------------------------
+C.  'Gantlet' Attack Plane
+
+Gantlets are large planes that will make bombing runs over the battlefield.
+Like Greaves they are very dangerous, especially during escort missions.  To
+take out a Gantlet you will need a long range weapon.
+
+-------------------------------------------------------------------------------
+D.  'Wyvern' Jet Fighter
+
+"Pesky" is the best word to describe the Wyverns.  They attack with Rockets
+using hit and run tactics.  Homing Missiles are the only weapon effective
+against Wyverns.
+
+-------------------------------------------------------------------------------
+E.  'ROC' Transport Plane
+
+ROCs are those large stealth bomber looking planes that drop off enemy units
+by parachute.  It's usually best to ignore the ROCs themselves and concentrate
+on taking out the parachuters while they are floating helplessly down to earth.
+
+-------------------------------------------------------------------------------
+F.  'Brassard' Light Tank
+
+These little guys are everywhere!  Brassards will attack using gunfire or the
+occasional Rocket.  Use your handheld weapons...or just stomp on them with your
+feet!
+
+-------------------------------------------------------------------------------
+G.  'Basilisk' Fast Attack Vehicle
+
+Basilisks are similar to Brassards but a lot deadlier.  Armed with Rockets, a
+small group of Basilisks can demolish your Iron Soldier in seconds.  Like other
+minor units, they are most economically dealt with using handheld weapons.
+
+-------------------------------------------------------------------------------
+H.  'Tasset' Heavy Tank
+
+Brassards on steroids.  When dealing with a Brassard, you're going to want to
+use either explosives or your Chain Cutter.
+
+-------------------------------------------------------------------------------
+I.  'Behemoth' Frigate
+
+Behemoths are floating fortresses that attack from offshore using Rockets.
+They are very tough to sink.  Unlike Iron Soldier 1, Cruise Missiles are
+completely useless against ships in this game.  You'll need to use Grenades,
+Rockets, or the Rail Gun.  It takes a whopping 18 Rockets or 21 rounds from
+your Rail Gun to sink a Behemoth.
+
+-------------------------------------------------------------------------------
+J.  'Javelin' Rocket Launcher
+
+A stationary Basilisk, Javelins are armed with only two Rockets.
+
+-------------------------------------------------------------------------------
+K.  'Heaume' Gun Turret
+
+A stationary Brassard.
+
+-------------------------------------------------------------------------------
+L.  'SATYR' War Strider
+
+Iron Soldier "lites", SATYRs move much quicker than an I.S. but have lighter
+armor.  Rockets, Grenades, or even a Cruise Missile are effective ways of
+dealing with them.
+
+-------------------------------------------------------------------------------
+M.  Iron Soldier
+
+The toughest enemies in the game are rogue Iron Soldiers.  Fortunately they are
+few and far between.  Iron Soldiers are armed with Rockets and also have a 
+vicious punch.  The best ways to take them out are with Hand Grenades or to use
+hit and run tactics with the Chain Cutter.
+
+-------------------------------------------------------------------------------
+N.  Cold Iron Gunner
+
+PENTA's "secret weapon" the Cold Iron Gunner is like a cross between an Iron
+Soldier and a hovercraft.  You face off against the CIG at the end of the final
+mission.  It's armed with Rockets and can move faster than a SATYR but it's
+armor is weaker than an Iron Soldier's.
+
+*******************************************************************************
+VIII.  Secrets and Cheats
+
+I found the following cheats at The Atari Times (www.ataritimes.com)
+
+Note:  Enter these cheats on the Options Screen using the numpad.  If you enter
+       a cheat correctly, you'll be taken back to the Title Screen.
+
+ =============================================================================
+| CHEAT                                | CODE                                 |
+|--------------------------------------+--------------------------------------|
+| Unlock All Weapons & Levels          | 5,2,6,2,0,4,8,1                      |
+|--------------------------------------+--------------------------------------|
+| Unlimited Ammo                       | 1,4,8,8,2,5,0,2                      |
+|--------------------------------------+--------------------------------------|
+| Invincibility                        | 8,3,0,5,5,7,2,6                      |
+|--------------------------------------+--------------------------------------|
+| Enable Instant Mission Pass/Fail     | 3,4,4,9,5,2,2,0,7,1,6                |
+|                                      |                                      |
+| Mission Pass                         | # (During Gameplay)                  |
+| Mission Fail                         | 0 (During Gameplay)                  |
+| Game Over                            | * (During Gameplay)                  |
+|--------------------------------------+--------------------------------------|
+| Activate All of the Above            | 9,7,0,0,2,3,8,6,6,5,4,1              |
+|--------------------------------------+--------------------------------------|
+| Unlock Insane Difficulty Level       | 6,8,2,4                              |
+|--------------------------------------+--------------------------------------|
+| View Endgame Sequence                | 7,2,4,4,9,8,0,1 (then Start Game)    |
+|--------------------------------------+--------------------------------------|
+| Play as SATYR Walker (see below)     | 7,2,8,9,7,6,6                        |
+|--------------------------------------+--------------------------------------|
+| Emergency Repair                     | Hit yourself with a Cruise Missile   |
+|                                      | During Low Energy Warning            |
+|-----------------------------------------------------------------------------|
+| View POV Cinema                      | Stay on Title Screen for a while     |
+ =============================================================================
+
+SATYR WALKER
+
+The SATYR walker moves three times faster than an Iron Soldier but has much
+lighter armor.  You can't customize your weapon load with the SATYR, you
+will always be armed with a Heavy Machinegun, Rocket Launcher, and Homing
+Missiles.  Instead of the numpad use the Option button to switch weapons.
+
+*******************************************************************************
+IX.    Game Review
+
+Iron Soldier 2 for the Atari Jaguar CD is the sequel to one of the best
+received games for the Atari Jaguar.
+
+The graphics in Iron Soldier 2 are top notch for a Jaguar title.  Buildings
+and enemies are well rendered while maintaining a butter smooth framerate.
+There are three CGI cinematics: one for the intro, one for game over, and one
+for completing the game.  While not exactly Final Fantasy 7 caliber, they are
+well done and add to the overall experience.  Unfortunately you can't skip the
+death sequence, which does get old quickly.
+
+Acoustically the game shines as well.  Explosions and gunfire sound convincing
+and the music fits the gameplay perfectly.  The only downside is a lack of
+voice-overs, they would have been a nice touch, particularly for the mission
+briefings.
+
+The gameplay is what makes Iron Soldier 2 great.  Walking around in a giant
+robot suit blasting bad guys is very cool and so much fun.  You start the game
+with only a handful of weapons but earn more as you progress.  There are four
+new weapons including the lethal Homing Missiles and the awesome Grenade 
+Launcher.
+
+Really the only bad thing I have to say about this game is that it is too hard!
+Even on Easy the game can be very frustrating at times, especially during the
+escort missions.  The challenge is also unbalanced, most of the easiest
+missions in the game are the ones in the third and fourth groups.
+
+Iron Soldier 2 is an excellent title and a must-own for any fan of the Jaguar
+CD.
+
+Pros
++  Excellent graphics.
++  Smooth framerate.
++  Great soundtrack
++  Good variety of weapons.
++  Lots of fun!
+
+Cons
+-  Very difficult even on Easy.
+-  Uneven challenge, third and fourth groups have some of the easiest missions
+   in the game!
+-  A lot of mission briefings are ambiguous leaving it up to you to figure out
+   what your mission objectives are.
+-  Can't skip death cinematic.
+
+*******************************************************************************
+X.     Special Thanks
+
+Special Thanks go to Games, shadow_571, threetimes, nintendomaster14, 
+Kratos15354, Eternal_Debate, Bkstunt_31, and TrulyDexterous for their 
+suggestions on how to improve this guide.
+
+*******************************************************************************
+XI.    Version History
+
+1.0   10/27/10   Completed FAQ.
+
+1.1   11/04/10   Made a lot of improvements based on critiques from other FAQ
+                 writers on the Contributor Message Board.  Added Special
+                 Thanks section.
+
+1.2   11/08/10   Made some more improvements (mainly formatting and rewording)
+                 based on critiques for version 1.1.  Updated Special Thanks
+                 section.
+
+*******************************************************************************
+XII.   Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+Please leave constructive comments.  I especially appreciate emails letting me
+know if I have made a mistake, missed anything, or if you have any ideas for
+improving this FAQ.
+
+*******************************************************************************
+
+
+End

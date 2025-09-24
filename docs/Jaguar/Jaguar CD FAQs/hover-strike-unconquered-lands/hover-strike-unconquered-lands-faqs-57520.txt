@@ -1,0 +1,1488 @@
+*******************************************************************************
+Hover Strike: Unconquered Lands for Atari Jaguar CD FAQ/Walkthrough
+
+by BHodges
+
+Version  1.0
+Created  08/20/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+         A.  New/Load Game
+         B.  Mission Select Screen
+         C.  Options
+IV.    Basic Gameplay
+         A.  Controls
+         B.  Missions
+         C.  Basic Strategies
+V.     Weapons
+         A.  Photon Cannon
+         B.  Missiles
+         C.  Guided Missiles
+         D.  Mortars
+         E.  Flares
+         F.  Shields
+         G.  Energy
+VI.    Walkthrough
+         A.  Level 1
+               1.  Vulcan Shootout
+               2.  Amphibious Strike
+               3.  Trapped Under Ice
+               4.  Desert Swarm
+               5.  Industrial Assault
+               6.  The Unnatural Night
+               7.  Stealth Attack
+               8.  Bloodcount
+               9.  The Drive for Five! (Bonus Mission)
+         B.  Level 2
+               1.  By Demons, Be Conquered
+               2.  Snow Blind
+               3.  Crossing Ridges
+               4.  The Sands of Time
+               5.  Armies in the Darkness
+               6.  River of Souls
+               7.  Underground Ambush
+               8.  Tremors
+               9.  Barbecue (Bonus Mission)
+         C.  Level 3
+               1.  Hammered
+               2.  Depths of Madness
+               3.  Frozen Outpost
+               4.  Corridors of Dread
+               5.  Damaged and Disconnected
+               6.  Burn Away the Night
+               7.  Crossfire
+               8.  Pangaea
+               9.  Leonard, Is That You? (Bonus Mission)
+         D.  Level 4
+               1.  Valley of Death's Shadow
+               2.  Fiercer Than All
+               3.  The Dawn Patrol
+               4.  Metal Inferno
+               5.  Canal Apocalypse
+               6.  Alien Shores
+               7.  Scabies
+               8.  Armored Engagement
+               9.  Cape Ken-averal (Bonus Mission)
+         E.  Level 5
+               1.  Arctic Attack
+               2.  Night of Ascension
+               3.  Desert Canyons
+               4.  Secret Gauntlet
+               5.  Los Tiberones
+               6.  Harvest the Sorrow
+               7.  Black Out
+               8.  Epistrophy
+               9.  A Vulgar Display of Power (Bonus Mission)
+         F.  Level 6
+               1.  The Final Strike
+VII.   Secrets and Cheats
+VIII.  Hover Strike and HS: Unconquered Lands Comparison
+IX.    Game Review
+X.     Version History
+XI.    Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ/Walkthrough for the Jaguar CD game Hover Strike: Unconquered
+Lands.  It contains a list of controls, information on all game missions, and
+a mini-review.  It also contains information on how the cartridge version
+differs from the CD version.
+
+*******************************************************************************
+II.    Background Story
+
+Here is the background story from the instruction booklet:
+
+You fear the worst for the planet's missing colonists.  Communications have
+ceased from the distant colony for over six months.  Federation scouts have
+discovered that Terrakian Pirates have taken over the planet, their deadly
+machines patrolling every section of the surface.
+
+The planet's colonists have completely disappeared.  The Terrakians have
+established a horrible factory in the fourth quadrant, where they process
+human corpses to extract valuable organic compounds.  You must lead the rescue
+mission to save the remaining humans, if any, and regain the planet.
+
+There is no contact with the surface.  The Terrakians have installed an
+atmospheric cannon which makes invasion plans and the armada's entry
+impossible.
+
+The Federation has chosen you to launch the preemptive strike.  They've
+provided you with the preliminary reconnaissance reports.  A military transport
+will slip through the enemy's shields and take you to your drop zone.  Your
+vehicle is a state-of-the-art armored hovercraft.  It's the ultimate war
+machine, equipped with rapid-fire cannon and powerful missiles.  You have full
+maneuverability over any planetary terrain, including snow drifts, lava floes,
+desert sands, and turbulent water.  Anti-grav units let you float just above
+the ground, so you need to use your brakes to slow down.
+
+Your mission is to knock out key targets in each zone, crippling the Terrakian
+forces and halting their bloody work.  Let you sensors guide you to destroy
+enemy radar stations and blow up strategic fuel depots.  Once you eliminate
+the atmospheric cannon you'll make way for the Federation armada.
+
+Save the colony before it's too late!
+
+*******************************************************************************
+III.   Getting Started
+
+-------------------------------------------------------------------------------
+A.  New/Load Game
+
+Once the game loads, if you already have a saved game, you'll have the option
+of loading a saved game or starting a new game.  If you are starting a new
+game, you will be asked to choose a difficulty level.
+
+-------------------------------------------------------------------------------
+B.  Mission Select Screen
+
+On the Mission Select Screen you will see the missions that are currently
+available.  At the bottom left your score, remaining lives, and weapons are
+displayed.  Press left/right on the joypad to switch missions and press B
+when you are ready to begin.  Press Option to bring up the Options Menu.
+
+-------------------------------------------------------------------------------
+C.  Options
+
+...............................................................................
+Music
+
+This is the music volume.  Select it with the joypad, then press left/right to
+lower/raise the volume.
+
+...............................................................................
+
+Main
+
+This is the overall volume.  Select it with the joypad, then press left/right
+to lower/raise the volume.
+
+...............................................................................
+Joypad Controls
+
+Selecting Joypad Controls allows you to change the function of the fire buttons
+and also gives you the option of reversing the gunsight controls (i.e. airplane
+style).
+
+...............................................................................
+Hovercraft Options
+
+The best part of the Options Menu :)  This screen allows you to turn off the
+hovercraft physics.  Press up/down on the joypad to select an option, then
+right/left to toggle the option on/off  (the YELLOW is the one that is active).
+I STRONGLY recommend turning ALL of them to off.
+
+...............................................................................
+Full Motion Video
+
+Allows you to toggle the full motion videos on/off.  To do this, select it
+with the joypad, then press left/right.  The videos are all very short, so
+unless your CD is damaged and locks up on the videos, go ahead and keep this
+set to ON.
+
+...............................................................................
+Save Game Data
+
+Allows you to save your progress and/or the option changes (yes for some reason
+they are separate).  Select a save slot, then press B to save.
+
+...............................................................................
+Exit
+
+Choose Exit to return to the Mission Select Screen.
+
+*******************************************************************************
+IV.    Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Player One
+
+Joypad Left/Right      Turns Hovercraft
+Joypad Up/Down         Lowers/Raises Crosshair
+A Button               Accelerate
+B Button               Fire Photon Cannon
+C Button               Brake
+Option                 Change Secondary Weapon
+Pause                  Pause Game
+#                      Reverse
+1,3                    Fire Secondary Weapon
+2                      Lock-on to Nearest Target
+5                      Lock-on (press again to switch targets)
+4,6                    Toggle Radar/Compass
+7,9                    Toggle Internal/External Camera
+8 + Joypad Up/Down     Zoom External Camera In/Out
+8 + Joypad Left/Right  Pan External Camera Left/Right
+Joypad Down + A + C    Engage Reverse Mode
+Joypad Up + A + C      Engage Forward Mode
+
+
+Player Two (Co-op)
+
+Joypad                 Move Crosshair
+B Button               Fire Photon Cannon
+A/C Button             Fire Secondary Weapon
+Option                 Change Secondary Weapon
+
+-------------------------------------------------------------------------------
+B.  Missions
+
+There are six levels in all, the first five levels have eight missions each and
+the final level consists of a single mission.  Each of the first five levels 
+also has a hidden bonus mission that can be unlocked on the Mission Select 
+screen by entering a code.  You can play the missions for each level in any
+order you wish, once you complete the level's final mission, you'll move on to
+the next level.
+
+EVERY single mission is the exact same: Find and Destroy X number of targets!
+
+-------------------------------------------------------------------------------
+C.  Basic Strategies
+
+-  TURN OFF THE HOVERCRAFT PHYSICS IN THE OPTIONS MENU!  This is the biggest 
+   advantage the CD version has over the cartridge and makes the game a LOT 
+   better!
+
+-  USE YOUR RADAR!  Your next target will appear as a diamond on the radar.
+   In most cases you can simply drive straight to a target, destroy it, then
+   move on to the next.
+
+-  Conserve ammo.  Try building up a supply ammo in the early levels so you
+   won't have to rely on your cannon in the more difficult missions later on.
+
+-  Save your game after each mission.
+
+-  Play the Bonus Missions.  Bonus Missions 1, 3, and 4 are very easy and
+   contain TONS of powerups.
+
+-  Use the Abort Mission command wisely.  You only get TWO lives and ZERO
+   continues.  If your shields are critically low, pause the game and choose
+   Abort Mission.  You'll be taken back to the Mission Select screen without
+   penalty and will have the same number of weapons, lives, and score that you
+   had when you started the mission!
+
+-  Whenever possible, avoid enemies to conserve your shields, weapons, and 
+   energy.
+
+*******************************************************************************
+V.     Weapons
+
+-------------------------------------------------------------------------------
+A.  Photon Cannon
+
+Your main weapon.  Aim it with the crosshair and press B to fire.  Each shot
+uses a trace amount of Energy.  Photons also emit a small amount of light and
+can be used to see in dark areas.
+
+-------------------------------------------------------------------------------
+B.  Missiles
+
+Missiles do about five times more damage than your Photon Cannon, but ammo is
+limited.  You aim missiles with the crosshair just like your cannon and press
+1 or 3 to fire.  Extra missiles can be found during missions, you can carry a
+total of 64.
+
+-------------------------------------------------------------------------------
+C.  Guided Missiles
+
+Guided Missiles do the same amount of damage as regular Missiles, but instead
+of aiming you use your targeting computer to lock-on to a target.  You can
+carry a max of 64 Guided Missiles at a time.
+
+-------------------------------------------------------------------------------
+D.  Mortars
+
+Mortars are your most powerful weapon.  They will only do damage to ground
+targets.  Mortars are lobbed at an angle, the higher the crosshair, the further
+they'll travel, the lower the crosshair, the shorter they'll go.  You can carry
+a maximum of 64 Mortars.
+
+I find that the easiest way to hit targets with Mortars is to keep the
+crosshair in the center of the screen and use the radar.  Line up the target
+so that it is exactly where the vertical line and center circle on your radar
+intersect.
+
+-------------------------------------------------------------------------------
+E.  Flares
+
+Flares will be available only during night missions.  They are fired just like
+Mortars, but instead of doing damage, they will light the area around them.
+You have an unlimited supply of Flares and using them does not appear to
+consume Energy.
+
+-------------------------------------------------------------------------------
+F.  Shields
+
+This is your life meter, every time you take damage, your shields will decrease
+and when they are gone, your hovercraft will be destroyed.  You can replenish
+your Shields during a mission by collecting Shield powerups.  Your remaining
+Shield level is displayed in the lower left of the screen.
+
+-------------------------------------------------------------------------------
+G.  Energy
+
+Energy is your fuel supply, you lose Energy while driving or firing your
+cannon.  Once your Energy supply has been completely depleted, your hovercraft
+will be destroyed.  You can replenish your Energy during a mission by
+collecting Energy powerups.
+
+*******************************************************************************
+VI.   Walkthrough
+
+Note:  You can choose to complete the missions in each level in any order.
+
+-------------------------------------------------------------------------------
+A.  Level 1
+
+...............................................................................
+1.  Vulcan Shootout
+
+Terrain:         Volcanic
+Mission Target:  2 Power Turbines
+
+Description:
+
+Two power turbines which provide energy for enemy outposts throughout the
+region have been located in this sector.  Knock out both turbines, and defend
+yourself against the Terrakian Floaters.
+
+Tips:
+
+This mission is very easy, making it a good choice for your first foray.  At
+the start of the mission, you'll be dropped right next to the first Power
+Turbine.  Use your cannon to take out the surrounding enemies first, then the
+turbine.
+
+Now head towards the next Turbine.  Use your radar to find it, it's represented
+by the large diamond.  Be sure to pick up the four powerups on the way, they
+will be represented by orange dots on the radar.  Destroy any enemies you
+encounter along the way.  Destroy the second turbine to complete your mission.
+
+...............................................................................
+2.  Amphibious Strike
+
+Terrain:         Water
+Mission Target:  2 Radar Dishes
+
+Description:
+
+Locate and destroy two radar dishes which are located on two small islands.
+You'll be encountering rough seas near these islands, so navigation and
+targeting will be difficult.
+
+Tips:
+
+The choppy seas will bounce your hovercraft up and down, this will throw off
+your targeting.  Your biggest threat will be the many magnetic mines floating
+around, shoot them with your cannon before they collide with your vehicle.
+
+Make your way to the first Radar Dish.  On the beach will be two fuel and
+shield powerups, ignore them for now.  When you reach the Radar Dish, use your
+cannon to take out the gun turret, then the dish itself.  Now collect the two
+powerups and head towards the second Radar Dish.
+
+As you approach the next dish, you'll come across three weapons powerups.
+Collect them and continue on.  Quickly take out the Radar Dish to complete your
+mission.
+
+...............................................................................
+3.  Trapped Under Ice
+
+Terrain:         Ice
+Mission Target:  4 Floater Factory Entrances
+
+Description:
+
+A giant underground Floater factory has been discovered in this icy region of
+the planet.  Knock out all four entrances to the factory and their ships and
+weapons will be trapped underground.
+
+Tips:
+
+You'll be dropped off next to the first entrance.  Shoot the entrance with your
+cannon, taking out any Floaters that emerge.  Once the entrance is destroyed,
+head left to pick up some missiles.  Make your way to the next entrance,
+destroying any enemies you encounter.  Take out the second entrance as before.
+
+Move on to the third entrance, you will need to travel through the gap in the
+wall to your north.  Continue towards the third entrance, collect any powerups
+and destroy any enemies you come across.  Once you destroy the third entrance,
+head straight for the fourth one and take it out to earn your ride home.
+
+...............................................................................
+4.  Desert Swarm
+
+Terrain:         Desert
+Mission Target:  5 Supply Shuttles
+
+Description:
+
+An enemy supply convoy will be passing through this sector to bring weapons to
+their desert outpost.  Knock out all five vehicles in their convoy to complete
+the mission.  Watch out for floating mines!  Blow them up before they can ram
+you.
+
+Tips:
+
+Head southeast towards the convoy.  As you are traveling, you'll notice a
+swarm of blue dots following your vehicle; these are the floating mines.  The
+best way to deal with them is to quickly do a 180 and nail them with your
+cannon.  Be sure to keep your eyes peeled for powerups.
+
+Once you reach the convey, start shooting the shuttles with your cannon.  As
+soon as you begin firing, they'll try to out run you.  Pursue them and keep
+firing.  The shuttles can float higher than your hovercraft so at times
+they'll float over barriers while you have to take the long way around.  After
+you've taken care of all five shuttles, your dropship will return to take you
+home.
+
+...............................................................................
+5.  Industrial Assault
+
+Terrain:         Urban
+Mission Target:  4 Missiles
+
+Description:
+
+Four enemy missile sites have been found in an industrial sector, and they must
+be destroyed.  Little is known about Terrakian technology, but scouts have
+reported back with tales of bizarre landscapes, which are extremely difficult
+to navigate.
+
+Tips:
+
+VERY easy.  Your hovercraft is capable of climbing over the structures, so
+you can head straight for the first target, collect any powerups you see along
+the way.  When you reach the silo, use your cannon to destroy the gun turret,
+then the silo.  The second silo is hidden inside a structure and the last two
+are located near one another.
+
+...............................................................................
+6.  The Unnatural Night
+
+Terrain:         Unknown (Night)
+Mission Target:  4 Light Siphons
+
+Description:
+
+Destroy four solar energy light siphons located in this region.  Your mission
+will occur at night, and the darkness will make things more difficult.  You
+will have an unlimited stock of flares to help light your way.
+
+Tips:
+
+As soon as you land, press the Option button THREE times to switch your
+secondary weapon to flares, then spray the area to light it up.  Be sure to
+keep doing this the entire mission so you'll be able to see what's going on.
+Use your lock-on often, you'll be able to see the cursor even if there's no
+light.
+
+You'll begin next to the first light siphon, destroy it and any nearby enemies
+with your cannon.  Make your way to the next target, constantly firing flares
+as you go.  After taking out the three remaining siphons, you can go home.
+
+...............................................................................
+7.  Stealth Attack
+
+Terrain:         Enemy Base
+Mission Target:  4 Radar Installations
+
+Description:
+
+A giant military base has been located in the alpha sector of the planet.
+Knock out the base's communications by destroying the four radar installations.
+
+Tips:
+
+Another relatively easy mission.  Your hovercraft is capable of scaling the
+structures so head straight for your targets.  If you are near a target, but
+are having trouble seeing it, try using your lock-on.
+
+...............................................................................
+8.  Bloodcount
+
+Terrain:         Organic
+Mission Target:  5 Fuel Pumps
+
+Description:
+
+Reconnaissance missions have discovered a vast area of organic material being
+used as a type of breeding ground.  Destroy the mysterious derricks to slow
+the enemy's operations.
+
+Tips:
+
+Easy as pie.  Use your radar to locate the targets, killing enemies and
+collecting powerups along the way.  The first pump is by itself, the second
+and third will be close together, and the fourth and fifth will also be
+grouped together.
+
+...............................................................................
+9.  The Drive for Five! (Bonus Mission)
+
+Terrain:         Bizarre
+Mission Target:  1 Floater Factory, COLLECT POWERUPS!
+
+Description:
+
+Congratulations!  You have found the first secret mission.  Your target is
+within striking distance, but first you should stock up on ammunition.
+
+Tips:
+
+You'll need to unlock this mission by holding Up, 2, 3, and 6 while on the
+Mission Select screen.  If you entered the code correctly, you'll hear a
+confirmation sound.  
+
+This mission is an absolute cakewalk!  Ignore the factory entrance and scour
+the area for powerups.  Once you've collected all of the powerups, head back
+to the factory and destroy it with your cannon to complete the easiest mission
+in the game.
+
+-------------------------------------------------------------------------------
+B.  Level 2
+
+...............................................................................
+1.  By Demons, Be Conquered
+
+Terrain:         Volcanic
+Mission Target:  12 Heavy Armored Tanks
+
+Description:
+
+A division of Terrakian tanks is located in this sector.  Destroy twelve of
+these tanks to complete the mission.  Use the numerous volcanic formations for
+cover.
+
+Tips:
+
+Depending on which strategy you use to take out the enemy tanks, this mission
+can either be extremely difficult or a turkey shoot!  The tanks are too tough
+and numerous to go toe-to-toe with, so you'll want to take them out from a
+distance.  Mortars are the perfect weapon for doing this, not only can you
+attack from beyond enemy weapon range, it only takes a single mortar to
+destroy a tank!  
+
+To target an enemy, carefully line it up on radar so that the dot is positioned
+where the VERTICAL line and the MIDDLE circle intersect (no weapon lock is 
+required), then fire a single shot to take out the tank.
+
+...............................................................................
+2.  Snow Blind
+
+Terrain:         Ice
+Mission Target:  4 Command Centers
+
+Description:
+
+Four command and control buildings are located in a hilly, snow covered are of
+the planet.  From your drop point proceed carefully to your four targets.  This
+area is heavily defended by assorted Terrakian ships.
+
+Tips:
+
+They weren't kidding about this are being heavily defended!  As soon as you
+land you'll be under attack.  Instead of standing your ground and fighting,
+the best course of action is to hit the accelerator and head towards the first
+target.  By this point, you've probably maxed out your missiles at 64, so you
+might as well use them, it takes two to destroy a Command Center.
+
+...............................................................................
+3.  Crossing Ridges
+
+Terrain:         Desert
+Mission Target:  4 Fuel Tanks
+
+Description:
+
+An enemy fuel depot has been located at the intersection of two ridge lines.
+The fuel tanks have been strategically located on opposite sides of the ridges.
+Destroy all four fuel tanks to successfully complete the mission.
+
+Tips:
+
+The ridges are shaped like a giant 'X' with one fuel tank in each of the
+angles.  Once again there are two ways to complete this mission.  The first is
+to simply follow along the ridges in a single direction, taking out the fuel
+tanks when you see them.  Not only does this take too long, but there are too
+many enemies for you to survive the trip.
+
+The second (and easier) solution is to follow a ridge to where it ends, then
+ride UP ONTO the ridge and head towards the center of the 'X'.  From up there
+you can take out the fuel tanks using a single missile with exposing yourself
+to enemy fire.
+
+...............................................................................
+4.  The Sands of Time
+
+Terrain:         Water
+Mission Target:  13 Sensor Pods
+
+Description:
+
+Thirteen sensor pods must be cleared out of this area.  Using these devices,
+enemy intelligence will be able to track our force's every move.  Most of the
+pods are in the ocean and may be difficult to find.
+
+Tips:
+
+Your radar will be crucial here.  Use it to locate the Sensor Pods, the number
+in the lower right of your radar is the number of pods remaining.  Nearly all
+of the pods will be located on rocks, if you are having trouble seeing them,
+use your lock-on to help.
+
+Fuel will be a big issue for this mission.  Try to take out all of the pods in
+an area before moving on.  Also be sure to make your shots count and to pick up
+any fuel powerups you see.
+
+...............................................................................
+5.  Armies in the Darkness
+
+Terrain:         Unknown (Night)
+Mission Target:  16 Parked Aircraft
+
+Description:
+
+A squadron of Terrakian stealth fighters have been located in this sector.
+Destroy them before they dust off.  Attack at night, and use your photons and
+flares to light the way.
+
+Tips:
+
+Not too difficult.  Constantly pepper the sky with flares to light up your
+surroundings.  Use your radar to find the planes and then destroy them with
+your cannon.
+
+...............................................................................
+6.  River of Souls
+
+Terrain:         Urban
+Mission Target:  8 Processing Stations
+
+Description:
+
+There are eight organic processing stations up and running in this sector.
+These stations are vital to the Terrakian bio-manufacturing system.  Destroy
+all eight to stop the slaughter of the colonists.
+
+Tips:
+
+The target closest to the drop zone is also the hardest to reach.  You COULD
+follow the wall left and take a long, winding path to reach it.  Or you could
+skip the side trip and just use mortars.  The rest of the targets are much more
+accessible.  Use your radar to locate them and then use your cannons
+to take them down.
+
+...............................................................................
+7.  Underground Ambush
+
+Terrain:         Enemy Base
+Mission Target:  12 Underground Blasters
+
+Description:
+
+This area of the base is guarded by a set of elevator turrets.  Knock out all
+twelve of these weapons to complete the mission.  Destroy them before they lock
+onto your position.
+
+Tips:
+
+The targets are located in groups of three.  Take them out with your cannon,
+be careful, they shoot back!  If your shield gets too low, take them out from
+a distance using mortars.
+
+...............................................................................
+8.  Tremors
+
+Terrain:         Organic
+Mission Target:  12 Underground Drillers
+
+Description:
+
+Eliminate the squadron of underground farming robots.  Look for motions on the
+surface to detect their location.
+
+Tips:
+
+The Underground Drillers are a real pain!  They will tunnel under the ground
+Bugs Bunny style then pop up and attack.  You can't attack them until they are
+above ground, take them out with your cannon when they appear.  The targets are
+divided into four groups.  Keep your eyes peeled for powerups while you are
+traveling to the third and fourth groups.
+
+...............................................................................
+9.  Barbecue (Bonus Mission)
+
+Terrain:         Hell
+Mission Target:  14 Cloaked Fighters
+
+Description:
+
+Reports have come in that the Terrakian terrorist Baba Booey is stealing
+rations from our established military command post.  Save the barbecue before
+the troops go hungry!
+
+Tips:
+
+The game's second bonus mission is a LOT more difficult than the first!  The
+Cloaked Fighters will appear as blinking dots on your radar.  When they cloak,
+not only will you no longer be able to see them, but you will also lose your
+weapons lock.
+
+Use your cannon to take out the fighters.  There will also be a lot of floating
+mines around for you to deal with.  Before destroying the final two targets,
+be sure to collect the nearby powerups.
+
+-------------------------------------------------------------------------------
+C.  Level 3
+
+...............................................................................
+1.  Hammered
+
+Terrain:         Desert
+Mission Target:  10 Trap-Door Gun Emplacements
+
+Description:
+
+We've discovered that a small valley that we plan to use as a landing zone for
+some of our forces is defended by underground trap door turrets.  Clear out all
+ten of these turrets to secure the landing zone for our landing troops.
+
+Tips:
+
+You'll come under HEAVY fire as soon as you land.  Quickly head into the small
+alcove to your south to take cover.  From here, use either mortars or guided
+missiles to take out the turrets.
+
+...............................................................................
+2.  Depths of Madness
+
+Terrain:         Water
+Mission Target:  10 Radar Dishes
+
+Description:
+
+The Terrakian warlords rely on ten radar dishes in this sector to relay
+information to their tank divisions.  Shut down this communication by
+destroying the dishes.
+
+Tips:
+
+Tough.  Starting with the fourth target, in order to reach the Radar Dishes, 
+you'll have to navigate mazes while being barraged by fire from multiple gun
+turrets.  Instead, I recommend avoiding the mazes and using mortars on the 
+dishes.  When traveling between targets, keep moving to avoid turret fire and
+be on the lookout for Floating Mines.
+
+...............................................................................
+3.  Frozen Outpost
+
+Terrain:         Ice
+Mission Target:  12 Walkers
+
+Description:
+
+A division of Terrakian walkers guard this sector of the planet.  The walker is
+one of the Terrakians most feared weapons so exercise caution when engaging
+them.
+
+Tips:
+
+Not too difficult, as long as you keep moving.  There are plenty of shield
+powerups lying around, be sure to grab them when your shields are low.  To
+take out a walker, hit it with two missiles, then a single shot of your cannon
+to finish it off.
+
+...............................................................................
+4.  Corridors of Dread
+
+Terrain:         Urban
+Mission Target:  8 Fuel Tanks
+
+Description:
+
+Locate and destroy eight fuel tanks in this sector.  Without this fuel, all
+Terrakian ships in this area will be easy targets when our attack begins.
+
+Tips:
+
+Definitely one of the easiest mission is level three.  Head straight for your
+targets, taking out enemies and picking up powerups along the way.
+
+...............................................................................
+5.  Damaged and Disconnected
+
+Terrain:         Volcanic
+Mission Target:  4 Communication Satellite Dishes
+
+Description:
+
+To prevent the Terrakians from receiving a warning of our pending attack, you
+must knock out the four Communication Dishes located in this sector.
+
+Tips:
+
+This one is also relatively easy, just keep moving and be sure to collect any
+powerups you see.  It takes two missiles to destroy a dish.
+
+...............................................................................
+6.  Burn Away the Night
+
+Terrain:         Unknown (Night)
+Mission Target:  9 Chemical Labs
+
+Description:
+
+Terrakian scientists use heavily fortified laboratories in this sector to
+experiment with dangerous biochemical weapons.  Destroy all nine buildings to
+complete the mission.
+
+Tips:
+
+The first part is the hardest, you have to make your way through ridges while
+being attacked by missile turrets.  Take it slow and destroy the turrets as
+you encounter them.  Once you are past the ridges you can head straight for the
+targets.  The Chemical Labs are located in groups of three, use your cannon to
+destroy them.  Be sure to collect the powerups near the first and third groups.
+
+...............................................................................
+7.  Crossfire
+
+Terrain:         Enemy Base
+Mission Target:  12 Fixed Gun Emplacements
+
+Description:
+
+Our forces will attack this base by entering through a network of canals.
+Destroy the twelve enemy gun emplacements that guard these canals to complete
+the mission.
+
+Tips:
+
+If you have a good supply of missiles, this is a very easy mission.  You'll be
+dropped off near a cache of powerups.  Take the guns out from a distance using
+missiles, it only takes one to destroy them.
+
+...............................................................................
+8.  Pangaea
+
+Terrain:         Organic
+Mission Target:  4 Fuel Pumps
+
+Description:
+
+More strategic derricks have been found in the organic area.  The derricks are
+extracting bio-matter to harness their energy and create bionic weaponry.
+Destroy all of these crucial targets.
+
+Tips:
+
+You'll come under fire as soon as you land.  Instead of trying to outrun
+enemies, take them out as quickly as possible.  The first and second pumps are
+by themselves and the third and fourth pumps are together.  Destroy the Fuel
+Pumps using your cannon.
+
+...............................................................................
+9.  Leonard, Is That You? (Bonus Mission)
+
+Terrain:         Extreme
+Mission Target:  4 Sensor Pods, COLLECT POWERUPS
+
+Description:
+
+Collect as many powerups as you can.  There are no shield or energy powerups,
+so clear out the targets carefully.
+
+Tips:
+
+The third bonus mission is another cakewalk.  Just head straight for the
+targets, collecting powerups as you go.  Use your cannon to take out the sensor
+pods.
+
+-------------------------------------------------------------------------------
+D.  Level 4
+
+...............................................................................
+1.  Valley of Death's Shadow
+
+Terrain:         Desert
+Mission Target:  16 Gun Turrets
+
+Description:
+
+Our invasion troops will be passing through maze-like mountains in this sector,
+but deadly enemy gun turrets guard the area.  Destroy all sixteen gun turrets
+to complete the mission.  Remember, the entire turret must be destroyed to 
+register a kill.
+
+Tips:
+
+The easiest way to accomplish your goal is to use guided missiles, it takes
+only one to destroy a turret.  There are plenty of powerups lying around, but
+be wary of lurking trap door turrets.
+
+...............................................................................
+2.  Fiercer Than All
+
+Terrain:         Ice
+Mission Target:  8 Light-Siphons
+
+Description:
+
+Destroy the eight Light Siphons which are located in this sector.  Your landing
+zone will be patrolled by a Terrakian armored division so be prepared when you
+land.
+
+Tips:
+
+There will be several tanks in the landing zone, quickly destroy them using
+missiles (five each).  If you manage to survive the beginning, the rest of the
+mission is actually pretty easy, just use your radar to find the targets and
+destroy them with your cannon.
+
+...............................................................................
+3.  The Dawn Patrol
+
+Terrain:         Unknown (Night)
+Mission Target:  10 Cloaked Fighters
+
+Description:
+
+The Terrakians have an attack craft that can cloak itself, becoming completely
+invisible to our radar.  However, they must uncloak to attack.  Eliminate ten
+cloaking floaters, stationed in this sector.
+
+Tips:
+
+Definitely the most frustrating mission in the entire game!  Not only does the
+mission take place at night, but most of the time the targets are invisible to
+your radar!  
+
+The Cloaked Floaters will appear as blinking dots on your radar (while they are
+visible).  Once they cloak, the target diamond will disappear and you'll lose
+your weapon lock-on.  It could just be me, but it seems that the targets spend
+more time cloaked when you have flares in the air, so try not shooting flares
+and sitting in the dark to draw them out.
+
+It took me several tries to complete this mission, so try to be patient.  The
+best advice I can give is to go it slow and take out all enemies as you 
+encounter them.  
+
+...............................................................................
+4.  Metal Inferno
+
+Terrain:         Volcanic
+Mission Target:  5 Nuclear Reactors
+
+Description:
+
+Five nuclear generators are operating in this volcanic sector of the planet.
+They are supplying power to Terrakian defensive forces.  You must clear the way
+for our impending surgical strike.
+
+Tips:
+
+This mission is really long and tedious.  The only challenge is finding the
+small (and well camouflaged) passages through the walls to reach the targets.
+There are some Floater Factory entrances, but if you destroy them quickly with
+your missiles, they shouldn't pose too much of a threat.
+
+...............................................................................
+5.  Canal Apocalypse
+
+Terrain:         Urban
+Mission Target:  6 Power Turbines
+
+Description:
+
+Slip into the Terrakian city and knock out the six Power Turbines which provide
+energy for the city's defense system.  One turbine is hidden and may be hard to
+locate.
+
+Tips:
+
+You'll be attacked as soon as you land.  Floor the accelerator and head towards
+the first target.  Along the way, you'll see two other turbines on your radar,
+go ahead and destroy them now using your cannon.  The final target is the
+hidden one.  Instead of hunting for the hidden path, just take it out using
+mortars.
+
+...............................................................................
+6.  Alien Shores
+
+Terrain:         Water
+Mission Target:  5 Missiles
+
+Description:
+
+A set of five missiles armed with warheads which contain deadly chemicals are
+ready to be launched against our landing forces.  Knock out the missiles before
+they can be used.
+
+Tips:
+
+Very simple.  As soon as you land, do a 180 and move to the target on the beach
+and destroy it with your cannon.  Use your radar to locate the other targets,
+as long as you keep moving, the enemies here shouldn't pose much of a threat.
+
+...............................................................................
+7.  Scabies
+
+Terrain:         Organic
+Mission Target:  30 Floaters
+
+Description:
+
+Huge numbers of the floating drones are protecting the next huge bio-matter
+harvest.  Sabotage their efforts and eliminate the drones.
+
+Tips:
+
+This is a very long but very easy mission.  Use your radar to find the targets
+they are usually in groups of two or three.  You can take them out using either
+your cannon or guided missiles.  Avoid any other enemies and be sure to pick
+up any powerups you encounter.
+
+...............................................................................
+8.  Armored Engagement
+
+Terrain:         Enemy Base
+Mission Target:  4 Sensor Pods
+
+Description:
+
+Knock out the base's early warning system by destroying the four sensor pods
+which are scattered throughout the base.
+
+Tips:
+
+Another simple mission, just keep moving and use your radar to find the
+targets.  If you are having trouble seeing a Sensor Pod, use your lock-on.
+One important thing to note is that as far as I can tell there are ZERO
+powerups in this mission!
+
+...............................................................................
+9.  Cape Ken-averal (Bonus Mission)
+
+Terrain:         Wet
+Mission Target:  16 Parked Jets, COLLECT POWERUPS
+
+Description:
+
+Planes circle the ocean protecting many powerups.  Destroy the sixteen parked
+jets to finish the mission.
+
+Tips:
+
+The jets are located in four groups of four.  There are plenty of powerups, so
+be sure to max out all three weapons.  Feel free to use guided missiles on the
+flying jets, you'll be able to replenish your supply before you end the
+mission.
+
+-------------------------------------------------------------------------------
+E.  Level 5
+
+...............................................................................
+1.  Arctic Attack
+
+Terrain:         Ice
+Mission Target:  4 Communication Satellite Dishes
+
+Description:
+
+These four dishes provide the Terrakian Space Cannons with targeting
+information.  Destroy the four dishes in this icy region to complete the
+mission.
+
+Tips:
+
+WARNING, ONLY CHOOSE THIS MISSION IF YOU HAVE A DECENT SUPPLY OF MORTARS!  One
+of the targets is behind a boundary wall and CANNOT be reached, so it must be
+destroyed from afar with mortars.
+
+Once again you'll come under attack as soon as you land, so immediately hit
+the accelerator and head towards the first target.  You'll spot two other 
+targets on the way, go ahead and destroy them now.  Like I mentioned in the
+previous paragraph, the final target is behind a boundary wall and cannot be
+reached so you MUST use mortars.  If you run out of mortars, your only option
+is to abort the mission and start over.
+
+...............................................................................
+2.  Night of Ascension
+
+Terrain:         Night (Unknown)
+Mission Target:  9 Floater Factory Entrances
+
+Description:
+
+Another giant underground factory has been discovered in this sector.  Attack
+the factory at night to take advantage of the darkness.  Destroy all nine
+factory entrances.
+
+Tips:
+
+You'll be attacked by two Patrol Floaters when you land, quickly take them out
+with your cannon.  The entrances are located in groups of three, quickly take
+them out using your missiles (it takes four each) before you are overwhelmed
+by Floaters.  Destroy the Floaters using your cannon.  You'll also need to be
+on the lookout for Cloaked Floaters and Floating Mines.  Be sure to pick up the
+powerups that are on the way to the second and third groups.
+
+...............................................................................
+3.  Desert Canyons
+
+Terrain:         Desert
+Mission Target:  4 Chemical Labs
+
+Description:
+
+Terrakian laboratories are located at the southern ends of a series of parallel
+canyons.  These canyons are connected at the northern end by an intersecting
+canyon.  Negotiate your way through these canyons and blow up all four labs to
+successfully complete the mission.
+
+Here's a crude ASCII map of the stage:
+
+ - - - - - - - - - - - - 
+ |      |      |      | 
+ |      |      |      |
+[ ]    [ ]    [ ]    [ ]
+ |      |      |      | 
+ |      |      |      |
+[ ]    [ ]    [ ]    [ ]
+ |      |      |      | 
+ |      |      |      |
+[ ]    [ ]    [ ]    [ ]
+ |      |      |      | 
+ |      |      |      |
+[X]    [X]    [X]    [X]
+
+The lines represent narrow passages, the [ ] open areas, and the X the targets.
+You begin the mission in the far lower left right next to one of the Chemical
+Labs.  As soon as you land, you'll come under heavy fire from two tanks, take
+them out as quickly as possible using missiles.  Destroy the Chemical Lab with
+your cannon.
+
+When traveling to your next target, switch from radar to compass mode.  You'll
+head north to the very top of the map then head east, then south when you come
+to the next passage.  You need to be very careful in this mission, there are
+TONS of tanks and turrets, it is imperative that you take them out while
+sustaining as little damage as possible.  There are some powerups, but they
+are heavily guarded.
+
+...............................................................................
+4.  Secret Gauntlet
+
+Terrain:         Urban
+Mission Target:  10 Processing Stations
+
+Description:
+
+More of the Terrakian processing plants have been located in this sector.  You
+may need to search through the mountains to get to some of the plants.
+
+Tips:
+
+Pretty straightforward.  Head straight for the targets using your radar.  There
+are a lot of enemies around, so try to keep moving to avoid taking damage.  
+There are some powerups lying around so be sure to collect them when you can.
+The last target is the "hidden" one, instead of hunting for the secret passage,
+just take it out using mortars.
+
+...............................................................................
+5.  Los Tiberones
+
+Terrain:         Volcanic
+Mission Target:  5 Power Turbines
+
+Description:
+
+Destroy the five power turbines which are located in this area.  You may need
+to negotiate your way through some lava canyons to reach your targets.
+
+Tips:
+
+Not too hard, just use your radar to locate the targets.  There are plenty of
+Floaters flying around carrying powerups if you need them.
+
+...............................................................................
+6.  Harvest the Sorrow
+
+Terrain:         Water
+Mission Target:  13 Sensor Pods
+
+Description:
+
+An amphibious assault will take place by our forces in this sector.  Knock out
+the area's surveillance systems by destroying all thirteen sensor pods.
+
+Tips:
+
+This mission is very tedious.  The targets are located on four different
+islands.  On each island there is a road on the westside leading up to the
+targets.
+
+...............................................................................
+7.  Black Out
+
+Terrain:         Enemy Base
+Mission Target:  8 Power Plants
+
+Description:
+
+Cripple the defense systems of the enemy base by blowing up the eight power
+stations.  Expect to be confronted by an assortment of enemy craft along the
+way.
+
+Tips:
+
+Very straightforward.  Just use your radar to locate the targets, keep moving,
+and collect any powerups you see.
+
+...............................................................................
+8.  Epistrophy
+
+Terrain:         Organic
+Mission Target:  25 Floaters
+
+Description:
+
+Your efforts to prevent the bio-farming have failed.  The enemy have created a
+deadly squadron of self-powered bionic drones.  Be careful, and keep moving to
+stay alive.
+
+Tips:
+
+Almost identical to the organic mission in level 4.  The targets this time are
+the UFOs, try to avoid contact with other enemies.  You can use either your
+cannon or guided missiles to take down your targets.
+
+...............................................................................
+9.  A Vulgar Display of Power (Bonus Mission)
+
+Terrain:         California
+Mission Target:  2 Competitive Game Manufacturers
+
+Description:
+
+You finally made it.  Thumbs tired?  Don't stop now, as you will witness the
+enormity of Fuji-City 64 ...
+
+The Hover Strike Development Team Thanks You!!!  Good Luck!!!
+
+Tips:
+
+UGH!  This mission is really long and really boring.  You have to navigate
+past a huge maze of barriers to reach the targets.  Not only is it easy to get
+lost, there are a ton of enemies and few powerups.  My advice, avoid the stage
+entirely! 
+
+-------------------------------------------------------------------------------
+F.  Level 6
+
+...............................................................................
+1.  The Final Strike
+
+Terrain:         Ice
+Mission Target:  3 Atmospheric Laser Cannons
+
+Description:
+
+Now for your final, and the most difficult targets.  The three Terrakian
+Atmospheric Cannons that protect the planet.  Remember, our forces will be
+annihilated before they land if your mission is not successful!
+
+Tips:
+
+The final mission is long and difficult.  You have to take the scenic route
+to reach the targets so you will be navigating using your compass instead of
+radar.
+
+When the mission begins, immediately head northwest, then take the path east.
+Eventually you will reach a river, follow it.  Shortly after your heading
+changes to northwest, you'll arrive at an intersection.  Take the path to the
+northeast.  Continue following the river, eventually you'll be heading towards
+the southwest.  When you arrive at the next intersection, continue heading
+southwest.  If you are on the right path, you'll soon be heading EXACTLY
+northwest.  When the river ends, continue going northwest and you'll reach the
+Laser Cannons in moments.
+
+The targets are HUGE and take a TON of ammo to destroy (10 missiles each)!  As
+soon as you destroy the third one, your mission is complete and you've won the
+game!
+
+The ending varies slightly depending on the difficulty level.  On Easy and
+Normal you will get a message telling you that you need to beat the game on
+a higher difficulty to truly prove your worth.  If you beat the game on Hard,
+you get a special congratulations message and will be shown the codes to unlock
+the bonus missions.
+
+*******************************************************************************
+VII.  Secrets and Cheats
+
+I got the following cheats from www.atariage.com:
+
+...............................................................................
+Play With Globe
+
+On the Mission Select screen you can change the size of the globe by pressing
+Up/Down on the joypad.  You can change the direction of rotation by pressing 
+4/6 on the numpad.
+
+...............................................................................
+Bonus Lives
+
+To add an extra bonus life, while on the Mission Select hold 3, 6, 9, and #.
+If you did it correctly, you'll hear a confirmation sound.  You can have up to
+9 lives at a time.
+
+...............................................................................
+Bonus Missions
+
+You can unlock a bonus mission in each of the first five levels.  If you enter
+the code correctly, you'll hear a confirmation tone.  Please note that if you
+turn off the power before playing a bonus mission, you'll have to unlock the
+mission again.
+
+While on the Mission Select screen, hold down the following:
+
+Level 1   Up, 2, 3, 6
+Level 2   Down, 2, 6, 7, 8
+Level 3   Right, 3, 5, 6
+Level 4   Up, 2, 5, 8
+Level 5   Right, 2, 4, 5, 6
+
+...............................................................................
+Debug Mode
+
+To enable Debug Mode, press and hold Up, A, B, C, and 6 during gameplay.  The
+top right number is the current frame rate.
+</pre><pre id="faqspan-2">
+...............................................................................
+Level Skip
+
+To skip ahead to the next level, while on the Mission Select screen, hold
+2, 4, 6, 7, 8, 9.
+
+...............................................................................
+Enable Night Missions
+
+To turn an ordinary mission to a night one, hold Up, A, B, C, and 7 during
+gameplay.  Flares will automatically be added to your arsenal.
+
+...............................................................................
+Unlimited Weapons, Energy, and Shields
+
+To enable unlimited ammo/invincibility, while on the Mission Select screen hold
+Down, 3, 4, 6, and 7.
+
+...............................................................................
+Vector Graphics Mode
+
+To enable Vector Graphics Mode, hold Up, A, B, C, and 3 during gameplay.
+
+*******************************************************************************
+VIII.    Hover Strike and HS: Unconquered Lands Comparison
+
+Hover Strike: Unconquered Lands was released a few months after the original
+Hover Strike.  HS: Unconquered Lands is actually NOT a sequel, it's more like
+a do-over.  Here is a list of what's new and/or different in the CD version:
+
+-  The biggest change is that the controls have been fixed!  You now have the
+   option of turning off the hovercraft physics (inertia, recoil, etc.).  A
+   reverse button has also been added.
+
+-  You have the option of turning off damage from falls and collisions with
+   terrain.
+
+-  Ten new missions have been added.
+
+-  Full Motion Video clips have been added.
+
+-  The cd version has a two save slots, the cartridge only one.
+
+-  The background story at the beginning now scrolls "Star Wars" style.
+
+-  The graphics have been updated.  Texture maps have been added and the frame
+   rate is a bit higher than in the cartridge version.
+
+-  The music is much higher quality.
+
+-  The lighting effects in night missions have been improved and flares are
+   much more effective.
+
+-  The music track cheat no longer works, but now there is a cheat that enables
+   vector graphics.
+
+-  The reverse button has been added to the overlay.
+
+*******************************************************************************
+IX.     Game Review
+
+Hover Strike: Unconquered Lands was released for the Jaguar CD just months
+after the cartridge version.  Not a sequel, it's more of a do-over that fixes
+nearly all of the problems that plagued the original.
+
+The most important difference is that they fixed the controls!  You now have 
+the option of turning off the hovercraft inertia and damage recoil.  You can 
+also now move in reverse at the press of a button.
+
+The graphics have also been improved.  Texture maps have been added and the
+frame rate is a smidge better.  The music is now CD quality and is among the
+best of any game for the Jaguar.
+
+The other two selling points are the new full motion videos and ten additional
+missions.  While they seem nice on paper, they don't really add anything to
+the game.
+
+Hover Strike: Unconquered Lands is a marked improvement over the original and
+one of the better CD games available for the Jaguar.  Even if you hated the
+original Hover Strike, I definitely recommend giving HS: Unconquered Lands a
+try.
+
+
+Pros
+
++  HUGE improvement over the cartridge version, the graphics, music, and
+   controls are MUCH better.
++  Awesome soundtrack.
++  Two player co-op.
+
+Cons
+
+-  The ten new missions are exactly the same as the other ones.
+
+*******************************************************************************
+X.    Version History
+
+1.0   08/20/09   Completed FAQ.
+
+*******************************************************************************
+XI.   Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+End

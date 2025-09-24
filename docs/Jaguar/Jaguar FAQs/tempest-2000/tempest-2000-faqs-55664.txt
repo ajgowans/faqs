@@ -1,0 +1,586 @@
+*******************************************************************************
+Tempest 2000 for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.2
+Created  02/06/09
+Updated  04/01/16
+
+This document Copyright © 2009, 2016 by Brian Hodges.  It may not be placed on
+any web site or otherwise distributed publicly without advance written
+permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Controls
+IV.    Enemies
+         A.  Flippers
+         B.  Spikers
+         C.  Spikes
+         D.  Fuseballs
+         E.  Pulsars
+         F.  Tankers
+         G.  Mutant Flippers
+         H.  Mirrors
+         I.  Demon Heads
+         J.  UFOs
+V.     Powerups
+         A.  Particle Laser
+         B.  Zappo 2000
+         C.  Jump Enabled
+         D.  SuperZapper
+         E.  Warp Bonus Token
+         F.  Out of Here
+         G.  A.I. Droid
+         H.  Yes! Yes! Yes!
+VI.    Traditional (Tempest)
+         A.  Overview
+         B.  Strategies
+VII.   Tempest Plus
+         A.  1 Player
+         B.  A.I. Droid
+         C.  2 Player Team
+VIII.  Tempest 2000
+         A.  Overview
+         B.  Strategies
+         C.  Keys
+         D.  Warp Bonus Rounds
+               1.  Overview
+               2.  Round 1
+               3.  Round 2
+               4.  Round 3
+IX.    Tempest Duel
+         A.  Tempest Duel
+         B.  Solo Practice
+         C.  Strategies
+X.     Secrets and Cheats 
+         A.  Beastly Mode
+         B.  Rotary Controller
+         C.  Warp Skip
+         D.  Level Skip
+         E.  Invisible Web
+         F.  Sheep
+XI.    My Best scores
+XII.   Game Review
+XIII.  Version History
+XIV.   Contact Information
+
+*******************************************************************************
+I.  Introduction
+
+This is a FAQ for the Atari Jaguar game Tempest 2000.  It contains information
+on how to play, strategies, cheats, and a mini-review.
+
+Tempest 2000 is an updated version of the classic Atari arcade game Tempest.
+The game features updated graphics, a fantastic soundtrack, and new game modes
+while managing to retain the core gameplay that made the original so much fun
+to play!
+
+*******************************************************************************
+II.  Getting Started
+
+While on the title screen, press B to bring up the Main Game Menu.  On this
+menu, you can choose which of the four game modes you wish to play.
+
+While on the Main Game Menu, you can press Option to bring up the Game Options
+menu.  Here you are given the option of modifying the display settings or
+control settings.
+
+Control Setup lets you change the button configuration while Display Setup
+lets you change the display settings.
+
+*******************************************************************************
+III.  Controls
+
+A Button:     Jump
+B Button:     Fire/Select menu items
+C Button:     SuperZapper
+Option:       Call up Game Options Menu from the Main Game Menu
+Pause:        Pauses the game
+Left:         Move Blaster clockwise/left
+Right:        Move Blaster counterclockwise/right
+1, 4, 7:      Default Web view moves in relation to how you move
+2, 5, 8:      Locked Web View
+3, 6, 9:      Close-up view moves in relation to how you move
+0:            Turn music on or off
+# and *:      Restart game
+
+*******************************************************************************
+IV.  Enemies
+
+Here are the enemy descriptions from the instruction booklet:
+
+...............................................................................
+A.  Flippers
+
+Flippers are bowtie-shaped aliens that arise from the core and move toward the
+rim.  Flippers can move from one corridor to the next by flipping over a
+corridor boundary, firing missiles along the way.  Should they reach the rim,
+Flippers will flip towards you and can capture your Blaster by making contact
+with it.
+
+...............................................................................
+B.  Spikers
+
+Spikers produce Blaster-crushing Spikes that whirl in from the core along the
+center of a corridor.  The Spiker builds a Spike to a random height, then
+rides the Spike back down to the core and continues the process in another
+corridor, launching missiles along the way.
+
+...............................................................................
+C.  Spikes
+
+Spikes are razor-sharp lines along the middle axis of the corridors that can
+destroy your Blaster when you warp from the rim through the hole.  Destroying
+a Spike takes several shots as you must break it down piece by piece.
+
+...............................................................................
+D.  Fuseballs
+
+Fuseballs are five multi-colored, multi-segmented lines joined at their ends
+to produce a Medusa-like wriggling form.  Fuseballs are not constrained by the
+corridor side boundaries, but move outward or inward when in the corridor.
+Fuseballs are constrained by the rim but will descend off the rim back through
+the hole when along a corridor boundary.  Fuseballs can be destroyed by a 
+shot or SuperZapper, but cannot be shot when riding a corridor boundary.  If a
+Fuseball touches your Blaster, you're history.
+
+...............................................................................
+E.  Pulsars
+
+Pulsars are expanding and contracting lightning bolt-like forms that transform
+from a straight line into a zigzag.  Pulsars move from the core towards the 
+rim and can move between corridors by flipping in a manner similar to Flippers.
+Beware!  Pulsars are harmless as a flat line.  But when a Pulsar pulses, like
+a switch that closes an electrical circuit, it will electrify the entire
+corridor.  When this happens the corridor will flash as a warning.  If you are
+on the corridor, you will fry.
+
+...............................................................................
+F.  Tankers
+
+Tankers are diamond-shaped objects that move from the core toward the rim and
+are constrained to a single corridor.  Tankers contain other objects and,
+depending on the level, contain Flippers, Fuseballs, or Pulsars; the type of
+object can be determined by the appearance of the Tanker.
+
+When a Tanker is hit by fire from your Blaster, or approaches the rim of the
+hole, the contents of the Tanker are released.  No points are scored for the
+destruction of the Tanker if it self-destructs upon reaching the rim.
+
+...............................................................................
+G.  Mutant Flippers (Tempest 2000 only)
+
+Mutant Flippers are more hostile than Flippers and attack at a much faster
+speed.
+
+...............................................................................
+H.  Mirrors (Tempest 2000 only)
+
+Mirrors are just that -- they reflect your fire back in your face.  Mirrors
+climb up the web and stop in front of you -- blocking on-coming enemies.  The
+best way to destroy a Mirror is to fire and dodge, as Mirrors are defenseless
+when launching lasers.  In Tempest Duel, you are armed with Mirrors.
+
+...............................................................................
+I.  Demon Heads (Tempest 2000 only)
+
+Demon Heads are very aggressive and extremely deadly.  Beware!  When hit, a
+Demon Head's horns will fly off and head straight for your Blaster.
+
+...............................................................................
+J.  UFOs (Tempest 2000 only)
+
+Perhaps the most elusive of all enemies, UFOs fly above the web and fire 
+lightning bolts at your Blaster.  The only way to destroy a UFO is to jump over
+him and blow him back into the stratosphere.
+
+*******************************************************************************
+V.  Powerups
+
+Powerups are only available in Tempest 2000.  They appear after destroying
+some enemies.  Powerups will rise to the top of the web, to collect one, simply
+touch it with your Blaster.
+
+Powerups always appear in this order:
+
+Particle Laser, Zappo 2000, Jump, Zappo 2000, A.I. Droid, Zappo 2000, Warp
+Bonus Token, Zappo 2000
+
+...............................................................................
+A.  Particle Laser
+
+The Particle Laser gives you Blaster faster and more powerful shots.
+
+...............................................................................
+B.  Zappo 2000
+
+A Zappo 2000 grants you 2000 extra bonus points.
+
+...............................................................................
+C.  Jump Enabled
+
+This powerup allows you to jump by pressing A.  While jumping you can still
+move around the web and shoot.
+
+...............................................................................
+D.  SuperZapper
+
+The ultimate weapon, the SuperZapper instantly fries all enemies on the web.
+You only get one charge per web, it will be automatically recharged once you
+complete a web.
+
+...............................................................................
+E.  Warp Bonus Token
+
+Collecting this will unleash a free SuperZapper.  Collect three tokens to
+enter one of three warp levels.  Successfully completing a warp level allows
+you to skip five levels ahead.
+
+...............................................................................
+F.  Out of Here
+
+This gives you an extra 5000 points and will instantly end the web.
+
+...............................................................................
+G.  A.I. Droid
+
+The A.I. Droid floats around the top of the web and shoots at enemies.  It 
+cannot be hurt by enemies, however it won't follow you to the next web.
+
+...............................................................................
+H.  Yes! Yes! Yes!
+
+Touching a powerup while exiting a web results in a Yes! Yes! Yes!  This will
+cause the first powerup on the following web to give you an A.I. Droid.
+
+*******************************************************************************
+VI.  Traditional (Tempest)
+
+...............................................................................
+A.  Overview
+
+This is a port of the arcade original.  In traditional mode, you are armed
+with only your Blaster and SuperZapper, there are no other powerups available!
+The object of the game is to shoot the enemies before they make their way to 
+the top of the web.  Coming in contact with an enemy or their shots means
+instant death.  Once you have defeated all enemies on the web, you will be 
+taken to the next web and your SuperZapper will be recharged.
+
+...............................................................................
+B.  Strategies
+
+-  Keep moving and keep firing!  Learn how to time your shots to minimize the
+   cool down period between bursts.
+
+-  Use your SuperZappers wisely.  You only get one charge per web, so wait
+   until you absolutely need to use it.
+
+-  If a Flipper makes it to the top of the web, don't panic!  It's still 
+   possible to destroy him; the easiest way is to stand still and wait until
+   he is just about to land on you, then hold down the fire button.  If you 
+   timed it right, he should be destroyed.
+
+-  Watch out for Spikes, if you hit one while exiting, you will have to repeat
+   that web all over again!  You can still destroy Spikes when exiting, so
+   it's a good idea to hold down fire until you've left the web completely.
+
+*******************************************************************************
+VII.  Tempest Plus
+
+There are three different modes in Tempest Plus:
+
+...............................................................................
+A.  1 Player
+
+This is basically Traditional Tempest with updated graphics.
+
+...............................................................................
+B.  A.I. Droid
+
+This is the same as 1 Player Tempest Plus with one huge difference, you will
+now be accompanied by an A.I. Droid!  The droid will constantly fire on enemies
+and cannot be destroyed.
+
+This mode is great for beginners!
+
+...............................................................................
+C.  2 Player Team
+
+This is a two player co-op mode.  It's exactly the same as 1 Player Tempest
+Plus except now there are two Blasters.  Player 1's Blaster will be yellow
+and Player 2's green.  Players share lives and the SuperZapper (you still only
+get one SuperZapper per web).
+
+*******************************************************************************
+VIII.  Tempest 2000
+
+...............................................................................
+A.  Overview
+
+Tempest 2000 is the main mode on the cartridge.  It is a drastic update of the
+arcade original.  Besides the obvious graphical and audio upgrades, new 
+enemies, powerups, and mini-games have been added.
+
+...............................................................................
+B.  Strategies
+
+-  Collecting powerups is key to survival.  Be sure not to miss any.
+
+-  Once you collect the Jump, use it as much as possible.
+
+-  Let your A.I. Droid take out more dangerous enemies such as Pulsars and
+   Demon Heads.
+
+-  Wait for a Pulsar to fire, then quickly kill it before it has a chance to 
+   recharge.
+
+-  Start the game on the first web.  This gives you time to build up your score
+   and extra lives before reaching the more difficult levels.
+
+...............................................................................
+C.  Keys
+
+Keys act as save slots and are awarded when your game ends beyond level 17.
+The cartridge can save a maximum of four Keys.
+
+Your key saves the highest ODD numbered level (17 & up) that you have 
+successfully completed.  For example, if you die on level 25 your key will be
+for level 23 since that was the last odd numbered level you beat.
+
+You "save" by entering your initials on the high score screen.  Re-using 
+initials will update the existing key instead of creating a new one.
+
+Whenever you start a new game of Tempest 2000 you can choose "Just Start" to
+begin at level 1 or "Use a Key" to select one of the available Keys.
+
+Example:
+
+-  You die on level 23 and enter the initials DA.  There is now a key for DA
+   to start at level 21 because 21 was the last odd level you beat.
+
+-  You play a second time and die on level 32.  You enter the initials ABC.
+   There is now a key for ABC to start at level 31.
+
+-  You play a third time and die on level 19.  You enter the initials DA.
+   Because a key already exists for DA, new key is not created.  The highest
+   level is the one that is saved so the key remains at level 21.
+
+If you were to select the Use a Key option after this example, you would see
+two keys listed: a DA key for level 21 and an ABC key for level 31.
+
+...............................................................................
+D.  Warp Bonus Rounds
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.  Overview
+
+There are three different Warp Bonus Rounds in Tempest 2000.  You enter a
+Warp Round by collecting three Warp Bonus Tokens.  The goal of each one is to
+make it to the end of the round.  If you make it to the end of the round, you
+will skip five levels, otherwise you will start at the next web.
+
+Upon successful completion of a warp round, you will get a confirmation message
+stating that you have earned 20,000 bonus points and skipped ahead five levels.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.  Round 1 (sometimes called "Jupiter" or "Bacon" round)
+
+The goal here is to fly through all the rings.  Empty rings give you bonus
+points and the ones with arrowheads increase your speed.  There are actually
+two "floors" here one above and one below the "river".  If you don't see any
+more rings ahead you need to quickly move through the river to the next set of
+rings.  Miss a single ring and the round is over.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.  Round 2 (Sometimes called "Green Path" round)
+
+The goal here is to stay on the green path.  You will continually earn points
+while staying on the path.  If you stray from the path, your "tail" will
+shrink.  Once you lose your tail, the round is over.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.  Round 3 (Sometimes called "Acid" round)
+
+Round 3 is basically a psychedelic rehash of round 1.  The goal here is to
+once again fly through all the rings.
+
+*******************************************************************************
+IX.  Tempest Duel
+
+...............................................................................
+A.  Tempest Duel
+
+Tempest Duel is a two player versus mode.  You are given the option of playing
+one round, best of three, or best of five.  You can also choose which type of
+web you wish to play on.
+
+The two Blasters are located on opposite ends of the web (player one is on
+the left and player two on the right).  Each player begins a round with five
+lives, you win once your opponent loses their last life.  Each player's
+Blaster is equipped with a Mirror that will reflect opponent's shots.  Be
+careful, your Mirror will be lowered when you fire your Blaster, leaving you
+defenseless!
+
+Every web in Tempest Duel contains a Purple Generator.  The generator will
+create Red and Blue Flippers.  The Red Flippers will attack player one, while
+the Blue Flippers attack player two.  The Purple Generator cannot be destroyed,
+however, your shots will cause it to move towards your opponent.
+
+Depending on the web, there may be one or more Cubes.  Cubes bounce between
+the two ends of the web, once it reaches one end, it will instantly fry that
+player's Blaster.  Like Purple Generators, Cubes cannot be destroyed, but
+your shots will cause it to move towards your opponent.
+
+...............................................................................
+B.  Solo Practice
+
+Like the name implies, Solo Practice allows a single player to play Tempest
+Duel.  It plays just like Tempest Duel except your opponent never moves and his
+mirror is always up.  It's a real shame they didn't bother adding the option
+to play against an AI.
+
+...............................................................................
+C.  Strategies
+
+-  Always keep moving.
+
+-  Know which color Flippers are the ones attacking you.  Concentrate on these.
+
+-  Try shooting the Purple Generator to move it as close to your opponent as
+   possible.  This will give you more time and him less to destroy Flippers.
+
+-  Watch out for the Cubes, once they fry one Blaster, they will automatically
+   head towards the other one.
+
+*******************************************************************************
+X.  Secrets and Cheats
+
+I found the following in the Atari Jaguar Official Gamer's Guide:
+
+...............................................................................
+A.  Beastly Mode
+
+Finish all 99 levels of Tempest 2000 to unlock Beastly Mode, a hard mode for
+Tempest 2000.  In Beastly Mode, your Blaster fires MUCH slower than normal,
+but the point values are doubled!  Once you have unlocked Beastly Mode, a
+message will appear at the bottom of the level select screen telling you to
+press Option for Beastly Mode.
+
+...............................................................................
+B.  Rotary Controller
+
+On the Game Options screen, press and hold Pause on controllers one and two.
+A third option called Controller Type will appear.  This will allow you to
+switch between Joypad and Rotary.
+
+No rotary controller was officially released for the Jaguar, but some hobbyists
+have made some by converting standard Joypads.  These will sometimes appear for
+sale on sites like eBay.
+
+Note:  This will be permanent, the only way to remove this from the menu is to
+       do a memory reset.
+
+...............................................................................
+C.  Warp Skip
+
+Note:  This code works only in Tempest 2000.
+
+On the Main Game Menu (where you choose which mode of Tempest to play), move
+the cursor to the game version you want to play.  Then hold down 1, 4, 7, and 
+* and press A to start the game.  If you did it right, the "Excellent" sound
+will be slower. 
+
+During gameplay hold down either 3 and 6 or 6 and 9.  The message Warp Enabled
+should appear.  Now press Option to enter the warp round.
+
+...............................................................................
+D.  Level Skip
+
+Note:  This code works on all three solo Tempest modes.
+
+On the Main Game Menu (where you choose which mode of Tempest to play), move
+the cursor to the game version you want to play.  Then hold down 1, 4, 7, and 
+* and press A to start the game.  If you did it right, the "Excellent" sound
+will be slower.  Now simply press Option at any time during the game to skip
+to the next level.
+
+...............................................................................
+E.  Invisible Web
+
+If you use the level skip code in Tempest Plus to go to the rainbow levels,
+the webs there will be invisible.
+
+...............................................................................
+F.  Sheep
+
+The music in the first warp level contains an Easter egg.  If you pause the
+game during that level and press A to adjust the music, near the end of the
+track will be the sound of sheep bleating.
+
+(If this seems odd to you, Jeff Minter, the game's designer, has two pet
+sheep).
+
+*******************************************************************************
+XI.  My Best scores
+
+Tempest              78,033
+Tempest Plus (1P)   153,144
+Tempest 2000        625,349
+
+*******************************************************************************
+XII.  Game Review
+
+This is how remakes should be done!  Jeff Minter updated the graphics, sounds,
+and added some new twists, but also managed to preserve the core gameplay.
+Tempest 2000 is one of the best games available for the Atari Jaguar and is an
+absolute must own.
+
+Pros
+
++  Fantastic update of an arcade classic.
++  Twitch gameplay at its best.
++  Awesome soundtrack.
++  Multiple game modes to choose from.
++  Two player co-op and vs. modes.
+
+Cons
+
+-  No two player mode in Tempest 2000.
+-  No AI opponent option for Tempest Duel.
+-  The gameplay may seem simple and repetitive to some gamers.
+
+*******************************************************************************
+XIII.  Version History
+
+1.2   04/01/16   Updated Introduction, Keys, and Contact Information sections.
+                 Updated the Header and made formatting changes throughout.
+
+1.1   06/27/09   Updated Game Review section.
+
+1.0   02/06/09   Created FAQ.
+
+*******************************************************************************
+XIV.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+Please leave constructive comments.  I especially appreciate emails letting me
+know if I have made a mistake, missed anything, or if you have any ideas for
+improving this FAQ.
+
+*******************************************************************************
+
+
+
+End

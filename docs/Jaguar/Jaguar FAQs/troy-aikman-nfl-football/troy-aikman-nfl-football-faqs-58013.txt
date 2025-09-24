@@ -1,0 +1,612 @@
+*******************************************************************************
+Troy Aikman Football for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  10/18/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Basic Gameplay
+         A.  Controls
+         B.  Offense
+         C.  Defense
+         D.  Special Teams
+         E.  Salaries
+         F.  Custom Plays
+         G.  Miscellaneous
+IV.    Team Stats
+         A.  AFC West
+         B.  AFC Central
+         C.  AFC East
+         D.  NFC West
+         E.  NFC Central
+         F.  NFC East
+V.     Timeout Bug
+VI.    Game Review
+VII.   Version History
+VIII.  Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Troy Aikman Football.  It contains a
+list of controls, strategies for playing, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Press any of the fire buttons on the Title Screen to bring up the Options
+Screen.  While on the Options Screen, use the joypad to highlight an item and
+press A or C to scroll through the available choices.  Press B when you are
+finished
+
+...............................................................................
+Team One
+
+Player 1's team.
+
+...............................................................................
+Team Two
+
+Player 2's team.
+
+...............................................................................
+Play Modes
+
+1 Player (Helmet)
+
+  -  Play a one player game.
+
+1 Player Coach (Headset)
+
+  -  Coach a game, you select the plays, but the CPU will control all the
+     action.
+
+2 Player (2 Helmets)
+
+  -  Play a two player game, if you are playing a season mode, each player gets
+     to choose their own team.
+
+2 Player Coach (2 Headsets)
+
+  -  Play a two player game where both players are coaches, players call plays
+     and the CPU controls the action.
+
+Demo
+  
+  -  Watch the CPU play.
+
+...............................................................................
+Season
+
+Pre-Season
+
+  -  Pick any two teams to play a single game.
+
+94-95 Season
+  
+  -  Pick a team and play the full season to try to make it to the Super Bowl.
+
+Custom Season
+
+  -  Create your own season schedule.
+
+...............................................................................
+Game Location
+
+Choose where a Pre-Season game will be played.
+
+...............................................................................
+Quarter Length
+
+Set the quarter length to 2, 5, 10, or 15 minutes.
+
+...............................................................................
+Field
+
+Change the playing conditions of a Pre-Season game.  Pick between Grass, Mud,
+Dirt, Snow, Rain, and Artificial Turf.
+
+...............................................................................
+Music
+
+Pressing 0 on the numpad will toggle the music on/off.
+
+...............................................................................
+Sound Effects
+
+Toggles the sound effects on/off.
+
+...............................................................................
+Penalties
+
+Toggles penalties on/off.  When penalties are turned off, you will still be
+called for delay of game, but anything else goes...
+
+...............................................................................
+Difficulty Level
+
+Set the difficulty level to Rookie, Pro, or Veteran.
+
+...............................................................................
+Credits
+
+Press 5 while on the Options Screen to view the credits.
+
+...............................................................................
+Save Game Screen
+
+Choose if you want to load a save, overwrite a save, or not save.
+
+...............................................................................
+Memory Clear
+
+While on the Options Screen, you can clear the cartridge's memory by holding
+Option, *, and #.
+
+*******************************************************************************
+III.   Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Offense
+
+Joypad         Moves player
+A Button       Call Audible A, Throw ball to Player A, Dive
+B Button       Hike Ball, Throw ball to Player B, Attempt Catch, Spin
+C Button       Call Audible C, Throw ball to Player C, Speed Boost
+Numpad 1 or 6  Left stiff arm, Cycle player clockwise
+Numpad 2 or 5  Snap & Auto pitch, Become runner, Jump/Hurdle
+Numpad 3 or 4  Throw ball away, Right stiff arm, Cycle player counter-clockwise
+Pause          Pause the game
+Option         Pause the game & bring up Option Menu
+
+Defense
+
+Joypad         Moves player
+A Button       Call Audible A, Dive
+B Button       Select closest defender, Scroll clockwise
+C Button       Call Audible C, Speed Boost
+Numpad 1       Select previous defender
+Numpad 2 or 5  Jump
+Numpad 3       Select next defender
+Pause          Pause the game
+Option         Pause the game & bring up Option Menu
+
+Kicking
+
+Joypad Left/Right  Adjust kick direction
+A Button           Adjust formation to onside kick (right side)
+B Button           Stop power gauge and kick
+C Button           Adjust formation to onside kick (left side)
+
+-------------------------------------------------------------------------------
+B.  Offense
+
+Calling Plays
+
+When calling a play, use the Joypad to scroll through the screens and press
+A, B, or C to call that play.  Pressing Left/Right will reverse the play to
+it's mirror image.
+
+When on the field, press A, B, or C to call and audible and change your play.
+The A, B, and C buttons correspond to the custom plays you design (or the
+defaults if you decided not to waste your time).  Pressing the same button
+again cancels the audible and returns you to your original play.
+
+Passing
+
+Passing in this game is easy, just press B to snap the ball, then press the
+corresponding button to pass to that player.  If all your receivers are covered
+you can press 2 to become a runner and try to run, or you can press 3 to throw
+the ball away.
+
+Running
+
+Running plays operate just like pass plays, in fact a little too much like pass
+plays!  With the exception of 10 Yard Fight, I have never played another
+football game where the quarterback doesn't automatically hand off the ball!
+If you call a running play, you have to PASS the ball to the running back, so
+be sure to note which button (I think it's almost always C) is assigned to him.
+You have the option of snapping the ball using the 2 button INSTEAD of B.  This
+will cause the quarterback to hand off the ball automatically, but there are
+three drawbacks to this.  First it's awkward, you'll have to look down to find
+the button which ties in to the next drawback.  If you are playing a two player
+game, your opponent will be able to see you pressing the 2 button and will know
+a running play is coming.  Lastly, it could just be my imagination, but it
+seems to me that using the Auto Pitch makes the running back more likely to
+fumble the hand off.
+
+Money Plays
+
+Most football games from the 80's through mid 90's had what were referred to as
+"Money Plays".  Money plays are offensive plays that almost always result in
+huge gains.  Not only does Troy Aikman Football have money plays, but they are
+actually pointed out to you!  You'll notice three plays that have a Dallas
+Cowboys star in the background, these are Troy's Pitch, Troy's Short Cut, and
+Troy's Lookie.  All three of these are EXTREMELY effective, but Troy's Lookie
+is especially reliable, you can usually complete a pass to B in at least four
+of every five tries!
+
+-------------------------------------------------------------------------------
+C.  Defense
+
+It is important to choose the correct defensive play for the current down and
+yardage.  For long yardage situations, I recommend either the Fake Blitz or
+Dime plays.  For short yardage, I recommend Block Kick!  That's right, calling
+a Block Kick on a running down will unleash an avalanche on the opposing team
+and usually results in a loss of yardage.  It is especially effective in goal
+line stands.
+
+There are two main ways to play defense.  The first is to select a player on
+the line and try to rush the quarterback.  The other is to select a player in
+the middle of the field and play pass defense, pressing the 2 button to try
+to knock the ball down.  I seem to have more success playing as a pass defender
+but it is really up to you.
+
+Before the quarterback snaps the ball you can call an audible.  Calling an
+audible allows you to change your defensive formation.  Pressing A will tell
+your defenders to Blitz and pressing C will tell them to go to man to man
+coverage.  Press the same button again to return to the original formation.
+If the offense is lining up for a field goal, pressing A will put you into
+a Block Kick formation and pressing C will put you into a Prevent (i.e. pass)
+defense.  If they are lined up for a punt, press A to call a Block Punt and
+C for a Punt Return.
+
+-------------------------------------------------------------------------------
+D.  Special Teams
+
+Kicking/Punting
+
+The kicking gauge is in the lower left of the screen.  You will see an arrow
+moving up and down to indicate kicking strength and a flag that shows wind
+direction.  Pressing Left/Right on the Joypad will change the direction of
+the kick as indicated by the arrow in the bar that says L and R.  Press the
+B button to stop the kicking gauge and start the kick.  The higher the gauge,
+the stronger the kick, but if you stop it above the white line, the kick will
+be less accurate.  Please note that when punting or attempting a field goal,
+you cannot adjust kick direction until AFTER the snap!
+
+If you press the 2 or 5 buttons after the snap, you will call a fake kick and
+will be able to pass or run the ball.
+
+After a kickoff or punt, you will control the kicker, you may notice that he
+is extremely fast!  Hold down the C button and rush straight for the kick
+returner to prevent him from gaining yards!
+
+Receiving
+
+When you are receiving the ball, remember that you have to press the B button
+to tell the player to catch the ball, otherwise there is a high probability
+he will drop the kick.  If you press the 1 & 3 buttons together while the ball
+is in the air, you will signal for a Fair Catch and once you catch the ball,
+the play will be over.
+
+-------------------------------------------------------------------------------
+E.  Salaries
+
+At the start of each half you have the chance to adjust your players' salaries
+to boost their stats.  Use the joypad to highlight a position, then press A
+to increase and B to decrease the salary.  Decreasing a salary will add HALF of
+the amount back to your budget.  Pressing B allows you to switch between 10K
+and 100K increments.
+
+You start the season with 100K in your budget and you earn 60K for each win
+(there is no reward for losing!).
+
+Here's a chart showing the correspondence of salary to stars:
+
+        2500K   Maximum Salary
+2500K - 1900K   4 Stars
+1890K - 1250K   3 Stars
+1240K -  630K   2 Stars
+ 620K -  120K   1 Star
+         120K   Minimum Salary  
+
+-------------------------------------------------------------------------------
+F.  Custom Plays
+
+Note:  Custom Plays are NOT saved, even in Season Mode, so once you turn off
+       the power, they are gone!
+
+At the beginning of each half, you have the option of creating three custom
+plays to use on offense.  This is really just a gimmick, but it does give you
+a chance to get creative...  You choose which play to customize by pressing
+1, 2, or 3 on the numpad, you can switch between these at any time while on
+the Custom Plays Screen.
+
+The first thing you set is the formation, press A/C to cycle through to the
+one you want.  The available formations are STANDARD, SHOTGUN, RUN CENTER, RUN
+STRONG, and RUN WEAK.  Press the B button when you are done.
+
+Press B, 4, or 6 to cycle through the players.  Press A or C to change the
+route (for some reason it is NOT displayed in the diagram, instead it is 
+displayed in the small box in the lower right of the screen).  Once you have
+the route you want, move on to the other players.  Once you are done (or bored)
+press Option to start the half.
+
+-------------------------------------------------------------------------------
+G.  Miscellaneous
+
+-  The best three teams in the game are the Cowboys, 49ers, and Bills.
+
+-  The absolute worst team is the Bengals, only choose them if you are looking
+   for a real challenge!
+
+-  If you accidentally call the wrong play, call a timeout and try again.
+
+-  Remember that to pick up a fumble (loose ball) you have to press the B
+   button!
+
+-  When all else fails, cheat!  Exploit the timeout bug (see section V) to
+   rack up the score.
+
+*******************************************************************************
+IV.    Team Stats
+
+-------------------------------------------------------------------------------
+A.  AFC West
+ _____________________________________________________________________
+|              | Broncos  | Chiefs   | Raiders  | Chargers | Seahawks |
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | ****     | ****     | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | **       | ***      | **       | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | **       | **       | **       | ****     | *        |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | ***      | ***      | ****     | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | ****     | ***      | **       | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | ***      | ***      | ****     | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| **       | ***      | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | ****     | ***      | ****     | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | ***      | ***      | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | ***      | ***      | ***      | ****     | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| **       | ****     | ***      | ***      | ***      |
+|______________|__________|__________|__________|__________|__________|
+
+-------------------------------------------------------------------------------
+B.  AFC Central
+ _____________________________________________________________________
+|              | Bengals  | Browns   | Oilers   | Steelers |          |
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | *        | **       | *        | **       |          |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | **       | ****     | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | *        | ***      | ***      | **       |          |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | **       | ***      | ***      | **       |          |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | *        | **       | ***      | ****     |          |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | **       | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| **       | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | **       | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | **       | ***      | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | **       | **       | ***      | **       |          |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| **       | ***      | ***      | **       |          |
+|______________|__________|__________|__________|__________|__________|
+
+-------------------------------------------------------------------------------
+C.  AFC East
+ _____________________________________________________________________
+|              | Bills    | Colts    | Dolphins | Patriots | Jets     |
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | ****     | **       | ****     | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | ****     | ****     | ***      | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | ***      | *        | ***      | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | ****     | **       | ***      | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | ***      | **       | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | **       | **       | ****     | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| ****     | **       | ***      | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | ***      | **       | **       | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | ***      | ***      | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | ***      | **       | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| ***      | **       | ***      | **       | **       |
+|______________|__________|__________|__________|__________|__________|
+
+-------------------------------------------------------------------------------
+D.  NFC West
+ _____________________________________________________________________
+|              | Falcons  | Rams     | Saints   | 49ers    |          |
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | ***      | **       | *        | ****     |          |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | **       | ****     | **       | ****     |          |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | **       | **       | **       | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | ***      | ***      | ***      | ****     |          |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | **       | **       | **       | ****     |          |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | ****     | **       | ****     | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| ***      | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | ***      | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | ****     | **       | ***      | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | **       | **       | ****     | ***      |          |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| **       | **       | ***      | ***      |          |
+|______________|__________|__________|__________|__________|__________|
+
+-------------------------------------------------------------------------------
+E.  NFC Central
+ _____________________________________________________________________
+|              | Bears    | Lions    | Packers  | Vikings  |Buccaneers|
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | **       | **       | ***      | ****     | *        |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | ***      | ****     | **       | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | ***      | **       | **       | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | **       | **       | ****     | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | **       | **       | **       | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | ***      | **       | **       | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| ***      | ***      | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | ***      | ***      | ***      | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | ***      | ***      | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | ***      | ***      | ***      | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| ***      | ***      | ****     | ****     | **       |
+|______________|__________|__________|__________|__________|__________|
+
+-------------------------------------------------------------------------------
+F.  NFC East
+ _____________________________________________________________________
+|              | Cowboys  | Giants   | Eagles   | Cardinals| Redskins |
+|--------------|----------|----------|----------|----------|----------|
+|Quarterback   | ****     | ***      | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Halfback      | ****     | ***      | ***      | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Fullback      | ***      | **       | **       | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Wide Receiver | ****     | ***      | ***      | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Tight End     | ***      | **       | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Kicker/Punter | **       | ***      | ***      | **       | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Offensive Line| ****     | ***      | **       | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Safety        | ***      | ****     | ***      | ***      | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Corner Back   | ***      | ***      | ****     | ***      | ***      |
+|--------------|----------|----------|----------|----------|----------|
+|Line Backer   | ***      | ***      | ***      | **       | **       |
+|--------------|----------|----------|----------|----------|----------|
+|Defensive Line| ****     | ***      | ***      | ***      | ***      |
+|______________|__________|__________|__________|__________|__________|
+
+*******************************************************************************
+V.     Timeout Bug
+
+Special Thanks go to The Atari Times (www.ataritimes.com) for posting this on
+their website!
+
+There is a bug in the game that will allow you to score extra touchdowns.  As
+soon as you score a touchdown, call a timeout.  You will get the ball back on
+the 0 yard line and will still have the six points you just scored!  You can
+keep doing this as long as you have timeouts.
+
+WARNING:  If you call a timeout after your OPPONENT scores a touchdown, THEY
+will get the ball, so be careful!
+
+*******************************************************************************
+VI.    Game Review
+
+Troy Aikman Football is the only true football game that was released for the
+Atari Jaguar.  It is a direct port of the 16-bit versions, the visuals, sounds,
+and gameplay have not been improved in the slightest and doesn't even come 
+close to taking advantage of the Jaguar's hardware.
+
+The game includes the standard modes, you can play a single game or an entire
+season.  The gameplay itself is okay, but doesn't feel nearly as polished as
+Madden.  Even the ending is a disappointment, you just get a "Congratulations"
+message from Troy, even Tecmo Super Bowl for the NES had cutscenes!
+
+The controls are very awkward, the game makes extensive use of the numpad, but
+doesn't include an overlay, I have to keep the instruction manual in my lap
+because I have to refer to it so often!  One thing that takes a lot of getting
+used to is the fact that during running plays, the ball is NOT automatically
+handed off to the running back, you have to press the pass button!  The
+designers must have realized players would hate this, because there is a
+SECOND snap button on the numpad that you can press and the ball will be
+handed off automatically, but using the numpad is awkward.  Even worse, if
+you are playing against a human, snapping the ball with the numpad tips them
+off that you've called a running play!  The other huge problem is that you have
+to press the B button to tell a player to catch a ball.  The instruction manual
+doesn't do a good job of emphasizing this, I couldn't figure out why my 
+receivers and kick returners kept dropping the ball and finally found it in
+the manual.
+
+You have the ability before each half to create three custom plays.  This
+isn't as useful as it sounds because it takes too long and the game doesn't 
+save these, so you'll have to create them again each time you play, so you're
+really better off just using the canned plays.
+
+While playable, Troy Aikman Football can't compare to the SNES and Genesis
+versions of Madden.  The lack of polish really shows in the little things, like
+not being able to see team stats on the Team Selection screen or the awkward
+control scheme.  Only diehard Jaguar fans that feel a need for a true football
+game should consider picking this one up.
+
+Pros
+
++  The only true football game released for the Jaguar.
++  Has the NFL license.
+
+Cons
+
+-  A.I. cheats.
+-  Controls are overly complicated.
+-  Graphics are terrible, the SNES and Genesis Madden games look better.
+-  Lacks the NFLPA license, so no player names.
+
+*******************************************************************************
+VII.   Version History
+
+1.0   10/18/09   Completed FAQ.
+
+*******************************************************************************
+VIII.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+End

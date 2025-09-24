@@ -1,0 +1,282 @@
+
+                                      THE UNOFFICIAL
+        |\                       
+        | \    _____________________________________        
+        |  \                                        |       
+        |   \ ___  __ ___         | ___  _      ____|           
+        |   / __  |_  __  |\ |  __| __  |_|    /  __   __   __   
+        |__/  ___ |   ___ | \| |__| ___ | \   /  |  | |  | |  |  
+                                             |  |__| |__| |__|     
+                             - F  A  Q -     |_________________  
+ 
+                   
+                                                    
+                                                     
+                              /_\      ==========  ____/ > > >
+   /_\                   /_\                          \
+                          "       _____                _____
+          _____    __     "      | O O |  _____       | O O |
+   __    | O O |  |::|    "      | O O | | O O |   __ | O O |
+  |::|   | O O |  |::|    X      | O O | | O O |  |::|| O O |
+__|::|___| O O |__|::|____"__X___| O O |_| O O |__|::|| O O |   
+                                           Maintained by JAM
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+This FAQ is in no way connected to Atari Corp.
+
+All information is tentative to final release.
+Certain features/elements may not be included in the final
+version.  This game is being developed by Jeff Minter's muse,
+and therefore anything can change without notice on a whim.
+
+No portion of this document can be reproduced with the intent
+for profit.  Notification of reproduction would be nice! :)
+
+Send comments/contributions to:  MARSTELLER@wcdc03.pgh.wec.com
+
+                                                Last update:  3/7/95
+################################################################
+- WHAT IS DEFENDER 2000?
+
+        Defender 2000 is based upon the original arcade game 
+        manufactured by Williams in the early eighties with a 
+        90's spin.  It is being programmed by Llamasoft, namely
+        Jeff Minter.
+
+        It will offer fast, smooth graphics while
+        retaining excellent playability.  Jeff's personal goal
+        for the game:  "To make your thumbs bleed!"
+
+
+################################################################
+- WHAT IS THE PLOT?
+
+As society evolved, our natural resources became depleted.  We 
+searched for other ways to supplement these resources.  Today, 
+teams of Miners excavate a nearby Asteroid Belt for its life-
+supplying minerals.  As a member of an elite System Defense Team, 
+it is your job to ensure the safety of the Asteroids and the 
+workers that live on them.
+
+But all is not roses.
+
+The hostile Alpha Proximian Empire has failed at an invasion of 
+our planet.  With their failure, they have issued an attack on 
+the Asteroid Mining Belt.  The Alpha Proximian Empire knows that 
+if they can destroy our resources, we will be helpless - and they 
+will rule.  The invasion fleet has orders to abduct the Humanoids 
+working in the belt.  Knowing that their life is doomed, the 
+Humanoids will kill them selves upon leaving the Asteroid's 
+atmosphere.  In this situation, the 'energy' of the Humanoid will 
+be absorbed into the Lander's ship and turn it into a Mutant.
+
+This is were you come in, with your attack ship AKA "Threshold", 
+the salvation of the planet relies in your many years of 
+training.  Kill all the aliens before the Humanoids are 
+sacrificed or the Asteroid will be destroyed along with the place 
+that you call "Home".
+
+
+################################################################
+- WHO ARE THE *KNOWN* PLAYERS?
+
+      YOU:      The Threshold 2000 (Attack Ship)
+ FEATURES:      Sub-light engines, hyper-reverse, hyperspace.
+  WEAPONS:      Lazer torpedo gun unlimited ammo (feeds off engines).
+                Smart bombs, Limited.
+                Llightning Llaser (Classified, but kicks butt).
+                A.I. Droid, Extra set of eyes and lazers
+                              that thinks for itself.
+
+     THEM:      Landers- Capture Humanoids and kill them.
+                Mutants- Hyper fast kamikaze killer.
+                Bombers- Plant stationary charges.
+                Baiters- Very fast with very accurate aim.
+                Pods- Not hostile until engaged.
+                Swarmers- Small, mean enemies (formerly Pods).
+
+
+
+################################################################
+- WHAT ARE THE DIFFERENT GAMES IN D2K?
+
+
+
+        Defender 2000 is a combination of three games:
+
+                1.   Defender Classic
+                2.   Defender Plus
+                3.   Defender 2000
+
+        DEFENDER CLASSIC:  
+        The name says it all.  A carbon copy of the original.
+        This version will contain sampled sound effects from
+        the original arcade game.
+
+        DEFENDER PLUS:
+        Defender Plus retains the same format as the classic
+        With a few twists.
+        Expect to see more detailed animations of the game
+        characters, new weapons, and most of the features of 
+        Defender's sequel - Stargate!  There will also be a new
+        control method.  A new routine for the game's explosions
+        will cause the average player to enter a hypnotic state 
+        and worship llamas.
+        The A.I. Droid from T2K will make a return appearance
+        with a larger dose of intelligence.  These Droids, I say
+        Droids because you can accumulate two, will toast nearby 
+        enemies as well as rescue falling humanoids.
+
+        DEFENDER 2000:
+        Anything Goes!  Look for lots of new meanies and mega
+        weapons.  Go Vertical, scroll that is.  2000 will offer
+        horizontal and vertical movement of your Defender allowing
+        for some big guys to fill the screen.  Beautiful, detailed
+        backgrounds will offset the nasty bad guys.  Just for 
+        variety each level will have multiple and different themes.
+
+
+################################################################
+- WHAT KIND OF MUSIC WILL THE GAME HAVE?
+
+        YES!  The score for D2K will be performed by the same
+        musicians (Imagitec) that created the rippin tunes from T2K.  
+        The musicians should have at least twice the MEG to 
+        work with (the project is leaning toward the CD media).
+        
+        A feature call "Q Sound" will be utilized in the game.
+        "Q Sound" is a recording process which produces three
+        dimensional sound from conventional stereo speakers.
+
+        A music feature that was absent from T2K, a sound check,
+        may be available in the finished version of D2K.
+        Expect to hear some sweet samples in the soundtrack.
+        And don't be surprised to hear a beastie bleating or mooing
+        in there somewhere!  I wonder who thought of that? :)
+
+
+################################################################
+- HOW MANY PLAYERS?
+
+        Right now the main focus is on a one player game.  But
+        there are a few maybes:
+        
+                Two players with player #2 controlling the A.I. Droid
+
+                Two players with a split screen for the 2K version.
+
+        JagNET and Modem capabilities not yet decided.
+
+        * Remember that these are NOT definite!
+
+################################################################
+- HOW MANY LEVELS?
+
+        Lots!  Expect it to surpass T2K by containing 100 or 
+        more levels!
+
+
+################################################################
+- WHAT IS THE GAME CONTROL LIKE?
+
+   In Classic there are two modes:
+
+        1. Standard: up/down/left/right on the joypad,
+                         no Thrust button
+
+        2. Arcade: a configurable pad with Thrust/Reverse buttons
+
+
+
+In Plus/2K contains Standard controls with the additions:
+        
+        Holding the fire button will produce continuous rapid fire. 
+        While firing use left/right, and you can accelerate in 
+        either direction while holding the ship orientation 
+        constant.  This will allow you to shoot at an enemy 
+        while retreating from it.
+
+        Button C:  Smart Bomb
+        Button B:  Fire
+        Button A:  Llightning Llaser/Tractorbeam
+        Keypad keys 3,6,9,#:  Hyperspace
+
+
+################################################################
+- WILL THERE BE ANY EASTER EGGS?
+
+        Yes.  Jeff is planning to have a lot.  The more there are,
+        the more people will talk about the game.
+        Some of the EEs being considered:
+
+        Turn all the humanoids into llamas.
+
+        Turn you ship into Flossie the Prettiest Sheep in the World.
+
+        Some hidden Llamasoft classic games.
+
+
+################################################################
+- WHAT OTHER FEATURES WILL THE GAME CONTAIN?
+
+        Bonus Rounds!  D2K will contain transitional bonus rounds
+        similar to T2K.  Expect them to be based upon the same
+        mind altering 1st perspective rounds in T2K.
+
+        Game AI.  One of the major complaints of the original Defender
+        game was the difficulty of learning how to play the game.
+        The learning cure has been flattened to allow 'Greenhorns'
+        to become addicted to the game instead of becoming 
+        frustrated and tossing the cart.  Expert players need not
+        fret, for the higher levels are challenging even to the
+        gamers with three eyes.  This way everyone will enjoy the 
+        game.
+
+        If the game is pressed to a CD.  There may even be some 
+        Defender history worked into the game.  The possibility
+        of an interview with Eugene Jarvis the creator of Defender,
+        Stargate and Robotron has been discussed.
+        
+        60Hz, 60Hz, 60Hz!  This game is going to be FAST!
+
+
+################################################################
+                                - RUMORS -
+
+        There may be an occasional 'Offender' wave where you get
+        to commit alien genocide.
+
+
+################################################################
+                        - OTHER D2K SOURCES -
+
+HTTP sites:
+
+        The Jaguar Homepage  http://www.bucknell.edu/~svensson/
+                - contains general game information
+
+        Yak's Zoo  http://hyrax.med.uth.tmc.edu/misc/zoo/zoo.htm
+                - Get it from the goat's mouth
+
+
+################################################################
+                        - CONTRIBUTORS/SOURCES -
+
+Jeff Minter and Flossie
+Me, Myself and I
+Electronic Games:  Volume One, Number Six - August, 1982
+
+Special Thanks:
+        Christian "SVEN" Svensson
+        Atari, for planting the seed when I was 10.
+
+Can't get any simpler than this!
+
+################################################################
+Send Comments, Suggestions and Contributions to:
+
+Internet mail:  MARSTELLER@wcdc03.pgh.wec.com
+                        Jim Marsteller Jr. - JAM
+                        412-244-6667
+
+

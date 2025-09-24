@@ -1,0 +1,750 @@
+*******************************************************************************
+Kasumi Ninja for Atari Jaguar FAQ/Move List
+
+by BHodges
+
+Version  1.0
+Created  08/24/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+         A.  One Player Story Mode
+         B.  Two Player V.S. Mode
+         C.  Difficulty
+         D.  Game Options
+IV.    Basic Gameplay
+         A.  Controls
+         B.  Combat
+         C.  Death Moves
+         D.  Basic Strategies
+V.     Fighters
+         A.  Habaki
+         B.  Senzo
+         C.  Chagi
+         D.  Alaric
+         E.  Thundra
+         F.  Pakawa
+         G.  Danja
+         H.  Angus MacGreggor
+         I.  Lord Gyaku
+         J.  Demon Gyaku
+VI.    Secrets and Cheats
+         A.  Inputting the Codes
+         B.  Reset Gore Code
+         C.  Start With Temple Key
+         D.  Debug Mode
+         E.  Same Character
+         F.  Tiny Fighters
+         G.  Play as Gyaku
+VII.   Game Review
+VIII.  Special Thanks
+IX.    Version History
+X.     Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ/Move List for the Atari Jaguar game Kasumi Ninja.  It contains
+a list of controls, the special moves for all characters, and a mini-review.
+
+*******************************************************************************
+II.    Background Story
+
+Here is the background story from the instruction booklet:
+
+Discover the Mystery ...
+
+For many generations, rumors have persisted of a small, well-hidden island
+known as Kasumi, which has produced the world's most renowned ninjas.  With the
+help of the Preeminent Celestials, the island is kept shrouded in secrecy.  An
+impenetrable wall of mist surrounds the island, making it undetectable to
+modern technology.  Those who find the island uninvited, are never heard from
+again.
+
+All your life you have trained hard in body and spirit at the only home you
+have known: the Dragon Cloud Temple on Kasumi Island.  At the temple you are
+trained by the Elders, a group of three wise and powerful Ninjas.  This group
+of Elders consists of Hei, who embodies the lighter aspects of human nature;
+Kaioh, who embodies the aspect of indifference; and Gyaku, who embodies the
+darker side of human nature.  This balance of good and evil is what keeps the
+portal to the netherworld closed.
+
+Using the blackest magic, Gyaku eliminated the other two Elders, throwing the
+cosmic forces out of alignment.  When this happened, the gate to the demon
+world was blown open and Gyaku became possessed by the most powerful demon in
+the netherworld.  With this power, Gyaku could destroy the Earth!
+
+Your fate has been preordained by the Celestials to fulfill a great and
+terrible prophecy.  You were told this by the Elders when you were very young.
+Throughout your life you wondered what it meant.  Now you are sure it is your
+destiny to defeat Gyaku, close the gate to the netherworld and restore balance
+to the universe.
+
+The Celestials cannot help you directly, but they have blessed you with the
+power of absorbing other's abilities.  To gain these abilities, you must defeat
+a variety of champions representing the best fighters in the world.  They have
+been chosen by the Celestials to aid you in your quest.  Only through
+persistence and perseverance, you will have a chance to challenge Gyaku.
+
+*******************************************************************************
+III.   Getting Started
+
+Press B on the Title Screen to bring up the Main Menu:
+
+-------------------------------------------------------------------------------
+A.  One Player Story Mode
+
+Choose this to begin the main game.  You will start in a room with two statues,
+choose one as the fighter you'll play as.  Then you'll be asked to choose your
+opponent.  After defeating an opponent, they'll become playable.  After
+defeating all six opponents, if you are playing on Normal or higher difficulty,
+you'll face Lord Gyaku.
+
+-------------------------------------------------------------------------------
+B.  Two Player V.S. Mode
+
+Begins a two player game.  Player One chooses his or her fighter first, then
+Player Two chooses.  You can NOT pick the same character unless you have
+entered the Same Player code (see Secrets and Cheats section.)  Player Two
+will then get to choose where you fight.
+
+-------------------------------------------------------------------------------
+C.  Difficulty
+
+This displays the current difficulty level, it can be changed by pressing B.
+
+-------------------------------------------------------------------------------
+D.  Game Options
+
+...............................................................................
+Difficulty
+
+Allows you to set the difficulty to either Easy, Normal, Hard, or Ninja God.
+On Easy, you will not face Lord Gyaku and on Normal you will be unable to face
+Demon Gyaku.
+
+...............................................................................
+Gore Level
+
+There are four different gore levels, the higher the level, the higher the
+gore.  Death Moves are only available on the Gore Fest setting and this setting
+is only available with the Parental Lock set to OFF.
+
+...............................................................................
+Parental Lock
+
+Toggle the Parental Lock on or off.  If it is on, the Gore Fest gore level will
+not be available and therefore neither will Death Moves.  You must input your
+Gore Code in order to turn this off.
+
+...............................................................................
+Gore Code
+
+This allows you to enter a new or change an old Parental Lock code.  Your Gore
+Code must be 6 digits and is entered using the numpad.  If you forget the code,
+you can reset it by following the instructions listed in the Secrets and Cheats
+section.
+
+...............................................................................
+Time Limit
+
+Allows you to change the time limit.
+
+...............................................................................
+Story Text
+
+The will toggle the story text that scrolls after a few seconds on the Title
+Screen on or off.
+
+...............................................................................
+Credits
+
+This will display the credits.
+
+...............................................................................
+OK
+
+Select OK to save your changes and return to the Main Menu.
+
+*******************************************************************************
+IV.    Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joypad Up          Jump
+Joypad Left/Right  Move Fighter
+Joypad Left        Block
+Joypad Down        Duck
+A Button           Press Once To Punch, Repeatedly For Rapid Punches
+B Button           Kick
+C Button           Hold To Perform Special Moves (see Move Lists for details)
+Down + B           Sweep Kick
+Up + B             Jump Kick
+Back + B           Roundhouse
+
+Numpad 0           Toggles Music On/Off
+Numpad * + #       Resets Game
+
+
+-------------------------------------------------------------------------------
+B.  Combat
+
+Each match is a best of three (vs. Gyaku is best of five).  Each opponent's
+life is represented by a sword, the more damage they take, the bloodier it
+gets.
+
+-------------------------------------------------------------------------------
+C.  Death Moves
+
+Once you defeat your opponent for the second time, you'll hear a voice say
+"Show No Mercy!" and your opponent will be staggered.  You will have a short
+amount of time to enter your character's Death Move (fatality) to dispatch
+your opponent in a gruesome manner.  Please note that Death Moves are only
+available with the Parental Lock OFF and the Gore Level at Gore Fest!
+
+-------------------------------------------------------------------------------
+D.  Basic Strategies
+
+-  I recommend that when you are starting out, begin by playing Two Player mode
+   by yourself so you can get used to the controls and practice Special Moves.
+
+-  Learn how to use Habaki/Senzo since they are the only two fighters available
+   at the beginning.
+
+-  The standard Jump Kick followed by a Sweep Kick combo works well on all of
+   your opponents, even Demon Gyaku!
+
+-  When you are at a distance, constantly throw projectiles.
+
+*******************************************************************************
+V.     Fighters
+
+Move Key:   F = Forward, B = Backwards, U = Up, D = Down, P = Punch, K = Kick
+            C = C Button (Hold during entire move), + means press together, and
+            a comma (,) means press in sequence.
+
+            Some directions will be combined, for example UF means to press
+            diagonally between Up and Forward on the joypad.
+
+Note:  Death Moves are only available with the gore option set to Gore Fest.
+
+-------------------------------------------------------------------------------
+A.  Habaki
+
+Age:     28          Height:  5' 10"
+Weight:  148 lbs.    Style:   Ninjitsu
+
+Description:
+
+Habaki is the eldest son (by ten minutes) of the Kiri-gakure family.  At an
+early age the twin brothers were left in the care of the monks at the Dragon
+Cloud Temple.  The two brothers were equally adept at the arts, both
+spiritually and physically.  The Elders, noticing the great skill of the twins,
+offered them a chance to advance their arts by training as disciples under one
+of the Elders.  Habaki was chosen by Kaioh and Senzo was chosen by Hiei.  There
+have also been rumors of Gyaku taking a disciple, but no one has ever seen his
+student.  During tournaments held at the Dragon Cloud Temple, the twins always
+cause a special interest because of their fierce competitiveness.  The final
+match always comes down to the two brothers and each have won an equal number
+of Championships over the years.
+
+Move List:
+
+  Elbow:  P + F
+  Throw:  P + B
+  Teleport:  Hold C and press U, U
+  Fireball:  Hold C and press B, BD, D, DF, F
+  Whirlwind Kick:  Hold C and press B, B, F, F
+  Death Move:  Hold C and press B, U
+
+Notes:
+
+Habaki is a palette swap of Senzo, the only difference is the Death Move
+sequence.  He is one of the two fighters available at the beginning of Story
+Mode.  You won't face him as an opponent.
+
+-------------------------------------------------------------------------------
+B.  Senzo
+
+Age:     28          Height:  5' 10"
+Weight:  152 lbs.    Style:   Ninjitsu
+
+Description:
+
+Habaki is the eldest son (by ten minutes) of the Kiri-gakure family.  At an
+early age the twin brothers were left in the care of the monks at the Dragon
+Cloud Temple.  The two brothers were equally adept at the arts, both
+spiritually and physically.  The Elders, noticing the great skill of the twins,
+offered them a chance to advance their arts by training as disciples under one
+of the Elders.  Habaki was chosen by Kaioh and Senzo was chosen by Hiei.  There
+have also been rumors of Gyaku taking a disciple, but no one has ever seen his
+student.  During tournaments held at the Dragon Cloud Temple, the twins always
+cause a special interest because of their fierce competitiveness.  The final
+match always comes down to the two brothers and each have won an equal number
+of Championships over the years.
+
+Move List:
+
+  Elbow:  P + F
+  Throw:  P + B
+  Teleport:  Hold C and press U, U
+  Fireball:  Hold C and press B, BD, D, DF, F
+  Whirlwind Kick:  Hold C and press B, B, F, F
+  Death Move:  Hold C and press U, D
+
+Notes:
+
+Senzo is a palette swap of Habaki, the only difference is the Death Move
+sequence.  He is one of the two fighters available at the beginning of Story
+Mode.  You won't face him as an opponent.
+
+-------------------------------------------------------------------------------
+C.  Chagi
+
+Age:     28          Height:  5' 6"
+Weight:  142 lbs.    Style:   Kickboxing
+
+Description:
+
+Chagi Nelson, five time world kickboxing champion, has never lost a
+professional bout.  Even at the tender age of sixteen, Chagi KO'd his very
+first opponent in the first round.  Chagi has trained all over the world,
+mixing different martial arts to develop a style all his own.  Loud and
+obnoxious, Chagi has the ability to back up his big mouth with a dazzling
+display of speed and skill.  Chagi currently owns a chain of successful
+kickboxing schools and convenience stores.  He has also been seen in many
+popular action films such as: Under-seize; the Sci-Fi dance thriller the
+Lambadanator; and the most famous of his films, the Kickboxing Kidd series I -
+XII.  He can also be seen currently on TV's Trudger: Lodi Private Eye.
+
+Move List:
+
+  Elbow:  P + F
+  Throw:  P + B
+  Knee to Crotch:  Hold C then press F, F, K
+  Fireball:  Hold C then press B, F, F
+  Hammer Kick:  Hold C then press B, U
+  Death Move:  Hold C then press F, A, F, P
+
+Notes:
+
+Chagi is tough and fast.
+
+-------------------------------------------------------------------------------
+D.  Alaric
+
+Age:     26          Height:  6' 0"
+Weight:  198 lbs.    Style:   Brawling
+
+Description:
+
+Some of history's most feared and ferocious warriors were the Goths.  The Goths
+were a nomadic tribe from Northern Europe who would travel the continent in
+search of battles to join so that they might pillage and kill, their two
+greatest joys!  The most ruthless of the Goths was their king, Alaric.  Not
+only was he a renowned fighter, he was also a skillful tactician, leading his
+tribe to certain victory time and time again.  One of his greatest
+accomplishments was his imaginative use of gunpowder in many dangerous and
+unique ways.
+
+Move List:
+
+  Throw:  K + B
+  Lunging Punch:  P + F
+  Knee to Crotch:  K + F
+  Goth Hammer:  Hold C then press F, U
+  Power Slide:  Hold C then press B, BD, D, DF, F
+  Dynamite:  Hold C then press D, DB, B, BU, U
+  Death Move:  Hold C then press F, B, F, K
+
+Notes:
+
+When fighting Alaric, he'll use his Slide repeatedly.  Press Down and Back to
+block it, then follow it up with a Sweep Kick.
+
+-------------------------------------------------------------------------------
+E.  Thundra
+
+Age:     21          Height:  5' 10"
+Weight:  130 lbs.    Style:   Feral
+
+Description:
+
+Thundra is the queen of a lost tribe of Amazon warriors.  These warriors have
+taken a solemn oath to protect the rainforest from modern industrialists who
+wish to destroy it for their own profit.  This is done by surgically sabotaging
+vital equipment and assassinating high ranking company officials.  Thundra is
+their greatest warrior and as a result, she was appointed queen.  She has
+trained her warriors in a fighting art handed down for generations.  This art
+was taken directly from the forces of nature and those who have mastered this
+art can channel their inner power to imitate the fury of nature.
+
+Move List:
+
+  Throw:  P + B
+  Lunging Punch:  P + F
+  Teleport:  Hold C then press D, U
+  Jungle Strike:  Hold C then press F, F, F
+  Jungle Lunge:  Hold C then press B, F, F
+  Death Move:  Hold C then press U, U, F
+
+Notes:
+
+Thundra is the only fighter without a projectile attack.
+
+-------------------------------------------------------------------------------
+F.  Pakawa
+
+Age:     32          Height:  5' 9"
+Weight:  210 lbs.    Style:   Wrestling
+
+Description:
+
+Pakawa is the chief of the Comanche fighting tribe, the Tu-Wee-Kah.  For many
+years the Comanches lived in harmony with nature.  When the colonists settled
+in, the Comanches welcomed them with open hearts.  As time went on, the
+colonists grew greedy and started to forcefully take the land from the
+Comanches, with no respect for the Comanche life.  Pakawa decided to train a
+group of elite warriors and called them the Tu-Wee-Kah.  The Tu-Wee-Kah were
+the equivalent of the Green Berets of their time and they were the ones who
+were sent in first to stealthily assassinate the opposition and disable key
+positions, the rest of the tribe would then attack.  Pakawa has been in many
+battles and he is proud of the many scalps that he has collected.
+
+Move List:
+
+  Throw:  K + B
+  Lunge High:  P + B
+  Lunge Low:  P + F
+  Ground Stomp:  Hold C then press B, U, U
+  Knife:  Hold C then press B, BD, D, DF, F
+  Headbutt:  Hold C then press F, F, F
+  Death Move:  Hold C then press F, D, F, B 
+
+Notes:
+
+-------------------------------------------------------------------------------
+G.  Danja
+
+Age:     23          Height:  5' 8"
+Weight:  128 lbs.    Style:   Street Fighting
+
+Description:
+
+By day Danja Ureda is an assistant DA fighting in court to lock up criminals
+and keep the streets safe.  By night, she is a Vigilante, fighting in a
+different court, where she is judge, jury, and executioner!  Danja grew up on
+the wrong side of the tracks, but she studied hard in school and became an
+exceptional student.  As a result, she was persecuted by her classmates and had
+to quickly learn the laws of the street to survive.  When Danja graduated from
+high school (as Valedictorian) she was quickly offered multiple scholarships
+for her academic and athletic abilities.  She worked hard in college, and
+studied self-defense and exotic weapons to increase her street fighting skills.
+She earned straight A's and was accepted to Harvard Law School, were she
+specialized in criminal law.  Graduating at the top of her class, she was
+offered many prestigious positions, but decided to take a job with the District
+Attorney in the inner city instead.  She soon realized how corrupt the justice
+system really was and decided to use her street fighting skills to take the law
+into her own hands.  Danja has mixed the martial arts she learned in college
+with her streetfighting tactics and her personal preference for a weapon, the
+bolas.  These bolas have been modified to administer her brutal brand of
+justice, giving them a real bang for their buck.
+
+Move List: 
+
+  Elbow:  P + F
+  Throw:  P + B
+  Teleport:  Hold C then press D, U, U
+  Bolas:  Hold C then press B, B, B, F
+  Death Move:  Hold C then press U, U, B
+
+Notes:
+
+For a Street Fighting "expert", she sure has a paltry move set ...
+
+-------------------------------------------------------------------------------
+H.  Angus MacGreggor
+
+Age:     26          Height:  6' 1"
+Weight:  210 lbs.    Style:   Brawling
+
+Description:
+
+Angus MacGreggor is the Blacksmith of his village Loch Katrine, as was his
+father and his father's father before him.  The constant pounding of hot iron
+has made Angus a burly man.  Legend of Angus' strength quickly spread to the
+other clans of Scotland and as a result he was constantly challenged to tests
+of strength.  These tests included wrestling, boxing, and weight lifting.
+Angus always won easily, but he always had high praise for his opponents,
+especially at their funerals.  Angus soon discovered that he loved to brawl and
+became obsessed with fighting.  Any pub Angus visited soon encountered a severe
+lack of both furnishings and patrons.  Angus soon ran out of those who would
+challenge him, causing him much anger.  This anger grew inside of him every
+day, like a fire consuming his soul.  Now Angus has dedicated his life to
+finding a worthy opponent, one who might be able to give him the fight of his
+life.
+
+Move List:
+
+  Throw:  P + B
+  Caber Toss:  Hold C then press D, U
+  Headbutt:  Hold C then press D, F
+  Fireball:  Hold C then press B, BU, U, UF, F
+  Death Move:  Hold C then press F, B, D
+
+Notes:
+
+Angus cannot Sweep Kick.
+
+-------------------------------------------------------------------------------
+I.  Lord Gyaku
+
+Age:     34          Height:  5' 11"
+Weight:  154 lbs.    Style:   Ninjitsu
+
+Description:
+
+The evil Possessed Ninja you must defeat to keep the portal to the Demon World
+closed.  Gyaku has spent many years in Ninja Training.
+
+Move List:
+
+  Elbow:  P + F
+  Throw:  P + B
+  Teleport:  Hold C and press U, U
+  Fireball:  Hold C and press B, BD, D, DF, F
+  Whirlwind Kick:  Hold C and press B, B, F, F
+  Death Move:  Hold C and press B, U
+
+Notes:
+
+You will not face Lord Gyaku in the Easy difficulty.  The match with Gyaku is
+a best of FIVE.
+
+Use the Jump Kick/Sweep Combo to defeat Lord Gyaku.  If he manages to get some
+distance between you, he'll repeatedly throw fireballs, use your Teleport to
+get close to him.
+
+When you win, if you are playing on Hard or Ninja God, then DO NOT USE A DEATH
+MOVE OR ANY OTHER ATTACK!  If you do, then you won't be able to face Demon
+Gyaku and get the best ending.
+
+-------------------------------------------------------------------------------
+J.  Demon Gyaku
+
+Age:     ?           Height:  7' 2"
+Weight:  340 lbs.    Style:   Mauling
+
+Description:
+
+Gyaku has become possessed by the most powerful demon in the netherworld.
+
+Move List:
+
+  Earthquake:  K (must be away from opponent)
+  Shake & Toss:  K (must be near opponent)
+  Firebreath:  P + F
+  Uppercut:  P
+  Jump Kick:  U,P or UF, P
+  Slam & Taunt:  P + B
+  Death Move:  Hold C then rotate joypad clockwise twice
+
+Notes:
+
+In order to faced Demon Gyaku and get the true ending, you must play the game
+in Hard or Ninja God difficulty.  When you defeat Lord Gyaku, DO NOT USE A
+DEATH MOVE OR ANY OTHER ATTACK!  You will then face Demon Gyaku in a best of
+FIVE match.
+
+If you die fighting Demon Gyaku, when you continue, you'll have to fight Lord
+Gyaku again!
+
+I find the easiest way to defeat Demon Gyaku is to use the Jump Kick/Sweep
+Kick Combo.  Try to stay close to him so he won't use his Earthquake attack.
+
+Defeat Demon Gyaku to get the best ending.
+
+*******************************************************************************
+VI.    Secrets and Cheats
+
+I found the following codes on www.ataritimes.com.
+
+-------------------------------------------------------------------------------
+A.  Inputting the Codes
+
+To input these codes, you need to A) Have two controllers plugged in and B)
+have already input a Gore Code.
+
+On the Options Screen choose Change Code.  While holding the A and C buttons on
+controller two, input the code on controller one using the numpad.
+
+Note:  You will get a message saying "Wrong Code" even if you input the code
+       correctly, so just ignore it.
+
+-------------------------------------------------------------------------------
+B.  Reset Gore Code
+
+Entering 5,2,4,6,4,8 will allow you to reset the parental lockout code.
+
+-------------------------------------------------------------------------------
+C.  Start With Temple Key
+
+Entering 6,3,7,4,0,4 will allow you to begin the game with the Temple Key, so
+you can go straight to your battle with Gyaku.
+ 
+Note:  Pressing the 0 key will turn off the sound, to get it back, just press 0
+       again.
+
+-------------------------------------------------------------------------------
+D.  Debug Mode
+
+Enter 9,3,1,4,2,7 then press * + # to reset the game and press B to begin the
+game in Debug Mode.  You'll be able to see every fighter/background 
+combination.  Press B to skip to the next fight.
+
+-------------------------------------------------------------------------------
+E.  Same Character
+
+Enter 6,2,1,5,4,4 to be able to play as the same character in a two player
+versus match.
+
+-------------------------------------------------------------------------------
+F.  Tiny Fighters
+
+Enter 7,4,3,8,7,1 (for player one) and/or 8,9,9,2,4,4 (for player two) to 
+shrink your characters in a versus match.  Even though the character looks
+tiny, it will still take damage as if it was the same height.
+
+-------------------------------------------------------------------------------
+G.  Play as Gyaku
+
+Enter 3,7,4,9,6,1 to be able to play as Lord Gyaku and Demon Gyaku during a
+two player versus match.
+
+*******************************************************************************
+VII.   Game Review
+
+Back in the 90's, tournament fighters were all the rage.  Street Fighter II and
+Mortal Kombat ruled the arcades and everybody and their mom was trying to cash
+in.  Kasumi Ninja by Hand Made Software is another cheap Mortal Kombat knockoff
+that fails to live up to the source material.
+
+Kasumi Ninja has all the hallmarks of a Mortal Kombat clone: lots of blood,
+fatalities, and digitized graphics.  Unfortunately they forget to add tight
+controls and overall fun!
+
+In Kasumi Ninja, you start out as one of the ninja twins: Habaki and Senzo.
+The object of the game is to defeat other fighters from around the world and
+absorb their energy so you can become strong enough to defeat the villain,
+Gyaku.
+
+The selection screen is your first clue that something is wrong with this game.
+Instead of the normal character portraits and cursor, you are placed inside a
+3D room with statues, the statues have no names or captions, you have to press
+the C button to see that.  First you choose your fighter, at the beginning
+Habaki and Senzo are the only fighters available.  Unlock games like Super
+Smash Bros., the fighters are NOT permanently unlocked, you have to do it
+every single time you begin a new game.  Once you have chosen your fighter,
+you choose your opponent.  You do this before every fight, and it gets very
+annoying.  The 3D engine for this part is actually nicely done, it's a shame
+Hand Made Software didn't release an FPS for the Jaguar.  My theory is that
+the 3D engine was created by the programmers when they were learning how to
+program the Jaguar and decided to include it in the game so it wouldn't be
+"wasted" or something.
+
+Once you've selected your fighter and opponent, you enter the combat zone and
+the game finally begins.  The first thing you'll notice is that the graphics
+are amazing, the digitized fighters look better than the ones in Mortal Kombat
+(the ARCADE version!).  The backgrounds are absolutely gorgeous.
+
+None of that matters once the fighting begins.  Within seconds, you'll be
+struggling with the controls and understanding why everyone hates this game!
+Awful is the only way to describe them, they are very sluggish and stiff.
+There is a noticeable delay between the time you press the button and when you
+actually attack.  There is also a brief "cool down" time between kicks, you 
+have to wait a few moments before you can kick again.  Jump kicks are awkward,
+you have to press the kick button right after you jump or you won't kick.  In
+order to perform special moves, you have to hold down the C button and then do
+the joypad input.  I also find it strange that not all characters can do all of
+the basic moves.  For example, Thundra can't do a roundhouse and Angus can't do
+sweep kicks.
+
+The AI is very unbalanced, you'll struggle even on the easiest difficulty,
+unless you resort to cheap tricks like using repeated jump kicks or fireballs.
+The programmers must have been huge wrestling fans, you'll be pummeling the CPU
+and have almost won, when suddenly he'll wake up and unload a flurry of special
+attacks to steal the victory.   
+
+The game is really short, even shorter depending on the difficulty level.  On
+Easy, the game ends after defeating the six other regular fighters.  On Normal,
+you can fight Gyaku, but you still don't "win".  On Hard and Ninja God, after
+defeating Lord Gyaku, you then face his true form.
+
+The blood and gore in Kasumi Ninja is really over the top.  Not only does every
+blow you land cause your opponent to spew blood, but the lifebars are actually
+bloody swords that drip down onto the playing field.  The fatalities are also
+pretty graphic.  The game carries an M rating and includes a parental "Gore
+Code" option, where a code has to be entered to play with the gore turned on.
+Of course, there's nothing stopping a kid from entering his own code.
+
+Bottom line: even avid fans of the Atari Jaguar should avoid this game, if you
+are looking for a fighting game, I recommend Ultra Vortek.
+
+
+Pros
+
++  The graphics are actually pretty good, the digitized fighters look better
+   than the ones in Mortal Kombat and the backgrounds are absolutely gorgeous!
++  The 3D engine during the selection screen is actually well done, it's a
+   shame Hand Made Software didn't make an FPS for the Jaguar instead.
+
+Cons
+
+-  Only two fighters available at the start and they are palate swaps.
+-  The controls are just awful.
+-  Only get two continues per game.
+-  The AI is really cheap.
+-  The manual doesn't list the characters' special moves.
+
+*******************************************************************************
+VIII.  Special Thanks
+
+Special Thanks go to Zach Meston and J. Douglas Arnold for The Atari Jaguar
+Official Gamer's Guide for the Kasumi Ninja tips and moves!
+
+Special Thanks go to The Atari Times (www.ataritimes.com) for their move list
+and codes!
+
+Special Thanks go to Sophie Cheshire for her awesome Kasumi Ninja FAQ!
+
+*******************************************************************************
+IX.    Version History
+
+1.0   08/24/09   Completed FAQ.
+
+*******************************************************************************
+X.     Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

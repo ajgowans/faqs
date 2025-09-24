@@ -1,0 +1,377 @@
+           MMM           MMM YYY     YYY  SSSSSSSSS TTTTTTTTTTTTT
+           MMMM         MMMM YYY     YYY SSSSSSSSS  TTTTTTTTTTTTT
+           MMMMM       MMMMM YYY     YYY SSS             TTT
+           MMMMMM     MMMMMM YYYYYYYYYYY  SSSSSSSS       TTT
+           MMM MMM   MMM MMM   YYYYYYY     SSSSSSSS      TTT
+           MMM  MMM MMM  MMM     YYY            SSS      TTT
+           MMM   MMMMM   MMM     YYY      SSSSSSSSS      TTT
+           MMM    MMM    MMM     YYY     SSSSSSSSS       TTT 
+
+Author: Tinister              tinister@hotmail.com             Version 1.0
+==========================================================================
+
+   Few  are  chosen.  Fewer  succeed.  Journey  now  to  an  island  world
+surrealistically tinged with mystery... 
+where every vibrant rock,  scrap of paper,  and sound may hold vital clues
+to your unraveling  a chilling tale of intrigue and  injustice that defies
+all  boundaries of time  and space.  Only your  wits and  imagination will
+serve to stay the course and unlock the ancient betrayal of ages past.
+ - Back of the box
+
+   Most  people don't like  this game,  mainly  because it doesnt  contain
+killing or bloodshed.  Yet,  it makes you think,  which half of  Americans
+don't like to do.
+
+==========================================================================
+
+    Table O' Contents
+  I. Q&A Walkthrough
+ II. Complete Walkthrough
+    A. Beginning
+    B. Mechanical Age
+    C. Stoneship Age
+    D. Channelwood Age
+    E. Selenitic Age
+    F. Ending(s)
+III. Puzzle Soultions
+ IV. Ending
+
+==================================
+
+I. Q&A Walkthrough
+
+   This walkthrough does not ruin the game for you. It helps you at places
+where most people get stuck.
+
+Q: Where do I go?
+A: It's up to you.  Explore around the island until you know what you need
+to do.
+
+Q: What are Marker Switches?
+A: Those are  the little switches you  find around certain  structures and
+landmarks.  Count them up and  put them in  the fore chamber  by the dock,
+like the note says.
+
+Q: What is the Tower Rotation?
+A: The Tower  is the big mountain  behind the library.  You can get a good
+view on the gear platform. To rotate it you use the map in the library.
+
+Q: What happens when the line turns red(on the map in the library)?
+A: That means you  have stumbled on a clue.  Go to the tower  and get that
+clue.  How do I get into  the library you say?  That you need  to find out
+yourself. The door is in the library.
+
+Mechanical Age
+
+Q: Where are the red and blue pages?
+A: Check for hidden doors in the main rooms.  Like other ages, the page is
+in the son's room(i.e. red page is it Sirrus' room).
+
+Q: What's the point of the elevator?
+A: Press the middle button and get out.  You should now be in front of the 
+tower controls, just like the one in the Achenar's room.  Be sure to write
+the sound for each direction.
+
+Stoneship Age
+
+Q: How do I get in these tunnels?
+A: You need to pump the water out. The pump should be easy to find.
+
+Q: What's this piece of paper for?
+A: You need the contents to finish the game.  Write it down exactly as you
+see it,  so when you find  the other half you'll be  able to get the whole
+note.
+
+Q: Which button do I press in the room between the tunnels?
+A: The  button  that  represents  the  lighthouse. You  need  to  use  the
+telescope to find the degree.  Then press the button at the same degree. A
+little math is required.
+
+Channelwood Age
+
+Q: How do I get these elevators to work?
+A: Go to  the rocky  island and  play with  the controls.   Then  use  the
+controls on the pipe to guide the power to the elevator.
+
+Q: How do I use the elevator on the higher storie and power it at the same
+time?
+A: Use the stairway next to it. A lever in one of the huts opens the door.
+
+Selenitic Age
+
+Q: How do I find the combination for the shed in the front?
+A: Turn the 5  sounds on and  find them on  the contraption  on the middle
+island. Then press the bottom button.  You need to find them perfectly. If
+you hear the sound,  look at the arrows.  If one of them blinks,  press it
+until none of them blink.
+
+Q: Where's the dripping water sound?
+A: Took me a while to find. It's right of the burning fire landmark.
+
+Q: Where do I go in the track train?
+A: Use the sounds to guide you. Remember the Mechanical Age? If you don't,
+Just go any direction but if you don't hear a sound anymore, backtrack and
+go another way.
+
+Ending(s)
+
+Q: Which brother do I free?
+A: It's a hard choice. They both say don't touch the green book. But...
+
+Q: Where do I find the missing page.
+A: Use the 2 pieces of the paper from Stoneship and Channelwood ages.
+
+===================================
+
+II. Complete Walktrhough
+
+   This walkthrough tells all details to finishing the game of Myst. First
+of all,  you dont  want to ruin  this game.  If you've already  beaten the
+game,  fell free to look to see how you get  the answers to puzzles you've
+guessed  on.  If you've  been stuck  on something  for weeks  and the  Q&A
+doesn't help, then you can look. Well here we go,
+
+A. Beginning
+
+  Walk around the island until you find a note on the ground to Catherine.
+Then go around  counting all the Marker  Switches and putting  them to the
+"on" position(lever is up). Go to the fore chamber beside the dock and put
+the number of Marker Switches in the panel beside the stairway. Then press
+the button by the pool.  If nothing happens you counted wrong.  You should
+get the message from Atrus.
+  Go into the  library and put the red  and blue page in  the red and blue
+books respectively. You can listen to the people in the books if you wish.
+Read the unburnt  books in the bookshelf  and sketch any  designs that you
+find. Now go to the map and hold the button until the line turns red.
+  Press the  picture of  the bookshelf  to reveal  a passage.  Go  up  the
+elevator in the passage. Look out the window to find where the book is and
+write the keys  to the book.  Go back to the library  and press the button
+until the line  turns red again etc. etc. Once you  find the locations and
+keys to all 4 books. Press the picture of the door in the library.
+  Now go to the far end of the island.  Play with controls until the clock
+reads 2:40.  Press the button  an go across the  bridge. Throw  the Marker
+Switch. In the clock you need to throw the switches until the numbers read
+2,2,1 top to bottom.  You wont able to do this just throwing the switches.
+Hold one of  the switches down and  the middle number will  keep spinning.
+Once  you get  2,2,1;  go to  the  big gears  by  the dock  and  enter the
+Mechanical Age.
+
+B. Mechanical Age
+
+  First goto one  of the main rooms  in the fortress and  face the throne.
+Open the door  behind the throne to get  the red/blue page.  Then goto the
+room with the blue page and play around with the device there.  Learn what
+controls  do  what  and  write  down  what  noise  corresponds  with  what
+direction. Then go to the back of the fortress and press the button on the
+wall to lower the floor. Keep rotating the elevator until the screen turns
+red.  Then go back up and raise the floor.  Go up the elevator,  press the
+square button, and run out before it goes back down.  Now you should be in
+front of the fortress controls.
+  Rotate to all 4  directions and on each direction  leave the fortress to
+see whats  out there.  You should come  across 4 symbols.  Go back  to the
+south position,  and go outside  and put the symbols  in the puzzle board.
+Then go down and touch the Myst book.
+
+C. Stoneship Age
+
+  After you've returned  both the red and blue  pages to the books,  go to 
+the planetarium  and put  the 3 dates  and time  in the  device  above the
+dentist chair.  Write down the pattern of stars that corresponds with each
+date. Now go to the library and find the book with a bunch of stars in the
+back.  Find the star pattern  and write down that  constellation that goes
+with  each  pattern.   Now  go  out  by  the  birdbath  and  press  the  3
+constellation on the buttons next to them.  The ship in the bath should be
+lifted.  So should the ship  near the dock.  Go to the ship  and enter the
+door and touch the book.
+  After you enter Stoneship, Go to the telescope and write down the degree
+for the lighthouse.  Then go to the pump(it looks like a big umbrella) and
+pump the water out of the lighthouse.  I don't remember what button it is,
+Just try all the buttons until the lighthouse is pumped out. Now go to the
+lighthouse and  go down the stairs. Pull the switch on  the chest to empty
+the water and again to keep the air in.  Now go back to the pump and press
+a different button so the lighthouse is filled again. Go back to the house
+and open the chest using the key. Grab the other key in the chest and open
+the  door on  the ladder.  Go up  there and  run the  generator until  the
+batteries  are full.  Pump the water  out of the two tunnels.  Go down the
+tunnel nearest  to the telescope and  write down what you  see on the half
+sheet of paper.  Then go down the other tunnel  and half way down open the
+door on  the wall.  Go to the circular board.  The whole board  equals 360
+degrees. Press the button that equals the lighthouse degree, or 135 degree
+or press the  12th button to  the right not counting  the top button.  Now
+pump the water out of the ship deck. Go down there and click on the table.
+Touch the Myst book.
+
+D. Channelwood Age
+
+  Once you've returned both  pages to Myst, go to the  cabin in the woods.
+Put 7,2,4  in the safe on the wall,  grab a match, lite it,  and put it in
+the furnice.  Then turn the  wheel on the  wall clockwise,  or so that the
+arrows are  green(Note: You don't want  to rapidly press  the mouse or the
+game will freeze while it's waiting to turn).  Once it can't turn anymore,
+wait for  the clunking  sound to stop.  When that happens,  turn the wheel
+counterclockwise, or so that the arrows are red. Do this until the fire in
+the furnice is out.  Then run out  of the cabin,  and run to the tree(This
+may take a little practice).  When you can, run into the small room in the
+tree and wait until you come to the bottom. Touch the book.
+  First of all, go to the rocky island, and turn the hose on. Then pull on
+the lever on the generator  that turns the windmill.  Go out and  when you
+see a the the pipe goes to 2 pipes, use the yellow bar to line up with the
+pipe you  want the  power to  go through.   Get the  power to  run to  the
+elevator.
+  Once you reach the second storie through the elevator, find the hut with
+the lever that opens the door.  In the Channelwood book, it  should be the
+one with the  "future bridge" next to it.  Once you pull the lever,  go to
+the other side of the  "future bridge" and down the stairway.  Channel the
+power to  the stairway and  go back  up the stairway.  Go up  through  the
+elevator to the third storie. Collect pages and write down the second half
+of the paper.
+  Return again  to the  lowest storie,  and channel  the power  to a lever
+sitting at the end of a bridge.  Pull the lever and cross the bridge. Then
+when you come to  the final elevator, turn around and  extend the pipe out
+to the pipe  at the other  side of the bridge.  Then channel  the power to
+that elevator using the pipe you connected. Then go up the elevator. Touch
+the Myst book.
+
+E. Selenitic Age
+
+  Once you've returned  both pages from Channelwood,  go to the brick shed
+on Myst. When you get to the controls,  press each button _seperately_ and
+record the  voltage for each button.  Then press a number  of buttons that
+equal to  59 volts(There  are various  ways to this,  just use  some math.
+Press the buttons that correspond to 16-19-22-2). If you happen to go over
+59 volts,  you'll blow  a fuse.  To fix  this, you  must climb  up the two
+brick towers  and throw the switch.  One is behind the  shed and the other
+is by the rocket.  Once you have reached  59 volts without going over,  go
+back to the  library and page through  the Selenitic book  until you see a
+keyboard. Write down the keyboard  and key with it's number. Now go to the
+rocket. In here  you must press the  key on the keyboard  and put the same
+sound on  the panel in  front of the  rocket in the  same order  as in the
+book. There are two ways to do this. 1) Memorize, hum, record the sound of
+the keyboard  and put it  in the panel.  2) Count the keys  going from the
+left counting the black keys.  Then count the same  number of notes coming
+from the bottom  of the panel going up.  Once you have all 5 notes put in,
+pull the lever. If you have the notes correct, a book should appear in the
+window. Touch it.
+  In Selenitic, look for 5 buttons that represent sounds. Those sounds are
+the  dripping  water, burning  fire, ticking  clock, mystical  music,  and
+fierce wind(I don't think those are the real names,  I just made them up).
+Once you've  pressed these 5 buttons,  go to the wind  button and down the
+tunnel. Once you come up the other side,  open the contraption.  Then find
+the sound for each picture. To do this, look for the landmarks they're by,
+and when you  hear the sound,  look at the arrow  buttons to see  if one's
+flashing. If one is, press it. Once you hear the sound and the buttons are
+not flashing, then move to the next button.  Look below for exact degrees.
+Once you have all 5 sounds, press the big button at the bottom. Write down
+the order in which the sounds are played. Then go to the brick shed at the
+beginning of Selenitic and put those sounds in going left from right. Once
+inside, go in the rocket and hit the foward button.  Then from now on, use
+the sounds  to determine which  direction to go.  Remember the sounds from
+the Mechanical Age?  If you need to hear a repeat, press the button on the
+speaker.  If you don't  know the sounds,  just go until you don't hear any
+sounds, then backtrack. Once you reach the end, touch the Myst book.
+
+F. Ending(s)
+
+  Once you  return both pages  from Selenitic,  listen to the  guys in the
+books. Do as they tell you. Once you're in the fireplace and youve entered
+pattern 158, open the green book.  Listen to the guy in there.  Now return
+to the library, and find the missing page.  To do this, use the papers you
+found in Stoneship and Channelwood. Then return it to the guy in the green
+book(P.S. the guy in the  red book is Sirus,  the guy in the  blue book is
+Achenar,  and the guy in the green book is Atrus,  the father)  There is 3
+other ways to end the game: return all blue pages(get trapped in the book)
+return all red pages(same thing),  and go to D'ni(the green book)  without
+the white page(trap yourself in D'ni).
+
+===================================
+
+III. Puzzle Solutions
+
+  MYST ISLAND
+
+ Planetarium, the 3 dates
+Oct. 11, 1984 10:04 AM
+Jan. 17, 1207 5:46 AM
+Nov. 23, 9791 6:57 PM
+
+ Bird Bath, the 3 pictures
+Leaf, Snake, Beetle
+
+ Cabin Safe
+7,2,4
+
+ Clock Tower, time
+2:40
+
+ Clock Tower, inside
+2,2,1(hold the lever)
+
+ Brick Shed, voltage
+59 volts, can be achieved by pressing 19-16-22-2.
+
+  MECHANICAL AGE
+
+ South Island, Myst book puzzle
+(¯)  \/||/\   O   (|  Alright! So they are crude. You should still get them.
+             ^^^
+
+  STONESHIP AGE
+
+ Underwater Lights Button
+135 degrees from right
+
+  CHANNELWOOD AGE
+
+ No puzzles!!!
+
+  SELENITIC AGE
+
+ Sound Degrees
+dripping water - 153.4
+burning fire  -  130.3
+ticking clock  - 055.6
+mystical music - 015.0
+fierce wind   -  212.2
+
+ Brick Shed Combination
+mystical music, dripping water, fierce wind, burning fire, ticking clock
+
+ Rocket Way Directions
+N-W-N-E-E-S-S-W-SW-W-NW-NE-N-SE
+
+  ENDING
+
+Marker Switch Vault Access
+Island of Myst
+
+The vault is located in very plain view on
+the Island of Myst and access can be 
+achieved very easily if the simple 
+instructions are followed. First, locate
+each of the Marker Switches on the island.
+Turn every one of these switches to the
+"on" position. Then go to the dock and, 
+as a final step, turn the Marker Switch
+there to the "off" position.
+
+ Fireplace Pattern
+(X = pressed in, O = untouched)
+
+XXOOOOXX
+OXXOXOXX
+XOXOOOXX
+XOOXOOXX
+XXOOXXOO
+XXXXXOXO
+
+===================================
+
+IV. Ending
+
+Credits:
+  Brøderbund - for making this game
+  Cyan - for producing this game
+  Me - always gotta give credit to yourself
+
+This FAQ(2) is copyright 1999 by Tinister. This may not be used as a money
+making buisness, or used any other way without the proper credit to me.

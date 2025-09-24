@@ -1,0 +1,858 @@
+*******************************************************************************
+Brutal Sports Football for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  07/28/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  League
+         B.  Unfriendly
+         C.  Knockout
+         D.  Password
+III.   Game Modes
+         A.  League
+               1.  Leagues
+               2.  Promotion/Demotion
+               3.  Victory/Defeat
+               4.  Post Game Screen
+               5.  Champion/Game Over
+         B.  Unfriendly
+         C.  Knockout
+IV.    Controls
+         A.  Controls
+         B.  Control Schemes
+               1.  Novice
+               2.  Beginner
+               3.  Intermediate
+               4.  Advanced
+               5.  Expert
+V.     Rules of Brutal Football
+         A.  Rules
+         B.  HUD
+         C.  Formations
+               1.  Defense
+               2.  Normal
+               3.  Aggressive
+VI.    Locker Room
+         A.  Locker Room Overview
+         B.  First Aid
+         C.  Speed Boost
+         D.  Revive
+         E.  Selection
+         F.  Exiting
+VII.   Strategies
+         A.  Face-Off
+         B.  Offense
+         C.  Defense
+         D.  Locker Room
+         E.  Miscellaneous
+VIII.  Weapons and Powerups
+         A.  Weapons
+               1.  Weapons Overview
+               2.  Sword
+               3.  Axe
+               4.  Shield
+         B.  Powerups
+               1.  Powerups Overview
+               2.  Rabbit
+               3.  Tortoise
+               4.  Grenades
+               5.  Magic Potion
+               6.  Running Ball
+               7.  Bomb
+               8.  Repel Icon
+               9.  Ice Cube
+              10.  Lightning
+              11.  Fist
+              12.  Fire
+              13.  Direction Reverse
+              14.  Team Swap
+IX.    Teams
+         A.  Vikings
+         B.  Lizards
+         C.  Goats
+         D.  Rhinos
+X.     Passwords
+         A.  League Mode Bug "Fix"
+         B.  Demons Passwords
+         C.  Savages Passwords
+XI.    Game Review
+XII.   Version History
+XIII.  Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Brutal Sports Football.  It contains
+a list of controls, strategies for winning, passwords, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Note:  You can press B to skip the intros.
+
+Press B on the Title Screen to bring up the Main Menu.  Press up/down on the
+joypad to scroll through the menu and press B to select one of the following:
+
+-------------------------------------------------------------------------------
+A.  League
+
+Choose League to begin a new season.  First you will choose one of the eight
+Vikings teams (unfortunately you can't play League with a Lizard, Goat, or
+Rhino team).  All of the teams seem to have the same stats, so just pick the
+one you think looks the coolest.  If you want, you can change the team's name
+by pressing A, then using the joypad to change the letters.  You then choose 
+the control scheme you want, be careful, this CANNOT be changed without 
+starting over.  For more information on the control schemes, see the Controls
+section.  After choosing a control scheme, it's straight on to your first 
+match.  For more information on the League mode, see the Game Modes section.
+
+-------------------------------------------------------------------------------
+B.  Unfriendly
+
+Choose Unfriendly to play a match against either a friend or the CPU.  First,
+player one will choose his team and control scheme.  Then a timer will appear,
+player two should press B to be taken to the team selection screen.  If you
+are playing a one player game, you can press B to make the timer decrease 
+quicker.  If the timer reaches zero, you will play against the CPU.  Finally
+you will choose whether to play a single match, best of three, or best of
+seven.
+
+-------------------------------------------------------------------------------
+C.  Knockout
+
+Choose Knockout to play a single elimination tournament with up to eight 
+players as the eight Vikings teams (again, no animals).  First you choose which
+teams are going to be controlled by humans by selecting them with the cursor 
+and pressing B.  You can change a team's name by pressing A and using the 
+joypad to change the letters.  When you have finished choosing teams, press C 
+to start.
+-------------------------------------------------------------------------------
+D.  Password
+
+Choose Password to enter a password and resume a previous game.  To enter the
+password, press left/right on the joypad to choose a symbol and press B to
+enter.  If you want to erase a symbol, press A.  When you are done entering,
+press the C button to confirm your password.  If you entered it correctly,
+you will get a message telling you the league and match number.  When you
+return to the Main Menu, select League.
+
+Note:  As far as I can tell, there are no passwords that use the bottom row,
+       so just leave it as all dashes.
+
+*******************************************************************************
+III.   Game Modes
+
+-------------------------------------------------------------------------------
+A.  League
+
+...............................................................................
+1.  Leagues
+
+The goal in League mode is to make your way through the four leagues and 
+become champion.  You will start out in the 4th League, then move on to the 3rd
+League, then the 2nd League, and finally the 1st League.  In each league you
+will play each of the three teams twice.
+
+...............................................................................
+2.  Promotion/Demotion
+
+After playing six games in a league, one of three things can happen.  If you
+won at least four games you will be promoted to the next league.  If you lost
+three or more games you will have to replay the league.  If this is your 
+second time through and you still didn't win four games, you'll then be
+DEMOTED to the previous league!
+
+...............................................................................
+3.  Victory/Defeat
+
+After winning a game you will earn cash based on your performance.  You will
+receive 20,000 for every goal you scored and 25,000 for every opponent you
+killed.  If you lost the game, you will NOT receive cash for goals but you DO
+receive cash for your kills.
+
+...............................................................................
+4.  Post Game Screen
+
+On the Post Game Screen you will have several choices.  Choose Next Match/
+Next League to play the next game.  Choose Locker Room to go into the Locker
+Room and heal your players.  Choose Show Result to see your current password.
+Show Stats will show you the stats from your previous game.
+
+...............................................................................
+5.  Champion/Game Over
+
+You become champion and win the game by winning at least four matches in the 
+1st League.  (Yes, you can still become champion even if you lose your final
+match!)
+
+If at any point you are unable to field a team of at least three players, your
+game will end.
+
+-------------------------------------------------------------------------------
+B.  Unfriendly
+
+Unfriendly let's you play a single, best of three, or best of seven match
+against either a friend or the CPU.  Unlike other modes, in Unfriendly you CAN
+play as animal teams!
+
+-------------------------------------------------------------------------------
+C.  Knockout
+
+Knockout is an eight team single elimination tournament.  It can be played with
+up to eight players, the remaining teams will be controlled by the CPU.  Only
+Viking teams will be available to choose from.
+
+*******************************************************************************
+IV.    Controls
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Offense
+
+Joypad         Move Player
+A Button       Use Powerup
+B Button       Pass/Throw Ball
+C Button       Punt Ball
+Pause          Pauses Game
+Option         (See Control Schemes section below)
+Numpad 1       Change Formation To Defense
+Numpad 2       Change Formation To Normal
+Numpad 3       Change Formation To Aggressive
+Numpad 6       Cycle Through Powerups
+
+
+Defense
+
+Joypad         Move Player
+A Button       Use Powerup
+B Button       Attack
+C Button       Attack
+Pause          Pauses Game
+Option         (See Control Schemes section below)
+Numpad 1       Change Formation To Defense
+Numpad 2       Change Formation To Normal
+Numpad 3       Change Formation To Aggressive
+Numpad 6       Cycle Through Powerups
+
+-------------------------------------------------------------------------------
+B.  Control Schemes
+
+The five control schemes affect how you select/switch players during gameplay.
+I strongly recommend using the Advanced control scheme.
+
+Note:  Once you choose a control scheme in League mode, it CANNOT be changed,
+       you'll have to begin a new League mode!
+
+...............................................................................
+1.  Novice
+
+In the Novice control scheme, the CPU will automatically select the player you
+control.  On offense, this will always be the ball carrier.  On defense, it 
+will be the player closest to the ball.
+
+...............................................................................
+2.  Beginner
+
+In the Beginner control scheme, the CPU will automatically select the player 
+you control.  On offense, this will always be the ball carrier.  On defense, it
+will be the player closest to the ball.  By pressing the Option button, you
+will lock in control of the current player and the CPU will not switch control
+from that player until you press Option again.  While a player's control is
+locked, a sword will appear on the 1P/2P marker.
+
+...............................................................................
+3.  Intermediate
+
+In the Intermediate control scheme, the CPU will automatically select the 
+player you control.  On offense, this will always be the ball carrier.  On 
+defense, it will be the player closest to the ball.  The CPU will not switch
+control to another player until you release the joypad and all buttons.
+
+...............................................................................
+4.  Advanced
+
+In the Advanced control scheme, the CPU will automatically select the player 
+you control.  On offense, this will always be the ball carrier.  On defense, it
+will be the player closest to the ball.  The CPU will not switch control to
+another player until you release the joypad and all buttons.
+
+By pressing the Option button, you will lock in control of the current player 
+and the CPU will not switch control from that player until you press Option 
+again.  While a player's control is locked, a sword will appear on the 1P/2P 
+marker.
+
+...............................................................................
+5.  Expert
+
+In the Expert control scheme, there is no automatic player selection.  You must
+press the Option button when you wish to switch players.
+
+Note:  In this control scheme, you will NOT automatically switch to the ball
+       carrier, you will still need to press Option!
+
+*******************************************************************************
+V.     Rules of Brutal Football
+
+-------------------------------------------------------------------------------
+A.  Rules
+
+Rule #1:  There are NO rules!
+
+Brutal Football is like a cross between (American)football and soccer.  The
+game is played between two teams of at least three but no more than seven 
+players each.  Each game lasts seven minutes.
+
+At the beginning of each game (and after each score), the ref walks to midfield 
+and tosses the ball into the air and play OFFICIALLY begins (as there are no
+rules, you can start moving around and bashing opponents as soon as you like).
+
+The ball can be carried, thrown, or punted.  Forward passes and recovering your
+own punts are both perfectly legal.
+
+Points are scored when the ball enters the other teams goal.  It can be thrown
+in, run in, punted in, etc., once the ball crosses the goal line, it's a score!
+
+There are no penalties, so attack your opponent as often as you can, there are
+even weapons lying around the playing field!  Dead players CANNOT be replaced
+by subs during a match.  A team with one or fewer players remaining will
+automatically forfeit the match, even if they are ahead in goals!
+
+A team wins the game by either scoring more points or killing all but one of
+the opposing players.  If the score is tied at the end of the game, play goes
+into Sudden Death.  In Sudden Death, the first team to kill all but one of
+their opponents wins.
+
+-------------------------------------------------------------------------------
+B.  HUD
+
+At the top left of the screen will be two bars, the top represents the health
+of player one's selected character and the bottom one represents player one's
+overall team health.  The bars on the top right are for player two.  At the top
+of the screen is also the timer.  It starts at 7:00 and counts down to zero.
+At the bottom left is player one's score and at the bottom right is player
+two's.  The black rectangle at the top of the screen is the radar.  The dots
+represent all of the players, flashing colored dots represent the selected
+players, white flashing dots are powerups, and the solid white dot is the ball.
+
+-------------------------------------------------------------------------------
+C.  Formations
+
+There are no set plays in Brutal Sports Football.  Instead, you can change the
+formation of your players by pressing 1, 2, or 3 on the numpad.
+
+...............................................................................
+1.  Defense
+
+Press 1 on the numpad to change your formation to Defense.  This will line up
+all of your team's players on your side of the field.  This is useful when you
+have the lead and want to protect it.
+
+...............................................................................
+2.  Normal
+
+Press 2 on the numpad to change the formation to Normal.  In this formation,
+half of your players will stay on your side of the field and the other half
+will be on the opponent's side.  This is the default formation and is the best
+one to use in most circumstances.
+
+...............................................................................
+3.  Aggressive
+
+Press 3 on the numpad to change the formation to Aggressive.  This will move
+all of your players (except the goalie) to the opponent's side of the field.
+This formation is good for when your down and need to score some quick goals.
+
+*******************************************************************************
+VI.    Locker Room
+
+-------------------------------------------------------------------------------
+A.  Locker Room Overview
+
+The Locker Room will be available after each match in League mode.  Here you
+can heal wounds, increase the players' speed, even revive dead players!
+
+You'll see your nine players inside the pods.  A standing player is in good
+health, a kneeling player is in poor health, and a player with bandages for a
+head is dead.  Above each player is an oval.  The number in the oval is that
+player's number.  Player #1 is your goalie, be sure that he is always fully
+healed!  On each side of the number is a red bar, these represent your player's
+health.
+
+All treatments cost money, your remaining cash is displayed in the center of
+the Locker Room.  To apply treatment to a player, move the joypad left/right to
+select him, then press up to raise the door to the pod.  Press up/down to
+select the cross (First Aid), lightning bolt (Speed Boost), or helmet (Revive).
+Press B to perform that treatment.  If you highlight the machine in the center 
+of the Locker Room, you can press up to select all the players at once and
+provide the treatment to all of them (I don't recommend doing this).
+
+-------------------------------------------------------------------------------
+B.  First Aid
+
+Apply First Aid to treat a player's wounds.  Each treatment restores a little
+bit of health, a player may need several treatments to be fully restored.  Each
+First Aid treatment costs 5,000.
+
+-------------------------------------------------------------------------------
+C.  Speed Boost
+
+Apply a Speed Boost to increase a player's speed.  A player can have a maximum
+of three Speed Boosts at a time.  Speed Boosts will wear off over time and cost
+20,000 each.
+
+-------------------------------------------------------------------------------
+D.  Revive
+
+Choose Revive to perform cranial reconstruction and bring a dead player back to
+life.  A revived player will have zero health, so you'll still need to perform
+First Aid afterwards.  Each Revive costs 20,000.
+
+-------------------------------------------------------------------------------
+E.  Selection
+
+Your team has nine players, but only seven can play in a match.  Choosing the
+Select option from the machine in the center of the Locker Room will
+automatically select the first seven LIVING players.
+
+To manually select/deselect a player, simply highlight him and press the A
+button.  You MUST have at least three living players to start a match.  If you
+exit the Locker Room with a team of fewer than seven players and you still 
+have other living players, these will be automatically added to your team!
+
+-------------------------------------------------------------------------------
+F.  Exiting
+
+To exit the Locker Room, choose the Exit option from the machine in the center.
+You can also exit the Locker Room at any time by pressing the C Button.
+
+*******************************************************************************
+VII.   Strategies
+
+-------------------------------------------------------------------------------
+A.  Face-Off
+
+-  On a face-off, the CPU will not start moving until the referee tosses the
+   ball.  Use this to your advantage and get in some extra licks!
+
+-  I always immediately run over to the opponent across from me and start 
+   punching.
+
+-  Instead of going right for the ball, move your player out of the way, then
+   attack the opposing players as they go for the ball.
+
+-------------------------------------------------------------------------------
+B.  Offense
+
+-  Try to kill the opponent's goalie as soon as possible to make scoring a LOT
+   easier!
+
+-  For easy scores, try punting the ball at the opponent's 40 yard line.  When
+   control switches to your player in front of the goal, immediately tackle the
+   goalie.
+
+-  Try punting the ball when you are in front of the opponent's goal, then
+   tackling the goalie after he jumps up to grab it.
+
+-  If your player has full Speed Boost (or a Rabbit) try running at a diagonal
+   from top to bottom in front of your opponent's goal.  If you time it right
+   the goalie will leap at you and miss, leaving you with a clear shot.
+
+-------------------------------------------------------------------------------
+C.  Defense
+
+-  It's a good idea to punt the ball whenever you get it on your own side of
+   the field.
+
+-  Whenever your goalie gets the ball, punt IMMEDIATELY.
+
+-  Unless you have an Ice Cube or Lightning powerup, NEVER run the ball up
+   the field with your goalie.
+
+-  When your opponent activates the Running Ball powerup, immediately start
+   attacking the highlighted opponent.
+
+-------------------------------------------------------------------------------
+D.  Locker Room
+
+-  Player 1 is your goalie.  ALWAYS make sure that he is fully healed and
+   selected.
+
+-  Only seven of your nine players play in each game.  Don't waste money
+   healing players that won't play!
+
+-  The max amount of money you can bank is 999,000.
+
+-------------------------------------------------------------------------------
+E.  Miscellaneous
+
+-  I STRONGLY recommend using the ADVANCED control scheme.
+
+-  As long as you win at least four games in the 1st League, you'll be crowned
+   champion, even if you lost your final match!
+
+-  Dominate your opponents in the lower leagues to build up a reserve of cash.
+
+-  Collect powerups as soon as you see them to prevent your opponent from
+   using them.
+
+-  The only bad powerup is the Tortoise, avoid it at all costs.
+
+-  Each goal earns you 20,000, but ONLY if you win.
+
+-  You earn 25,000 for each opponent killed win OR lose!
+
+-  If you are down by too many points to win, immediately start head hunting.
+   You can still salvage a victory by killing six opponents and even if you
+   don't win, the heads will earn you some cash.
+
+-  Remember that passwords do NOT save Speed Boosts!  It's usually a good idea
+   to write down your passwords BEFORE going to the Locker Room.
+
+-  Get in the habit of going to the Locker Room after entering a password.
+
+-  When playing in an Unfriendly Match, choose the Rhino team.
+
+*******************************************************************************
+VIII.  Weapons and Powerups
+
+-------------------------------------------------------------------------------
+A.  Weapons
+
+...............................................................................
+1.  Weapons Overview
+
+Weapons will be found laying all over the playing field.  To pick up a weapon,
+simply run over it.  If you run over a second weapon, your first one will be
+dropped and replaced with the new one.  Weapons cannot be carried when you have
+the ball.  After a score, any weapons players are holding will be dropped.  To
+attack with a weapon, press the B button.
+
+...............................................................................
+2.  Sword
+
+The sword will do more damage than your fists.
+
+...............................................................................
+3.  Axe
+
+The axe is a long range weapon.  Press B to throw it in the direction you're
+facing.
+
+...............................................................................
+4.  Shield
+
+The shield has two functions: you can use it to attack like the sword (it does
+less damage), but it will also protect you from enemy attacks.
+
+-------------------------------------------------------------------------------
+B.  Powerups
+
+...............................................................................
+1.   Powerups Overview
+
+Powerups are found on the playing field.  To collect a powerup, simply run over
+it.  The Rabbit, Tortoise, and Grenades will be activated instantly, the rest
+will be stored until you activate them.  You can store up to three powerups at
+a time.  To scroll through your powerups, press 6.  To activate a powerup,
+press the A button.
+
+After a score, all ACTIVE powerups will expire, but any STORED powerups will
+still be available.
+
+...............................................................................
+2.   Rabbit
+
+The Rabbit powerup will increase the speed of your players for a short time.
+This powerup is activated as soon as you touch it.
+
+...............................................................................
+3.   Tortoise
+
+The Tortoise powerup will DECREASE the speed of your players for a short time.
+This powerup is activated as soon as you touch it.
+
+...............................................................................
+4.   Grenades
+
+The Grenades powerup will grant you six grenades to use against your opponents.
+This power up is activated as soon as you touch it, press A to lob a grenade.
+If you are tackled while carrying grenades, you'll drop your remaining grenades
+and they'll damage whoever's nearby.
+
+...............................................................................
+5.   Magic Potion
+
+The Magic Potion will turn all members of your team invisible for a short
+while.  Please be aware that the 1P/2P icons will still be visible.
+
+...............................................................................
+6.   Running Ball
+
+The Running Ball powerup will cause the ball to sprout legs and run towards 
+your selected player.  While the ball has legs, the other team will NOT be
+able to pick it up.
+
+...............................................................................
+7.   Bomb
+
+The Bomb powerup is mentioned in the instruction booklet and says it gives
+"bigger bangs to wipe out the opposition".  I've never seen this one so I don't
+know what it does.
+
+...............................................................................
+8.   Repel Icon
+
+The Repel Icon will create a force field around your selected player.
+
+...............................................................................
+9.   Ice Cube
+
+The Ice Cube will temporarily freeze all of your opponents.
+
+...............................................................................
+10.  Lightning
+
+The Lightning powerup will temporarily call down lightning bolts that will
+strike down any opponents who approach the ball.
+
+...............................................................................
+11.  Fist
+
+The Fist powerup isn't mentioned in the instruction booklet.  It appears to
+increase your attack power so that one punch will stun an opponent for a few
+seconds.
+
+...............................................................................
+12.  Fire
+
+The Fire powerup isn't mentioned in the instruction booklet either.  It will
+cause your player to automatically spit out fireballs to take out opponents.
+
+...............................................................................
+13.  Direction Reverse
+
+This powerup only appears in two player games.  It will reverse the directions
+on your opponents joypad.
+
+...............................................................................
+14.  Team Swap
+
+This powerup also only appears in two player games.  It will swap team controls
+of the two players.
+
+*******************************************************************************
+IX.    Teams
+
+There are four different types of teams in Brutal Sports Football:
+
+-------------------------------------------------------------------------------
+A.  Vikings
+
+Description:
+
+The Vikings are the weakest of the four teams and are the only teams you can
+play as in the League and Knockout modes.
+
+Playable Teams:  Slayers, Thugs, Demons, Warlords, Mad Dogs, Savages, 
+                 Ravagers, Huns
+
+Non Playable Teams:
+
+Vandals, Crushers, Beserk
+
+-------------------------------------------------------------------------------
+B.  Lizards
+
+Description:
+
+Lizards have stronger attack and defense then Vikings but are a bit slower.
+Instead of stomping on downed opponents, they will breathe fire!
+
+Playable Teams:  Lizzards (Unfriendly only)
+
+Non Playable Teams:  Fiends, Dragons, Hotheads
+
+-------------------------------------------------------------------------------
+C.  Goats
+
+Description:
+
+Goats are stronger, tougher, and a LOT faster than Vikings.  Instead of 
+punching, they will head butt opponents with their horns.
+
+Playable Teams:  Goats (Unfriendly only)
+
+Non Playable Teams:  Slashers, Spikers, Stompers
+
+-------------------------------------------------------------------------------
+D.  Rhinos
+
+Rhinos are the best teams in the game!  They are stronger, tougher and faster
+than anybody on the field.  Like Vikings, they'll stomp on downed opponents,
+except their weight causes a lot more damage!
+
+Playable Teams:  Rhinos (Unfriendly only)
+
+Non Playable Teams:  Maulers, Mad Herd, Mammoths
+
+*******************************************************************************
+X.     Passwords
+
+-------------------------------------------------------------------------------
+A.  League Mode Bug "Fix"
+
+RMVVKKL343  333VZ6387
+
+This code has been floating around the internet for years.  Supposedly there
+is a severe bug in the League Mode and it can be fixed by entering this 
+password (said to be supplied by Telegames).  The only "bug" I have encountered
+is the passwords don't save your  Speed Boosts, and this password certainly 
+doesn't fix that!
+
+I am pretty sure this is just one big hoax, if you enter the password, you'll
+be at the 3rd match in the 3rd league.  Eight of your players are dead and the
+remaining one is within an inch of his life.  You also only get 250,000 to
+patch up your severely roughed up team.  To top it off, you're stuck with 
+Novice controls!
+
+-------------------------------------------------------------------------------
+B.  Demons Passwords
+
+Note:  These passwords have the Advanced control scheme selected.
+
+HBKBNZ333  3NHF8GKJH             4th League,  2nd Match
+DVZHP2PPP  P417SX102             4th League,  3rd Match
+15XDXCRRR  RRX9L62YW             4th League,  4th Match
+PYB44F!!!  !!BV5QHGF             4th League,  5th Match
+Y4SYXHWWW  WWS5ZCMNN             4th League,  Final Match
+
+M9BRJ5111  11MMYMMMM             3rd League,  1st Match
+K3M5WD999  99CH6DCDC             3rd League,  2nd Match
+WRL7D6!!!  !!BL5JDFC             3rd League,  3rd Match
+WQ2DWQBBB  BB!YH1849             3rd League,  4th Match
+XHWF8XJJJ  JJ4MF06W6             3rd League,  5th Match
+LY0TB9DDD  DD8MKX904             3rd League,  Final Match
+
+9J105R444  44JJ7JJJJ             2nd League,  1st Match
+2GRLKJDDD  DD84K987!             2nd League,  2nd Match
+7Q5!94000  00NDVQLPM             2nd League,  3rd Match
+!3MRQXJJJ  JJ40FV685             2nd League,  4th Match
+L93ZCP222  22L3XGNQS             2nd League,  5th Match
+6N26XZ333  33KY8LDFC             2nd League,  Final Match
+
+P167FV777  77FF4FFFF             1st League,  1st Match
+VDQTD!PPP  PPZVS2Z10             1st League,  2nd Match
+VBNHP4RRR  RRX5LZYVW             1st League,  3rd Match
+V6077JXXX  XXRC2GSSS             1st League,  4th Match
+8ZPJXLQQQ  QQYFM!VV0             1st League,  5th Match
+5TY48VZZZ  ZZP!WGSLQ             1st League,  Final Match
+
+-------------------------------------------------------------------------------
+C.  Savages Passwords
+
+Note:  These passwords have the Novice control scheme selected.
+
+5QLS74VWH  8HTQRPLPL             4th League,  2nd Match
+SVBCHY!!K  9TDLHJFFB             4th League,  3rd Match
+MY99XRCCC  BW!X62569             4th League,  4th Match
+FGMQCX111  G1L4QHRQN             4th League,  5th Match
+XWHGS9555  55HWBNDBJ             4th League,  Final Match
+
+7HPBML777  77FFJFFFF             3rd League,  1st Match
+CLFQNLZZZ  ZZPTSLPNM             3rd League,  2nd Match
+76W6LXJJJ  JJ4W7!635             3rd League,  3rd Match
+!HSD5R444  44JNFTGDH             3rd League,  4th Match
+93VVZFKKK  KK3L8Z579             3rd League,  5th Match
+CR374PTTT  TTVG0!ZZ2             3rd League,  Final Match
+
+0JRRDKWV7  5D4838888             2nd League,  1st Match
+BJ37ZY222  22LQRPLMN             2nd League,  2nd Match
+CD0071555  55HRBFGGC             2nd League,  3rd Match
+NPKGYGLLL  LL26X9Y1Y             2nd League,  4th Match
+CBY113777  77FYJTKCH             2nd League,  5th Match
+P74915111  11M8QJRPB             2nd League,  Final Match
+
+CWQFPKPPP  PPZZWZZZZ             1st League,  1st Match
+NPTJNQLLL  LL2YXZ201             1st League,  2nd Match
+6H5BZM888  88DNKGFBC             1st League,  3rd Match
+K!VMD6220  !2LGRCPPP             1st League,  4th Match
+TRJ78RCCC  BT5S6X865             1st League,  5th Match
+83TXFZLLL  MJYFX3XXX             1st League,  Final Match
+
+*******************************************************************************
+XI.    Game Review
+
+Brutal Sports Football is an excellent sports game for the Atari Jaguar.  It
+combines elements of football and soccer, then throws in some weapons for good
+measure!  The object of the game is simple, either outscore or out slaughter
+your opponent.  Teams are composed of either Vikings, Lizards, Goats, or Rhinos
+each with their own abilities.  Unfortunately, you are only able to play as the
+Vikings in all but one of the game modes.
+
+There are several game modes including a League mode and two player versus
+"Unfriendly" matches.  The Unfriendly matches can also be played against the
+CPU.  The League mode consists of playing your way through four leagues of six
+games each in order to become champion.  After each game, you can use your
+winnings to heal your players wounds and boost their speed.
+
+Overall, Brutal Sports Football is a great game with a few glaring flaws.  The
+graphics look like something off the SNES instead of a 64-bit system.  Being
+able to play the League mode as the other three races would have really upped
+the replay value, there is no excuse for not allowing this.  Finally, there is
+no difficulty setting.  The game is a bit on the easy side, you won't really be
+challenged until you start playing in the final league.
+
+While the graphics may not be anything special, Brutal Sports Football is an
+absolute blast to play and a must own for any Jaguar fan.
+
+Pros
+
+-  Game is a lot of fun!
+-  Four different types of teams, each with its own strengths and weaknesses.
+-  Lots of weapons and powerups to keep the game interesting.
+-  Two player versus mode.
+-  Passwords to save your progress.
+
+Cons
+
+-  No difficulty levels.
+-  Can only play League games as a Vikings team.
+-  No two player co-op mode.
+-  Graphics are SNES caliber.
+
+*******************************************************************************
+XII.   Version History
+
+1.0   07/28/09   Completed FAQ.  At some point in the future I MIGHT add
+                 passwords for the rest of the teams.
+
+*******************************************************************************
+XIII.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+End

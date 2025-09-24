@@ -1,0 +1,762 @@
+*******************************************************************************
+World Tour Racing for Atari Jaguar CD FAQ
+
+by BHodges
+
+Version  1.0
+Created  03/07/10
+
+This document Copyright 2010 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Game Modes
+         A.  Single Race
+         B.  Championship
+         C.  Arcade
+IV.    Basic Gameplay
+         A.  Controls
+         B.  Basic Strategies
+V.     Workshop
+         A.  Tires
+         B.  Wings
+         C.  Gearbox
+         D.  Brakes
+VI.    Tracks
+         A.  U.S.A.
+         B.  Hungary
+         C.  Germany
+         D.  Brazil
+         E.  San Marino
+         F.  Monaco
+         G.  Mexico
+         H.  Canada
+         I.  France
+         J.  England
+         K.  Portugal
+         L.  Italy
+         M.  Egypt
+         N.  Australia
+         O.  Japan
+         P.  India
+VII.   Passwords and Cheats
+         A.  Passwords
+         B.  Cheats
+VIII.  Game Review
+IX.    Version History
+X.     Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar CD game World Tour Racing.  It contains a
+list of controls, strategies for winning, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Press any fire button to skip the intro movies and demo.  On the Main Menu
+you will see the following items:
+
+Single Race
+
+Start a single race, see the Game Modes section for more info.
+
+Championship
+
+Begin a championship season, see the Game Modes section for more info.
+
+Arcade
+
+Begin Arcade mode, see the Game Mode section for more info.
+
+Options
+
+The following options are available:
+
+  Race Length
+
+Change the length of the race to 3, 5, 8, 10, or 15 laps.
+
+  Gearbox
+
+Choose whether to use an Automatic or Manual transmission.
+
+  Change Keys
+
+Change the button layout on the joypad.
+
+  Difficulty
+
+Set the difficulty level.  The difficulty affects qualifying times and 
+opponents aggressiveness.
+
+  Change Names
+
+Change your or the CPU's names.
+
+Credits
+
+Under Credits are three items.  Choose Teque to see the developer's email
+address (thepits@teque.co.uk), Team to view the credits, or Exit to return to
+the Main Menu.
+
+*******************************************************************************
+III.   Game Modes
+
+-------------------------------------------------------------------------------
+A.  Single Race
+
+Single Race allows one or two players to race on a single track.  After
+choosing the number of players and track, you'll see the Race Weekend Menu:
+
+Free Practice
+
+Let's you run up to five practice laps on the track.  Your car will be
+automatically guided from the pits onto the track.  Press Option to bring up
+the Race Option Menu.  Here you can visit the workshop and change your setup
+(Set-up), modify game options (Options), or return to the Race Weekend Menu
+(End Practice).
+
+Qualifying
+
+Basically the same as Free Practice, except your goal is to get the best lap
+time possible.  The time needed to get the pole position fluctuates and
+becomes lower at higher difficulty levels.
+
+Race
+
+The main event.  You will start the race on the track at a complete stop in the
+position you qualified in (if you skip qualifying you get stuck in 10th).  If
+you go in to the Option menu, you'll notice that the Set-up option is missing,
+so make sure you finish all of your customizations BEFORE entering the Race!
+
+Abandon Event
+
+Return to the Main Menu.
+
+-------------------------------------------------------------------------------
+B.  Championship
+
+Championship allows a single player to race a full season on all 16 tracks.
+You earn points based on the position you finish a race, the racer with the
+most points at the end of the season wins.  After each race you'll be given a
+password so you can continue where you left off.
+
+When you choose Championship Mode, you'll go to the Championship Menu:
+
+First Race
+
+Head to the Race Weekend Menu for the USA track.  Everything here is identical
+to Single Race Mode.
+
+Enter Code
+
+Enter your 32-digit password using the numpad.  Please be aware that the
+password ONLY saves your total points, number of wins, and current track.
+EVERYTHING else (difficulty, car setup, player name, etc.) will be lost when
+you turn the power off.
+
+Standing
+
+View the current points standings.
+
+Exit
+
+
+Note:  The Points Chart in the instruction booklet is incorrect, here is the
+       correct one:
+
+Position     Points
+  1st          9 pts.
+  2nd          7 pts.
+  3rd          5 pts.
+  4th          3 pts.
+  5th          2 pts.
+  6th          1 pt.
+  7th-10th     0 pts.
+
+-------------------------------------------------------------------------------
+C.  Arcade
+
+Play a one or two player arcade-style season.  Your goal is to make it through
+all 16 tracks.  As you progress you will have to finish further up the field in
+order to qualify for the next track.  If you fail to qualify in one player mode
+your game will end.  In two player mode, if one player fails to qualify, he 
+will get to move on to the next track, but he'll lose all his points.  If both
+players fail to qualify, the game is over.
+
+Unlike the other two modes, there is no Free Practice nor Qualifying in Arcade
+Mode.  You ARE allowed to modify your setup by going into the Option menu like
+usual.
+
+Points
+
+   1 pt.      Per Lap for each mph
+ 250 pts.     Overtaking an opponent
+-500pts.      Losing a position to an opponent
+
+Qualifying Chart
+
+  Race No.   Position Needed
+        1     9th                
+        2     8th 
+        3     7th
+        4     6th
+        5     5th
+        6     5th
+        7     4th
+        8     4th
+        9     3rd
+       10     3rd
+       11     2nd
+       12     2nd
+       13     2nd
+       14     1st
+       15     1st
+       16     1st
+
+*******************************************************************************
+IV.    Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joypad Left/Right      Steer Car
+Joypad Up/Down         Shift Gears (Manual Gearbox Only)
+A Button               Accelerate
+B Button               Brake
+C Button               Change Camera View
+Numpad 1               Cockpit View
+Numpad 2               Chase View
+Numpad 3               Chase View
+Numpad 4               Side View (Hold)
+Numpad 5               Rear View (Hold)
+Numpad 6               Side View (Hold)
+Numpad 7               Fly-by Camera (Hold)
+Numpad 8               Toggle Texture Maps On/Off (Default is OFF)
+Numpad 9               Toggle Radar On/Off
+Numpad * + #           Resets Game
+
+-------------------------------------------------------------------------------
+B.  Basic Strategies
+
+-  I recommend using an Automatic Gearbox.
+
+-  Don't forget to use your brakes!  A single soft tap before a curve makes
+   turning a LOT easier.
+
+-  When using Soft Tires, be sure to keep the number of laps low so they
+   don't wear out.
+
+-  Avoid crashes, they will damage your car and losing a wing will absolutely
+   kill your car's handling.
+
+-  Cars ahead of you will be green on your radar while those behind will be
+   blue.
+
+-  Experiment with the various car setups to find one that best suits your
+   driving style.
+
+*******************************************************************************
+V.     Workshop
+
+-------------------------------------------------------------------------------
+A.  Tires
+
+There are three types of tires:
+
+- Soft
+Soft tires give you the best grip but will wear out the fastest.
+
+- Medium
+Medium tires are a balance of grip and durability.
+
+-  Hard
+Hard tires have the least grip but the most durability.
+
+Once your tires wear out, your car's handling will greatly decrease.  I
+recommend that you use soft tires, as long as you keep the race distance under
+five laps, you shouldn't have to worry about them wearing out.
+
+-------------------------------------------------------------------------------
+B.  Wings
+
+The wing angle affects grip and speed.  A higher wing angle means more grip
+but less top speed while a lower angle gives you more speed but less grip.
+
+Your car has a front and rear wing, these are adjusted separately.  Having a
+higher angle on the rear wing than the front will give sharper steering.
+
+Note:  In my recommended setups in the Tracks section, the + and - numbers
+       represent how many marks to the right or left to move the slider from
+       the center.
+
+-------------------------------------------------------------------------------
+C.  Gearbox
+
+The gearbox allows you to customize the gear ratios using the slider.  Having
+higher gears means more top speed but slower acceleration while shorter gears
+give you better acceleration but lower top speed.
+
+Note:  In my recommended setups in the Tracks section, the numbers represent
+       how many marks from the left to move the slider.
+
+-------------------------------------------------------------------------------
+D.  Brakes
+
+Here you can adjust the braking balance.  Moving the slider to the left will
+cause your car to turn to the left when braking and moving the slider to the
+right will cause your car to turn right while braking.  
+
+Note:  In my recommended setups in the Tracks section, whenever I say +1, -3,
+       etc., what I mean is that you move the slider so that its CENTER is
+       lined up that many spaces to the right or left.
+
+*******************************************************************************
+VI.    Tracks
+
+In this section I list my recommended setup for each track, my best lap time
+with that setup, and the approximate times needed to qualify in the pole
+position for each of the three difficulties.
+
+-------------------------------------------------------------------------------
+A.  U.S.A.
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.0  4: 5.0  5: 6.5  6: 8.5  |
+|    Tires:       Soft            Brakes:     -1      |
+|    Front Wing:  +3              Rear Wing:  +3      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:02.9                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:19.7    Med:  1:07.4    Hard:  1:00.9 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+B.  Hungary
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.5  3: 3.5  4: 5.0  5: 6.5  6: 8.0  |
+|    Tires:       Soft            Brakes:     +2      |
+|    Front Wing:  +2              Rear Wing:  +2      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:08.3                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:23.7    Med:  1:09.8    Hard:  1:04.0 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+C.  Germany
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.5  3: 3.5  4: 5.5  5: 7.0  6: 9.0  |
+|    Tires:       Soft               Brakes:  +3      |
+|    Front Wing:  -2              Rear Wing:  -2      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:42.8                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:53.8    Med:  1:42.5    Hard:  1:37.7 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+D.  Brazil
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.5  3: 3.5  4: 5.5  5: 7.0  6: 9.0  |
+|    Tires:       Soft               Brakes:  -1      |
+|    Front Wing:  +1              Rear Wing:  +1      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:13.0                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:28.4    Med:  1:15.6    Hard:  1:09.2 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+E.  San Marino
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.5  3: 3.5  4: 5.5  5: 7.0  6: 9.0  |
+|    Tires:       Soft            Brakes:     -2      |
+|    Front Wing:  +2              Rear Wing:  +2      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:23.0                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:31.4    Med:  1:20.9    Hard:  1:16.6 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+F.  Monaco
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.5  4: 4.5  5: 6.5  6: 8.0  |
+|    Tires:       Soft            Brakes:     -3      |
+|    Front Wing:  +7              Rear Wing:  +7      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:05.7                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:17.5    Med:  1:07.4    Hard:  1:00.4 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+G.  Mexico
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.5  3: 3.5  4: 5.5  5: 7.0  6: 9.0  |
+|    Tires:       Soft            Brakes:     +0      |
+|    Front Wing:  +0              Rear Wing:  +0      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:13.7                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:26.6    Med:  1:14.7    Hard:  1:10.7 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+H.  Canada
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 3.0  3: 4.5  4: 6.0  5: 7.0  6: 9.0  |
+|    Tires:       Soft            Brakes:     +3      |
+|    Front Wing:  -1              Rear Wing:  -1      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:09.5                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:18.8    Med:  1:10.2    Hard:  1:06.2 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+I.  France
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.0  4: 5.0  5: 6.5  6: 8.5  |
+|    Tires:       Soft            Brakes:     +2      |
+|    Front Wing:  +2              Rear Wing:  +5      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:13.0                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:23.4    Med:  1:12.0    Hard:  1:06.8 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+J.  England
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 3.0  3: 4.5  4: 6.0  5: 7.5  6: 9.0  |
+|    Tires:       Soft            Brakes:     +0      |
+|    Front Wing:  +2              Rear Wing:  +2      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:16.2                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:26.9    Med:  1:15.6    Hard:  1:10.9 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+K.  Portugal
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 3.0  3: 4.5  4: 6.0  5: 7.5  6: 9.0  |
+|    Tires:       Soft            Brakes:     +1      |
+|    Front Wing:  +2              Rear Wing:  +2      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:09.8                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:21.5    Med:  1:11.4    Hard:  1:07.3 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+L.  Italy
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 3.0  3: 4.5  4: 6.0  5: 7.5  6: 9.0  |
+|    Tires:       Soft            Brakes:     +1      |
+|    Front Wing:  -1              Rear Wing:  -1      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:09.8                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:21.5    Med:  1:32.7    Hard:  1:27.7 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+M.  Egypt
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.5  4: 4.5  5: 6.5  6: 8.0  |
+|    Tires:       Soft            Brakes:     -3      |
+|    Front Wing:  +3              Rear Wing:  +3      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:11.7                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:26.3    Med:  1:12.5    Hard:  1:04.9 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+N.  Australia
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 3.0  3: 4.5  4: 6.0  5: 7.5  6: 9.0  |
+|    Tires:       Soft            Brakes:     -1      |
+|    Front Wing:  +1              Rear Wing:  +1      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:18.5                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:30.8    Med:  1:20.1    Hard:  1:14.4 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+O.  Japan
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.5  4: 4.5  5: 6.5  6: 8.0  |
+|    Tires:       Soft            Brakes:     -2      |
+|    Front Wing:  +4              Rear Wing:  +4      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:08.2                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:20.7    Med:  1:05.3    Hard:  0:59.4 |
+ -----------------------------------------------------
+-------------------------------------------------------------------------------
+P.  India
+ _____________________________________________________
+|  RECOMMENDED SETUP                                  |
+|    Gearbox:  Automatic                              |
+|     1: 1.0  2: 2.0  3: 3.5  4: 4.5  5: 6.5  6: 8.0  |
+|    Tires:       Soft            Brakes:     +3      |
+|    Front Wing:  +4              Rear Wing:  +4      |
+|-----------------------------------------------------|
+|  TIMES                                              |
+|    My Best Lap:  1:08.9                             |
+|    Approx. Pole:                                    |
+|      Easy:  1:19.5    Med:  1:07.9    Hard:  1:01.3 |
+ -----------------------------------------------------
+*******************************************************************************
+VII.   Passwords and Cheats
+
+-------------------------------------------------------------------------------
+A.  Passwords
+
+These are my Championship passwords.  Remember that passwords do NOT save your
+name, car setup, nor the difficulty level!
+
+USA
+
+N/A
+
+Hungary
+
+00000000
+39775353
+89962390
+73280045
+
+Germany
+
+00000000
+79551046
+03471662
+28684906
+
+Brazil
+
+00000001
+19326399
+94772009
+78124949
+
+San Marino
+
+00000001
+58992148
+42943373
+31404962
+
+Monaco
+
+00000001
+98767840
+55781608
+81869027
+
+Mexico
+
+00000002
+38405751
+25614415
+21869046
+
+Canada
+
+00000002
+78016008
+79403126
+13069118
+
+France
+
+00000003
+17735873
+87717989
+33709151
+
+England
+
+00000003
+57456247
+94746532
+82509167
+
+Portugal
+
+00000003
+97231943
+30374157
+27309218
+
+Italy
+
+00000004
+36898027
+90024223
+29549270
+
+Egypt
+
+00000004
+76673723
+24980785
+31789302
+
+Australia
+
+00000005
+16448556
+41824375
+93293344
+
+Japan
+
+00000005
+56113783
+06168207
+28013387
+
+India
+
+00000005
+95888619
+45134292
+50253434
+
+-------------------------------------------------------------------------------
+B.  Cheats
+
+I found the following two cheats on www.ataritimes.com:
+
+Drive Bus
+
+In Single Race or Championship Mode, hold 4 on the numpad when you select
+Free Practice, Qualify, or Race to drive the bus.
+
+Track Edit Mode
+
+In Single Race or Championship Mode, hold 0 on the numpad when you select
+Free Practice, Qualify, or Race.  A bunch of numbers will appear on screen.  
+Use the joypad to make changes, then restart the race to drive on the modified
+track.
+
+*******************************************************************************
+VIII.  Game Review
+
+World Tour Racing was released for the JaguarCD in May of 1997, nearly a year
+after the end of Atari.  Several games for the JagCD were do-overs of cartridge
+games, think of WTR as a do-over of Checkered Flag.
+
+The biggest improvement over Checkered Flag is the controls, they're very
+responsive and intuitive.  There are multiple customizations available so you
+can fine tune your car to handle just the way you want it.  One feature I
+like is the steering help, the AI automatically guides your car from the
+pits onto the track and will also help during turns.
+
+The graphics are also much better than in Checkered Flag.  The cars, tracks,
+and backgrounds are much more detailed and the frame rate is a lot smoother.
+There are a lot of CG cutscenes sprinkled throughout that look pretty good
+for pre Final Fantasy 7.
+
+The audio is a real disappointment, especially for a CD-ROM game.  There are
+only three audio tracks and the quality is closer to a cartridge than a CD.
+Checkered Flag had more digitized voiceovers, here the announcer is limited to
+announcing the final lap.  
+
+There are a couple of design decisions that are questionable.  The one I really
+hate is the fact that there are AI racers on the track during qualifying, every
+race fan knows that it should just be one driver at a time!
+
+Another odd design decision is the lack of Memory Track support.  Trying
+to beat your best lap times is what gives racing games such high replay values,
+and the fact that the game doesn't save your times is a major downer.  There is
+a password feature for the Championship Mode, but it doesn't save your name,
+car config, or even the difficulty level.
+
+One final nitpick is the instruction booklet, Telegames is notorious for having
+poor game manuals and this game is no exception.  While not nearly as bad as
+Brutal Sports Football, it still seems like it was slapped together at the last
+second.  There are several mistakes: the points table for Championship Mode is
+incorrect, it states there are 12 tracks (there are 16), it says Free Practice
+is unlimited (you only get five laps), and it doesn't mention anything about
+car damage.
+
+World Tour Racing is second only to Super Burnout when it games to racers on
+the Jaguar, if you own the JagCD, you should definitely check it out.
+
+Pros
+
++  16 distinct tracks.
++  Your car is fully customizable.
++  Two player.
+
+Cons
+
+-  There is no excuse for having only 3 audio tracks on a CD-ROM game!
+-  Doesn't make use of the Memory Track.
+
+*******************************************************************************
+IX.    Version History
+
+1.0   03/07/10   Completed FAQ.
+
+*******************************************************************************
+X.     Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing your opinions of this guide and any thoughts or
+suggestions for improvement.
+
+*******************************************************************************
+
+End

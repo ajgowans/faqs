@@ -1,0 +1,372 @@
+*******************************************************************************
+Super Burnout for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  12/21/08
+
+This document Copyright 2008 by Brian Hodges.  This FAQ is not to be posted
+without explicit permission by me.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  Quick Start
+         B.  Menu
+               1.  Best Racers
+               2.  Controls
+               3.  Options
+               4.  Sound
+III.   Basic Gameplay
+         A.  Mode Descriptions
+               1.  Trainer Mode
+               2.  Versus Mode
+               3.  Championship Mode
+               4.  Record Mode
+         B.  Controls
+         C.  Tips
+IV.    Bike Descriptions
+         A.  Stat Explanations
+         B.  Bike Stats
+         C.  My Recommendations
+V.     Course Descriptions
+         A.  America    
+         B.  Australia           
+         C.  Brazil              
+         D.  Canada               
+         E.  France              
+         F.  Germany              
+         G.  Hungary          
+         H.  Japan 
+VI.    Codes
+VII.   My Best Times
+VIII.  Game Review
+IX.    Special Thanks
+X.     Version History
+XI.    Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Super Burnout.  It contains information
+on the various tracks and bikes and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+-------------------------------------------------------------------------------
+A.  Quick Start
+
+Press A or C on the title screen.  Lightning Racer will be assigned as your
+bike.  Now just pick the course you want to race.
+
+-------------------------------------------------------------------------------
+B.  Menu
+
+Press B on the title screen to bring up the menu.
+
+...............................................................................
+1.  Best Racers
+
+Selecting this option lets you see the records for each track.  Just move the
+control pad left or right to cycle through the eight tracks.  The game will
+save the best average time and the best single lap time for each track.
+Unfortunately it doesn't tell you which bike you used.
+
+...............................................................................
+2.  Controls
+
+This allows you to change the functions of the A, B, and C buttons.  The
+Transmission option allows you to choose between a manual or automatic
+transmission.
+
+...............................................................................
+3.  Options
+
+This allows you to change various gameplay options.
+
+Drones:  Change the AI strength.  Choose between Weak, Average, or Strong.
+Number of Laps:  Change the number of laps for each race, can be 2-7.
+Racing:  Allows you to pick which type of race to run.  Choose from Trainer
+         Mode, Versus Mode, Championship Mode, or Record Mode.
+Select Bike:  Choose which bike to use.
+
+After you are down, press C to move to the Track Selection screen.
+
+...............................................................................
+4.  Sound
+
+Allows you to change between Mono and Stereo sound.  There is also a music 
+test mode here.
+
+*******************************************************************************
+III.   Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Mode Descriptions
+
+...............................................................................
+1.  Trainer Mode
+
+This mode lets you race against six AI opponents on the track of your choice.
+
+...............................................................................
+2.  Versus Mode
+
+This is the two player mode.  This mode allows you and a friend to race on the
+track of your choosing.  The race is viewed with a split screen.
+
+...............................................................................
+3.  Championship Mode
+
+In Championship Mode, you race on all eight tracks against six AI opponents.
+
+...............................................................................
+4.  Record Mode
+
+This is the Time Trial Mode.  You race by yourself on the track of your choice,
+the goal is to get the best time possible.  The game gives you real time data
+on how well you are doing compared to the best time, this is the first racing
+game I played that had that feature!
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Note:  You can change what the buttons do in the Options menu.
+
+Left and Right:  Steer
+B Button:  Accelerate
+A Button:  Brake
+C Button:  Shift gears on a Manual Transmission.  Press C and Up to shift up,
+           C and Down to shift down.
+Pause:     Pauses the game.  While the game is paused, you can adjust the
+           volume level of the music, sound, and voices with A, B, and C.
+
+-------------------------------------------------------------------------------
+C.  Tips
+
+-  The dark marks on the track represent the optimum line.  Try to stay on it
+   as much as possible.
+
+-  Colliding with an opponent going much faster or slower than you will cause
+   you to crash.
+
+-  When entering your initials for a high score, use the control pad to change
+   the letters, press B when you are done.
+
+*******************************************************************************
+IV.    Bike Descriptions
+
+-------------------------------------------------------------------------------
+A.  Stat Explanations
+
+Grip is how well the bike handles.  The higher the grip, the higher the speeds
+at which you can take curves.  Acceleration is determines how quickly the bike
+reaches its maximum speed.  The higher the acceleration, the less time it takes
+to reach full speed.  Max Speed is the fastest the bike can travel on a 
+straight and level stretch.
+
+-------------------------------------------------------------------------------
+B.  Bike Stats
+
+
+Bike             Grip      Acceleration  Max. Speed
+
+Super Rabbit     Medium    Medium        155 MPH
+Killing Turtle   High      Low           148 MPH
+Sliding Thunder  Very Low  Medium        227 MPH
+Lightning Racer  Low       Low           217 MPH
+Wheels of Terror Low       High          200 MPH
+Reflex Z         Medium    Low           169 MPH
+Punisher         High      High          218 MPH
+
+-------------------------------------------------------------------------------
+C.  My Recommendations
+
+The easiest bike to start out with is the Killing Turtle because of its high
+grip rating.  It will let you get a feel of the game without getting frustrated
+at constantly running off the road and crashing.  Unfortunately it has low
+acceleration and top speed, so if you do wreck you are pretty much finished.
+
+For the Championship mode I prefer the Super Rabbit because its balanced stats
+will get you through the various course types.
+
+For High Speed tracks I prefer Wheels of Terror.  You may think that because
+Sliding Thunder has a higher top speed, it would be better, but because of its
+terrible grip you will have to slow down a LOT for curves and with the low
+acceleration you will take far too long getting up to speed.
+
+For Semi-Technical tracks I like Super Rabbit.  Its grip is good enough to 
+handle most curves without slowing down too much and though it has a low top
+speed, its decent acceleration lets you attain it quickly.
+
+For Technical the Killing Turtle is best, just be sure not to wreck or you will
+be quickly out of the race.
+
+Of course you can always enter the cheat code and unlock the Punisher, by far
+the best bike in the game, but that would ruin a lot of the fun ;)
+
+*******************************************************************************
+V.     Course Descriptions
+
+-------------------------------------------------------------------------------
+A.  America   
+
+America is a High Speed course.  I recommend using Wheels of Terror here.  The
+three turns to watch out for are the first turn, the right angle before the
+last hairpin, and the final hairpin itself.  Do a hard brake for these.  For
+the rest of the turns, tap the brakes as needed.
+
+------------------------------------------------------------------------------- 
+B.  Australia   
+
+Australia is considered a Technical course.  The Killing Turtle is the best
+bike to use here.  You should be able to hold down B for the entire course.
+Begin turning before hitting the two long curves and you shouldn't even have
+to let go of B!
+
+-------------------------------------------------------------------------------
+C.  Brazil  
+
+Brazil is also a Technical course, so bring along the Killing Turtle.  You 
+shouldn't have too much trouble on the turns here.  This is one of my favorite
+courses to race on.  The race starts just before dawn and as the race
+progresses, the sun starts to rise and it gets lighter and lighter!
+
+-------------------------------------------------------------------------------
+D.  Canada 
+
+Canada is another High Speed course, so I recommend using Wheels of Terror.
+Brake as needed on the curves and be sure to watch out for that wicked hairpin!
+
+-------------------------------------------------------------------------------
+E.  France  
+
+France is a Semi-Technical course.  I recommend using the Super Rabbit.  With
+the exception of the two hairpin curves, you can just hold down B for the
+entire track.  When you get to those hairpins, do a HARD brake (almost a 
+complete stop), otherwise you will go flying off the track and crash!
+
+-------------------------------------------------------------------------------
+F.  Germany  
+
+Germany is another High Speed course, so once again use Wheels of Terror.  The
+only real obstacle to worry about is the second hairpin near the end, for some
+reason there are no warning arrows here!
+
+-------------------------------------------------------------------------------
+G.  Hungary    
+
+Hungary is a Semi-Technical course, so that means you should use the Super
+Rabbit.  With the exception of the last hairpin, you should be able to hold
+down B for the entire race.
+
+-------------------------------------------------------------------------------
+H.  Japan 
+
+Japan is a Technical course, so you should use the Killing Turtle.  There's
+only one hairpin turn here and the Killing Turtle has enough grip to handle
+everything else.
+
+*******************************************************************************
+VI.    Codes
+
+The following codes are from GameFAQs and are credited to havok6188.
+
+Punisher
+
+Enter the digits 2, 1, 7, 9, 4 on the title screen.  You will hear a tone if
+you did it correctly.  The Punisher will now be available.  Each time you turn
+off the power you will have to enter the code again.  Any records made using
+the Punisher WILL be saved however.
+
+Turbo
+
+Enter the digits 1, 9, 6, 7, 2 on the title screen.  You will hear a tone if
+you did this correctly.  Now make sure you are using an automatic transmission
+and choose Sliding Thunder, Lightning Racer, Wheels of Terror, or Punisher as
+your bike.  When racing, once your bike reaches 175 press and hold C for a 
+turbo boost.  The game will not save any records broken with turbo enabled.
+
+Version Number
+
+If you power on the game while holding down the A, B, and C buttons, the
+loading text will change to show the game's version number and build date.
+
+(Mine is version 2.97, May 25th 1995)
+
+*******************************************************************************
+VII.    My Best Times
+
+Here are my best times with normal bikes:
+
+Track                 Average Time              Best Time   Bike
+America               0'43"10                   0'40"98     Wheels of Terror
+Australia             0'36"00                   0'35"04     Killing Turtle
+Brazil                0'37"24                   0'36"18     Killing Turtle
+Canada                0'38"31                   0'36"97     Wheels of Terror
+France                0'57"26                   0'59"53     Super Rabbit
+Germany               0'42"82                   0'41"17     Wheels of Terror
+Hungary               0'49"47                   0'48"24     Super Rabbit
+Japan                 0'45"83                   0'44"33     Killing Turtle
+
+These are my best times using the Punisher:
+
+Track                 Average Time              Best Time    
+America               0'37"64                   0'35"22      
+Australia             -'--"--                   -'--"--
+Brazil                -'--"--                   -'--"--
+Canada                -'--"--                   -'--"--
+France                -'--"--                   -'--"--
+Germany               -'--"--                   -'--"--
+Hungary               -'--"--                   -'--"--
+Japan                 -'--"--                   -'--"--
+
+
+*******************************************************************************
+VIII.   Game Review
+
+Super Burnout is an excellent racing game and a definite must own for all 
+Jaguar fans.
+
+Pros
+
+-  Game gives you a great sense of speed.
+-  Excellent soundtrack.
+-  There's a two player mode.
+-  The game stores your best times.
+
+Cons
+
+-  The graphics aren't that much more detailed than Super Hangon, which came
+   out six years earlier!
+
+*******************************************************************************
+IX.     Special Thanks
+
+Special Thanks go to havok6188 for codes to unlock Punisher, Turbo, and the
+Version Number.
+
+*******************************************************************************
+X.  Version History
+
+1.0   12/21/08  Created FAQ.
+
+*******************************************************************************
+XI.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

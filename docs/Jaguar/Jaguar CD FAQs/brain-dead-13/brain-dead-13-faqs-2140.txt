@@ -1,0 +1,100 @@
+                                BrainDead 13
+
+Quickest path through the castle:
+
+Start: Hallway
+left, up, left
+
+Conservatory:
+left, right, fire, up, left
+
+Hallway:
+left, left
+
+Red Witch:
+up, right, fire, right, right, right, down, right, up, fire, up,
+right, right,
+fire
+
+Hallway:
+right
+
+Vivi:
+up, fire, left(shave), fire, right, right, right(manicure), up, left,
+up,
+right, left, up, left, right(facial), fire, fire, left
+
+Hallway:
+up, right
+
+Blue Witch:
+up, left, fire, left, left, left, down, left, up, fire, up, left,
+left, fire
+
+Hallway:
+right
+
+Conservatory:
+right, left
+
+Hallway:
+right
+
+Bedroom:
+down, fire, fire, fire, right
+
+Library:
+down, up, right
+
+Hallway:
+up
+
+Garden:
+right, right, up, left, left, left, left, down, down, right, up, up
+
+Statue:
+left, left, left, left, fire, right, fire, down, fire, fire, right,
+right,
+right, left, right, fire, fire, fire, right, fire, fire
+
+Hallway:
+left
+
+Library:
+down, left, fire, fire, up, up
+
+Bedroom:
+down, left, up
+
+Hallway:
+left
+
+Conservatory:
+left, right, fire, up, left
+
+Hallway:
+up
+
+Moose:
+right, fire, up, right, right, left, right, up, fire, right, down, up,
+up,
+down, down, left, right, up, left, right, up, left, right, right
+
+Hallway:
+left, up
+
+Fritz Showdown:
+fire, left, fire, fire, fire, left, fire, right, left, right, left,
+fire,
+right, fire, left, fire, right, fire, left, right, left, right, fire
+
+Brain Chamber:
+left, right, right, down, left, right, down, fire, right, up,
+down, fire, down, fire, fire, fire, up
+
+That's it ! This will give you the ending (which is a real fizzle
+compared to the rest of the game and intro).
+
+Notice you never have to go into the cellar, kitchen, trophy room and
+that underground thing with the cocoons.
+

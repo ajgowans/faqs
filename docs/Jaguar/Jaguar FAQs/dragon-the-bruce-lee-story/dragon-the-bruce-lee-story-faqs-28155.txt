@@ -1,0 +1,507 @@
+
+===============================================================================
+****************** DRAGON - THE BRUCE LEE STORY: FAQ/WALKTHRU *****************
+===============================================================================
+
+                     Beat 'em Up; released 1994 UK
+
+                             Atari Jaguar
+
+                 FAQ/WALKTHRU (Final Version) 29/03/2004
+
+Author - falsehead (Sophie Cheshire). Contact me at falsehead@aol.com
+
+Copyright stuff; this is (c) Sophie Cheshire. If you wish to use this FAQ on
+your website, feel free to do so under the following conditions. a) You email
+me first and let me know where it will be appearing and b) you do not alter the
+content in anyway (if you need to change the formatting slightly for display
+purposes that's OK).
+
+This guide may NOT be used as part of a restricted Pay-to-Enter website or in
+print unless you are prepared to pay me for its inclusion.
+
+If I find out that any part of this FAQ has been lifted and used without credit
+to me, especially if you use it to earn money, then I will be annoyed. I didn't
+type all this up for the good of my health you know.
+
+===============================================================================
+*********************************** CONTENTS **********************************
+===============================================================================
+
+1) INTRODUCTION/REVISION HISTORY
+
+2) THE BASICS
+- The Plot!
+- Bruce's Moves
+
+3) WALKTHROUGH
+- Hong Kong
+- Gussie Yang's Kitchen
+- Seattle
+- Oakland
+- Hong Kong
+- Bruce's Kwoon
+- Long Beach Stadium
+- Thailand
+- Hong Kong
+- Graveyard
+
+4) EXTRAS
+- Two Player Mode
+- Bonus Level
+
+===============================================================================
+***************************** 1) INTRODUCTION *********************************
+===============================================================================
+
+INTRODUCTION - Oh blimey, not another useless Jaguar game FAQed by yours truly.
+ Well I have to justify buying the console somehow.  Only joking, I love my
+Jaguar.  However "Dragon - The Bruce Lee Story" is not a very good game.  It's
+a conversion of the 16bit SNES version with absolutely no extras or spiffing up
+of the graphics as far as I can see.  But I think a Jaguar specific FAQ is
+going to be useful for this game as the controls have been totally messed up in
+the conversion making it even harder to play than its 16bit cousin!
+
+So other than that, it's not a huge game.  Simply 10 levels of fighting
+"action" with only Brucie as a selectable character and some half-assed
+two-player modes added in.  It's loosely based on the rather crummy film
+"Dragon: The Bruce Lee Story" which came out in 1993 and starred Jason Scott
+Lee (no relation).  It's not the best representation of Brucies life it has to
+be said, so I've included a quick plot description from the manual to save you
+the pain of viewing it.  Well enjoy the FAQ!
+
+
+*******************************************************************************
+
+REVISIONS - (Version 1.0) 16/01/2004
+
+Well version 1.0 done with all the moves, modes and levels covered.  Next
+update most likely to be the last.
+
+Final Version (29/03/2004) - Guide was pretty much complete when it first went
+up, so I have just fixed some typoes and fiddled with the formatting and that's
+it, I shall not be doing any more work on this guide.
+
+===============================================================================
+****************************** 2) THE BASICS **********************************
+===============================================================================
+
+THE PLOT - (courtesy of the manual) "No single teacher, artist or film star had
+more impact on the martial arts than Bruce Lee.  His influence still lives on
+in Hollywood stars such as Stephen Segal and Jean Claude Van Damme, who have
+followed in his supremely choreographed footsteps.
+
+Born in San Francisco on November 27 1940 - the year of the dragon - Lee was
+christened Li Jun Fan.  The name means return to San Francisco, since his
+mother, who was to take the family back to Hong Kong less than a year after his
+birth, felt a return to that city was part of his destiny.
+
+Indeed it was. After a turbulent upbringing, listed as a juvenile delinquent
+and in regular trouble with the police, Lee's parents paid for martial arts
+lessons in an attempt to shield their son from further harm. Unfortunately for
+Bruce, no one could save him from his own personal fears.  These were
+personified by THE PHANTOM or Mythical Samurai which was to plague his thoughts
+and dreams throughout his life.
+
+Lee learnt a style known as Wing Chun, named after the woman who developed it.
+Its is a stripped down version of kung fu relying on low kicks and a defensive
+style known as chi sao or "sticking hands".  This technique which involves
+responding to your opponents moves by deflecting their blows with minimal
+efforts.  Bruce took this style and refined his own idea, "no form" or Jun Fan,
+from it.  A blend of many styles including karate, savate, judo and even
+Muhammad Ali's boxing, it was actually inspired by sword fighting, working on
+the concept of parry and counter in one movement.  It became known as Jeet Kune
+Do, the stop-fast hitting style.
+
+At the age of 18 he returned to San Francisco as his name had predicted.  He
+earned cash as a waiter at his aunt's restaurant, giving dancing lessons and
+demonstrating martial arts. However it was by giving private lessons to
+wealthier clients from the film industry such as Steve MacQueen, James Coburn
+and Elvis Presley that earned him both a living and the contacts he needed in
+Hollywood to launch his film career.
+
+After a difficult start, Lee achieved some fame on both sides of the Pacific.
+But it was the success of Way of the Dragon that finally gave Bruce his big
+break in Hollywood. Enter the Dragon was his first feature there.  With its
+fast-paced sequences and violent combat action it made him a world-wide
+celebrity.  To date, the film has grossed $200 million, making it one of the
+most commercially successful movies ever made.
+
+Bruce Lee was pronounced dead on July 20 1973, aged 32.  Newspaper reports
+concerning an affair, rivalry with business associates and rumours that he had
+refused to pay protection money to the Triads, continue to give credence to the
+conspiracy theories that suggest he was poisoned.  Indeed traces of drugs
+discovered at his post-mortem continue to shroud his death in mystery.  Some
+say he fought his final battle against The Phantom and lost.
+
+To this day he continues to be front page news in the Far East where his legend
+remains undimmed."
+
+-------------------------------------------------------------------------------
+BRUCE'S MOVES
+-------------------------------------------------------------------------------
+
+Bruce does have quite a few moves at his disposal, and also three modes he can
+fight in.  His normal/mantis mode gives him plenty of offensive and defensive
+moves.  Fighter mode gives him a reduced set of moves and makes it easier to
+suffer a stun, but gives him great speed and power.  Finally Nunchuka mode
+gives him a handful of super-powerful Nunchuka moves.  These two modes can be
+accessed by filling up Bruce's chi metre. You fill up the Chi metre by
+performing successful attacks.
+
+One thing is notable about this game is that, unlike the SNES game it's based
+on, the Jaguar has to cope with a three button pad layout, rather than four.
+So in a stroke of programming stupidity, Hard Punch and Hard Kick are on the
+same button and have to be toggled using the OPTION button. Gah!
+
+- CONTROLS
+
+A = Hard Kick/Hard Punch
+B = Fast Punch
+C = Fast Kick
+
+Option = Toggle Hard Kick/Punch
+
+Pause = Pause Game/Bring Up In Game Options by pressing A, B or C
+
+# and * = Restart Game
+
+
+NORMAL (MANTIS) MODE
+
+- CLOSE RANGE MOVES (perform when right up against an opponent)
+
+Knee             Fast Kick
+Shin Kick        Fast Kick (when opponent is crouching)
+Throw            back + Fast Punch
+High Kick        Hard Kick
+Stomp            up, down (while opponent is grounded)
+
+- SHORT RANGES MOVES (perform when a few steps away from opponent)
+
+Forearm Smash    Fast Punch x 3
+                 Hard Punch x 2
+Low Punch        down + Hard Punch
+Low Fast Kick    down + Fast Kick
+Low Hard Kick    down + Hard Kick
+
+- MEDIUM RANGE MOVES
+
+Roundhouse       Hard Kick x 2
+Reverse Kick     back + Hard Kick x 2
+Split Kick       Hard Kick (when surrounded)
+Jump Kick        up + (any) Kick
+Chop             up + (any) Punch
+
+- LONG RANGE MOVES
+
+Flip Kick        down-forwards + Hard Kick
+Flying Kick      up-forwards or up-back + (any) Kick
+Flying Chop      up-forwards + (any) Punch
+
+- DEFENSIVE MOVES
+
+High Block       back
+Crouch           down
+Crouch Block     down-back
+Flip             down-back or down-forwards
+Recover          tap any attack button quickly
+Recovery Kick    Hard Kick (from a knockdown)
+Counter Throw    back + Fast Punch (when opponent goes for a throw)
+
+- FIGHTER MODE
+(activate Fighter mode when Chi metre is at 50% by pressing 2 or 5)
+
+Ultrafast Punch  (any) Punch x multiple
+Ultrafast Kick   (any) Kick x multiple
+Somersault       up-back or up-forwards
+Ultra Jumpkick   up + Fast Kick
+Ultra Flyingkick up + Hard Kick
+
+When in Fighter Mode, Bruce is much more likely to suffer a stun and become
+vulnerable for a few seconds.  Although he gets more speed and power, it's
+probably better to let your Chi build up to enter Nunchuka Mode.
+
+- NUNCHUKA MODE
+(activate Fighter mode when Chi metre is at 75% by pressing 3 or 6)
+
+Stab Attack      Hard Kick
+Swing Attack     Fast Kick
+Neck Tie         forward + Fast Punch (must be a VERY close range)
+
+When your Chi drops below 75%, you'll lose your Nunchuks.  You can gain Chi
+without attacking in normal mode by quickly alternating between Hard and Fast
+Punch's (mash them quickly) to keep boosting your chi back up.  Chi is gained
+also when a successful attack is made, unsuccessful or blocked attacks lose you
+Chi. Collecting a Yong Yang symbol in two-player VS mode also refills Chi.
+
+===============================================================================
+****************************** 3) WALKTHROUGH *********************************
+===============================================================================
+
+Before you get started you need to choose a difficulty mode.  In "Piece of
+Cake" mode you can only fight as far as level 4.  In "Easy" mode you can go as
+far as level 7.  From "Normal" mode onwards, you can fight all the way through
+to level 10.  The only thing that really changes is the cheapness of your
+opponents.  they get much better at magically "anticipating" your moves as the
+difficulty gets higher.
+
+You can also tackle Story Mode with two players, this is covered in the
+"Extra's" section of this guide. You can also select the speed of play
+increasing to "turbo" and "manic" for extra fast fighting action.
+
+-------------------------------------------------------------------------------
+Level 1: HONG KONG
+-------------------------------------------------------------------------------
+Description: It's the Lantern Festival Dance and the American sailors are
+             spoiling for a fight!
+Enemies: Sailor with whip-chain
+Notable Enemy Moves: Roll, Chain Choke
+
+Some sailor boy is trying to muscle in on your action, so time to slpa him
+down.  He is armed with a chain, so can hit you from a longer range than normal
+hand-to-hand.   You best bet is to knock him to the ground with a Forearm Smash
+combo and then Stomp on his prone body. Practise your Flip Kick on him as well,
+this will place you in good stead with more difficult opponents.
+
+To avoid his powerful uppercuts, stay at a distance and jump in with flying or
+close range attacks.  You can try and throw him as well if you feel confident,
+the Throw is one of the most damaging moves in the game and can finish him very
+quickly.
+
+-------------------------------------------------------------------------------
+Level 2: GUSSIE YANG'S KITCHEN
+-------------------------------------------------------------------------------
+Description: Now in San Francisco, Bruce gets a job as a chef.  But he gets in
+             a fight with another chef over a girl. So its time to settle things
+             out in the alleyway.
+Enemies: Two Chef's with two cleavers each
+Notable Enemy Moves: Spin Kick, Double Knife Edge
+
+
+Well more trouble over a girl for Bruce.  His is first faced with one
+cleaver-waving Chef. Flips Kicks work well and Smash attacks work well against
+the Chef and after his health drops to 50% he will be joined by a friend.  It's
+best to concentrate on the first one so you can defeat him quickly and not have
+to cope with two attackers for long.
+
+If the first Chef ducks an attack, he will stay crouched long enough for you to
+jump over him and kick him in the back. If they attack you from either side you
+can do the Split Kick to knock them both back.  Otherwise the Flip Kick is
+great as it will definitely hit one or the other.
+
+-------------------------------------------------------------------------------
+Level 3: SEATTLE
+-------------------------------------------------------------------------------
+Description: Now Bruce is teaching in Seattle, and is challenged by a brash
+             young rival.  Time to teach him a lesson he won't forget.
+Enemies: Scott
+Notable Enemy Moves: Spin Kick, Shoulder Kick, Crushing Grab
+
+This guy is much more powerful than those you have faced previously and if you
+can activate Nunchuka Mode now is a good time to start experimenting with it.
+Scott tends to attack in short, furious bursts then backs off, so it's also a
+good fight to start perfecting when to block and counter.
+
+Use your heavy attacks to start with, then when he gets wise to them, harass
+him with short fast punches and kicks. If you can go into Nunchaka mode he is
+easy to beat, but don't go into Fighter Mode, he will block everything you hit
+him with and most likely stun you as well.
+
+-------------------------------------------------------------------------------
+Level 4: OAKLAND
+-------------------------------------------------------------------------------
+Description: The location is the George Wu gym.  After rival marital artist
+             find Bruce is teaching westerners, they send their best to fight
+             him.
+Enemies: Johnny Sun armed with a chain
+Notable Enemy Moves: Throat Grab, Throw, Chain combo
+
+Johnny likes to attack and doesn't hang back and block much so once again its
+good to learn the timing of retaliatory attacks, especially the stronger ones.
+Smash attacks work well, as does the flip and low sweeping kicks.  Always make
+sure you Stomp on him when you knock him to the ground.  You may want to use
+Nunchuka Mode for an easier win, but you should save your Chi for the next
+battle.
+
+-------------------------------------------------------------------------------
+Level 5: HONG KONG
+-------------------------------------------------------------------------------
+Description: On the set of a Golden Harvest movie, Bruce is attacked by two
+             staff wielding females.
+Enemies: Two female acrobats
+Notable Enemy Moves: Pole vault Kick, Sweeping Attack
+
+These two ladies can be the toughest opponents in the game. They can attack at
+longer range and both like to batter you at the same time.  Keep moving rather
+than staying still and blocking for too long.  If they manage to push you into
+a corner you will be in trouble. Don't even bother trying to Throw them, it's
+impossible. Don't get trapped between them either as they will kick you back
+and forth and you'll lose lots of energy.
+
+Your best bet is to furiously leap about doing Flip Kicks and Flying Attacks.
+Like the two chefs, you'll start against one then the second will join in, so
+again work on the one with the least energy. Try and risk using the Stomp when
+you can, it will take of a lot of energy.  Don't go into Fighter Mode.  if you
+feel confident with Nunchuka Mode it can also wear them down very quickly, but
+your lack of moves in that mode allows them to predict you very quickly and you
+may find it all getting blocked.
+
+Basically, jump around a lot, mix up hard low close attacks with Flip Kicks,
+Stomps and Flying Attacks and avoid being trapped.  These are the trickiest
+opponents so at least when you beat them it's all up from here!
+
+-------------------------------------------------------------------------------
+Level 6: BRUCE'S KWOON
+-------------------------------------------------------------------------------
+Description: Back in the US at Bruce's martial arts school, old rival Scott
+             is back for another lesson in defeat.
+Enemies: Scott
+Notable Enemy Moves: Spin Kick, Shoulder Kick, Crushing Grab
+
+Scott is back and apart from a little more strength, he is the same as before.
+Learn to counter after his attack bursts and Nunchuka's will finish him very
+quickly.
+
+-------------------------------------------------------------------------------
+Level 7: LONG BEACH STADIUM
+-------------------------------------------------------------------------------
+Description: Confident in his superior style Bruce claims he can beat any
+             opponent in a minute. So Johnny Sun returns for a rematch.
+Enemies: Johnny Sun
+Notable Enemy Moves: Throat Grab, Throw
+
+This level has a timer on it.  You have to beat Johnny Sun in sixty seconds or
+less. Nunchuka Mode makes this very easy if you can do it, you can beat him in
+around 20 seconds! Otherwise use Smash attacks, Stomps and Throws to deplete
+his energy in the fastest possible time.
+
+-------------------------------------------------------------------------------
+Level 8: THAILAND
+-------------------------------------------------------------------------------
+Description: Bruce is shooting his first film as the star (The Big Boss), and
+             Johnny Sun's brother Luke is out for revenge!
+Enemies: Luke Sun
+Notable Enemy Moves: Foot Sweep, Flying Kick
+
+This fellow looks intimidating, but is actually pretty easy to beat.  More or
+less any tactics will work, combo Smash attacks and Flips for a fast depletion
+of energy.  Once his health is at 50% he will run off screen and you must
+follow him.  You will have Ice Blocks slid at you, so jump over it with a
+flying kick.  Keep doing this until you reach Luke and you should be able to
+finish him off easily.
+
+-------------------------------------------------------------------------------
+Level 9: HONG KONG
+-------------------------------------------------------------------------------
+Description: Now on the set of his biggest movie, Enter The Dragon, Bruce
+            fights the Claw Man in an epic showdown.
+Enemies: The Claw Man
+Notable Enemy Moves: Smoke blow, Claw combo
+
+Bruce Lee takes on his most famous screen opponent.  The Claw Man is mostly a
+close range attacker.  He will blow smoke at Bruce which will damage him at a
+distance and then slash him up close with his claws.  So when you see him take
+a breath ready to blow smoke, jump over it and do a flying attack to the head.
+if this works and grounds him, quickly Stomp on him.  As he will keep trying to
+hit you with the smoke, take advantage of the pause before he does it to keep
+jumping and attacking.
+
+Use this fight to build your Chi metre up to maximum if possible, at least as
+much as needed to enter Nunchuka Mode.  You MUST be able to do that for the
+final battle which follows this one. You must also be able to carry off the
+neck-tie move or you can't win.  So practice here.
+
+-------------------------------------------------------------------------------
+Level 10: THE GRAVEYARD
+-------------------------------------------------------------------------------
+Description: Sadly Bruce is dead.  His last battle is against the Phantom
+             who has haunted his thoughts all his life.
+Enemies: The Phantom, armed with Kwondon (sword)
+Notable Enemy Moves: Sword slash combos
+
+The phantom himself isn't to tricky, but you can only finish him off with one
+specific move, which of course is a real bitch to pull off.  Basically enter
+nunchuka mode and wait for him to strike you with his sword, as he starts to
+slash, either jump over his head and strike him from behind with your Nunchuka,
+or hop backwards just out of range then attack as he does his recovery from the
+miss. Try not to get trapped in the corner as you move backwards.
+
+Once he is totally out of energy the only move that will kill him is the
+Neck-Tie.  Perform it by practically walking into the Phantom then pressing
+forward + Fast Punch.  If you pull it off, you'll flip the Phantom over and
+choke him.  So sit back and enjoy another crappy ending sequence.
+
+===============================================================================
+******************************* 4) EXTRAS *************************************
+===============================================================================
+
+There are a few extra bits and bobs on top of the story mode.  For your
+pleasure here is your guide to them.
+
+-------------------------------------------------------------------------------
+TWO PLAYER MODES
+-------------------------------------------------------------------------------
+
+- TWO PLAYER STORY MODE
+
+You and a pal fight together against the CPU opponents.  if one of you loses
+all their life mirrors, they will be transported into a nightmare where they
+must fight the Phantom. Don't fight him, just avoid him until he stabs his
+Kwondon into the ground, he'll disappear and you'll get all your life mirrors
+back.  You can do this until level 10, where only one of you can fight the
+Phantom in the final showdown.
+
+- ONE/TWO PLAYER BATTLE MODE
+
+Your basic Vs Mode. Unfortunately the only choosable character is Bruce lee,
+gah! Pick a stage to fight on a set handicaps on the Battle Mode screen.
+During the fight, Yin Yang symbols will appear, jump up and grab them to refill
+energy and Chi.
+
+- TWO PLAYER VS. CPU BATTLE
+
+In this mode there will be three Bruces; you, your friend and a CPU controlled
+Bruce.  Last one standing wins the battle.
+
+-------------------------------------------------------------------------------
+BONUS LEVEL
+-------------------------------------------------------------------------------
+
+There is one Bonus Level, which allows you to build you Chi up after the second
+level. You attack Pete the Dummy by hitting the pads and avoiding the sticks.
+The more you hit the pads the faster the sticks will spin, but the faster they
+spin, the more Chi you will get when you make successful hits.  You can only
+access this level in Normal/Mantis Mode.
+
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+-------------------------------------------------------------------------------
+Feel free to email me about any aspect of this guide, any contributions you
+would like to make will be fully credited if used and are more than welcome.
+Please inform me of any errors, typos etc so I can rectify them immediately
+My email is falsehead@aol.com
+
+(Blatant plug: check out my games website at www.kungfuhamster.cjb.net for
+loads of info on Martial Arts, Beat 'em Ups, Kung Fu Movies and Pokemon!)
+
+Please also check out another great site for next generation gaming news and
+reviews htpp://www.thunderbolt.be
+
+Big Thanks to CjayC, the cool bloke who runs GameFAQs.  You've given me the
+opportunity to reach more people with my stuff than I ever could have alone!
+
+Special thanks go out to: BillyKane, Magus747, Andy787, totalstuff and Pat
+Uhler for being such a laugh, and giving me the push to actually start
+contributing my own work back in the good old days of the DC board.
+
+Thanks also to my homies in the Review and FAQ boards for continuing support
+and being all round awesome dudes (and gals)! asherdeus, bloomer, sashanan,
+Andrew Schultz, MaxH, Vegita, Marc Golding, Jesse Eubanks, Adrenaline and
+Banandgril Love yah all guys/girls
+
+=======================================================================
+***************************** THE END *********************************
+=======================================================================
+

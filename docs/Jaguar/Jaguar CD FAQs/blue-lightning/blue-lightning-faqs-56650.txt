@@ -1,0 +1,1145 @@
+*******************************************************************************
+Blue Lightning for Atari Jaguar CD FAQ/Walkthrough
+
+by BHodges
+
+Version  1.0
+Created  05/27/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+         A.  Options
+         B.  Pilot Select
+IV.    Basic Gameplay
+         A.  Controls
+         B.  Game Screen
+         C.  Basic Strategies
+V.     Planes
+         A.  Overview
+         B.  F-18 Hornet
+         C.  MiG-29 Fulcrum
+         D.  AJ-37 Viggen
+         E.  A-10 Thunderbolt II
+         F.  F-14A Tomcat
+         G.  AV-8B Harrier II
+         H.  Tornado GR.1
+VI.    Weapons
+VII.   Walkthrough
+         A.  Training
+         B.  Russia
+         C.  South Africa
+         D.  Pacific Ocean
+         E.  Australia
+         F.  North America
+         G.  South America          
+         H.  Europe   
+         I.  Arctic
+         J.  Secret Base
+VIII.  Secrets and Cheats
+IX.    Game Review
+X.     Version History
+XI.    Contact Information
+
+*******************************************************************************
+I.  Introduction
+
+This is a FAQ/Walkthrough for the Jaguar CD game Blue Lightning.  It contains
+a list of controls, a complete walkthrough, and a mini-review.  Please note
+that the walkthrough does contain spoilers.
+
+*******************************************************************************
+II.  Background Story 
+
+Here is the background story from the instruction booklet:
+
+General Drako was one of the greatest military minds to ever work for the 
+United Nations.  Not that anyone knew; the peacekeeping forces supplied by
+countries around the world were a well-kept secret, to be used only when global
+peace was threatened by radicals and tyrants.  Drako slowly and subversively
+gained control of most of these forces, corrupting them to his own will.  Even
+some of the pilots of the venerated Blue Lightning Squadron turned to Drako in
+exchange for promises of wealth and power.  By the time Drako's betrayal was
+discovered, his crime net stretched across the globe.
+ 
+The U.N. leaders were shocked.  Something had to be done, and soon, before the
+rest of the world found out the hard way that something had gone wrong.  The
+forces that remained with the U.N. were eager to stop Drako from achieving his
+horrible goals.  But they would need support from the air: from Blue Lightning
+Squadron.
+
+This is where you come in.  As a rookie pilot, you will test your skills in
+four training missions.  Then you'll choose your first Tour of Duty.  Each
+Tour has four challenging missions that you must get through using your weapons
+and your skill to stop Drako's forces from accomplishing their criminal tasks.
+Do well, and you will be given access to additional aircraft with unique
+abilities.  There are specific goals you must accomplish in order for the
+missions to succeed.  Good luck!  A lot of people are counting on you for their
+survival!
+
+*******************************************************************************
+III.  Getting Started
+
+-------------------------------------------------------------------------------
+A.  Options
+
+Press the Option button while the intro movie is playing to bring up the
+Options screen.  On this screen you can change the button mapping, adjust the
+volume, toggle movies on/off, and choose the language (English, German, or
+French).  Changes will be automatically saved to the Memory Track when you
+exit.
+
+-------------------------------------------------------------------------------
+B.  Pilot Select
+
+On the Pilot Select Screen, you can choose which pilot to play as.  There are
+a total of four save slots plus the Play Now option.  On this screen you can
+also view pilot stats and erase a pilot's data.
+
+*******************************************************************************
+IV.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Note:  The button configuration can be changed in the Options menu.
+
+Joypad Up      Decrease altitude
+Joypad Down    Increase altitude
+Joypad Left    Moves plane left
+Joypad Right   Moves plane right
+A Button       Fire missiles
+B Button       Fire guns
+C Button       Fire special weapon
+Option         Perform Barrel Roll
+Pause          Pauses the game
+1              Afterburner
+2              Cruise Speed
+3              Air Brake
+7,8,9          Toggle camera view
+0              Toggles music on/off
+
+-------------------------------------------------------------------------------
+B.  Game Screen
+
+Score
+
+Your current score is displayed in the upper left of the screen.
+
+Damage Meter
+
+The meter on the left side of the screen is your damage meter.  It starts out
+green and turns red as you take damage, once it's completely red, your plane
+is destroyed.  The length of the damage meter is determined by your planes
+armor rating.
+
+Missiles
+
+Your remaining missiles are displayed in the upper right of the screen.  A
+large missile represents ten missiles and a small missile represents one.
+
+Special Weapons
+
+Your remaining special weapons are displayed below the missiles.
+
+Progress Bar
+
+The meter on the right is your progress bar, it shows how far through the
+stage you are.  It starts out yellow and turns black, once it's completely
+black, you'll exit the stage and head home.
+
+-------------------------------------------------------------------------------
+C.  Basic Strategies
+
+-  Plane choice is crucial in this game.
+-  The F-14 and MiG-29 are the best planes for air missions.
+-  The A-10 and Tornado are the best planes for ground missions.
+-  Performing a barrel roll makes it easier to dodge enemy fire, but you will
+   be unable to steer or fire while rolling.
+-  City missions are the toughest in the game, fortunately there are only
+   four (one in Training and three in Europe).
+-  The majority of missions in the game are ground missions, so make sure
+   you protect your A-10.  If you crash it, go ahead and reset the game.
+-  Europe is the toughest of the main seven tours, before tackling it be
+   absolutely sure you have the A-10 and F-14 available.
+
+*******************************************************************************
+V.  Planes
+
+-------------------------------------------------------------------------------
+A.  Overview
+
+Once you complete training in the simulator, you will be given access to the
+"real" planes.  You start off with three in the hangar.  You will earn an
+extra plane after scoring 50,000 points.  Afterwards, you'll earn a new plane
+after every 100,000 points.  Planes are unlocked in the order listed in this
+FAQ.  After you've unlocked the last plane, you can earn back any crashed
+planes (in the same order).  If you already have all seven planes, any earned
+planes will be "banked", if you crash a plane, it will automatically be
+replaced.
+
+Each plane has five different stats:
+
+Speed obviously determines how fast your plane flies.  Stealth determines how
+well an enemy can locate you.  Armor affects the length of your damage meter,
+the higher the stat, the longer the meter.  Avionics controls your missiles,
+a higher rating means that your missiles can fly farther and will be more 
+accurate.  Each plane has a maximum number of missiles, for ground missions, 
+you can swap some missiles in exchange for special anti-ground ordinance.  You
+give up two missiles for every one special ordinance you carry.  
+
+-------------------------------------------------------------------------------
+B.  F-18 Hornet
+
+Speed:     Medium
+Stealth:   Good
+Armor:     Light
+Avionics:  Good
+Missiles:  30
+
+The F-18 Hornet is the first plane you get to fly in Blue Lightning, it is the
+only one available during Training.  In my opinion, the F-18 is the worst
+plane in the game 
+
+-------------------------------------------------------------------------------
+C.  MiG-29 Fulcrum
+
+Speed:     High  
+Stealth:   Good 
+Armor:     Fair 
+Avionics:  Good
+Missiles:  30 
+
+The MiG-29 is one of the three planes available when you begin the seven main
+tours.  It is an excellent choice for air attack missions, second only to the
+F-14.  
+
+-------------------------------------------------------------------------------
+D.  AJ-37 Viggen
+
+Speed:     Medium 
+Stealth:   Fair
+Armor:     Medium 
+Avionics:  Fair
+Missiles:  26  
+
+The AJ-37 Viggen is one of the worst planes in the game.  It does have the
+best armor rating of the three starting planes, making it a good choice for
+ground missions - if the A-10, Tornado, and Harrier aren't available ...
+
+-------------------------------------------------------------------------------
+E.  A-10 Thunderbolt II
+
+Speed:     Low 
+Stealth:   Ground 
+Armor:     Best 
+Avionics:  Poor
+Missiles:  32
+
+The A-10 Thunderbolt is a beast, easily the best plane in the game!  It's
+sky high armor rating means an extra long life meter and it is capable of
+carrying six special weapons.  The A-10 also has the most powerful gun in the
+game.  The downside is that you are required to take a special weapon on ground
+missions.  The A-10 is the best choice for ground missions.
+
+-------------------------------------------------------------------------------
+F.  F-14A Tomcat
+
+Speed:     High
+Stealth:   Fair
+Armor:     Heavy
+Avionics:  Best
+Missiles:  32  
+
+The F-14A Tomcat is the best plane available for air attack missions - period.
+The F-14 is not so great for ground missions and CANNOT carry napalm or cluster
+bombs.
+
+-------------------------------------------------------------------------------
+G.  AV-8B Harrier II
+
+Speed:     Hover 
+Stealth:   Fair 
+Armor:     Heavy 
+Avionics:  Fair
+Missiles:  20  
+
+The AV-8B Harrier is more of a novelty than anything else.  Activating the
+airbrake will cause the Harrier to hover in place.  This isn't that useful in
+practice, all it really does is make you a stationary target for enemy forces!
+The Harrier does have a high armor rating, making it a good substitute for
+ground missions if the A-10 and Tornado aren't available.
+
+-------------------------------------------------------------------------------
+H.  Tornado GR.1
+
+Speed:     High 
+Stealth:   Fair 
+Armor:     Heavy 
+Avionics:  Fair
+Missiles:  40 
+
+The Tornado is the last plane you'll unlock.  It can carry more missiles than
+any other plane and like the A-10 can carry six special weapons.  It also has
+a great armor rating making it a great choice for ground missions if you have
+crashed your A-10.
+
+*******************************************************************************
+VI.  Weapons
+
+Guns
+
+Every plane is equipped with a gun with unlimited ammo.  Guns are great against
+ground targets, but not as effective on air targets.  The A-10's gun is more
+powerful than the other planes'.
+
+Missiles
+
+Every plane can carry a limited number of missiles.  Missiles can be used
+against either air or ground targets.  The range and accuracy of your missiles
+depends on your plane's avionics rating.
+
+Cluster Bombs
+
+Cluster bombs are special weapons available during ground missions.  When
+deployed the explosion covers a wide area and is good for attacking clusters
+of enemies.  The F-14 cannot carry cluster bombs.
+
+Napalm
+
+Napalm is a special weapon available during ground missions.  Napalm is
+deployed in a line behind the plane, making it ideal for taking out a column
+of enemies on the ground.  The F-14 cannot carry napalm.
+
+SLAMR Bombs
+
+SLAMRs are special armor piercing bombs available during certain ground
+missions.  SLAMRs are used for taking out large, high priority targets.  All
+planes are capable of carrying SLAMRs.
+
+*******************************************************************************
+VII.  Walkthrough
+
+Note:  This walkthrough contains spoilers!
+
+-------------------------------------------------------------------------------
+A.  Training
+
+You must prove yourself in the simulator before you can join Blue Lightning
+Squad.  Your plane and weapon load will be chosen automatically.
+
+...............................................................................
+Mission:  Tank Busting 101
+Type:     Ground Attack
+
+Description:
+
+Destroy as many tanks and targets as possible.  Anti-Aircraft Tanks are your
+greatest threat.
+
+Tips:
+
+-  The yellow boxes represent missile locks.
+-  Use your missiles on the tanks.
+-  Get as low as possible when flying through arches.
+
+...............................................................................
+Mission:  Air Combat 101
+Type:     Air Attack
+
+Description:
+
+Use guns and missiles to destroy enemy planes.  Use afterburners to keep them
+in range.  Watch for heat-seeking missiles.
+
+Tips:
+
+-  Use your missiles on the enemy planes.
+-  Your guns are pretty much worthless.
+-  Make good use of your afterburners/air brakes.
+
+...............................................................................
+Mission:  Strafing 101
+Type:     Ground Attack
+
+Description:
+
+Destroy the enemy fuel sites.  Don't let the surrounding tanks stop you.
+
+Tips:
+
+-  The only thing you have to worry about here is crashing into the buildings.
+-  Shoot the fuel tanks/trucks.
+-  Your guns work great against ground targets!
+
+...............................................................................
+Mission:  Battle 101
+Type:     Ground Attack
+
+Description:
+
+Take out ground targets and watch for enemy air activity.  Make the most of
+your guns and missiles.
+
+Tips:
+
+-  The primary threat here are the helicopters, take them out with missiles.
+-  Use your guns on the ground targets.
+-  You can pretty much ignore any enemy jets you see. 
+
+-------------------------------------------------------------------------------
+B.  Russia
+
+A Russian scientist has discovered a powerful new biomedical treatment.  Drako
+wants the secret so he can use it as a weapon.  Get the scientist and her
+treatment out of Russia before Drako moves in.
+
+Russia is the easiest of the seven main tours, so it makes a good starting
+point.  You should be able to rack up enough points to unlock the A-10 before
+the start of the second mission.
+
+...............................................................................
+Mission:  Rendezvous
+Type:     Air Attack
+
+Description:
+
+You must rendezvous with the scientist before Drako moves in.  Make it quick -
+Drako's fighters will try to stop anyone from getting into Russia.
+
+Tips:
+
+-  I recommend using the MiG-29 or the F-14 (if you've unlocked it).
+-  This stage is basically a turkey shoot.
+-  Try to down as many enemy planes as possible.
+
+...............................................................................
+Mission:  Civil Service
+Type:     Ground Attack
+
+Description:
+
+Drako's ground forces have captured the scientist and are holding her prisoner.
+You must lead the rescue mission by taking out the ground forces.
+
+-  Hopefully the A-10 is available, if not you'll have to make do with the
+   AJ-37 Viggin.  
+-  Choose cluster bombs as your special weapon.
+-  Use your guns on ground targets.
+-  Use your missiles on helicopters.
+-  Use your cluster bombs on large groups.
+
+...............................................................................
+Mission:  Sneak Out
+Type:     Ground Escort
+
+Description:
+
+The scientist must be flown out of hostile territory.  Her plane will be
+flying low and at night.  Make sure Drako's ground forces don't stop her.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Stay close to the escortee.
+-  Use your guns on ground targets.
+-  Use your missiles on oncoming jets.
+-  Use your cluster bombs on groups.
+
+...............................................................................
+Mission:  Sneak Out
+Type:     Ground Escort
+
+Description:
+
+Drako has sent suicide pilots to bring down the scientists plane.  You must
+escort a decoy plane to lure Drako's men while the scientist escapes secretly
+by train.
+
+Tips:
+
+-  I recommend using the MiG-29 with NO special weapons.
+-  Stay close to the decoy plane.
+-  If the plane goes down, mission is still considered successful!
+
+-------------------------------------------------------------------------------
+C.  South Africa
+
+Drako's agents are massing on the border of a small African state.  We must
+eliminate the threat of invasion.  With our advanced strike force, this
+shouldn't prove difficult.
+
+...............................................................................
+Mission:  Border Patrol
+Type:     Ground Attack
+
+Description:
+
+Drako's forces are massing near the border.  You must make a pre-emptive strike
+and weaken their offensive power.  Hit vehicles and equipment with special
+weapons.  Watch for prepared defenses.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Use your guns on ground targets.
+-  Use your missiles on helicopters.
+-  Use your cluster bombs on the grounded helicopters.
+
+...............................................................................
+Mission:  Escort Duty
+Type:     Air Escort
+
+Description:
+
+The U.N. advisors want to start peace talks with Drako's allies at a meeting
+point behind enemy lines.  Make sure the advisors' plane arrives safely.
+
+Tips:
+
+-  I recommend using either the MiG-29 or the F-14 if available.
+-  Stay as close to the spy plane as possible.
+-  If you lose sight of the plane, a red arrow will appear to direct you.
+-  Be careful when using your gun, your shots will damage the spy plane!
+
+...............................................................................
+Mission:  Choke Supply Routes
+Type:     Ground Attack
+
+Description:
+
+Enemy forces are preparing for a new assault on allied positions.  Cut off
+their supplies by destroying their trucks.  Watch out for enemy air patrols.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Use your gun on ground targets.
+-  Use your missiles on the helicopters.
+-  Use your cluster bombs on the groups of parked trucks and grounded
+   helicopters.
+
+...............................................................................
+Mission:  Shutdown
+Type:     Ground Attack
+
+Description:
+
+The enemy is launching a final attack.  Destroy their helicopters and planes
+to eliminate threats from the air.  Take out any clusters of trucks or 
+helicopters on the way.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Use your gun on ground targets.
+-  Use your missiles on the helicopters.
+-  Use your cluster bombs on the groups of parked trucks and grounded
+   helicopters.
+
+-------------------------------------------------------------------------------
+D.  Pacific Ocean
+
+Drako's Pacific weapons base is ramping up production.  Weapons are being
+shipped to Drako's forces worldwide.  You must get through heavy defenses and
+destroy the base.
+
+...............................................................................
+Mission:  Air Control
+Type:     Air Attack
+
+Description:
+
+Before you can attack Drako's base, you must clear the skies of enemy fighter
+patrols.  Destroy as many enemy fighters as you can.
+
+Tips:
+
+-  I recommend using the Mig-29 or F-14 if available.
+-  Use your airbrake when planes appear behind you.
+
+...............................................................................
+Mission:  Ground Control
+Type:     Ground Attack
+
+Description:
+
+Drako's weapons base is surrounded by helicopter patrols.  Take out the enemy
+helicopters and watch out for missile launchers.  Hit the supply trucks for
+extra mayhem.
+
+Tips:
+
+-  I recommend using the A-10.
+-  Take napalm.
+
+...............................................................................
+Mission:  Carrier Attack
+Type:     Ground Attack
+
+Description:
+
+Drako has requested support from one of his aircraft carriers.  Before we can
+get to his base, we must cripple the aircraft carrier with SLAMR bombs.
+Expect heavy air defense.
+
+Tips:
+
+-  I recommend using the A-10.
+-  DO NOT USE YOUR SLAMRS ON ANYTHING BESIDES THE TARGET!
+-  When you see the diamond lock, quickly drop as many SLAMRs as you can.
+-  If you don't destroy the target the first time around, you are given another
+   chance.
+-  If you run out of SLAMRs, you can use missiles, but your guns won't work!
+
+...............................................................................
+Mission:  Destroy
+Type:     Ground Attack
+
+Description:
+
+Now that the enemy's front line defenses are destroyed, we can launch a direct
+attack on the weapons base.  Use your SLAMR bombs against the main research
+station.
+
+Tips:
+
+-  I recommend using the A-10.
+-  DO NOT USE YOUR SLAMRS ON ANYTHING BESIDES THE TARGET!
+-  Target looks like a large building.
+-  When you see the diamond lock, quickly drop as many SLAMRs as you can.
+-  If you don't destroy the target the first time around, you are given another
+   chance.
+-  If you run out of SLAMRs, you can use missiles, but your guns won't work! 
+
+-------------------------------------------------------------------------------
+E.  Australia
+
+Drako is producing chemical weapons in the Australian desert.  The U.N. forces
+need air support to safely shut down his operations.
+
+...............................................................................
+Mission:  Drop Zone
+Type:     Ground Escort
+
+Description:
+
+You must escort a cargo plane carrying toxin cleanup supplies.  Stay close to
+the plane and hit any targets of opportunity with cluster bombs.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Stay close to the escortee.
+-  Use your guns on ground targets.
+-  Use your missiles on oncoming jets.
+-  Use your cluster bombs on groups.
+
+...............................................................................
+Mission:  Customs Check
+Type:     Ground Attack
+
+Description:
+
+One of the factory sites is producing chemical weapons and loading them onto
+trucks for delivery.  Destroy all enemy trucks.  Watch for patrolling
+helicopters.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Activate your airbrake as soon as the stage begins.
+-  Be careful when flying through structures.
+
+...............................................................................
+Mission:  Shut Down
+Type:     Ground Attack
+
+Description:
+
+We have found the location of Drako's main chemical plant.  You must use SLAMR
+bombs to destroy it.  Watch for enemy fighters and helicopters.
+
+Tips:
+
+-  I recommend using the A-10.
+-  Activate your airbrake as soon as the stage begins.
+-  DO NOT USE YOUR SLAMRS ON ANYTHING BESIDES THE TARGET!
+-  Target looks like a large building.
+-  When you see the diamond lock, quickly drop as many SLAMRs as you can.
+-  If you don't destroy the target the first time around, you are given another
+   chance.
+-  If you run out of SLAMRs, you can use missiles, but your guns won't work! 
+
+...............................................................................
+Mission:  Safe Passage
+Type:     Air Escort
+
+Description:
+
+Now that Drako's operations are shut down, workers are being flown in to clean
+up Drako's mess.  You must ensure their transport plane arrives safely.
+
+Tips:
+
+-  I recommend using either the MiG-29 or the F-14 if available.
+-  Stay as close to the transport plane as possible.
+-  If you lose sight of the plane, a red arrow will appear to direct you.
+-  Be careful when using your gun, your shots will damage the transport plane!
+
+-------------------------------------------------------------------------------
+F.  North America
+
+General Drako has funded a new terrorist training camp deep in the Badlands.
+His new highly trained killers are being exported all over the globe.  We must
+shut down this school, but it won't be easy.
+
+...............................................................................
+Mission:  Surprise Attack
+Type:     Air Attack
+
+Description:
+
+Drako's new flyboys are being trained in air combat.  A surprise attack will
+give them a lesson they'll never forget.  Watch out for the instructors, 
+though.
+
+Tips:
+
+-  I recommend using the F-14 or MiG-29.
+-  The instructors come up from behind and announce themselves on the radio.
+   Hit your afterburner then quickly hit the airbrake to get behind them.  They
+   take several hits to down.
+
+...............................................................................
+Mission:  Run the Gauntlet
+Type:     Ground Attack
+
+Description:
+
+Alerted by our attack, the trainees have moved into narrow canyons.  Weed out
+the enemy ground forces and watch for ambushes.
+
+Tips:
+
+-  I recommend using the A-10 or Tornado and carrying cluster bombs.
+-  Be sure to get as low as you can when flying through the arches.
+
+...............................................................................
+Mission:  Spearhead
+Type:     Ground Attack
+
+Description:
+
+You must spearhead a final assault on the camp.  Save your special weapons for
+the camp at the end of the strike zone.
+
+Tips:
+
+-  I recommend using the A-10 or Tornado and carrying cluster bombs.
+-  Save three cluster bombs for the end of the stage.
+
+...............................................................................
+Mission:  Final Rout
+Type:     Ground Attack
+
+Description:
+
+Your last assault has shut down the training operations.  The instructors have
+escaped through a secret route in the canyon.  We want you to follow and bring
+them down!
+
+Tips:
+
+-  I recommend using the MiG-29, NO special weapon.
+-  You'll have to fight several aces.
+-  The easiest way to deal with them is to make them crash into the rock
+   formations.
+
+-------------------------------------------------------------------------------
+G.  South America    
+
+General Drako's agents are collaborating with a known South American drug
+baron to increase production of illegal drugs.  Our mission is to close down
+the drug factories and put a stop to Drako's criminal scheme.
+
+...............................................................................
+Mission:  Protect & Serve
+Type:     Ground Attack
+
+Description:
+
+Enemy troops are kidnapping local villagers and forcing them to work in the
+fields.  Destroy all trucks and helicopters which are used to round up the
+villagers.
+
+Tips:
+
+-  I recommend using the A-10 or Tornado and carrying cluster bombs.
+-  Activate your airbrake as soon as the stage begins.
+-  Use your cluster bombs on the groups of parked trucks and grounded
+   helicopters.
+
+...............................................................................
+Mission:  Supply Run
+Type:     Ground Escort
+
+Description:
+
+Our covert agents are destroying Drako's drug factories, but they need medical
+supplies badly.  You must escort our supply plane through enemy territory to
+insure it delivers.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Stay close to the supply plane.
+-  Use your guns on ground targets.
+-  Use your missiles on oncoming jets.
+-  Use your cluster bombs on groups.
+
+...............................................................................
+Mission:  Shutdown Production
+Type:     Ground Attack
+
+Description:
+
+Drako has scrambled military forces to protect his criminal investment.  Get
+through the defenses and use special weapons to destroy Drako's operations.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Use your guns on ground targets.
+-  Use your missiles on oncoming jets.
+-  Use your cluster bombs on groups.
+
+...............................................................................
+Mission:  Chase & Destroy
+Type:     Ground Attack
+
+Description:
+
+Drako's forces are pulling out, and taking their profits with them.  You must
+not let any of them escape.
+
+Tips:
+
+-  I recommend using the Tornado and carrying cluster bombs.
+-  About half way through the mission, an enemy ace will attack.  The easiest
+   way to deal with him is to hit the afterburners and try to make him crash
+   into a rock formation.
+
+-------------------------------------------------------------------------------
+H.  Europe
+
+Drako has built up a major residential and business center in Europe to
+coordinate his crime syndicate.  We must shut down this criminal metropolis,
+but it will require top flying skills to avoid buildings and gunfire.
+
+Europe is one of the most difficult tours, mainly due to its whopping THREE
+city missions!  I recommend completing it as soon as you can.  The A-10 is an
+absolute MUST for this tour.
+
+...............................................................................
+Mission:  Scenic Route
+Type:     Air Escort
+
+Description:
+
+A high altitude recon plane will fly over and take spy photos of the city
+center.  Protect the plane while it finds a weakness in the city layout.
+
+Tips:
+
+-  I recommend using either the MiG-29 or the F-14 if available.
+-  Stay as close to the spy plane as possible.
+-  If you lose sight of the plane, a red arrow will appear to direct you.
+-  Be careful when using your gun, your shots will damage the spy plane!
+
+...............................................................................
+Mission:  Clear Out
+Type:     Ground Attack
+
+Description:
+
+Before you can strike at the city's core, you must clear out their perimeter
+defenses.  Watch out for tall buildings and use napalm to clear the streets of
+enemy vehicles.
+
+Tips:
+
+-  I recommend using the A-10 and carrying napalm.
+-  As soon as the stage begins, activate your air brake!
+-  Use your guns on the ground targets.
+-  Use your missiles to take out the helicopters.
+-  Use napalm on the truck columns.
+
+...............................................................................
+Mission:  Diversion
+Type:     Ground Attack
+
+Description:
+
+We have found a weakness in the city core defense grids, but it is too heavily
+guarded to attack directly.  You must create a diversion by attacking supplies
+downtown.
+
+Tips:
+
+-  I recommend using the A-10 and carrying napalm.
+-  As soon as the stage begins, activate your airbrake.
+-  Be very careful when flying through the arches!
+
+...............................................................................
+Mission:  Switch Off
+Type:     Ground Attack
+
+Description:
+
+The enemy has been distracted.  Now you can attack the main target - a power
+station that controls the whole city.  Attack the power dome with SLAMR bombs.
+Good luck - you're gonna need it.
+
+-  I recommend using the A-10.
+-  As soon as the stage begins, activate your airbrake.
+-  DO NOT USE YOUR SLAMRS ON ANYTHING BESIDES THE TARGET!
+-  Target looks like the Epcot Center "golfball".
+-  When you see the diamond lock, quickly drop as many SLAMRs as you can.
+-  If you don't destroy the target the first time around, you are given another
+   chance.
+-  If you run out of SLAMRs, you can use missiles, but your guns won't work!
+
+-------------------------------------------------------------------------------
+I.  Arctic
+
+Now that most of his forces have been destroyed, Drako has made a desperate
+bid to terrorize the globe.  He has developed a super solar intensifier which
+he intends to use to melt the polar ice!  He must be stopped.
+
+...............................................................................
+Mission:  On the Fly
+Type:     Air Escort
+
+Description:
+
+Spies have escaped with planes for the solar intensifier.  They are being
+pursued through the skies by some of Drako's top pilots.  You must escort the
+spies to safety.
+
+Tips:
+
+-  I recommend using the F-14.
+-  Stay as close to the spy plane as possible.
+-  If you lose sight of the plane, a red arrow will appear to direct you.
+-  Be careful when using your gun, your shots will damage the spy plane!
+-  Near the end of the mission, an ace will attack the spy plane.
+
+...............................................................................
+Mission:  Defense Suppression
+Type:     Ground Attack
+
+Description:
+
+You must engage the enemy's front line defenses.  Drako's followers are 
+fanatical, and have prepared defenses on the icy islands.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+
+...............................................................................
+Mission:  Marine Attack
+Type:     Ground Attack
+
+Description:
+
+Drako's navy is in port, and could hinder our strikes on the thermal
+intensifier.  Destroy enemy ships and subs while they are docked.
+
+Tips:
+
+-  I recommend using the A-10 and carrying cluster bombs.
+-  Guns work great against ships.
+-  Be careful when flying past the icebergs, they move!
+
+...............................................................................
+Mission:  Final Run
+Type:     Ground Attack
+
+Description:
+
+You should have a clear path to the thermal intensifier.  Destroy the array of
+solar panels before Drako puts them to use.
+
+Tips:
+
+-  The A-10 is a MUST for this mission.
+-  Try your best to avoid damage.
+-  Near the end of the stage you'll have to fly through an ice cavern, activate
+   you airbrake and stay LOW.
+-  At the end of the ice cavern is your target, unload your SLAMRs as soon as
+   you see the diamond lock.
+-  If you don't destroy it the first time, you'll get a second chance.
+
+-------------------------------------------------------------------------------
+J.  Secret Base
+
+WARNING
+
+Alert!  Alert!
+
+Enemy forces have been sighted.  All units scramble.
+
+This is not a drill!
+
+...............................................................................
+Mission:  Scramble
+Type:     Air Attack
+
+Description:
+
+Alert.  Large formations of attack planes are approaching Blue Lightning
+Squadron.  All personnel prepare for an air assault!
+
+Tips:
+
+-  I recommend using the F-14.
+-  Enemies are much more aggressive.
+
+...............................................................................
+Mission:  Bait N' Tackle
+Type:     Air Attack
+
+Description:
+
+Drako obviously has a secret base we missed.  We must launch an air offensive
+that will lure Drako into revealing the location of his remaining troops.
+
+Tips:
+
+-  I recommend using the F-14.
+-  There are several aces to deal with.
+
+...............................................................................
+Mission:  Return Fire
+Type:     Ground Attack
+
+Description:
+
+Our agents have discovered enemy troops hidden in the Badlands near Drako's
+old training school.  Lead the attack and destroy all enemies.
+
+Tips:
+
+-  You know the drill, load up an A-10 with cluster bombs and unleash hell!
+
+...............................................................................
+Mission:  Final Flight
+Type:     Ground Attack
+
+Description:
+
+Drako's forces are on the run, but Drako himself has gotten away in an
+advanced tactical fighter.  You are the only pilot who can stop him.
+
+Tips:
+
+-  I recommend using the MiG-29 with NO special weapons.
+-  Get behind Drako and unload all your missiles, then hammer him with your
+   guns.
+-  His plane will smoke when you damage it.
+-  Drako's plane can take a TON of damage.
+
+*******************************************************************************
+VIII.  Secrets and Cheats
+
+I got the following cheats from atariage.com:
+
+Comedy Mode
+
+While on the Options screen press 0 + 1 + 2 + 4 + 5 + 6 + 7 + 9 to enable
+Comedy Mode.  (You'll hear a thud if you enter it correctly).
+
+Repair Damage
+
+If you have enabled Comedy Mode, press * during gameplay to repair any damage
+done to your plane.
+
+*******************************************************************************
+IX.  Game Review
+
+Blue Lightning was one of the pack-in games for the Jaguar CD.  It's more or
+less an Afterburner clone.  Blue Lightning is usually panned by critics, but I
+feel it's good game with two glaring flaws.
+
+First, the graphics.  This is SUPPOSED to be a 64-bit system, why does the game
+look like it could easily run on a SNES?  The CGI cutscenes aren't terrible,
+but they don't really add much, in fact if they weren't there, this game could
+have easily fit on a cartridge.
+
+The other major flaw are the city missions.  I absolutely HATE them.  They are
+by far the most frustrating (and unfair) missions in the game.  Flying between
+the buildings without crashing is next to impossible.  There is a lot of pop
+up, it looks like your path is clear, then out of nowhere a building appears
+right in front of you giving you no time to dodge.  The collision detection
+also screws you over here.  You'll constantly end up crashing even though
+there was plenty of empty space between you and the building.
+
+It isn't all bad, some of the missions, particularly the air attack ones, are a
+lot of fun.  There are also a total of seven different planes to choose from,
+which adds a lot of depth to the game, certain planes are better suited for
+certain missions than others.  The game's soundtrack also shines, the rock
+tunes fit the action well and are nicely done.
+
+If you own a Jaguar CD and it didn't come with Blue Lightning, I'd recommend
+trying to find a copy.  There relatively easy to find on eBay for under $10.
+While it won't blow you away, Blue Lightning will provide you with several 
+hours of entertainment.
+
+Pros
+
++  Awesome soundtrack!
++  Seven different planes to fly, each with its own strengths/weaknesses.
++  Game is inexpensive and easy to find on eBay.
+
+Cons
+
+-  SNES caliber graphics.
+-  Pop up during the city missions makes it difficult to avoid crashes.
+-  Hit detection is WAY off.
+
+*******************************************************************************
+X.  Version History
+
+1.0  05/27/09   Created FAQ.
+
+*******************************************************************************
+XI.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+
+
+
+
+End

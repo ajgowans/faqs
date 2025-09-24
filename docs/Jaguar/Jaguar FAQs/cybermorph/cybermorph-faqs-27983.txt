@@ -1,0 +1,782 @@
+
+===============================================================================
+************************** CYBERMORPH: FAQ/WALKTHRU ***************************
+===============================================================================
+
+                   Atari Jaguar Flying Game; released 1993 UK
+
+                    FAQ/WALKTHRU (Final Version) 29/03/2004
+
+Author - falsehead (Sophie Cheshire). Contact me at falsehead@aol.com
+
+Copyright stuff; this is (c) Sophie Cheshire. If you wish to use this FAQ on
+your website, feel free to do so under the following conditions. a) You email
+me first and let me know where it will be appearing and b) you do not alter the
+content in anyway (if you need to change the formatting slightly for display
+purposes that's OK).
+
+This guide may NOT be used as part of a restricted Pay-to-Enter website or in
+print unless you are prepared to pay me for its inclusion.
+
+If I find out that any part of this FAQ has been lifted and used without credit
+to me, especially if you use it to earn money, then I will be annoyed. I didn't
+type all this up for the good of my health you know.
+
+
+===============================================================================
+*********************************** CONTENTS **********************************
+===============================================================================
+
+1) INTRODUCTION/REVISION HISTORY
+
+2) GETTING STARTED
+a) The Plot!
+b) Keypad Overlay and Game Controls
+c) Understanding the Game Screen
+d) Weapons, Power Ups and Scoring
+e) Enemies
+
+3) GAME WALKTHRU
+a) Sectors 1, 2 and 3
+b) Sectors 4
+c) Sector 5
+
+4) CHEATS
+
+===============================================================================
+***************************** 1) INTRODUCTION *********************************
+===============================================================================
+
+INTRODUCTION - Oh No.  Probably the worst Jaguar game I ever played, but yet
+for some reason I have taken pity on it and done a guide for it.  Anyway this
+guide will help you get to grips with the controls, provides information on
+weaponry and power-ups and gives a guide to completing all five sectors
+including the final Boss World. If you own a Jaguar, its likely you have this
+game as it was given away free with it.  So if you finally want to beat it,
+this is the guide for you.  Don't all thank me at once yah hear!
+
+In writing this FAQ/Walkthrough the "Official Atari Jaguar Gamers Guide" by
+Zach Meston and J. Douglas Arnold (1995) was invaluable in helping me complete
+the tricky final two sectors of the game and also supplied the various cheats
+listed in the final section.
+
+*******************************************************************************
+
+REVISIONS - (10/01/2004)
+
+Version 1.0 up and running.  I am persecuting a fellow Jaguar owner into
+playing this game from start to finish to test this guide out. Any additions
+and/or corrections that result from this will be put in the next update.  After
+we both come out of Bad Game therapy that is.
+
+Final Version (29/03/2004)  That's it, no more.  If I never play this game
+again it will be too soon. There's enough here for anyone who is masochistic
+enough to want to play to the finish.
+
+===============================================================================
+***************************** 2) GETTING STARTED ******************************
+===============================================================================
+
+Yes there is a plot.. Here is courtesy of the original manual.
+
+-------------------------------------------------------------------------------
+a) THE PLOT
+-------------------------------------------------------------------------------
+"The Galactic War has begun, and the ultimate weapon has been created: robotic
+technologies that can rebuild themselves.  As the evil Pernitia Empire adds
+planet after planet to it's growing empire, their regenerative technology
+becomes permanently entrenched.
+
+Fortunately, your forces had new weapons designed.. unfortunately, they were
+seized by the enemy.  The weapons, along with supplies and information, were
+sealed into pods.  Some of the key designers were cryogenically suspended and
+put in the pods as well.
+
+You have been assigned to pilot the only prototype fighter craft in existence:
+the Cybermorph Transmogriffon, or T-Griffon, a morphing attack craft.  Although
+useable only in planetary atmospheres, it can be transported between worlds by
+intersolar cruisers, and has it's own re-entry and retrieval systems.
+
+The T-griffon can follow terrain extremely close at high speeds.  It an also
+hover and fly backwards by altering its shape.  It can withstand extreme damage
+by regenerating parts, using technology similar to that used by the Pernitia
+Empire.  The T-Griffon also features a holographic intelligence agent named
+Skylar, who will give you crucial battle functions.
+
+You must recover the pods so the resistance fighters will have the weapons,
+equipment and expertise necessary to stop the spread of the Pernitia Empire.
+Skylar will keep you informed of newly downloaded intelligence about the
+planets surface.  When you recover the number of pods known to be in each
+sector, Skylar activates the retrieval code and the beam portal opens which
+will take you to another sector."
+
+-------------------------------------------------------------------------------
+b) KEYPAD OVERLAY and GAME CONTROLS
+-------------------------------------------------------------------------------
+
+Button A - Forward Thrust
+Button B - Fire Weapon
+Button C - Brake/Backward Thrust
+
+OPTION - Toggle through main weapon ordinance
+PAUSE - Will Pause the Game
+        While Paused you may change the volume using the joypad
+        A= Skylar Volume, B= Sound Effects Volume, C= Engine Volume
+
+Joypad Left - Turn Left
+Joypad Right - Turn Right
+Joypad Up - Dive
+Joypad Down - Climb
+
+Keypad 1 - Fires Super Weapon
+Keypad 2 - Fires Super Weapon
+Keypad 2 - Fires Super Weapon
+Keypad 4 - Toggles Crosshair on/off
+Keypad 5 - Forward View (with T-Griffon on screen)
+Keypad 6 - Cockpit View (forward view from inside ship)
+Keypad 7 - Left View
+Keypad 8 - Rear View (view behind, with ship on screen)
+Keypad 9 - right View
+Keypad 0 - Toggles Music off and on
+* + #    - Press these together to reset game.
+
+
+               KEYPAD LAYOUT
+
+         1            2          3
+         |______ Super Weapon____|
+
+         4            5          6
+       Toggle      Forward    Cockpit
+      Crosshair     View       View
+
+         7            8          9
+     Left View    Rear View  Right View
+
+         *            0          #
+         |      Toggle Music     |
+         |________ Reset_________|
+
+
+To reconfigure the controls, press the Option key at the title screen.  This
+brings up and options screen where you can change around the functions of the
+A. B and C buttons.  You cannot save a game, but each time you beat a sector
+you'll get the codes that allow you to travel to the next sector.
+
+-------------------------------------------------------------------------------
+c) UNDERSTANDING THE GAME SCREEN
+-------------------------------------------------------------------------------
+
+Your view is through command screen display.  There are several elements here
+you need to keep an eye on.
+
+1) The number in the middle of the top of the screen is your score
+
+2) The little shop icons near that are the amount of lives you have left
+
+3) The scary green head in the top left is Skylar, who will appear to give
+incomprehensible advice.
+
+4) The cross hairs lock on and help you aim your weapons, this can be toggled
+off and on
+
+5) The "dial" in the top right is your Scanner this displays enemies as red
+skulls (in hostile mode) or green (in passive mode).  A white X means a Vortex
+Tower, yellow diamonds show where pods are.  Yellow arrows point to pods or an
+exit portal that's open.  White arrows point towards any nearby Vortex Tower.
+Squares are teleporters.
+
+6) Underneath this on the left right side of the screen is the altimeter .  The
+bottom white like is sea level, the top white line is the highest you can fly
+up.  Your height is shown by a black line, the pink bar shows the height of the
+terrain in front of the ship.
+
+7) On the bottom bar there are several controls to look out for.  The first on
+the bottom left is your speed. Green = forward, blue = backward.
+
+8) Next to that is the Shield power metre. When this is fully depleted, you
+lose a ship (life)
+
+9) The next five icons are weapons available.  Twin Shot, Three Way, Cruise
+Bomb, Mine and Incinerator.  When you have the ammo to allow these to be
+selected the icons will appear in white.
+
+10) In the middle of the bottom control bar is the message window.  This relays
+info from Skylar and keeps track of the remaining pods in that world.
+
+-------------------------------------------------------------------------------
+d) WEAPONS AND POWERUPS
+-------------------------------------------------------------------------------
+
+WEAPONS
+Only 50 rounds of ammo (apart from single shot) can be held in each weapon.
+
+- Single Shot is standard ammo, infinite supply, but weak.  Use when you have
+nothing else to use.
+- Rapid Fire can fire any shots at a much faster rate.  You will lose it when
+you finish a level or lose a ship
+- Twin Shot fires two shots at a time and when you get it, it will replaces
+single shot.
+- Three Way Shot will fire a spread of three shots at once
+- Cruise Bombs drop out of your ship and fly forward across the ground
+- Incinerators fire a wide stream of flames out in front
+- Mines can be spread across the landscape and will only go odd when an enemy
+goes near them.
+
+SUPER WEAPONS
+Only one type pf super weapon can be carried at a time, and only hold five
+rounds of ammo at a time.
+
+- Thunderquakers destroy all nearby enemies
+- Nitros give a burst of speed and while in Nitro mode, most damage can be
+avoided
+- Detonators will destroy nearby buildings
+
+POWERUP COINS
+- Energy coins recover 1/4 of your total power.
+- Weapon coins give you between 20-50 rounds of ammo
+- Superweapon coins give you two more round of ammo for a superweapon
+- X Coins give you an extra life
+- Power Rings restore you to full power when you fly through them.  Can only be
+used once
+- Bonus Rings, find one and fly through to get a bonus world to explore.
+
+SCORING
+
+ENEMY HIT = 50 points
+ENEMY DESTROYED = 150 points
+BUILDING DESTROYED = 200 points
+VORTEX TOWER HIT = 100 points
+POD PICKED UP = 200 points
+1k COIN = 1000 points
+2k COIN = 2000 points
+EXTRA PODS RECOVERED: 5000 points awarded when world complete
+An EXTRA SHIP is awarded with every 50,000 scored once the current world is
+complete.
+
+-------------------------------------------------------------------------------
+e) ENEMIES
+-------------------------------------------------------------------------------
+
+There are various enemies you'll meet in the game. A lot of the early ones are
+basically drone like robots that are only dangerous if you bash into them, but
+some are nastier.  I have had to make up names for them as they aren't named in
+the game, I hope you can understand what ones I am talking about!
+
+NON COMBATANTS:  These are things like pod movers (look like hovering tripods),
+pod prisons (four spikes around a pod) and pod carriers (big truck like
+vehicles).  None will attack you, but they can be dangerous if you crash into
+them, so blow them up for points.
+
+PERNITIA CONVENTIONAL SHIPS - Grey ships with orange markings that are fairly
+weak on their own but can cause grief in numbers.
+
+PERNITIA PIRATES - Odd looking ships.  Look like flapping black birds, which
+engage you from distance, often lurking near mountains and sniping at you.
+Hard to target to you may need to whip out the crosshairs.
+
+CRABS - Walking robots that guard pods and sometimes hold them in their bodies,
+they will fire at you if you get too close, but are easily destroyed with a few
+hits from your basic weapon.
+
+KAMIKAZE - Plain green/blue pointed ships that basically ram you and can cause
+instant destruction.  Dodge them as they charge you and shoot them down.
+
+WORMS - These are pretty nasty, they look like a chain of pink diamond shapes
+that are split into segments.  They rise up into the air and come at you.  Its
+instant death if any part touches you and they can regrow body segments. Mines
+are the best way to deal with them.
+
+BLOBOBS - Large yellow blobs that stick to the T-griffon and gradually drain
+its energy.  Very fast and will stick to you in groups.  Move quickly and shoot
+them before they can stick to you.
+
+GREEN HEADS - These look like large Devil Heads that flap up and down and fire
+missiles at you. They stay in the same place though and are not that accurate.
+
+HEAD HUNTERS - This looks like a large white/pink robot head and it will follow
+you around the level.  It will sink into the ground and pop up somewhere else
+and let loose a barrage of missiles.
+
+===============================================================================
+***************************** 3) GAME WALKTHRU ********************************
+===============================================================================
+
+Cybermorph has a fairly simple structure to it.  There are five sectors to
+explore and retrieve pods from.  Within each sector are eight planets, which
+can be tackled in any order.  Once all planets within the sector has been
+liberated (ie, you have enough pods from each) the next sector will open up.
+You can afford to lose a few pods per world in some cases, but keep a close eye
+on the Message Bar, Skylar will notify you when you have lost too many and you
+have failed that world.  You can do it again though, so all is not lost.
+
+===============================================================================
+a) SECTORS 1, 2 and 3
+===============================================================================
+
+These first three sectors are actually really straightforward, the pods are all
+in plain view and there are no tricky enemies to combat, so I have kept the
+details fairly brief for these sections.  The real hard stuff comes with
+Sectors 4 and 5, which are covered in more depth.
+
+- Spend time in the first sector really learning to get to grips with the
+T-Griffon.  It can be easy to oversteer and fly into mountains etc.  Learn to
+gently tap the d-pad rather than hold it down to steer.  You can however stand
+quite a lot of damage from crashing or bumping things, don't be afraid to zoom
+off at high speed if your pods are in danger. To collect a pod you only need to
+fly into it and you'll automatically pick it up.
+
+- The T-Griffon will hug the ground if you want to fly close to it, rising and
+falling with its undulations.  But it won't automatically avoid buildings, so
+be careful when zipping about at speed, low to the ground.
+
+- In the first sectors the only real danger is from things called Vortexers.
+These are towers that generate an anti-matter field that will destroy any pods
+that get near them.  Some pods will be transported around the planet and if
+they get to near they will be destroyed.  Watch your messages from Skylar, she
+will let you know if a pod is in trouble.
+
+- Some pods will be located in prison blocks, these will not show up on your
+radar.  If you find yourself some pods short, try torching some buildings to
+find them, you can't damage the pods yourself.
+
+- There are other buildings apart from pod prisons to look out for.  There are
+force fields blocking off some areas, destroy Power Stations to knock out a
+forcefield.  Some pods may look like they are lying innocently about, but get
+to close and spikes will pop out of the ground. Hover carefully around them to
+grab the pod, or destroy the Spike Station controlling them. There are bunkers
+scattered about that can be shot open to reveal useful items.  Also the enemy
+has radar towers to detect you, shoot down enough of them and you will freeze
+some enemies into inaction.
+
+- For extra points, easy points destroy trees!  For power-ups it's a good idea
+to target flying enemies as ground based enemies will not yield any.  Before
+you pick on a new super weapon, make sure you have used up the one you are
+holding as the new one will replace the old one and any leftover ammo will be
+wasted.
+
+- There are teleporters that will allow you to reach other parts of the world.
+But these are not as prevalent in the first three sectors as they are in the
+final two.
+
+- As you progress through the worlds, you can revisit easier, earlier ones to
+collect power-ups and rack up points.
+
+- Vortexers will respawn after a while, so if you are taking your time with a
+level, they can become a danger again.
+
+--------------------
+SECTOR 1 (code 1008)
+--------------------
+
+CODEX: Pods 7, Rescue 6, Vortexers 0
+EMETH: Pods 6, Rescue 6, Vortexers 0
+ENNIS: Pods 19, Rescue 16, Vortexers 1
+GRIZ MADRE: Pods 17, Rescue 15, Vortexers 0
+KAPITOL: Pods 27, Rescue 27, Vortexers 0
+OLOPE: Pods 12, Rescue 9, Vortexers 0
+OTTO BAHN: Pods 12, Rescue 15, Vortexers 0
+ZUEL: Pods 4, Rescue 3, Vortexers 1
+
+All the worlds on this first sector are pretty gentle.  They have lots of wide
+open spaces and few buildings clustered together to crash into.  Vortexers are
+rare and enemies are few.  It leads you gently into things like blowing up pod
+prisons and learning to search canyons.
+
+--------------------
+SECTOR 2 (code 1328)
+--------------------
+
+ALLRIS: Pods 12, Rescue 9, Vortexers 1
+BROSS: Pods 13, Rescue 8, Vortexers 0
+FRAGOCIA: Pods 13, Rescue 8, Vortexers 0
+GALIIZIA: Pods 18, Rescue 13, Vortexers 0
+KARAVOSTOS: Pods 11, Rescue 10, Vortexers 0
+METROPOL: Pods 11, Rescue 11, Vortexers 3
+ROSAM: Pods 15, Rescue 12, Vortexers 5
+ULMTRI: Pods 6, Rescue 6, Vortexers 0
+
+In sector 2, the levels are still fairly basically laid out.  There are more
+enemies and vortexers to contend with, but for most levels the number or pods
+needed is not the full amount.  Only Metropol offers a slight challenge with
+its multiple vortexers and requirement for all pods to be recovered, but the
+lack of enemies should have you destroying the vortexers and making your escape
+before they can respawn.
+
+--------------------
+SECTOR 3 (code 9325)
+--------------------
+
+GREENSTONE: Pods 10, Rescue 5, Vortexers 0
+JOJO: Pods 25, Rescue 20, Vortexers 0
+LADAN: Pods 3, Rescue 3, Vortexers 0
+LEVOV: Pods 24, Rescue 20, Vortexers 0
+MAULUK: Pods 10, Rescue 5, Vortexers 3
+MONICALIA: Pods 6, Rescue 5, Vortexers 0
+PICO: Pods 18, Rescue 18, Vortexers 1
+SPYKRE: Pods 16, Rescue 14, Vortexers 0
+
+Surprisingly, here in sector three, vortexers and enemies are less troublesome
+than in sector 2.  This sector is introducing you to a more complex level set
+up, with teleporters to travel through in your hunt for pods.  Spend time
+really learning to navigate and read the landscapes as sectors 4 and 5 will
+really test your flying, fighting and searching skills to the limit!
+
+===============================================================================
+b) SECTOR 4 (code 9226)
+===============================================================================
+
+Ok hopefully you used the first three sectors to get the hang of the T-Griffon,
+now stuff is about to get challenging!
+-------------------------------------------------------------------------------
+Planet: ARTIZIC
+Total Pods: 15
+Minimum Rescued: 15
+Vortexers: 1
+Briefing: "Several valuable chemical pods are guarded in a tidal crater below.
+           Retrieve these quickly. Watch out for ground forces. Turrets shoot
+           homing missiles".
+
+From the start, go right into a canyon with yellow pillars in it.  Use the blue
+teleporter and grab all the pods.  Head for the water and take the blue
+teleporter, then take the red teleporter.  Watch out for the clump of buildings
+and go left to get to the exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: GIRDELL
+Total Pods: 12
+Minimum Rescued: 10
+Vortexers: 0
+Briefing: "Lost in the strip mined world of Girdell are several deposits
+           we need urgently.  Keep your bearings and watch for the Pernitan
+           Pirates".
+
+Go right and collect the first pod then go right again and over two ridges.
+Turn right at the brown building and go over another low ridge.  Collect the
+pod at the end of the canyon.  Turn around and go left back over the ridge, and
+over another. Go through the red teleporter, then through the blue one.
+Collect the two pods in the prisons and the one in the open, then go back
+through the blue teleporter. Go through the green teleporter and collect the
+three pods in the area.  Go back through the green teleporter and through the
+yellow one.  Collect the three pods and go back to the red teleporter.  Travel
+through it and go right.  Go back to the brown building and go right, travel
+down the canon and collect the final pod.  Turn right to get to the exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: GRAND PITON
+Total Pods: 12
+Minimum Rescued: 10
+Vortexers: 0
+Briefing: "A swarm of Pernitia Crabs have taken over the twisting canyons
+           of this planet and protect supply pods. Explore every twist and
+           turn. Good luck."
+
+Fly across the low area and collect the three pods, then head for the lake and
+collect the next four pods. Take a narrow pathway into a canyon collecting
+another pod on the way. Turn right in the canyon to get another pod, then right
+again for another. keep going and take out the power station building when you
+reach it. Then go left and follow the right passageway back to the big canyon,
+collecting another pod as you do so.  Cross the canyon and take the passage
+opposite and follow the winding path to get the final pod.  At the end lies the
+exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: GRUNGE
+Total Pods: 17
+Minimum Rescued: 14
+Vortexers: 7
+Briefing: "Urgent, several critical tech pods are being destroyed by waste
+           disposal pod carriers.  Shoot the vortex towers. Save as many pods
+           as you can."
+
+There are vortexers on this level so they are a priority. Find them on the
+scanner by flying towards the white arrows.  Shoot the vortexers and keep
+grabbing pods when you see them.  They are bunched up in a small area with the
+vortexers, so this is more a test of accuracy than a big hunt.   Pods will keep
+appearing near the two end vortexers so keep an eye out for them.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: LEKSEY
+Total Pods: 17
+Minimum Rescued: 14
+Vortexers: 2
+Briefing: "Pernitia forces have sealed off a strategic valley using two force
+           Fields. Worse still, they have 17 Pods. Recover them fast."
+
+Fly along the river and keep an eye out for a power ring, just beyond it is an
+gap in the mountain on the right.  Fly through it and collect the pod then blow
+up the bunker.  Go through the teleporter and follow the mountain wall until
+you come to an area with lots of pods.  Collect them all and then exit near the
+red teleporter.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: OLYOTRIS
+Total Pods: 8
+Minimum Rescued: 8
+Vortexers: 0
+Briefing: "Pernitia Pod Restrainers must be blown up to free the pods inside.
+           They are heavily defended by fleets of pirates and kamikazes."
+
+Turn left to find the first pod then keep going along the canyon wall until you
+reach two pod prisons.  Destroy all the enemies and collect the pods then use
+your scanner to find the rest of the pods in the open area.  Then carry along
+the canyon wall until you find a red teleporter and a power ring. Go through
+the red teleporter and keep flying along the canyon wall until you find more
+pod prisons.  Bomb them open and then find the exit past thee gun turrets near
+the lake.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: SQUIB
+Total Pods: 13
+Minimum Rescued: 10
+Vortexers: 1
+Briefing: "Retrieve the medical pods from Beacon Cove quickly before the
+           Snatchers take them to their fortified camp."
+
+The pods you come to first of all are booby trapped. So circle high over them
+to set off the spike traps then wait for the pod carriers to collect them.
+Shoot the pod carrier to then collect the pod safely. While you wait for the
+carriers, shoot out the vortexer nearby. When there are no more pod carriers,
+carefully descend into the spikes to collect the remaining pods one at a time.
+The exit is near to where the vortexer was.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: ZAHAV
+Total Pods: 10
+Minimum Rescued: 10
+Vortexers: 4
+Briefing: "The Pernitia occupy three extinct volcano craters that you can
+           reach by teleporter Check each one for pods."
+
+A fairly open area, but you must watch out for vortexers.   Fly around
+collecting pods until you can't find anymore then head for the area with four
+yellow pillars.  There is a red teleport here, which will take you into a
+crater.  Shoot the pod prison, then take the green teleporter. Go through the
+blue teleport once any loose pods have been collected.  Go back into the main
+area and fly around the base of the mountains looking for pod prisons. Once is
+halfway up the side of a mountain.  Once you have them all, use the red, then
+green teleporters to get to the exit in one of the craters.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: ENDBOSS WORLD
+
+This is just you against the worms! So stock up with Mines before you take this
+world on.   Stay up high while you use the scanner to locate the Boss Worm.  It
+will charge you, so you should drop mines while flying up to its red head,
+which you should destroy.  while it reforms its head, keep following it and
+ready your mines for its next charge.  Keep destroying the head until all the
+segments are gone.  You also need to destroy two normal worms before the Exit
+appears.
+
+===============================================================================
+c) SECTOR 5 (code 344)
+===============================================================================
+Now for the last sector, plenty more tricky flying, but if you have made it
+this far, it should be a breeze now =P
+
+-------------------------------------------------------------------------------
+Planet: AQUATON
+Total Pods: 11
+Minimum Rescued: 9
+Vortexers: 4
+Briefing: "Valuable artefacts are being destroyed at 4 powerful Vortex towers
+           Do not waste any time in recovering them.
+
+More pods here are surrounded by spikes, so wait for the carriers to fetch them
+up.  Then destroy the carriers and collect the pods.  Two vortexers are on
+islands, so destroy them.  Collect all the pods in open, then go to the pod
+prisons which are underneath the floating city.  When the exit appears, you can
+leave now, or fly past it to the two bunkers. Shoot them both to reveal an
+extra life.  Then go back and exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: ARANNIB
+Total Pods: 15
+Minimum Rescued: 15
+Vortexers: 1
+Briefing:
+
+Straightaway turn around and fly though the red teleporter.  Turn and follwo
+the canyon leftwards, it will reach a dead end with a blue teleporter. Go
+through it and turn around and fly until you reach a power station. Blow it up
+and fly back through the blue teleporter. Follow the canyon around and collect
+the pods near the vortexer as your priority, then collect the rest in the
+canyon.  Go through the blue teleporter and you will find the exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: BOOSHKA
+Total Pods: 1
+Minimum Rescued: 1
+Vortexers: 0
+Briefing: "The Pernitia have captured and hidden a fleet commander for
+           interrogation.  Search the countless bunkers to find him."
+
+
+Only one pod to find, so more of a search mission this time. Methodically
+destroy all bunkers you see.  When you see a teleporter, go though it and keep
+going until you get to a narrow canyon with one bunker visible.  Fly past and
+destroy the next bunker then go through the yellow teleporter. Collect the pod
+from the pod prison and destroy the power station.  Go back to the yellow
+teleporter and go left past the green teleporter and to the exit.
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: EELAAZ
+Total Pods: 11
+Minimum Rescued: 11
+Vortexers: 1
+Briefing: "Pernitia forces are mining the ocean bed of this tropical world
+           for rare mineral deposits.  They are stored in pods and fiercely
+           guarded.
+
+Go straight ahead and blow up the pod carrier.  Keep going to the water and urn
+left, following the coastline around, collecting four pods on the way.  the
+other seven pods are imprisoned, with each one to be found in a small area
+marked with a pillar.  Shoot the prisons and collect the pods.  There is one
+row of three islands and one row of four.  Once that's done, the exit is by the
+long thing area of land.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: GANTLET
+Total Pods: 14
+Minimum Rescued: 7
+Vortexers: 1
+Briefing: "Hundreds of cocooned POWs are at the mercy of a Pernitia Vortex
+           tower.  The only saviour lies at the end of a large valley. Use
+           Nitros when you can.
+
+The best way to do this level is to collect detonator weapons from one of the
+other worlds (The lower right planet in the Unknown Sector carries lots of
+weapons, so go and stock up. Kapitol in Sector 1 also has them). Thus tolled
+up, enter Gantlet and fly away from the brown pillars.  Go high and fast until
+you reach the forcefield.  Use a detonator on it to blow it open then carry on
+through and collect all the pods.
+
+Or, you can fly towards the poles sticking up out of the ground until you reach
+a bunker.  Blow it up and enter the newly revealed red teleporter. Fly down the
+canyon and though another teleporter.  Follow the twisty route until you find a
+detonator. There is also a blocked path.  You can collect the detonator and use
+it to either clear the blocked path which allow you round the back way to get
+the pods, or return to the front area and blow up the force field with it.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: HELLFIRE
+Total Pods: 20
+Minimum Rescued: 16
+Vortexers: 1
+Briefing: "Once thought to be hell itself this charred land has 20 pods we
+           need to recover. They are protected by fearsome Pernitia Head
+           Hunters. Be careful."
+
+Tool up with plenty of mines and follow the radar arrows to get all the pods
+out in the open.  Then destroy the pod prisons in the middle of the spikes,
+also destroy the Joker Heads so you can carefully collect the pods, then head
+for the nearby exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: JENWELCH
+Total Pods: 7
+Minimum Rescued: 6
+Vortexers: 1
+Briefing: "Many weaponry pods are about to be lost to a vortex tower. Visit
+           this world and save as many as you can."
+
+Go left right away and though the blue teleporter.  then though the yellow
+teleporter and the next blue one. Blow up the power station, then return
+through the three teleporters and fly towards the pods.  Collect them all.  You
+can exit or go and collect the bonus rings which is out past the Vortexer.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: THETAZON
+Total Pods: 18
+Minimum Rescued: 18
+Vortexers: 1
+Briefing: "Technology pods are hidden along the length of snake gorge.  The
+           entrance is by an industrial complex. Good flying skills are
+           essential to success."
+
+Fly along the road leading away form the canyon mouth.  Destroy the power
+station.  Blow up the cargo carriers if you need any powerups and then go back
+to the canyon.  Fly through the canyon dodging and destroying the enemies as
+you go.  Avoid the buildings and collect the pods as you zip through.  This is
+a real test of your control of the T-Griffon!  Go right to the canyons end,
+colect the final pods, then turn around and fly back out, until you spot the
+exit.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Planet: ENDBOSS WORLD
+
+Load up with mines, then get ready for some fancy flying.  Collect all the pods
+first near the vortexers first, then use your mines to get rid of the head
+hunters and the giant worm. Now to take out the twin guns, try and manoeuvre so
+close that it can't hit you with its guns and keep firing at the guns until the
+are blown off. Then keep a barrage of fire up into the body of the gun as it
+tries to charge you.  It should fall quickly.  Once all the enemies are dead
+and pods collected and exit will appear.  Go through and victory is yours!
+
+===============================================================================
+********************************* 4) CHEATS ***********************************
+===============================================================================
+
+BONUS WORLD RINGS: These are located on Olope, Metropol, Pico, Olyotris and
+Jenweich
+
+SECTOR CODES: Sector 1 = 1008, Sector 2 = 1328, Sector 3 = 9325, Sector 4 =
+9226, Sector 5 = 3444.  these must be entered at the "Select Destination" Screen
+Just type them in using the controller keypad and they will automatically
+appear on screen.
+
+UNKNOWN SECTOR: Enter code 6009 to be presented with four planets.  Pick the
+lower right one to collect loads of power-ups.  The other three have no
+power-ups, just lots of enemies for max point scoring and practice.
+
+UNLIMITED AMMO: At the title screen press Option then press and hold 1,3,5,7,8
+and 9. An odd sound will occur to signal correct input.  Now all weapons,
+including Super ones will have unlimited ammo.
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+-------------------------------------------------------------------------------
+Feel free to email me about any aspect of this guide, any contributions you
+would like to make will be fully credited if used and are more than welcome.
+Please inform me of any errors, typos etc so I can rectify them immediately
+My email is falsehead@aol.com
+
+(Blatant plug: check out my games website at www.kungfuhamster.cjb.net for
+loads of info on Martial Arts, Beat 'em Ups, Kung Fu Movies and Pokemon!)
+
+Please also check out another great site for next generation gaming news and
+reviews htpp://www.thunderbolt.be
+
+Big Thanks to CjayC, the cool bloke who runs GameFAQs.  You've given me the
+opportunity to reach more people with my stuff than I ever could have alone!
+
+Special thanks go out to: BillyKane, Magus747, Andy787, totalstuff and Pat
+Uhler for being such a laugh, and giving me the push to actually start
+contributing my own work back in the good old days of the DC board.
+
+Thanks also to my homies in the Review and FAQ boards for continuing support
+and being all round awesome dudes (and gals)! asherdeus, bloomer, sashanan,
+Andrew Schultz, MaxH, Vegita, Marc Golding, Jesse Eubanks, Adrenaline and
+Banandgril Love yah all guys/girls
+
+=======================================================================
+***************************** THE END *********************************
+=======================================================================
+
+
+

@@ -1,0 +1,1031 @@
+
+
+=========================================================================
+************************* DOOM: FAQ/WALKTHRU ****************************
+=========================================================================
+
+           Atari Jaguar First Person Shooter; released 1993 UK (PAL)
+
+                  FAQ/WALKTHRU (Final Version) (06/05/2002).
+
+Author - falsehead (Sophie Cheshire). Contact me at falsehead@aol.com
+
+Copyright stuff; this is (c) Sophie Cheshire. If you wish to use this FAQ on
+your website, feel free to do so under the following conditions. a) You email
+me first and let me know where it will be appearing and b) you do not alter the
+content in anyway (if you need to change the formatting slightly for display
+purposes that's OK).
+
+If I find out that any part of this FAQ has been lifted and used without credit
+to me, especially if you use it to earn money, then I will be annoyed. I didn't
+type all this up for the good of my health you know.
+
+========================================================================
+********************************* CONTENTS *****************************
+========================================================================
+
+1) INTRODUCTION/REVISION HISTORY
+
+2) WEAPONS
+
+3) ENEMIES
+
+4) CONTROLS AND AUTOMAP
+
+5) COMPLETE LEVEL WALKTHROUGH
+Level 1: Hanger
+Level 2: Plant
+Level 3: Toxin Refinery
+Level 4: Command Control
+Level 5: Phobos Lab
+Level 6: Central Processing
+Level 7: Computer Station
+Level 8: Phobos Anomaly
+Level 9: Deimos Anomaly
+Level 10: Containment Area
+Level 11: Refinery
+Level 12: Deimos Lab
+Level 13: Command Centre
+Level 14: Halls of the Damned
+Level 15: Spawning Vats
+Level 16: Tower of Babel
+Level 17: Hell Keep
+Level 18: Pandemonium
+Level 19: House of Pain
+Level 20: Unholy Cathedral
+Level 21: Mt. Erebus
+Level 22: Limbo
+Level 23: Dis
+Level 24: Military Base (Secret Level)
+
+6) CHEAT CODES
+
+7) JAGUAR DOOM VS. OTHER VERSIONS
+
+=========================================================================
+********************** 1) INTRODUCTION/REVISIONS ************************
+=========================================================================
+
+INTRODUCTION - This is my guide to the excellent FPS game DOOM on the Atari
+Jaguar Console.  This game is legendary and has appeared on many different
+consoles.  Each version is usually slightly different from others so a guide
+for one may not be as helpful for another.  For example the PC version contains
+27 levels, this one contains only 24.  Many of the level names in the PC
+version refer to completely different levels named the same in the jaguar
+versions. This is why I have done a Jaguar specific version.  I found this
+version one of the more enjoyable versions I have played.  The multi button
+Jaguar pad suits the weapons selection very well and movement and strafing was
+relatively easy to do in the heat of battle.  There weren't many decent games
+released on the Jaguar, but this is definitely worthwhile purchase if you're an
+FPS fan.
+
+In writing this FAQ/Walkthrough the "Official Atari Jaguar Gamers Guide" by
+Zach Meston and J. Douglas Arnold (1995) was invaluable in helping me find all
+the secret areas tucked away on each level.
+
+*************************************************************************
+
+REVISIONS - Final Version (06/05/2002).
+
+Wrote up all the weapons, enemy, cheat codes and level walkthroughs.  Plus a
+section on the differences between the jaguar version and other versions of the
+game.  Unless I have made a really crass error and someone emails me to point
+it out there will be no more additions to this FAQ.
+
+=========================================================================
+***************************** 2) WEAPONS ********************************
+=========================================================================
+
+1) FISTS - There is plenty of ammo lying about, if you find yourself reduced to
+fists you're in big trouble.  Only any good if you find a berserk pack and then
+you can kill stuff with a few punches, otherwise, run away and find some more
+ammo!
+
+2) CHAINSAW - Great fun to use against enemies without long range attacks. Use
+it to chew up Demons and Cacodemons, ahhh, satisfying!
+
+3) PISTOL - Your default weapon.  Useful in the early levels and holds a nice
+lot of ammo.  But once you get past the Imps you're in trouble.  Save it for
+the weaker guys and bring out the big guns for the badasses.
+
+4) SHOTGUN - This weapon is the Doomsters best friend.  Powerful enough to take
+out all but Cacodemons and Barons of Hell with a few blasts and ammo is usually
+plentiful.  Its main disadvantage is the time it takes to reload.  In the early
+levels, try strafing left and right while reloading, it will save your life in
+later levels.
+
+5) CHAINGUN - This little beauty fires out tonnes of bullets with each hit. 
+Although the hits are relatively weak the sheer speed and rate of fire can keep
+the enemy on the defensive until they die.  It also uses up ammo VERY quickly,
+best kept for Imps and demons and Cacodemons if you are facing off against only
+one.
+
+6) ROCKET LAUNCHER - Hooray!  The FPS classic weapon is just as awesome in Doom
+as it is in every other game.  But ammo for these is always scarce. When you
+find one hold onto it for the real nasties - Cacodemons and Barons of Hell. 
+Also take care firing at close range; the explosions can damage you as well as
+your target.
+
+7) PLASMA RIFLE - Another fast firing weapon, Balls of Plasma shoot out at a
+nice fast rate and can kill most enemies with a single shot.  Not so effective
+against Barons of Hell or Cacodemons, but great for taking down Lost Souls and
+Demons.
+
+8) BFG 9000 - The daddy of all weapons will kill EVERYTHING with a single
+blast. Has little ammo and always hard to find but great for turning the tables
+of those damn Hell Barons.  Word of warning, it takes ages for the BFG to power
+up after each shot, so be careful when taking on a crowd with it.
+
+
+=========================================================================
+***************************** 3) ENEMIES ********************************
+=========================================================================
+
+This version of Doom has only seven enemies to face off against; here they are
+from the weakest to the nastiest and the best ways to kill them.
+
+1) ZOMBIEMAN - The reanimated corpse of a dead marine now under the control of
+the forces of darkness.  They only carry weak rifles and can be killed with a
+couple of blasts from your pistol.  They will drop a pistol ammo clip when they
+die.
+
+2) SHOTGUN GUY - A slightly tougher version of zombieman.  He carries a more
+powerful rifle but is still pretty weak.  A couple of pistol shots will kill
+him and he'll drop shotgun shells when he dies.
+
+3) IMP - Now things are getting a bit tougher.  This pinky red demon can attack
+you from long distances with flaming fireballs.  It takes about 6-7 pistol
+shots to kill it, but one shotgun blast is usually enough to drop it.
+
+4) DEMON - A nastier fat pink demonic creature.  Can't attack from long range
+so it will usually rush you and cause some major mangling to your face.  Don't
+bother with your pistol unless you are desperate (over 12 shots to kill it). 
+The shotgun can drop it in three blasts, but its better to bring out the big
+guns and take it out from a distance.  A rocket launcher or plasma rifle does
+the job lovely.
+
+5) LOST SOUL - A floating, flaming skull that will rush you very quickly.  It
+can dodge slower long distance weaponry.  Wait until its right in your face and
+unleash your shotgun.  Three hits should take it down.
+
+6) CACODEMON - Uuh, nasty.  This is like a big gross floating eyeball that
+likes to pound your candy ass with lightening bolts.  Forget your pistol unless
+you have a death wish (over 30 hits needed) and the shotgun is not much more
+use (6+ shots).  Bring out your Chain Gun to keep it battered and unable to
+shoot lightening.  A Chainsaw in the face (eye?) can also cause this blobby
+fool to stop attacking you.  Two hits from a Rocket Launcher will also see this
+big fat meany splattered all over the level.
+
+7) Baron of Hell - The rottenest and coolest enemy of the lot.  This giant
+horned and hoofed demon is VERY tough and likes to get up close and personal. 
+Forget anything except the Rocket Launcher, which will take one out in two hits
+a plasma rifle (50 rounds) and if you have got your hands of the BFG one hit
+will take him out.
+
+
+=========================================================================
+********************** 4) CONTROLS AND AUTOMAP **************************
+=========================================================================
+
+1) CONTROLS
+
+In case you have lost you control overlay (bet you have!), here are the
+controls for the game.
+
+D-PAD: Move left, right, forward and backward
+A BUTTON: Run
+B BUTTON: Fire/Use Weapon
+C BUTTON: Open doors/Flick Switches
+
+HOLD C BUTTON + D-PAD LEFT or RIGHT - Strafe (Fire weapon at the same time)
+
+PAUSE: Pauses Game
+OPTION: Game Options Menu
+
+KEYPAD 1: Select Fists or Chainsaw (if obtained)
+KEYPAD 2: Select Pistol
+KEYPAD 3: Select Shotgun
+KEYPAD 4: Select Chaingun
+KEYPAD 5: Select Rocket Launcher
+KEYPAD 6: Select Plasma Rifle
+KEYPAD 7: BFG 9000
+
+KEYPAD 9: Toggle AutoMap
+# + * together: Restart Game.
+
+
+2) UNDERSTANDING THE AUTOMAP
+
+This is often neglected by many players but is actually a damn useful tool for
+helping you navigate though some of the more maze-like levels.  There are
+several features to understand:
+
+a) You are represented as a green arrow.  The point of the arrow shows the
+direction you are currently pointing in.
+b) The map gradually reveals more as you run though the level.  This helps you
+retrace you steps when you find the relevant card keys to open the relevant
+door.
+c) A red line indicates a solid wall, there may be a secret area, but that will
+not appear until you find it.
+d) A doubled red line indicates a passageway into a previously locked area.
+e) A yellow line is an open and explored area
+f) A doubled yellow line is a doorway.
+g) Multiple yellow lines indicate a hidden platform, bridge or stairway now
+discovered.
+h) Single grey lines show platforms, ledges, toxic slime pools, obstructions.
+i) Double grey lines are windows or balconies.
+j) A multiple grey line is a stairway (unused)
+
+
+=========================================================================
+********************* 5) COMPLETE LEVEL WALKTHROUGH *********************
+=========================================================================
+
+I have tried to give the quickest guide possible to each level.  But I have
+also designed it to cover as many of the secret areas as possible.  It's
+basically up to you if you choose to locate all the secret areas.  They count
+towards your secrets score at the end of each level.  In earlier levels its not
+so important, but in later levels all the super-strong weaponry, extra health
+and armour is hidden away, so it may be worth learning to spot the entrances to
+secret areas in earlier levels to save time when your having your butt kicked
+in later ones!
+
+*************************************************************************
+Level 1: Hanger
+*************************************************************************
+
+- Go to then end door on the left.  Go up the stairs and take the Security
+Armour.  Go back down stairs and turn left.  Go down the corridor and through
+the door into the computer room.  Take the east door out of the Computer room
+and you'll be on a zigzag bridge.  Cross over the slime pool via this.
+
+- Now look for a lighter section of wall on the right side of the corridor. 
+Press C while against it to open it and you'll find a secret passage leading
+out to the courtyard.  Go into the courtyard and take the Combat Armour in the
+Slime Pool the return to the secret passage.
+
+- Turn right and open the door.  Pick up all the stuff in the room then go back
+to the zigzag bridge.  Now the tower with the Imp on top has lowered.  It opens
+a new passage, which you can pick up more items and a shotgun.
+
+- In this area near the shotgun is a secret lift (elevator).  You can only open
+it by touching a tripwire near the north side of the zigzag bridge.  When it's
+tripped you can see and hear the secret elevator opening.  You must run back
+before it closes.  Once you get inside, pick up all the items and get out by
+jumping down onto the zigzag bridge.  Now turn left and go out through the Exit
+
+
+*************************************************************************
+Level 2: Plant
+*************************************************************************
+
+- Walk to the right of the stairs and open the secret door along the left wall
+(gold bit of a grey wall).  Go inside the secret room and press the switch to
+open another secret door. Go upstairs in the northeast corner and the secret
+door you opened is at the top.  Walk into the courtyard and collect the
+chaingun and soul sphere.  Return to the door, go to the top of the stairs and
+turn right.  Get the red card and follow the stairs back to the start of the
+level.
+
+- Go through the red security door on the west side of the area.  Walk straight
+ahead and up the stairs to the right.  Go to the top off the stairs and in a
+niche to the left is a flashing light. Step in the niche and you'll drop down
+into a secret area.  Shoot the Imp and Zombieman.  There a Chainsaw in sight
+but you can't get it quite yet so go back up the niche.
+
+- Go north across the slim pool bridge and push on the first wall panel to the
+left.  This leads to a passage that you can follow and shoot the enemies below
+you.  Then jump down and get the combat armour, then flip the switch to open
+the doors on either side. Both lead to the exit. Go through it now or stay and
+find the secrets.  If so, return to the red security door and walk up the north
+corridor.  Flip the switch on the east side of the column sitting in the middle
+of the slime pool.  This opens a secret door next to the red security door.
+
+- Go through this secret door and explore west until you find the green
+security armour.  Shoot at the wall behind the armour to reveal another secret
+passage.  At the top of the second flight of stairs, turn to the east and open
+a secret door.  Go through a door full of armour bonuses.  Exit and continue
+upstairs to the chainsaw area.  Push the switch in the northwest corner to
+lower the chainsaw.  Go back down to the maze and work you're way to the
+eastside of the maze.  Open the secret door between the white stripes on the
+far east wall. That's all the secrets done with so go back to the twin doors
+and Exit.
+
+*************************************************************************
+Level 3: Toxin Refinery
+*************************************************************************
+
+- Go through the northwest door and go upstairs.  Turn left twice to get to a
+switch. Press it to open a secret door and collect the soul sphere back near
+the window. Go through the door and up to the computer room.  Get the yellow
+card and check the flashing computer banks on the wall.  Go back down the
+stairs and go to the first lift behind the second bank of computers on the far
+left wall.  This is a timed run to a secret passage, if you fail, return to the
+room full of flashing computer banks and try again.
+
+- Once in the secret passage go down the stairs and press the switch on the
+pedestal to lower the soul sphere.  Go back down the stairs and run to the next
+secret passage behind the computers on the back wall.  There is security armour
+and a rocket launcher in this secret room. Jump in the slime and quickly follow
+it right through the door.  Press the switch to lower a secret drawbridge at
+the start of the level.
+
+- Press on the light brown section of wall and take the items in the secret
+area.  Take the first lift then the second with the green armour.  Go upstairs
+and left to explore the north section of the refinery. Go north to the oval
+bridge and follow it to the blue key.  When you pick it up all the lights will
+go out. Monsters will attack from a secret room behind you.  Shoot them and
+return to the start of the level.
+
+- Go to the blue security door.  Go through the door and turn left at the fork
+in the slime pool.  Go straight ahead to raise a secret staircase.  At the top
+is the Exit, go through now or go back to access the secret level 24.
+
+- Go back to the fork in the slime pool and this timed go right.  Press on the
+wall near the light and follow the secret path to the yellow door.  Go through
+to collect some items.  Return to the drawbridge at the start of the level. Go
+across it and kill the monsters as you head north.  Keep going until you reach
+a room with a switch.  This will take you to level 24.  Press the wall across
+from the switch to access a hidden lift and ride up to the bridge and collect a
+box of rockets.  Return and press the switch to go to level 24.
+
+*************************************************************************
+Level 4: Command Control
+*************************************************************************
+
+- Pres the south wall to open a secret door to a room with a backpack and other
+items.  Go along the north passage and get on the lift by the east wall.  Ride
+up to the high ledge and walk westwards to a large round chamber.  Walk through
+any door and take the blue key.  Collect a radiation suit and run to the slime
+trench.
+
+- Jump in the trench and go east.  You'll soon find yourself in a large room. 
+Collect all the stuff and flip the switch and get on the lift.  Go back to the
+large round chamber and through the north door.   Go down the stairs and inot a
+large room.  Go up and collect the armour vest, return to the round chamber and
+go though the blue security door.
+
+- Work your way from the southwest of the map northwards until you reach the
+final chamber, which has a yellow key in it.  Go north to the yellow door and
+flip the switch nearby.  Go through the yellow door and out of the Exit.
+
+*************************************************************************
+Level 5: Phobos Lab
+*************************************************************************
+
+- Walk north and up the stairs.  Blast away the barrels and open the south wall
+to reveal a shotgun and some items.  Go eats down the passage and drop into the
+slime pool.  Run to the southeast corner and open the secret door their. 
+Inside is a room with a rocket launcher and Armour vest. Go west down the
+corridor and then exit, turn right into the east corridor.  Go out onto the
+ledge and a bridge will rise across the slime pool.  Go back upstairs and use
+the new bridge to enter a room with the yellow key.
+
+- Return to the starting room and then through the north door.  Go through the
+yellow security door to the area west of the slime pool.  Ride down the lift to
+the circular western room.  There are two hidden lifts on the stairs.  There
+are platform at the top of each.  Only the southern one has anything above it,
+a medikit.  Open the secret door in the west wall, open it and take the
+radiation suit. Press on the south wall and collect the chainsaw from the
+secret room.  Press the next south wall and collect the soul sphere.
+
+- Return to the slime pool and flip the switch across the pool to open a secret
+door back at the middle slime pool.  You can ride up the pillars and jump
+across to the platforms to collect hidden items.  Go back to the lift on the
+north stairs and ride it.  At the top press on the east wall, enter the secret
+room and press on the next room to enter a room with a pentagram in. This will
+teleport you back to the room you started in.
+
+- Return to the room where you found the yellow key.  Move east until you reach
+a room with a switch.  First open the secret door in the south wall to find a
+chain gun and other items then flip the switch.  Follow the corridor north and
+west to a room with a blue key.  Throw the switch and go through the north door
+into a dark room.  Follow the south wall until you find a small opening.  Go
+through the hole and collect the items then carry on north to the exit.
+
+*************************************************************************
+Level 6: Central Processing
+*************************************************************************
+
+- Go north to the first intersection and turn west.  In the northwest corner is
+a room with an Armour Vest and some items.  Go back to the intersection and go
+east to a big room.  There are hidden monsters pens here, when you take the red
+key they will attack you from behind. Cross the slime pool and go though either
+red security door.
+
+- You'll see a blue key, as you get close to it, more monsters will attack you
+from behind. Take the key and jump down into the slime pool, go to the
+northeast corner and collect a radiation suit. Go back to the central opening
+in the slime pool wall. Go through to a lift, which will take you up to a soul
+sphere. Go to the platform on the eastside of the slimepit to get an armour
+vest.  Follow the trail of items to a switch, which when pressed will open a
+passage back in the starting area.
+
+- Go north to the stair platform, go east and ahead is a blue security door. 
+Don't go through it yet, go west to the bridge and then south to the secret
+room.  Collect the items and push on the south wall to reveal a rocket
+launcher.  Now go back through the blue security door and go through. In the
+east corridor you will find a wall switch which opens a passage to the yellow
+key room.  Don't go through it yet.
+
+- Go back to the blue door and run onto the lowered Imp tower. Collect the
+radiation suit and go north across the main bridge and into a long passageway. 
+Follow it to a platform full of items. Collect them and go through into the
+courtyard.  Approach the pillar with the Soul Sphere and it will lower
+automatically.   Step on the platform and ride up to a door at the top.  Open
+the door and face a lot of monsters.
+
+- When you are done, walk north and flip the switch.  Then go back to the main
+chamber and go west to a newly opened door. Go down either lot of stairs and
+press the switch in the alcove.  As you reach the switch, lots of monsters will
+attack.  Kill them all and then go northwest to the level exit.
+
+*************************************************************************
+Level 7: Computer Station
+*************************************************************************
+
+- Leave the room you start in and get ready for instant fighting. Go east then
+south until you find a window overlooking the courtyard.  North of the
+courtyard is a lift in an alcove.  Take it up to a ledge and follow it round
+until you find the yellow key. Jump down from the ledge and make your way to
+the central computer room.  Go through either yellow door and take the lift in
+the north corridor.  Pick up the rocket launcher and other stuff then, then
+return back down the lift.
+
+- Go south and go up the curved stairs.  Stand on the lower pillar and jump
+into the slime pool to the south. Go to the ledge in the northeast corner and
+collect the chaingun, carry on east to get a backpack. Go though the door to
+get back to the curving stairs. Get back on the pillar and this time jump into
+the north slime pool.
+
+- Go to the northwest passage, ignore the rad suit for now and flip the switch
+next to it. Follow the passage north until you get to another switch.  Flip it
+to open a secret room in another location.  Return the way you came, collect
+the radiation suit and head north.
+
+- Take the armour vest and carry on north to collect a soul sphere.  As you
+pick it up a secret door will open.  This takes you back to the room you
+started in. Return to the pillar and continue west past it through a door. 
+Take the lift up to the next room and collect all the items.  If you flipped
+the switch north of the slime pool you can get a chainsaw. Return to the pillar
+and go up the north corridor.
+
+- Go northwest to a lift, ride up to collect a red key.  Go back down and a
+room of monsters will attack you as you walk past the pillar.  Now go all the
+way back to the room you started in, the red security door is just west of it.
+Go through and take the blue key.  Go back out and head south, keep going until
+you reach a monster north of the blue security door. Go to the east wall and
+locate a secret door.  This will take you into the courtyard where you can
+collect some items.  Now return and go through the blue door and go up the
+stairs.  Go down the southwest passage, press the switch and return the way you
+came. Go right at the curved stairs and the door you just opened up with the
+switch leads to the Exit.
+
+*************************************************************************
+Level 8: Phobos Anomaly
+*************************************************************************
+
+- First arm your Rocket launcher then flip the switch.  When the lift comes to
+a halt.  Fire ahead and the barrels should explode taking many monsters out. 
+Mop up the rest and then walk east.  Inside the room is a computer map and some
+other stuff.  Go north down the stairs, near the bottom on the right is a
+secret door.  Open it to get a soul sphere.  Go through the north door and
+collect all the stuff in the various alcoves.  Go north, flip a switch and go
+up in the elevator.
+
+- When you get to the top two barons of Hell will jump out at you.  Make sure
+you can hit them with at least five rockets each. There are items at each point
+of the star that can help you out.  When they are dead, go north and flip a
+switch, climb the stairs and exit via the teleport.
+
+*************************************************************************
+Level 9: Deimos Anomaly
+*************************************************************************
+
+- Collect everything in the room and get the blue key at the end of the
+corridor.  Go west and use the teleport to warp to the northwest corner. After
+you have teleported move down the corridor and to the switch on the wall. 
+Press it to reveal a hidden panel with two switches.  Press the west-facing
+switch to open a secret room to the north.  Go there and collect them red key
+ten return and press the east-facing switch to reveal a teleporter in the room
+you began in.
+
+- Go back to the room you started off in and use the new teleport.  You'll end
+up in a room with a plasma gun.  Use the teleport there and go north then west
+and use the teleport.  Go back to the switch panel and take the teleport in the
+northwest corner to a new area. There is an alcove with two skull switches
+inside.  Press the one on the east wall and use the hidden teleport to reach a
+corridor full of items.  Teleport back to the skull switches and press the
+south skull.
+
+- This lowers a platform in the corridor.  Go through the red security door and
+get the armour vest and computer map.  Go through the blue security door and
+use the teleport.  Press the switch on the west wall to raise some hidden
+stairs.  Press the second to reveal another teleporter in the southwest corner.
+ Use this to reach the final teleport on the level.  Use it and finally walk
+into the wall ahead of you and it will lower, to reveal the Exit.  Beware there
+is a Cacodemon waiting there as well.
+
+*************************************************************************
+Level 10: Containment Area
+*************************************************************************
+
+- Go to the switch on the east wall to lower the shotgun shells.  Explore the
+warehouse area to find some armour vests and ammo packs.  There are boxes
+stacked into small stairs you can climb to get more stuff.  Head to the
+southern exit and keep going until you get to a switch that opens a door
+nearby. Go through it and follow the left wall to get the blue key.  Open a
+secret door in the northeast corner to find a soul sphere.
+
+- Carry on north down the stairs and go trough the blue security door.  Go
+through the next one to the east and take the red key.  Go through the red door
+into the southwest corner of the level.  There are lots of monsters on the way.
+ Go through the door and press the switch to create a drawbridge to the Exit
+(Leave now or stay and collect all the items/secrets).  Go northeast to the two
+pillars and press the skull switch one to get the Plasma gun from the other.
+
+- GO west, north, west to get an armour vest then go to the northeast room. 
+Get the yellow key and backpack.  Flip the three switches on the three pillars
+to open three connected rooms.  Get all the items and then go to the yellow
+security door in the north section.  Go through the door to pick up the
+chaingun, and then return to the Exit in the southwest corner.
+
+*************************************************************************
+Level 11: Refinery
+*************************************************************************
+
+- Enter the west room and run to the southwest corner and take the chaingun. 
+Collect the armour vest and ammo packs and kill everything.  Exit and go south
+to a pen full of cacodemons.  Go behind the pen and through the southeast door.
+ Carry on down the corridor to the false wall in the Northeast corner.  Open it
+and grab the weapon in the secret room.  Exit the room and go west to a pink
+room.
+
+- There is a secret door in the south wall, open it and destroy all the
+monsters within.  Get the armour vest and go west, take the shotgun from the
+pedestal. Continue walking west until you reach a red lava pool in the
+southwest corner. Quickly run through it and up the stairs and get the plasma
+gun.  Carry on up until you get to a ledge.  Shoot all the monsters and drop
+down into the room and grab the blue key.
+
+- Exit through the east door and continue to a crossroads. Keep going north and
+kill the monsters, go south to kill anything left in the southwest corner. 
+When everything is dead, carry on east.
+
+- Go through the blue security door and go south through the flashing corridor
+into the open room.  Walk north through the darkened room with the pillars
+until you reach the slime lake.  Around the corner, southeast is a rad suit and
+there is a soul sphere hidden away in alcove on the far-eastern side.  Collect
+both and hurry back to the slime lake pillars.  Exit to the north and follow
+the corridor around the lever exit.
+
+*************************************************************************
+Level 12: Deimos Lab
+*************************************************************************
+
+- Press the south wall to enter a secret room with a shotgun in it. Collect it
+then come back out.  Use the teleporter to warp to a room on the far eastern
+side of the lab area.  Go north to the elevator and press C to lower it.  Get
+on and go up at the top go north.  Search around the right side of the pillars
+to find a skull switch.  The pillars will descend and you can get the computer
+map and armour vest.  Go get them but careful of the Cacodemon and other
+nasties behind them.
+
+- Return south and take a passage that leads west across some slime. Carry on
+until you reach the far western wall.  Now go south through the door.  Kill the
+monster and press the button to ride up and get the blue key. .  Press button
+to lower the wall and walk east.  Follow the corridor until you reach a narrow
+bridge with a rad suit on the opposite side.  Jump down on the south side of
+the bridge and take the exit, which leads east and north back to the circle of
+slime.  Follow the slime north and you'll get to a platform with an armour
+vest.
+
+- Go into the passage directly across the river to the north.  Kill all the
+demons and get the Rad suit.  Go back to the river and follow it to the passage
+leading west. Then take the first passage going right and then right again. 
+Shoot the wall to reveal a secret room with a chaingun inside.  Now go into the
+room to the west and then north to the blue security door.  Don't go through
+just yet. Carry on west and south to get a backpack.  Now go back to the
+Security door and go through it.  Collect the yellow key and kill what's
+lurking there.  Press the skull switch.
+
+- Go through the yellow security door and into a circular hallway.  Turn left
+and then take the first right.  Get on the lift and drop down a level.  Go to
+the middle of the room and pick up the soul sphere to activate a secret door.
+Go south through the door and into a slime pool.  Run northeast to the alcove
+and press the skull button to raise a bridge. Get on the teleporter and return
+to the circular room.
+
+- Head north to the skull button in the northwest room, press it then run to
+the north elevator before it rises.  When you reach the top turn right and
+follow the circle to the eastern edge.  Press and open the false wall and
+collect the plasma gun.  Return to the central control room using the teleport.
+ Go to the northwest room and get on the lift again.  Turn right and follow the
+circle that way until you reach the first left.  Take it.
+
+- Now there are a group of doors, so enter the far right one first.  Pick up
+the armour vest and trigger the door on the far left.  There are items behind
+the middle door; taking them will trigger the two doors either side that are
+full of monsters. Kill them and then go though the northeast door, then to the
+south room, then through a narrow corridor to the east full of Lost Souls. 
+Return to the group of doors and use the elevator to return to the circular
+area.  Go to the southern end and use the teleporter.  Go south across the
+bridge and though the door.  Cross another bridge to collect a Soul Sphere then
+leave via the level Exit Door.
+
+*************************************************************************
+Level 13: Command Centre
+*************************************************************************
+- Command Centre.  Actually this is a pretty easy level once you acquire a
+certain item.  First clear the room you start in of enemies then explore the
+secret rooms to the east and west.  Each one has some shotgun shells and a few
+imps. Next take the stairs in the NW corner.  First explore the east room then
+go south into a huge room with a Computer Map and a Chain Gun.
+- Once you have the computer map all the secrets will show up on the Automap
+and you can navigate the level using this now.  No keys are required so explore
+each room carefully and conserve ammo, then when you are done head for the exit
+in the NE corner.
+
+*************************************************************************
+Level 14: Halls of the Damned
+*************************************************************************
+
+- First fight your way to the next room to the east.  You'll see a big Skull
+Button, so press it and return to the room you started in.  You'll see a secret
+passageway has now opened up.  Follow the passage around until you reach a
+slime pool.  Go north into the courtyard and press another Skull Button to
+access a Berserk Pack.  When you pick it up you'll activate a hidden passageway
+to the east.   Go down the passage and flip the switch there.  Another hidden
+passage opens up to the blue security door.  Now you need to go find the blue
+key.
+
+- Go through the door next to the blue door and a take the second passage on
+the left (you can get the key by going down the first passage, but that also
+unleashes a ton of monsters).  So go down the second passage and press the
+skull switch.  The monsters pens will open, but now you have a wall between you
+and them.  Shoot them through the slot in the wall. When they are all dead,
+collect the blue key then go to the SW pen and press the wall to find a
+Chainsaw.
+
+
+- Go west and then north down the corridor.  You'll see two large openings, but
+ignore them for now.  Continue North and you'll see three doors, explore the
+rooms behind them, then return to the openings.  Enter either one to go into
+the SW maze.
+
+- Explore the maze to find an armour vest, go through a door to the southern
+half of the maze to find the Red Key in the SW corner and a Plasma Gun in the
+SE corner.  Now go out of the maze and head north again.
+- Go though one of the twin doors in the NW room and you'll see the Yellow Key.
+ When you take it be prepared for an assault from lots of Lost Souls.  Kill
+them all then head all the way back to the blue security door.  Now you have
+all the keys you can open all the doors that lead to the level exit.
+
+*************************************************************************
+Level 15: Spawning Vats
+*************************************************************************
+- Open the door and head down the hallway.  Take the first door on the western
+wall and you'll find a chaingun on the top of the stairs.  Collect it and go
+down the stairs until you find a lift.  Ride up it and follow the passage to
+get to the Yellow Key.
+
+- Return to the hallways you started in and follow it until you reach a room
+with a lava pit in the middle.  There is an invincibility item nearby that you
+can collect to make killing the Baron of Hell easier.  Now head east from the
+lava pit until you reach the Exit, which you can't get to yet.
+
+
+- Open the door nearby to the east and go north.  Keep going until you reach
+the final door on the east wall.  Open it and go south to the Yellow Security
+door.  Open it and go south to the door on the west wall.  Go through and head
+west to an alcove.  Press the Skull switch and take the Red Key.
+
+- Go all the way back to the room with the Exit.  Open the North door and press
+the skull buttons inside it.  This activates a bridge and now you can get to
+the Exit.
+
+*************************************************************************
+Level 16: Tower of Babel
+*************************************************************************
+
+- Pick up the amour vest and soul sphere.  Jump down to the floor and go though
+either large door.  Go south and get the plasma gun.  Ill the demons and run
+into the courtyard.  Push all six skull buttons as they appear.  Each time you
+press a button monsters appear that you need to deal with.  After you push the
+first button the large doors to the north reopen so if you are in trouble, go
+back and pick up a rocket launcher that appears.  Now press the other five
+buttons, the sixth button leads to the exit.
+
+*************************************************************************
+Level 17: Hell Keep
+*************************************************************************
+
+- Walk north, go through the door and head west.  Kill the Imps and carry on
+west to the red wall, then go north up the stairs.  Walk out onto a ledge and
+press the skull button.  Now go east and collect the red key.  Run west and
+shoot any monsters that rush you.  Now go back to the first room and go through
+the east door.
+
+- Go up the north stairs and go through the red security door.  Use the
+teleport.  Go south along the catwalk until you find the blue key.  Jump off
+the platform and go west then south up the stairs. Go east to the blue security
+door and go through. Carry on south up the stairs to a platform with the yellow
+key on it.  Collect it and go to the northeast corner of the courtyard.  Press
+the skull switch to open a door to the west.  Go west and though the yellow
+security door to the level exit.
+
+*************************************************************************
+Level 18: Pandemonium
+*************************************************************************
+
+- Walk north to the stairs.  Press the skull switch then follow the stairs
+west, then north.  Soon you will reach a skull-covered ledge.  Walk over onto
+the platform on the north side of the ledge to open up a secret room.  Go in
+the room and get the computer map.  Go down the stairs and through the
+cross-shaped door.  Go into the next room and up the stairs to collect the blue
+key.  Now go to the blue security door in the northeast corner and exit the
+level.
+
+*************************************************************************
+Level 19: House of Pain
+*************************************************************************
+
+- Go south to the teleport.  Use it and head west.  Follow the corridor as it
+winds south, southeast, and east.  At the end is the Blue Key.  Take it and
+then go west and northeast up the next corridor to the blue door.  Go through
+and carry on north through the next door.  Carry on north until you see a door
+leading west.  Go through and keep on west until you see a demon carved on the
+wall.  Open the secret door here to get the red key and a soul sphere.  Now
+retrace your path back to the blue security door..  Open the red door to the
+east and go to the north door.  Jump in the blue ooze to open the door and run
+through it before it closes.  Go to the northeast corner to a small stairwell
+get the yellow key and open the yellow door to the east to find the level exit.
+
+*************************************************************************
+Level 20: Unholy Cathedral
+*************************************************************************
+
+- Go through the west door into the Cathedral.  In the first chamber push on
+the west wall to find a secret room.  Go north to the column room and take the
+first door on the left.  There is a large alcove on the west side of the room
+with a plasma gun and soul sphere in it.  Press the skull switch to open the
+door, exit and go north.  Kill the lurking cacodemons and take the west door of
+the two to the north.  Turn right and kill the demon then move west across the
+small slime pool to open the door to a larger slime pool area.
+
+- Go along the east wall and press the spot between two Y shaped marks to open
+a secret room with a rad suit inside. Kill the demons and imps and take the
+north teleport to the middle of the central courtyard. Go into the Cacodemon
+pen and get the yellow key.  Look around for a flame window and push the wall
+underneath it to get a chainsaw and soul sphere. Collect all the health and
+ammo in the courtyard then go to the flashing teleport in the northwest corner.
+
+- This takes you to a teleporter in the northeast corner of the cathedral. Take
+the west door and go north then west until you get to an archway.  Go through
+it to open the north silver door. Carry on into the North room.  There are
+three skull buttons and a teleport.  The southeast button opens secret doors in
+the east and west corridors, giving access to the Rocket Launcher amongst other
+things.  The northeast button give you access to the blue key in the northwest
+corridor and the northwest button lowers the chaingun in the north corridor. 
+The teleporter sends you back to the northeast room.
+
+- After you get all the stuff use the teleport and take the south door.  Open
+the blue security door and you'll see the Exit.  Use it now or stick around for
+the rest of the secrets and all the monsters to kill.
+
+- Go through the door on the right and you'll find a room full of monsters. 
+Run to the corridor going east and press the button.  You'll get the BFG 9000
+so pick it up and turn around and blast away the chasing monsters.  Press the
+skull switch to raise the wall behind south door and leave.  Take the corridor
+south to the southeast slime pit.  Cross it and go to the southwest corner. 
+Use the teleporter to go to the middle of the courtyard, go to the west pen and
+get the Invulnerability powerup.
+
+Open the final two pens by leaving the courtyard and taking first the northwest
+teleport.  Exit via the west door and go into the corridor.  Open the south
+door and use the northeast teleport.  Then take the northwest teleporter again.
+Exit via the south door into the corridor, go down and through the west door
+onto the southeast teleport.  Mop up the remaining monsters and go back to the
+Exit teleport, use it to finish the level.
+
+*************************************************************************
+Level 21: Mt. Erebus
+*************************************************************************
+
+- Go to the south platform at the end of the narrow bridge.  Collect all the
+items and run over to the stairs in the northwest. Go up the stairs and go
+collect all the weapons below, Rocket launcher, Chain Gun and Shotgun.  There
+is also an invulnerability artefact against the wall.  Don't forget it.  Go
+east to the horseshoe shaped building.  You'll open up to monster pens either
+side.  Go back to the southern building and kill all the monsters.  Then carry
+onto the eastside of the level and go to the oval shaped building.
+
+- Use the teleporters to collect items on the outside of the building.  Then go
+to the large central building. Kill all the caged Imps and then go inside. 
+Clear the room and open the secret door on the northeast wall to get an energy
+cell.  Open the southwest secret door to find a teleporter.  Use it to end up
+near a large square building.  Go in via the east entrance and kill all the
+monsters in the pens.  Use switches to open the pens and collect a yellow and
+blue security cards.
+
+- Use it to open a yellow security door in the north of the building.  Then
+enter the teleport there to return to the main area.  Go to the north most
+building and look for a small corridor.  Enter it and open the blue security
+door.  Use the teleport to Exit the level.
+
+
+*************************************************************************
+Level 22: Limbo
+*************************************************************************
+
+- At the start turn and open the south door and you'll find a backpack.  Now go
+north to a big slime lake and turn left.  Keep going west through a passage and
+then south.  Keep going southeast until you find the blue key sat in the
+corner.  Take it and return to the slime lake.  Now follow the walkway east to
+a room with two blue security doors. Go through the south door.
+
+- There is a skull switch sat in s mall niche in the wall to the north.  Press
+it to lower the false wall to the southeast.  Press the skull switch in the
+southeast corner which will raise a bridge back at the slime pool.  Go back and
+through the other blue security door.  Go north and take a rad suit when you
+come to one. Now go east.  Northeast you'll find some rockets and in a trench
+south of the rockets you'll find the BFG 9000.  There is a teleport, but don't
+use it just yet.
+
+Go south and collect the red key, then go though the red security door ahead.
+Press the skull switch to open all teleporters with Red Security doors.  Now go
+back to the teleport near where you got the BFG.  Use it to teleport to the
+southwest corner of the map.  Go north to the window and snipe at the Lost
+Souls until they are all gone. Press the skull button to raise bridge two rooms
+to the west. Go back to the central slime lake and go north, go straight to the
+western pillar and use the teleport.  You'll find yourself on a ledge
+overlooking a slime pool in Limbo's northwest area.  Press the skull button to
+raise the bridge the other side of the pool.  Use the teleporter and then go to
+the eastern pillar.
+
+- Teleport to another ledge and collect the Yellow key.  Now go back to the
+teleport on the island in the main slime lake.  Use it and cross the bridge and
+open the Yellow Security door.  Press the skull switch to raise another bridge
+that connects to the exit. Go back to the central slime lake and go west then
+north to the next teleporter.  Use it and go through the door, walk straight
+ahead and go though the exit.
+
+*************************************************************************
+Level 23: Dis
+*************************************************************************
+
+Last level, and it's a toughie.  The level isn't very big or hard to navigate,
+it's sort of an octagon shape with chambers around the edge, but it's stuffed
+with Cacodemons and two nasty barons of Hell.
+
+My advice is do not try and duke it out with the Barons, when the level begins
+grab the armour vest nearby (left) and run for the door. Now your in the big
+hall with the Cacodemons, keep your finger held down on the fire button and
+work your way around the room collecting refills and health as you go.
+
+If your lucky the Barons of Hell will have followed you in and will start a
+punch up with some of the cacodemons.  Whatever happens, open the secret door
+and push the skull switch.  Take the blue key and open the blue door. Get the
+red key and open the red door, and finally grab the yellow key and open the
+yellow door.  Walk onto the teleporter and that's it, end of game.
+
+Sit back and watch the very weedy end sequence.  Think yourself lucky endings
+are better nowadays!
+
+
+*************************************************************************
+Level 24: Military Base (Secret Level)
+*************************************************************************
+
+(You access this level from level 3: see level guide above)
+
+- Walk forwards and kill all the Imps in the cage, then walk down the passage
+to the east room. Walk into the light area by the east wall and you'll drop
+down into a slime pool below.  Shoot the Imps on top of the pillars and then
+collect the security armour. Go back up the lift to the east room and use the
+lift in the southwest corner.  Collect all the items them go back to the Imp
+cage in the courtyard.
+
+- Now head to the west room and get the yellow key.  Go north to the northwest
+room has a pentagram in it).  Collect the rocket launcher and then open either
+of the two yellow security doors that lead into the southeast room.  Kill
+everything and get the red key.  Now go west to the red security door on the
+southwest room.  Kill the monsters and go to the alcove in the southwest
+corner. Blow up the barrels and flip the switch to open a secret passage.
+
+- This passage opens up around the corner but also releases some demons.  Kill
+them and get the blue key in the south room.  Go north to the blue security
+door and open it.  You're now in the north room.  Kill all that's inside and
+then push on the east wall until you find a secret passage.  Go down it until
+you reach a room full of pillars.  The pillar at the far end lowers when you
+get to the bottom of the stairs, so run at it before it rises back up again. 
+Run clockwise from pillar to pillar collecting the items.  Then return to the
+north room.
+</pre><pre id="faqspan-2">
+- Jump in the slime pool and head west.  Keep running though the pool until you
+reach a platform.  Walk onto it and a secret door opens up in the wall across
+the pool and some Imps appear.  Kill them and flip the switch to raise a hidden
+bridge to the Exit. Get off the platform then back on again to open the west
+wall, run through it and use the lift.  Cross the bridge and flip the switch to
+end the level.  You're next level will be level 4.
+
+=========================================================================
+***************************** 6) CHEATS *********************************
+=========================================================================
+
+1) CHEATS
+
+GOD MODE:  Also known as Invincibility!  Press the Pause button to pause the
+game.  Now hold down the * (asterisk) button.  Keep it held down and press
+pause again.  Now when the game starts up again your fella's eyes will have
+turned yellow.  You are impervious to any damage!
+
+VERY HAPPY AMMO MODE: Press the Pause button and then hold down #.  Keep # held
+down and press pause again.  When the game restarts you have full health, all
+armour, keys, weapons and full ammo.  Time to wreak havoc!
+
+LEVEL SELECT: Press the pause button to pause the game.  Now hold down the
+number of the level you wish visit on the keypad and keep it held as you press
+pause again.  Now you'll warp to the beginning of that level.  To many levels
+and not enough keys on the keypad?  Never fear, here are the buttons to use.
+
+LEVELS 1-9: Just press and hold the relevant number
+LEVEL 10: Hold the A Button
+LEVELS 11-19: Hold the A Button and the relevant one on the keypad (eg. Level
+16 Hold A and 6)
+LEVEL 20: Hold the B button
+LEVEL 21-21: Hold the B button and the relevant one on the keypad.
+
+2) LETS HAVE FUN!!!
+
+Well I suggest you try and complete the game once without using the cheats. 
+But once you have they can come in handy for some fun game play challenges!
+
+Challenge 1: Activate the HAPPY AMMO and GOD MODE CHEAT.  See how quickly you
+can take out all the enemies in the Unholy Cathedral Level using just your
+Pistol and Chainsaw.
+
+Challenge 2:  Activate GOD MODE.  See how quickly you can complete the Toxin
+Refinery level with just your fists, and no (extra) cheating you must have at
+least 75% kills at the end of the level.
+
+Challenge 3:  My favourite!  Activate GOD MODE and warp off to Dis.  Now take
+on first the two Barons of Hell and then The Cacodemons with your bare hands. 
+You must kill them all! Bwahahahahahaha!
+
+Challenge 4: No cheats codes for this, this is a test of your dodging and
+running skills.  See how far you can get without killing anything!  Not a
+single shot, you kill % should be a big fat zero.
+
+=========================================================================
+***************** 7) JAGUAR DOOM VS. OTHER VERSIONS  ********************
+=========================================================================
+The Jaguar Doom has several big differences from the original PC version and
+other console ports of the game.  Here is a reasonably comprehensive list.
+
+- No in game music
+- Easy entry of cheat codes
+- Happy Ammo cheat gives ALL weapons 500 rounds
+- Numbered pad makes weapon selection an easier process than the weapon
+rotation of other console conversions.
+- Only seven monsters.  The game is missing the Spectre Demon, CyberDemon,
+Spider Mastermind.
+- Is missing some items and level features.  No Blur Artefacts or light
+amplification visors.  No crushing ceilings in certain levels
+- Health Potions add 2% (instead of 1% in PC version) to health.
+- Slime is more damaging than in other versions.
+- Has two levels not found on PC version although they share the same names.
+"Hell Keep" and "Tower of Babel".
+- The Jaguar "Dis" Level is completely different from the PC "Dis" level.  It
+actually looks more like the PC "Fortress of Mystery Level"
+- Jaguar version has 24 levels as opposed to the PC versions 27.
+- Games in progress cannot be saved.  But players can jump to any previously
+played level without needing to enter level passwords.
+- Game moves quickly and smoothly and is superior to all console versions
+except the PSX version.
+
+-----------------------------------------------------------------------
+***********************************************************************
+-----------------------------------------------------------------------
+Feel fee to email me about any aspect of this guide, any contributions you
+would like to make will be fully credited if used and are more than welcome. 
+Please inform me of any errors, typos etc so I can rectify them immediately
+My email is falsehead@aol.com
+
+(Blatant plug: check out my games website at www.kungfuhamster.cjb.net for
+loads of info on Martial Arts, Beat 'em Ups, Kung Fu Movies and Pokemon!)
+
+Thanks to all at www.gamefaqs.com for being such a laugh, and giving me the
+push to actually start contributing my own work.
+
+Special thanks go out to: BillyKane, Magus747, Pat Uhler, totalstuff and
+Andy78787, fakeplasticmanatree, bloomer, sashanan, ASchultz, MaxH and
+Ken Masters. For inspiration, encouragement, suggestions and being the people
+who make gaming even more fun than it is.
+
+=======================================================================
+***************************** THE END *********************************
+=======================================================================
+
+
+

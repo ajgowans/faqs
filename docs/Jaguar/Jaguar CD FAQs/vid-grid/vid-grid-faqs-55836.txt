@@ -1,0 +1,776 @@
+*******************************************************************************
+Vid Grid for Atari Jaguar CD FAQ
+
+by BHodges
+
+Version  1.0
+Created  02/28/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  Videos
+         B.  Practice
+         C.  Help
+         D.  Options
+         E.  Best
+         F.  Player
+         G.  Save
+III.   Basic Gameplay
+         A.  Object
+         B.  Controls
+         C.  General Strategies
+IV.    Puzzle Attributes
+         A.  Puzzle Size
+         B.  Puzzle Movement
+               1.  Drag and Drop
+               2.  Slider
+               3.  Perfection
+               4.  Corners
+         C.  Video Orientation
+               1.  Normal
+               2.  Upside Down
+               3.  Flipped
+V.     Levels
+         A.  Level 1
+         B.  Level 2
+         C.  Level 3
+         D.  Level 4
+         E.  Level 5
+VI.    Videos
+         A.  Aerosmith - Cryin'
+         B.  Peter Gabriel - Sledgehammer
+         C.  Guns N' Roses - November Rain
+         D.  Jimi Hendrix - Are You Experienced?
+         E.  Metallica - Enter Sandman
+         F.  Ozzy Osbourne - No More Tears
+         G.  Red Hot Chili Peppers - Give It Away
+         H.  Soundgarden - Spoonman
+         I.  Van Halen - Right Now
+         J.  Nirvana - Smells Like Teen Spirit
+VII.   Secrets and Cheats
+         A.  Instant Puzzle Solution
+         B.  Unlockable Video
+VIII.  Game Review
+IX.    Version History
+X.     Contact Information
+
+*******************************************************************************
+I.  Introduction
+
+This is a FAQ for the Atari Jaguar CD game Vid Grid.  It contains a list of
+controls, tips on how to play, and a mini-review.
+
+*******************************************************************************
+II.  Getting Started
+
+After pressing B on the title screen, you will be taken to the Video Selection
+screen.  Here you can choose a video to solve or clickon the various boxes
+for more choices.  The current level and puzzle attributes are listed at the
+top of the screen.
+
+-------------------------------------------------------------------------------
+A.  Videos
+
+Click on any of the videos to begin playing Vid Grid.  Once you have solved a
+puzzle for a particular level, its border will turn green indicating it has
+been solved.  You can still replay a previously solved puzzle to try to improve
+your times.
+
+-------------------------------------------------------------------------------
+B.  Practice
+
+Practice allows you to solve a video with any puzzle attributes you wish.
+Puzzles you solve here do NOT count as being solved for the level, but your
+any best times achieved here do count and will be saved.
+
+Click on the three boxes on the left to change the puzzle's size, piece 
+movement, and orientation attributes.  when you are finished practicing, click
+on MAIN to return to the Video Selection Screen.
+
+-------------------------------------------------------------------------------
+C.  Help
+
+Clicking on Help will give you a brief overview on how to play Vid Grid.
+
+-------------------------------------------------------------------------------
+D.  Options
+
+In the Options menu you can change which actions the buttons perform and adjust
+the sound volume.
+
+-------------------------------------------------------------------------------
+E.  Best
+
+Selecting this option allows you to view various high scores and best times.
+
+-------------------------------------------------------------------------------
+F.  Player
+
+This option allows you to switch, add, and delete player profiles.  The current
+profile will be highlighted green.  To switch profiles, simply click on the one
+you wish to play with.
+
+To add a new profile, click on ADD.  Use Up and Down on the joypad to change
+letters and Left and Right to switch to another character.  Press B when you
+are done.
+
+Clicking DELETE allows you to delete the current profile.
+
+Clicking OK or CANCEL sends you back to the Video Selection Screen.
+
+-------------------------------------------------------------------------------
+G.  Save
+
+Selecting this box will save your game (of course this only works if you have
+a Memory Track in the cartridge slot).  WARNING:  The game does NOT save your
+game automatically, you MUST do it manually.  Be sure to save your game EVERY
+time you solve a puzzle!
+
+
+*******************************************************************************
+III.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Object
+
+The object of the game is to unscramble the music video before it finishes
+playing.  There are a total of five levels, each one more difficult than the
+last.
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad:    Moves Cursor
+A Button:  Flips Current Piece
+B Button:  Selects Piece Under Cursor
+Pause:     Not Used
+Option:    Brings Up Options Menu
+0:         Toggles Music On/Off
+1:         Toggles Cursor On/Off
+3:         Increases Music Volume
+6:         Decreases Music Volume
+
+Options Menu
+
+Pressing Option during gameplay brings up the Options Menu.  There are four
+different options that may appear:
+
+SOLVE
+
+This will unscramble the puzzle, however it won't count as being solved.
+
+
+REPLAY
+
+This option will appear once the puzzle has been solved.  It will cause the 
+unscramble video to start playing from the beginning.
+
+
+RESET
+
+This will rescramble the puzzle and cause it to start playing from the
+beginning.
+
+MAIN
+
+This will allow you to exit the puzzle and return to the main menu screen.
+
+-------------------------------------------------------------------------------
+C.  General Strategies
+
+-  The puzzles are randomly scrambled, so don't think you can simply memorize 
+   the correct move orders!
+
+-  The puzzle types for each level are always in the same order (I've listed
+   these in the Level section).  Use this to plan which order to tackle the
+   videos in.
+
+-  Enter Sandman is by far the hardest video, so try to finish it early in each
+   level.
+
+-  Watch the unscrambled videos a few times to get a feel for what they should
+   look like.
+
+-  In Perfection Mode, drag a piece to where you think it belongs, but wait
+   a few seconds before dropping it so you can be sure it matches.
+
+-  This may seem obvious, but the easiest way to deal with an Upside Down
+   puzzle is to simply turn your head.
+
+-  Figure out which videos are easier for each puzzle type, for example, Right
+   Now contains words throughout the video, making it well suited for Flipped
+   puzzles.  (I go into further detail in the Videos section).
+
+*******************************************************************************
+IV.  Puzzle Attributes
+
+-------------------------------------------------------------------------------
+A.  Puzzle Size
+
+Videos can be scrambled into nine pieces (3x3), 16 pieces (4x4), 25 pieces (5
+x5), and 36 pieces (6x6).
+
+There are also progressive puzzles: 3-4, 3-4-5, 3-4-5-6.  In progressive 
+puzzles, you must solve a video multiple times in one play through.  For
+example, in a 3-4-5 puzzle, it starts out as a 3x3, once you solve it, the
+video will be immediately scrambled into a 4x4.  After you solve the 4x4, it
+will once again be scrambled, this time into a 5x5.
+
+-------------------------------------------------------------------------------
+B.  Puzzle Movement
+
+...............................................................................
+1.  Drag and Drop
+
+In Drag and Drop, you can move any piece anywhere you want.  Simply move the
+cursor over the piece you want to move and hold down B.  Move the piece to
+where you want to drop it and release the B button.  The piece will snap into
+the grid and the piece that was there will go to the empty spot left by the
+first piece.
+
+...............................................................................
+2.  Slider
+
+In Slider, you can only move pieces vertically and horizontally into the
+empty space on the grid.  In order to move a piece, hover the cursor over that
+piece and press B.
+
+In the solution to a Slider puzzle, the blank square will always end up in the
+lower right corner.
+
+...............................................................................
+3.  Perfection
+
+Perfection is just like Drag and Drop with one major difference: if you move
+a piece to the wrong spot, an alarm will sound and the puzzle will rescramble
+itself.
+
+Note:  If you are playing a Flipped puzzle and you make a mistake, any "flips"
+       you made will NOT be undone.  It's also important to note that an
+       incorrect flip will NOT count as a mistake and cause the puzzle to 
+       rescramble.
+
+...............................................................................
+4.  Corners
+
+Corners is exactly like Slider, except that in the solution, the blank square
+can end up in any of the four corners.
+
+-------------------------------------------------------------------------------
+C.  Video Orientation
+
+...............................................................................
+1.  Normal
+
+In Normal mode, the video plays right side up.
+
+...............................................................................
+2.  Upside Down
+
+In Upside Down, the video plays upside down and all of the pieces are upside
+down.  The pieces CANNOT be flipped.
+
+...............................................................................
+3.  Flipped
+
+In Flipped, the video will play right side up, but some of the pieces will be
+horizontally flipped.  To flip a piece, hover the cursor over it and press A.
+
+*******************************************************************************
+V.  Levels
+
+-------------------------------------------------------------------------------
+A.  Level 1
+
+              -------------------------------------------
+             |   Size    |   Movement    |  Orientation  |
+-------------|-----------|---------------|---------------|
+Puzzle 1     |    3x3    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 2     |    3x3    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 3     |    4x4    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 4     |    4x4    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 5     |    3x3    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 6     |    3-4    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 7     |    3x3    |    Perfection |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 8     |    4x4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 9     |    3x3    |    Drag/Drop  |   Upside Down |   
+-------------|-----------|---------------|---------------
+
+-------------------------------------------------------------------------------
+B.  Level 2
+
+              -------------------------------------------
+             |   Size    |   Movement    |  Orientation  |
+-------------|-----------|---------------|---------------|
+Puzzle 1     |    4x4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 2     |    3-4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 3     |    3-4    |    Perfection |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 4     |    5x5    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 5     |    4x4    |    Drag/Drop  |   Upside Down |   
+-------------|-----------|---------------|---------------|
+Puzzle 6     |    5x5    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 7     |    3x3    |    Slider     |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 8     |    4x4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 9     |    3x3    |    Slider     |   Flipped     |   
+-------------|-----------|---------------|---------------
+
+-------------------------------------------------------------------------------
+C.  Level 3
+
+              -------------------------------------------
+             |   Size    |   Movement    |  Orientation  |
+-------------|-----------|---------------|---------------|
+Puzzle 1     |    3-4    |    Perfection |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 2     |    4x4    |    Slider     |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 3     |    6x6    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 4     |    4x4    |    Slider     |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 5     |    5x5    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 6     |    4x4    |    Slider     |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 7     |    5x5    |    Perfection |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 8     |    3-4    |    Slider     |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 9     |    3x3    |    Corners    |   Normal      |   
+-------------|-----------|---------------|---------------
+
+After completing level 3, you will unlock a bonus music video, Nirvana's Smells
+Like Teen Spirit!
+
+-------------------------------------------------------------------------------
+D.  Level 4
+
+              -------------------------------------------
+             |   Size    |   Movement    |  Orientation  |
+-------------|-----------|---------------|---------------|
+Puzzle 1     |    3-4-5  |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 2     |    4x4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 3     |    4x4    |    Perfection |   Upside Down |   
+-------------|-----------|---------------|---------------|
+Puzzle 4     |    4x4    |    Slider     |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 5     |    3-4-5  |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 6     |    6x6    |    Drag/Drop  |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 7     |    3x3    |    Slider     |   Upside Down |   
+-------------|-----------|---------------|---------------|
+Puzzle 8     |    4x4    |    Corners    |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 9     |    6x6    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 10    |    4x4    |    Slider     |   Flipped     |   
+-------------|-----------|---------------|---------------
+
+-------------------------------------------------------------------------------
+E.  Level 5
+
+              -------------------------------------------
+             |   Size    |   Movement    |  Orientation  |
+-------------|-----------|---------------|---------------|
+Puzzle 1     |    6x6    |    Perfection |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 2     |    3-4-5  |    Perfection |   Normal      |   
+-------------|-----------|---------------|---------------|
+Puzzle 3     |    3x3    |    Corners    |   Upside Down |   
+-------------|-----------|---------------|---------------|
+Puzzle 4     |    6x6    |    Perfection |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 5     |    4x4    |    Corners    |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 6     |    4x4    |    Slider     |   Upside Down |   
+-------------|-----------|---------------|---------------|
+Puzzle 7     |    4x4    |    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 8     |    3-4    |    Corners    |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 9     |    3-4-5-6|    Drag/Drop  |   Flipped     |   
+-------------|-----------|---------------|---------------|
+Puzzle 10    |    5x5    |    Slider     |   Flipped     |   
+-------------|-----------|---------------|---------------
+
+After completing level 5, you will be treated to a short video of a crowd
+applauding.  Afterwards, you will be given a congratulations message and your
+total score.  At this point, the game is automatically saved and you will be
+unable to play or even practice with that profile.
+
+
+*******************************************************************************
+VI.  Videos
+
+In this section, I list some information about each video.  I have tried to
+include several "markers" to help you solve them.  These markers are the
+approximate time that certain features appear in a video that help tell where
+certain pieces belong in the puzzle.  This is by no means intended to be a 
+comprehensive list, watch the videos a few times yourself to get a feel for
+what to look for.
+
+-------------------------------------------------------------------------------
+A.  Aerosmith - Cryin'
+
+Since this video has an actual "plot", it's very easy to remember what's
+going on, making this one of the easiest puzzles in the game.
+
+0:38  Alicia Silverstone is just right of center, looking to her left.
+
+1:32  The black mustang is going towards the LEFT of the screen.
+
+1:46  While getting the tattoo, Alicia's feet will be in the bottom left.
+
+3:25  While in the diner, Alicia is on the left of the screen looking right.
+
+4:14  The letter in the red phone both will be vertical and just right of the
+      center of the screen.
+
+5:34  Copyright info will be at the very bottom of the screen.
+
+5:40  Video ends.
+
+-------------------------------------------------------------------------------
+B.  Peter Gabriel - Sledgehammer
+
+Far and away the easiest video in the game.  There are very few cuts and the
+camera is zoomed in on his face for nearly the entire video.
+
+0:11  The sun (red circle) is perfectly centered.
+
+0:40  Peter's face will be centered (and remain that way for most of the video.
+
+1:43  The video will be flipped upside down.
+
+1:50  Video flips right side up.
+
+2:22  Face turns into fruit.
+
+2:35  Peter's face returns.
+
+3:14  The handle of the hammer will be in the direct middle of the RIGHT side
+      of the screen.
+
+4:56  Copyright info will be at the bottom of the screen.
+
+5:00  Video ends.
+
+-------------------------------------------------------------------------------
+C.  Guns N' Roses - November Rain
+
+This video is twice as long as the others, making it ideal for Progressive
+puzzles.  Like Cryn' there is a "plot", making it easier to remember what is
+going on.
+
+0:01  At the start of the video, the words "November Rain" will be on the
+      bottom left.
+
+0:46  Candle is center right.
+
+1:06  Flower girl is centered.
+
+2:19  The word "Rainbow" is vertical.
+
+2:52  Axel's mike is dead center.
+
+3:37  Slash walks down center of aisle.
+
+4:15  Camera will be zoomed out, Slash will be on lower right of screen.
+
+4:24  Cross centered.
+
+5:37  Sign says "Guns" on right side of screen.
+
+8:58  Text says video is based on a short story.
+
+9:13  Copyright info at bottom of screen.
+
+9:15  Video ends.
+
+-------------------------------------------------------------------------------
+D.  Jimi Hendrix - Are You Experienced?
+
+The frequent cuts make this video difficult, but fortunately there are
+frequent vertical "stripes" that make it a little bit easier.
+
+0:17  The book with the letters "DO" on the spine is in the upper right.
+
+0:34  The film strip with the numbers is lined up vertically on the left.
+      This will be followed by a white stripe in the same location.
+
+0:51  The white stripe will now be dead center.
+
+1:10  The white stripe returns in the center.
+
+2:16  The red squiggle will be lined up vertically on the left.
+
+2:46  The white stripe will once again be in the center.
+
+3:56  The stripe makes its final appearance in the center.
+
+4:33  Video ends.
+
+-------------------------------------------------------------------------------
+E.  Metallica - Enter Sandman
+
+WOW!  This is without a doubt the hardest video in the game by a large margin.
+The lighting is very low, there are frequent cuts, and there is a constant
+strobe effect.
+
+0:15  The headboard will be on the left side of the screen.
+
+0:36  Again the headboard will be on the left.
+
+0:47  The kid will fall on the left side from top to bottom.
+
+1:23  Stripe on the right side.
+
+3:09  This time the kid falls down the right side of the screen.
+
+3:44  The kid's face will be in the top left.
+
+4:19  The headlights will move across the top from left to right.
+
+5:30  Copyright info across the bottom.
+
+5:37  Video ends.
+
+-------------------------------------------------------------------------------
+F.  Ozzy Osbourne - No More Tears
+
+This one is actually pretty easy.  First, this is the only video that is
+letterbox, there are two black strips across the top and bottom the entire
+time.  Second, this is another long video, second in length only to November
+Rain.  Lastly, there is plenty of time between cuts, so it's easier to tell
+what's going on.
+
+0:01  The red lips are centered, the camera will zoom out.
+
+0:27  The door is on the left.
+
+1:37  The lips will once again be centered.
+
+1:49  There will be a "T" centered above the lips.
+
+2:02  The red chair is on the left.
+
+2:07  The red chair is now on the RIGHT.
+
+5:36  Ozzy is in the lower left, waving.
+
+7:21  Copyright info appears at bottom.
+
+7:27  Video ends.
+
+-------------------------------------------------------------------------------
+G.  Red Hot Chili Peppers - Give It Away
+
+The frequent cuts make this one difficult.  There is one trick I figured out,
+for most of the video, you can see the treeline in the distance (it goes
+horizontal all the way across the screen).  Lining this up first makes the rest
+of the puzzle a whole lot easier.
+
+0:01  The "scorpion" guy is centered.
+
+0:15  Chad (the drummer) has horns.
+
+0:34  The guitar neck goes horizontal across the screen.
+
+1:00  Anthony steps to the left.
+
+1:09  Lips are on the right of the split screen.
+
+1:19  Now the lips are on the left.
+
+2:39  The guitar neck is vertical on the right.
+
+3:31  Lips are on the left.
+
+4:34  Copyright info appears on lower left.
+
+4:38  Video ends.
+
+-------------------------------------------------------------------------------
+H.  Soundgarden - Spoonman
+
+A VERY difficult video, there are frequent cuts and overlays, so it's next to
+impossible to tell what's going on.  At least the lighting is much better
+than Enter Sandman ...
+
+0:35  Eye goes down left side of screen.
+
+0:44  Screen scrolls left to right.
+
+4:26  Copyright info at bottom.
+
+4:33  Video ends.
+
+-------------------------------------------------------------------------------
+I.  Van Halen - Right Now
+
+This video has text throughout, making it a prime candidate for Flipped
+puzzles.  (I decided to be lazy and only list a few of the phrases :p)
+
+0:11  Right now, Ed is playing the piano.
+
+0:21  Right now, people are having unprotected sex.
+
+0:31  Right now, blacks and whites don't eat together that much.
+
+0:46  Right now, God is killing Moms and dogs because he has to.
+
+1:02  Right now, there's a bomb factory at work.
+
+1:20  Right now, oil companies and old men are in control.
+
+1:42  Right now, youth is king.
+
+2:10  Right now, science is building a better tomato.
+
+2:30  Right now, Mike is thinking about a solo project.
+
+2:38  Right now, your parents miss you.
+
+2:50  Right now, no one is safe from loneliness.
+
+3:14  Right now, she is going on with her life.
+
+3:30  Right now, Ed's got his hands full.
+
+3:40  Write now.
+
+3:53  Right now is harder than it looks.
+
+4:11  Right now, we must be going.
+
+4:18  Video ends.
+
+-------------------------------------------------------------------------------
+J.  Nirvana - Smells Like Teen Spirit
+
+You will unlock this video after completing level 3!  It's above average in
+difficulty but not too bad.  You will always see one of four things:  the
+band, the cheerleaders, the crowd, or the janitor.
+
+0:29  Kurt is centered.
+
+1:39  Janitor is centered.
+
+2:15  You can see the cheerleader's letter "A" on the right of the screen.
+
+2:34  Kurt is centered.
+
+2:41  Basketball hoop is on the left (only time it's not centered on top).
+
+3:02  Cheerleader's letter "A" is centered.
+
+3:10  In this long shot, Kurt starts on the right, moves to the left, then
+      to the center.
+
+3:35  Janitor centered.
+
+4:39  Copyright info at bottom (lasts for ten seconds).
+
+4:49  Video ends.
+
+*******************************************************************************
+VII.  Secrets and Cheats
+
+-------------------------------------------------------------------------------
+A.  Instant Puzzle Solution
+
+I got the following code from atariage.com:
+
+During a puzzle, press 4 + 7 + 8 + B to instantly solve the puzzle.  (If you
+are working on a progressive puzzle, you will need to repeat until all puzzles
+have been solved.)
+
+-------------------------------------------------------------------------------
+B.  Unlockable Video
+
+The instruction booklet mentions that if you manage to complete Level 3, you
+will be rewarded with a special bonus.  That bonus is a 10th music video, none
+other than Nirvana's Smells Like Teen Spirit!  This video will only be 
+available in profiles where it has been unlocked.
+
+(I have to give Atari kudos for this, most "rewards" in games are pretty lame
+and not worth the effort it takes to unlock them.  I also thought it was pretty
+cool that they kept this a secret, it's not even mentioned in the instruction 
+booklet's music video credits section!)
+
+*******************************************************************************
+VIII.  Game Review
+
+This game really surprised me!  I was expecting this to consist of a couple
+of pixelated, poor quality videos from some indy bands I'd never heard of.
+Instead I got ten full-length videos of surprisingly good quality from such
+legendary names as Nirvana, Metallica, and Jimi Hendrix!
+
+While having ten complete music videos on one disc may not seem like that big
+of a deal, you have to keep in mind that this game was released before such
+things like DVDs and YouTube existed.  Just having these videos alone without
+any gameplay at all would have made it worth a purchase.  Vid Grid is a must 
+own for any fan of the Jaguar CD system.
+
+
+Pros
+
++  Game contains ten music videos, from artists you've actually heard of!
++  All of the music videos are complete.
++  It's possible to just forgoe the puzzle solving and simply watch the videos.
++  Many different puzzle types means there's something here for gamers of all
+   skill levels.
+
+Cons
+
+-  The later levels of this game are EXTREMELY difficult.
+-  While the videos are on par with other CD movies, they certainly aren't
+   DVD quality.
+
+*******************************************************************************
+IX.  Version History
+
+1.0   02/28/09   Created FAQ.
+
+*******************************************************************************
+X.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

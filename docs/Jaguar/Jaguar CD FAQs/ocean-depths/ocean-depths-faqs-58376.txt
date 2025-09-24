@@ -1,0 +1,271 @@
+*******************************************************************************
+Ocean Depths for Atari Jaguar CD FAQ
+
+by BHodges
+
+Version  1.0
+Created  11/29/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Ocean Depths
+IV.    Eerievale Demo
+         A.  Getting Started
+         B.  Controls
+         C.  Walkthrough
+V.     JagMind
+         A.  Getting Started
+         B.  Controls
+         C.  Object of the Game
+         D.  Hints
+VI.    Game Review
+VII.   Version History
+VIII.  Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Jaguar CD game Ocean Depths.  It contains information on
+how to play the three included games and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Note:  Don't be alarmed if Ocean Depths seems to take a much longer time to
+       load than other games, just be patient!
+
+On the Title Screen you can select which of the three games you want to play
+as well as change the input device (controller or mouse) and the screen
+position.  Use the Joypad to move the cursor and the A button to select an
+item.  If you are using a JagMouse, be sure to have it plugged into Port 2.
+
+Note:  If you accidentally turn on mouse support but don't have a JagMouse,
+       you can plug a normal Jaguar controller into Port 2 and press A to 
+       turn the input back to Joypad.
+
+*******************************************************************************
+III.   Ocean Depths
+
+When you click on Start Ocean Tour, the slideshow will automatically begin.
+Every few seconds the picture will automatically change.  As far as I can tell,
+there is no way to manually change the picture or even return to the Title
+Screen.
+
+*******************************************************************************
+IV.    Eerievale Demo
+
+-------------------------------------------------------------------------------
+A.  Getting Started
+
+On the Eerievale Demo Title Screen, use the Joypad to move the cursor to PLAY
+GAME and press A to start playing.
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad     Move cursor
+A Button   Select
+
+The eight buttons in the lower left of the screen are used to activate the
+eight available actions (TAKE, USE, LOOK, TALK, WALK, GIVE, INVENTORY UP,
+INVENTORY DOWN).  The currently active action will appear in white letters
+above the word TAKE and the target of that action (if any) will appear above
+the word WALK.  This depends on the current location of the cursor, move the
+cursor around the screen to identify any items of interest.
+
+The cursor will change depending on the currently selected action (arrow for
+LOOK, boot for WALK, etc.).
+
+To WALK to the left, simply move the cursor to the far left of the screen and
+press A.  You can walk right by moving the cursor to the far right and walk
+back by moving the cursor to the bottom of the screen.  Please note that the
+cursor will automatically change to a boot when hovered over a traversable
+area, you don't have to keep selecting WALK from the action menu.
+
+-------------------------------------------------------------------------------
+C.  Walkthrough
+
+Note:  You will most likely need to turn up the brightness on your TV in order
+       to see anything!
+
+...............................................................................
+Outside
+
+STEP 1:
+
+First we need to make our way to the front door.  WALK RIGHT then WALK RIGHT
+again.  WALK PATH then WALK WAY TO HOUSE to reach the front door.  If you try
+to enter at this point, you'll get a message saying it's too dark.
+
+STEP 2:
+
+WALK LEFT then WALK PATH then WALK RIGHT then WALK GRASS.  TAKE the PIECE OF
+CLOTH to add it and a CROWBAR to your inventory.
+
+STEP 3:
+
+Now we need to head over to the fusebox.  WALK BACK, WALK RIGHT, WALK PATH,
+WALK PATH, WALK PATH, WALK PATH, then WALK FUSEBOX.
+
+STEP 4:
+
+USE CROWBAR on LOCK then USE OPENED LOCK to open the lid and USE POWER SWITCH 
+to turn on the electricity to the house.
+
+STEP 5:
+
+It's time to head inside.  WALK BACK, WALK BACK, WALK BACK, WALK LEFT, WALK
+LEFT, then WALK DOOR to enter the house.
+
+...............................................................................
+Inside the House
+
+This is the end of the demo, besides the foyer, there are two side rooms you
+can visit, but there are no more items or puzzles available.
+
+STEP 1:
+
+WALK WAY, WALK LEFT, then WALK DOOR to enter the room.
+
+STEP 2:
+
+WALK BACK, WALK RIGHT, WALK RIGHT, then WALK DOOR to enter the kitchen.
+
+That's all folks!
+
+*******************************************************************************
+V.     JagMind
+
+-------------------------------------------------------------------------------
+A.  Getting Started
+
+On the JagMind Title Screen, you can start a game, view highscores, or change
+options.
+
+Note:  DO NOT CLICK ON HIGHSCORES UNTIL YOU HAVE ENTERED AT LEAST ONE HIGHSCORE
+       OR THE GAME WILL CRASH!
+
+In the Options Menu, you can adjust the screen position or change the
+difficulty level.  In Normal, the four symbols will be unique while in Hard,
+they can be used more than once!
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Numpad 1      Change the first symbol
+Numpad 2      Change the second symbol
+Numpad 3      Change the third symbol
+Numpad 4      Change the fourth symbol
+B Button      Enter your guess
+* + #         Reset the puzzle
+
+-------------------------------------------------------------------------------
+C.  Object of the Game
+
+The object of JagMind is to figure out the four hidden symbols in eight guesses
+or less.  Use Numpad 1-4 to input your guess and press B when you are ready.
+On the right side of the screen, the Correct Colors is how many symbols you
+have that are correct and the Correct Symbols is the number that are in the
+correct position.
+
+Keep trying different symbols in different positions until you get all four
+correct (or you run out of guesses).  If you guess right, you move on to the
+next puzzle.  If you are unable to figure it out, you'll be shown the correct
+answer and be given the option of quitting by pressing C.  You will then be
+prompted to enter you name for the highscore list (even if you didn't make
+the list).
+
+-------------------------------------------------------------------------------
+D.  Hints
+
+-  You should be able to figure out which four symbols during your first
+   three guesses by first guessing the red circle, yellow triangle, blue
+   diamond, and green cross then replacing two of these with the pink and blue
+   squares until you have all four correct colors.
+
+-  Use your remaining guesses to figure out the correct positions by swapping
+   two symbols each guess until you have the correct answer.
+
+-  The game only displays the number of correct colors and symbols for the
+   most recent guess, so write them down so you can keep track.
+
+*******************************************************************************
+VI.    Game Review
+
+Ocean Depths is a "commercial" homebrew game for the Atari Jaguar CD released
+in 2004, eight years after the Jaguar was officially retired.  It is a
+compilation of three games: the titular Ocean Depths, JagMind, and a demo of 
+the upcoming Eerievale.  The disc supports the JagMouse (also made by StarCat).
+
+Ocean Depths is basically a short CGI intro movie followed by a slideshow.  The
+artist, Lars Hannig, is certainly talented and I look forward to seeing more of
+his work, but I was expecting more than a glorified screensaver.  There is no
+background music, just the sound of surf which gets old very quickly.  This
+part of the disc is extremely buggy, I have yet to make it to the end of the
+slideshow due to the game constantly crashing.
+
+Eerievale is definitely the most exciting inclusion.  It is a point and click
+horror adventure game in the vein of such classics as 7th Guest and 11th Hour.
+The graphics are amazing, even better than in Ocean Depths.  The demo is very
+short, there is only one puzzle to solve.  The only other complaint I have is
+the complete lack of background music.  It's also worth mentioning that this
+is the only part of the disc that appears to be free of bugs.
+
+JagMind is the third part of the disc and is surprisingly the most enjoyable.
+It is basically the classic board game Mastermind.  You get eight guesses to
+figure out a four symbol code.  The controls are a little awkward, instead of
+using the control pad, you change the symbols using the numpad.  JagMind is the
+only game on the disc with background music.  There are some bugs here as well,
+most notably is that the game will crash if you try to view the highscore list
+before you enter any highscores (you are warned not to do this in the
+instruction booklet).
+
+While $30 is a bit steep for what is basically a tech demo, when you consider
+that only a dozen or so games where ever released for the Jaguar CD, having
+ANYTHING new to play is welcome.  In my view the best thing about this disc is
+the POTENTIAL it shows for future homebrew efforts and I definitely can't wait 
+for the full version of Eerievale!  Ocean Depths is definitely worth a look by
+any fan of the Jaguar CD.
+
+Pros
+
++  Excellent graphics.
++  Mouse support.
++  Can't wait for the full version of Eerievale!
+
+Cons
+
+-  You'll lose interest quickly.
+-  Very long load times
+-  VERY buggy.
+-  Where is the background music?
+
+*******************************************************************************
+VII.   Version History
+
+1.0   11/29/09   Completed FAQ.
+
+*******************************************************************************
+VIII.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

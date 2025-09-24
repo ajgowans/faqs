@@ -1,0 +1,464 @@
+Jaguar Rai-Den Hints and Strategies
+By Ethan Larson
+almo@uwyo.edu (e-mail comments about this article are welcomed, and
+               encouraged!)
+
+
+
+     Rai-Den is a standard shoot-everything-that-moves vertical scrolling
+game.  I will assume the reader is already familiar with the basics of such
+a game, i.e. how to use diagonals to dodge, etc.  This article includes
+several bullet pattern diagrams.  The periods represent bullets, and ~j
+lines near them represent their paths :
+
+
+         |           \           --.
+         .            .             C
+          A            B
+
+A is moving down, B is moving down-right-diagonally, and C is moving right.
+An asterisk indicates the player's ship, and a line will indicate what path
+the player should take :
+                           ____
+                          /
+                         /
+                     |  |  \
+                     .  |   .
+                        |
+                        *
+
+Here, the player would go straight up, then bank to the right.  Unless
+otherwise specified, the player should always use green missiles.  Enough
+explaining, let's get to the tips!
+     General hints :
+
+     (1) Be a point monger.  Push your ability to the limit to get the most
+points.  This is because extra fighters come at 150,000, 400,000, and every
+500,000 points after that.  At the end of a level, you get 1000*bombs*medals
+as a bonus.  This means you should use as few bombs as necessary.  Of course,
+this should be balanced by how many bombs you need to use to survive; just
+avoid wasting them.
+ 
+     (2) Memorize the enemy positions.  A specific enemy will always come
+onto the screen at the same place.  Since the playfield is wider than the
+screen, you must scroll the screen left and right to find all the medals and
+kill all the enemies for maximum points.  If you have the enemy positions
+memorized, it will prevent you from running into them while at the edge of
+the screen pushing it left or right.
+
+     (3) Most enemies shoot straight at you.  This means that if you are
+moving, and not moving toward a gun, you will probably not get shot.
+
+     (4) Red's real power is that when you're up close with full power,
+most of the spray will hit your target.  In some places, it is faster to use
+red at close range than to use blue at long range.  The main difference is
+that you have to know when the enemy is going to shoot so you can get out of
+the way before he does.
+
+     (5) There is a bug in the gun tracking routine.  If you are directly
+in front of a gun, it will face east and miss.  This is only worth bothering
+with when confronted with the larger guns, such as the level 1 BBG's (Big
+Bad Guys).
+
+
+Level Summaries
+
+Level 1 :
+     This level is fairly trivial, with the exception of the BBG's
+and the two square tanks in the middle of the level.  You should use
+blue bullets for this level.  When you get to the river, a PUCE (Power Up
+Carrying Enemy) will papear.  Slightly to the right of where he appears,
+there is a small stone on the shore of the river.  There is a fairy hidden
+here.  You have to shoot an invisible target to get the fairy to appear, the
+pick it up.  It isn't worth 10,000 points, due to a bug in the program;
+however, it does count as a medal.  When you get to the two square tanks,
+they will start firing at the same time.  Below is the best place to "hide".
+
+
+                  OOOO  OOOO
+        tanks ->  O  O  O  O
+                  O  O  O  O
+                  OOOO  OOOO
+
+           /    /
+         .    .
+                                 \     \
+                    |     |       .     .
+                    .  *  .
+
+When you get to the BBG's, remember that a few tanks come on from the sides.
+ Make sure you nail these early.  Then sit back and hose on the BBG's until
+they die.  Below is the place to hide.
+
+
+                  OOOOOO
+         BBG ->   O    O
+                  O    O
+                  O    O
+                  O    O
+                  OOOOOO
+                    |
+                    .
+
+                 |  |  |
+                 .* .  .
+               /         \
+              .     |     .
+          /         .         \
+    /    .                     .   \
+   .                |               .
+                    .
+
+The others shots from the BBG are not a problem if you stay near the bottom
+of the screen.  Also, if you are directly in front of the gun, the tracking
+bug will show itself, and the gun will completely miss to the right.
+
+
+Level 2 :
+     Level 2 presents a few more problems.  Some of the medals are hidden in
+buildings.  The only two that are hard to find are at the beginning of the
+level, all the way to the left.  When you get to the bridge, there is a
+small car that speed across to the left; nail it for 10,000 points.  Keep to
+the left until the railroad tracks appear, then move over to nail the
+trains.  You should wait a little bit to prevent nailing the engine while
+the cars are still off the screen.  There is a very large tank on the left
+side near some water.  Kill this before it shoots.  If you lack the fire
+power, use a bomb.  When the second bridge comes, it means a barrage of
+fighters is about to come.  If you don't have green here, it will be a
+problem.  Try to plan ahead so you either have green or red here.  Be very
+careful when scrolling the screen left or right.  As the bridge appears,
+work your way to the left; after nailing the tanks go back to the right to
+nail another train.  Again, going to the left first is to prevent nailing
+the engine before the cars come on.
+     Next is the BBG, which has three bullet patterns.  The first is
+trivial; the wings shoot occasionally, and the middle part shoots a lot,
+with all the bullets just going straight forward.  While still in this mode,
+the BBG spits out bunches of fighters.  Green or red is imperative.  If you
+don't mind getting very close to the BBG, I suggest red, since it will kill
+him faster than blue.  This of course requires getting in close enough to
+get most of the spray to hit him.  Blow off the wings first, since the main
+part takes very little damage while the wings are still on.  Once he starts
+flaming, the second and third bullet patters will start after he has moved
+back to the middle of the screen.  The two hiding places are as follows.
+
+
+                        OOOOOOOO
+                       O        O
+             .-        O        O
+                       OOOOOOOOOO
+              .-
+                                            \
+                                             .
+                 /                     \
+               .                        .
+                    /           \
+                   .             .
+                            |
+                       *(L) .  * (R)
+
+Use the (L) place if the BBG is moving left, and the (R) place if he is
+moving right.
+
+
+                        OOOOOOOO
+                       O        O
+                       O        O
+                       OOOOOOOOOO
+     .-   .- .-   .-                  -.  -. -.  -.
+
+           .-   .-/    /         \     \-.   -.
+        .-   .-  .    .           .     .  -.   -.
+
+             /    /   /    /  \    \   \    \
+            .    .   .    .    .    .   .    .
+                          |    |
+                  /    /  .    . \    \
+                 .    .           .    .
+                          |    |
+                          . *  .
+
+You should be all the way at the back of the screen for this one.  The BBG
+alternates between these two firing patterns until you kill it.  Sometimes,
+if you hose him fast enough, you kill him right when the third pattern is
+being shot.  This is dangerous, since the screen starts scrolling forward as
+soon as the BBG dies, propelling you directly into the maze of bullets.  You
+might want to stop shooting while dodging through them to prevent him from
+dying at an inopportune moment.
+
+Level 3 :
+       
+     This level isn't terribly difficult either, except for the BBG.  On the
+way, there is one firing pattern worth noting.  After the first large boat
+comes on, two planes will come down, flying away from you.  Here is the
+hiding place :
+
+                          planes
+                        /        \
+                   O                  O
+                  OOO                OOO
+
+
+           /               \  /               \
+          .   /         \   ..   /         \   .
+             .   |   |   .      .   |   |   .
+                 . * .              .   .
+
+There is a formation of boats with medals in them; it is rather tough to
+figure out how to get all of the medals.  Here's how to get all but one :
+
+
+
+
+                 OOO                         OOO
+                 OOO  5                      OOO  7
+                  O                           O
+                               OOO
+                               OOO   6
+                                O
+
+
+
+                 OOO                         OOO
+                 OOO  4                      OOO  3
+                  O                           O
+                               OOO
+                               OOO  1
+                                O
+
+
+
+                 OOO                         OOO
+                 OOO  <- miss this one       OOO  2
+                  O                           O
+
+After nailing the second large boat, go to the very top of the screen.
+After grabbing the first medal, go backward and right to get #2.  Then go
+forward to get #3, then move left and backward.  As you pass by, you will
+expose #6.  Go get #4, go forward, get #5, then go right and backward.  Snag
+#6 on the way over, then near the bottom of the screen you should be able to
+get #7.
+     Just before the P, there are two PUCE's.  You can leave these until
+you've gotten the P if you want 5,000 apiece for them.  You should use blue
+for the BBG.  Kill the first two pop-up guns with the lazer; drop a bomb
+right when they appear.  Aim the bomb so the explosion covers all the other
+pop-up guns.  The next three sets of guns will appear into the explosion and
+explode.  When they're gone, the next five guns appear, and they explode
+too.  Then there's just the main gun in back.  Here's the hiding place :
+
+                            OOOOOOO
+                            O     O
+                            O     O
+                            O     O
+                            O     O
+                             OOOOO                   -.
+                   /
+                  .
+                                                \
+                                                  .
+
+                        /
+                       .                     \
+                                              .
+                              |
+                              .        |
+                                       .
+                                *
+
+Several of these volleys will be shot at a time, but they  are all the same.
+ Once in a while, one of the small guns in back will fire a bullet right
+through the hole.  Be ready to dodge; fortunately this doesn't happen very
+often.  After he blows up, go left to get some medals, then to the right for
+one more.
+
+Level 4 :
+     Swith to red as soon as possible for this level.  Watch out for the
+square tanks with four guns in a line; they don't always shoot directly at
+you.  Sometimes, I notice they shoot, I dodge, and the bullet went straight
+to where I dodged and I die.  Just don't get too close to them.  The big
+tanks on the trails in the forest are rather dangerous.  If you have full
+red, use the lull before they shoot to go hit them with full barrages.  With
+full red, the first can be destroyed before the second comes on.  If they do
+get to shoot, just sweep from side to side to avoid their shots.  Just after
+them, there are these small fighters which spin.  Be very careful when
+scrooling the screen to avoid these.  If you're low on firepower, just don't
+scroll the screen much.  in the forest just above the end of the left set of
+tracks, there is another hidden fairy.
+     The BBG isn't too bad.  Approach on the left side of the screen.  This
+will probably be natural, since there is a missile powerup on the left.
+Kill the square tank on the left first.  Wait for the first volley of oval
+bullets from the BBG to end, then sweep across in from of him.  He'll shoot
+a bunch.  If you are already to the right side of him, it's okay.  If you're
+caught in the barrage, here's what to do :
+
+
+                           OOOOOO
+                          O      O
+                          O      O
+                          O      O        _
+                           OOOOOO    \   |\   \
+                                      .    \   .
+                                            ----
+                                 \        \     \_
+                                  .        .    |\
+                                                  |
+                                                 /
+                                                *
+
+After that, nail the other square tank.  Then, if you have full enough red,
+Go sit in the following spot, and hose him.  If you are low on firepower,
+hide in this spot, then dart in from of him, shoot some, then run back to
+the hiding place until then next opportunity to shoot him.
+
+                          OOOOOO
+                         O      O
+                         O      O
+                         O      O
+                          OOOOOO
+                                                 \
+                                                  .
+                                               \
+                                             \  .
+                                           \  .
+                                        \   .
+                      |             |    .
+                      .   |  |  |   .
+                          .  .  .      *
+
+
+Level 5 :
+     The only real problem on theis level is the initial 6 large tanks if
+you have low firepower.  Nail them in this order :
+
+                     6                 5
+                      OO                OO
+                      OO                OO
+                              3
+                               OO
+                               OO
+
+
+                     2                 4
+                      OO                OO
+                      OO                OO
+                              1
+                               OO
+                               OO
+
+First nail #1, sweep left, nail #2, sweep right to #4, but you'll get #3 on
+the way.  Then get #5, and sweep left to #6.
+     There is a P on this level.  if you don't have any missiles when it
+appears, don't get it immediately.  Wait for the missile powerup to appear,
+get it, then get the P.  For the BBG, use red.  When he first appears, drop
+a bomb centered on him.  Hose the right wing first, then sweep to the left,
+and nail the left wing from afar with green.  Then wait, hosing him with the
+periphery of red and green.  When the two circular tanks come out, get real
+close to them, and hose them with red.  If you don't have full firepower, or
+would rather do it the safe way, drop another bomb.  After the two circular
+tanks are gone, just keep to one side and hose him.
+
+Level 6 :
+     At the beginning of the level, scroll the screen almost all the way to
+the right.  There will be two PUCE's, and they both come on the right side.
+With all the asteroids around, you don't want to have to scroll the screen
+later.  Once you get to the land part of the level, there will be some
+really fast fighters flying around.,  the best way to avoid them is to stay
+on the extreme back of the screen.  Always stay there, with two exceptions.
+There will be a vertical line of four medals; when they appear, move
+forward.  This is when a large pod deploying aircraft flys by, and it
+approaches from behind.  Run forward, grab the medals, then come down beside
+the aircraft and blow it away.  Then there will be a horizontal row of five
+boxes: three medals, and two missile power-ups.  Run forward to grab these,
+then another of these rear-approaching aircraft will come on.  In the middle
+on the second desert, there is another hidden fairy.
+     For the BBG's, use red.  There will be asteroids coming from behind, so
+be very careful.  The BBG's are invincable until the stop flashing and rise
+out of the ground.  After the first rises, wait 2 seconds, and drop a bomb
+so it will get both BBG's.  After the bomb lands, get close to make full use
+of red.  If you want a safer way to kill them, drop a bomb just on the first
+one, so it rises into the explosion.  Then, drop another bomb on the second
+BBG.  You should still get close with red, but this method will save you
+about 4 to 5 seconds of dodging bullets and asteroids from behind.
+
+Level 7 :
+     You GOTTA have green for this level.  Without it, this is the toughest
+level in the game.  There are these things that crawl along the pipes, and
+they shoot a lot.  They will also crawl out from behind, so they are
+generally all around you.
+     At the start of the level, are four large ships.  If you have enough
+green, sit off to the side and let the missiles get them.  If you have a lot
+of red, just sweep left and right in front of them, between their volleys.
+Or the safe method is to use a bomb.
+     Use red for the BBG.  He flys around in circles, so it's easy to lose
+your bearing.  When dodging through his volleys, remember to look at the
+stars in the background to get a handle on where the bullets are flying.
+Also, when dropping bombs on him, make sure you place them so the "face"
+part will be in the explosion, accounting for the fact that he is moving in
+circles.  With large enough red, the small guns on his "shoulders" will die
+almost as soon as they open up.  Also, those crawly things come out on the
+two pipes on the bottom side of him.  Be careful of these, since they will
+usually be behind or beside you.  Here is wher to dodge the main volley from
+the face :
+                          face
+                              \ OOOO
+                                O  O
+                                 OO
+                       /                    \
+                      .                      .
+
+                           /            \
+                          .              .
+                       2       |     |
+                        *--->  .     .
+                                  |
+                                  .
+                               |     |
+                               .     .
+                           <---*
+                           /    1       \
+                          .              .
+
+The bullets will close in on you from the outside, move left at point 1.
+then they will come twoard you again, move right at point 2.  What makes
+this difficult is the aforementioned problem with keeping your bearings.
+With the BBG moving in circles, the bullets seem to be moving in weird
+directions.  Again, watch the stars to keep things straight.  If you dont't
+feel comfortable dodging this volley, use bombs.
+
+Level 8 :
+     This is a straight forward level, except for the BBG.  Scroll left and
+right to kill maximum stuff.  Make sure you get red and green for the BBG.
+He is put together from pieces.  While they are assembling him, he is
+relatively harmless.  Just hose on the pieces until they are finished
+putting him together.  If you have green, just move to the left, so his main
+gun is off the screen.  The part you need to hit can still be visible.  This
+way he can't shoot, but the green missles will damage him.  There is a
+triple gun near the top that will shoot at you, but it is of little
+consequence.  Kill it while hosing on the main part with green.  After the
+left part is gone, and the main part is as far to the top as it goes, sweep
+right, and take out the right triple gun, and the right part of the main
+body like you took out the left part.  Then the last part will still be
+visible, when that is gone, it's over!  However, since you might not have
+full green, I will show how to dodge the volleys anyway.  There are several,
+depending on how much damage he has taken.  Before blowing away the two
+small parts under the main gun turrent, there are two bullet patterns.  On
+shoots pairs of bullets in the eight directions; hide where you did on the
+level 4 BBG.  The other is a widening V shape, with the point on his turret.
+ Sit still, and let them go on either side of you.  Since he aims directly
+at you, both streams will miss.  You can also just keep moving in one
+direction so they all miss completely, whichever you feel more comfortable
+with.  After the two small parts are gone, he will shoot a long stream of
+bullets directly at you.  Move all the way to the left or right, then move
+up until there is a hole in the bullets for you to go back down through.  In
+between the volleys is when you should sit in front of him and hose on him.
+
+After level 8, you get 1,000,000 points, and go back to level 1 again, this
+time with the enemy bullets being faster.  Use similar techniques, but be
+more liberal with bombs.  I was able to get 3,400,000 on one credit with
+these techniques.  I was on Level 2-7 (level 7 the second time) when the
+crawly things nailed me.  The only BBG's where bombs seem absolutely
+necessary are on Level 6, and possibly 8.  I just discovered that you could
+sit in a place where you could shoot him and he couldn't shoot you.  With
+this idea, it may be possible to hose even the level 8 BBG without bombs.
+Remember : the key to big points, and extra dudes is saving bombs.  Have fun
+saving Earth!
+

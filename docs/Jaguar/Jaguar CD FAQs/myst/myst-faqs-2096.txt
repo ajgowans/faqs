@@ -1,0 +1,282 @@
+ 
+The Ammended Myst Walkthrough, by Phil Gross and Noj Beskin
+Original by E. Conty
+Version 2.0
+ 
+Contact: ba02335@bingsuns.cc.binghamton.edu (philbo)
+ 
+Here's an ammended version of the walkthrough. Originally posted by E
+Conty (conty@cbnewsl.cb.att.com), who said he will ignore any
+comments. I, on the other hand, will welcome comments, and will try to
+keep the walkthrough up to date (at least for a while). I guess if you
+are stuck, as opposed to reading this and spoiling your fun, you can
+write me and I'll try to give you hints. Maybe. 
+--philbo
+ 
+This is a bare-bones description of how to complete Myst. But you
+should use it only as a last resort. The true goal of the game is to
+explore everything, and find all sorts of interesting details about
+Achenar, Sirrus, and the world(s) you're in. The game can be
+successfully completed without ever leaving the main island, but
+that's no fun, is it?
+ 
+ALL puzzles can be solved by exploring, trying things out, and using
+plain common sense. If you find yourself trying a gazillion
+combinations to solve a puzzle, you're doing something wrong.
+ 
+ 
+ 
+
+
+
+
+
+
+(Extra lines to shield wandering eyes)
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ MAIN ISLAND:
+ 
+Pick up the note in front of the planetarium. As you explore the
+island, you'll find that there are 8 marker switches in total: Pier -
+Giant gears - Planetarium - Spaceship - Mall with small pool and
+pillars - Brick building - Wooden shack - Clock tower Turn each marker
+switch on (up) as you get to it. (Worry about the clock tower marker
+later.)
+ 
+In the pier, there is an entrance to an underground room. Go to the
+projector, and turn it off by pressing the big button at the bottom.
+Turn around. You'll notice a piece of paper on the wall to the left.
+Press the green button on the upper left corner, which will reveal a
+hidden control panel. Enter the number of switches "08", and press the
+button to close the panel. Turn back to the projector, push the
+button, and watch the man's message to Catherine.
+ 
+In the library, each wall contains interesting items. Give the blue
+and red pages to the corresponding books. Each brother wants more
+pages. Read the 4 legible books in the book-case. You can ignore the
+book with the wierd squares in it, you'll deal with it later. Jot
+down any interesting diagrams from the others on your notebook. 
+
+Look at the map next to the entrance. Each of the marker switches in
+the island lights one specific group of buildings in the map. Grab the
+tower and rotate it until it flashes red, then stop. There are 4 "red"
+positions, each one of them corresponding to where one of the 4
+available link books is hidden (ship, giant tree, gears, spaceship).
+The paintings next to the book-case open and close the secret
+passageway behind it. Go to the elevator, close the door, and press
+the button to go into the tower. If you rotated the tower correctly,
+the ladder with the "book" on it should show you where the book is
+hidden, while the ladder with the "key" should lead you to the clue to
+the puzzle that lets you get the book.
+ 
+Ship: Go to the planetarium, turn the lights off (the switch is next
+to the door), sit down on the chair, and click on the control panel.
+Set each of the dates from the clue (Oct 11, 1984 10:04AM, Jan 17,
+1207 5:46AM , and Nov 23, 9791 6:57 PM), and map the constellation
+shown to one of the constellations in the Stoneship book. Go to the
+pillars at the mall, and click on the appropiate symbols (leaf, snake,
+and bug). The book is in the now resurfaced ship.
+ 
+Tree: Go to the wooden house, and enter the combination for the safe
+next to the door (7,2,4). Open the safe, get the match, and light it
+with the matchbox. Turn around and light the pilot light below the
+boiler. Turn the gas wheel all the way up (green icon). Wait until the
+thumping sound stops, then turn the wheel all the way down (red icon),
+and QUICKLY get out of the house and into the tree to the right of it
+(see library map for location) before the "elevator" in the tree goes
+underground. If you can't do it that quickly, don't turn the gas quite
+all the way off. The book is down beneath the tree. If you went up in
+the elevator, press the white button to your left. That releases the
+steam and drops the tree down to the underground level.
+ 
+Gears: Go to the clockhouse, enter 2:40 into the clock using the
+wheels, then press the button. Go into the clock, and use the levers
+to set the wheels to 2,2,1. HOLD either front lever down to rotate the
+middle wheel only. Click on the vertical lever to your right to reset
+the puzzle. The book is in the giant gears close to the pier.
+ 
+Spaceship: Go to the brick building, set the generators to send
+exactly 59 volts out (buttons 1,2,3,6,7,8 and 10 should do nicely. The
+numbering order is on the wall as you leave the control room. In order
+to figure out which button has which voltage, just hit them one at a
+time). If you go over 59 volts, you will blow a fuse. There are two
+electric towers to climb, one next to the brick building, one clearly
+visible close to the spaceship, click down the breaker switches. Then
+enter the spaceship. Play the notes from the Selenitic Age book in the
+organ, and set the same notes in the controls of the ship. If you're
+tone deaf, just count number of notes from the bottom. (8, 20, 23, 13,
+and 6, respectively, including the bottom as one). Press the button
+and the book will appear before you. 
+ 
+ STONESHIP AGE: Go to the other half of the ship, up the stairs and
+look through the telescope. Find where the lighthouse is. (135
+degrees) 
+ 
+Go to the umbrella and push the rightmost button to drain the
+lighthouse. Go to the basement and drain the chest by opening and
+closing the valve at the bottom. Go back to the umbrella and let the
+lighthouse fill up again. Unlock the now floating chest, get the key,
+and open the lighthouse. Crank up the generator and power the battery.
+Note that the battery is slightly discharging, so move quickly! (If
+the lights go out, go to the generator and crank it up some more.)
+ 
+Go to the umbrella, press the middle button to drain the rock and go
+inside. Go all the way down the tunnel, find the page for either of
+the brothers, and explore a bit. You should find half of an important
+note in the map drawer in Achenar's room (that's the messy room). The
+entire note is given below.
+ 
+Go back to the red-lined "panel" in one of the walls. Inside, you'll
+find a compass rose, just like in the Stoneship book. Push the "SE"
+button (the clue is 135 degrees, found with the telescope). This will
+turn on the submersible's lights.
+ 
+Drain the ship with the leftmost button and go in. Click on the desk
+in the lower level, and the book leading back to Myst will pop up.
+ 
+
+SELENITIC AGE: Find the 5 microphones (Water, Fire(thunder), Clock,
+Crystal (flute), Wind), and turn each on. You'll also find the red and
+blue pages at the "Crystal" and "Water" microphones, respectively.
+ 
+Go to the microwave tower through the Wind tunnel, and aim each of the
+five dishes in the right direction (use sounds, icons, and places as a
+guide. The coordinate numbers are: Water:153.4, Fire: 130.3, Clock:
+55.6, Crystal: 15.0, and Wind: 212.2). Push the sigma button. This
+will give you the sound sequence to open the door near the spaceship.
+(Crystal, Water, Wind, Fire, Clock) Go on in, get in the underground
+craft and press forward. At each station, listen for a sound which
+will indicate direction. If you miss it, press the button on the
+speaker. The sounds are "plink" for north, "Bloooop" for W, "Plonk"
+for S, and "Shhhh" for E (these sound names are approximations, so
+give us a break) Combinations of these sounds indicate NE, SW, etc.
+The sequence of directions to get to the Myst book is:
+N,W,N,E,E,S,S,W,SW,W,NW,NE,N,SE. Get out, and find the Myst book.
+
+
+MECHANICAL AGE:
+ 
+The pages for the brothers are in secret rooms accesible from their
+chambers. Explore next to the "throne" in each room.
+ 
+Go to the "tube", and press the button in the hallway. The floor will
+reveal a lower room. Go down there, and rotate the tube until the red
+icon shows. Careful not to let the tube rotate past the red icon!
+ 
+Go back out, and you'll see that the tube held an elevator. Press the
+wall button again to close the floor, and enter the elevator. Press
+the up button, then press the "middle" button and exit the lift before
+it goes down. The building rotation controls are above the elevator.
+ 
+Enter the rotation controls and rotate the tower to the other two
+islands. They have the symbols for the control next to where you
+entered the Age. (symbols below) Use the simulator in Achenar's room
+to practice how to rotate the tower. The method we used was: Put the
+left lever up one notch. Hold the right lever all the way up for about
+7 seconds. Let go of the right lever, then quickly put the left lever
+back down. Practice on the simulator until you get the timing right,
+because you won't be able to see the orientation of the tower, just
+some motion in the gears. Once the tower stops, it'll make a sound for
+each of the four compass directions, the same sounds as for the
+selenetic age, above.
+ 
+The control panel next to where you entered opens the room where the
+Myst link book is. The symbols are: 1) an O with the bottom cut out.
+2) point down triangle, rectangle, point up triangle. 3) circle over
+three triangles 4) left half circle, filled in. (These are easier to
+spot than it sounds.)
+ 
+WARNING: A bug in the game as released won't let you go to the island
+with the last two codes. Get the fix from Sumex-aim.stanford.edu.
+
+
+CHANNELWOOD AGE:
+ 
+Go to the windmill and turn the water on with the faucet on the floor.
+The pulldown lever is a red herring. Go back down and use the
+"switches" in the pipeline to control the water flow to the first
+elevator. (Not the one next to the staircase!) Climb in, close the
+door, and use the lever to go up.
+ 
+Up there, find the control to open/close the staircase. Go to the
+staircase, climb down, open the door, and use the pipeline switches to
+send water to the generator next to it. Climb back up the stairs, and
+use the elevator there.
+ 
+Find the rooms for both brothers (and Achenar's "temple"), their pages
+are there. In Sirrus' room (the nice room), find the other half of
+that note you found in the Stoneship Age.
+ 
+Use the switches to turn on the lonely-looking generator close to
+where you entered the world. Turn it on, and watch the catwalk appear
+from the waters. Walk to the other side, down the other walkway, and
+find the crank to extend the pipeline back to the main line. Use the
+switches to turn on the elevator there, and climb up to find the Myst
+book.
+ 
+(If you're having some trouble figuring out where the water is going
+in the pipelines, listen as you walk past them. If you can't hear the
+noise of water, this section of the pipeline has no water. Also, you
+could just trace the water from the windmill, checking every Y
+junction as you pass.)
+  
+ 
+ENDGAME / DUNNY AGE:
+ 
+When you return four pages to either brother, he'll give you the same
+info: go to the library, pick the right-end book in the center shelf,
+and look up diagram 158. Go to the chimney, press the button, enter
+the diagram below on the plate, press the button again. You'll see the
+green book (the Dunny Age), the blue page, and the red page.
+ 
+Diagram 158 (click where there are Xes):
+XXOOOOXX
+OXXOXOXX
+XOXOOOXX
+XOOXOOXX
+XXOOXXOO
+XXXXXOXO
+ 
+There are 4 endings: 
+- give the last blue page (Achenar traps you) 
+- give the last red page (Sirrus traps you) 
+- go to Dunny without the yellow page (your own stupidity traps you) 
+- go to Dunny with the yellow page (Dad goes back, destroys both
+books, congratulates you, and asks you to stick around for further
+adventures)
+ 
+The yellow page is in the vault. To get to the vault, follow the
+directions in the two halves of the note ("|" is the note break, the
+first half is in Stoneship, the second half is in Channelwood) 
+ 
+      Marker Switch | Vault Access 
+             Island | of Myst
+   The vault is loc | ated in very plain view on
+    the island of M | yst and access can be 
+      achieved very | easily if the simple 
+ instructions are f | ollowed. First locate
+ each of the marker | switches on the island.
+  Turn every one of | these switches to the 
+  "on" position. Th | en go to the dock, and,
+as a final step, tu | rn the marker switch
+        there to th | e "off" position.
+
+
+Good luck, and Happy Mysting
+

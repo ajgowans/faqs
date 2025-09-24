@@ -1,0 +1,635 @@
+*******************************************************************************
+Atari Karts for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  07/07/10
+
+This document Copyright 2010 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  Select a Challenge
+         B.  Options
+         C.  Memory Clear
+III.   Basic Gameplay
+         A.  Controls
+         B.  Object of the Game
+         C.  Saving
+         D.  Basic Strategies
+IV.    Items
+         A.  Rabbit
+         B.  Gold Speed Arrow
+         C.  Wheel
+         D.  Steer
+         E.  Heart
+         F.  Ramp
+         G.  Turtle
+         H.  Red <-->
+         I.  Green <-->
+V.     Karts
+         A.  Regius
+         B.  Skully
+         C.  Pulpito
+         D.  Miz Tress
+         E.  Bentley Bear
+         F.  Vulky
+         G.  Ptarmigan
+         H.  Haratari
+         I.  Pum King
+         J.  Fire Bug
+         K.  Miracle Man
+VI.    Worlds
+         A.  Beach
+         B.  Castle
+         C.  Farm
+         D.  Ice
+         E.  Route 99
+         F.  Space
+         G.  Japan
+         H.  Halloween
+         I.  Hell
+         J.  Heaven
+VII.   Cheats
+VIII.  Game Review
+IX.    Version History
+X.     Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Atari Karts.  It contains information
+on playing the game, tips for winning, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+-------------------------------------------------------------------------------
+A.  Select a Challenge
+Note:  Unfortunately there is no "back" button, so if you want to go back to
+       a previous screen, your only recourse is to reset (* + # on Numpad).
+
+There are four challenges in Atari Karts.  Initially only the Beginner
+Challenge will be available.  In order to unlock the next challenge you must
+win the current challenge's Miracle Race.
+
+After choosing a challenge, you will be taken to the kart selection screen.
+If there is a second player, he/she can press any button to join in.  Please
+note that both players are unable to select the same kart.
+
+Once you have your kart(s), you'll have to choose one of three Cups.  Once you
+win all three cups, you will be able to race in the Miracle Race.  Win the
+Miracle Race to unlock the next challenge and your opponent's kart.
+
+-------------------------------------------------------------------------------
+B.  Options
+
+Press Option while on Challenge Select screen to bring up the options menu.
+
+Mode
+
+Choose between Hill or Flat.  This determines whether or not tracks will have
+elevation or be completely flat.
+
+Controls
+
+Change the button configuration.
+
+Enter Name One/Enter Name Two
+
+Change the player names.  Press Up/Down on the Joypad to change a character,
+Left/Right to change position.  Note that there is no cursor, so it may be hard
+to tell if you are on a blank character.  Press C to clear a character and B
+when you are finished.
+
+-------------------------------------------------------------------------------
+C.  Memory Clear 
+
+To clear the game's memory, press *, #, and Option simultaneously on the Title
+Screen.  You will get a confirmation message if successful.
+
+*******************************************************************************
+III.   Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joypad Left/Right            Steer
+Joypad Down                  Reverse
+A Button                     Accelerate
+B Button                     Brake
+C Button                     Activate Item
+Numpad 4/6                   Sharp Turn Left/Right
+R/L Button (Pro Controller)  Sharp Turn Left/Right
+Pause                        Pause 
+Numpad * + #                 Reset Game
+     
+-------------------------------------------------------------------------------
+B.  Object of the Game
+
+The object of the game is to complete all four challenges.  Each challenge
+consists of three Cups and a Miracle Race.  You must win all three Cups before
+you can select a challenge's Miracle Race.
+
+Each Cup consists of multiple tracks.  You must finish at least fourth place
+in order to move on to the next track.  You start each cup with three lives,
+lose them all and your game is over.  If you do finish fourth or better you
+will earn points:
+
+1st Place   7 pts.
+2nd Place   4 pts.
+3rd Place   2 pts.
+4th Place   1 pt.
+
+Finish a Cup at the top of the standings to win a gold trophy.  You must have
+all three cup trophies before you can choose the Miracle Race.  Win the Miracle
+Race to unlock the next challenge AND your opponent's kart.
+
+-------------------------------------------------------------------------------
+C.  Saving
+
+Your progress is automatically saved after completing a Cup or Miracle Race.
+The instruction booklet claims that your best times and standings are saved
+as well, but I've yet to figure out how to access them.
+
+-------------------------------------------------------------------------------
+D.  Basic Strategies
+
+-  Try to stay in front of the pack as much as possible to avoid collisions.
+-  Stay on the track!  Even going off track a bit drastically slows you down.
+-  A.I. racers cannot pick up items.
+-  You get three lives, use them.  If you are going to finish third or fourth,
+   go ahead and throw the race so you can try again.
+-  If you are on a course with lots of turtles and/or red arrows, try grabbing
+   a steering or wheel power up, then DON'T activate it.  You won't be able to
+   pick up the bad items as long as you already have an item!
+-  A Pro Controller isn't necessary, but it does help.
+-  I recommend using Bentley Bear for the Beginner and Warrior Challenges,
+   Pum King for the Miracle Challenge and Fire Bug for Jaguar Aces.
+-  In my opinion Fire Bug is a better choice than Miracle Man (acceleration
+   over speed).
+
+*******************************************************************************
+IV.    Items
+
+Note:  A.I. controlled racers will not collect/use items.
+
+-------------------------------------------------------------------------------
+A.  Rabbit
+
+Rabbits will temporarily increase your top speed for a short time.  Rabbits
+cannot be stored, they are activated as soon as you run over them.
+
+-------------------------------------------------------------------------------
+B.  Gold Speed Arrow
+
+Not really an item, running over a gold speed arrow will give you a short boost
+of speed.  Beware, sometimes they are placed so that using one will send you
+crashing straight into a wall!
+
+-------------------------------------------------------------------------------
+C.  Wheel
+
+Wheels are saved until you activate them with the C button.  Using a wheel will
+temporarily eliminate friction on your tires allowing you to run off track 
+without losing speed.  Please note that if you hit an oil slick with the wheel
+active you'll still spin off track.
+
+-------------------------------------------------------------------------------
+D.  Steer
+
+The "other" wheels will temporarily prevent your kart from skidding while
+turning.  Like wheels, steers are saved until you activate them with C.
+
+-------------------------------------------------------------------------------
+E.  Heart
+
+Hearts are very rare.  Running over a heart will give you an extra life.
+
+-------------------------------------------------------------------------------
+F.  Ramp
+
+Like gold speed arrows, ramps aren't really items.  Running over a ramp will
+cause your kart to jump.  They are very handy for jumping over rough terrain,
+such as water on Beach world.
+
+-------------------------------------------------------------------------------
+G.  Turtle
+
+Turtles are the opposite of rabbits, they will decrease your top speed for
+a short time.
+
+-------------------------------------------------------------------------------
+H.  Red <-->
+
+Very annoying.  Red arrows will reverse your controls for a short time.  While
+it's not overly difficult to cope with, you need to be aware of the moment when
+your controls revert back to normal because this is when you'll most likely
+run off the track.
+
+-------------------------------------------------------------------------------
+I.  Green <-->
+
+Green arrows only appear in two player races.  They allow you to reverse the
+other player's controls for a short time.
+
+*******************************************************************************
+V.     Karts
+
+-------------------------------------------------------------------------------
+A.  Regius
+
+Stats:
+
+SPEED  2.5  ACC  1.5  STEER  3.5  TOTAL  7.5
+
+Info:
+
+Regius the rooster has the best handling of any of the karts initially 
+available.  Unfortunately his poor acceleration makes him a poor choice.
+
+-------------------------------------------------------------------------------
+B.  Skully
+
+Stats:
+
+SPEED  1.5  ACC  2.0  STEER  2.5  TOTAL  6.0
+
+Info:
+
+Skully is far and away the worst cart in the game.  He has the lowest top
+speed in the game and his steering and acceleration rank among the worst.
+Ironically, when Skully is controlled by the CPU, he is consistently one of 
+your top competitors.
+
+-------------------------------------------------------------------------------
+C.  Pulpito
+
+Stats:
+
+SPEED  3.0  ACC  1.5  STEER  3.0  TOTAL  7.5
+
+Info:
+
+Apparently having eight arms helps with steering!  Pulpito has above average
+speed and steering, but his poor acceleration drags him down.
+
+-------------------------------------------------------------------------------
+D.  Miz Tress
+
+Stats:
+
+SPEED  1.5  ACC  3.5  STEER  2.5  TOTAL  7.5
+
+Info:
+
+They must have spent an entire afternoon coming up with these names.  Miz Tress
+has the highest acceleration stat in the game as well as decent handling.  Her
+top speed is tied with Skully for the lowest in the game.
+
+-------------------------------------------------------------------------------
+E.  Bentley Bear
+
+Stats:
+
+SPEED  2.5  ACC  2.5  STEER  2.5  TOTAL  7.5
+
+Info:
+
+Yes, it's THAT Bentley Bear from Crystal Castles fame.  Bentley Bear has
+balanced stats and is the best racer available at the start of the game.  I
+definitely recommend using him for the first two challenges.
+
+-------------------------------------------------------------------------------
+F.  Vulky
+
+Stats:
+
+SPEED  3.5  ACC  1.5  STEER  1.5  TOTAL  6.5
+
+Info:
+
+Vulky the alien has the highest top speed of any of the initial karts, but that
+can't make up for having both the worst acceleration and steering stats.
+
+-------------------------------------------------------------------------------
+G.  Ptarmigan
+
+Stats:
+
+SPEED  3.0  ACC  2.0  STEER  1.5  TOTAL  6.5
+
+Info:
+
+Ptarmigan the snowman is probably the coolest looking racer in the game (did
+you see what I did there?).  He has a good top speed and decent acceleration,
+but his poor handling can make winning difficult.
+
+-------------------------------------------------------------------------------
+H.  Haratari
+
+Stats:
+
+SPEED  2.0  ACC  2.5  STEER  2.0  TOTAL  6.5
+
+Info:
+
+Are you kidding me?  You go through all that trouble to unlock a new kart and
+he ends up having worse stats than most of the other karts!  It even says in
+the instruction booklet that the four secret karts are supposed to have better
+stats.  You're seriously better sticking with Bentley Bear than choosing
+Haratari.  You unlock Haratari by winning the Beginner Challenge's Miracle 
+Race.
+
+-------------------------------------------------------------------------------
+I.  Pum King
+
+Stats:
+
+SPEED  3.5  ACC  3.0  STEER  4.0  TOTAL  10.5
+
+Info:
+
+Now this is more like it!  Pum King, the second unlockable kart, is a HUGE
+improvement over the eight previous karts.  His steering stat is tied for the
+highest in the game and his speed and acceleration are excellent as well.  You
+unlock Pum King by winning the Miracle Race in the Warrior Challenge.
+
+-------------------------------------------------------------------------------
+J.  Fire Bug
+
+Stats:
+
+SPEED  3.5  ACC  3.5  STEER  4.0  TOTAL  11.0
+
+Info:
+
+My favorite kart.  Fire Bug is basically Pum King with better acceleration.
+You unlock Fire Bug by winning the Miracle Challenge's Miracle Race.
+
+-------------------------------------------------------------------------------
+K.  Miracle Man
+
+Stats:
+
+SPEED  4.0  ACC  3.0  STEER  4.0  TOTAL  11.0
+
+Info:
+
+Miracle Man is the final kart that you unlock.  He has the best top speed and
+steering in the game.  You unlock Miracle Man if you manage to win the Miracle
+Race in the Jaguar Aces challenge.
+
+*******************************************************************************
+VI.    Worlds
+
+There are ten different worlds in all.  While different cups have different
+track configurations, all of a world's tracks share common attributes and
+pitfalls.  So instead of listing strategies for the 94(!) different tracks,
+I decided to instead give general strategies for each world.
+
+Note:  Only four worlds are given names in the instruction booklet (Beach,
+       Ice, Route 99, and Halloween) so I just made up the other six.
+
+-------------------------------------------------------------------------------
+A.  Beach
+
+Obviously inspired by the Koopa Beach tracks from Super Mario Kart.  Luckily
+in Atari Karts, the water isn't deep enough to drop into, but it will slow your
+kart down considerably.
+
+Tips
+
+-  Stay out of the water as much as possible.
+-  Use the ramps to jump over water.
+-  Gold speed arrows aren't much help for crossing water.
+
+-------------------------------------------------------------------------------
+B.  Castle
+
+The most beautiful world is also my least favorite.  The castle world is home
+to the game's most frustrating tracks.  The problem here is that the track is
+lined with a stone wall which will knock you backwards on the slightest
+contact.  The sadistic programmers even went so far as to make some portions
+jut out into the track for no reason whatsoever!  Focus on finishing in the top
+four, you can make up the points on the better designed tracks.
+
+Tips
+
+-  Avoid contact with the stone wall at all costs.
+-  Be especially careful on turns, it's very easy to get stuck on the corners.
+-  Use your brakes!
+
+-------------------------------------------------------------------------------
+C.  Farm
+
+Not much to talk about, the farm tracks are usually the easiest.  They also 
+seem to be the hilliest.
+
+Tips
+
+-  Use the wheel item to cut corners without slowing down.
+
+-------------------------------------------------------------------------------
+D.  Ice
+
+My second least favorite world.  The instruction booklet says to stay out of
+the water but the trees and rocks are the real hazards.
+
+Tips
+
+-  The water will slow you down slightly so try to avoid it.
+-  There are trees strewn about the track so be careful.
+-  The rocks are your biggest concern.  They are hard to see and often times
+   sitting in the middle of the track.  Hitting a rock usually causes your kart
+   to get stuck.  If that happens, quickly shift into reverse to try to get
+   free.
+
+-------------------------------------------------------------------------------
+E.  Route 99
+
+Route 99 can be summed up in two words: "Oil Slicks".
+
+Tips
+
+-  AVOID THE OIL SLICKS!  Hitting one will send you violently off course.
+
+-------------------------------------------------------------------------------
+F.  Space
+
+Another straight forward world, the main obstacles here are the alien
+spectators.
+
+Tips
+
+-  The aliens must be made of rubber, because hitting one sends you flying
+   backwards.
+
+-------------------------------------------------------------------------------
+G.  Japan
+
+Japan is Haratari's home world and the site of the first Miracle Race.  From
+Warrior Challenge on Japan will be part of the Cup rotation.
+
+Tips
+
+-  Avoid the gongs placed all over the track.
+-  There is a shortcut after the third left turn from the starting line.  If
+   you keep going straight instead of turning left you'll see a gap in the 
+   barrier.
+
+-------------------------------------------------------------------------------
+H.  Halloween
+
+Halloween world is Pum King's home turf.  It is the site of the Warrior
+Challenge's Miracle race and will be added to the track rotation in the
+Miracle and Jaguar Ace's Challenges.
+
+-  The blood will slightly decrease your speed so try to avoid it.
+-  There is a shortcut immediately to the left of the starting line.
+
+-------------------------------------------------------------------------------
+I.  Hell
+
+Surprisingly straightforward.  Hell is Fire Bug's domain and the site of the
+Miracle Challenge Miracle Race.
+
+Tips
+
+-  Unfortunately, this is the only Miracle Race without a shortcut so you're
+   going to have to rely on pure driving skills.
+-  The lava will slow you down, but only slightly.
+
+-------------------------------------------------------------------------------
+J.  Heaven
+
+The heaven world only has one track, the Miracle Race for the Jaguar Aces
+Challenge.  It's a one-on-one race with Miracle Man.
+
+Tips
+
+-  You're going to want to use Fire Bug.
+-  The shortcut for this track is located after the third left turn from the
+   starting line.  There is a small gap on the right between the barrier and
+   wall that you can slip through.
+
+*******************************************************************************
+VII.   Cheats
+
+Skip to a Challenge's Miracle Race
+
+Once you have completed the Beginner's challenge, you can skip straight to
+the Miracle Race of your current challenge without having to complete the
+three cups first.  Here's how:
+
+First select the Beginner's Miracle Race.  While the camera is zooming in on
+your kart, press * + # on the keypad to reset the game.  Now choose the 
+current challenge.  The Miracle Race will be highlighted even if it hasn't
+been unlocked.  Simply press B and you'll be able to race that challenge's
+boss.  If you win, you'll not only unlock that kart, but you'll also unlock
+the next challenge!
+
+Special Thanks go to the Atari Times for posting this on their website!
+
+*******************************************************************************
+VIII.  Game Review
+
+Atari Karts is Atari's answer (read: knockoff) to Nintendo's Super Mario Kart.
+Comparisons between the two are unavoidable so let's see how Atari Karts stacks
+up...
+
+Graphically, Atari Karts is the clear winner.  The karts and tracks are well
+rendered and the hi-res backgrounds are absolutely gorgeous.  The frame rate
+manages to stay silky smooth throughout.  Some tracks even have actual terrain
+elevation!
+
+Soundwise, it's a bit of a toss up.  While not nearly as catchy as the tunes
+in Mario Kart, the music is of much higher quality and I think it suits the
+tracks well.  The post race music seems a bit out of place, the melancholy tune
+seems better suited for a soap opera deathbed scene than a victory song.  The
+game's sound effects are a bit weak, the engines sound more like electric
+razors than go karts.
+
+Nintendo clearly wins when it comes to the cast of characters, which isn't
+surprising given their vast stable to choose from.  Atari has... Bentley Bear.
+That's right, during the glory days of Atari, they apparently only created
+one character.  In yet another missed opportunity, I think it would have been
+really cool if they could have licensed some characters from the Golden Age
+of arcade games (Pac-man, Q*bert, Frogger, Pifall Harry, Dirk Daring, 
+Kangaroo).  The unlockable karts are also a disappointment.  The first, 
+Haratari, is among the weakest in the game and the other two have near 
+identical stats.
+
+One thing that Super Mario Kart has that Atari Karts sorely needs are the
+plethora of game modes.  In Mario Kart you can choose between an entire 
+circuit, time trials, or two player battles.  In Atari Karts, all you get
+are the circuits.  There is a two player option, but again it's just the
+circuits and there's no option to race without CPU opponents.
+
+The actual gameplay is where Atari Karts falls flat on its face.  The physics
+are completely out of whack (think Ridge Racer DS *shudder*).  Collisions will
+send you flying in the direction opposite you're moving instead of
+opposite the object you hit.  What's worse is that it is VERY easy to get
+stuck on walls and barriers.  At that point you have to try to worm your way
+off by alternating between reverse and forward while your opponents zoom by.
+And don't get me started on the cheating A.I., they are completely unaffected
+by items, track hazards, or kart stats.  Skully and Miz Tress have the slowest
+speed stats in the game but will frequently outpace even Fire Bug and Miracle
+Man!  Unfortunately, unlike Super Mario Kart, there are NO offensive items to
+help level the playing field.
+
+Atari Karts was clearly rushed out before it was ready.  Basic racing game
+features like time trials, saved best times, and an on-screen map are all
+missing.  Apparently they were in such a rush that they didn't even have time
+to give the tracks names!
+
+It's such a shame that a game this gorgeous turned out to be so bad.  Jaguar 
+fans looking for a good racing game should check out Super Burnout or Power
+Drive Rally.  Leave this game for the diehard collectors.
+
+Pros
+
++  Excellent graphics, the backgrounds are especially beautiful.
++  I really like the music.
++  It's a great nostalgia trip to play as Bentley Bear again!
+
+Cons
+
+-  Uneven challenge.  The first level is a complete snooze and the rest are
+   extremely frustrating.
+-  The A.I. cheats WAY too much.
+-  Physics are absolutely horrible!
+-  Game missing basic racing game features like time trials and course maps.
+-  No offensive items in one player mode.
+-  Why on Earth do you have to finish fourth or better to move on, even if you
+   are far ahead in points?!
+-  Copies of this game are hard to find and can run over $100.
+
+*******************************************************************************
+IX.    Version History
+
+1.0   07/07/10   Completed FAQ.
+
+*******************************************************************************
+X.     Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing your opinions of this guide and any thoughts or
+suggestions for improvement.
+
+*******************************************************************************
+
+
+End

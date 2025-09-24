@@ -1,0 +1,651 @@
+*******************************************************************************
+Defender 2000 for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  07/16/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+         A.  Classic Defender
+         B.  Defender Plus
+         C.  Defender 2000
+         D.  Plazma Pong
+         E.  Options
+         F.  Memory Clear
+IV.    Classic Defender
+         A.  Overview
+         B.  Controls
+         C.  Weapons
+               1.  Laser
+               2.  Smart Bomb
+               3.  Hyperspace
+         D.  Scoring
+         E.  Tips
+V.     Defender Plus
+         A.  Overview
+         B.  Controls
+         C.  Weapons
+               1.  Laser
+               2.  Smart Bomb
+               3.  AI Droid
+               4.  Lightning Laser
+               5.  Hyperspace
+               6.  Stargate
+         D.  Tips
+VI.    Defender 2000
+         A.  Overview
+         B.  Controls
+         C.  Weapons
+               1.  Laser
+               2.  Smart Bomb
+               3.  AI Droid
+               4.  Shield
+               5.  Lightning Laser
+               6.  Warp Token
+               7.  Powerups
+         D.  Warp Level
+         E.  Level 100
+         F.  Scoring
+         G.  Tips
+VII.   Secrets and Cheats
+         A.  Plazma Pong
+               1.  How to Unlock
+               2.  How to Play
+               3.  How to Beat the CPU
+         B.  Flossie's Revenge
+         C.  Warp Enable
+         D.  Vindaloo Mode
+VIII.  My Best Scores
+IX.    Game Review
+X.     Version History
+XI.    Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Defender 2000.  It contains
+explanations of the various game modes, tips for playing, cheats and secrets,
+as well as a mini-review.
+
+*******************************************************************************
+II.    Background Story
+
+Here is the background story from the instruction booklet:
+
+The game takes place in the Future, where the greed of many wasteful
+generations has squandered Earth's natural resources.  Now life can sustained
+only by importing resources from other planets.  A desperate search for
+supplies of accessible life-sustaining minerals, ores, and deposits among the
+stars has been successful.  Scientists found a rich and plentiful source a few
+years back on an unpopulated asteroid belt and highly-skilled space miners are
+now working there.
+
+You are part of the elite System Defense Team.  It's your job to protect these
+miners and their vital work.  You ensure the safety of the asteroids and all
+who live and work there.  This is no 9-5 job!
+
+The tools of your trade are simple but effective.  You command Threshold, the
+state-of-the-art numero uno ship in Earth's fleet.  It's equipped with sub-
+light engines, hyperspace and hyper-reverse capabilities and laser torpedo
+guns.  You have a limited supply of smart bombs.  Use them with care -- they're
+really handy when you're hemmed in with no way to escape.  They'll wipe out
+everything around you.
+
+Be on watch for marauding aliens from the Alpha Proximian Empire.  This empire
+suffered the great disgrace of a failed invasion of planet Earth.  Now they're
+mad as hell!  They attack the mining settlements with remorseless hostility.
+They also take prisoners and absorb their life-energy to power their ships.
+The remains are turned into hyper-fast mutants programmed to kill kamikaze-
+fashion.  The more aliens you kill, the more they send in.  It's a close
+encounter of the apocalyptic kind!
+
+You are the only one who can save this vital mining settlement from destruction
+and mutation.  You must destroy the attacking aliens and rescue the captured
+humans before they are transformed.
+
+*******************************************************************************
+III.   Getting Started
+
+Press B on the Title Screen to bring up the Main Menu:
+
+-------------------------------------------------------------------------------
+A.  Classic Defender
+
+Choose Classic Defender to play the arcade original.  Press left/right on the 
+joypad to select either a 1 or 2 player game, then press B to start.  Press the
+A button to return to the Main Menu.
+
+-------------------------------------------------------------------------------
+B.  Defender Plus
+
+Choose Defender Plus to play an updated version of Defender.  Press left/right
+on the joypad to select the number of players.  Press down on the joypad to
+switch to the AI Droid option.  Press left/right to choose whether or not you
+want an AI Droid to play with you.  When you are ready to play, press the B
+button.  Pressing A will return you to the Main Menu.
+
+-------------------------------------------------------------------------------
+C.  Defender 2000
+
+Choose Defender 2000 to play the main game.  Press left/right on the joypad to
+select the number of players.  If you have already beaten the game, below this
+will be the option of playing Tikka Masala Mode (normal) or Vindaloo Mode 
+(hard).  At the bottom, you can press left/right to choose the starting level.
+Press the B button when you are ready.  If you want to return to the Main Menu,
+press A.
+
+-------------------------------------------------------------------------------
+D.  Plazma Pong
+
+Plazma Pong will appear on the Main Menu after you've unlocked it.  When you
+select it, you will have the option of a one or two player game.
+
+-------------------------------------------------------------------------------
+E.  Options
+
+Pressing the Option button on the Main Menu will bring up the Options Menu.
+Here you can choose whether to use one or two joypads in two player mode as
+well as tell the game if you are using a standard (three button) or pro (six
+button) controller.  Use the control pad to change the options and press the B
+button when you are finished.
+
+-------------------------------------------------------------------------------
+F.  Memory Clear
+
+To clear the cartridge memory, while on the Title Screen hold *, #, and Option.
+This will erase all high scores, Defender 2000 level progress, and relock any 
+unlockables.
+
+*******************************************************************************
+IV.    Classic Defender
+
+-------------------------------------------------------------------------------
+A.  Overview
+
+This is a perfect port of the arcade original.  The object of the game is to
+protect the humanoids from the alien invaders.  Landers (green aliens) will
+grab the humanoids and carry them to the top of the screen.  If they reach the
+top of the screen, they will kill the humanoid and transform into a Mutant, a
+faster, more aggressive version of the Lander that will try to ram your ship!
+
+If all your humanoids are destroyed, the planet will explode and you will be
+faced with an onslaught of enemies!
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad      Move ship
+B Button    Fire Laser
+C Button    Smart Bomb
+1 + 3       Hyperspace
+Pause       Pauses the game
+
+-------------------------------------------------------------------------------
+C.  Weapons
+
+...............................................................................
+1.  Laser
+
+Your standard weapon has unlimited ammo.  
+
+Note:  Your Laser WILL kill humanoids, so watch where you're aiming!
+
+...............................................................................
+2.  Smart Bomb
+
+Smart Bombs will kill all enemies on screen (it will NOT kill humanoids).  The
+downside is that you only get three of these.  You can earn additional Smart
+Bombs by scoring points.  Your remaining Smart Bombs are displayed next to your
+score.
+
+...............................................................................
+3.  Hyperspace
+
+For some reason this isn't mentioned in the instruction booklet, but if you
+press 1 + 3 on the number pad, you will enter Hyperspace and warp to another
+part of the map.  This is great for getting out of a tight spot, but be
+careful, if you rematerialize on top of an enemy, you'll be destroyed!
+
+-------------------------------------------------------------------------------
+D.  Scoring
+
+Lander         150 points
+Mutant         150 points
+Swarmer        150 points
+Baiter         200 points
+Bomber         250 points
+Pod           1000 points
+Saved Human    500 points
+
+Bonus Points
+
+You get Bonus Points at the end of each Wave for every humanoid remaining.
+
+Wave 1        100 points
+Wave 2        200 points
+Wave 3        300 points
+Wave 4        400 points
+Wave 5 & up   500 points
+
+-------------------------------------------------------------------------------
+E.  Tips
+
+-  Be sure to catch falling humanoids, not only does this earn points, but
+   they can die if they fall too far!
+
+-  When setting down humanoids, try placing them in valleys, the lower they are
+   the longer it takes the Landers to carry them to the top of the screen.
+
+-  Use your Smart Bombs wisely.
+
+-  After scoring 20,000 points (and every 10,000 afterwards) you will earn an
+   extra life and Smart Bomb.
+
+-  When you only have a few humanoids left, try herding them together to make
+   defending them easier.
+
+-  When you hear a humanoid being abducted, check your radar to locate him,
+   then quickly make your way over.
+
+*******************************************************************************
+V.     Defender Plus
+
+-------------------------------------------------------------------------------
+A.  Overview
+
+Defender Plus is Defender with updated visuals, weapons, and enemies.  
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad            Move Ship
+A Button          Fire Lightning Laser
+B Button          Fire Laser
+C Button          Smart Bomb
+1 + 3             Hyperspace
+Hold B            Continuous Fire
+Hold B + Joypad   Reverse
+Pause             Pause the game
+
+-------------------------------------------------------------------------------
+C.  Weapons
+
+...............................................................................
+1.  Laser
+
+Your standard weapon has unlimited ammo.  Holding down the B button will let
+you lay down a continuous stream of fire.  While holding B, you can also press
+back on the control pad to fly in reverse!
+
+Note:
+
+Your Laser WILL kill your humanoids, so watch where you're aiming.
+
+...............................................................................
+2.  Smart Bomb
+
+Smart Bombs will kill all enemies on screen (it will NOT kill humanoids).  The
+downside is that you only get three of these.  You can earn additional Smart
+Bombs by scoring points.  Your remaining Smart Bombs are displayed next to your
+score.
+
+...............................................................................
+3.  AI Droid
+
+When you begin a game of Defender Plus, you have the option of being
+accompanied by two AI Droids.  These droids will automatically attack enemies
+and rescue falling humanoids.  Unlike in Defender 2000, in Defender Plus you
+don't lose your AI Droids when your ship is destroyed.
+
+...............................................................................
+4.  Lightning Laser
+
+In Defender Plus, your ship is equipped with a Lightning Laser.  Pressing the
+A button will cause lightning to target nearby enemies (it won't target your
+humanoids).  The Lightning Laser has a limited charge, your remaining energy is
+displayed beneath your score.  You can earn extra energy by scoring points.
+
+...............................................................................
+5.  Hyperspace
+
+For some reason this isn't mentioned in the instruction booklet, but if you
+press 1 + 3 on the number pad, you will enter Hyperspace and warp to another
+part of the map.  This is great for getting out of a tight spot, but be
+careful, if you rematerialize on top of an enemy, you'll be destroyed!
+
+...............................................................................
+6.  Stargate
+
+Stargates are the blue boxes floating around each level.  Entering a Stargate
+will either warp you to the nearest humanoid in trouble or halfway across the
+level.  Unlike Hyperspace, you will always rematerialize safely when you exit
+a Stargate.
+
+-------------------------------------------------------------------------------
+D.  Tips
+
+-  Be sure to catch falling humanoids, not only does this earn points, but
+   they can die if they fall too far!
+
+-  Every 50,000 points you score will earn you an extra ship, Smart Bomb, and
+   Lightning Laser charge.
+
+-  Save your Smart Bombs and Lightning Lasers for when you are surrounded.
+
+-  If you have AI Droids with you, let them be the ones to rescue humanoids,
+   that way you don't have to worry about shooting them.
+
+-  Make good use of the Stargate.
+
+*******************************************************************************
+VI.    Defender 2000
+
+-------------------------------------------------------------------------------
+A.  Overview
+
+Defender 2000 is a major update to the arcade classic, featuring all new
+visuals, weapons, enemies and music.  The goal is still the same, protect your
+humanoids from alien invaders.
+
+There are 100 levels in Defender 2000.  After every five levels, you will start
+on a new world with a full complement of humanoids.
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad            Move Ship
+B Button          Fire Laser
+C Button          Smart Bomb
+Hold B            Continuous Fire
+Hold B + Joypad   Fly in Reverse
+
+-------------------------------------------------------------------------------
+C.  Weapons
+
+...............................................................................
+1.  Laser
+
+Your standard weapon has unlimited ammo.  Holding down the B button will let
+you lay down a continuous stream of fire.  While holding B, you can also press
+back on the control pad to fly in reverse!
+
+Note:
+
+Your Laser WILL kill your humanoids, so watch where you're aiming.
+
+...............................................................................
+2.  Smart Bomb
+
+Smart Bombs will kill all enemies on screen (it will NOT kill humanoids).  The
+downside is that you only get three of these.  You can earn additional Smart
+Bombs by scoring points.  Your remaining Smart Bombs are displayed next to your
+score.
+
+...............................................................................
+3.  AI Droid
+
+AI Droids will automatically attack enemies and rescue falling humanoids.  You
+can have up to two AI Droids at a time.  You will lose your AI Droids if your
+ship is destroyed or when you move on to the next level.
+
+...............................................................................
+4.  Shield
+
+The Shield will protect you from a limited number of enemy attacks.  If you 
+collide with an enemy, you'll be bounced back quite a bit, so you still have to
+be careful.
+
+...............................................................................
+5.  Lightning Laser
+
+The Lightning Laser will appear as a silver orb beneath your ship.  It will
+automatically attack nearby enemies (but not your humanoids).  Your Lightning
+Laser has unlimited ammo and can be upgraded to a Turbo Lightning Laser that
+can fire a whopping 15 shots per second!  You will lose your Lightning Laser
+when your ship is destroyed or you move on to the next level.
+
+...............................................................................
+6.  Warp Token
+
+Collect four Warp Tokens to be taken to the Warp Level.  Unlike other powerups,
+you do not lose your Warp Tokens when your ship is destroyed or you move on to
+the next level.
+
+...............................................................................
+7.  Powerups
+
+Powerups are orbs that appear after destroying a certain number of enemies.
+Simply touch a powerup with your ship to collect it.
+
+Here is the order in which they appear:
+
+AI Droid
+Shield
+AI Droid 2
+Lightning Laser
+Turbo Lightning Laser
+Warp Token
+
+-------------------------------------------------------------------------------
+D.  Warp Level
+
+After you collect four Warp Tokens, you'll be instantly transported to the Warp
+Level.  The goal here is to stay on the green path.  If you stray from the
+path, your tail will shrink, once it's gone, you will be taken to the next
+level.  If you make it to the end, you will warp ahead five levels.
+
+-------------------------------------------------------------------------------
+E.  Level 100
+
+The final level of Defender 2000 is the much rumored "Offender" level.  There
+are no humanoids to protect here, instead your goal is to take out the enemy
+walkers (they look a lot like camels).  If you manage to defeat all the enemies
+here, you will have beaten the game!
+
+-------------------------------------------------------------------------------
+F.  Scoring
+
+Lander            150 points
+Mutant            150 points
+Humanoid            1 point
+Pod              1000 points
+Bomber            100 points
+Mine               23 points
+Swarmer           100 points
+Batter            150 points
+Foo               666 points
+Fooball           100 points
+H. Lazer Drone    555 points
+Mirror Ball      1234 points
+Lander Launcher   200 points
+Pointy Finger     300 points
+Camel             100 points
+
+-------------------------------------------------------------------------------
+G.  Tips
+
+-  Be sure to catch falling humanoids, not only does this earn points, but
+   they can die if they fall too far!
+
+-  Use your Smart Bombs wisely.
+
+-  Every 20,000 points you'll earn an extra life and Smart Bomb.
+
+-  When a Lander kills a humanoid, a tombstone will drop down, colliding with
+   it will destroy your ship!
+
+-  Even though it's possible to start over on higher levels, I recommend always
+   starting from level 1.  This allows you to score more points and bank more
+   extra lives for the harder levels.
+
+-  If you lose all your humanoids, the planet will be destroyed and you'll face
+   an onslaught of enemies.  DON'T GIVE UP!  Defeat all the enemies to move on
+   to the next level, if you can make it to a new world, you'll get a new set
+   of humanoids.
+
+*******************************************************************************
+VII.   Secrets and Cheats
+
+I found the following cheats on ataritimes.com:
+
+Note:  Once these have been unlocked, they will remain so even if you turn
+       off the power.
+
+-------------------------------------------------------------------------------
+A.  Plazma Pong
+
+...............................................................................
+1.  How to Unlock
+
+Enter the name "NOLAN" on any high score table.  Plazma Pong will now be
+available on the Main Menu.
+
+...............................................................................
+2.  How to Play
+
+
+Plazma Pong can be played against the CPU or another player.  The object of the
+game is to bounce the ball past your opponent's paddle to score goals.
+
+At the beginning of each game, the ball will be served towards player one.
+After a goal is scored, the ball will be served towards the player that was
+scored ON.
+
+Press up/down on the joypad to move your paddle.  When the ball hits the paddle
+it will be deflected towards the other player.  The angle of deflection depends
+on where on the paddle the ball hit, the further from the center, the steeper
+the angle.  As the two players volley the ball back and forth, its speed will
+steadily increase.
+
+First player to nine goals wins.  When the game is over, press the B button to
+return to the Main Menu.
+
+...............................................................................
+3.  How to Beat the CPU
+
+The CPU tracks the ball whenever it moves towards it, so scoring may seem
+difficult.  However, the AI will always line up the paddle with where the ball
+IS not where it will END UP!  You can take advantage of this by bouncing the 
+ball off the top/bottom of the playing field.  If you time it right, the CPU 
+won't have enough time to get back into position and you'll score!
+
+-------------------------------------------------------------------------------
+B.  Flossie's Revenge
+
+Enter the name "OVINE" on the Defender Plus high score table.  When you start
+a game of Defender Plus, after choosing the number of players and AI droid
+setting, press the A button (instead of B) to start the game.  Your ship will
+now be Jeff Minter's pet sheep, Flossie and the humanoids will have turned into
+llamas.
+
+-------------------------------------------------------------------------------
+C.  Warp Enable
+
+Enter the name "BEEST" into the Defender 2000 high score table.  When playing
+Defender 2000, you can now press 3 on the number pad to warp to the next level
+or press 6 to enter the warp level.
+
+-------------------------------------------------------------------------------
+D.  Vindaloo Mode
+
+Beat all 100 levels of Defender 2000 to unlock Vindaloo Mode.  When you begin
+a new game of Defender 2000, you will be given the choice of Tikka Masala Mode
+(normal difficulty) or Vindaloo Mode (hard difficulty).
+
+In Vindaloo Mode the enemies are faster and more aggressive.
+
+*******************************************************************************
+VIII.  My Best Scores
+
+Here are my best scores for each game mode:
+
+Classic Defender:               158,050
+Defender Plus (w/o droid):       65,210
+Defender Plus (w/ droid):       121,540
+Defender 2000:                1,679,697
+ 
+*******************************************************************************
+IX.    Game Review
+
+Defender 2000 is Jeff Minter's follow up to the Jaguar smash hit Tempest 2000.
+Like in Tempest 2000, he took an arcade classic and spiced it up with new
+graphics, weapons, and music.  So how did it turn out?
+
+Classic Defender is an perfect port of the arcade version of Defender.  It
+plays, looks, and sounds just like the original.  This mode is a ton of fun and
+is my favorite of the three.
+
+Defender Plus is an upgraded version of Classic Defender.  The visuals have
+been updated and new enemies to contend with.  A lightning laser has been
+added to your arsenal and the warp gates from Defender's sequel, Stargate, are
+also available.  You are given the option of having two permanent AI droids
+accompany you.  The biggest problem with this mode is the psychedelic colors
+used in the background, it's very hard on your eyes and makes it difficult to
+see what's going on.
+
+Defender 2000 is the main mode.  The graphics have been substantially updated
+and there are tons of new power ups including AI droids, shields, and lightning
+lasers.  The AI Droids are very advanced, they will automatically attack
+enemies and rescue falling humanoids.  The lightning laser will automatically
+destroy nearby enemies.
+
+There are a LOT of problems with the Defender 2000 mode.  First your ship is
+way too large, making you a sitting duck.  The backgrounds are very detailed,
+but this makes it difficult to see what's going on.  But the biggest problem
+is that the AI droids and lightning lasers are actually TOO powerful.  Once
+you have them, you don't even have to press the fire button, you just fly
+around and let them kill enemies and rescue humanoids.  It almost feels
+like you're a spectator rather than a player.
+
+It's a shame Atari forced Jeff Minter to rush out Defender 2000, it clearly
+wasn't ready for release and with a little fine tuning it could have been
+great.  As is, it's only an okay game.
+
+Pros
+
++  Includes perfect port of the arcade original.
++  The AI for the AI droids is excellent.
++  Awesome soundtrack.
++  Fun Easter Eggs.
++  Game saves high scores.
++  Two player alternating modes.
+
+Cons
+
+-  Defender 2000 feels more like your riding along than actually playing.
+-  Your ship in Defender 2000 is WAY too large.
+-  With so much going on, it's hard to keep track of the action.
+-  The whole psychedelic theme is very hard on the eyes.
+
+*******************************************************************************
+X.     Version History
+
+1.0   07/16/09   Completed FAQ.
+
+*******************************************************************************
+XI.    Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

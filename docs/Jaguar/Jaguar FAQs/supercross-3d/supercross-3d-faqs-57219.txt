@@ -1,0 +1,581 @@
+*******************************************************************************
+Supercross 3D for Atari Jaguar FAQ
+
+by BHodges
+
+Version  1.0
+Created  07/23/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+         A.  Practice
+         B.  Race
+         C.  Tournament
+         D.  Load Game
+         E.  Options
+         F.  Memory Clear
+III.   Basic Gameplay
+         A.  Controls
+         B.  Turbo Boost
+         C.  Staying on Track
+         D.  Basic Strategies
+IV.    Game Modes
+         A.  Practice
+         B.  Race
+         C.  Tournament
+V.     Tuning Your Bike
+         A.  Gears
+         B.  Shocks
+         C.  Tires
+VI.    Tracks
+         A.  San Jose
+         B.  Anaheim
+         C.  San Diego
+         D.  Dallas
+         E.  Houston
+         F.  Tampa
+         G.  Daytona Beach
+         H.  Orlando
+         I.  Atlanta
+         J.  Charlotte
+         K.  Indianapolis
+         L.  Pontiac
+         M.  Minneapolis
+         N.  Seattle
+VII.   My Best Times
+VIII.  Game Review
+IX.    Version History
+X.     Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari Jaguar game Supercross 3D.  It contains a list of
+controls, information on how to play, tips, and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+Press any button on the Title Screen to bring up the Main Menu:
+
+-------------------------------------------------------------------------------
+A.  Practice
+
+Begin a practice session.  See the Game Modes section for more info.
+
+-------------------------------------------------------------------------------
+B.  Race
+
+Begin a single race.  See the Game Modes section for more info.
+
+-------------------------------------------------------------------------------
+C.  Tournament
+
+Begin a new Tournament.  See the Game Modes section for more info.
+
+-------------------------------------------------------------------------------
+D.  Load Game
+
+Load a previously saved Tournament.
+
+-------------------------------------------------------------------------------
+E.  Options
+
+...............................................................................
+Replays
+
+Toggle the instant replays on/off.  I STRONGLY recommend turning this off.
+
+...............................................................................
+Skill Level
+
+Change the skill level of the CPU bikers.  The skill levels in order from
+easiest to hardest are Rookie, Rad, Pro, Tuff, and Ace.
+
+...............................................................................
+In Game Music
+
+Toggle the in game music on/off.  Turning the music off seems to help the
+frame rate a bit.
+
+...............................................................................
+Controls
+
+Change the functions of the fire buttons.
+
+...............................................................................
+Exit
+
+Exit the Options Menu.
+
+-------------------------------------------------------------------------------
+F.  Memory Clear
+
+To clear the cartridge's memory, hold down *, #, and Option while on the Main
+Menu.  If you did it correctly, you will get a confirmation message.
+
+*******************************************************************************
+III.   Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Note:  These are the default controls, you can change the functions of the
+       fire buttons in the Options Menu.
+
+Joypad Left/Right       Turn bike
+Joypad Down             Turbo boost
+A Button                Brake
+B Button                Throttle
+C Button                Trick
+Numpad 1-5              Replay crashes
+Pause                   Pauses the game
+Option (while paused)   Brings up the option menu.
+
+
+-------------------------------------------------------------------------------
+B.  Turbo Boost
+
+Your bike is equipped with a turbo boost.  Press down on the joypad to activate
+it.  Using your turbo boost before a jump will cause you to get more air.  
+
+-------------------------------------------------------------------------------
+C.  Staying on Track
+
+Staying on the track is vital to winning races.  Straying from the main track
+at all will result in a crash.  Making sure your bike is lined up with the
+track BEFORE hitting jumps is key to staying on the track!
+
+-------------------------------------------------------------------------------
+D.  Basic Strategies
+
+-  Try turning off instant replays and in game music to increase the frame rate
+   a bit.
+
+-  Having your bike configured properly for bike is key to success!
+
+-  Be sure to run a few practice laps before each race to get a feel for the
+   track.
+
+-  In Tournament Mode, save after each race.  If you have a bad race, you can
+   always reset and try again.
+
+-  Hit your Turbo Boost before a "rumble strip" (those sections of track with
+   small ridges).  If you time it right, you'll jump over the entire section!
+
+-  Try to get out in front as soon as possible.  Not only will this keep you
+   from getting knocked around by other bikes, but the frame rate will improve.
+
+-  PRACTICE, PRACTICE, PRACTICE!
+
+*******************************************************************************
+IV.    Game Modes
+
+-------------------------------------------------------------------------------
+A.  Practice
+
+On the Select Rider screen you can change your rider's name, colors, 
+nationality, and team name (none of these appear to affect performance).  You 
+will then be taken to the Map Screen.  On the Map Screen you can choose which
+of the 14 tracks to race on.
+
+Before starting your Practice session, you have the option of tuning your bike
+(see the Tuning Your Bike section for more info).  Choose Practice to run a
+couple of practice laps or Map to return to the Map Screen.
+
+-------------------------------------------------------------------------------
+B.  Race
+
+On the Select Rider screen you can change your rider's name, colors, 
+nationality, and team name (none of these appear to affect performance).  You 
+will then be taken to the Map Screen.  On the Map Screen you can choose which
+of the 14 tracks to race on.
+
+Before starting your session, you have the option of tuning your bike (see the
+Tuning Your Bike section for more info).  Choose Practice to run a couple of 
+practice laps, Race to start the race, or Map to return to the Map Screen.
+
+Please note that you can Tune Up your bike before each heat, but are only 
+allowed to Practice BEFORE your first one!
+
+After choosing Race, you'll begin Heat A.  The top three finishers move on to
+the Semi-Finals.  If you didn't qualify, you'll run a Last Chance Heat.  The
+top two finishers will then move on to the Semi-Finals.  If you don't qualify
+here, then you're done for that race.  In the Semi-Finals, the top three racers
+qualify for the Finals.  If you didn't make it, there will be a Last Chance
+Heat.  The top two finishers will then move on to the Finals.
+
+-------------------------------------------------------------------------------
+C.  Tournament
+
+On the Select Rider screen you can change your rider's name, colors, 
+nationality, and team name (none of these appear to affect performance).  You 
+will then be taken to the Map Screen.  On the Map Screen you can choose to
+save your game (Save), start the race (Go) or return to the Main Menu (Exit).
+
+Before starting your session, you have the option of tuning your bike (see the
+Tuning Your Bike section for more info).  Choose Practice to run a couple of 
+practice laps, Race to start the race, or Map to return to the Map Screen.
+
+Please note that you can Tune Up your bike before each heat, but are only 
+allowed to Practice BEFORE your first one!
+
+After choosing Race, you'll begin Heat A.  The top three finishers move on to
+the Semi-Finals.  If you didn't qualify, you'll run a Last Chance Heat.  The
+top two finishers will then move on to the Semi-Finals.  If you don't qualify
+here, then you're done for that race.  In the Semi-Finals, the top three racers
+qualify for the Finals.  If you didn't make it, there will be a Last Chance
+Heat.  The top two finishers will then move on to the Finals.  You are 
+awarded points based on your performance:
+
+1st Place    20 points
+2nd Place    17 points
+3rd Place    15 points
+4th Place    13 points
+5th Place    11 points
+6th Place    10 points
+7th Place     9 points
+8th Place     8 points
+
+After you've finished a race, you'll be taken back to the Map Screen.
+
+At the end of the Tournament, the racer with the most points is crowned
+Tournament Champion.
+
+*******************************************************************************
+V.     Tuning Your Bike
+
+Note:  Check the Tracks section for my recommended configurations.
+
+-------------------------------------------------------------------------------
+A.  Gears
+
+This allows you to customize your engine.  High gives you good acceleration but
+poor top speed.  Intermediate is a balance between acceleration and top speed,
+and Low gives you great top speed at the cost of poor acceleration.
+
+-------------------------------------------------------------------------------
+B.  Shocks
+
+Shocks will soften the landing after jumps.  You can set your shocks to either
+Soft, Medium, or Hard.  Harder shocks are better for courses with a lot of 
+large ramps.  You have the option of setting the front and back shocks to 
+different settings if you wish.
+
+-------------------------------------------------------------------------------
+C.  Tires
+
+Tires determines your bike's grip, having the correct tires for a track will
+make turning a LOT easier.  You can set your tires to Hard, Medium, or Soft.
+The best setup depends on each track's individual surface conditions.  Like
+the shocks, you have the option of having different tires on the front and 
+back if you so desire.
+
+*******************************************************************************
+VI.    Tracks
+
+-------------------------------------------------------------------------------
+A.  San Jose
+
+ ___________________________________________________________
+|Surface:  Hard            |Best Time:  19:30  K. Knott     |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Hard    Front Tire:  Medium   |
+|              Back Shocks:   Hard    Back Tire:   Medium   |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+B.  Anaheim
+
+ ___________________________________________________________
+|Surface:  Hard            |Best Time:  23.32  C. Brunning  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Hard    Front Tire:  Medium   |
+|              Back Shocks:   Hard    Back Tire:   Medium   |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+C.  San Diego
+
+ ___________________________________________________________
+|Surface:  Hard            |Best Time:  28.54  I. Metcalfe  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Hard    Front Tire:  Medium   |
+|              Back Shocks:   Hard    Back Tire:   Medium   |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+D.  Dallas
+
+ ___________________________________________________________
+|Surface:  Medium          |Best Time:  20.18  H. Roscoe    |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Medium  Front Tire:  Hard     |
+|              Back Shocks:   Medium  Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+E.  Houston
+
+ ___________________________________________________________
+|Surface:  Hard            |Best Time:  22.57  D. Anderson  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Hard     |
+|              Back Shocks:   Soft    Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+F.  Tampa
+
+ ___________________________________________________________
+|Surface:  Medium          |Best Time:  18.82  N. Armitt    |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Hard     |
+|              Back Shocks:   Soft    Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+G.  Daytona Beach
+
+ ___________________________________________________________
+|Surface:  Medium          |Best Time:  33.97  F. Thomason  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Hard     |
+|              Back Shocks:   Soft    Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+H.  Orlando
+
+ ___________________________________________________________
+|Surface:  Soft            |Best Time:  21.00  S. Gibbons   |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Soft     |
+|              Back Shocks:   Soft    Back Tire:   Soft     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+I.  Atlanta
+
+ ___________________________________________________________
+|Surface:  Soft            |Best Time:  24.51  W. Golder    |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Soft     |
+|              Back Shocks:   Soft    Back Tire:   Soft     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+J.  Charlotte
+
+ ___________________________________________________________
+|Surface:  Medium          |Best Time:  27.98  C. Brunning  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Hard     |
+|              Back Shocks:   Soft    Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+K.  Indianapolis
+
+ ___________________________________________________________
+|Surface:  Medium          |Best Time:  21.56  V. Conway    |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Hard     |
+|              Back Shocks:   Soft    Back Tire:   Hard     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+L.  Pontiac
+
+ ___________________________________________________________
+|Surface:  Soft            |Best Time:  21.77  A. Bodin     |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Soft     |
+|              Back Shocks:   Soft    Back Tire:   Soft     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+M.  Minneapolis
+
+ ___________________________________________________________
+|Surface:  Soft            |Best Time:  19.07  D. Campbell  |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Soft     |
+|              Back Shocks:   Soft    Back Tire:   Soft     |
+|___________________________________________________________|
+
+-------------------------------------------------------------------------------
+N.  Seattle
+
+ ___________________________________________________________
+|Surface:  Soft            |Best Time:  36.78  H. Roscoe    |
+|__________________________|________________________________|
+|           My Recommended Bike Configuration               |
+|___________________________________________________________|
+|Gears:  High  Front Shocks:  Soft    Front Tire:  Soft     |
+|              Back Shocks:   Soft    Back Tire:   Soft     |
+|___________________________________________________________|
+
+*******************************************************************************
+VII.   My Best Times
+
+Here are my best times for each track.  These times were achieved in Practice
+using my recommended bike configuration for that particular track.
+
+Note:  A asterisk denotes a time faster than the default best time.
+
+ ________________________________
+|Track           |My Best Time   |
+|________________|_______________| 
+|San Jose        |18.96*         |
+|----------------|---------------|
+|Anaheim         |24.51          |
+|----------------|---------------|
+|San Diego       |27.96*         |
+|----------------|---------------|
+|Dallas          |20.63          |
+|----------------|---------------|
+|Houston         |21.91*         |
+|----------------|---------------|
+|Tampa           |17.68*         |
+|----------------|---------------|
+|Daytona Beach   |34.48          |
+|----------------|---------------|
+|Orlando         |20.88*         |
+|----------------|---------------|
+|Atlanta         |24.01*         |
+|----------------|---------------|
+|Charlotte       |27.28*         |
+|----------------|---------------|
+|Indianapolis    |20.71*         |
+|----------------|---------------|
+|Pontiac         |21.29*         |
+|----------------|---------------|
+|Minneapolis     |18.86*         |
+|----------------|---------------|
+|Seattle         |36.38*         |
+|________________________________|
+
+*******************************************************************************
+VIII.  Game Review
+
+Supercross 3D.  In the decade and a half since its release, this game has
+become synonymous with the debacle known as the Atari Jaguar.  Both the game
+and the console itself have been the subject of criticism and ridicule, even
+fans of the Jaguar are quick to label this game as "shovelware".  But is this
+deserved?
+
+As you probably gathered from the title, Supercross 3D is a 3D motorcycle
+racing game.  There are 14 different tracks and before each race you are given
+the option of customizing your engine, shocks, and tires and even running some
+practice laps to test out your ride.  There is a tournament mode where you race
+a full schedule of all 14 tracks and the game gives you the option of saving
+your progress after each race.  Sounds great, right?
+
+Let's talk about the graphics.  If you have seen screenshots of this game in
+magazines or online, you may think that it looks pretty good for a Jaguar game.
+Apparently that was the idea!  According to rumors, the suits decided to force
+the game programmers to add texture maps to everything, which literally makes
+the game look good on paper, but not in reality.  This game has the absolute
+WORST frame rate of any console game I have ever played!  To give you an idea,
+try installing Doom 3 on a laptop and then maxing out the graphics settings,
+yeah it's EXACTLY like that!
+
+The game itself is very unforgiving.  If you stray from the main path at all,
+you'll crash.  The frame rate doesn't help here either.  The game has a steep
+learning curve and even racing game veterans will have to practice for a while
+to get the hang of it.
+
+Supercross 3D feels incomplete, like it was rushed out the door to make as much
+money as possible while the Jaguar was still on the market.  Even simple things
+like displaying the current lap time and multiplayer are missing here.  The
+instruction booklet is a joke, it only has 10 pages for each language.  Two of
+these are "filler" and the last is just the credits, so really that leaves you
+with 7 pages of information, most of which is useless.  They don't even mention
+the fact that your bike has a turbo boost!
+
+I tried to go into this with an open mind.  Like most gamers, I was really
+turned off by the frame rate and constant crashing (at least 10 my first lap!).
+In order to write this FAQ, I spent several days playing this game, testing out
+different bike configurations on each track, participating in the various race
+modes, etc.  And you want to know something crazy?  This game actually started
+to grow on me!  After a lot of practice, I was able to easily finish races
+without a single crash.  A properly configured bike turns out to be a LOT
+easier to control, making gameplay more enjoyable.
+
+So what's the final verdict?  Well, IF you can get past the poor frame rate
+and IF you are willing to put in a lot of practice, then this game should keep
+you entertained for a weekend or so.  Of course, those are some big ifs, but I
+strongly encourage all Jaguar owners to give this game a try.
+
+
+Pros
+
++  You have the ability to customize your bike.
++  Game saves progress and best times.
++  Mainly due to the game's notoriety, copies are usually cheap.
+
+Cons
+
+-  Worst frame rate of any console game I have ever played.
+-  Very unforgiving, stray from the main track at all and you'll crash.
+-  No multiplayer.
+-  Tracks all look the exact same.
+-  Game saves the TEAM name instead of the PLAYER'S name for best times.
+-  Even the instruction booklet is terrible.
+
+*******************************************************************************
+IX.    Version History
+
+1.0   07/23/09   Completed FAQ.
+
+*******************************************************************************
+X.     Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

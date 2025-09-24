@@ -1,0 +1,346 @@
+
+THE PRIMAL RAGE CONDENSED MOVELIST rev. 2.1
+   (Chaos' FoFury corrected)
+
+Notes: All moves are confirmed for arcade PR version 2.3. All moves &
+fatalites do work on SNES Primal Rage, though some are very hard to do
+without a quality joystick. Chaos' Golden Shower fatality is censored in
+SNES PR. Chaos doesn't do anything during the Golder Shower and a censor
+sign appears. 
+
+"Version 2.3 only" moves & fatalities are not in Genesis PR or 32X PR,
+since both are conversions of the earlier arcade version 1.7.
+
+All moves & fatalities listed here work for the IBM PC version if you're
+using a four-button joystick. If you're using the keyboard or a two-button
+joystick, many of the moves are different. See the PR for IBM PC FAQ for
+keyboard moves.
+
+All moves & fatalities should work for Jaguar PR, 3DO PR, & PSX PR. Please
+let me know if they don't.
+
+There is a separate, completely different movelist for Game Boy/Game Gear
+PR. 
+
+SNES Cheat Code: L, L, L, R, R, L, L, R, R, R, L, R start/options screen
+[from GamePro PR for home systems guide, confirmed]
+
+Genesis Cheat Code: L, U, R, R, U, L, R, R, L, L, U at start/options
+screen
+[from Jan '96 GamePro, confirmed]
+
+KEY:
+1=High Quick button, 2=High Fierce, 3=Low Quick, 4=Low Fierce
+A=away, D=down, T=toward, U=up, AD =diagonally away&down, etc.
+
+ARMADON
+
+Bed-O-Nails: Armadon balls up like a porcupine with spikes sticking out of
+him. 
+Hold 2+3; move joystick D, U
+
+Iron Maiden: Jumps into the air and turns his back downward and lands on
+opponent.
+Hold 2+3; move joystick A-U-T
+
+Mega Charge: Takes 5 steps and then does an uppercut with his horn
+Hold 1+3; move joystick A-D-T
+
+Gut Gouger:  Impales opponent with his horn and throws the opponent.
+Hold 1+2+3; move joystick T, A
+
+Hornication Uppercut:  Armadon leaps and does a nose spike straight into
+the air.
+Hold 1+2+3; move joystick DT-T-UT
+
+Spinning Death:  Gets into a ball and spins across the screen.
+Hold 1+4; move joystick A, T-D
+
+Flying Spikes:  Armadon shoots spikes from his tail.
+Hold 2+4; move joystick A-U
+
+*Gut Fling:   Armadon digs his horn into the opponent and slings their
+guts around.
+Hold 1+2+3; move joystick D, D, D, D, U
+
+*Meditation:  Armadon curls up and creates electricity that zaps your
+opponent.
+Hold 1+2+3+4; move joystick T, D, A, T, T
+
+*Falling Spikes: Armadon curls up and shoots spikes into the air. The
+spikes land on and impale your opponent. Version 2.3 only.
+Hold 1+2+3+4, tap joystick D, A, U, D
+
+**Chomp a human: Hold 1+2+3+4; move joystick U-T
+
+BLIZZARD
+
+Quick Mega Punch: Gives your opponent a big bash to the head.
+Hold 1+3; move joystick A, T
+
+Short Mega Punch: This punch has the fastest wind-up, medium range, and
+the longest recovery time. 
+Hold 1+2+3+4; move joystick A, T
+
+Long Mega Punch:This has the same wind-up and recovery time as the Quick
+Mega Punch, and the longest range.
+Hold 2+4; move joystick A, T
+
+Fake Mega Punch: Blizzard winds up for a Long Mega Punch but doesn't
+actually punch! 
+Hold 1+3; move joystick D, U
+
+Freeze Breath: Chill your opponent out Sub-Zero style, then combo them.
+Hold 1+2+4; move joystick A, T
+
+Ice Geyser:   Blizzard creates a column of ice freezing the opponent.
+Victim must be close and either in the air or not blocking.
+Hold 1+2+4; move joystick D, U
+
+Punching Bag: Hit button 1 five or six times to beat the enemy up, then
+before his brain meter regenerates and he shakes out of your grasp, tap
+another button to deliver the wind up punch.  2=low arc, 3= medium arc, 4=
+high arc.  
+Hold 1+4; move joystick T-D-A-U
+
+Air Throw:    Grab opponent in the air.  Useful in combos too.
+Tap 2+3 while airborne
+
+Throw: Hold 2+3; move joystick A-U-T
+
+*Brain Bash:  Blizzard pounds opponent into the ground and punches the
+opponent's brain out!
+Hold 1+2+4; move joystick D, D-A-U-T
+
+*To-Da-Moon:  Blizzard does the punching bag, winds up, and knocks
+opponent into the background!
+Hold 1+2+3+4; move joystick D, D, D, D, U
+
+*Redemption: Blizzard sends the opponent's soul to heaven, and all that's
+left are the bones. Version 2.3 only.
+Hold 1+2+3+4; tap joystick D, T, U, D, U
+
+**Chomp a human: hold 1+2+3+4; roll joystick A-U-T-D
+
+CHAOS
+
+Grab-N-Throw: Grabs opponent by the neck and tosses him across the screen.
+Hold 2+4; move joystick T, A
+
+Slow Power Puke: Chaos pukes a blob of green stuff.
+Hold 2+3; move joystick U-T
+
+Fast Power Puke: Hold 1+4; move joystick U-T
+
+Fart of Fury: Chaos sticks his butt in the air and farts a poisonous
+cloud.
+Hold 2+3; move joystick D-T-U-A
+
+Ground Shaker:  Chaos jumps up and lands creating an earthquake. Can be
+done in the air on version 2.3 only.
+Hold 2+3; move joystick A, AU, AD
+
+Flying Butt Slam:  Jump and lands on opponent with his butt.
+Hold 2+4; move joystick D-T-U-UT-DT
+
+Battering Ram:  Chaos puts his shoulder out and charges.
+Hold 1+3; move joystick T, T
+
+*Golden Shower:  Chaos raises a leg and urinates on the opponent, and the
+only thing left are the bones.
+Hold 1+3 and move joystick D, D; then hold 1+2+3+4 and move joystick A, T,
+A, T
+
+*Cannonball:  Chaos does a cannonball into the water.  Only works on
+stages with water in the background in version 1.7.
+Hold 1+2+3+4; move joystick AD, UT-DT-AD
+
+*The Churl:  Chaos does a slow puke, walks off the screen, walks on from
+the other side, and catches the puke in his mouth. Version 2.3 only.
+Hold 1+2+3+4; move joystick T, T, T, A, A, A 
+
+**Chomp a human: Hold 1+2+3+4; move joystick T-D-A
+
+DIABLO
+
+Slow Fireball: Diablo shoots out a fireball that travels across the
+screen.
+Hold 2+4; move joystick D-T
+
+Fast Fireball: Hold 1+3; move joystick D-T
+
+Torch:  A flame blast from Diablo's mouth.  Hold buttons for it to last up
+to 5 seconds.
+Hold 1+3; move joystick U-T
+
+Hot Foot:  A blast that goes about 1/2 way across the screen burning
+everything in its path.
+Hold 2+4; move joystick UA, DT
+
+Mega Lunge:   Diablo ducks his head, charges, and throws his head into the
+air.
+Hold 1+4; move joystick D-T
+
+The Pulverizer:  Leap into the air and land on your opponent's head.
+Hold 1+4; move joystick U-T-D
+
+Inferno Flash:  Diablo teleports in a flash of fire.
+Hold 2+3+4; move joystick U
+
+*Incinerator:  Diablo rears back and blows a HUGE blast of fire that burns
+the flesh off the bones!
+Hold 1+2+3+4; move joystick UA-D-DT
+
+*Fireball:  Diablo blasts a hugh fireball that roasts your opponent!
+Hold 2+3+4; move joystick T, T, T
+
+*Infernal: Diablo sends his opponent to hell. Version 2.3 only.
+Hold 1+3+4; tap joystick U, D, U, D, D
+
+**Chomp a human: hold 1+2+3+4; move joystick D, U, D
+
+SAURON
+
+Primal Scream:  Sauron roars and creates a shield around himself.
+Hold 1+3; move joystick D, U
+
+Earthquake Stomp:  Jumps on the ground to shake up your opponent. Can be
+done in the air on version 2.3 only.
+Hold 1+2+4; move joystick U, D
+
+The Cranium Crusher:  Sauron leaps into the air with his head.  Leaves you
+vulnerable if you miss.
+Hold 1+4; move joystick D, U
+
+Leaping Bone Bash: Pounce on your opponent and bite off some of his flesh.
+Hold 2+3; move joystick D, U, D
+
+Stun Roar:  Fireball-like projectile fired from his mouth.
+Hold 1+3; move joystick A, T
+
+Neck Throw:  Sauron bites your opponent in the neck and tosses them across
+the screen. 
+Hold 2+4; move joystick T, A
+
+Air Throw:    Grab opponent in the air.  Useful in combos too.
+Tap 2+4 while airborne
+
+*Carnage:  Grab your opponent by the throat and shake them up.
+Hold 1+2+3+4; move joystick A, T, A, T, A
+
+*Flesh Eating:  Sauron walks over to his fallen opponent and tears into
+them, eating each piece as he rips it off.
+Hold 1+3 and move joystick D, D; then hold 1+2+3+4 and move joystick U, U.
+
+*Grape Crusher: Sauron stomps his victim flat. Version 2.3 only.
+Hold 1+2+3+4; tap joystick U, D, U, D, D
+
+**Chomp a human: Hold 1+2+3+4 and move joystick D, D, U
+
+TALON
+
+Brain Basher:  Talon flips in the air and lands on the opponent's head.
+Hold 2+3; move joystick A-U-T
+
+Pounce and Flip:  Talon takes a few steps and pounces on opponent, does a
+couple of slashes, and flips off.
+Hold 2+3; move joystick T- D-DT
+
+Frantic Fury: Talon becomes a blur of claws and creeps toward opponent.
+Hold 1+4; move joystick D-T
+
+Slasher: Two fierce slashes, but only hits once.
+Hold 1+3+4; move joystick D-T
+
+Face Ripper: Talon jumps on the opponent and bite his face several times.
+(Must be close to opponent.)
+Hold 2+4; move joystick D-T
+
+Jugular Bite: Talon jumps onto opponent and chomps your neck. NOTE:  This
+can only be used in a combo and up close.
+Hold 2+4; move joystick A, T
+
+Run Forward/Back:  Talon can run toward or away very fast.  This is good
+for dodging.
+Hold 1+3; move joystick T or A
+
+*Heart Wrenching:  Talon walks up to the opponent, cuts them open, rips
+you heart out, and eats it.
+Hold 1+3+4; move joystick T-D-A-U
+
+*Shredder:  Frantic Fury-like fatality.
+Hold 1+4; move joystick T-D-A-U
+
+*Stampede: Talon summons his children. Version 2.3 only.
+Hold 1+2+3+4 and tap the joystick T, A, U, D
+
+**Chomp a human: hold 1+2+3+4; move joystick T-D
+
+VERTIGO
+
+Slow Venom Spit: Vertigo spits purple acid across the screen.
+Hold 1+3; move joystick T, T
+
+Fast Venom Spit: Hold 2+4; move joystick T, T
+
+Voodoo Spell: Vertigo emits hypnosis rings that stun your opponent. Short
+range.
+Hold 2+3; move joystick A, A
+
+Ground Teleport:  Rolls up in a ball and reappears _on the ground_ next to
+opponent; choose which side by holding the joystick toward or away after
+doing the move. Can be done in the air on version 2.3 only.
+Hold 2+4; move joystick D, D
+
+Air Teleport: Rolls up in a ball and reappears _in the air_ next to
+opponent; choose which side by holding the joystick toward or away after
+doing the move. Does not damage opponent. Can be done while on the ground
+or in the air. Version 2.3 only.
+
+Hold 2+4; move joystick D, U
+
+Come Slither:  Vertigo lashes her tail out and drags the opponent over for
+some beating.
+Hold 1+3; move joystick A, A
+
+Scorpion Sting:  Whips Vertigo's tail out and swats across the screen and
+a blade shoots out too.
+Hold 2+3; tap joystick T, T
+
+*Petrify:  Vertigo does a Voodoo Spell that turns your oppoenet into stone
+and then Scorpion Stings them to bits.
+Hold 2+4 and tap joystick A, A, A; then hold 1+2+3+4 and tap joystick T, T
+
+*Shrink and Eat:  Vertigo does a Voodoo Spell and shrinks your oppoent.
+She then eats them like a worshipper.
+Hold 2+4 and tap joystick A, A, A; then hold 1+2+3+4 and tap joystick D, U
+
+*La Vache Qui Rit: Vertigo turns the opponent into a cow. Version 2.3
+only.
+Hold 1+2+3+4 and tap joystick A, A, A, D, T
+
+**Chomp a human: hold 1+2+3+4 and move joystick D-T-U
+
+   All characters can do three types of jumps in Primal Rage. First, to do
+a standard jump, just press up or diagonally up like any other fighting
+game. Pretty easy, eh? The second type of jump is the long jump. To do a
+long jump, tap down, then do a "normal" jump immediately afterward This
+jump will be higher and faster than the standard jump, and it will go much
+farther. No more characters whose only jump is a drifter... The third type
+of jump is the most difficult, and most surprising jump in any game. A
+"hop jump" (a.k.a. "tiger jump") is the shortest possible jump and
+*extremely* fast! You do a hop jump by pushing the joystick in the
+direction you want to jump, then down, then do the standard jump (either
+tapping or rolling the joystick will work). Additionally, the hop jump can
+now be done straight up, just tap toward (or away), down, and straight up!
+ Unlike version 1.7, Primal Rage version 2.3 lets you execute hop jumps
+versus the computer, and the computer can use them against you, too!
+Here's a chart to summarize the three different jumps:
+
+Jump Type    | Toward | Away         | Up
+________________________________
+normal jump  |  UT         | UA          | U
+long jump      |  D, UT    | D, UA      | D, U
+hop jump       | T, D, UT | A, D, UA | T or A, D, U
+
+
