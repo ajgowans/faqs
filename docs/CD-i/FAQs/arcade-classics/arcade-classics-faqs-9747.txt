@@ -1,0 +1,66 @@
+
+   Galaga
+   Contributors: Roger Bonine / Rajeev Gantela / Robert Sandstrom
+
+     There is a well-known cheat that causes enemy units to stop firing.
+
+       It works on most (but not all) machines. Here it is:
+
+       On the first stage, kill everything but the two bees in the bottom
+       left corner. Then just wait, dodging the bees' shots, until the
+       bee no longer drops any shots towards you. After the bees stop
+       firing, let it pass for 5 more trips or so and then kill them. For
+       the rest of the game, the enemies will not drop shots. It will
+       take approximately 15 minutes for the bees to quit shooting at
+       you, so this trick requires a lot of patience.
+       Some people have reported that this trick also works with two bees
+       from the RIGHT side of the screen...
+       Note that, in a 2-player game, only one person has to do the cheat
+       for both players to benefit.
+
+       If you're playing Galaga in MAME, this trick can be sped up by
+       turning off speed throttling. On a fast machine, the time can
+       reportedly be cut from 15 minutes down to 2 or 3!
+
+     The "Player 1" score counter in Galaga is 6 digits, but the "Player
+       2" counter is seven digits. Therefore, most good players start a
+       2-player game and play exclusively on the Player 2 side so their
+       score won't "roll over" at 999,990.
+
+     Challenging stages are easier if the high score numbers are used to
+       refine your aim. These tips assume a 6-digit high score:
+       On the first 2 challenging stages, aim your ships so that your
+       left set of bullets falls between the second and third numbers in
+       the high score list.
+
+       On subsequent challenging stages, aim one set of your bullets
+       between the first and second numbers in the high score list (if
+       the units come from the left) or between the last and next-to-last
+       numbers (if the units come from the right). This will allow you to
+       hit descending enemies at the highest possible point.
+
+     Here is a neat (and useless) Galaga trick: It is possible to end the
+       game with a 200% ratio. The 200% hit-miss ratio trick can only be
+       done with your first shot of the game. When the game starts, don't
+       move, and fire only one shot. If you time it correctly, two
+       enemies will be killed at once. Let your remaining ships be
+       destroyed, and presto: a better-than-perfect result. 
+
+     If you have more than 7 extra men, the marker for the screen will
+       only show 7 1/2 (!) men remaining. Additional extra men will still
+       be credited, even though they won't show on the screen.
+
+     Galaga "rolls over" after stage 255. After finishing the 255th
+       level, the screen says "Stage 0" and the machine locks up. I have
+       heard unconfirmed reports in the past that the "Stage 0" problem
+       can be circumvented if the last two numbers in your score at the
+       end of level 255 are (?? 80 is what I remember, but it may be
+       something else).
+
+       If anyone has any further information about this, I would
+       appreciate hearing it...
+
+     After the 1,000,000 mark, new ships are no longer awarded.
+
+
+

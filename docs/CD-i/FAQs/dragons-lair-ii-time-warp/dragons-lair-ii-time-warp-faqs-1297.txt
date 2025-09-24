@@ -1,0 +1,121 @@
+This is a FAQ I made for Dragon's Lair II for CD-I.  The FAQ shows both
+kind of views.  This FAQ was hard to make so memorize it and have fun with
+it.  Don't be that dissapointed by the last 2 levels.  They are too easy.
+
+By: Josh Jones
+Prodigy: BMFB40B
+Compuserve: 74757,42
+E-Mail: 74757.42@Compuserve.COM
+        BMFB40B@Prodigy.COM  
+
+
+Level 1:
+
+If the camera scrolls to the right at the begginning:
+    Right,Right,Right,Sword,Sword,Down,Left,Sword,Up,Left,Right,Down,
+    Sword,Right,Left,Left,Sword,Right,Down
+
+If the camera scrolls to the left at the begginning:
+    Left,Left,Left,Sword,Sword,Down,Right,Sword,Up,Right,Left,Down,
+    Sword,Left,Right,Right,Sword,Left,Down
+
+
+Level 2:
+
+If you come in sliding to the right:
+    Sword,Left,Sword,Down,Sword,Right,Sword,Right,Sword,Sword,Left,
+    Sword,Sword,Sword,Right,Sword
+
+If you come in sliding to the Left:
+    Sword,Right,Sword,Down,Sword,Left,Sword,Left,Sword,Sword,Right,
+    Sword,Sword,Sword,Left,Sword
+
+
+Level 3:
+
+If you come in flying to the right:
+    Down,Left,Left,Right,Left,Sword,Sword,Sword,Sword,Sword,Right,
+    Sword,Sword,Left,Right,Sword,Left,Sword,Sword,Left,Sword,Sword,
+    Left,Sword,Sword,Sword,Right,Left,Right,Sword,Sword,Sword,Right,
+    Sword,Sword,Left,Sword,Sword
+
+If you come in flying to the left:
+    Down,Right,Right,Left,Right,Sword,Sword,Sword,Sword,Sword,Left,
+    Sword,Sword,Right,Left,Sword,Right,Sword,Sword,Right,Sword,Sword,
+    Right,Sword,Sword,Sword,Left,Right,Left,Sword,Sword,Sword,Left,
+    Sword,Sword,Right,Sword,Sword
+
+
+Level 4:
+
+If you come in looking to the left:
+    Sword,Sword,Sword,Left,Left,Sword,Down,Sword,Right,Sword,Left,
+    Sword,Sword,Up,Left,Right,Right,Up,Left,Sword,Sword,Right,Left,
+    Left,Sword,Right,Left,Left,Right,Sword,Down,Right,Left,Down,
+    Sword,Sword,Down,Right,Left,Sword
+
+If you come in looking to the right:
+    Sword,Sword,Sword,Right,Right,Sword,Down,Sword,Left,Sword,Right,
+    Sword,Sword,Up,Right,Left,Left,Up,Right,Sword,Sword,Left,Right,
+    Right,Sword,Left,Right,Right,Left,Sword,Down,Left,Right,Down,
+    Sword,Sword,Down,Left,Right,Sword
+
+
+Level 5:
+
+If the vine is on the left side of you:
+    Left,Right,Right,Up,Left,Up,Right,Right,Left,Right,Left,Left,
+    Left,Sword,Sword,Sword,Sword,Up,Sword,Sword,Right,Sword,Sword,
+    Sword,Right,Down,Right,Sword,Sword,Left,Left,Right,Right,Sword,
+    Left,Left,Left,Left,Sword,Left,Right,Right,Right,Sword
+
+If the vine is on the right side of you:
+    Right,Left,Left,Up,Right,Up,Left,Left,Right,Left,Right,Right,
+    Right,Sword,Sword,Sword,Sword,Up,Sword,Sword,Left,Sword,Sword,
+    Sword,Left,Down,Left,Sword,Sword,Right,Right,Left,Left,Sword,
+    Right,Right,Right,Right,Sword,Right,Left,Left,Left,Sword
+
+
+Level 6:
+
+If the wizard is on the left side of you:
+    Up,Left,Right,Down,Sword,Right,Left,Left,Down,Sword,Sword,Down,
+    Down,Sword,Down,Sword,Right,Sword,Up,Up,Right,Right,Right,Sword,
+    Right,Right,Sword,Down,Up,Down,Sword,Right,Right,Left,Up,Right,
+    Up,Right,Up,Sword,Left,Up,Up,Sword,Right,Sword,Sword
+
+If the wizard is on the right side of you:
+    Up,Right,Left,Down,Sword,Left,Right,Right,Down,Sword,Sword,Down,
+    Down,Sword,Down,Sword,Left,Sword,Up,Up,Left,Left,Left,Sword,
+    Left,Left,Sword,Down,Up,Down,Sword,Left,Left,Right,Up,Left,
+    Up,Left,Up,Sword,Right,Up,Up,Sword,Left,Sword,Sword
+
+
+Level 7:
+
+Figure it out yourself:
+    Right,Left,Left,Left,Right,Right,Right,Sword,Right,Sword,Right,
+    Right,Right,Sword,Right,Right,Sword,Sword,Sword,Right,Sword,
+    Sword,Down,Left,Right,Right,Sword,Left,Right,Sword,Sword,Left,
+    Right,Right,Sword,Sword,Up,Left,Sword,Down,Right,Left,Sword,
+    Sword,Left,Right,Up,Sword,Right,Sword
+
+It could be this one:
+    Left,Right,Right,Right,Left,Left,Left,Sword,Left,Sword,Left,
+    Left,Left,Sword,Left,Left,Sword,Sword,Sword,Left,Sword,
+    Sword,Down,Right,Left,Left,Sword,Right,Left,Sword,Sword,Right,
+    Left,Left,Sword,Sword,Up,Right,Sword,Down,Left,Right,Sword,
+    Sword,Right,Left,Up,Sword,Left,Sword
+
+
+Level 8:
+
+This one dosen't change:
+    Sword,Left,Right,Right,Right,Left,Up,Down,Down,Left,Right,Sword
+
+
+Level 9:
+
+Either does this one:
+    Sword,Sword,Sword,Sword,Right,Left,Sword,Sword,Right,Sword,
+    Sword,Up,Down,Right,Right,Right,Sword,Sword,Right

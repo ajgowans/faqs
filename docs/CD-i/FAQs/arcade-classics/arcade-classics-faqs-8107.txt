@@ -1,0 +1,306 @@
+    +=-=-=-=-=-=-=-=-=-=-=-=-=+
+   /  GALAGA: DEMONS OF DEATH  \
+  +=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+ /      ENEMY GUIDE/TACTICS      \
++=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+
+   by Space Bug
+
+   Version 2.4
+   Last Update - 3/19/02
+
+*****************
+TABLE OF CONTENTS
+*****************
+
+GALAGA FIGHTERS
+   Types of Attack
+   GALAGA FIGHTERS
+
+Enemy Patterns
+   The FORMATION
+      FORMATION Diagram
+   Tactics
+
+Contributors' Information
+
+High Scores
+
+Special Thanks
+
+Copyright Information
+
+***************
+GALAGA FIGHTERS
+***************
+
+===============
+Types of Attack
+===============
+
+TRACTOR BEAM - The GALAGA is the only GALAGAN that uses this weapon. They 
+               can beam you up and hold one of your FIGHTERS as hostage. Your 
+               FIGHTER will turn RED to indicate this.
+
+MISSILE      - The GALAGANS will fire missiles at you. One hit from this and
+               you lose a FIGHTER.
+
+KAMIKAZE     - A dive-bombing attack which can be devastating. Try to avoid
+               these attacks or shoot down the KAMIs before they get too close.
+
+===================
+The Galaga Fighters
+===================
+
++————————————————+——————————————+—————————————+ GALAGA COMMANDER: The 
+| GALAGA FIGHTER |HORNET FIGHTER|MOTH FIGHTER | boss GALAGA is the only GALAGAN
+|                |              |             | capable of using the TRACTOR-
+|      ￾ ￾       | ￾    ￾    ￾  |  ￾  ￾ ￾  ￾  | BEAM. If the boss is destroyed,
+|      ￾ ￾       |  ￾ ￾￾￾￾￾ ￾   |￾￾￾  ￾ ￾  ￾￾￾| the remaining GALAGA FIGHTERS
+|   ￾￾￾￾￾￾￾￾￾    |   ￾￾￾￾￾￾￾    |￾￾￾ ￾￾￾￾￾ ￾￾￾| become weaker and take time to
+|    ￾￾￾￾￾￾￾     |    ￾￾￾￾￾     |￾￾￾ ￾￾￾￾￾ ￾￾￾| adjust to the loss of a
+|     ￾￾￾￾￾      |   ￾￾￾￾￾￾￾    | ￾￾￾￾￾￾￾￾￾￾￾ | COMMANDER. These GALAGANS
+|    ￾￾￾￾￾￾￾     |  ￾￾￾￾￾￾￾￾￾   |  ￾￾￾￾￾￾￾￾￾  | are found at the top of the
+|  ￾￾￾￾￾￾￾￾￾￾￾   | ￾￾￾ ￾￾￾ ￾￾￾  | ￾￾￾￾￾￾￾￾￾￾￾ | FORMATION. It will take two 
+|￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾ |￾￾￾￾ ￾￾￾ ￾￾￾￾ |￾￾￾￾ ￾￾￾ ￾￾￾￾| hits to knock these down.
+| ￾￾￾￾￾￾￾￾￾￾￾￾￾  |￾￾￾  ￾￾￾ ￾￾￾￾ | ￾￾￾     ￾￾￾ |
+| ￾￾￾￾ ￾ ￾ ￾￾￾￾  |￾￾￾   ￾  ￾￾￾￾ |   ￾     ￾   | MOTH FIGHTERS: Lower-class 
+|￾￾￾￾  ￾ ￾  ￾￾￾￾ +——————————————+—————————————+ GALAGAN FIGHTERS which cover
+|￾￾￾￾       ￾￾￾￾ |         TRANSFORM 2        | the 2nd row of the FORMATION.
+|￾￾￾￾       ￾￾￾￾ |                            | These will try to KAMIKAZE into
+|￾￾￾￾       ￾￾￾￾ |              ￾             | you and shoot you with MISSILES
+|￾￾￾￾       ￾￾￾￾ |              ￾             |
+| ￾￾         ￾￾  |             ￾￾￾            | HORNET FIGHTERS: These GALAGANS
++————————————————+            ￾￾￾￾￾           | will cover the 3rd row of 
+|   TRANSFORM 1  |           ￾￾￾￾￾￾￾          | the FORMATION. The HORNET
+|                |          ￾￾￾￾￾￾￾￾￾         | FIGHTERS will try to dive bomb
+|￾￾￾￾  ￾  ￾  ￾￾￾￾|          ￾￾￾￾￾￾￾￾￾         | you and fire MISSILES. Some 
+|￾￾￾￾￾ ￾￾￾￾ ￾￾￾￾￾|         ￾￾￾￾￾￾￾￾￾￾￾        | have the ability to turn into 3
+| ￾￾￾￾ ￾￾￾￾ ￾￾￾￾ |         ￾￾  ￾￾￾  ￾￾        | TRANSFORM FIGHTERS
+|  ￾￾￾ ￾￾￾￾ ￾￾￾  |         ￾    ￾    ￾        |
+|   ￾￾￾￾￾￾￾￾￾￾   |         ￾    ￾    ￾        | TRANSFORM FIGHTERS: Most
+|      ￾￾￾￾      |              ￾             | TRANSFORM FIGHTERS morph from
+|      ￾￾￾￾      +————————————————————————————+ the HORNET FIGHTERS. But you'll
+|      ￾￾￾￾      |         TRANSFORM 3        | see some that pop up in the
+|       ￾￾  ￾￾   |                            | CHALLENGING STAGE. Try to
+|         ￾￾     |           ￾￾  ￾￾           | hit out all three once they
++————————————————+            ￾￾￾￾            | TRANSFORM from the HORNETS for
+|  TRANSFORM 4   | ￾￾￾￾￾￾￾￾￾   ￾￾   ￾￾￾￾￾￾￾￾￾ | 1000 points!
+|                |  ￾￾￾￾￾￾￾￾￾  ￾￾  ￾￾￾￾￾￾￾￾￾  |
+|￾     ￾￾￾     ￾ |  ￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾  |
+|￾    ￾￾￾￾￾    ￾ |    ￾￾￾￾￾￾￾  ￾￾  ￾￾￾￾￾￾￾    |
+|￾￾  ￾￾￾￾￾￾￾  ￾￾ |             ￾￾             |
+|￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾ |             ￾￾             |
+| ￾￾￾￾￾￾￾￾￾￾￾￾￾  |             ￾￾             |
+|  ￾￾￾￾￾￾￾￾￾￾￾   |             ￾￾             |
+|   ￾￾  ￾  ￾￾    |             ￾￾             |
+|    ￾  ￾  ￾     |                            |
+|       ￾        |                            |
+|       ￾        |                            |
++————————————————+————————————————————————————+
+
+**************
+ENEMY PATTERNS
+**************
+
+=============
+THE FORMATION
+=============
+
+The GALAGANS fly in a FORMATION and attack by dropping down and either shoot at
+you, crash into you, or beam you up for capture. The boss GALAGA, which is in
+the highest position, is the only GALAGAN capable of using the tractor-beam
+weapon. If the boss GALAGA is destroyed, the remaining GALAGANS attack power is
+temporarily "weakened."
+
+—————————————————
+Formation Diagram
+—————————————————
+
+         G  G  G  G                  G = GALAGA COMMANDERS
+           /                         M = MOTH FIGHTERS
+   M  M  M |M  M  M  M  M            H = HORNET FIGHTERS
+           |                         T = TRANSFORM FIGHTERS
+   M  M  M |M  M  M  M  M            ¤ = YOU (FIGHTER)
+           |
+H  H  H  H |H  H  H  H  H  H
+           |
+H  H /H\ H |H  H  H /H\ H  H
+    /TTT\  |       /TTT\<——TRANSFORM
+          /_\
+         /___\<——TRACTOR BEAM
+        /_____\
+
+<———————————¤  ¤———————————>
+
+*Challenging Stage Formations coming soon!*
+
+=======
+TACTICS
+=======
+
+  E-mail spaceinsectoid@cs.com if you have any tricks I left out.
+
+¤ Before you reach a CHALLENGING STAGE, let a GALAGA COMMANDER beam one of
+  your FIGHTERS up. When it attacks you while carrying your CAPTURED FIGHTER
+  (shown in red), shoot at the GALAGA so that it drops your CAPTURED FIGHTER.
+  Now you have TWO fighters on the same team thus double the firepower. This
+  really helps in the CHALLENGING STAGE.
+
+¤ It's much safer if you attack the GALAGANS on the right or left side of the
+  FORMATION. And if you manage to knock out a lot the GALAGAS before they make
+  it to the formation, then it'll be easier to finish them off.
+
+¤ When you destroy a GALAGAN FIGHTER, you get points. Points scored
+  vary depending on the type of attacks and the condition of the enemy. It
+  may be in the waiting position, an offensive mode, or flying in formation.
+
+¤ If you score 30000 and multiples of 70000, you'll earn additional FIGHTERS
+  to your team.
+
+¤ If the boss GALAGA is destroyed, the remaining GALAGANS attack power is 
+  temporarily weakened.
+
+¤ Fire when the GALAGA COMMANDER is unable to fire missiles (when it's
+  "weakened". When you destroy the boss GALAGA, the other GALAGANS are 
+  temporarily weakened. You should take advantage of this moment and attempt to
+  destroy the remaining GALAGA.
+
+*************************
+CONTRIBUTORS' INFORMATION
+*************************
+
++—————————————————+—————————————————————————+—————————————————————————————————+
+|     FIGHTER     | -Info by Andrew Shultz- |                                 |
+|                 +—————————————————————————+                                 |
+|        ￾        |                                                           |
+|        ￾        | : Certain arcade versions of Galaga can will give you an  |
+|        ￾        |   Extra Fighter at 30000 points, then stop producing 1-ups|
+|       ￾￾￾       |   after 100000 points. Most will give you Extra Fighters  |
+|    ￾  ￾￾￾  ￾    |   at 30000 and every multiple of 70000 pts afterwards.    |
+|    ￾  ￾￾￾  ￾    |                                                           |
+|    ￾ ￾￾￾￾￾ ￾    | : After each Challenging Stage, the number of Galagan     |
+|    ￾ ￾￾￾￾￾ ￾    |   Fighters in each Challenge Formation increases by 2.    |
+| ￾  ￾￾￾￾￾￾￾￾￾  ￾ |                                                           |
+| ￾  ￾￾￾￾￾￾￾￾￾  ￾ | : Different Transform Fighters give different scores in   |
+| ￾ ￾￾￾￾￾￾￾￾￾￾￾ ￾ |   the Arcade Galaga: #1 gives 1000, #2 gives 2000,        |
+| ￾￾￾￾￾￾￾￾￾￾￾￾￾￾￾ |   #3 gives 3000... etc.                                   |
+| ￾￾￾ ￾￾￾￾￾￾￾ ￾￾￾ |                                                           |
+| ￾￾  ￾￾ ￾ ￾￾  ￾￾ | : 50 (normal hit) points per Hornet Fighter, 80 points    |
+| ￾      ￾      ￾ |   (normal hit) per Moth Fighter, 150/400/800/1600 points  |
+| ￾      ￾      ￾ |   for Galaga Commanders, depending on condition (see 3rd  |
+|                 |   paragraph of "Tactics Section" for details).            |
++—————————————————+                                                           |
+|                 | : You get up to 3000 for clearing a wave of 8 enemies in  |
+|                 |   the challenging stage.  It starts at 1000 and sometimes |
+|                 |   moves up in increments of 500.                          |
++—————————————————+———————————————————————————————————————————————————————————+
+
++—————————————————————————————————————————————————————————————————————————————+
+|Henrygab@hotmail.com (Henry Gabryjelski) suggested I include this neat trick:|
++—————————————————————————————————————————————————————————————————————————————+
+|"There is one very important FAQ left out, which allowed me to play for over |
+|8 hours on one quarter, flipping the machine a few times:                    |
+|                                                                             |
+| A [computer] bug in the arcade game allows for you to cause the enemy to    |
+| stop shooting missiles.  In order to have this occur, you must do the       |
+| following:                                                                  |
+|                                                                             |
+| 1) On the very first level, allow the two leftmost Hornet Fighters to       |
+|    survive.                                                                 |
+| 2) Kill all other Fighters.  (Do not allow one to be captured, since it will|
+|    make the next part difficult)                                            |
+| 3) Those two Hornets will continue to drop down and missile the left side of|
+|    the screen.  Let them.                                                   |
+| 4) Stay on the far right, close to but not touching the edge.               |
+| 5) Watch out for the occasional missile that wraps around the board -- it   |
+|    will kill you.                                                           |
+| 6) Allow the Hornets to do their thing for about 15 minutes.  They will     |
+|    start firing only one missile, then stop firing altogether.              |
+| 7) Let them do this for at least five more loops just to be sure, and no    |
+|    fighter will ever launch another missile at you for the remainder of the |
+|    game."                                                                   |
+|                                                                             |
+| NOTE: This trick only works in the arcade version of Galaga                 |
++—————————————————————————————————————————————————————————————————————————————+
+
+
++—————————————————————————————————————————————————————————————————————————————+
+|ArrowE (ArrowE99@aol.com) with a word of advice:                             |
++—————————————————————————————————————————————————————————————————————————————+
+| "...just hit the buttons really fast..."                                    |
+|                                                                             |
++—————————————————————————————————————————————————————————————————————————————+
+
+*********
+HI-SCORES
+*********
+
+E-mail me (spaceinsectoid@cs.com) your HI-SCORE so I can post them up in this
+FAQ!
+
+-Arcade Version-
+1st  - Steve K.   - hi-score - 15999990
+2nd  - Nick H.    - hi-score - 9857400
+3nd  - JonG829    - hi-score - 8463000
+4nd  - Red Raider - hi-score - 1592930
+5th  - __________ - hi-score - ______
+6th  - __________ - hi-score - ______
+7th  - __________ - hi-score - ______
+8th  - __________ - hi-score - ______
+9th  - __________ - hi-score - ______
+10th - __________ - hi-score - ______
+
+-Unknown-
+1st  - Zero484    - hi-score - 16000000
+2nd  - _________  - hi-score - ______
+3rd  - _________  - hi-score - ______
+4th  - __________ - hi-score - ______
+5th  - __________ - hi-score - ______
+6th  - __________ - hi-score - ______
+7th  - __________ - hi-score - ______
+8th  - __________ - hi-score - ______
+9th  - __________ - hi-score - ______
+10th - __________ - hi-score - ______
+
++—————————————————————————————————————————————————————————————————————————————+
+|Here's Steve Krogman's Galaga arcade score. A "World Record," actually.      |
+|Congratulations!                                                             |
++—————————————————————————————————————————————————————————————————————————————+
+
+Arcade Version:  ORIGINAL Version, without any glitches used at all.
+
+Score:         15,999,990
+Stage:         1,200+
+Time:          9 hours
+Date:          June 1990
+Location:      Grand Prix Race O Rame in Dania Beach Florida
+World Record:  Yes.  According to www.twingalaxies.com
+
+Steve Krogman
+www.twingalaxies.com
+
+**************
+SPECIAL THANKS
+**************
+
+Andrew Schultz   Henry Gabryjelski   ArrowE   Steve Krogman   Zero484
+
+Christopher Duke (The Red Raider)   GameFAQs   Namco   Bandai   GamesDomain
+
+JonG829   Nick H.
+
+To everyone on the GameFAQs message boards, especially those who go on the 
+CURRENT EVENTS and RANDOM INSANITY regularly.
+
+*********************
+COPYRIGHT INFORMATION
+*********************
+
+Copyright © 2000 Space Bug
+This guide should not be modified in any way, copied, and/or destributed 
+without permission from the author (that would be me, Space Bug). You may make 
+one (1) copy for personal reference ONLY. If you have any questions or comments
+on how I can improve, e-mail spaceinsectoid@cs.com. Keep it clean.
+
+

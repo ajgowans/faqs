@@ -1,0 +1,495 @@
+*******************************************************************************
+Dragon's Lair for Atari Jaguar CD FAQ/Walkthrough
+
+by BHodges
+
+Version  1.0
+Created  06/05/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Background Story
+III.   Getting Started
+IV.    Basic Gameplay
+         A.  Object of the Game
+         B.  Controls
+V.     Walkthrough
+         A.  Overview
+         B.  Level 1
+               1.  Drawbridge
+               2.  End of Corridor
+               3.  Tentacles from Ceiling
+               4.  Snake Room
+               5.  Swinging Ropes of Fire
+               6.  Pool of Water
+         C.  Level 2
+               1.  Bubbling Ooze in Kettle
+               2.  The Goons
+               3.  Sliding Stairs
+               4.  The Smithy
+               5.  Giant Spinning Batons
+         D.  Level 3
+               1.  The Wind Room
+               2.  Closing Wall
+               3.  Room of Fire
+               4.  Metallic Flying Horse
+               5.  Checkered Floor Knight
+         E.  Level 4
+               1.  Haunted Hallway
+               2.  Large Wooden Platforms
+               3.  Bats
+               4.  Falling Platform
+               5.  The Lizard King
+         F.  Level 5
+               1.  Drink Me
+               2.  Checkerboard Corridor
+               3.  Magnetic Ball
+               4.  Rapids/Whirlpools
+               5.  Lava Field of the Mudmen
+         G.  Level 6
+               1.  Phantom Knight
+               2.  Rolling Balls
+               3.  The Round Cage
+               4.  The Dragon's Lair
+VI.    Game Review
+VII.   Special Thanks
+VIII.  Version History
+IX.    Contact Information
+
+*******************************************************************************
+I.  Introduction 
+
+This is a FAQ for the Atari Jaguar CD game Dragon's Lair.  It contains a list
+of controls, a complete walkthrough, and a mini-review.
+
+*******************************************************************************
+II.  Background Story
+
+Here is the background story from the instruction booklet:
+
+You, Dirk the Daring, are on a quest to rescue the fair Princess Daphne who has
+been kidnapped and is being held captive by Singe the Evil Dragon.  To do this
+you must survive a perilous journey and defeat all your adversaries.  Make your
+way through the castle and caverns below by using your controller to move and
+the "B" button to wield your sword.  Beware of your foes as they are numerous!
+
+*******************************************************************************
+III.  Getting Started
+
+Press B at any time during the attract cinema to begin playing the game.
+
+*******************************************************************************
+IV.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Object of the Game
+
+The object of the game is to survive the 30 screens and defeat Singe the dragon
+in order to rescue Princess Daphne.  On each screen you must perform a specific
+sequence of actions in order for Dirk to avoid certain death.
+
+-------------------------------------------------------------------------------
+B.  Controls
+
+Joypad Up    (U)       Move Dirk forwards.  
+Joypad Down  (D)       Move Dirk backwards.
+Joypad Left  (L)       Move Dirk left.
+Joypad Right (R)       Move Dirk right.
+B Button     (S)       Swing Dirk's sword.
+Pause                  Pauses the game.
+
+NOTE:  Be careful when pausing the game, upon resuming play, the scene will
+       automatically reset and you'll have to start from the beginning.
+
+*******************************************************************************
+V.  Walkthrough
+
+-------------------------------------------------------------------------------
+A.  Overview
+
+There are a total of 30 stages across six levels in Dragon's Lair.  For each
+one I have listed the solution (i.e. the sequence of moves you must make) as
+well as timing info.  Whenever you make a move, you will hear either a success
+or failure tone (you'll learn to distinguish these early on!).  Timing is 
+critical, if you make a correct move, and it doesn't register, try it again,
+in most stages there is no penalty for making a move early.  Some stages will
+be "mirrored" so that the left and right moves will have to be reversed.
+
+Dirk starts out with five lives.  Once he loses all his lives, the game is
+over.  You are then given the option to continue.  For some reason, in order
+to continue you must HOLD B for a couple of seconds.  You'll be given five new
+lives and start out on the first stage of your current level. 
+
+One final note, I did NOT come up with these level names, these were the ones
+given in the instruction booklet.  If you think they are lame, it's Don Bluth's
+fault, not mine :p
+
+-------------------------------------------------------------------------------
+B.  Level 1
+
+...............................................................................
+1.  Drawbridge
+
+Solution:  S, U
+
+As Dirk is walking across the drawbridge, the rotting wood will give way and
+he'll fall through.  Swing your SWORD at the tentacles, then quickly press UP
+to climb up to safety.
+
+...............................................................................
+2.  End of Corridor
+
+Solution:  R
+
+Dirk will be standing in front of three doors.  Suddenly the room will start
+to collapse.  When the door on the right flashes, press RIGHT.
+
+...............................................................................
+3.  Tentacles from Ceiling
+
+Solution:  S, U, R, D, L, U
+
+As soon as the tentacles drop from the ceiling, swing your SWORD.  The weapons
+rack in the back of the room will then flash, press UP to move towards them.
+When the door flashes, press RIGHT to go towards it.  Once the stairs flash,
+press DOWN to begin climbing.  More tentacles will drop down and the table
+will flash, press LEFT to jump on the table.  The door will start to open and
+close, when it opens for the second time, quickly press UP to exit the room.
+
+...............................................................................
+4.  Snake Room  
+
+Solution:  S, S, R
+
+A snake will drop from the ceiling, kill it with your SWORD.  A second snake
+will appear, dispatch that one with your SWORD as well.  When the rope with
+the skull flashes, press RIGHT to climb the rope.
+
+...............................................................................
+5.  Swinging Ropes of Fire
+
+Solution:  L, L, L, L, S
+
+Dirk will be standing on a platform that will suddenly recede into the wall,
+press LEFT to jump onto the rope.  Once you swing over to the next rope, press
+LEFT to switch ropes.  Once you reach the third rope, press LEFT again.  When
+you reach the platform, press LEFT to hop off and quickly grab your SWORD so
+you don't lose your balance.
+
+NOTE:  Sometimes this room will be mirrored, in that case, change all the
+       lefts to rights.
+
+...............................................................................
+6.  Pool of Water
+
+Solution:  R, U, L, U, R, U, S, U
+
+When the floor begins to crumble press RIGHT.  Press UP to duck under the 
+spears coming from the wall.  When the floor starts to crumble, press LEFT to 
+escape.  Press UP to jump in the pool.  Once inside the pool. press RIGHT to 
+climb out.  Immediately move UP to avoid the falling debris.  When the spider 
+appears, kill it with your SWORD.  Press UP to make it through the door before
+being squished by the blocks.
+
+
+NOTE:  Sometimes this room will be mirrored, in that case, change all the
+       rights to lefts and vice versa.
+
+------------------------------------------------------------------------------
+C.  Level 2
+
+...............................................................................
+1.  Bubbling Ooze in Kettle
+
+Solution:  U, S, S, R
+
+Press UP to dodge the boiling liquid.  After Dirk, picks up the vial, a monster
+will pop out, kill it with your SWORD.  Another monster will appear from the
+cauldron, kill that one with your SWORD as well.  Escape the room by pressing
+RIGHT to run to the door.
+
+...............................................................................
+2.  The Goons
+
+Solution:  S, R, U, S
+
+As soon as the purple goons appears, slay it with your SWORD.  When the next
+two appear, press RIGHT to move to the stairs, then UP to climb them.  When
+the next two goons appear, take them out with your SWORD.
+
+...............................................................................
+3.  Sliding Stairs
+
+Solution:  L, S, L, L
+
+When you descend the stairs, they'll turn into a slide, press LEFT to avoid
+falling into the pit.  When you reach the bottom, use your SWORD on the
+tentacles.  When the next set of tentacles appears, press LEFT to escape.
+Press LEFT again to escape through the hatch.
+
+...............................................................................
+4.  The Smithy
+
+Solution:  S, S, S, R, S, S
+
+As soon as you see the flaming sword, press SWORD to draw your weapon.  As
+the sword is flying towards you, press SWORD to deflect it.  Use your SWORD to
+deflect the flying mace as well.  When the anvil appears, press RIGHT to
+dodge it.  Use your SWORD to deflect the spear.  After climbing the stairs, 
+use your SWORD to slay the monster.
+
+...............................................................................
+5.  Giant Spinning Batons
+
+Solution:  U, U, S, D, U
+
+Dirk will slowly approach the spinning batons.  Press UP when he crouches to
+safely make it past them.  Press UP to jump towards the reaper, then use your
+SWORD to slay him.  Press DOWN to avoid the thorns then UP to exit through the
+door.
+
+-------------------------------------------------------------------------------
+D.  Level 3
+
+...............................................................................
+1.  The Wind Room
+
+Solution:  R
+
+You'll see Princess Daphne screaming for help.  When Dirk reaches the door, a
+powerful wind will blow it open.  As soon as you see the door on your right
+flash, press RIGHT to exit the room.
+
+...............................................................................
+2.  Closing Wall
+
+Solution:  U
+
+A wall will magically begin to build.  Press UP when you see the door flash.
+
+...............................................................................
+3.  Room of Fire
+
+Solution:  R, U, L, L
+
+You need to dodge the fire by pressing RIGHT, UP, then LEFT.  When you see the
+bench flash, press LEFT to move it and uncover the exit.
+
+...............................................................................
+4.  Metallic Flying Horse
+
+Solution:  L, R, L, R, R, R
+
+Dirk will climb onto the horse.  When you see the flames dodge to the LEFT,
+then RIGHT, then LEFT then RIGHT.  Press RIGHT to dodge the solid wall then
+RIGHT again to dodge the flames.  Dirk will then automatically exit the room.
+
+...............................................................................
+5.  Checkered Floor Knight
+
+Solution:  L, R, U, R, L, R, L, S, S
+
+You'll see Daphne again, then a knight will appear.  To avoid the electricity
+you need to dodge LEFT, RIGHT, UP, RIGHT, LEFT, RIGHT, LEFT.  When you reach
+the knight.  Press SWORD to draw your weapon, then press SWORD again to
+dispatch your foe.
+
+-------------------------------------------------------------------------------
+E.  Level 4
+
+...............................................................................
+1.  Haunted Hallway
+
+Solution:  U, S, U, S, R, S
+
+When the bones appear, press UP to dodge.  Use your SWORD on the giant hand,
+then press UP again to dodge the bones.  When the next hand appears, use your
+SWORD then press RIGHT to escape the black goo.  Use your SWORD on the wraiths.
+
+...............................................................................
+2.  Large Wooden Platforms
+
+Solution:  U, U, D, S, R
+
+When the platform crumbles press UP.  Press UP again as the next section
+crumbles.  Press DOWN to duck under the bats then use your SWORD to scare them
+off.  Press RIGHT to escape up the rope.
+
+...............................................................................
+3.  Bats
+
+Solution:  S, L, L, S, L
+
+Use your SWORD on the bats, then press LEFT to descend the stairs.  Press LEFT
+when you see the flash to jump over the gap.  Use your SWORD on the giant bat,
+then press LEFT to escape through the door.
+
+...............................................................................
+4.  Falling Platform
+
+Solution:  R
+
+Press RIGHT to jump onto the ledge.
+
+...............................................................................
+5.  The Lizard King
+
+Solution:  L, R, R, R, R, R, U, S, L, R, D, S
+
+Your sword will be magnetically drawn to the pot of gold.  Follow the pot
+by pressing LEFT, RIGHT, RIGHT, RIGHT, RIGHT, RIGHT.  Once the pot stops,
+press UP to grab your weapon, then use your SWORD.  Dodge the lizard king's
+attacks by pressing LEFT, RIGHT, DOWN.  Finish him off with your SWORD.
+
+-------------------------------------------------------------------------------
+F.  Level 5
+
+...............................................................................
+1.  Drink Me
+
+Solution:  R
+
+You'll see a potion and a flashing sign that says "Drink Me".  Ignore the
+potion and press RIGHT when you see the door flash to exit the room.
+
+...............................................................................
+2.  Checkerboard Corridor
+
+Solution:  D, U, L
+
+Press DOWN when the floor starts to disappear, then press UP.  When you see
+the
+doors flash, press LEFT to escape.
+
+...............................................................................
+3.  Magnetic Ball
+
+Solution:  R, U, R, R
+
+The ball will steal your helmet and sword.  Press RIGHT, UP, RIGHT to avoid
+the electricity.  As you are sitting in the throne, your gear will be returned
+and the chair will swivel into another room.  Press RIGHT to escape.
+
+...............................................................................
+4.  Rapids/Whirlpools
+
+Solution:  L, R, L, R, U, U, U, U, R, L, R, L, R
+
+You'll see a sign warning of boulders.  Press LEFT, RIGHT, LEFT, RIGHT to
+avoid them.  You'll then see a sign warning of rapids.  To survive, press UP,
+UP, UP, UP.  There will then be a sign warning of whirlpools.  Press RIGHT,
+LEFT, RIGHT, LEFT to avoid them.  When Dirk crashes and goes flying into the
+air, press RIGHT to grab the chain and climb to safety.
+
+...............................................................................
+5.  Lava Field of the Mudmen
+
+Solution:  S, U, U, U, U, U, U, U, U
+
+Use your SWORD on the mudmen.  Since that doesn't work, you'll have to escape
+by pressing UP, UP, UP, UP, UP, UP, UP, UP to jump over the geysers and
+escape.
+
+-------------------------------------------------------------------------------
+G.  Level 6
+
+...............................................................................
+1.  Phantom Knight
+
+Solution:  L, L, R
+
+Dodge the knight's attacks by pressing LEFT, LEFT, RIGHT.
+
+...............................................................................
+2.  Rolling Balls
+
+Solution:  D, D, D, D, D, D, U
+
+Wait for the yellow ball to go past then press DOWN.  Then wait for the red
+ball to go by before pressing DOWN.  After the blue ball goes by, press DOWN.
+After the green ball goes by press DOWN.  Wait for the orange ball to go by
+before pressing down.  As soon as the purple ball goes by, press DOWN then
+press UP to jump the gap and escape.
+
+...............................................................................
+3.  The Round Cage
+
+Solution:  U, U, U, L
+
+Press UP, UP, UP, then LEFT to make it safely through the room.
+
+...............................................................................
+4.  The Dragon's Lair
+
+Solution:  U, L, L, D, D, D, L, U, D, R, S, S, L, S
+
+Press UP when you see the flash to stop the stack from falling over.  Press
+LEFT to hop over to the next platform, then press LEFT to dodge Singe's fire.
+Press DOWN when you see the flash to catch the stack.
+
+While behind the pillar, press DOWN, DOWN, LEFT to avoid Singe's claws.
+
+Press UP then DOWN to avoid Singe's attacks.  When you see the pillar flash,
+press RIGHT.
+
+Press SWORD to grab the magic sword, then SWORD again to block Singe's flames.
+Press LEFT to avoid Singe's tail, then slay him with the SWORD.
+
+*******************************************************************************
+VI.  Game Review
+
+Dragon's Lair revolutionized the arcade industry when it was released in the
+early 1980's and this is a faithful port.  Dragon's Lair is really an
+interactive cartoon where you must choose the correct action for a particular
+situation to save Dirk from certain death.  This game is a must own for any
+fan of the Jaguar CD.
+
+Pros
+
++  An excellent port of the arcade classic!
++  Graphics are still gorgeous even after all these years.
+
+
+Cons
+
+-  Gameplay is more about memorization than skills.
+
+*******************************************************************************
+VII.  Special Thanks
+
+Special Thanks go to Lafe Travis for his awesome Dragon's Lair FAQ.  It was
+especially helpful in completing the Lizard King and Dragon's Lair stages!
+
+*******************************************************************************
+VIII.  Version History
+
+1.0  06/05/09   Created FAQ.
+
+*******************************************************************************
+IX.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+
+
+
+End
+

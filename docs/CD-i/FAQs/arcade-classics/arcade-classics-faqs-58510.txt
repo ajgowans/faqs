@@ -1,0 +1,202 @@
+*******************************************************************************
+Galaxian for Atari 8-bit Computers FAQ
+
+by BHodges
+
+Version  1.0
+Created  12/13/09
+
+This document Copyright 2009 by Brian Hodges.  It may not be placed on any
+web site or otherwise distributed publicly without advance written permission. 
+
+Use of this guide on any other web site or as a part of any public display is 
+strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Getting Started
+III.   Gameplay
+         A.  Controls
+         B.  Basic Gameplay
+         C.  Strategies
+IV.    Enemies/Scoring
+         A.  Drones (Blue)
+         B.  Emissaries (Purple)
+         C.  Hornets (Red)
+         D.  Commanders (Yellow)
+V.     My Top Score
+VI.    Game Review
+VII.   Version History
+VIII.  Contact Information
+
+*******************************************************************************
+I.     Introduction
+
+This is a FAQ for the Atari 8-bit Computer game Galaxian.  It contains
+information on how to play the game and a mini-review.
+
+*******************************************************************************
+II.    Getting Started
+
+While on the Title Screen, press the OPTION key to toggle between a one/two
+player game.  
+
+Use the SELECT key to choose the difficulty level (0-9 or B).  The higher the 
+number, the harder the game.  In the Beginner level (B), the enemies will not
+shoot back until Wave 17.
+
+When you are ready to play, press START.
+
+*******************************************************************************
+III.   Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Joystick       Move you ship left/right
+Button         Fire (can only fire one shot at a time)
+Spacebar       Pause the game
+OPTION/SELECT  Quit your game and return to the Title Screen
+
+-------------------------------------------------------------------------------
+B.  Basic Gameplay
+
+The object of the game is to shoot as many enemies as possible.  You can only
+fire a single shot at a time.  Being shot or colliding with an enemy will cost
+you a life, lose all of your lives and your game is over.
+
+The game is broken up into waves.  Each wave starts with four rows of enemies
+at the top of the screen.  The enemies will then begin divebombing towards the
+bottom of the screen, if they make it all the way to the bottom, they'll
+reappear at the top of the screen and return to their original position in
+the formation.  Once there are only a few enemies left, they'll no longer
+rejoin their formation and will instead continuously attack.  If you manage
+to destroy all the enemies, you'll move onto the next wave.
+
+-------------------------------------------------------------------------------
+C.  Strategies
+
+-  You will earn an extra life when you score 5,000 points.
+
+-  I like to clear the enemies on the far right first, then make my way left.
+   That way I can dart left, pop off a few shots, then dart right to safety.
+
+-  Shooting Commanders (yellow enemies) while they are attacking will cause the
+   rest of the enemies to cease firing for a short while.
+
+-  If an enemy comes in contact with your missile while it is still attached
+   to your ship, it will be destroyed as if you shot it.
+
+-  To get really good, bump up the difficulty to 9 and play for a while.  When
+   you go back to the lower difficulty levels, the enemies will seem like they
+   are moving in slow motion!
+
+-  Game B (Beginner Mode) is perfect for little ones who want to play.
+
+*******************************************************************************
+IV.    Enemies/Scoring
+
+-------------------------------------------------------------------------------
+A.  Drones (Blue)
+
+Drones are the blue enemies that occupy the first two rows of the Galaxian
+formation.
+
+Stationary  30 pts
+In Flight   60 pts
+
+-------------------------------------------------------------------------------
+B.  Emissaries (Purple)
+
+Emissaries are the purple enemies that occupy the third row.
+
+Stationary  40 pts
+In Flight   80 pts
+
+-------------------------------------------------------------------------------
+C.  Hornets (Red)
+
+Hornets are the red enemies that occupy the fourth row.
+
+Stationary   50 pts
+In Flight   100 pts
+
+-------------------------------------------------------------------------------
+D.  Commanders (Yellow)
+
+Commanders are the yellow enemies that occupy the top row.  Commanders will
+usually attack with two Hornets acting as escorts.  Shooting a Commander in
+flight will cause the other enemies to cease fire for a short time.
+
+Stationary   60 points
+In Flight   150 points
+
+You will earn extra points for shooting a Commander that has escorts.
+
+1 Escort            200 points
+2 Escorts           300 points
+Shoot both escorts 
+then the Commander  800 points
+
+*******************************************************************************
+V.     My Top Scores
+
+Game B  35,060 points 
+Game 0   9,220 points 
+Game 1   7,580 points 
+Game 2   7,020 points
+Game 3   3,230 points
+Game 4   6,150 points
+Game 5   3,850 points
+Game 6   3,250 points
+Game 7   5,530 points
+Game 8   3,330 points
+Game 9   2,960 points 
+
+*******************************************************************************
+VI.    Game Review
+
+Galaxian may have been overshadowed by its much more successful sequel, Galaga,
+but it is an incredible game in its own right.  Not only was it the first true
+RGB arcade game, it was one of the first games where strategy could be used.
+Due to the fact that you could only fire one shot at a time, you couldn't just
+fire blindly, but needed to aim at your target.  Waiting until an enemy began
+attacking before firing yields bonus points, and taking down a Commander in
+mid-attack would cause the rest of the enemies to cease fire for a short while.
+
+The Atari 8-bit version of Galaxian is a fantastic port and a must-own for any
+fan of the Atari 8-bit Computer platform.  Now if only Atari had released a
+port of Galaga...
+
+Pros
+
++  Excellent port of the arcade classic.
++  Great graphics.
++  Challenging.
+
+Cons
+
+-  The sound effects are annoying.
+
+*******************************************************************************
+VII.   Version History
+
+1.0   12/13/09   Completed FAQ.
+
+*******************************************************************************
+VIII.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+End

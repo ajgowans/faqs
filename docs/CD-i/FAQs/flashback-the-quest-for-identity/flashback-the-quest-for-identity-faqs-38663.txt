@@ -1,0 +1,1762 @@
+
+Walkthrough for Flashback: The Quest for Identity (SNES version)
+by Mike Jenista
+mjenista@math.duke.edu
+August 2005
+Version 1.00
+
+
+
+Contents
+--------
+
+I. Introduction
+II. Controls
+III. Conrad's Moves
+IV. Items and Objects
+V. Enemies
+VI. Walkthrough
+VII. Passwords
+VIII. Legal Mumbo-Jumbo
+
+
+
+I. Introduction
+---------------
+
+Flashback is an excellent game among other such greats as Blackthorne and 
+Oddworld.  One of the particularly good features is the graphical achievement
+in both animation and background, not to mention the great ambience in general.
+
+You don't know who you are, but you are in danger!  After a nearly fatal chase,
+you find yourself alone in the deep jungles of Titan, a moon of Saturn.  In 
+your quest for identity (get it?), you will discover not only how you came to 
+your present circumstances, but also the sinister plot that threatens Earth!
+
+I will of course spoil all the surprises in this walkthrough, starting with 
+your name: Conrad.  I simply can not go through this whole guide without using
+the main character's name!
+
+
+
+II. Controls
+------------
+
+The basic controls are not too difficult to master, but they do require a
+degree of patience.  Don't start mashing the buttons in panic because Conrad
+will most likely do something you did not intend, and then you lose precious
+seconds while he goes through the animation.
+
+Left/Right: move left and right, which can be walking, running, sneaking, or
+	rolling depending on Conrad's stance (although if you begin running, 
+	you can actually let go of the directional pad without stopping, so 
+	long as you hold down Y).
+
+Up: stand up, jump (hold to climb up a ledge), activate elevator up (with Y).
+
+Down: crouch, climb down (with Y), let go of ledge, activate elevator down
+	(with Y).
+
+Y: A versatile button!  When your gun is drawn, this is the button you use to
+	fire, but when your gun is concealed, the Y button is used to talk, run
+	(hold it down while walking), activate various environment elements, 
+	and if you hold down Y and press Up, Conrad will do a small forward
+	leap (GREAT move).  Also, if you see an item on the ground, press Y to
+	pick it up.  Lastly, if you want to climb down a ledge, hold Y on the
+	very edge and press down.  HOLD Y if you don't want to drop right away!
+
+B: use selected inventory item.
+
+A: draw or conceal gun.
+
+Select: open/close inventory screen.
+
+Start: skip animation sequences.
+
+
+
+III. Conrad's Moves
+-------------------
+
+This is a list of the various moves you can perform and how to do them.
+
+Running Jump: While running, press Up.  This will NEVER have the same effect as
+	the running leap!  In short, you can not use this move to make up for a 
+	lack of running space to perform the Running Leap.  However, you can
+	grab ledges as Conrad falls after a running jump.
+
+Running Leap: If Conrad has enough room to get up to speed, he will
+	automatically perform a leap towards the first ledge he comes to, and
+	he will hang on.  Usually you want to climb up after this, but if you
+        hesitate, Conrad will let go.  If you are running and you see a ledge
+	that you DO NOT want to leap for, simply hold down the directional pad
+	in the direction you are going.  This will suppress Conrad's urge to
+	leap.
+
+Running Roll: While running, press Down.  There is a particular point during
+	this move where Conrad can fit under low passages.  You should know
+	the timing well for a few parts of the game.  The key to this move is
+	to keep holding Y the whole time so that you come out of it running.
+
+Hop: Hold Y and press Up to hop forward four spaces.  This is great for
+	avoiding various floor hazards or passing small gaps.
+
+Gun Crouch: If Conrad has his gun out, he can stay crouched by simply pressing
+	Down (press Up to get up again, duh...).
+
+Gun Roll: From Gun Crouch, press Left or Right to roll and end up still ready
+	for action!  Note that if you roll off a ledge, Conrad will stand up
+	and then redraw his gun, wasting lots of time.  A great move is to
+	stand just far enough from the edge of the screen that a roll will take
+	Conrad to the very edge of the next screen.  This means you will get
+	a fast shot in before anything happens.  This only works if you have
+	enough room though.
+
+Gun Sneak: When your gun is drawn, press Left or Right to sneak.  Not any 
+	different from walking other than that your gun is out.  Press Y to 
+	get ready to shoot again (you won't shoot right away).
+
+"The Drop": When your gun is drawn, sneak off of a ledge.  Conrad will land 
+	with his gun ready in the crouch position, making this a GREAT move
+	since you can immediately begin to fire.
+
+Notes:  The first is about running.  When you are running, you can actually
+	release the directional pad and remain running.  If you release Y, you
+	will stop, or if you are still holding the directional pad, Conrad will
+	simply slow down to a walk.
+
+	Another note is about hanging from ledges.  As long as you hold Y,
+	Conrad will not fall, and you can press Up or Down to let go or climb
+	up.  This will come in handy if you want to hang down onto a new screen
+	or tease an enemy without wasting time by jumping back up (or falling
+	too far to jump back up at all!)
+
+	Also, when you need to perform some kind of jump and you want to have
+	your gun out as soon as possible after the jump, press A during the
+	animation of Conrad recoiling and he will immediately draw his gun
+	when finished recoiling.  Several moves can actually be performed this
+	way one after the other, but don't try to "chain" a bunch or you will
+	probably end up ordering Conrad to do something you didn't want to do.
+	I usually only use this to draw my gun as fast as possible after
+	falling or climbing up or whatever.
+
+	The last note is that when Conrad is performing a move, he can be
+	invulnerable.  In particular, climbing up, standing/crouching, and
+	drawing your weapon can prevent Conrad from being hit.  Use this
+	experimentally in tough situations to see if you can figure out a good
+	sequence.
+
+
+
+IV. Items and Objects
+---------------------
+
+To use the selected item, press B.  To put items down instead of throwing them,
+crouch and press B (if the item is throwable at all).  Also, if you need to 
+give an item to someone, select it, stand next to the person and press B.  The
+same goes for using an item on an object, such as a key in a key slot.
+
+
+Items
+
+Holocube - This item will play a small message that Conrad recorded for himself
+	before he lost his memory.  Watch the message to learn about your friend
+	Ian and New Washington.
+
+Stone - Stones can be thrown or dropped and are usually used for tripping 
+	distant tripbeams or activating autoguns.
+
+Key - Keys are used in a Key Slot to open a door or floor or whatever.
+
+ID Card - Use this in a Card Slot to open a door or something similar.
+
+Tele Control - When you get your own later in the game (the one on Titan is 
+	not usable without the telereceiver) you use this to teleport to 
+	wherever your telereceiver is.
+
+Telereceiver - Throw your telereceiver or drop it so you can teleport to that
+	spot.  This gets you down long drops, across hazards, or back to a point
+	you can no longer reach.  REMEMBER TO PICK IT UP AFTER YOU TELEPORT!
+
+Magnetic Cartridge - Charge it and use it in a Cartridge Slot.
+
+Credits - Collect these for various uses.  Mostly to trade for other items.
+
+Papers - You need to buy these and use them to pass through certain points.
+
+Gun - This is your gun.  You don't need to select it to use it, but you will 
+	 lose it once so you need to pick it back up.
+
+Shields - You have four of these.  Each time you take a hit, you lose a shield.
+	You can recharge them in an Energy Generator (select shields and use
+	them on an Energy Generator), but you can never get more than four.
+
+Force Field - When you press B, a force field will appear in front of Conrad.
+	It is only temporary, though, so have a plan of attack all ready to go.
+	This field will stop bullets and alien weapons, but enemies can walk
+	through it, so don't try to stop flybots or stunbots with this.  Most
+	enemies have a very predictable firing pattern, so you can time your
+	force field accordingly.
+	As a bonus, if enemies are in front and behind, TWO force fields will
+	pop up, one behind and one in front.
+
+Mechanical Mouse - There are two versions of this.  There is the one that will
+	not explode if you try to pick it up (it is moving and will trigger an
+	"item bubble" when it passes Conrad, so you know you can pick it up)
+	which you can also put back down for your own use. 
+	The second is a stationary one that you can pick up, but once you put
+	it down again, it will start roaming and blow up when it touches 	
+	an enemy, OR YOU.  I don't like using these exploding ones, but the 
+	other one is fine.
+
+Atomic Charge - In the final stages, you receive this.  You use it to blow up
+	the alien homeworld, yeeha!
+
+Diary - Read this to gain info on the alien homeworld's defenses.
+
+
+Objects
+
+Key Slot / Card Reader / Switch - These all do the same thing, which is open
+	something when you activate them.  Switches you just press with Y, but
+	you needs keys and ID cards to use the others.  Switches also sometimes
+	deactivate things or activate them.
+
+Energy Generator - Put shields in these to recharge them.  You also need to 
+	recharge a couple other items in these.
+
+Save Point - Press Y to save.  You won't get a new code, but if you die you can
+	continue back at the save point.  Good news?  Infinite continues.  Bad
+	news?  You'll probably need that many for some parts.  I recommend 
+	backtracking to save points often, ESPECIALLY on later levels.
+
+Tripbeams and Sensors - These activate things, either permanently or as long as
+	something is tripping the beam.  They make little beeping sounds when
+	they are being tripped.  They constitute basically 90% of the puzzles
+	in this game.
+
+Lifts - Press Y and then Up or Down to activate the lift up or down.  Sometimes
+	you need to activate the lift to get it out of your way though.  I also
+	recommend drawing your weapon and crouching if the lift is going to take
+	you to a new screen (you need to activate the lift first, then quickly
+	draw and crouch).
+
+There are a number of very specific items that you need to pick up and give to
+someone in the New Washington level, so I won't bother to mention them here.  
+See the Walkthrough section for details.
+
+
+
+V. Enemies
+----------
+
+There are a few ways to harm enemies.  First and foremost there is the gun, 
+	with which you should always lay waste.  However, if an enemy is very
+	close, Conrad will try to pistol whip him instead of shoot, unless he
+	is crouching.  Conrad will try to shoot if he is crouching.  The pistol
+	whip works okay, but it takes a lot longer to perform than a shot, and
+	so if you miss, you're bound to get hit by return fire.  I would only
+	advise using this move in a few situations that I outline in the
+	walkthrough.
+	The final way to damage enemies is through trickery, say by leading
+	them into bombs or tricking them into hitting each other (this can be
+	quite easy with dumber enemies like flybots and flashmen).  In the
+	walkthrough I mention a few places where this is the easiest tactic.
+
+
+Stunbots: These are little pods on treads that will deploy a little arm to 
+	stun you.  The arm can't hit you if you are standing in the same space,
+	but the stunbot will sense this and blow itself up.  You can only hit
+	them from a crouched position, and only when their arm is deployed. 
+	Wait for it to come out and then blast it off.
+
+Flybot: A floating sphere that shoots a little jolt of electricity when it gets
+	close.  It can only fly at a head level, so if Conrad crouches, he can
+	escape a flybot.  They usually take several hits to kill, but each hit
+	will stop one in its tracks.  If you get the timing right, you can get
+	the next shot in before the flybot starts moving again.
+	I should warn you that flybots are dumb and smart.  They are dumb in
+	that they are heat seekers, so you can easily lead them around and
+	get your hits in, AND if you are standing in the same space as a flybot
+	it can not hit you and WILL NOT MOVE.  From here, you can simply pistol
+	whip the crap out of it (it won't look like you're hitting, but you
+	are).  However, they are smart in that if you crouch, they will not 
+	hover directly over you but rather to one side so you can not just 
+	stand up and hit it.
+
+Mutants: Mutants look like cavemen, but with laser rifles.  They are stupid
+	(which means they will shoot each other if you duck under their shot)
+	and pretty weak.  Only a few mutants in the game take more than one
+	shot.  On Expert mode, they actually are much smarter and won't shoot
+	each other as easily.
+
+Flashman: A pretty cool enemy.  Flashmen stalk around and carry a gun like 
+	Conrad's, but when you hit one, he will activate his belt and flash
+	a distance away to try and surprise Conrad (they also flash over pits
+	sometimes).  This is not really a concern though; after you hit one,
+	observe the direction he is going to flash in (the way he is facing), 
+	then point your gun in that direction.  If you think he will flash very
+	close to Conrad (the distance of the flash is always the same), then
+	roll in the opposite direction of the flash, turn, and shoot.  Never
+	hesitate to get in position for your next shot because flashmen ALWAYS
+	flash after a hit.  You have plenty of time to get ready to shoot them
+	without waiting to see where they end up.  The number of hits varies,
+	but is usually two or three on Normal difficulty, and something on the
+	order of four to eight for Expert.
+	The thing to remember about flashmen is that if you shoot them and they
+	fall off to a lower level, they will 'play dead.'  Leave them there if
+	it will help you to fight other enemies, but don't be fooled by their
+	little game.  They're not dead until they disappear in a flash (another
+	reason I call them flashmen).
+	Given the various context clues of the game, I am pretty sure that
+	flashmen are some kind of cyborg... but I think flashman conveys the
+	sense of flashiness they have, so I'm calling them flashmen.
+
+Police: The cops in this game have small shields and jet packs.  What they do
+	is jet up and away, then they shoot down at you from an angle.  They
+	don't miss!  If you know the timing really well, you will be able to 
+	block their shot easily with your force field, then hit them on their
+	way back down.  They are really not very smart, but if you use your
+	force field at the wrong time, they will hit you.
+	Don't bother shooting as they jet up, that's when they activate their
+	shield to block your shots.
+	Also, they will try to stalk you down and fire, so always get in the
+	first shot so you can start the rhythm going.
+
+Aliens: The toughest enemy by a long shot.  They can hit you in two ways.  First
+	is their disc or whatever it is they throw at you.  This will hit you,
+	but they have to crouch to hit you when crouched, which works to your
+	advantage.  The second way they hit is in their glob form.  If they 
+	morph (and sometimes even when just globbing past) while next to Conrad
+	they will damage him.  The key to these guys is to always stay crouched
+	and roll around until you get a good distance between Conrad and the
+	alien as they morph up and get ready to shoot.  When they start morphing
+	up, they will have to also then crouch to be able to hit you, and you
+	have plenty of time to get ready BUT you can not hit them while they
+	are going through the motion of crouching.
+	A note of caution is that aliens can also travel on the ceiling.  This 
+	does not mean that you should only try to fight aliens in tall passages
+	where they can not do this because they never unmorph while on the
+	ceiling, and they can waste lots of time up there.  Also, they usually
+	do unmorph once they hit the ground, which means that if you let an 
+	alien drop down at you, then roll away as he unmorphs, you will be able
+	to easily turn and shoot as he becomes vulnerable.  
+	The really bad news about aliens is that they usually come in large
+	groups or in close quarters.  It can be difficult and frustrating to get
+	in good shots, but wise use of your force field and some luck should
+	prevail in the end.
+
+Roborat: A little exploding mouse that meanders back and forth across a stretch
+	of floor.  They explode when you walk on them, but rolling over them
+	can sometimes work.  
+
+Space Cayote: I call them this because they are hideous and awkward, and deserve
+	such a name.  There are only two or three of these in the entire game 
+	anyway, and they are relatively easy.  Just shoot them.  They might get
+	you once because they are quick, but you should easily waste them.  They
+	are only found on the alien homeworld, and always take one hit.
+
+Bombs: These are placed on the ground and the ceiling.  On the ceiling, they
+	will drop and explode as you get close.  They can be easily avoided
+	and in some cases even safely detonated.  Just try not to run onto new
+	screens too much as bombs are placed on the edges of screens for just
+	this purpose.
+
+Sentry Guns: A sentry gun will lower and fire whenever its sensor is tripped.
+	You can duck and roll under them, and they are invincible.
+
+The Green Death: There are these bubbly green mists all over the place that will
+	kill Conrad with a neat little movie which I call The Green Death.  You
+	should always avoid these, but there are a few that can be run over or
+	jumped through without dying, and I will note them in the walkthrough.
+	Usually, you just have to find the switch or tripbeam that turns them 
+	off.
+
+Flash Mines: These are little green flashy spots on the floor.  If Conrad
+	lingers on these, he flashes into oblivion.  Don't linger on them!  You
+	can run over them or hop over them easily.
+
+Eyeball: These are non-lethal and I am pretty sure you can't kill them... they
+	just act as tripbeams for sentry guns and such.
+
+
+There are a few areas with many enemies or special circumstances that require
+particular strategies for victory, but I will leave those strategies to the
+walkthrough section where they belong.
+
+
+
+VI. Walkthrough
+---------------
+
+This walkthrough has the Expert Difficulty in mind, so if you are playing on a
+lower difficulty, there may be fewer enemies and they will take less hits to
+kill.  Other than that, everything is the same.
+
+Also, my maps are not precise.  They are pretty decent, but you should only
+use them to get a sense of where things are and what's coming up, NOT to judge
+actual distances or anything.
+
+Here is a key to the maps:
+
+S = save point
+E = energy generator
+i = switch, key slot, or other console
+s = stone
+k = key
+] = door
+
+##
+==  = a lift; the #'s are the full length of the lift while the == represents
+##    the starting position of the lift itself.
+
+Y = mutants       F = flashmine
+x = stunbots      G = Green Death
+z = flybots       * = sentry gun
+V = flashmen      A = alien
+P = police        b = bomb
+
+Each map will also have its own extra key for specific items.
+
+
+
+Level 1 - Titan Jungle
+
+       A        B        C        D        E        F        
+    ___________________________________                     
+   |      _____   ______  _x_____   __Y|               
+1  |        |__ _____|____   || |____  |                
+   |        | ___  _____x____||  __]__Y|_________________ 
+   |=t   _  |h_   _  |      |s____     |##_________      |        
+2  |##_s_|_   |______|      | _mY]x_ __|==______|____    |        
+   |__==__|_____##___|      |_x______  |_____ __|||||___I| 
+   |  ##        ##                _ ___|_   |_Y_______== |        
+3  |  ##_       ##  __x_    i____ _    |   ___        ##E|         
+   |S_    _____F==F_||||    |||||_____Y____G_________F_F_| 
+   | _______]i__##                       _    _       _ $|        
+4  |__x_i]  | E|__      _i__G___x        * _k *   __   _E|       
+   |Y_  ____|__Y____Y___|||||||||___Y_$____||_$_____Y____| 
+   |  _     ||           __          _E|             
+5  |___   __||   ______O    ______  ___|               
+   |*__YY________|||||||____||||||_____| 
+
+m = magnetic cartridge         I = injured man
+t = teleporter                 O = old man
+
+
+Starting in B1, Conrad wakes up in the Titan Jungle.  Titan is a moon of  
+Saturn, which effectively places Conrad far from Earth.  He knocks the holocube
+away as he awakens.  Drink in the beautiful graphics.
+
+B1 - Climb down to B2.
+B2 - Grab the holocube from between the tripbeam, then climb up and go to C1.
+C1 - You can entice the stunbot to deploy his arm by standing up at the very
+	edge of the ledge.  Quickly crouch and shoot to kill him.  You can
+	either use Running Jump (starting from B1) to jump the pit, or use the
+	middle walkway to use Running Leap.  Get your gun ready and roll onto
+	the next screen.
+D1 - Immediately shoot the mutant across the pit.  Then use The Drop on the 
+	second mutant.  The door here is open because you removed the holocube
+	from the tripbeam in B2.  Jump down.
+D2 - Go left into C2 and grab the stone.  Throw the stone onto the tripbeam on
+	the right side of the screen (stand three spaces from the edge of the
+	top ledge and throw for a direct hit).  Then use The Drop.  I always
+	get hit no matter what I do, but you should have four shields anyway,
+	so you can take a hit or two here without sweating.  When you've kiled
+	the stunbot and the mutant, grab the Magnetic Cartridge which is right
+	where the mutant was standing.  Climb down.
+D3 - Hop over to the middle platforms, climb down to the lower one, then use
+	The Drop from here to kill the mutant.  Proceed right.
+E3 - Ignore the mutant above (you can hit him from the top left platform, but
+	it's hard and not necessary) and just climb over to F3.
+F3 - Hop over the first flashmine to trip the beam.  The lift will lower and 
+	you can climb up to charge the Magnetic Cartridge and recharge your
+	shields if necessary.  Backtrack to C3.
+C3 - Use the Magnetic Cartridge in the slot to extend an energy bridge. Quickly
+	get out your gun and crouch to shoot the stunbot as it deploys its arm.
+B3 - Hop over the flashmine to the lift in the middle.  Take it up to B2 and
+	then go left to A2.
+A2 - If you picked up the stone you used in D2, put it on the tripbeam.  If not,
+	grab the stone in the middle of this screen and use it instead.  This
+	lowers the lift in the upper left, which has the Teleporter on it.
+	Grab it, then pick up the stone to deactivate the tripbeam and take the
+	lift on the bottom of the screen down to A3.
+A3 - You MUST go this way to make sure the lift in B3 stays up.  I suggest 
+	using the save point now, then backtrack your way to F3.
+F3 - Get ready to roll into E3 and blast the mutant.  Go up to E2 when you have
+	killed him.
+E2 - Trip the lower right beam, then hop over the other so that you can climb
+	up to the next floor.  Now trip the right beam to lower the lift so you
+	can take it up to the top.
+F2 - There is an injured man here.  Give him the teleporter, and he will use it
+	to teleport to safety (mutants shot him).  He leaves behind his ID Card
+	so make sure to grab it.  Backtrack to B3 and jump down from the left
+	side to B4.
+B4 - You MUST climb down to the middle ledge rather than walk off it.  Once you
+	are poised above the mutants, use The Drop and take them out.  You may
+	get hit once, but you can use the Energy Generator nearby to make up 
+	for it.  Proceed right.
+C4 - Press the switch to deactivate The Green Death, then hop over the tripbeam
+	so you don't reactivate it.  Get your gun out and roll to the next
+	screen, then immediately roll back.  Then stunbot will come looking for
+	you, so blast him when he does.  
+D4 - Use The Drop on the mutant, then grab the 100 credits on the floor.  Watch
+	out for the acid!
+E4 - Take the key (not a vital item, but it saves you a few seconds), and then
+	the 50 credits on the floor.  Roll onto the next screen and kill the
+	mutant.
+F4 - The remaining credits are up on the top right ledge, 500 of them.  But you
+	will trip the beam to get up there, which activates the sentry guns 
+	at E4.  Backtrack to B4, being careful of those sentry guns.
+B4 - Recharge if needed, then go left to A4 and use the key to open the door.
+A4 - Save in A3 if you want, then use The Drop on the stunbot.  Use the ID
+	Card to open the door and use The Drop to kill the mutant below.  You
+	have to be quick to turn around or he will get you first.  Now CLIMB
+	DOWN from the left side of the pit to A5.
+A5 - Throw one of your stones towards the sensor below to activate the sentry
+	gun and kill the mutants.  Then use The Drop to land crouched and roll
+	to B5.
+B5 - Avoid the acid.
+C5 - Give the Old Man all your credits and he will give you the Anti Gravity
+	Belt.  Now you can jump down the pit to the next level.
+
+
+
+Level 2 - New Washington
+
+(walkthrough after all five area maps for this level)
+
+Asia
+
+       A        B        C        D         
+             __________________________ 
+            |   |             |      | |    
+1           |X=_]C______==_________L_]_|       
+    ________|##||||||||i##==__|||||||||| 
+   |   |  |    |     |    ##  |      
+2  |   |  |    |     |    ##  |        
+   |   |  _______PPI_]__i_##__|   
+   |   |_________    |    ____|         
+3  |              ___|Y_f_|||||           
+   |_____________##__|||||||||| 
+            |||||##|||           
+4           |||_E==|||               
+            ||||||||||  
+
+X = To Tram          f = fuse
+L = Lady             C = checkpoint
+I = Ian
+
+
+
+America
+
+       A        B        C        D        
+    ___________________________________ 
+   |  |||||||||cafe||||||||||||        |         
+1  |                        |||  ##__J_|         
+   |____________W_________==_____==||||| 
+   |  _____S| _V_    |    ##|||
+2  |____  ____|    _V|__  ##__|    
+   |___________z_____|||==|||||
+    (cyborg hideout) |  ##  |||                
+3                    |####ii[ |                
+                     |##||R1|||  
+                     |##      |            
+4                    |==i_____|             
+                     |||tram||| 
+
+J = Jack            R1 = Restricted Area 1
+W = waiter
+
+
+
+Europa
+
+       A        B        C        D        E         
+    ___________________________________   
+   ||||||||||jobcenter cyber    cyber  |                  
+1  |==_iiiii___C___##    tower    tower|                
+   |##__ES_T|||||||==____________##____[________  
+                              |  ##|||||        |      
+2                             |##==ii__[__S_    |        
+                              |##||R3|||_Y  ___Y| 
+                              |##      |        |       
+3                             |==i_____|Y_____  |     
+             _________________|||tram|||Y__k__  | 
+            |__         |   | |||            [__|   
+4           |Y_     b__Y____b_|||  _  __  _Y___Y|       
+            |Y_b_   ||___s______]__]__||________| 
+            |||*____________  |              
+5           |Y_____  |  | ____|              
+            |_________  |_P_$k|  
+                     |__      |              
+6                    |___P__  |              
+                     |_z___]_i| 
+
+R3 = restricted area 3      C = clerk
+T = teleporter (fixed)
+
+
+Africa
+
+       A        B        C        D        E         
+    __________________________  
+   |##___[_B|__      |titan tr|             
+1  |##        |      |        |                  
+   |##___M____]__##_________Q_|_________________  
+            |  _ ##|||          _   [  |  _b__  |        
+2           |##[_==__[__##      _ __|_____|__   |         
+            |##||R2|||||==________[_______]___==| 
+            |##      |  zk__  |               ##|      
+3           |==i_____|  __ __z|  _Y_____i_|Yk|##|        
+            |||tram|||________]__[___==i_]_]__##| 
+                              |      ##|   
+4                             | RC   ##|     
+                              |______##|
+
+B = boss                      M = Man
+Q = guy who needs parcel      R2 = restricted area 2
+RC = Research Center
+
+
+Central Computer Emergency
+
+       A        B        C        D         
+    ___________________________________  
+   |  __________________ F_F _________i|        
+1  |__|||==_____-___ _ |_|||_|||   ____|            
+   ||||||##|||||||||G|_____-_______||||| 
+   |==___##|||||||||||| ____  |                 
+2  |##_________    ______##___|                 
+   ||||||||||||FFF_||||||##||||________   
+                     ||||##||||centcomp|      
+3                    ||||##||||        |        
+                     |___==______abc___|
+
+- = low-lying cables    abc = the three terminals
+
+
+Conrad falls down an airshaft into a skeezy part of New Washington (actually,
+the whole place is a little skeezy).  You lose the Anti Gravity Belt, but you
+will gain a better item soon.  Starting in Asia A3, you must find your friend
+Ian.
+
+Asia
+A3 - Run right.
+B3 - Make sure you are not holding the directional pad so that Conrad will 
+	perform a Running Leap to the ledge.  Do another Running Leap to the 
+	top ledge.  Go left and up to A2.
+A2 - Get out your gun and roll onto B2.
+B2 - Shoot once, then roll back.  Wait for the two cops to come onto A2, then
+	roll again onto B2 but this times roll twice so you are really far in.
+	Now turn and shoot the cops as they walk back to this screen.  They 
+	will fall off and not be able to return fire!  When Ian gets up from 
+	behind you, that means the cops are dead.
+	Talk to Ian, then sit in the chair.  Ian will pump you full of
+	memories, revealing how you discovered that there were aliens posing as
+	humans, and that there is a plot against Earth.  You knew you were in
+	trouble, so Ian saved your memory (in this machine, presumably) and then
+	you got captured, but escaped.  You got lost in the chase and your
+	captors had done something to you.  Now you must pick up your 
+	investigation where it left off, except you must be very discreet...
+	Talk to Ian again, he will tell you that you must win the Cyber Tower
+	game to get to Earth, but you will need the proper papers.  His friend
+	Jack will supply forgeries for you.  Also, Ian will give you the force
+	field!  From now on, this should be the item you have selected unless
+	you need to use a key or trade something.  Head right.
+C2 - Do a Running Jump to land in a good spot in C3.
+C3 - Use The Drop on the mutant (he has a force field too!), grab the fuse, and
+	then do a Running Leap to get to the proper ledge.
+C2 - Use the fuse to fix the switch and use it to call down the lift.
+C1 - Use the switch to call down the next lift, take this up and go left.
+B1 - Get the map from the man at the checkpoint if you like, and use the switch
+	to call the lift that takes you down to the Tram.  Stand where the Tram
+	stops and press Y to get on.  Press Y at the America station to get off.
+
+America
+C4 (Tram) - Go up.
+C3 - Press the right switch (these switches are actually important, they insure
+	that Conrad can always call the lift from top or bottom)
+C2 - Trip the beam, then take the lift up.  Go left.
+B1 - Talk to the waiter, he tells you Jack is outside.  Go to D1.  Also take a
+	moment to look out the window of the cafe at the jungles of Titan from
+	which you just came...
+D1 - Jack tells you the forgeries cost $1500!  Holy Smokes!  He tells you to get
+	Work Permit and you can make some cash at the Job Center.  Go back to 
+	the Tram and take it to the Africa station.
+
+Africa
+B3 (Tram) - Go all the way up and left.
+A1 - Talk to the first man, and he will lower the lift for you.  He tells you
+	to go to Window A, but here comes a little joke.  Now you have to go 
+	through the "Red Tape" of bureaucracy.  Window A tells you to go to
+	Window C, then Window C tells you to go to Window B, who will finally
+	open the door so you can see the Boss.  Give the Boss your ID Card, and
+	he will furnish you with a Work Permit.  Ah, the Civil Service of the 
+	future... good to know it's still in perfect crappy order.  Take the
+	Tram to the Europa station.
+
+Europa
+D3 (Tram) - Head up and left to the Job Center.  You will pass by the Cyber
+	Tower gameshow on your way, but it's not yet within your grasp.
+A1 - Recharge shields and save.  To read a mission, press Y to use the mission
+	screen.  To activate the mission, select your Work Permit and press B
+	on the mission screen.  This sets up the next event sequence.
+
+Mission 1 - Errand Boy
+Go to Asia D1, the Titan Travel center.  Talk to the Lady and she will give you
+	a package.  Now take this to Africa C1 to give to the man behind the
+	desk.  Watch out!  There is a policeman waiting for you at Africa B1
+	just before you go in to see the man.  Take him out, get paid, go get
+	your next mission.
+
+Mission 2 - VIP Escort
+Bummer it's not a lady that needs protecting.  Head to Africa B2, the Restricted
+	Area Number 2.  The door is now open.  
+C2 - The VIP is here, but leave him for now.
+D2 - Climb over these walls to trip a beam that will open the bottom door but 
+	close the one you just came through.
+E2 - Hop over the bomb, then hang and fall to the floor below.  You will trip
+	a sensor that opens the door as you hang.  Now go get the VIP and he
+	will follow you back to this lift.
+E3 - Climb up to the thin wall, then use the Hop to jump down in front of the
+	mutant, draw, turn and fire.  You will need to use your force field 
+	well to avoid taking any hits.  Grab the key when the mutant is dead,
+	and use it in the key lock on this screen.  Now roll onto the next
+	screen and take out the mutant there.
+D3 - Go down and left.
+C3 - Go all the way left and climb up the far side of the ledge.  The flybot is
+	coming, but if press A during the climb animation, Conrad will draw and
+	you can fire before it gets close.  KEEP FIRING.  It may look like the
+	flybot is not getting damaged, but soon he will explode into a little
+	cloud of circuits.  Go to the right edge of the upper platform and
+	climb up, but this time crouch since you don't have time to fire.  Draw
+	your gun and roll back and forth until you manage to catch the flybot
+	going away from you as you finish a roll.  Stand up and fire at the
+	flybot, which should not be able to turn around fast enough if you do
+	this right.  Again, just keeping blasting away.  Take the key when it's
+	dead.  The doors will automatically open.  
+E3 - Use the key on the lock and escort the VIP to the lift in D3.
+D4 - Walk into the middle of the Research Center, where the VIP thanks you,
+	pays you, and teleports you back to the Job Center.  Thanks!  (To
+	teleport back at the end of all future missions, just put your gun away
+	when you see the Mission Complete screen and receive payment).
+
+Mission 3 - CY-B021, Where Are You?
+A Cyborg has gone haywire and the City fears violence.  They want you to take
+	him out, but they don't know where to find him, so they can only 
+	give you a picture.
+
+Europa
+C1 - The man outside the Cyber Tower show (I never can figure out what that
+	coin slot is for...) tells you he has seen that guy before in the Cafe
+	if you show him the picture of CY-B021.  Go there.
+
+**** UPDATE ****
+Mark Armstrong, obviously a dedicated gamer, has alerted me to the raison d'etre
+of the coin slot:
+
+``Anyhow, I just noticed something - in your walkthrough, you mention that in
+New Washington you have no idea what that coin slot is for. I thought I'd
+tell you, because I'm the kind of guy who sort of kinda maybe obsesses about
+that sort of thing if I can't figure out the use for something in a game: if
+you select your credits and use them on the coin slot, then move one step
+left and hit Y, you will get a sheet of instant photos of Conrad (and lose
+two credits). I found no use for these whatsoever, and they in fact
+disappeared from my inventory either in Cyber Tower or the level after, but
+there you go.''
+
+If anybody knows what these photos could be for, let me know!
+
+*****************
+
+America
+B1 - The waiter tells you to get lost, but the guy on the end of the bar says 
+	that CY-B021 has a friend in the police, go meet him at Restricted Area
+	Number 1.  Although this may sound fishy, the cop won't attack you.
+C3 - Talk to the cop, who tells you that CY-B021 wants to deal for his safety.
+	Go meet him at the Cafe.
+B1 - The guy you talked to is gone.  Get your gun out and crouch at the edge of
+	the screen, then roll into A1.
+A1 - Immediately turn and fire at the mutant who tries to ambush you.  The
+	little panzy who tried to set you up begs you not to shoot him, and
+	tells you the cop has the key to CY-B021's hideout.
+C3 - Now the cop tries to attack you, but you should be able to waste him.  Take
+	the key and return to the Cafe.
+A1 - Use the key on the lock to open the floor.
+A2 - Save, then go to the middle platform on the right edge of the screen.  Draw
+	your gun and sneak onto the next screen, immediately getting ready to 
+	fire (I would crouch too).
+B2 - CY-B021 is here, and with a friend (two flashmen).  However, only CY-B021
+	will attack because of where you are.  He will jump down, and you can
+	shoot him.  DON'T MOVE.  He will flash off screen and then back, right
+	back to where you can shoot him.  He will repeat this, but sometimes
+	he walks back on instead of flashing; no big deal, he still walks far
+	enough for you to shoot him.  He takes many hits, but when he is gone,
+	go back to A2.
+A2 - HOP over the little pit, then use The Drop to land facing right with your
+	gun out.  Stand up immediately because that flybot is coming.  As soon
+	as it appears, start blasting.  Kill it and go right.
+B2 - Kill CY-B021's pal at your leisure, and you win the mission.
+
+
+Mission 4 - Emergency at the New Washington Generator
+This mission is very different.  You will be given a circuit board to replace
+	the malfunctioning one in the Central Computer for the Generator.  
+	You will only have ninety seconds to reach the Computer and fix it 
+	(you can see your time remaining by pressing Select and then Y on the 
+	Inventory screen) before the entire Generator blows up and takes New 
+	Washington with it (but without a cool movie of this happening, which 
+	saddens me). Trust me, this is not hard if you just relax.  Follow my 
+	directions as closely as possible for maximum speed.
+
+Europa
+A1 - Take the teleporter to the Central Computer area.  Your time will begin
+	when you arrive.
+
+Central Computer
+A1 - Walk over, climb up, then initiate a run.  Sustain this run all the way to
+	C1, but as you enter that screen slow down.
+C1 - Walk to the edge, then Hop over and Hop again, now start running.
+D1 - Run to the switch, press it, roll left.  When you hit the ground, run
+	again and get ready to roll.
+C1 - Running Roll under the sparking wire, and then let go of the buttons as you
+	go to the next screen to avoid hitting the wall.
+B1 - Climb up the wall, Hop over the pit, start running but also immediately
+	perform Running Roll.  Continue to A1.
+A1 - Go down.
+A2 - Run left, take that lift down, run right.
+B2 - As you get to the edge, Running Jump and you should grab the far edge of
+	the pit.  Climb up and run again but do not hold the directional.
+C2 - Since you ARE NOT holding the directional, Conrad performs a Running Leap
+	as soon as he gets on this screen.  Climb up to trip the sensor that 
+	brings up the lift.  Climb down as soon as you hear it coming, then
+	take the lift down.  (For the love of God, ignore the stone in the
+	corner!)
+C3 - Run right.
+D3 - Make sure you have the Circuit selected, then go to Terminal C and press B.
+	You may have to repeatedly tap B or move one space because sometimes
+	you are not in the EXACT right spot or something.  When you fix the 
+	computer, you will teleport back.
+
+Mission 5 - Mutant Colony? I Eat Mutant Colonies for Breakfast...
+This mission is a little tough if you are not very precise.  Apparently, 
+	Restricted Area Number 3 has very bad security because it has become
+ 	overrun with those hideous mutants that plague the upper canopy of 
+	the Titan Jungle. The City fears an attack of some sort (probably for 
+	BRAINS!!! or is that zombies...?), so they want you to wipe the colony 
+	out.  Funny how the lousy cops in this future world only want to shoot
+ 	at civilians and never protect the innocent.
+
+Europa
+A1 - Recharge and head to D2, the Restricted Area.  The door is open now, so go
+	on in.
+E2 - Save.  Use The Drop and your force field to take out both mutants.  If you
+	take a hit, kill yourself and try again.  When you get it perfect, do
+	a Running Leap back up to the Save and use it.  Now you won't have to
+	repeat that little part if you die (and you will).  Climb down the LEFT
+	side of the pit.
+E3 - Hang, then drop.  As you recoil, use the force field to block shots, then
+	get your gun out and shoot.  You need to use pretty much the same thing
+	on the next mutant below, but you need to move faster since he will see
+	you as you hang.  To do this, begin the climb down move, but then let 
+	go of Y and press the Down button.  This will make Conrad just drop
+	rather than spend any time hanging.  You should be able to block the
+	shot then draw and fire.  Take the key on this platform, then go down.
+E4 - Use The Drop to take out the left mutant, blocking the right mutant's shot
+	with a force field.  Then turn and fire.  Go left.
+D4 - Open the first door with the tripbeam, then use the key on the lock.  
+C4 - Pick up the stone and drop it on the tripbeam to hold the floor panel open.
+	This next move is tricky.  Climb up BUT IMMEDIATELY climb down.  You
+	need to block the mutant's shot and avoid the bomb.  The bomb won't
+	hurt you because you're climbing, but for some reason the mutant can
+	hit you, so you must get a really good force field timed to block him.
+	Now climb back up and kill the mutant easily.  Now crouch at the exact
+	spot you need to roll onto the exact edge of the next screen.  From 
+	here, get out your gun, roll, and get ready to fire.
+B4 - Shoot the mutant.  Stand up and hop over the bomb, but HOLD Y AND UP.  This
+	will make sure you grab the ledge.  Now climb up and kill the mutant as
+	you should be used to by now.  Stand one space away from this bomb, and
+	Hop over it.  Climb up to trip the beam, then climb down, Hop over the
+	bomb, then HOP down to the area below.
+B5 - Since you hopped, you won't fall to the mutant below, and you can use The
+	Drop on him instead.  But if you trip the sentry gun sensor, you must
+	simply roll down to take him out.  When he's dead, climb back up, and
+	roll onto C5.
+C5 - Just wait for the cop to fly up and use the usual cop strategy.  Climb
+	down and take the key and credits.  Backtrack to the small area in the
+	lower left of this screen (make sure to roll under the sentry gun since
+	it will definitely be on by now).  Drop down.
+C6 - Use the regular cop strategy again, no sweat.  Now go down and use the key,
+	but watch out!  A flybot that was hiding comes at you.  Just duck and
+	roll about until you have enough distance to stand up and shoot it.
+	Teleport back with your wad of credits.
+
+Europa
+A1 - Save, then walk out of the Job Center.  The guy in B1 tells you a man named
+	Jack is waiting for you (just in case you never talked to Jack, I guess)
+	so go see him.
+
+America 
+D1 - Pay Jack $1500 for the Papers, then take them to Cyber Tower.
+
+Europa
+D1 - Give the Papers to the man in front of the gate.  You will be immediately
+	deposited into Cyber Tower.
+
+
+
+Level 3 - Cyber Tower
+
+       A        B        C        D        E        F        G         
+    ________ 
+   |        |  
+1  |_V____##|        
+   |||||||##| 
+   _______##
+   |  __[V==|   
+2  |i_   _  |        
+   |z_##___V|
+    __##______________________ 
+   | |##||  ____V_______z___  |         
+3  | |==]_  __z_V_____zS____  | -->        E	    F        G
+   |_______________##_______V_|
+    _______________##_________ 
+   |_b  |      __| ##|V]    [_|       
+4  | _  __E____|_[_==|  ___   | -->     
+   |___VV______bb|##____|||z_i|
+    ______________##____________________________ 
+   |__S_____||||||##|| _      _V_ _ _ ___ b| b  |        
+5  |  _____*||||||##|| ___  V_|||b|b|b||| __ _  | -->        
+   |___________##|==___V______|||||||||||_b_b__b|
+    ___________##_______________________________ 
+   |___  |  |||##||_ __               ___   _E__|            G
+6  || ___|  _i|==]_V_|__________              __| -->         
+   |*_____##||||||||||||b||b||||____V________V|||
+    ______##______________________________________________________  
+   |__   |##|||   ______    [_____b    |       __    |     |__i___|        
+7  | |_  |##|||  ___S___zV   |  ___    |__    ____  _|_  ___V__|  | -->        
+   |___##|==_]_______|______z| ___________V______V__[_]__|||||||__|
+    ___##_________________________________________________________ 
+   |  _##|_         z|__                 start                    |         
+8  |  [==_]    __  __   V__   ____V_b              ____        z__| -->         
+   |_z_i|i_z__z||_b___________|||||||_____E_b_____z||||V____z___b_|
+
+
+I know what you're thinking: "Haven't I seen this movie?  Doesn't it turn out
+that no one is ever supposed to win and when I do, I won't get the prize?"  
+Well, yes and no.  Many movies have been structured around this plot, but in 
+this case, the government of New Washington and the producers of Cyber Tower
+are legit, and they will reward you with a ticket to Earth if you survive
+eight floors of flybots and flashmen.  And there are LOTS of them.  LOTS.
+
+This is my second-favorite looking level.  The whole thing is wrap-around and
+looks pretty sleek.  It also gets more narrow as you go into higher levels, so
+enjoy the small feeling of suspense, because this level is actually very easy.
+
+Level 8
+
+E8 - Rather abrupt, wasn't it?  Well, get ready to fight.  Head left first
+D8 - Stay on the edge of this screen.  The flashman will get hit by the bomb
+	and then when he comes down, he will keep flashing off screen and then
+	back on like a dummy.  Take him down this way.
+C8 - Kill flashman.
+B8 - Walk in to this screen and shoot the flybot as it descends to you.  Then
+	walk back to C8 and climb up, return to B8 and the other flybot will
+	come up to this level and you can shoot it.
+A8 - Kill the flybot, then PRESS THE SWITCH to open the opposite door.  If you
+	don't you'll be one sad kid when you get to the other side.  Backtrack.
+F8 - Kill the flybot, then climb up and shoot the flashman as he climbs up.  
+	He'll play dead, but you can deal with that.  Go to G8.
+G8 - Kill the two flybots here plus the one from A8 which enters from the right.
+	If the flashman is here, kill him too and then go to A8 and up the lift.
+
+
+Level 7
+
+A7 - Climb up and go left to G7.
+G7 - The flashman will walk away.  Use the switch to open the floor and then
+	go lure him back into G7 and kill him.
+F7 - Get out your gun and roll from the right trip beam to the one in the 
+	middle of the small cage.  It opens the left door and closes the right.
+	No big deal, just kill the flashman.
+E7 - Kill yet another flashman.
+D7 - Climb up.
+C7 - Open the door and shoot the flashman down as he comes at you.  Now use The 
+	Drop to be ready.  Keep shooting him, because he doesn't have room to 
+	flash away!  Now kill the flybots, and go to B7 to save.
+B7 - Save.
+A7 - Go up.
+
+
+Level 6
+
+A6 - Go up and right into B6 to press the switch that opens the door.  If you
+	don't, you'll have to backtrack A LOT.  Now come back, crouch and roll
+	to the left under the sentry gun.  Walk all the way to the wall, then
+	crouch and roll right.  You will stop right under the ledge.  As soon
+	as the gun shoots, start the climb up and you should make it before 
+	getting shot.  
+E6 - Hop over the trap door to use the Energy Generator if you need to, then
+	go down and kill your pal flashman.  He may have stalked off to the next
+	screen.  If so, go and get him.
+D6 - Kill whoever is here.
+C6 - Hop over the trap doors and climb up to the ledge.
+B6 - From up here, the flashman will come to get you.  Crouch on the edge, and
+	as he is climbing up, you roll down.  Then you can get ready to fight
+	him as he climbs down, or you can just quickly use the lift.
+
+
+Level 5
+
+B5 - Roll left under the passage.
+A5 - Fight the flashman and flybot here, then climb up the ledge.  Crouch and
+	roll to trip the beam.  This opens the floor panel and shoots the sentry
+	gun, so you need to roll.  Climb up and save.  Now stand on the edge of
+	the screen and HOP into the next one.
+E5 - Because you are a genius and holding Y, you will hang from the first ledge
+	instead of hitting the floor in a fatal fall.  DO NOT CLIMB UP.  Drop
+	and hop over the bomb, then climb up to the next platform and do a
+	Running Leap to go under the bomb and grab the ledge.  No sweat!
+D5 - Shoot flashman.  He will flash toward you, but stand your ground.  What you
+	want is for him to stop on one of those thin walls, then shoot him so 
+	he falls into a pit and plays dead, effectively leaving you alone.  If 
+	he flashes to close, you can try hitting him or hopping away, but you
+	will probably take hits, no big deal.
+C5 - Get down to the floor and fight the flashmen.  If any go off to the right,
+	let them stay there.
+B5 - Go up.
+
+
+Level 4
+
+B4 - Go right.
+C4 - Climb up to trip the beam, then climb back down.  You want to fight the
+	flashman on this longer section of floor.  The best thing is to use the
+	screen edge strategy, but you should manage.  Kill the flybot, then use
+	the switch to open the door and Run Leap to the ledge.
+A4 - Wait for the flashmen.  One will get blown up, but the other you need to 
+	shoot.  Just continuously fire and you should end up with both on the 
+	ground playing dead.  Climb down and kill them.  Then climb up and go to
+	B4 again.
+B4 - Trip the beam on top to open the trap door.  Then go back around and RUN
+	into the B4 again so that Conrad trips the beam and does a Running Leap
+	over the bombs.  Climb up and take the lift.  Almost done!
+
+
+Level 3
+
+B3 - Nothing to say but kill everyone.  Some of the enemies will come for you,
+	others will wait for you.  The flashmen take a zillion hits.  Just save
+	when you are done and take the lift in A3.
+
+
+Level 2
+</pre><pre id="faqspan-2">
+A2 - Wait for the flashman to come down and kill him, then the flybot.  Use the
+	switch to open the door for the other flashman and then go down to the
+	floor to fight him.  Proceed to the final floor.
+
+
+Level 1
+
+A1 - If you're expecting a fight of some sort, forget it.  Just roll back and
+	forth a thousand times to get in all the hits you need on this last
+	flashman.  He'll die and Conrad will win his ticket to Earth, courtesy
+	of Titan Travel, which I guess is the show's sponsor.
+
+
+
+Level 4 - Earth
+
+Earth Streets
+
+       A        B        C        D        E         
+    __________________________  
+   |        ||||   |||___]==|||             
+1  | | P_x___]P__##|   |  ##  |                  
+   | |x_==__|||||==____]C_##__|_________________  
+   |    ##_   |  |         _P_||P_         taxi |        
+2  | P_ ##z__E|  |_  ___P_x_[P__z __x____i_     |         
+   |____##xz____x_[__|________|||__z_|||________|
+
+C = checkpoint 
+
+
+Paradise Club
+
+
+       A        B        C        D        E        F        G         
+    ______________________________________________________________     
+   |    __    __ z  z|_zx_==i_[kz| _   |    |i_x__##|## ____V_E|  |         
+1  |    _x          ||   |##_z__]_##   |    |    |==_==_____##*|  |         
+   |_S___________z___|__________z_==_V_|_z_V[x___________|__==i[G=| 
+                                                         |_z_ _ ##|         
+2                                                        |##|_Sx##|         
+                                                         |##|||||||
+
+ 
+
+Secret Base
+
+       A        B        C        D        E        F        G        H
+    _______________________________________________________________________
+   |##|    r___   __i|  __ _____x_     ||||||||||||  ____||||||||||||||||  |
+1  |##V  __|zz|_  |##|__||^_iS_E|_  _| [____        z__b___b_  __b___z[__  |
+   |##|_ _[___k]__|##| G_x_________==_i|||||___V___z_V___||||GG||||||||||__|
+   |##|_ __[_   __|##|_i__  [__k_ |##  |  
+1  |## _    |r__*i|##|* ____ *  |_]##  |         
+   |==_______i[_E_G==|____________x##__| 
+
+r = roborat       ^ = trap door
+
+
+So if Cyber Tower is the second-best looking level, which is the first?  Earth!
+Yes, I think the Earth level looks absolutely sweet, and I'm so sad that half
+of it is underground where we can't see Earth in its futuristic splendor.
+
+Anyhow, there are two main areas, but I think of the second one as two smaller
+areas anyway, for a total of three.  I think the idea here is that Conrad is 
+looking for trouble, figuring that trouble and alien conspiracies go together.
+However, there might be some subtle point in the game where "Paradise Club" is
+mentioned, because that's where Conrad finds the trouble.
+
+
+Earth Streets
+
+C1 - Give your papers to the man at the checkpoint to open the door.
+B1 - Take out this cop as usual.  If you shoot him off screen, he will come 
+	back, unless he's dead, so wait a second or two OR listen carefully for
+	return fire.  If you hear none, he's dead.  Now roll onto the next
+	screen and roll back fast all the way right.  Shoot both the stunbot
+	and the cop as the pursue you. 
+A1 - Climb down, but don't hold Y or Down and you will go a little faster.  Then
+	quickly walk to the lift and activate it down, but don't let up yet!
+A2 - Turn and shoot the cop, blocking his return fire.  At the bottom, roll left
+	and turn back to shoot the stunbot that it hiding behind the low wall.
+	Then turn your attention to the cop, and finally to the flybots.  You
+	may notice that sometimes the flybots hit each other.  This is a good
+	thing, and actually my strategy in a few places.
+B2 - Roll in, shoot the stunbot, then open the door and take out the cop.
+C2 - Sneak in, shoot once, then go back.  In B2, a cop or two will follow.  
+	When they stop coming, get to the edge B2 and run back into C2 and roll
+	over to the right.  Stop, crouch, turn, draw, using your force field to
+	block shots.  You should pass the stunbot that you can't see (unless his
+	little arm deploys) and the cop.  Get them both, but beware of the third
+	cop who may or may not have gone to the next screen.  If he comes back,
+	you'll need to take some time to get him.
+D2 - Crouch and take out the cop, then roll back to deal with the flybot in a 
+	better area.  Then shoot the stunbot, then HOP over the pit (to avoid
+	dealing with the flybot that is hiding down there).
+E2 - Press the switch to call the taxi.  
+
+
+Paradise Club
+
+The taxi takes Conrad to the Paradise Club, presumably at Conrad's request.  
+	This makes me think that we should have heard that name somewhere, but
+	I am too lazy to go back and check all the cut scenes.  In any case, 
+	Conrad wants to investigate this place, which is quite clearly a strip
+	club, but since it is daylight, it's not open... or is it?
+
+A1 - Save.  Go right and kill the low flybot.  Save again, then climb up.  Just
+	keep climbing and the stunbot will not harm you.  Now from the left edge
+	do a Running Jump and you will hang on the ledge in B1.
+B1 - Climb up, then walk to the other edge and climb down.  Hang, then let go
+	to land safely.  Why do this?  It is the only way to get the flybots'
+	attention without getting hit.  It's wacky, yes, but whatever.  There
+	are a couple ways to get their attention and then take a hit or two on
+	the way down to the street, so if you don't like fancy, go ahead.
+	Anyhow, kill the flybots, then climb back up to that ledge, shoot the
+	glass above the door, then Running Jump to grab the edge and climb up
+	to the opening.  
+C1 - Roll in, shoot the stunbot, roll back to avoid the explosion.  Take out the
+	flybot, then take the lift down and kill the other flybot.  
+D1 - Trip the beam to open the door, kill the flashman and the flybot.  Use the
+	lift (it is not quite noticeable at first, but easily marked on my map)
+	to make a platform under that hanging light.  Now climb onto the light
+	and shoot the glass.  Kill the flybot, then hop over and take the key.
+	Climb down.
+E1 - Kill all of these weenies.
+F1 - Go through.
+G1 - Use the key to open the door, then entice the flashman to come down to the
+	floor.  You may have to go back to F1 to keep him moving.  Kill him,
+	then the flybot.  Go up and left to E1 where a stunbot guards a switch.
+	Kill it, then press the switch to deactivate the Green Death in front
+	of the lift.  Go back to the lift, but roll from F1 to G1 to avoid the
+	sentry gun.  Go down.
+G2 - Kill the stunbot and flybot, then climb up to that light to activate the
+	secret passage and call the lift.  Save and take the lift down.
+
+
+Secret Base
+
+Actually, this isn't the secret base just yet, but a well-guarded and booby-
+	trapped passage to the Secret Base.  Why would a strip club have such
+	excellent security?  Well, if there was an alien conspiracy being run
+	from the basement of my strip club, I'd want to protect it too.  In any
+	case, this is a difficult area.
+
+A1 - Try to shoot the flashman as you descend.  He'll probably climb down and
+	go off to B1.
+A2 - Kill the flybot, climb up to A1.
+A1 - Hop over the pit, then crouch and roll into B1 so that Conrad is just on
+	the edge of the screen.  
+B1 - The flashman will probably be here and you can kill him now.  DO NOT walk
+	to the key during any of this.  When he's gone, take the key, which 
+	opens the panel above you and lets out two flybots.  They are probably
+	in A1, so go there and get them down.  What you want to do is roll like
+	you are going to stand up and shoot them, but instead of shooting, 
+	just wait for them to get close and then crouch.  What will happen if
+	you do it just right is that one will try to zap you and the other will
+	keep going... right into the zap!  Then the first will keep zapping
+	and blow up the second.  Now you can deal with the remaining flybot.
+	This opens the doors to the little cage you are in.
+	An alternative strategy for the flybots is to let them hit you, then
+	while you are invincible, stand up and try to get into the same space 
+	as they are.  If you succeed, you acn pistol whip them without any
+	danger.  This only works if they are in the same space though.
+	Now go to A1.
+A1 - Climb up to the ledge, then run to B1.
+B1 - Use a Running Jump to get over to that switch.  Press it to open a secret
+	door below.  Return to A2 by climbing down the right side of the pit.
+A2 - You should be hanging over a ledge in front of a door.  Wait for Conrad to	
+	stop swinging before you let go, then drop to open the door and go into
+	B2.
+B2 - I don't know how to avoid taking a hit here, so just roll down and take a
+	hit from the mouse and/or the sentry gun.  Whatever.  If you are low
+	on shields you can go all the way down to the key lock, open the door,
+	and then use the Energy Generator first.  In any case, once you are
+	safely under the gun and the roborat is gone, press the switch and
+	turn off the Green Death.  Now roll left, wait for the gun to stop,
+	and make your way down to that lift.  Don't bother saving.  Take it up
+	and proceed to C1.
+C1 - Climb up, then walk one space.  Crouch and roll from here, and you will
+	go through the first trap door, but not the second, so you can use the
+	switch to turn off the Green Death, then save and use the Generator on
+	the next screen.  When you're ready, fall through the trap door and
+	kill the stunbot.  Go down.
+C2 - Open the door with the switch, then use a Running Jump to get over there.
+D2 - Grab the key and go back the way you came, then go into D1 (what I mean is
+	don't go down into the area below; it's useless and there are some bots
+	down there).
+D1 - Use the key in the lock, kill that stunbot, then Save.  You need to do a 
+	Running Jump to get over to the left side of the trap door.
+E1 - When you're ready, come here and kill this flashman.
+F1 - Kill the flashman and the two flybots, THEN GO BACK AND SAVE.  The next
+	part is EXTREMELY DIFFICULT.
+	Before I begin, let me tell you that on Normal mode, this part is hard,
+	but on Expert, it is very very very very hard.  You have to do
+	everything perfectly to survive.  So my little walkthrough here is
+	designed to get you through with only a second or two to spare.
+
+	Okay... here we go.  Climb up onto the ledge, and start to run.  As soon
+	as you do, a Green Death appears and starts to follow you.  What you
+	need to do is start running, then do a Running Jump when you step on the
+	bomb.  It won't get you.  Keep running into G1.
+G1 - Again, do a Running Jump as soon as you step on the bomb, but this time, 
+	let go of the buttons so that Conrad stops after his landing.  Walk one
+ 	space forward, then hop over the bomb then walk onto the next screen.  
+	You need to do this sequence VERY FAST but without running.
+H1 - Get your gun out and start shooting the flybot.  Instead of firing as fast
+	as possible, what you need to do is shoot, wait for his shield to pass,
+	then shoot again, etc.  This will increase the speed with which you hit
+	the flybot greatly, and on Expert, he takes about fifteen hits so you
+	need that time.  As soon as it blows up, crouch and roll right through
+	the opening door.  If you were VERY fast, the Green Death will appear
+	just as you are rolling away.  Anything slower means death.
+
+	Anyway, once you make it through that hellish experience, you will see
+	Conrad sneak through the air shafts until he spots some aliens and
+	disguised aliens talking.  They are discussing how they have finally
+	advanced human technology and civilization far enough to make a suitable
+	world for their homeworld to conquer.  Thousands of alien warriors will
+	teleport in and wipe out the human vermin, wait, who's that?  A human
+	spy, eh?  Throw him in the dungeon and we'll take care of him later!
+
+
+
+Level 5 - Earth Base
+
+
+       A        B        C        D        E 
+                      __________________________ 
+                     |xkV]        _V_      __[==|    
+1                    |_  G__    __| _    ____|##|       
+             ________|tqV| _____|  _G__xi[__ |##| 
+            |jail|||||||||_E____|___ r_|z z| |##|
+2           |_]____]VV____  ____i  | r_|z z| |##|   
+    ________||||||||||kSg________i_[_|_]_____G##| 
+   |        |      |||||||||      _____||||||||||
+3  |      |_GG _ _ __]__   |x______[_A_[__A___  |
+   |_T____||||z|z|z|||||_S___]___________A__x___|
+
+T = teleporter               q = telereceiver
+t = telecontrol      g = gun
+r = roborat
+
+
+This is the shortest level, and it is super short.  The only problem is that if
+you don't know what to do already, it can be a PAIN.  However, with this guide,
+it will seem like a silly fifth level, especially after that ordeal you went
+through in the Paradise Club.
+
+Conrad is in the Prison of the Secret Base.  He wakes up, and two flashmen come
+to kill him (perhaps they just want to rough Conrad up a bit so he'll talk?)
+but Conrad has other plans...  Vive le Conrad!
+
+B2 - Crouch and roll past the flashmen as they open the door to your cell. Keep
+	rolling or run to the right until you fall off the first ledge in C2.
+C2 - Your gun is in front of the save.  If you are fast enough, you can pick it
+	up and get ready to shoot the flashmen before they get you, but
+	otherwise, once you get your first shots in, this should be a cake walk.
+	When they're dead, save, unless you one or no hits left, then I'd advise
+	starting the level over.  
+	Grab the key the flashmen dropped.  
+D2 - Use the key on the keylock here and also press the switch there to open
+	the door in the lower right.  Save again in C2. 
+	Now wait for the roborat to be at the right-most side of its path, then
+	start climbing.  It will stop under you, but if you keep climbing the
+	explosion will miss.  As you climb up to the next ledge, the second
+	roborat will be heading back, but you should be able to turn and Hop
+	over to the other ledge before he stops to explode.  Climb up.
+D1 - Stand on the edge and draw your gun after climbing up.  Stay here and do 
+	not move.  The flashman will come down to you, and you can shoot him.
+	But stay put.  Because you are on the very edge, he can not flash 
+	behind you.  If he flashes at all, it will be either close enough for
+	you to pistol whip him or far enough for you to shoot him.  STAY PUT 
+	until he is dead.  If you're not on expert mode, there is no flashman
+	so just walk past that moving Green Death to the space just to the
+	right of it's lower right position.  From here, crouch, draw, and roll
+	into E1.
+E1 - Shoot the stunbot, then roll back into D1 to avoid the explosion.
+D1 - Because you started from a safe spot, you will roll back to a safe spot.
+	Now stand in that same spot, wait for the Green Death to move up to the
+	ledge, then start climbing.  Keep going and then walk left quickly to
+	beat the Green Death.  Now keep going left and down so you can
+	recharge in the Energy Generator in C2.
+C2 - Recharge, then go up to C1.
+C1 - Stand right in front of where the Green Death appears, and wait for it to
+	disappear (the flashman above is triggering it by walking around, so
+	you should be able to time it really well).  Then sneak off the ledge
+	so you perform The Drop and shoot the flashman.  He has no room to flash
+	so he will die easily.  Pick up the telereceiver and the telecontrol.
+	Carefully climb up past the Green Death, back to D1.
+D1 - Climb up to the top ledge, then throw the telereceiver to the right; it 
+	will land on the floor in E1, right where you need to use the key you
+	are about to get.
+C1 - This is easy.  When the Green Death turns off, walk forward and start a 
+	climb.  When you get up, crouch and roll.  You will stop right on top
+	of the key.  Pick it up, then use your telecontrol right away to zip
+	to safety.  If you are smooth, you won't get hit by the stunbot or the
+	flashman.
+E1 - Use the key on the lock, then throw your telereceiver down the pit.  Now
+	use your telecontrol to zip down.
+E2 - As soon as you appear, flybots and a moving Green Death will come at you.
+	Just run to the left, into D2 and falling into D3.  Stay there until
+	you hear the Green Death moving in the screen above, then stop.  Now
+	use your telecontrol to return to your telereceiver.
+	The flybots are still here, so kill them, then take your telereceiver.
+	Or you could just take the telereceiver and roll back down to D3.
+D3 - Drop down onto the tripbeam to open the door holding the alien.  Kill him
+	to open the next door.  (Don't go left, it's just a stunbot).
+E3 - Kill the alien here, then drop down and shoot the stunbot, hopefully
+	before the alien down here shoots at you or something.  Kill the alien
+	and proceed.
+C3 - Save here.  You don't need to worry about recharging your shields.  Leave
+	your telereceiver on the floor next to the Save point.  Now go up and
+	through the door.
+B3 - What you want to do is lure the Green Deaths into C3.  All this takes is
+	to teleport back.  They will appear (red for some reason) then head
+	back into C3.  Go back up (LEAVE THE TELERECEIVER WHERE IT IS!) and
+	follow them.
+	Now that the Green Deaths are going to the left, you have the time you
+	need to do this.  Hop over the first pit, then walk right so you fall
+	directly over the flybot.  This is the key; by landing on top of him,
+	he can't hit you.  Get out your gun and pistol whip him.  Teleport back.
+	When you come back (watch out for the Green Deaths!).  Do the same 
+	thing to the second flybot, although he is on the right side of his pit
+	so you should walk left off of the same little ledge as before.  Again,
+	teleport out.
+	Now, the third flybot is too far for you to hop over before you get
+	killed by the Green Death, but if you just fall down the first pit,
+	then climb back up, the flybot will rise up.  Shoot him, but make sure
+	to leave yourself time to put your gun away and teleport to safety from
+	the Green Death.  It may take two trips like this to kill the last 
+	flybot.
+	When it's all clear, just pick your way past the Green Deaths to A3.
+	
+	You may be wondering if you can just run past all this.  You can, by
+	throwing your telereceiver into the third pit, and then trying to climb
+	out and into A3 before the flybots get you.  The problem with this is
+	that they follow closely, and if you are not fast in A3, the flybots
+	will zap you and you fall to your death off that cliff.  It's not a
+	very precise method, but it does work if you try enough times.
+
+A3 - Climb up to the top ledge so the Green Deaths don't get you from behind.
+	Throw your telereceiver down or hang and drop from the ledge.  Stand
+	under the teleporter and press Up.
+
+	Conrad will be whisked away across the galaxy by this poweful machine
+	and find himself in a strange hangar bay on an alien world.  This is
+	the homeworld of the evil creatures that threaten Earth, and Conrad
+	is looking to put a big ol' nasty fly in their ointment.
+
+
+
+Level 6 - Alien Homeworld
+
+
+        A        B        C        D        E        F        G         
+                      ____________________________________________
+                     |                ______A__   |___________   _|
+1                    |start      ____     [_##|i__[     ||||||  _||
+                     |_____________A______||##|||||_____-__E|A_i|||
+                                       |    ##|||         
+2                                      |  __==|||         
+             __________________________|___e__ *| 
+            |##_ ___||__   |i ||||m         A __|       
+3           |##|_A  --_]_M_]____]_G__     _A__ A|         
+            |##||___||||i]____|___-___________s_| 
+            |==  e   |  
+4           |      __|               
+    ________|__%___[i|__________________________  
+   |E##_  |||___         _e            |||  ==| |    
+5  ||##|____]_____E____A  ##_A__________i]_  _S_|       
+   ||##|||||||||  ||||||  ##||||  ||  |||||  |||| 
+                     |||  ##  |                      
+6                    |  __==__|                        
+    _________________|__[  _A_| 
+   ||||||  _____  _  || __%_  |                    
+7  |  -_]__b_______  ||_    _A|                         
+   |__[_A______k_T|_s______S__|   
+
+e = eyeball		M = Man
+% = space cayote        m = mechanical mouse
+
+
+You've made it to the alien homeworld!  They won't let you just wander around
+upsetting their plans for the conquest of Earth, so it's time to be vigilant.
+You can't save for a while, so this level can be frustrating, but I have found
+some shortcuts, so let's do this thing.
+
+After teleporting in, Conrad steps outside of the hangar onto this mysterious
+and hostile world...
+
+C1 - Go right.
+D1 - Kill the alien, then go up and right.
+E1 - Kill this alien as well (both of them take many hits), then press the
+	switch below to open the door.  Go right to G1 to recharge your shields
+	if you lost any. Then backtrack to the newly opened door and take the
+	lift down to E2.
+
+You have two choices from here, so I will now split up:
+
+STRATEGY 1 
+---------- 
+E2 - As the eye turns away, drop down and crouch to avoid getting shot, then
+	roll down the hole.
+E3 - There are three aliens here.  IGNORE THEM and get down to the next screen
+	as fast as possible.  
+D3 - If you moved very fast, the aliens will not be following you.  Climb up
+	to the top ledge and grab the mouse.  You will activate the Green Death
+	in front of the door when you do, but it's okay.  Take the mouse down
+	to the area below and leave it there.  It will trip the wire to open
+	the door, and then the one to close it.  When it's open, throw your
+	telereceiver through, then teleport to it, bypassing the Green Death.
+C3 - Climb up, press the switch, then carefully climb down (wait for Conrad to
+	stop swinging before letting go).  In the lower area, shoot the door to
+	open it.  Then press the switch over there.  An alien appears and shoots
+	the guy that was hanging out there.  It will come down for you, so kill
+	it.  Then go up, get the atomic charge (YEEEHAA!!) from the dying guy.
+	Now comes a TOUGH part.  Roll under the passage to B3.
+B3 - Immediately head for the upper ledge.  DO NOT STOP.  If you are very lucky,
+	the alien will morph and unmorph on the middle ledge.  If he does, trip
+	the far wire to call up the lift, then TELEPORT over to avoid tripping
+	the other switch (which sends the lift down), and take the lift down.
+	If the alien follows you up to the ledge, you must crouch on the very
+	edge and use the roll back and forth technique to kill him.  You can't
+	teleport to the lift while it is in motion (since the receiver will also
+	be in motion), so forget about trying to ignore the alien if he comes at
+	you.  This part is very tough, but perserverance will triumph.
+	If you have to kill the alien, go ahead and pick up the diary and read 
+	it.  It is the diary of Phillip Howard Clark, the guy who gave you the
+	atomic charge, and it will tell you all about the master and auxiliary
+	brains that control the planet.
+
+STRATEGY 2
+----------
+The advantage to this strategy is that you can backtrack to recharge shields. 
+The disadvantage is the time it takes, which can be frustrating.
+
+E2 - Leave your telereceiver on the ledge, then drop down and roll right down
+	the hole to E3.
+E3 - Immediately head for the floor, then go left.  
+D3 - Wait for the aliens to come for you, then go back right.  You should leave
+	one or two behind, allowing you to divide and conquer.  These aliens
+	take fewer hits than the first two, but it is hard to fight multiple
+	aliens at once.  The best thing to do is to wait for them to be close
+	to each other so that they will stand up at nearly the same time, 
+	allowing you to shoot both and keep them close.  When they split up, 
+	you usually end up getting hit as they unmorph next to you.
+	If you ever get close to dying, teleport away, take the lift up, charge
+	your shields, and come back to E2.  The aliens will probably come up	
+	the ledge into this screen, so fight them on the lower floor.  They
+	may get hit by the autogun.  Go down and finish off any aliens that
+	are still left, leaving your telereceiver in the same spot in case of
+	more hits.
+	Anyway, after killing all of them, pick up the stone in the corner of 
+	E3 and drop it on the tripwire in D3 that opens the door.  The little 
+	mouse will keep the Green Death deactivated.
+C3 - Same as in Strategy 1, except that when you are done, if you took any hits
+	you can backtrack to recharge.
+B3 - Again, same as in Strategy 1, but if you leave your telereceiver anywhere
+	in C3 or before, you can still backtrack and recharge.  Take the diary
+	if you kill the alien.
+
+Now you should be heading down to B4.
+
+B4 - Throw the receiver down to the right ledge and teleport.  Use The Drop to
+	surprise the space cayote, kill him, then use the switch to open the
+	hatch.  Fall down.
+B5 - Charge your shields if you need to.
+C5 - That alien will come for you pretty quick, so go back to B5 and fight him.
+	The other one will just morph and unmorph.  You CAN hit him, but it is
+	really tedious to try.  I would just leave him until later, but you can
+	stand there and shoot at him forever if you want. 
+	Throw the telereceiver down and teleport.
+C6 - Kill the alien, then go down the hole (the door here will close in the
+	next section of the game and not reopen), making sure to use The Drop.
+C7 - Shoot the cayote, then go down and kill the alien.  THEN SAVE!!! YAHOO!
+B7 - Ignore the stone, go left but use the top ledge to avoid a bomb on the
+	next screen.
+A7 - Roll under the passage, kill the alien (no sweat because your save is so
+	close!) and head right.
+B7 - Pick up the key, then stand under the teleporter to get out of this area.
+	Head back to C7 and save, then backtrack up to C5.
+C5 - With the lift up now, you can shoot the alien a little easier, but if this
+	is still too hard, throw your telereceiver left, teleport, then Running
+	Leap to the ledge under the eyeball, jump down and go into D5 to fight
+	the alien.
+D5 - Nothing, just go right.
+E5 - Use the key to open the door and advance to the last level.
+
+
+
+Level 7 - Alien Homeworld Continued
+
+
+Upper Base
+
+       A        B        C        D        E        F        G        H         
+                               ___________________________________
+                              | |___==______   _*_   _||||___r____|
+1                             |_[   ##||||||  _||_##_|  [S__GGG_==|
+                              |||_____-__E|A_i||| ##| _|||||||||##|
+                                                | ##|__  |  __[i##|         
+2                                               | ##|__##|_%##bb  |         
+                                        ________|_##|  ##|__==||  | 
+                                       |  _bb     ##|  ==|@   b   |       
+3                                      |  _||   __==|____|_A_e____|         
+                                       |  _||_______[AA_i|||||  ||| 
+                                       |__  |mm |            |  | 
+4                                      |__A_##_A|            |  |      
+    ___________________________________|||||##|||____________|  |__________
+   |E==_  |||___         _e            |||  ==|     ___              |  ## |
+5  ||##|____]_____E_____  ##____________i]_  _S______||______________[__== |
+   ||##|||||||||  ||||||  ##||||  ||  |||||  |||||||||||||||     ||_____||_| 
+                     |||  ##  |             
+6                    |  __==__|               
+                     |__[  ___|
+
+m = exploding mouse       r = roborat
+@ = auxiliary brain	  e = eyeball
+
+
+
+Inner Core
+
+
+       A        B        C        D        E        F      
+    ___________________________________     
+   |##|    _|__    __|_   |##B___  |m##|              
+1  |##|    _|__ && __|___ |##||||_  |##|                 
+   |##_____S___________[__[==i|==]i__==|_________________ 
+                              |##_________[___[___G_G_i$_|  
+2                             |        |        |        |         
+                              |________|________|________| 
+
+&& = master brain	m = exploding mouse
+B = bomb dropper	$ = central core shaft
+
+
+Okay, here it is, the final stretch.  This level is not hard if you do a lot of
+backtracking, saving, and recharging.  Also, even if you didn't pick up the
+diary in the previous level you will have it now, so take a look. 
+
+E5 - Running Jump to the ledge, go up.
+E4 - Kill these two aliens.  Be wary of that middle wall; if you roll too close
+	you will stand up and lose precious time.  After you kill them, go back
+	down, left to B5 for recharging, then save in E5, then go back up.
+	Leave your telereceiver here.
+E3 - Climb up, then run and leap from the edge to avoid bombs and land safely 
+	on the next screen.
+F3 - Go up all the way to F1.
+F1 - Press the switch to stop the autogun, which ALSO sends down the lift, but
+	it doesn't matter because of the teleporter.  Go into E1.
+E1 - Climb down and press the switch, then teleport to E4.  Ignore the alien.
+E4 - Again, recharge, save, and come back here.  Leave the telereceiver and go
+	to E3.
+E3 - The aliens from the next screen will come for you, so climb down the ledge
+	and hang for a second (you won't be able to see Conrad, so really wait)
+	and then drop down.  Roll around and kill the aliens as they come down
+	to get you.  Teleport away, recharge, save, and come back to F3.
+F3 - One of the aliens will drop a key.  Use it on the switch to open the hatch
+	and climb up to the lift.  Take it up.
+F2 - Go up.
+F1 - The door is open from the switch in E1, so save and go to G1.
+G1 - Walk past the first Green Death as the mouse deactivates it, then throw 
+	the telereceiver to the right and teleport past the other two.  Go down.
+G2 - Use one of the keys you have to open the door (maybe they all work... I 
+	always get it right on my first try), then use The Drop on the space
+	cayote.  He won't hit you if you land on top of him, so roll right to 
+	fall down on a lift.  Stand on the LEFT edge of the lift, and send it
+	up.  Immediately draw and crouch so that you can hit the space cayote
+	as soon as the lift stops.  The lift will trigger the bombs, but they
+	are too far away to hit you.  When all danger is gone, throw your
+	telereceiver down into G3.
+
+
+AUXILIARY BRAIN FIGHT
+---------------------
+Immediately crouch to fight the alien.  Pay attention to the bomb dropper on 
+	the ceiling.  After you kill the alien, head to the right and stand up.
+	Use your force field to block the fire from the autogun on the left, 
+	and just fire as much as possible.  As the auxiliary brain's shield
+	oscillates, you will hit it.  When it becomes a pile of sludge, the
+	bombs stop and the autogun deactivates.  Throw your telereceiver down
+	the new hole and teleport into G5.
+
+
+G5 - Go left and save in E5.  Then go all the way left to A5.
+A5 - The door is now open.  DO NOT TAKE THE LIFT UP.  Instead, climb up onto the
+	wall.  You want the lift down if you intend to win the game "right."
+	Charge your shields if you need it.  Take the farther lift down.
+
+After a short and ominous animation, Conrad has finally reached the planet core.
+He is close to the end of his journey...
+
+A1 - Save!  Go right.
+
+
+MASTER BRAIN FIGHT
+------------------
+You have to shoot the brain six times, alternating which side you shoot from,
+	and you have to kill the aliens that spawn to protect the brain.  What
+	I do is go up to the left ledge, LEAVE MY TELERECEIVER, shoot the brain
+	and go down.  Now you should kill ALL aliens before going to the right
+	ledge.  More will spawn, but not too fast, and they always take one hit.
+	Anyway, after you shoot, always go down and fight the aliens that have
+	spawned, and you can teleport to the left edge instead of climb, which
+	shaves off a lot of time.
+	After you kill the brain, aliens stop spawning, so when there are no
+	more, you're done.  Take your telereceiver and go to C1.
+
+
+C1 - Trip the wire here to open the door back to A1.  Backtrack to the Upper 
+	Base, recharge in A5, go back down to the Inner Core, and save.  In
+	fact, after killing any further aliens, you will want to do this exact
+	same thing.
+	The switch calls down the lift, take it up and proceed right to avoid
+	the bomb dropper.
+D1 - Go up to the ledge and trip the wire.  An alien shoots at you, but can't
+	hit you through the wall, so he comes in to fight you.  Don't wait for
+	him, immediately take the lift back down and fight him on the floor 
+	where there is room.  DO NOT stand at the rightmost part of the floor
+	because when you roll back, Conrad will stand up (because he rolled too
+	close to the wall).  Stand one space away from the wall before crouching
+	and you will have just enough room on both sides of the floor to fight
+	the alien.  Take his key when you kill him, and open the door.  Go down.
+D2 - Go right.
+E2 - Kill these two aliens.
+F2 - You have two options.  Either backtrack ALL THE WAY to H5 of the Upper Base
+	and leave your telereceiver there, or suck it up and be a man.
+	Either way, run onto the first green death and jump.  You will not be
+	killed by either.  Go over to the right, where "an inner voice" tells
+	you to leave the atomic charge here.  Do so, then press the switch to 
+	send it down to the core of the planet.
+
+	Now, if you are tired of playing, you will have left your telereceiver
+	in H5 and you can teleport back (where the door is now open).  Go to
+	the right edge and take the hidden lift up to win the game.
+	
+	If you are ready for one last challenge (which ramps up the climax since
+	you already killed the master brain and spent a bunch of time doing 
+	lame stuff since), run left onto the Green Death and jump.  If you do it
+	just like before, you will not die (you can also leave your telereceiver
+	on the left side of the screen and just teleport... this will not feel
+	like "cheating" at all).
+	Now run like the dickens!  The key idea here is to NOT jump at all the
+	ledges on the way.  You can either hold the directional button to 
+	suppress the Leap action or you can roll while you run to avoid the 
+	leaping action.  But as you run onto C5 of the Upper Base, you DO want
+	to leap, so only hold Y, then keep holding it while pressing up to do
+	two hops to get to the other side.
+	Make sure to use a Running JUMP in E5 so that Conrad jumps over the pit
+	instead of leaping for the ledge.  You may grab the edge of the pit
+	instead of making it all the way, but that's okay, just climb up and 
+	keep going.
+	When you get to H5, head to the far right and take the hidden lift up
+	to win the game!
+
+There is a touching ending, then the credits roll while all the cut scenes from
+the game replay (even lame ones like the recharge sequence).  Enjoy the list
+of game developers with French names rather than Japanese for a change, and 
+bask in your Expert Flashback Player Status.
+
+
+
+VII. Passwords
+--------------
+
+Easy Difficulty:
+New Washington - JWLYX
+Cyber Tower - RSVP
+Earth - DXCPT
+Earth Base - SLMN
+Alien Homeworld - ZTHRK
+Alien Homeworld Continued - CRLQXZ
+
+Normal Difficulty:
+New Washington - BGSFM
+Cyber Tower - PRWG
+Earth - WNPQVX
+Earth Base - NMRYL
+Alien Homeworld - SNTHN
+Alien Homeworld Continued - KLZHT
+
+Expert Difficulty:
+New Washington - JNGLQ
+Cyber Tower - HNYTM
+Earth - KVNF
+Earth Base - DWNGH
+Alien Homeworld - STBRM
+Alien Homeworld Continued - RDBQLR
+
+
+
+VIII. Legal Mumbo-Jumbo
+-----------------------
+
+Copyright 2005, Mike Jenista
+
+This may not be reproduced under any circumstances except for
+personal, private use.  It may not be placed on any web site or
+otherwise distributed publicly without advance written permission.
+Use of this guide on any other web site or as a part of any public
+display is strictly prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by
+their respective trademark and copyright holders. 
+
