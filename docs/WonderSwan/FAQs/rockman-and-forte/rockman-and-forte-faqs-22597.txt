@@ -1,0 +1,323 @@
+ROCKMAN & FORTE for Wonderswan FAQ
+
+by liquidcross [cross(at)liquidcross(dot)com]
+
+This FAQ should ONLY be found on www.gamefaqs.com. If you see it anywhere else,
+please let me know, so I can take the appropriate action.
+Reproducing/copying/posting
+sections of this FAQ is strictly prohibited. Rockman, Forte, Rush, Gospel,
+Quint, and
+all associated materials are the property of Capcom.
+
+
+v1.0 - April 2, 2003
+
+
+Version History:
+
+v1.0 - FAQ completed, finally.
+
+
+What's in this FAQ?
+
+1. Game Info
+2. Characters
+3. Controls
+	a. Horizontal mode
+	b. Vertical mode
+4. Suggested Order
+5. Weaknesses
+6. Attack Patterns
+7. Weapon Descriptions
+	a. Rockman
+	b. Forte
+8. Items
+9. Notes
+10. Credits
+11. Contact Info
+
+
+1. GAME INFO
+
+Rather than porting Rockman & Forte (for the Super Famicom) to the Wonderswan,
+Capcom gave Bandai the OK to make an all-new game. Rockman & Forte are still
+here, along with music from the SFC game, but the levels and bosses are
+exclusive to this game (Quint being the exception; see "Characters" below).
+
+
+2. CHARACTERS
+
+ROCKMAN - Our hero, known as Mega Man in the US. Originally designed as a lab
+assistant, he became a combat robot when Dr. Wily went renegade.
+
+ROLL - Rockman's "sister," created to be a housekeeping robot.
+
+RIGHTOT - Also known as Auto. He's a robot that runs an item shop back at Dr.
+Light's lab.
+
+BLUES - Rockman's "brother." Blues was the first robot that Dr. Light built. In
+the US, he's called Proto Man ("prototype").
+
+DR. LIGHT - The creator of Rockman, Roll, and Rightot.
+
+DR. WILY - A former colleague of Dr. Light, who went mad and tried to take over
+the world numerous times. He was defeated each time by Rockman.
+
+FORTE - Rockman's archnemesis, built by Dr. Wily. Forte is fiercely
+competitive, and refuses to believe that any robot could be more powerful than
+himself.
+
+R-SHADOW - Or as we know him, Quint. He's a future version of Rockman, stolen
+and reprogrammed for evil by Dr. Wily. He was defeated the first time he tried
+to destroy Rockman (see Mega Man II on Game Boy for details), but now he's
+back, and he's brought along a slew of new robots he's built.
+
+
+3. CONTROLS
+
+Some levels use the Wonderswan's vertical control mode (you turn the Wonderswan
+90 degrees to the left). The control is obviously a little different in that
+mode.
+
+Horizontal mode:
+
+Lower (X) D-pad: Movement
+B: Fire (with Rockman, hold to charge)
+A: Jump (with Forte, press twice to double-jump)
+Down (X3) + A: Slide/Dash
+Start: Pause/Weapon Select
+
+Vertical mode:
+
+Upper/left (Y) D-pad: Movement
+X1 (or X4): Fire (with Rockman, hold to charge)
+X2 (or X3): Jump (with Forte, press twice to double-jump)
+Down (Y4) + X2 (or X3): Slide/Dash
+Start: Pause/Weapon Select
+
+
+4. SUGGESTED ORDER
+
+NOTE: Bosses marked with an asterisk (*) have levels that use the vertical
+control mode.
+
+Konro Man - Aircon Man* - Dangan Man - Komuso Man - Clock Men - Compass Man
+
+
+5. WEAKNESSES
+
+Well...it goes like this. None of these bosses are "weak" against a particular
+weapon. They all essentially do the same amount of damage. However, some
+weapons will hit a particular foe repeatedly, doing more damage in the long
+run. That's the weapon you'd want to use.
+
+Boss		Weakness			Weapon Gained (Rockman/Forte)
+=============================================================================
+Gray Devil	Rock/Forte Buster		(n/a)
+Konro Man	Rock/Forte Buster		Flame Shower/Flame Mixer
+Komuso Man	Flame Shower/Flame Mixer	Doppel Crash/Doppeler Attack
+Aircon Man	Flame Shower/Flame Mixer	Barrier Wind/Forte Cyclone
+Dangan Man	Barrier Wind/Forte Cyclone	Rockn Vulcan/Forte Vulcan
+Clock Men	Barrier Wind/Forte Cyclone	Time Switch/Time Bomb
+Compass Man	Barrier Wind/Forte Cyclone	(n/a)
+R-Shadow	Barrier Wind/Forte Cyclone	(n/a)
+
+
+6. ATTACK PATTERNS
+
+NOTE: These strategies assume you're using Rockman. If you're using Forte,
+adjust your strategy accordingly.
+
+Aircon Man - This guy's an Air Man wannabe who carries hand fans. Hand fans?
+What, is the giant fan in his chest not enough?! Sheesh. Anyways, you can
+destroy his initial spread shot. When he floats to the top center of the
+screen, stand beneath him and use the Flame Shower. Once those clouds start
+coming in from either side of the screen, however, get the hell out! If you get
+crushed between them, you're dead. After the clouds, Aircon Man will draw 3
+flying enemies towards him, and you'll usually be in the way. Just keep up your
+attacks, and you'll be rid of him.
+
+Clock Men - Not one, but two annoyances. You'll have to destroy both, of
+course. Luckily, the Barrier Wind/Forte Cyclone will dispatch them in no time.
+They'll attack from both sides and use a time-freezing ability, but you should
+be able to destroy them fairly quickly before they get a chance to do much
+damage.
+
+Compass Man - What a pain in the ass. Not only does this guy split in half to
+attack you, but you can only attack the top part of his lower half! And to
+really piss you off, he won't give you a weapon once you off him. So make him
+suffer! While his lower half is running around, dodge it and blast the hell out
+of the small orb on top of it. When Compass Man reforms, just avoid him as much
+as you can until he splits again. The jerk won't even give you a weapon for all
+your trouble.
+
+Dangan Man - The Barrier Wind can knock off a HUGE chunk of this guy's life!
+Wait until he's standing one side of the screen (he'll jump back and forth, and
+fire at you), then blast away. Be ready to jump, too; true to his name, he'll
+turn into a bullet and launch himself across the screen a few times.
+
+Gray Devil - You fight this thing at the end of the intro stage. He'll fire out
+3 blobs that'll sting you, as well as stick you to the ground (fire repeatedly
+to break free). Then he'll melt into a blob and move towards you. He's not too
+tough; you'll notice that the blobs always land in the same spot, so just stand
+where they DON'T land, and blast away. Jump over him when he gets close, and
+keep going until he's destroyed.
+
+Komuso Man - He can be rather difficult. He'll split himself into triplets,
+then all three of them will fire a spread shot at you from the ceiling. Then
+he'll land a reform himself. When he's whole, hold down your Fire button while
+using the Flame Shower to fry him. Halfway through the battle, Komuso Man will
+summon moving flames from the floor. Jump over them, and continue using your
+Flame Shower like a flamethrower. He's tough, but you'll beat him with
+practice.
+
+Konro Man - This pest will fire a bunch of flames into the air. When they float
+back down, you can destroy them. He'll then fire a trio of flames at you, which
+will leave some flames behind, and then bounce back towards him. Your best bet
+is to attack him right after the flames return to him. When he moves to the top
+of the screen, stay as far off the side as you can; he'll fire a spread shot,
+which you can easily jump over.
+
+R-Shadow (Quint) - Quint will first jump over you and shoot at you or
+slide-attack you. Just dodge him and shoot him with your Buster. Halfway
+through the battle, he'll teleport over your head and try to drill into you.
+Quint will also cause large rocks to come crashing down. His head is his weak
+point here. Towards the end, he'll break out a beam saber. Dodge like mad, and
+use the Barrier Wind/Forte Cyclone to obliterate him for good.
+
+
+7. WEAPON DESCRIPTIONS
+
+Rockman:
+
+Rock Buster - Rockman's standard arm cannon. You can fire up to three shots at
+once, or charge it up for a more powerful shot.
+
+Barrier Wind - A wave of compressed air.
+
+Doppel Crash - A dashing attack, similar to the Break Dash from MMV on Game
+Boy.
+
+Flame Shower - You can hold the button down for a short-range flamethrower, or
+release it to send flames straight up.
+
+Rockn Vulcan - A triple spread-shot cannon, that can home in on some targets.
+
+Time Switch - Just like the Time Stopper from MM2, this weapon wil temporarily
+freeze time.
+
+
+Forte:
+
+Forte Buster - Forte's standard arm cannon. You can rapid-fire it by holding
+the button down, as well as fire in all directions by pressing the D-pad in the
+direction you wish to fire (straight up, etc.). Forte cannot run while firing,
+but he can jump.
+
+Doppeler Attack - Forte breaks into four pieces to damage enemies. Hold the
+fire button down to phase through walls.
+
+Flame Mixer - Rotating fireballs that surround you.
+
+Forte Cyclone - Same as Barrier Wind (above).
+
+Forte Vulcan - Energy pulse that homes in on targets.
+
+Time Bomb - Same as Time Switch (above).
+
+
+8. ITEMS
+
+You can buy all manner of crap from Rightot's shop by collecting bolts. Some
+items only Rockman can use, and some only Forte can use, but most of them can
+be used by either character. Cost is listed in parentheses () next to each
+item. Items marked with an asterisk (*) can only be used ONCE. Items are also
+marked [R] if only Rockman can use them, or [F] if only Forte can use them. The
+items are listed as they appear on the screen, from left to right.
+
+
+First row:
+
+Rockman 1-Up [R] (200) - Extra life.
+
+Forte 1-Up [F] (200) - Extra life.
+
+Exit Unit* (50) - Teleport out of a stage you've already completed.
+
+Rush Coil* [R] (100) - Bounce off Rush's back like a springboard.
+
+Gospel Boost* [F] (200) - Gospel teleports down and becomes a jetpack for a
+short time.
+
+Tango* [R] (200) - Just like in MMV, Tango will bounce around the screen
+breaking things.
+
+
+Second row:
+
+Power Shot [F] (300) - Increases the power of your Forte Buster.
+
+Phase Shot [F] (300) - Your Forte Buster can now fire through walls.
+
+Beat* [R] (300) - Temporary invulnernability while Beat attacks enemies.
+
+Energy Balancer (150) - When you pick up weapon capsules, they'll automatically
+go to the weapon that needs them the most.
+
+Energy Plus (300) - Weapon capsules will give you more energy.
+
+Energy Saver (150) - Weapons will consume less energy.
+
+
+Third row:
+
+Health Plus (200) - Life capsules will give you more energy.
+
+Shell* (50) - Those "party shells" from MM8 will appear in the next level you
+go to, and drop random items when you destroy them. The effects only last until
+you beat the level or lose a life.
+
+Eddie* [R] (150) - Eddie will pop in and give you a random item.
+
+Reggae* [F] (150) - Same as Eddie (above), except that annoying bird Reggae
+shows up instead.
+
+Shock Buffer* (20) - Instead of being instantly destroyed on spikes, this'll
+save you. Remember that it only works ONCE!
+
+Armor (300) - You'll take less damage.
+
+
+9. NOTES
+
+- Yes, I know they spell it "CompasMan" in the game. I threw in the extra "S"
+for clarity's sake.
+- Wondering where the hell some of these boss names come from? My guess is that
+the development team smoked a lot of pot. At any rate, "compass" and "clock"
+are fairly obvious. Even "aircon" isn't too much of a stretch (it's short for
+"air conditioner"). As for the more obscure names:
+- A "konro" is a type of cooking grill. That explains the flames that Konro Man
+shoots out, as well as the dial on his face (the thermostat).
+- A "komuso" is a style of bamboo flute. The outfit that Komuso Man wears is
+modeled after a traditional costume for a komuso player.
+- A "dangan" is a bullet.
+- There's no E-Tanks in this game. Yeah, it sucks, but at least you can save
+after each stage.
+- This is only the second original series Rockman game where Dr. Wily is NOT
+the final boss. (The other is MMV on Game Boy.)
+
+
+10. CREDITS
+
+- Thanks go out to Capcom and Bandai for producing such an obscure game that
+still manages to be a decent platformer.
+- Thanks to my pal "Hiro-kun" for some translation assistance.
+
+
+11. CONTACT INFO
+
+Know something I don't? Found a secret you're dying to share? Let me know! I'll
+credit you in future versions of this FAQ. Just email me:
+cross(at)liquidcross(dot)com. Be sure to place "Rockman & Forte (WS)" in the
+subject line. Thanks!
+

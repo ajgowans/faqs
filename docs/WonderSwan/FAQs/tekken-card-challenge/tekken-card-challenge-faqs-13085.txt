@@ -1,0 +1,1029 @@
+鉄拳カードチャレンジ
+Tekken Card Challenge
+=============================================================================
+Tekken Card Challenge for the WonderSwan
+FAQ/Walkthrough V0.80
+Last Updated July 23, 2001
+Written by Jeff "CJayC" Veasey for GameFAQs (www.gamefaqs.com)
+=============================================================================
+Copyright 2001 Jeff Veasey.  You may not post this guide up on your web page,
+print it in a magazine, or otherwise distribute it in any way without
+permission.
+=============================================================================
+This document uses Shift-JIS encoding to display Japanese characters.  Most web
+browsers can easily be updated to show Shift-JIS pages without much effort. 
+See your browser's documentation for more details.
+=============================================================================
+
+Table of Contents
+----------------------------------------
+I.    Introduction and Version History
+II.   Menu Translations
+III.  Card Battle Mechanics
+IV.   Adventure Game Mechanics
+V.    Card Marks
+VI.   Card List
+VII.  Adventure Game Strategy
+VIII. Codes and Secrets
+IX.   Administrivia
+
+=============================================================================
+
+I.    Introduction and Version History
+
+I've owned this game almost since it came out, but I never really understood
+what was going on until I sat down and started translating the Japanese.  Now I
+know, and I can truly say that this title is just way too random to be much
+fun.  It's enjoyable for a little while, but there's just no way to control
+what's going on most of the time...  Ah well, what did you expect for a Tekken
+offshoot?
+
+Version 0.80 (7/23/01): Missing 4 card values, 5 character strategies, True
+Ogre's card names.
+Version 0.50 (7/22/01): First public release, all card lists full, missing 5
+card values.
+
+=============================================================================
+
+II.   Menu Translations
+
+Main Menu
+---------
+Adventure         アドベンチャー
+1-Player Battle   1人でバトル
+1-Player Battle   2人でバトル
+Link War          通信対戦
+Data Initialize   データの初期化
+
+Adventure Stage Clear Menu
+--------------------------
+Continue          つずける
+Character Select  キャラをかえる
+Exit to Main Menu しゅうりょう
+
+=============================================================================
+
+III.  Card Battle Mechanics
+
+A card battle is a one-on-one battle between two characters.  Each character
+starts with four cards, and selects one (or more, depending on certain
+situations) of those cards to play against the opponent each turn.  The cards
+are cycled through quickly in a roulette, making it very difficult to select
+the intended card.  When playing against the computer, cards are always
+selected randomly.
+
+Each round, each player selects a card from the roulette, and the cards are
+played against one another.  All main characters start with 100 hit points
+(Tekken Forces characters always have fewer), and the battle ends when one
+player is knocked out with 0 hit points remaining.
+
+There are four types of cards available to every player:
+  Guard Card:  Always card 01 with a point value of 00, this will guard against
+both single and multiple attacks (except unblockable attacks).
+  Attack Cards: Cards 02-10 (and sometimes 11 or 12, depending on the
+character) with attack values ranging from 10 to 95.  Many cards have marks,
+which add or remove certain features from cards.
+  Block Cards:  Cards 11 and/or 12, depending on the character, acts like a
+guard card but always with a bonus mark.
+  Combo Cards:  Cards 13 through 15, which give the character 2, 3, and 4-hit
+combos against the opponent.  Considered standard Attack cards for point value
+purposes.  Not available in 1- or 2-player battles. See Adventure Game
+Mechanics for more detail.
+
+When two attack cards are played, the point values from each card are compared
+against one another.  If one attack card has a higher value than the other,
+then that card wins and the opponent is damaged for the point value on the
+card.  The losing card is discarded from the loser's deck, and the winning card
+is shuffled back into the winner's deck.
+
+When an Attack card is played against a Guard or Block card, neither side
+sustains damage, and both cards are discarded.  Exceptions are when a Block
+card contains a Counter mark (the attacker takes damage) or the Attack card is
+unblockable (Attack wins and is re-shuffled).
+
+When two Guard or Block cards are played against one another, neither side
+takes damage, and both cards are discarded from the deck.
+
+=============================================================================
+
+IV.   Adventure Game Mechanics
+
+Selecting Characters
+--------------------
+The first time you play the game, you will be given the choice of three
+starting characters.  The first two are always Jin and Xiaoyu, but the third is
+dependant on the Sex and Blood Type you entered in the personalization menu on
+your WonderSwan: (If you've never played with the menu, simply hold the Start
+button while powering on your WS.)
+
+Sex   Blood      Character
+--------------------------
+ ?      ?        Hwoarang
+ M      ?/A/AB   Hwoarang
+ M      A        Lei
+ M      B        Eddy
+ M      O        Paul
+ F      Any      Nina
+
+After you've selected the starting character, subsequent returns to the
+character select screen will present you with a 21-character menu from which
+you can select any unlocked character.  Additionally, if you press the Y4
+button while over a character, you will be given the option to re-intialize
+that character's data.  Otherwise, simply press A to select the character and
+enter the game.
+
+Controls
+--------
+The X-Buttons are used to move your character around the stage.  The A-Button
+is used to engage enemy characters.  The B-Button displays an explanation of
+the Y-Button, and is used to exit Y-Button menus.
+
+The Y-Buttons are used primarily in deck management:
+ Y1: Deck Change - View cards, set up your hand for the next battle.  X to
+move, A to select, B to cancel/exit, Y4 to view descriptions.
+ Y2: Combo Change - Change your combo card setup.  X to move, A to select, B to
+cancel/exit, Y4 to view descriptions.
+ Y3: Card View - X1 and X3 to cycle through cards, B to exit.
+ Y4: Exchange - Upgrade 10 unused cards to the next higher level card.  X to
+move, A to select, B to cancel/exit, Y4 to view descriptions.
+
+To reset the game at any point, press A + B + Start.
+
+The Adventure Field
+-------------------
+Each stage of the Adventure game takes place on a 15X15 square field.  Your
+character has 60 "steps" in which to traverse the field and make it to the
+exit.  The starting point is always on the leftmost column of the field, and
+the ending point is always on the rightmost column.  Warning sirens will sound
+at 20 and 10 steps remaining, and if you run out of steps, the "TIME UP" screen
+appears and the stage ends.
+
+On each Adventure Field, you will find the following elements:
+ - Plain Tiles: On which you can walk
+ - Block Tiles: Trees, buildings, and mountains through which you can't pass
+ - Kurukuru Cards: Extra cards for your deck - Walk over to pick them up
+ - Temples: Two buildings that restore full health and grant cards and levels
+ - Pits: Black holes that damage your character for a random point total.
+ - Tekken Forces: Three or four low-level characters (Crow, Falcon, Hawk, and
+Owl) who are looking to battle you.
+ - Rival: One of three rivals for your character; an even match.
+ - Entry/Exit Buildings: Your start and end points on each stage.
+
+At the bottom of the screen are five figures:
+ - Your character's HP (Maximum of 100, 50 for Crow)
+ - Your character's Level (Maximum of 9)
+ - Your characters Card Points (Maximum of 99)
+ - Steps Remaining (Starts at 60, TIME UP at 0)
+ - Current Stage Number (Maximum of 99)
+
+As you move around, one square in each direction is revealed to you.  Temples,
+Entry/Exit Buildings, and some (but not all) Block Tiles are visible from a
+distance, but everything else is invisible.  There is also an arrow on top of
+your character, which always points to the nearest Tekken Force, Rival or
+Temple.
+
+Your main objective on each stage is to make it to the Exit Building before you
+run out of steps, collecting as many cards along the way as possible.  If you
+run out of time or are defeated in battle, the game ends, returning you to the
+menu.  Additionally, you will lose one of each card you have in your deck
+(leaving a minimum of 2 cards of any one type).
+
+Card Battles take place when you encounter enemy characters.  Battles will
+commence if you run into an enemy who was hidden, if enemies surround you from
+the rear and both sides, or if you are facing an enemy and press A.  If a
+battle begins automatically, you will only face that one enemy, but if you are
+directly next to multiple enemies and press the A button, you will engage all
+enemies one after another with no break in between.
+
+If you defeat a Rival, there seems to be a random chance that the Rival will be
+unlocked in the character selection screen.  There is no pattern to the
+unlocks, although getting a Perfect against the Rival seems to increase the
+chances.
+
+Once your character reaches Level 9 (not Stage 9), the next stage and all
+following stages will turn into "Ogre World".  There are no Rivals in Ogre
+World stages, but in their place is the Ogre Tower, in which Ogre resides. 
+When you beat Ogre, the game ends, although you can re-enter the game for that
+character afterwards, and the world will return to normal.
+
+Enemies
+-------
+On each stage are up to four enemies, one of which can be a Rival character.
+The most common enemy are the Tekken Forces, represented by four characters
+from Tekken 3's Tekken Force mode:
+  Crow: 50 Hit Points
+  Falcon: 60 Hit Points
+  Hawk: 70 Hit Points
+  Owl: 80 Hit Points
+
+The chances of meeting the tougher Tekken Forces depends on your character's
+level, not the stage number.  You likely won't see anyone but Crow for the
+first few levels, and then you'll notice Falcon and Hawk appear between levels
+4 and 6.  At level 9, all four characters will appear randomly.  The Tekken
+Forces always are at the same card level as your character, so see Crow's card
+list below to get an idea of what to expect.
+
+Your rivals are also at your card level, and always have 100 hit points.  Only
+one of your three rivals will appear on any stage, so once you've met them, you
+only have to worry about Tekken Forces.
+
+Once you reach level 9, the Ogre Tower will appear on each stage field.  Ogre
+is naturally at Level 9, and once he is defeated, he is replaced by True Ogre. 
+True Ogre has 200 Hit Points, but is a Level 1 character with only four cards
+to choose from.  One of them is an unblockable 50-point attack, but the others
+are standard attack cards from 20 to 40 points.  True Ogre cannot block, but he
+cannot be juggled either.
+
+Gaining Cards and Levels
+------------------------
+As you progress through each Adventure Stage, you will gain cards and card
+points from either battles or picking up Kurukuru cards on the ground.  You
+will only gain and find cards that are within your current card level, so it is
+important to raise your card level.
+
+Defeating a Tekken Force character will win you one card and one Card Point.
+Defeating a Rival will win you two cards and two points, but getting a Perfect
+(taking no damage, regardless of your starting HP) will win three cards and
+points.  As you might expect, picking up a Kurukuru card nets you a single card
+and point for each one you find.
+
+Every 10 card points you gain, you are eligible to move up one level.  Simply
+enter a Temple, and you will gain a new card to match your new character level.
+ Once you have reached level 9, no new levels are gained, but you will receive
+one random card.
+
+Each character has 15 cards associated with them.  Cards 2 through 5 are
+granted at the beginning of the game, and another 8 cards are received at each
+Level Up.  The remaining three cards are Combo Cards, which can be gained at
+the completion of the 5th, 10th, and 15th stages if the following requirements
+are met:
+  2-Ren Combo:  Card Level 4 (Stage 5, 10, or 15)
+  3-Ren Combo:  Card Level 7 (Stage 10 or 15, must have 2-Ren)
+  4-Ren Combo:  Card Level 9 (Stage 15, must have 2-Ren and 3-Ren)
+
+If you miss gaining a Combo Card at the end of a stage, you will not be able to
+get that card for that character.  This makes it vitally important to get to
+the required card levels for each of the three stages, as the Combo cards are
+very useful.
+
+Deck Management
+---------------
+At any point on the Adventure Field you can stop and manage your deck by
+pressing one of the Y buttons.
+
+Deck Change: Y1 Button
+The Deck Change allows you to set up your hand (i.e. your first four cards) for
+the next battle.  You can place up to two of any card in your hand.  In the
+card list, you will see two numbers to the right of each card.  The first shows
+how many cards are available to use in your hand (Max 2) and the second shows
+the number of remaining cards in your deck (Max 15).
+
+Combo Change: Y2 Button
+The Combo Change allows you to set up your Combo Cards.  Each of the three
+combo cards allows you to put in-deck cards in a combo (as if played serially).
+ The total point count of the cards you use in your combo cannot exceed the
+point count of the combo card, but it does not have to match it.  In a Combo,
+you can only use Attack Cards, the Serial mark is not effective, and only the
+first card in the combo is affected by preceeding marks (such as the Style
+card).
+
+Exchange: Y4 Button
+The Exchange allows you to trade 10 of any card in your deck for the next
+higher level card.  You can only carry a maximum of 15 cards of any one type in
+your hand, and the Level 9 card cannot be traded up.
+
+=============================================================================
+
+V.    Card Marks
+
+Upper Arrow     /^  Juggle      浮かし
+  When a juggle card is used to attack successfully, the opponent becomes
+airborne, and the attacker is given a free play for the next round.  Multiple
+juggles can be played one after another, chaining several free hits together.
+
+Double Arrow    >>  Serial      連続
+  A serial card starts a "combo" of sorts, allowing the attacker to select
+another card to follow the first attack, and the damage total of all chained
+cards is used in the attack.  Selecting an already-selected card or a
+non-attack card ends the chain and begins the attack.  Multiple Serial cards
+can be chained together one-after-another, and the sum-total damage of all
+cards is used in the attack.
+
+Double Line     //  Block       さばき
+  A Block card blocks any incoming attack, nullifying its damage. 
+Additionally, if a block successfully stops an attack, one random card from the
+attacker is removed from the roulette for the next round only.
+
+Turning Arrow   />  Counter     返し
+  A Counter card takes any attack thrown against the character and counters it
+back against the attacker.  Counter damage cannot KO an opponent, but it will
+reduce their health down to 5 points.  Counter cards take precedence over an
+unblockable card.
+
+"K"             K   Style       かまえ
+  After a Style card has been successfully played (an attack card hits or a
+defense card blocks), certain attacks will hit for double damage.  The card's
+point value does not increase, but the damage done on a successful hit will be
+raised.  All characters with Style cards except Law and Hwoarang also have
+corresponding Diaya cards that will double the attack power.  For Law and
+Hwoarang, on the next turn, an attack card will play as a Serial card.
+
+Exclamations    !!  Self-Damage 自分もダメージ
+  A Self-Damage card damages the attacker as much as the defender by the same
+damage point count if it is successful.  Self-Damage cannot KO the attacker,
+but it can reduce the health all the way down to 5 points.
+
+Triangle        |\  Disconnect  外れることあり
+  A Disconnect card attack will be dodged if it immediately follows a
+successful attack.
+
+Diamond         *   Daiya       ダイヤ
+  Diaya cards have special properties, depending on the specific card.  The
+Daiya cards are marked in the card list below as follows:
+     *S = 2X Attack when played after Style かまえから、こうげき力UP
+     *G = Unblockable Attack                ガードもさばきもできない
+     *H = HP Steal Attack                   HPをかいふく
+     *R = Style card plays as a Series      かまえなられんぞくルーレット
+
+=============================================================================
+
+VI.   Card List
+
+====================================================================
+Law                           Rivals:  Mokujin, Paul, Hwoarang
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Dragon Knuckle Combo      10  >>    ST  D.ナックル
+03  Dragon Storm              15  /^    ST  D.ストーム
+04  Dragon Rush               20  /^    ST  D.ラッシュ
+05  Trap Right Blow           25  >>    ST  トラップ
+06  Somersault Kick           30  /^    L2  サムーソルト
+07  Dragon Slash              35  /^    L4  D.スラッシュ
+08  Dragon Tail               40        L6  D.テイル
+09  Double Dragon             45        L8  W.ドラゴン
+10  Sunkei                    50        L9  寸勁
+11  Sabaki                    00  //    L7  さばき
+12  Fake Step                 00  // K  L5  フェイク
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Ogre                          Rivals: Heichachi, King, Hwoarang
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  Double Face Breaker       10        ST  ダブルフェイス
+03  Quetzalcoatl              20  >>    ST  ケツアルクアトル
+04  Sneak Blade               30  /^    ST  スネイクブレード
+05  Blazing Kick              40  /^    ST  ブレイジングK
+06  Awaseduki                 45        L4  合突き
+07  Zangetsu                  50  >>    L5  残月
+08  Infinity Kick Combo       55        L6  インフィニティ
+09  Leg Bazooka               60        L8  レッグバズーカー
+10  Seiranken                 90  *G    L9  青嵐拳
+11  Tobu                      00  //    L3  飛ぶ
+12  Kannenshouheki            00  />    L7  感念障壁
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Kuma                          Rivals: Heihachi, Paul, Panda
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Chouhatsu                 10        ST  挑発
+03  Kuma-Kijinken             20  /^    ST  熊鬼神拳
+04  Bear Scissors             30        ST  ベアシザース
+05  Double Hammer             40  |\    ST  ダブルハンマー
+06  Hip Press                 50  |\    L2  ヒッププレス
+07  Megaton Claw              60  *S |\ L5  メガトンクロー
+08  Rolling Bear              70  |\    L6  ロリング
+09  Salmon Hunting            80  |\    L7  サーモン
+10  Kurenaigaeshi             95  |\    L9  紅返し
+11  Shagamu                   00  K     L4  しゃがむ
+12  Cheerful Ball Up          90  |\    L8  ボールアップ
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               50        S10 3連コンボ
+15  4-Ren Combo               60        S15 4連コンボ
+====================================================================
+Mokujin                       Rivals: Heihachi, Xiaoyu, Jin
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  Ankyaku                   10        ST  暗脚
+03  Devil Kiss                15  K     ST  デビルキッス
+04  Karin                     20  !!    ST  華輪
+05  Firecracker               25  /^    ST  ファイヤークラッカー
+06  Ali Kick                  30  *S    L4  アリキック
+07  Sousouga                  35        L6  綜爪牙
+08  Mukurowari                40        L7  骸割り
+09  Mahha Punch               45  *S    L8  マッハパンチ
+10  Mokujin Fang              50  *G    L9  木人ファング
+11  Sabaki                    00  //    L3  さばき
+12  Kaeshi                    00  />    L5  返し
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Julia                         Rivals: Heihachi, Eddy, King
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Chouhatsu                 10        ST  挑発
+03  Koshinchuu                15        ST  虎身肘
+04  Soukuuhou                 20        ST  蒼空砲
+05  Tsuutenhou                25  /^    ST  通天砲
+06  Zensoujuujiha             30  /^    L2  前掃十字把
+07  Senkyuutai                40        L4  穿弓腿
+08  Totsusoushou              50        L6  突双掌
+09  Ponken                    60        L8  崩拳
+10  Shippohouchuu             70  >>    L9  疾歩崩肘
+11  Sabaki                    00  //    L5  さばき
+12  Tenshintai                00  />    L7  転身腿
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               55        S10 3連コンボ
+15  4-Ren Combo               75        S15 4連コンボ
+====================================================================
+Panda                        Rivals: Jin, Xiaoyu, Kuma
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Chouhatsu                 10        ST  挑発
+03  Kuma-Kijinken             20  /^    ST  熊鬼神拳
+04  Panda Scissors            30        ST  パンダシザース
+05  Double Hammer             40        ST  ダブルハンマー
+06  Hip Press                 45        L2  ヒッププレス
+07  Megaton Claw              50  *S    L5  メガトンクロー
+08  Rolling Panda             55        L6  ロリングパンダ
+09  Sasa Hunting              60        L7  ササハンティング
+10  Sasagaeshi                70  *S    L9  笹返し
+11  Shagamu                   00  K     L4  しゃがむ
+12  Cheerful Ball Up          65        L8  ボールアップ
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               50        S10 3連コンボ
+15  4-Ren Combo               60        S15 4連コンボ
+====================================================================
+Paul                         Rivals: Law, Kuma, Jin
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Somersault-NG             10  !!    ST  サマーNG
+03  Kawarawari                20        ST  瓦割り
+04  Urahayate                 30  /^    ST  裏疾風
+05  Fugaku                    40        ST  富嶽
+06  Abisekeri                 50        L2  あびせ蹴
+07  Rakuyou                   55        L4  落葉
+08  Tenpouryuu                60  /^    L6  三宝龍
+09  Masakariusa               65        L7  鉞打ち
+10  Ponken                    70        L9  崩拳
+11  Ukikusa                   00  //    L5  浮草
+12  Zansetsu                  00  />    L8  残雪
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               ??        S15 4連コンボ
+====================================================================
+Xiaoyu                        Rivals: Anna, Lei, Eddy
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Chouhatsu                 10        ST  挑発
+03  Haishingeki               15  >>    ST  背身撃
+04  Fujinkyaku                20        ST  斧刃脚
+05  Jouhoshouken              25        ST  上歩掌拳
+06  Touken                    30  >> *S L2  蕩肩
+07  Toukuuhaikyaku            35  *S    L4  騰空擺脚
+08  Souhekishou               40  >>    L6  双壁掌
+09  Kobikyaku                 45  /^    L8  虎尾脚
+10  Kasuishou                 50        L9  架推掌
+11  Houou no Kamae            00  K     L5  鳳凰の構え
+12  Sabaki                    00  //    L7  さばき
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Yoshimitsu                    Rivals: Paul, Doctor.B, Heihachi
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Manji Agura               10  *H    ST  卍あぐら
+03  Ninpou Manji Kazura       20  >>    ST  卍葛
+04  Yoshimitsu Blade          30        ST  ブレード
+05  Hikuuken                  40        ST  飛空剣
+06  Jiraiba                   45        L2  地雷刃
+07  Hyuugahou                 50  /^    L5  日向砲
+08  Dokugiri                  55  *G    L7  毒霧
+09  Zetsumeiken               60  *G |\ L8  絶鳴剣
+10  Madoinashi                65  *G !! L9  不惑
+11  Sengaku                   50  *H    L4  千覚
+12  Sabaki                    00  //    L6  さばき
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               ??        S15 4連コンボ
+====================================================================
+Nina                          Rivals: Anna, Hwoarang, Jin
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  One-Two Punch             10  >>    ST  ワンツー
+03  Udehishigiharagatame      20  >>    ST  腕挫腹固
+04  Urakannukitakabajime      25  >>    ST  鷹羽絞
+05  Binta                     30        ST  ビンタ
+06  Shouaku                   35  >>    L3  掌握
+07  Abitogiri                 40        L5  あびとぎり
+08  Divine Cannon             45  /^    L7  D.キャノン
+09  Fall Kick                 50        L8  ファールキック
+10  Soushouha                 55        L9  双掌破
+11  Sabaki                    00  //    L4  さばき
+12  Kaeshi                    00  />    L6  返し
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Heihachi                      Rivals: Julia, Jin, Xiaoyu
+--------------------------------------------------------------------
+01  Guard                     00        L4  ガード
+02  Kikokurenken              10        ST  鬼哭連拳
+03  Goushouha                 20        ST  剛掌破
+04  Tamonsatsu                30  >>    ST  多聞殺
+05  Narakubarai               40        ST  奈落払い
+06  Ponken                    50        L2  崩拳
+07  Fuujinken                 60  /^ *S L5  風神拳
+08  Kijinken                  70  /^    L7  鬼神拳
+09  Raijinken                 80  *S    L8  雷神拳
+10  Onigawara                 90  |\ *S L9  鬼瓦
+11  Step                      00  K     L3  ステップ
+12  Itsutetsu                 00  />    L6  一徹
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+King                          Rivals: Gun Jack, Paul, Lei
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Drop Kick                 10        ST  ドロップキック
+03  Knuckle Bomb              35        ST  ナックルボム
+04  Shoulder Tackle           40        ST  タックル
+05  Leg Lariat                50        ST  Lラリアット
+06  Back Drop                 45  >>    L2  バックドロップ
+07  Power Bomb                15  >>    L4  パワーボム
+08  Giant Swing               20        L6  G.スイング
+09  Muscle Buster             25        L8  M.バスター
+10  Romero Special            30        L9  ロメロ.S
+11  Sabaki                    00  //    L5  さばき
+12  Kaeshi                    00  />    L7  返し
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Lei                           Rivals: Yoshimitsu, Xiaoyu, Bryan
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Haishinenbiraku           10        ST  背身燕尾落
+03  Ryuusei                   15        ST  龍声
+04  Hyousousou                20  /^ *S ST  豹双爪
+05  Kenzankyaku               25        ST  巻暫脚
+06  Kousouenbu                30        L2  後掃燕舞
+07  Choukyuukyaku             35  /^    L5  跳弓脚
+08  Choukakurengeki           40  /^ *S L6  跳鶴連撃
+09  Suikyogeki                50        L8  酔虚撃
+10  Sekitou                   55        L9  石頭
+11  Tsuru no Kamae            00  /> K  L4  鶴の構え
+12  Suiho                     00  //    L7  酔歩
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Jin                           Rivals: Nina, Yoshimitsu, Hwoarang
+--------------------------------------------------------------------
+01  Guard                     00        L4  ガード
+02  Narakurai                 10  *S    ST  奈落払い
+03  Kifuumon                  20        ST  鬼風門
+04  Shiunnidangeri            30  /^    ST  紫雲二段
+05  Hakuroyuubu               35        ST  白鷺遊舞
+06  Furajinken                40  /^ *S L2  風神拳
+07  Oiduki                    45  /^    L3  追い突き
+08  Onikubiotoshi             50        L6  鬼首落とし
+09  Rasetsumon                55  *S    L7  羅刹門
+10  Raijinken                 60  *S    L9  雷神拳
+11  Step                      00  K     L5  ステップ
+12  Kaeshi                    00  />    L8  返し
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               55        S10 3連コンボ
+15  4-Ren Combo               70        S15 4連コンボ
+====================================================================
+Hwoarang                      Rivals: Jin, Law, Heihachi
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  One-Two Punch             15        ST  ワンツー
+03  Middle Back Blow          20        ST  ミドルバックB
+04  Maeashigari               30  K     ST  前足刈り
+05  Lightning Blow            35        ST  ライトニングB
+06  Round Kick                40        L2  ラウンドキック
+07  Cut Back                  45  K     L5  カットバック
+08  Bazooka Kick              50        L7  バズーカーK
+09  Raging Blade              55  /^    L8  ライジングB
+10  Heel Explosion            60  *G |\ L9  ヒールEXP
+11  Flamingo no Kamae         00  K     L4  フラミンゴの構え
+12  Sabaki                    00  //    L6  さばき
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               ??        S15 4連コンボ
+====================================================================
+Doctor B.                     Rivals: Anna, Yoshimitsu, Nina
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  Poison Breath             10  *G    ST  ポイズンブレス
+03  Brilliant Pegasus Buster  20        ST  ブリリアント
+04  Youtsuu                   30  !! *S ST  腰痛
+05  Doctor Manji Car          40  *H    ST  ドクター卍カー
+06  Rope Through              50        L3  ロープスルー
+07  Kenjinken                 55  /^    L5  賢人拳
+08  Roujinken                 55  /^    L6  老人拳
+09  Panic Smoker              70        L8  パニークスモーカー
+10  Roubakuken                80  *G    L9  老爆拳
+11  Uchukageoshi              00  K     L4  裏影足
+12  Panic Doctor              00  //    L7  パニークドクター
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               ??        S15 4連コンボ
+====================================================================
+Bryan                         Rivals: Doctor.B, Yoshimitsu, Lei
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  Chouhatsu                 10        ST  挑発
+03  Sway and Smash            20  /^ *S ST  スウェー&スマッシュ
+04  Snake Edge                30  >>    ST  スネークエッジ
+05  Double Body Blow          40        ST  W.ボディーブロー
+06  Slicer                    50        L4  スライサー
+07  Flying Kneel Kick         60        L6  フライングニールK
+08  Snake Fang                65        L7  スネークファング
+09  Mahha Punch               70        L8  マッハパンチ
+10  Mahha Combination         75  >> |\ L9  マッハコンビ
+11  Sabaki                    00  //    L3  さばき
+12  Sway                      00  // K  L5  スウェー
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Crow                          Rivals: Jin, Xiaoyu, Heihachi
+--------------------------------------------------------------------
+01  Guard                     00        L3  ガード
+02  Ginsenka                  10  *S    ST  銀閃華
+03  Knee Break                15  *S    ST  ニーブレイク
+04  Jab                       20  *S    ST  ジャブ
+05  One-Two Punch             25  *S    ST  ワンツー
+06  Snake Edge                30  *S    L2  スネークエッジ
+07  Fubuki                    35  *S    L4  吹雪
+08  Middle Kick               40  *S    L6  ミドルキック
+09  Kakatootoshi              45  *S    L7  踵落し
+10  Fuujinken                 50  *S    L9  風神拳
+11  Nakama o Yobu             00  K     L8  仲間を呼ぶ
+12  Juu o Kamaeru             40  !!    L5  銃を構える
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+Gun Jack (CANNOT BE JUGGLED)  Rivals: Julia, Bryan, Anna
+--------------------------------------------------------------------
+01  Guard                     00        L5  ガード
+02  Machine Gun Knuckle       10        ST  マシンガンN
+03  Violence Upper            20        ST  バイオレンスU
+04  Cherno                    30        ST  チェルノ
+05  Head Sliding              40        ST  スライディング
+06  Exploder                  50        L2  エクスプローダー
+07  Megaton Sweep             55        L3  メガトンスィープ
+08  Stomping Kick             60        L4  ストンピング
+09  Bravo Knuckle             70        L7  ブラボーナックル
+10  Gigaton Punch             95  |\    L9  ギガトンパンチ
+11  Sora o Tobu               00  //    L6  空を飛ぶ
+12  Dive Bomber               80  *G |\ L8  ダイブボマー
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               50        S10 3連コンボ
+15  4-Ren Combo               60        S15 4連コンボ
+====================================================================
+Anna                          Rivals: Mokujin, Gun Jack, Nina
+--------------------------------------------------------------------
+01  Guard                     00        L2  ガード
+02  Chaos Tear                10        ST  カオステイル
+03  Peking Heel               15  *S    ST  ピッキングヒール
+04  Somersault Kick           25  /^    ST  サムーソルト
+05  Bloody Chaos              30  /^    ST  ブラッディカオス
+06  Executioner               40        L4  エクスキューショナー
+07  Right Hand Stab           45        L6  ライトハンドS
+08  Soushouha                 50        L7  双掌破
+09  Bloody Scissors           55        L8  ブラッディシザース
+10  Yamaarashi                60        L9  山嵐
+11  Chaos Judgement           00  /> K  L3  ジャッジメント
+12  Kaeshi                    00  />    L5  返し
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               70        S15 4連コンボ
+====================================================================
+Eddy                          Rivals: Xiaoyu, King, Julia
+--------------------------------------------------------------------
+01  Guard                     00        L4  ガード
+02  Bencao                    10        ST  ベンリン
+03  Lateral                   20  K     ST  ラテラオ
+04  Biriba Troca              30  /^    ST  ビリバ
+05  Espada                    40  >> K  ST  エスパーダ
+06  Suicidio                  45        L3  シジュ
+07  Au Batido                 50        L5  バチュド
+08  Parafuzo                  55  *R    L7  パラフーゾ
+09  Cabecada                  60        L8  サベサダス
+10  Vucao                     65  >>    L9  ヴカオン
+11  Sakadachi                 00  K     L2  逆立ち
+12  Suwaru                    00  //    L6  座る
+13  2-Ren Combo               40        S5  2連コンボ
+14  3-Ren Combo               60        S10 3連コンボ
+15  4-Ren Combo               80        S15 4連コンボ
+====================================================================
+
+Not Playable:
+====================================================================
+True Ogre (CANNOT BE JUGGLED)
+--------------------------------------------------------------------
+02  ????                      20        ST
+03  ????                      30        ST
+04  ????                      40        ST
+05  ????                      50  *G    ST
+====================================================================
+
+=============================================================================
+
+VII.  Adventure Game Strategy
+
+General Strategy
+----------------
+*  It's always better to Reset than lose a battle.  Since you can always tell
+if your opponent is going to be able to knock you out on the next card, hitting
+reset will save you the loss of your cards and allow you to try the level over.
+*  If you cannot make the required levels to get the combo cards on stages 5,
+10, or 15, it's best to take the TIME UP and loss of cards rather than losing
+the chance to get those combo cards.  You only have one shot at them, and
+losing the cards due to a TIME UP does not decrease your Card Point total or
+your Card Level.
+*  One cheap way to get ahead in the game is to replay stage 1 over and over,
+collecting cards, avoiding battle, and not leveling up.  You can gain up to 99
+card points without leveling up, which will allow you to play through levels
+without having to worry about collecting Card Point to get those elusive Combo
+Cards.
+*  Don't be in such a rush that you hit a pit.  Look where you're stepping.
+*  One good strategy in a level is to immediately head for the exit, then step
+back and look for cards and easily-winnable battles until time grows short.
+*  When preparing to meet Ogre, make your way to the exit in Ogre World, then
+stop and set up your combo cards and your hand before leaving the stage.  Your
+setup is saved at the end of each stage, so you'll be ready to face Ogre time
+and time again with your preferred setup if need be.
+*  Against Ogre, the best card setup is generally one counter card (if you have
+one) and three of your highest attack cards or serial cards if you have them.
+
+Character Strategy: Law
+-----------------------
+When playing as Law, live for those Serial attacks.  Law is powerful early on
+thanks to the DKC and TRB, and once he gains the Fake Step at Level 5, any card
+can become a Serial starter.  The four Juggling cards work great at the end of
+combos or serials, making Law a fairly easy play.
+
+Character Strategy: Ogre
+------------------------
+The second-tougest charcter in the game, Ogre comes into his own at Level 5
+with the Zangetsu, a 50-point Serial card.  You can make short work of any
+opponent without a second thought, and the 90-point unblockable Seiranken is
+just nasty at Level 9.  Ogre is unstoppable for the most part, making his
+Adventure game a breeze.
+
+Character Strategy: Kuma
+------------------------
+Kuma looks powerful, but is actually very hard to play.  Almost every one of
+his powerful attacks will miss every other turn, and he's only got one
+after-Style card to use.
+
+Playing as Kuma relies on getting the first attack in and in hard.  If it's
+blocked, you could be in trouble.  Keep those high attack cards in your hand,
+but remember that they'll fail every other time they hit.  Against Ogre, go for
+the one bit hit to start and try to win out against his other cards as they
+come.
+
+Character Strategy: Mokujin
+---------------------------
+Mokujin is very weak, has no serial cards, and lacks any redeeming values
+whatsoever.  Second weakest in the game, you'll want to concentrate the
+majority of your time avoiding combat and counting on your Combo cards to save
+you at the very end.  Even the Level 9 Mokujin Fang is a bit of a joke, only
+dealing 50 points of unblockable damage.
+
+When going against Ogre, live off of your Combo cards, and keep the Kaeshi
+handy in case he throws his 90-pointer at you.  Luck is the only way to survive
+against him and True Ogre, so be prepared to do a lot of resetting.
+
+Character Strategy: Julia
+-------------------------
+Julia is a horribly weak character with no redeeming values...until Level 9, at
+which point she becomes a powerhouse.  The Shippohouchuu is an unbelievable
+70-point Serial card, which will decimate anything in its way.  Two of them,
+another high point card, and a Counter will ensure quick defeat of anyone in
+your way, including True Ogre, who can actually be killed in one turn.
+
+Character Strategy: Panda
+-------------------------
+Panda's attacks are weaker than Kuma's, but he doesn't suffer from the dreaded
+black triangle syndrome.  With no serial cards and only a weak juggle, playing
+as Panda means hitting hard and fast.  The Style card has two corresponding
+follow-up attacks for big damage, which can be useful against rivals or Ogre.
+
+The best strategy here is to hold off leveling up as long as possible, in order
+to take full advantage of your early edge against the Tekken Force and your
+rivals.  Meeting Ogre can be scary, and most battles will turn into a war of
+luck.
+
+Character Strategy: Paul
+------------------------
+Paul plays like Panda with a couple of extra juggles in there.  Hit hard, hit
+fast, and cross your fingers that your Rival or Ogre don't go Serial on you. 
+Paul simply does not stand up to Law, Jin, or Ogre very well, so be prepared to
+Reset the game on a bad draw (i.e. fairly often).
+
+Character Strategy: Xiaoyu
+--------------------------
+With three serial cards, two setup attacks, and a 45-point juggle, Xiaoyu is
+best powered up as quickly as possible.  You should be able to readily handle
+anything any other character throws at you with your serials, making Xiaoyu a
+great starter character.
+
+Character Strategy: Yoshimitsu
+------------------------------
+Yoshi is a bit of an enigma.  Strong early, weak late, and a danger to himself
+with a 65-point self-damage card.  The 50-point Sengaku is his most useful
+card, stealing HP back from the enemy.  With this, he's able to hold his own
+against most everyone, as long as the draws are lucky.
+
+Character Strategy: Nina
+------------------------
+Serial, serial, serial, serial.  Nina cannot be stopped early or late in the
+game.  One of only four characters that can kill a rival in one turn at Level
+1, she's best when stringing one attack after another, obviously.  Your rivals
+should fall fairly easily, and even Ogre shouldn't prove too much trouble with
+the proper setup (Shoukaku X 2, 4-Ren Combo, Kaeshi to counter).
+
+Character Strategy: Heihachi
+----------------------------
+As in Tekken 3 itself, Heihachi is Power.  From Level 1 (100 point damage
+Serial possible) to Level 9 (a 90-point card w/Setup bonus), it's just hard to
+lose when playing as Heihachi.  Add in two massively powerful Juggle cards (60
+and 70 points), Adventure mode is a stroll in the park.
+
+Character Strategy: King
+------------------------
+King is unlike any other character in the game in that he's maxed out from the
+beginning.  His 50-point Leg Lariat is his most powerful card (not counting the
+Combos), and after Level 2, he actually gets weaker on average by gaining only
+cards with lower point values.  Of course, at level 2, he becomes godlike with
+the 45-point Serial card, Back Drop.  From there, he remains unstoppable for
+the rest of the game.
+
+It's actually best to take out the rivals earlier in the game.  Save up cards
+and only level up at the last possible moment in order to maximize your unfair
+advantage over everyone else.  By Level 9, the playing field is just a little
+more even, but it's still possible to overpower anyone else.  Two Back Drops
+give you 90, and your third attack is completely up to you against the Tekken
+Forces, Rivals, or Ogre.
+
+Character Strategy: Lei
+-----------------------
+Lei looks weak until level 4, where he picks up the Tsuru no Kamae.  A
+Counter/Setup card, it's Lei's best defense and offense in the game, allowing
+him to take out any opponent fairly quickly.  Don't forget to set up your combo
+cards to lead with the Hyousousou or Choukakurengeki, and you're set for the
+whole game, including Ogre.
+
+Character Strategy: Jin
+-----------------------
+Jin's strength lies in a combination of Juggle and Setup, but that alone
+doesn't push him to the next level.  Fairly weak when his opponents aren't in
+mid-air, it's best to avoid combat after Level 3, as you'll quickly find
+yourself overmatched against your three serial-throwing rivals.
+
+Against Ogre and True Ogre, there's no way to easily win except with luck. 
+Cross your fingers, keep the Kaeshi on standby, and good luck.
+
+Character Strategy: Hwoarang
+----------------------------
+
+
+Character Strategy: Doctor B.
+-----------------------------
+
+
+Character Strategy: Bryan
+-------------------------
+
+
+Character Strategy: Crow
+------------------------
+Let's face it; Crow sucks.  With only 50 HP, you've only got half as much
+health as any other character.  There's only one real strategy here: AVOID ALL
+COMBAT.  From levels 1 through 7, Crow is absolutely helpless.  He's as weak or
+weaker than any other character, and the three rivals the game sticks you with
+are all absolutely lethal.  At Level 8, you get half a chance with the Nakama o
+Yobu card, which doubles the damage (but not the point value) of your next
+attack.
+
+When you get down to it, there's only one real battle you'll be wanting to
+fight here.  When facing Ogre, first set up your Combo cards with the most
+powerful attacks coming first (i.e. for the 4-hit card, Fuujinken and then
+three Ginsenkas).  Set up your hand with two Nakama cards, your 3-Hit combo,
+and your 4-hit combo.  Then get your trigger finger ready.  Against Ogre
+(assuming he doesn't throw the unblockable 90-point Seiranken at you), Nakama,
+then either combo card to finish him in two moves.  Against True Ogre, repeat
+with the other combo card (assuming he doesn't breathe fire), and try to win
+the war of attrition.
+
+Good luck.  You'll need it.
+
+Character Strategy: Gun Jack
+----------------------------
+
+
+Character Strategy: Anna
+------------------------
+
+
+Character Strategy: Eddy
+------------------------
+The most powerful character in the game, to the point of being extremely cheap.
+ You start the game with a 40-point Serial, and end it with a 65-point Serial. 
+Nasty.  Eddy is one of two characters that can take out Rivals at Level 1 and
+True Ogre at Level 9 in one round.  Use the serial cards religiously, and never
+look back.
+
+Character Power by Level
+------------------------
+On the following chart, the numbers show:
+  Highest Single Card/Highest Possible Serial
+Not included are Combo cards (as they CPU will never use them).
+
+              L1     L2     L3     L4     L5     L6     L7     L8     L9
+Law         25/080 30/090 30/090 35/095 35/095 40/100 40/100 45/105 50/110
+Ogre        40/080 40/080 40/080 45/085 50/165 55/175 55/175 60/180 90/210
+Kuma        40/040 50/050 50/050 50/050 60/060 70/070 80/080 90/090 95/095
+Mokujin     25/025 25/025 25/025 30/030 30/030 35/035 40/040 45/045 50/050
+Julia       25/025 30/030 30/030 40/040 40/040 50/050 50/050 60/060 70/200
+Panda       40/040 45/045 45/045 45/045 50/050 55/055 60/060 65/065 70/070
+Paul        40/040 50/050 50/050 55/055 55/055 60/060 65/065 65/065 70/070
+Xiaoyu      25/055 30/100 30/100 35/110 35/110 40/145 40/145 45/155 50/160
+Yoshimitsu  40/080 45/085 45/085 50/090 50/090 50/090 55/095 60/100 65/105
+Nina        30/100 30/100 35/125 35/125 40/135 40/135 45/140 50/145 55/150
+Heihachi    40/100 50/110 50/110 50/110 60/120 60/120 70/130 80/140 90/150
+King        50/050 50/140 50/140 50/165 50/165 50/165 50/165 50/165 50/165
+Lei         25/025 30/030 30/030 30/030 35/035 40/040 40/040 50/050 55/055
+Jin         35/035 40/040 45/045 45/045 45/045 50/050 55/055 55/055 60/060
+Hwoarang    35/035 40/040 40/040 40/040 45/045 45/045 50/050 55/055 60/060
+Doctor B.   40/040 40/040 50/050 50/050 55/055 55/055 55/055 70/070 80/080
+Bryan       40/100 40/100 40/100 50/110 50/110 60/120 65/125 70/130 75/205
+Crow        25/025 30/030 30/030 35/035 40/040 40/040 45/045 45/045 50/050
+Gun Jack    40/040 50/050 55/055 60/060 60/060 60/060 70/070 80/080 95/095
+Anna        25/025 25/025 25/025 40/040 40/040 45/045 50/050 55/055 60/060</pre><pre id="faqspan-2">
+Eddy        40/110 40/110 45/125 45/125 45/130 45/130 55/135 60/140 65/235
+
+=============================================================================
+
+VIII. Codes and Secrets
+
+Instantly Unlock All Characters for Battle Modes:
+  Press Y4, Y3, then Y3 + Y4 + X2 at the title screen very quickly.  A sound
+will confirm the code.
+
+True Ogre:
+  Press Y4 while selecting Ogre in 1P or 2P Battle mode (doesn't work for me,
+can anyone confirm this?).
+
+Unlock Ogre and Crow:
+  Complete the game (defeat Ogre) with all 19 unlockable characters.
+
+=============================================================================
+
+IX.   Administrivia
+
+Sources:
+
+All of the kanji move names come directly from the game itself, from the Namco
+web site, or from one of a thousand web sites that have copied the official
+Namco literature.
+
+The Unlock and True Ogre code was found here:
+http://www.ic-net.or.jp/home/t-sampei/u/w/tekencars.htm
+
+Translations for some of Eddy's moves found here:
+http://home.earthlink.net/~uttie/eddycap.html
+
+Contacting Me:
+
+If you have anything to add or correct, please do send it along to
+cjayc@gamefaqs.com for inclusion in the next revision.
+
+Copyright Notice:
+
+This document is Copyright 2001 Jeff "CJayC" Veasey. It may be not be
+reproduced under any circumstances except for personal, private use. It may not
+be placed on any web site outside of GameFAQs. It may not be distributed
+electronically outside of the GameFAQs web site, and it may not be distributed
+otherwise at all. The latest version of this document on the GameFAQs web site
+will hold the current Copyright and distribution information. At this time,
+this document is exclusive to GameFAQs; please do not ask for reproduction
+rights without compensation.
+
+
+---EOF---
+
+

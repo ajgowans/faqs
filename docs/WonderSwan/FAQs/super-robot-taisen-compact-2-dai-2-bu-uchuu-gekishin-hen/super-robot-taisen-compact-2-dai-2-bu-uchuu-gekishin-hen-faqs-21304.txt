@@ -1,0 +1,130 @@
+Super Robot Taisen Compact 2--Dai Nibu-Uchuu Gekishin Hen
+by Ken T. (Dark Prince)
+Version 0.1 - January 20, 2003
+
+CONTENT:
+
+Section 1 --- Profile
+Section 2 --- Version Info
+Section 3 --- Begin
+Section 4 --- Prologue
+Section 5 --- Walkthrough
+Section 6 --- Epilogue
+Section 7 --- Characters
+Section 8 --- Credits
+Section 9 --- Legal Info
+
+------------------------------------------------------------------------------
+PROFILE
+------------------------------------------------------------------------------
+
+	This section is not related to the game itself. I added it in, only because
+this is my first faq/walkthrough I wrote. On my next faq/walkthrough, this
+section will be removed.
+
+FACTS:
+-This is my first faq/walkthrough.
+-I am not Japanese. (sorry about the translations, I'm trying my best.)
+-I am studying Japanese though, but learning 2 languages at the same time is
+very hard. Since Mandarin and Japanese Kanji have different pronounciations.
+
+------------------------------------------------------------------------------
+VERSION INFO
+------------------------------------------------------------------------------
+
+Updates:
+
+Version 0.1:
+-added table of contents
+-added profile
+-added begin
+-started prologue
+-started walkthrough
+-begin credits
+
+
+------------------------------------------------------------------------------
+BEGIN
+------------------------------------------------------------------------------
+
+	Once you begin the game, you would notice that the main character is a girl,
+if you have played the first volume of Super Robot Taisen Compact 2, you would
+notice that she is the main character's girlfriend.
+
+	On this screen, you can edit names for the main character and her
+boyfriend(the main character of last volume).
+
+------------------------------------------------------------------------------
+PROLOGUE
+------------------------------------------------------------------------------
+
+	In space on the year of 200XX.
+
+------------------------------------------------------------------------------
+WALKTHROUGH
+------------------------------------------------------------------------------
+
+	There will be a dialogue of two mysterious people, followed by Bright and his
+crew's dialogue. For those if don't know the old man with glasses that had
+talked in the dialogue, is actually the pilot of the Guzzard, a cool Dragon
+mecha ship. Since the main character names are long, I will call them MC and
+MC2.
+
+Scenario 1
+
+Your team:
+
+Ral Kairam(Bright, LV 6)
+Grendizer(Duke, Lv 7)
+Hyaku Shiki(Quattro, LV 7)
+Gundam Mk-II(Emma, LV 5)
+GP-01Fb(Kou, LV 6)
+?(MC, LV 5)
+
+Enemy:
+
+Zaku III(Mashmar, LV 10)
+Zaku x6
+Zusa x3
+Doraisen x2
+
+------------------------------------------------------------------------------
+EPILOGUE
+------------------------------------------------------------------------------
+
+Under Construction!
+
+------------------------------------------------------------------------------
+CHARACTERS
+------------------------------------------------------------------------------
+
+Under Construction!
+
+------------------------------------------------------------------------------
+CREDITS
+------------------------------------------------------------------------------
+
+Thanks:
+Bandai - for making such a good portable handheld
+Banpresto - for creating this game.
+Olivier THILL - for making JapAlpha, the "Index of Katakanas" really helped
+
+------------------------------------------------------------------------------
+LEGAL INFO
+------------------------------------------------------------------------------
+
+Please don't modify this document, in any way, without my permission. Please
+don't sell this document (or charge money to cover distribution or media
+costs), and do not use this as a gift or a promotional tool of any kind.
+
+The only website I allowed to publish this file is GameFAQs (www.gamefaqs.com).
+The rest of you, please do not publish this document without my permission.
+
+Copyrights and trademarks of this game, its characters, and the television
+shows it refers to are property of their respective owners. Wonderswan is a
+trademark of Bandai Co., Ltd..
+
+
+
+
+

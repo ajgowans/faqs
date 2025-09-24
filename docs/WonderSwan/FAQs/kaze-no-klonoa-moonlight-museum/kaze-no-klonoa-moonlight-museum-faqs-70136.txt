@@ -1,0 +1,573 @@
+Kaze no Klonoa: Moonlight Museum
+
+Script and menu English translation guide
+By Roboyoyo (AKA FinalSoraRiku AKA KeybadeBlox)
+
+The creator of this FAQ can be contacted through private messages on YouTube as
+KeybadeBlox or on the Untamed Heart Klonoa fan forums as FinalSoraRiku.
+
+---------------------------------------
+|          Table of Contents          |
+---------------------------------------
+1. Introduction
+2. Menus
+     2.1 Title Screen
+     2.2 Vision Select
+     2.3 Pause Menu
+3. Script
+     Opening
+     World 1: Quiet Hometown
+     World 2: Giant Fortress
+     World 3: Laughing Prison
+     World 4: Palace of Clouds
+     World 5: Selfish Museum
+     Ending
+     World EX: Klonoa's Big Moonlight Puzzle
+4. Acknowledgements
+5. Legal crap you don't want to see
+
+
+---------------------------------------
+|1.         Introduction              |
+---------------------------------------
+
+Kaze no Klonoa: Moonlight Museum (known to many English speakers as "Klonoa:
+Moonlight Museum) is a game made for the Bandai WonderSwan, a handheld
+console released only in Japan.  It was the second entry in the Klonoa
+series, and set the standard for other 2D handheld games later on.  Despite
+this, the overall lack of reverence for the game along with its limited
+release resulted in it receiving very little attention, even from longtime
+fans of the series.  Thus, nobody really cared to make a good translation. I,
+however, wished to produce a coherent translation of the game, and thus wrote
+the script found here with the help of CalmSerenity on the Untamed Heart
+Klonoa fan forums.
+
+This is the only FAQ I've ever produced, and is intended to be the only one.
+Regardless, I hope to satisfy the few who wish to play through this game and
+understand what's happening in the numerous cutscenes.
+
+
+---------------------------------------
+|2.            Menus                 |
+---------------------------------------
+
+The majority of this game's menus are in Japanese, of course, but the save
+select screen has been omitted due to being primarily in English.
+
+
+-=2.1 Title Screen=-
+How many options appear here depends on two factors: whether you have a save
+file, and if you last quit the game during a vision.
+
+-One Option-
+New Game
+
+-Two Options-
+Load Game
+New Game
+
+-Three Options-
+Resume (returns to the room you quit in)
+Load Game
+New Game
+
+
+-=2.2 Vision Select=-
+The first two lines (WORLD and VISION) are in English, so I'll leave those out.
+Thus, this begins from line 3:
+
+# of Dream Stones collected in vision
+Current # of lives
+Record time (EX Visions 1 and 2 only)
+View gallery
+
+The "gallery" is an image that is different for each world.  For every dream
+stone that you collect in that world, one piece of the image will appear.  It
+is seen after every level, but it can also be viewed from the vision select
+menu by selecting the bottom-most option while viewing the corresponding world.
+
+
+-=2.3 Pause Menu=-
+The pause menu is simple and intuitive enough, but it's a useful thing to be
+able to navigate, so I may as well include it.
+
+-Main Pause Menu-
+Resume
+Restart room (doesn't reset vision, undoes damage and collection of stones)
+Control scheme
+Vision Select
+Portrait <-> Landscape (or vice-versa)
+
+It should be noted that the final option will only be "???" on your first
+playthrough of a vision.  You will be able to switch between the two screen
+modes at will on subsequent playthroughs.
+
+-Control Scheme-
+Option A (down is jump, right is wind bullet)
+Option B (down is wind bullet, right is jump)
+
+Those who usually play Klonoa games in English will likely prefer the second
+option.  It should also be noted that the controls have to be defined in
+landscape and portrait mode separately - selecting Option B while the screen
+is in portrait mode will not affect the controls when playing in landscape
+mode.
+
+
+---------------------------------------
+|3.            Script                 |
+---------------------------------------
+
+Finally, the meat of the guide.  This section was made with the help of others
+who are mentioned in the Acknowledgements section.  The "outro" part of each
+world is the cutscene that plays upon completing its sixth vision.
+
+
+-=Opening=-
+
+Welcome to your dream...
+
+All is a story in the dream of one night.
+When are dreams seen? Dreams are seen at night. 
+But night is dark.
+Night is dark and hides the dreams in its shadows.
+Let's illuminate the night.
+Let's illuminate the night brightly with the moon.
+Let's illuminate the dream brightly with the moon.
+
+--
+
+Girl: *sob...sob...*
+
+Dream voice: What happened? Why are you crying?
+
+Girl: The moon fragments have been lost.
+
+Dream voice: The moon? Fragments?
+
+Girl: Without the moon fragments, the moon will stay hidden...
+
+Dream voice: Don't cry. Where did you lose them?
+
+Girl: They were taken by artists.
+
+Dream voice: Artists?
+
+Girl: That. That museum.
+It's a mysterious museum.
+A museum belonging to some strange selfish artists.
+Do they think that the moon belongs to them?
+That the moon is part of their collection?
+It's not a joke!
+
+"I know! I'll get them back!"
+
+...then, I was there.
+
+Klonoa: Huepow, Rupurudu! (Let's go!)
+
+
+
+-=World 1: Quiet Hometown=-
+
+???: Welcome to our wondrous museum.
+
+Klonoa: Who are you?
+
+???: We are mysterious artists. Please, view the art as long as you'd like.
+
+Klonoa: I didn't come to look at art. I want you to give the moon fragments
+back.
+
+???: Please, come in.
+
+Klonoa: What should we do?
+
+Huepow: We don't have much of a choice...
+
+
+
+Picoo (Pikuu): Ooh, these are some interesting visitors. Welcome to my gallery.
+
+Klonoa: Oh, thank you.
+
+Huepow: Who are you?
+
+Picoo: I am an artist making a painting. A wonderful artist who uses people's
+recollections as a beautiful paint.
+
+Klonoa: Wow, how amazing...
+
+Huepow: Where are the moon fragments?
+
+Picoo: Oh, don't worry. They are shining in my painting.
+
+Klonoa: In the painting!?
+
+Huepow: No way! Give them back!
+
+Picoo: Well, look at this painting.
+
+Klonoa: It's so nostalgic.
+
+Picoo: Precisely. This is the painting that will embody nostalgia. It is called
+"Quiet Hometown."
+
+Huepow: Are the moon fragments in this?
+
+Picoo: Yes. If you want them, you'll have to go into the painting and find
+them.
+
+Klonoa: Wait, go into the painting?
+
+Picoo: Yes.  There are three fragments in each scene. If you collect all three,
+you will return from the painting. However!
+
+Klonoa: However?
+
+Picoo: I do not create ordinary paintings.  The insides of my paintings are
+very intricate, so do be careful.
+
+Huepow: Nothing can stop us.
+
+Klonoa: Let's go!
+
+Picoo: Haha, you can't, you can't understand my art!
+
+
+-Outro-
+
+Picoo: Ooh... I'm surprised. You navigated my painting splendidly.
+
+Klonoa: Are these all of the moon fragments?
+
+Huepow: It doesn't look like all of them...
+
+Picoo: Hmm... I am not sure. I can't help you. Go to the next gallery.
+
+Klonoa: Huh? Next...?
+
+
+
+-=World 2: Giant Fortress=-
+
+Klonoa: Wah!
+
+Huepow: Wow, what a huge statue!
+
+Treffle (Torehhuru): Yes. Big. That is what art is! I'm the large and great
+artist who made "Giant Fortress."
+
+Klonoa: It sure is big, but...
+
+Huepow: You look pretty small.
+
+Treffle: Hmm! I'm small!? Don't talk big - you're a ball!
+
+Huepow: I'm a ball!? You're the small one, tiny little...!
+
+Treffle: What!? Argh...! You're really ticking me off!
+
+Klonoa: Alright, calm down. By the way, where are the moon fragments?
+
+Treffle: Feel free to look around in the giant!
+
+Klonoa: In the giant...
+
+Huepow: Waaah! It's swallowing us!
+
+Treffle: I am not tiny!
+
+
+-Outro-
+
+Treffle: *sigh* Oh well. You escaped from the giant...
+
+Klonoa: Are you okay?
+
+Huepow: I'm sorry that I said you're tiny.
+
+Treffle: Don't worry about it. I understand now that even if something's big on
+the outside, it's pointless if it's small on the inside.
+
+Huepow: Mister...
+
+Treffle: Next time, I'll make the inside big, too!
+
+Klonoa: You're right!
+
+Huepow: ...Is that right?
+
+Treffle: Well, go on to the next gallery.
+
+
+
+-=World 3: Laughing Prison=-
+(note: Koof says "yes" in English and "no" in French in the original script, so
+both were changed to French for this translation)
+
+Klonoa: Cool! This place is full of comics!
+
+Huepow: What a large welcome!
+
+Koof (Kuuhu): Oui! Comics are art, too! Welcome to my comic gallery!
+
+Klonoa: Are you a cartoonist?
+
+Koof: Non! I'm comic artist! Comics are composite art! Comics are first-class
+art!
+
+Huepow: I sure like it!
+
+Koof: Oh, you too understand the wonder of comics? Then please enjoy my
+"Laughing Prison."
+
+Klonoa: Prison? It's a jail!?
+
+Koof: Thrill and horror! Tremble and quiver! This is art! This is true art!
+
+Klonoa: No! I don't like that stuff!
+
+Koof: Non! Are you ready? It's show time for terror!
+
+
+-Outro-
+
+Klonoa: *Pant*, we finally got out.
+
+Huepow: Comics should be only read...
+
+Koof: Non...
+
+Klonoa: Let's go to the next gallery...
+
+
+
+-=World 4: Palace of Clouds=-
+
+Klonoa: It's a photograph.
+
+Huepow: It's a beautiful photograph...
+
+Kaho (Kahoo): Shall I take your photograph?
+
+Klonoa: Are you an artist too, lady?
+
+Kaho: Yes! Look at the camera. There is an endless "Palace of Clouds" across
+the lens.
+
+Klonoa: Across the lens...
+
+Kaho: I will photograph you. I will photograph your heart and dreams.
+
+Klonoa: Huh? ...hey, wait!
+
+Kaho: The flash is a bit dazzling. Take care not to become too scattered.
+
+Huepow: Scattered!?
+
+Kaho: Say cheese!
+
+
+-Outro-
+
+Kaho: Oh, you're back?
+
+Klonoa: Do we have all the moon fragments now?
+
+Huepow: Not yet. Just a few more.
+
+Kaho: The next gallery is the last. Be ready for it. What you'll find there is
+true art.
+
+Klonoa: True art...?
+
+Huepow: No problem!
+
+Klonoa: Alright, let's go!
+
+Kaho: Oh, how spirited you boys are. Tonight's moon may be too bright....
+
+
+
+-=World 5: Selfish Museum=-
+
+Klonoa: Where are we...?
+
+???: Excellent. It's a blessing that you came here.
+
+Klonoa: Who are you?
+
+Huepow: Are you the owner of this museum?
+
+Museum: No, I am Museum. I am the museum itself.
+
+Huepow: What!?
+
+Museum: Art is a reflection of the heart. Dreams are a reflection of the heart,
+as well. That is to say, art and dreams are one and the same.
+
+Klonoa: Why would you think that!?
+
+Museum: If the moon illuminates dreams, art must also be illuminated.
+Therefore, we wish for the moon!
+
+Klonoa: That's selfish!
+
+Museum: No. Art is the same as dreams. Whose dream is this, in the end?
+
+Klonoa: ...Huh?
+
+Museum: It is the last! I am "Selfish Museum." Let us see your art.
+
+
+
+-=Ending=-
+
+Picoo: How could this be? Oh, how?
+
+Treffle: All of the puzzles in our art have been solved.
+
+Koof: Non... Now we can't...
+
+Kaho: We can't do anything. We can't make anything.
+
+Museum: Oohhh...
+
+
+
+Klonoa: Here they are. Is everything alright now?
+
+Girl: Thank you. Thank you, Mister. Thanks to you, the moon can appear
+tonight.
+
+Klonoa: It's amazing... The moon is beautiful like this.
+
+Huepow: It looks even bigger than usual.
+
+Girl: The larger the dream, the larger the moon becomes. Mr. Moon seems very
+nice tonight!
+
+
+
+Picoo: Oh, how beautiful it is.
+
+Treffle: It pierces my heart.
+
+Koof: Oui...
+
+Kaho: We lost, completely...
+
+
+
+Huepow: Art is the same as dreams, huh...? If dreams make the moon bigger, art
+also makes the moon shine.
+
+Klonoa: I see. So, the thoughts of artists make the moon shine like that.
+
+Huepow: Dreams...
+
+
+
+"Whose dream is this, in the end?"
+
+
+
+Huepow: Yes, that may be right. ...But,
+
+Klonoa: But?
+
+Huepow: That moon is... That moon is our art!
+
+
+[Credits]
+
+
+Picoo: That moon is the one true art!
+
+Treffle: No, I can still make art!
+
+Koof: Oui! I cannot lose!
+
+Kaho: Yes, in my own case, my inspiration has grown!
+
+Museum: Let's make our dreams! Let's make new artistic puzzles!
+
+
+All is a story in the dream of one night...
+
+
+
+-=World EX: Klonoa's Big Moonlight Puzzle=-
+
+Museum: Here it is! Our biggest challenge! We have prepared several superior
+artworks that will test your skill.  Will you attempt them for us?
+
+
+-Outro-
+
+Museum: Oh, my. How wonderful. Wonderful indeed!
+
+Picoo: No, we're not finished yet.
+
+Treffle: We can keep going.
+
+Koof: Oui! Oui!
+
+Kaho: Well, how about we try once more?
+
+
+
+Girl: Could you... let the moon rest for a little while, please...?
+
+
+
+---------------------------------------
+|4.       Acknowledgements            |
+---------------------------------------
+
+I'm not going to pretend that I alone produced this translation in its
+entirety.  I simply led the transition from a rough and incomplete Engrish
+script to something presentable. Because I have no knowledge of Japanese
+whatsoever, the script would not have been in any way, shape, or form possible
+without the efforts of these two people:
+
+Aoi, who produced the original draft of the script off which this one is based.
+They, in their own words, "do not English very well," meaning that the script
+was not in prime condition, but this guide still would not have happened
+without it.  His original translation can be found here:
+http://www5d.biglobe.ne.jp/~aoi-k/other/e_mm.html
+
+CalmSerenity of the Untamed Heart Klonoa fan forums, who checked the script
+for accuracy as well as translating anything left out in Aoi's original
+translation (including the entirety of the EX world).  Her knowledge of
+Japanese, however limited it may be according to her, also made this script
+possible.
+
+
+
+---------------------------------------
+|5. Legal Crap You Don't Want to See  |
+---------------------------------------
+This is normally where someone would say that the guide is Copyright 20XX
+Their Name, but I'll forgo that.  Rather, I'll say this:
+
+
+The SCRIPT found in this guide is permitted to be used outside of the site
+of its original publication (that being GameFAQs) for any non-commercial
+purpose.  It may be reproduced online so long that it is not use in any way
+that will bring profit to those reproducing the script.
+
+The FAQ itself (that being anything that is not part of the "Script" section
+of the guide) may not be reproduced under any circumstances except for
+personal, private use without giving credit to its creator.  The guide may
+not be displayed in any public manner without first contacting the creator
+and receiving their approval.
+
+Explicit permission is given for the script found within this guide to be
+used for a translated patch of Kaze no Klonoa: Moonlight Museum.
+
+
+
+
+Lastly, a final "thank you" to those who made this guide possible.  I hope
+that those who wanted a coherent translation of this game are satisfied.

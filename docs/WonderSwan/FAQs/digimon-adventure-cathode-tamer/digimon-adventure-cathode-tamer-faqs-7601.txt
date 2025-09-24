@@ -1,0 +1,321 @@
+Digimon Adventure AnodeTimer/KathodeTimer for Wonderswan
+
+FAQ v0.6 05/05/2000
+
+By Aidix/ Chris Turksema
+EMAIL: Aidix@bigfoot.com
+
+
+INTRODUCTION
+This manual/faq is for Digimon Adventure for Wonderswan. Digimon Adventure 
+is Bandai's answer to Pokemon. There are various Digimon products available
+in Japan. Older games focus more on growing your own Digimon and duking it 
+out later. This Wonderswan version focuses on collecting them. You can use
+link cable or Digimon-Adapter to battle against another Digimon, but the 
+focus is on finishing the RPG part of the game and collecting over 170 
+monsters. 
+Like the original PocketMonsters the game comes in two more or less identical
+versions, anoudoteimaa and kasoudoteimaa. This is the japanese way of writing
+anode timer and cathode timer. Every english site mentioning the game calls it
+"Another Time", but this is wrong. (They would have used "anazaa taimu")
+Kasoudo is also a japanese word meaning Virtual, but that's not what they mean 
+here.
+
+
+
+
+CONTENTS
+
+1   Manual translated from japanese.
+
+At the moment this faq consists only of the translated game manual and some 
+added details such as the item list. Once you figure out how the game works
+you shouldn't have a lot of problems. The only time you'll need to figure out
+what the japanese means is at the item menu. Unfortunately you'll use it quite
+often so memorizing or writing down some of the japanese names is recommended.
+The game is linear and doesn't bother you with complex puzzles so a 
+walkthrough isn't included.
+
+If there's anything else you'd like to see, drop me a line.
+
+
+
+
+
+_______________________________________________________________________________
+
+1 Manual
+
+1.1
+Story
+
+Suddenly, Milenniamon appeared from the deepest darkness of Digimonworld.
+With his eerie powers, he has taken Taichi, Yamato and 8 children prisoner.
+As for you, together with the escaped Agumon you enter Digiworld to gather 
+your own group of Digimon and fight the others.
+You'll have to beat Milenniamon and rescue Taichi&friends.
+
+This Wonderswan-exclusive cart, Digimon Adventure, comes in two versions: 
+AnodeTimer and CathodeTimer. Basically the story is the same but they 
+contain different digimon. 
+Also, using the communication cable you can complete your digimon analyzer.
+
+
+1.2
+Button configuration
+Y       Not used in the game. 
+X       Move cursor or player.
+START   Start game.
+B       Cancel selection or AI combat.
+A       Select.
+
+If you press Y when turning on the WS you lose all data.
+Press B+A+START anytime to reset the WS. This will probably work in most other 
+games as well.
+
+
+1.3
+Basic game overview
+
+After starting the game you end up in "The first town". There you'll find some 
+of the most important places in the game, such as the Server, an item shop and 
+the Colosseum.
+
+Two screens above the town square you'll find your first dungeon. Dungeons 
+contain enemy Digimon, you'll have beat them all in order to unlock other 
+areas of the game and this is also the place to collect new digimon.
+
+If you enter a dungeon you can select a 3 of your own digimon that'll have
+to do the fighting for you. Once you're inside the dungeon the battles take 
+place on a square battlefield and are turn based. First you get to move, then 
+the enemy. After clearing a battlefield move on to the next, until all are 
+clear.
+
+When you return to the town you can find any digimon you may have captured in
+the Server. There you can add them to your collection and dump any you don't
+need.
+
+
+1.4
+The first town
+
+ -Town Square 
+  
+  Top left house: Tradingcentre. Here you can trade and upload Digimon. You'll 
+  need to connect to another WS with Digimon Adv. with the comms-cable for 
+  this. 
+   Menu: 
+   Login > Trade 
+         > Upload 
+   Install (add received digimon to group)
+   Remove  (remove received digimon)
+   Exit
+  
+  Bottom left house: Shop
+   Menu:
+   Buy
+   Sell
+   Increase Harddisk size (Store more digimon)
+   Exit
+
+Items as they appear on the Buy screen:
+
+Niku (Meat)               40   Use if your Digimon is hungry
+Kyodainiku (Special Meat) 70   For very hungry Digimon
+Floppy                    75   Heal injured Digimon
+Hi Floppy                200   Stronger than normal floppy
+Neo Floppy               400   Stronger than...
+Floppy-All               100   Heal everyone
+Hi Floppy-All            350   Heal everyone, stronger
+Plug-in                   75   Restore some VP
+Hi Plug-in               150   Restore more VP
+Plug-in All              150   Restore some VP
+Hi Plug-in All           300   Restore more VP
+Recovery FD              100   Recover collapsed Digimon
+Recovery MO              300   Recover collapsed Digimon, get more DP
+Attack Chip              150   Recover attack
+Protect Chip             150   Recover defense
+Speed Chip               150   Recover speed
+
+   
+ -Left of town square
+ 
+  Top right: Battle training centre.
+  Menu: Training > Standard
+                 > Ground Digimon
+                 > Air Digimon
+                 > Water Digimon
+        Exit
+
+  After playing the standard battle, you don't have to win, the shop owner 
+  will show you a "Digimon Battle" device. Here you can battle Digimon you 
+  raised in your Digivice/Digibattleseries/Digimonpendulum/Digitalmonster 
+  (separately sold, "BattleTamagochi"). You have to 
+  use a "Digimon adapter" to be able to connect the these to your WS.
+
+
+  Bottom left: Leomon Colosseum
+  Use comms cable to connect to another WS and battle against someone else's 
+  Digimon.
+
+
+ -Above town square
+
+  Left: Server
+  Menu: Receive
+        Delete
+        Exit
+  
+  Use receive to add captured Digimon to your group. You must enter a new
+  nickname for the Digimon. A little knowledge of the japanese writing 
+  system would come in handy.
+  Delete is just that. Gone. This does NOT put 'em back on the server.
+
+
+1.5
+Main menu
+
+Pressing A on the world map will present you with the main menu:
+
+Information
+Item
+Save
+Exit
+
+Information gives an overview of the Digimon you carry with you. The first 
+screen shows a picture, race and nickname. Select any digimon and you'll get 
+a status overview.
+__________________________
+<Race>
+<Name> <???> (Manual doesn't mention it)
+<Generation> <Characteristic>
+
+DP Life
+AP Attack
+SP Speed
+PP Defense
+VP Variable points
+EP Food
+UP Unchi (Sh!t)
+MP Movement
+___________________________
+
+Generation can be something like baby, mature etc...
+The characteristic for Agumon is 'reason'.
+
+Pressing A again will take you to the Variable screen.
+Think of Variables as magic spells. VP are the 'MP' used in most other games.
+Press B to return to previous screens.
+
+
+Item menu
+Use food to fill the stomach of hungry Digimon.
+Once you get the Digimon Analyzer (after clearing the first boss) you can 
+access it from the item screen. It's a lot like the Pokedex. Check out the 
+picture and description of Digimon you already have. The ones you've only seen 
+in battle only show their face. You can get a total of 186 Digimon, 170 of 
+them can be found in this game.
+
+Save
+Saves the game
+
+
+1.6
+Variables
+As soon as you enter a battlefield with other Digimon on your side various 
+Digimon will start to react. Certain combinations of two Digimon in one team 
+will 'unlock' variables (magic spells) in one or both of the two. This 
+unlocking takes time, stronger variables take more turns to show.
+Variables are permanent but using them costs VP. VP can be restored with 
+"plug in" type items. 
+
+
+1.7
+Battle/dungeon
+Upon entering a dungeon (if you have more than 3 digimon) you'll get the 
+choice between using the same Digimon as before or selecting a new group.
+Top choice is select new group.
+
+The battlefield consists of ground, mountain and water tiles. A Digimon has
+an element wich is either air, water of earth. Air digimon can fly and have
+a lot of movement points. Water Digimon move at normal speed in water and are
+slow on normal soil. Earth digimon slow down when moving on water.
+Battles are turn based. Each Digimon can use an item, use a variable, attack
+or walk. Moving before attacking doesn't cost you AP or other kind of points.
+
+Select the Digimon who's turn it is to get to the battle menu.
+Menu: Walk
+      (Attack)
+      Variable
+      Exit
+
+Attack is available if you stand next to an enemy.
+
+
+If you press A on any other tile you'll get the options menu.
+Menu: Status
+      Item
+      AI > Offensive AI
+         > Defensive AI
+      Exit
+
+AI does the fighting for you. If you select Offensive AI the AI will also use
+Variables to attack.
+
+After dealing with all the enemies on a Battlefield you'll get some items and 
+gold and you'll get to the following menu:
+Menu: Next battlefield
+      Leave dungeon
+      Save
+
+If you save the game and load it later on you'll always end up in the next
+battlefield.
+
+After finishing the last battlefield (usually the third) you'll be taken back
+to the old man.
+
+
+
+1.8
+Getting new Digimon
+As you destroy enemies you'll receive points for the Digivice. Digivice is the 
+top selection on your item screen. The digivice is Digimon's version of the 
+Pokeball. Using the Digivice on an enemy allows you to capture it. Your chances
+increase if you have more points on your Digivice. The manual is very unclear 
+about this so no specific details here. It depends on the generation (age) of
+the target digimon. It seems you need at least 20, 40 or 80 points, depending
+on the generation. And the chance can vary from 50% to 100%
+If you successfully capture a Digimon you'll lose all Digivice points.
+If you don't capture Digimon with the Digivice some of them will end up in the
+server anyway (at random it seems) after the battle is over.
+
+
+1.9
+Hints
+
+ 1 Where do I go next?
+   You can always ask Genmei for help. Genmei is the old man living in the first
+   town. Clear every dungeon, go through gates as they open to get to new
+   continents. There's a gate at the open field below town square.
+ 2 Enemies are too strong!
+   -Visit some dungeons you already cleaned out. Digimon level up after beating 
+   enemies. There is no progress indicator or level counter, but you'll see
+   stats like attack and speed increase after clearing a dungeon.
+   -Try to capture the stronger Digimon you encounter. 
+   -Use the variables! Try different combinations Digimon to unlock new 
+   variables, and use them wisely.
+ 3 I don't get Variables!
+   Talking to the residents in town will provide you with useful tips about
+   combining different Digimon. Why not keep track of the combinations you've
+   already tried?
+ 4 How do I fill the Digimon Analyzer?
+   You only get the complete record if you:
+   -Trade/receive a Digimon
+   -Capture it with the Digivice
+   -Receive it from the Server
+__________________________________________________________________________________
+
+
+This FAQ is copyright 2000 Chris Turksema (Aidix@eurosat.demon.nl)
+Thou shalt not copy, rip or steal anything from this document without my 
+permission.

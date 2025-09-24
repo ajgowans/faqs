@@ -1,0 +1,132 @@
+GUNPEY Player's guide
+Copyright 1999 Ryan Toledo
+"Gunpey" 1999 Koto/Wonderswan 1999 Bandai
+Alpha version; Proudly Phillippine-made
+
+Well, it looks like Bandai's stepping on the compact game system biz.
+Anyway, as with any newly-released game system, there's always this little
+intro puzzle game like Tetris or Columns. Gunpey is one of them, but it's
+not a Tetris clone mind you…Gunpey packs new, original &simple gameplay
+that makes a game a classic…
+
+GENERAL GAMEPLAY
+
+Basically, all you have to do is connect one side of the screen to the
+other by connecting lines of different shapes. Simple ?  Right . You can
+position those lines in the screen using a manipulator (2 shaded squares on
+top of each other) which can move the lines up or down (although the
+manipulator itself can move left & right) & pressing the (3) button. You
+can get more line parts by pressing the (2) button but doing so will move
+the field one panel up. Now once you connect 5 line parts or more, it will
+be cleared from the screen and the appropriate score is given, a clear
+bonus of 10,000 pnts  (Who says scores are not " in"  anymore?) .Will be
+given if you cleared the screen of all the lines. Game's over when one or
+more line parts cross the upper part of the screen.
+
+GAME MODES
+There are 5 modes: Endless, Stage, Story, Free and Puzzle…
+
+Endless mode
+
+In Endless mode, there are no line quotas & no stages to worry about. Just
+keep on connecting those lines & make those combos (Yes! Combos! More on
+these on the Hints & Tips section).
+
+Free mode
+
+May be thought of as the "practice" mode of the game. Don't worry about
+getting line parts going over the screen you'll never get a game over
+here…this is where you can monitor your score & practice your combos…
+
+Stage mode
+
+Like "Tetris" &  "Columns", this mode has stages in w/c you are to make a
+certain quota of lines. Combos are highly recommended  since you can rack
+up some serious pnts. in this mode.
+
+Story mode
+
+I'm really surprised that this game had a story! It's kinda weird but hey
+it's fun! You play as Gunpey an anthropomorphic gecko hombre in a new town.
+Nobody seems to care about your arrival, when suddenly, a cat girl comes to
+you! She's being chased by a group of  anthropomorphic villains for reasons
+unknown. Naturally, you're her gecko-in-shinning-armor so you help her.
+Each baddie will challenge you in a game and each has a "special" skill of
+his own. Here they are:
+
+- Hank (black chick) = He shifts the screen to the right. Not so bad…
+- Nick (white chick) = He jumbles you lines, ruining your potential combos.
+Kick his butt before he gets you!
+- Domingo (vulture) = This guy is a real pain in the behind! Not only does
+he "blacks-out" a big portion of the screen (1 square from the
+manipulator), you have to encounter him 2x !!!  Just take it easy and build
+simple lines as fast as you can…
+- Patrick (cat) = Not that much trouble, he shifts the rows alternately.
+Again keep your cool.
+- Thomas (another cat) = Doesn't seem to have  a special so, EAT HIM ALIVE!!!
+- Bobby (pig) = This guy's a real glutton, he "eats" (brings down) one
+culomns worth of lines…this really ruins a potential killer line…
+- Pike (fox) = the big cheese…he fills the last 4 rows with "!" boxes.
+Defeating him takes a lot of skill, practice & memory so come prepared!
+
+*Note #1: Every once in a while, the bosses will drop "?" boxes on the
+screen w/c will block a portion of the screen. You can cancel then by
+building a line through them…
+*Note #2: Of  course Gunpey iis not left behind, he's got a special of his
+own! He cancels all the "?" boxes on the screen! You have to wait for his
+SP meter to fill up though…
+
+Puzzle mode
+
+In this mode, you are given a set of lines and it's up to you to find the
+solution on how to connect all of them into one line. Leave one line part
+or more behind and the game's over. You are given a time meter to see how
+fast you can connect all the lines. This mode can be a real headache so
+play it in a relaxed mood…this mode also tests all the skills you have
+learned in the other modes like "triggering" and making intersections…
+
+TIPS & HINTS
+
+-Practice in "Free mode" if you're gonna play this game for the first
+time..it's a good way of improving your skills quickly.
+-Get familiar w/ the simpler combos first (like placing diamonds between
+the lines for an easy 1200 pnts.).
+-Always think of ways on how you can connect the lines with each other.
+-You can still connect a line(s) while another is getting cleared. Doing so
+will add more points because that line will be considered a combo.
+-Clear bonuses are a neat way of getting huge scores. There's an initial
+clear bonus line on most stages (esp. stage 1) so keep a lookout for them!
+-Learn how to "trigger" lines, that is, leaving a part of line vacant or
+put a trigger on it (ex. Putting a diamond on it, then reversing it,
+switching it only when you' about to build a 19,000 pnt. )
+ -Don't be afraid to push the (2) button when you need more line parts…
+believe me, you'll gonna need it.
+
+SECRET!!! Personalize your Wonderswan!
+
+All you have to do is hold the START button while turning on your unit. A
+boot-up screen will appear and now you can enter your name, age, b-day,
+bloodtype & sex. Now everytime you turn on you unit, the screen will
+display your name insyead of the Wonder swan logo
+
+THANKS TO THE FOLLOWING:
+-Thanks to Dennis Gavino and family for bringing the Wonderswan here…you're
+wonderful!!!
+-To Homer, Roe and the rest of the gang for playing and testing "Gunpey"
+-To Nel for tolerating our nice.
+-To Peter Depamaylo for teaching me how to do a FAQ…Check out his cool
+Langrisser guide!
+-To GameFAQS for accepting this guide
+-To all compact gamers out there…Gambatte!
+-To Koto, for making "Gunpey"…
+-…And of course to Bandai for making one of the coolest compact game unit
+ever
+
+Condolences to those who's been KO'ed by "Thomas" in Story mode…
+
+Watch out for more WS games soon!
+
+This guide copyright R.Toledo 1999 
+
+
+

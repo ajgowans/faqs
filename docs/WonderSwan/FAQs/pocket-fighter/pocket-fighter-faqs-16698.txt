@@ -1,0 +1,251 @@
+
+######                                              ######
+##  ###                                             ######
+##  ###                                             ###
+######                                              #####
+###                                                 #####
+###                                                 ###
+###                                                 ###
+###     o     C     k     E     t                   ###     i     G     h     T     e     R
+
+
+             ~          W o n d e r s w a n        V e r s i o n           ~
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Card Battle FAQ (Shift-JIS) - Final - by Simon (thiagosimoes84@hotmail.com) - August/2002
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Table of Contents
+~~~~~~~~~~~~~~~~~
+1 - About this FAQ
+2 - Menu Translations
+3 - Card Battle
+4 - Tips
+5 - Credits
+
+Note: This document is best viewed in NJ Star Japanese WP version 4.3 or higher, zoom 100%,
+font Courier New, Size 8.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1 - About this FAQ
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This FAQ is intended to be used with the Wonderswan version of Pocket Fighter. It will only
+make you understand how-2-play the Card Battle, as the moves, specials, flash combos, super
+combos, and other stuff are exactly the same as it is on Arcade, Playstation and Saturn. If
+you want a Move List, you can surely use the Move Lists in any of the existent FAQs for the
+previous versions of this game. Now, enjoy reading.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2 - Menus Translations
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Main Menu
+~~~~~~~~~
+カルドバトル - Card Battle
+Pocket Fighter
+カルドギャラリ - Cards Gallery
+
+-------------------------------------------------
+
+Card Battle Menu
+~~~~~~~~~~~~~~~~~
+シングル - Single
+通信対戦 - Communication Competition
+
+
+Pocket Fighter Menu
+~~~~~~~~~~~~~~~~~~~
+~ Fully in English ~
+
+
+Cards Gallery Menu
+~~~~~~~~~~~~~~~~~~
+~ No text ~
+
+-------------------------------------------------
+
+Pause Menu
+~~~~~~~~~~
+GAMEを再開 - Resume Game
+GAMEを終了 - End Game
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+3 - Card Battle
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+When the battle starts, you will be presented to a set of cards. You have to attack
+your opponent or defend a strike by using these cards. Depending on the cards, you
+can even make combos. Bellow are translated the kinds of the cards.
+
+ジェム - Gem
+回避 - Evasion
+回復 - Recovery
+通常技 - Common Technique
+必殺技 - Certain Kill Technique
+GC - Guard Card
+
+The number in the lowest positon on the cards, means the attack power, and the number
+in the highest position means the defense power. Choosing cards will determinate the
+total attack value, as well as the total defense and total counter values. These three
+parameters determinate your total power value. If you want to attack your opponent,
+your total power usually should be higher than his/hers. The only exceptions are, if
+your opponent has a guard card, an evasion card or a total Counter higher than zero,
+he will defend your blow, even if your total power value are higher than his/hers.
+
+For example, if you have this set of cards...
+
++------+   +------+   +------+   +------+   +------+   +------+
+|3|FOOT|   |      |   |2|FOOT|   |4|FOOT|   |4|    |   |      |
+|-\    |   |      |   |-\    |   |-\    |   |-     |   |      |
+|  \   |   |  G   |   |  \   |   |  \   |   | Kill |   | CAKE |
+|   \  |   |   C  |   |   \  |   |   \  |   | Tech |   |  +1  |
+|    \_|   |      |   |    \_|   |    \_|   |     _|   |      |
+|FIST|1|   |      |   |FIST|2|   |FIST|2|   |    |3|   |      |
++------+   +------+   +------+   +------+   +------+   +------+
+   #1         #2         #3         #4         #5         #6
+
+..you may use the combinations:
+
++----------------------------+
+|1| #2 / #1 or #3 or #4 / #5 |
+|-|                          |
+|2| #4 / #5                  |
+|-|                          |
+|3| #1 or #3 or #4 / #5 / #6 |
+|-|                          |
+|4| #1 / #6                  |
+|-|                          |
+|5| #6 / #5                  |
+|-|                          |
+|6| #6 / #1 or #3 or #4 / #5 |
+|-|                          |
+|7| Any card alone           |
++----------------------------+
+
+So, what would be the best combination? If your energy bar is full, your best choice
+would surely be the first combination, as you would defend, and after attack. But if
+you energy is damaged, your best choice would be the third or sixth combinations (note
+that these combinations use the same cards, only in inverse order).
+
+Your total power value will be the total power acquired with the Defense (イ), Attack
+(攻) and Counter (回) parameters, shown after you chose your cards. Usually, you will
+attack your opponent if yours total power values are higher/stronger than his/hers.
+But remember that if your opponent has a guard card, an evasion card or a counter
+value higher than zero, he/she usually will cancel your attack.
+
+Also, there is one VERY important thing - try to make your Defense, Attack and Counter
+values as near as each others per turn, as you can. For example, if you have:
+
+イ (Defense) - 6
+攻 (Attack)  - 10
+回 (Counter) - 0
+
+And your opponent has:
+
+イ (Defense) - 5
+攻 (Attack)  - 15
+回 (Counter) - 0
+
+You will attack instead of he/she, but if you have:
+
+イ (Defense) - 6
+攻 (Attack)  - 6
+回 (Counter) - 0
+
+And your opponent has:
+
+イ (Defense) - 6
+攻 (Attack)  - 12
+回 (Counter) - 0
+
+He/she will attack instead of you.
+
+But, there is also another thing that determinates the total power value of your blow,
+the Card Value Cancel.
+
+For example, if you have this set of cards...
+
++------+   +------+   +------+   +------+   +------+   +------+
+|1|    |   |2|    |   |1|FOOT|   |2|FOOT|   |3|FOOT|   |      |
+|-     |   |-     |   |-\    |   |-\    |   |-\    |   |      |
+| Kill |   | Kill |   |  \   |   |  \   |   |  \   |   | CAKE |
+| Tech |   | Tech |   |   \  |   |   \  |   |   \  |   |  +2  |
+|     _|   |     _|   |    \_|   |    \_|   |    \_|   |      |
+|    |1|   |    |2|   |FIST|4|   |FIST|1|   |FIST|4|   |      |
++------+   +------+   +------+   +------+   +------+   +------+
+   #1         #2         #3         #4         #5         #6
+
+..and if you use the combination #5 / #2 / #6 , you will have a total power value:
+
+イ (Defense) - 3
+攻 (Attack)  - 6
+回 (Counter) - 2
+
+Why do you have a defense value equal to 3 and not 5 (3+2)? Simple - it is because
+the first card you chose determinated the total defense power you would have. The
+total attack power is the result of the sum of all the selected cards per turn, but
+the total defense power is the exact value of the defense power of the first card you
+chose. Just note that this rule is not applicable to a combination of 'Common Tech'
+cards only. The Counter parameter is determined by the value of the 'Recovery' card.
+
+PS: When you use a 回避 card (Evasion card), the kanji 避 (Evade) will be shown besides
+the イ (Defense) parameter. Also, if you use a GC (Guard Card), the letter 'G' (Guard),
+will be shown besides the イ (Defense) parameter.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+4 - Tips
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+- Apart from Evasion cards, never ever use any other card alone.
+- I am not sure about what the Gem Cards will do, but I believe it adds points for either
+  Defense or Counter values. Sometimes, instead, your character will just perform a Taunt.
+- Recovery cards add to your Counter values. If you use a +1 card, you will have one point
+  added in your Counter value. If you have a +2 card, you will have two points, and so on.
+- Gem cards may cancel your attack and the opponent's attack, even if your total power
+  values are stronger than his/hers.
+- If you evade before attacking, your combo may miss. Also, sometimes an evade card may
+  miss, depending on the total power value of your opponent.
+- Guard and Evasion cards are very powerful, and they may hit even if your opponent has
+  highest total power values than yours.
+- In some cases, if you do not have any guard, evasion, gem or recovery cards on your
+  set (in other words, if you only have Common Tech and Kill Tech cards), you can
+  combine up to four Common Tech cards to perform a VERY powerful combo. Also, in some
+  cases, your opponent can cancel this kind of attack if he/she also uses it in this
+  turn.
+- If you have a positive 'Counter' value (higher than zero), you will -probably- be
+  prevented from an unexpected cancellation of your attack, even if your opponent
+  has highest total power values than yours, as well as a cancellation of your attack
+  and the opponent's attack.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+5 - Credits
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This FAQ is a Copyright of Simon (Thiago Simoes), and you are NOT allowed to translate,
+post it in your site or any other media-vehicle without my consent, as well as rewrite
+this FAQ and/or sell this to ANYBODY. The only site allowed to post this FAQ is:
+
+-http://www.gamefaqs.com
+
+Contact me through my:
+
+E-mail - thiagosimoes84@hotmail.com
+         thiagosimoes84@ig.com.br
+
+ICQ - 117643160
+
+Thanks goes to:
+
+-GOD, for All.
+-Mom, for listening all my my stuff :)
+-You, for reading this FAQ.
+
+I hope you enjoyed!
+
+See you!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+---------------------------------------- The End? -----------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
