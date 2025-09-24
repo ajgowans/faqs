@@ -1,4 +1,4 @@
-# The MiSTer Database For Game Manuals (POC) 
+# The MiSTer Database For Game FAQs (POC) 
 
 This is a POC database for the MiSTer project that downloads .txt game FAQs to the relevant folder within "/media/fat/docs".  These can be loaded from within the core's OSD by selecting the "Help" option.
 
@@ -14,6 +14,7 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
  ## Currently Included Cores With FAQs
 
 - 32x
+- Atari Lynx
 - CD-i
 - Jaguar
 - Jaguar CD
