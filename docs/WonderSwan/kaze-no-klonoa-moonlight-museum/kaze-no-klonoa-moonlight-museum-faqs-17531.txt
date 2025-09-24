@@ -1,0 +1,2274 @@
+*****************************************************************************
+
+               Kaze no Klonoa: Moonlight Museum FAQ/Walkthrough
+                             For the Wonderswan
+                    Version 1.05 (Last Updated 7/3/2002)
+                              By Devin Morgan
+
+    This file is Copyright (c)2002-2006 Devin Morgan. All rights reserved.
+
+*****************************************************************************
+
+Table of Contents
+
+1. What's New
+2. Introduction
+3. Controls
+4. Overview
+5. Walkthrough
+6. Secrets/Tips and Tricks
+7. Copyright Notice
+8. Contact Information
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=
+-=  1. What's New -=
+-=-=-=-=-=-=-=-=-=-=
+
+Version 1.05 (7/3/02): I changed my mind about covering the EX stages. They 
+are hidden extra stages for an added challenge, so it'd be best if you 
+figured them out on your own, therefore expect no coverage from me. And with 
+that, this guide is done!
+
+Version 1.0 (7/1/02): World 5 is now complete, as is the game for the most 
+part! However, there are bonus EX stages that have been unlocked, which I 
+will cover next update. For now, the main game walkthrough is totally 
+complete!
+
+Version 0.7 (6/30/02): All of the World 4 walkthrough is included with 
+today's update, as well as the first 2 levels of World 5. Expect more of 
+World 5 to come with another update.
+
+Version 0.6 (6/27/02): Okay, so I didn't get a World 4 walkthrough up for 
+this update. I completed World 3 however, and that walkthrough is covered 
+here. Next update will obviously have World 4 included, though.
+
+Version 0.4 (6/25/02): Since I've been busy lately, this is only a small 
+update. It includes the first half of World 3 in the walkthrough. The rest of 
+World 3, as well as World 4 will be in the following update.
+
+Version 0.3 (6/23/02): This update includes a walkthrough for Vision 2.
+
+Version 0.2 (6/22/02): The first version of this FAQ. All of Vision 1 is 
+complete with this update.
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=-=
+-=  2. Introduction -=
+-=-=-=-=-=-=-=-=-=-=-=
+
+Klonoa's adventure takes him onto the B&W Wonderswan portable console. Like 
+the games on Playstation, PS2, and Gameboy Advance, this title provides the 
+player with lots of fun! I don't quite understand the whole story since I 
+cannot fully read Japanese, but it seems that it has to do with restoring 
+stolen paintings. Klonoa goes around in many side-view stages collecting 
+gems, stars, keys, and other various items, and fighting the occasional boss. 
+If you like platformers, you'll love this game, so I recommend downloading or 
+buying this one soon!
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=
+-=  3. Controls -=
+-=-=-=-=-=-=-=-=-=
+
+Start: Start/pause game, bring up submenu
+
+X-Pad: Move Klonoa, move cursor on menu screens (on horizontal screen)
+
+X1/X3: Jump, press repeatedly in air to flutter (on vertical screen)
+
+X2/X4: Use yo-yo (on vertical screen)
+
+Y-Pad: Move Klonoa, move cursor on menu screens (on vertical screen)
+
+A: Use yo-yo (on horizontal screen)
+
+B: Jump, press again to double jump (hold to flutter) (on horizontal screen)
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=
+-=  4. Overview -=
+-=-=-=-=-=-=-=-=-=
+
+Items
+-----
+
+As far as item-collecting goes in this game, there are plenty of little 
+things around for you to pick up along the way. In every single level, there 
+are 30 gems you can collect. They are optional, but it wouldn't be too hard 
+to collect as many as you can. A ruby is basically a large gem, and when you 
+collect one, it counts as 5 gems. As for Star Fragments, there are 3 of those 
+scattered in each level. These ARE required, since you need all 3 to open the 
+star door of the level, which you use to exit the stage. Finally, there are 
+hearts and extra lives, which you can pick up to regain a lost heart from 
+damage, or gain an extra life, respectively.
+
+
+Grabbing/Throwing/Double Jumping
+--------------------------------
+
+This technique alone is the most commonly used move in this entire game by 
+far. Klonoa uses the yo-yo to pick up an enemy, box, etc., then a couple of 
+things can be done. If you just press A again after holding something, you 
+will throw it forward, and it will continue moving until it hits a wall or 
+some other obstacle. When in the air, press A and the enemy/box will drop 
+straight down below you. Finally, there is the all-necessary double jump. 
+After you jump once, press B again and the enemy/box will drop, and you 
+will be propelled upward for another jump. That is quite useful for reaching 
+higher ledges, hence it is the most commonly used ability in this game!
+
+
+Switches
+--------
+
+There are two types of switches you will encounter throughout this game. The 
+first type are regular switches, usually identified by a single diamond-like 
+thing attached to it. Use your yo-yo to hit it, causing something to happen, 
+like a door opening or a puzzle being solved. There are also timed switches, 
+which have 4 diamond-like objects attached to it. Yo-yo it and it'll stay 
+activated temporarily. These are usually used to open a door, so you'll have 
+to come up with a strategy to hit the switch and get through the door 
+(sometimes far away) in time.
+
+
+Wind Chutes
+-----------
+
+One of the more common, and sometimes more annoying, obstacles in this game 
+are the wind chutes. They are columns of wind that blow upward as soon as you 
+move across one. You go straight up to the top of wherever it blows to, 
+causing you to miss other ledges and items to the sides on the way up. If you 
+place a box on a wind chute, or carry one as you walk across a wind chute, 
+it'll block the wind from blowing you upward. Carrying an enemy over a wind 
+chute does not have the same effect; you'll still be blown upward with it. 
+There are also wire-screen platforms found in certain levels. If one is above 
+a wind chute, the wind goes right through it, continuing to send anything in 
+its path upward. Place a block on such a platform to block the wind, 
+obviously.
+
+
+Time Bombs/Cracked Blocks/Arrow Blocks
+--------------------------------------
+
+In the later half of the game, there are enemies that I call time bombs 
+wandering around. If you grab one, a timer starts to count down (usually from 
+7 to 0, but there are some that go from 13 to 0). After the timer is done, 
+the enemy explodes like a bomb. If you place this enemy next to a large 
+cracked block, it'll clear the block out of your way when it explodes. There 
+are also arrow blocks found in certain levels. When you detonate one with a 
+time bomb, the blast moves in the direction that the arrow on the block was 
+pointing. That can help if you're trying to activate switches/destroy cracked 
+blocks, but can't get the time bomb directly to it.
+
+
+Warp Zones
+----------
+
+In the last world of the game, there are doorways known as warp zones in 
+certain levels. Those doorways have Roman numerals above them, ranging from 
+"I" to "VI". If you go into a "I" warp, you'll reappear in the other "I" warp 
+situated elsewhere in the stage. It's best if you keep track of where the 
+different warps are; that way you'll be able to travel quickly and easily 
+through those last several stages.
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=-=
+-=  5. Walkthrough  -=
+-=-=-=-=-=-=-=-=-=-=-=
+
+=======
+World 1
+=======
+
+Vision 1-1
+----------
+
+From the start, head right and collect the 2 gems in your path. Read the sign 
+to learn about picking up enemies. Try this out with the nearby enemy if you 
+like, then walk to the right and grab another gem (3), and jump up a few 
+ledges. Head right at the top and grab more gems in the air (6), then make 
+your way to another sign. Read to learn about double jumping with an enemy in 
+tow. Demonstrate this new technique with the enemy in front of you to reach 
+the high ledge. From there, grab a couple more gems (8) and continue down and 
+right. Jump up and grab the 2 gems you can reach (10), then double jump with 
+an enemy to reach the ruby, which equals 5 gems (15). Grab another enemy and 
+use it to jump to the high ledge up ahead, then take the heart if you need it 
+and continue to the next area.
+
+In this second area, follow the path to yet another sign. Read it to learn 
+about collecting the 3 star fragments in order to open a star door, which is 
+the exit to the level. Double jump with the nearby enemy to reach the first 
+fragment above the sign. Continue down the path and into the following area. 
+There, go right and pick up the first creature you come across, then double 
+jump with it to reach 2 gems in the air (17). Head right some more and grab 
+the next enemy and double jump to a ledge in mid-air. Pick up the gems there 
+(20), then drop down to the area below the ledge, and collect 2 more gems 
+(22), a heart, and a star fragment. Double jump to the right ledge with the 
+enemy down there with you, and continue to a sign. Read to learn about your 
+ability to flutter in mid-air.
+
+Now, continue right and double jump with the enemy you come across to reach 
+the high ledge. Head right and grab the flying enemy, then jump the spike 
+pits and collect 3 loose gems (25) and a ruby (30). Double jump to the ledge 
+at the end to get the final star fragment. Now, go back left and drop down to 
+the lower area. From there, proceed right to the star door which will open 
+for you, so push Up in the doorway and exit this level!
+
+
+Vision 1-2
+----------
+
+Here, start by going east to the first enemy you encounter. Grab it, then 
+continue to the high wall. Jump, then drop the enemy to get leverage on the 
+jump, collecting 2 gems and landing on the ledge. Jump up and take the ruby 
+you missed (7). Continue east and grab the next enemy, and use it to reach 
+the ledge with the circle key. Take it, then drop back down and open the door 
+with the key, and go east into the next area. There, go east past the star 
+door and grab the enemy you see. You'll come a a split in the path where you 
+can go up on the high ledge or stay on the bottom one. Use the enemy you're 
+holding to reach the higher ledge and unlock that circle door, then continue 
+into the next area.
+
+In this area, go east and grab the flying enemy you come across. Then, go 
+back west and jump onto the low part of the platform above you. Jump to the 
+top of it, then jump and fly east. Drop down onto the line of 3 gems (10) and 
+a heart. Then, take the enemy again when it reappears and get back to the top 
+of that platform. Double jump to the high ledge to the right and take the 
+triangle key, then continue eastward. Take another gem (11) and the ruby on 
+the upper ledge at the end (16). From there, double jump to the left and grab 
+the first star fragment. Now, go back left into the previous area. There, go 
+left and drop down to the lower area and go right, using the triangle key to 
+enter the next area.
+
+Here, go right and slide down the vine to the bottom, then continue to the 
+right. Grab the enemy walking under the low platform, then get out from under 
+it and use the enemy to jump onto that platform. Go right to the far end of 
+that platform and grab the other enemy on the upper ledge when it comes 
+within your range. Use it to reach the 2 gems and the next star fragment on 
+the low platform you're on (18). After that, go right and jump onto that 
+platform. Grab 3 more gems (21) and use the enemy to reach the higher ledge. 
+Continue right and take 3 more gems (24), as well as the X key. Now, make 
+your way all the way to the left side of this large room. Unlock the X door 
+and enter that room.
+
+Here, go left and down the steps to the bottom. Grab the flying enemy there 
+and use it to double jump to the high platform above. Grab the enemy on that 
+platform and double jump upward to get 4 gems (28). Land on the platform and 
+when the enemy reappears, use it to jump to the left ledge, where you'll get 
+the last 2 gems (30), as well as the final star fragment. From here, go back 
+right into the previous room. There, jump up and climb up the vine to the 
+top, then go left into the following area. In there, continue left to the 
+star door, then go through it to exit the level.
+
+
+Vision 1-3
+----------
+
+This is the very first level that requires you to flip your Wonderswan unit 
+vertically. After you get yourself situated with that, start the level by 
+going right and grabbing the flying enemy. Use it to double jump to the high 
+ledge to the right. Grab the walking enemy there and double jump to grab the 
+first 2 gems against the wall in the air. When the enemy reappears, use it to 
+double jump to the high ledge to the left. Go left to another enemy, then 
+grab it and jump to the upper-right ledge. Continue right and use the next 
+enemy to reach the next ledge. When it reappears, grab it again and use it to 
+double jump to the top ledge to the left. Go left and drop down the pit at 
+the end to get a heart, the circle key, and a gem (3). Next, grab the flying 
+enemy to the right and get to the upper-right ledge. From there, go right and 
+unlock the circle door, and continue into the next area.
+
+In this next area, use the flying enemy in the beginning to jump over the 
+door to the right. Then, continue up the steps and over the star door, then 
+down the steps to the end. Unlock the circle door and enter that next room. 
+There, use the flying enemy to double jump over the spike pit to the higher 
+ledge, grabbing 2 gems (5) along the way. Go right and unlock another circle 
+door, then in that small room, take the triangle key, a heart, and 2 more 
+gems (7). Go back out of there and grab the flying enemy to reach the ledge 
+above you. Take the second flying enemy and use it to double jump left to a 
+ruby (12). Get back up to that high ledge again and take the 2 gems (14), 
+then grab the flying enemy to the left once again. Go all the way right and 
+jump onto the higher ledge, then double jump left onto the higher platform.
+
+From there, go left and up to the middle area. Grab the flying enemy to the 
+right and jump to the 2 gems floating up and to the right (16). Also, use the 
+flying enemy when it reappears to take the first star fragment floating above 
+the middle area. Then, grab the left flying enemy and double jump to 2 more 
+gems in the air to the left (18). Land, then go left into the next area. 
+There, grab the heart in the air and walk to the left, taking the 3 gems 
+along the path (21). At the edge of the platform, double jump and fly to the 
+left ledge on the other side. Take 2 more gems there (23) as well as an extra 
+life medallion, then go back right to the edge. Drop down, grabbing 2 gems 
+(25) and the second star fragment. Go left and drop down to another ledge 
+below. Unlock the triangle door to the right and continue right and down, 
+grabbing 3 more gems in the air (28). From there, continue left into the next 
+area.
+
+In here, grab the flying enemy and use it to reach the final star fragment, 
+as well as the final 2 gems (30). Now, go back to the previous room. Jump up 
+the ledges to the upper area, then grab the flying enemy you eventually reach 
+and use it to reach the upper-right ledge. Open the star door and exit the 
+level through there.
+
+
+Vision 1-4
+----------
+
+To start this (horizontal) level off, head all the way right until you come 
+to 2 enemies. Grab one and use it to reach the higher ledge, then continue to 
+the right. Read the sign to learn about the boxes, such as the one in front 
+of you. Use it to reach the 3 gems in the air, then as a stepping stone to 
+reach the upper ledge to the right. Go up the steps to the top, then climb 
+the ladder into the area above. There, jump on the moving platform when it 
+comes down, and ride it to the top. Double jump to the left platform where 
+you'll find 2 gems (5). Continue onward to reach a box and some enemies. 
+Throw the box to the left, then pick up an enemy. Jump on the box where it 
+sits against the wall in the corner, then double jump with the enemy to reach 
+3 gems (8) and the higher ledge. Then, climb up the ladder into the next 
+area.
+
+Next, pick up the box and throw it to the left so it passes under the low 
+passage below the platform in the air. Go through there as well and grab the 
+box at the other side, then use it to reach the upper ledge to the left. Go 
+left and down the steps, then down a ladder into another room. There, go riht 
+and drop into a pit area with 2 boxes. Take the left box and jump onto the 
+right one, then jump and throw the box you're carrying to the left ledge. 
+Then, drop down and take the other box on the floor, and use it to jump to 
+the ledge where you threw the first box. Take that box again and throw it to 
+the right ledge. Drop back down to where the other box is, and use it to jump 
+to the right ledge. Jump onto the box you threw there and collect the circle 
+key and a ruby (13). Now, drop back down and take the other box to jump onto 
+the left ledge, and continue up the ladder to the previous area.
+
+Back in this area, go up and all the way right until you reach the box. Pick 
+it up and carry it to the right, then use it to double jump to the higher 
+ledge. Open the circle door and advance into that area of the room. There, 
+jump onto the vines and jump between them, collecting a star fragment, 2 
+loose gems (15), and a ruby (20). Then, continue right through the room to 
+reach a platform that moves up and down. Jump aboard and ride it to the top, 
+then jump off the left side and collect 3 gems on the way down (23). Drop 
+back down and grab the box in the lower-right corner, then jump onto the 
+moving platform again. Ride it to the top, then throw the box to the right 
+ledge. Jump onto the vine, then onto the ledge, and grab 2 more gems (25) and 
+the second star fragment. Then, get back down to the bottom area and down the 
+ladder into another area.
+
+In this area, go left and drop down to the lower area of the room. Grab the 
+walking enemy nearby and jump onto the moving platform by the star door. At 
+the top, double jump with the enemy to the left and grab the ruby (30). Now, 
+head all the way right and down the ladder into the next area. In there, go 
+left and down and grab the box. Then, get back onto a higher ledge and jump 
+to the moving platform. When it stops at the left, use the box to double jump 
+to the ledge with the final star fragment. Now, go back right and up to the 
+previous area. There, go left and open the star door, then leave here!
+
+
+Vision 1-5
+----------
+
+To start this level, go right and pick up the box, then throw it to the 
+right. Then, jump up and grab a flying enemy. Go right and jump on the box, 
+then double jump with the enemy's help to reach the ledge with 2 gems. Drop 
+down to the area on the right side, then pick up the next box and throw it 
+right through the line of flying enemies. Go past the cleared path and 
+continue into the next area. There, head right and read the sign you come 
+across describing the winged balls above. Try out this new ability by using 
+the yo-yo on the flying ball, and jumping from it to the 2 gems floating 
+above it (4). Continue right and use the next series of winged balls to grab 
+3 more gems (7). Go right and use the last winged ball to reach the right 
+ledge, and continue to the following area.
+
+In here, go right and use the first winged ball to get to the right ledge, 
+then use the second one to reach the upper-left one. Grab the walking enemy 
+there and use it to jump to the upper-right ledge. Grab the flying enemy 
+against the right wall and use it to double jump upward, grabbing 2 gems (9). 
+Next, grab onto the winged ball that moves up and down. Ride it to the top of 
+the area, then jump onto the ledge and go into the next area.
+
+In this area, go left and you'll come to another moving winged ball. Grab 
+onto it when it comes to the right side, then ride it to the left. There are 
+2 gems floating overhead along the way (11), so jump up at them as you pass, 
+then grab back onto the winged ball to continue. At the other side, go left 
+and grab the winged ball above the spike pit. Jump up and take the next gem 
+(12), then jump onto the ledge to the left. Jump and grab onto the winged 
+ball and jump to the next one, grabbing the gem in the air (13). Jump from 
+the second winged ball to the left ledge, grabbing another gem (14). Then, 
+continue left into the next area.
+
+There, jump up and grab the heart, then slide down the vine and drop to the 
+very bottom area. Pick up the box and jump to the higher ledges to the right, 
+then throw the box to the ledge to the left of the winged ball. Grab the 
+winged ball and jump onto that ledge, then jump onto the box and go onto the 
+top ledge. Slide down the vine and go left at the bottom to another box. Pick 
+it up, then double jump with it below the area with the items above; that way 
+the box drops right below it. Continue left to find another box, then pick it 
+up and bring it back to where you dropped the first one. Jump on the first 
+box and double jump to the high area. Grab onto the winged ball and grab 3 
+gems (16) and a star fragment.
+
+Now, go left to a row of winged balls in the air. Grab onto each one to reach 
+the ledge to the left, where you'll find one more gem (17). Drop down to the 
+lower area and climb down the ladder to reach the next area. In that area, 
+climb down to the bottom area and go right to pick up the circle key. Go 
+through the flippers and grab the extra life medallion, then drop down to the 
+lower area. Go left and unlock the circle door, but before continuing into 
+that area, go right and pick up a box. Throw it to the left through the door, 
+then follow it to the left. Grab the box when you catch up to it, then jump 
+to the highest ledge and double jump to the right, where you'll collect 
+another star fragment and 3 gems (20). Then, go left into the next area.
+
+In this next area, go left and down to the bottom area, then go left and pick 
+up the box. Wait for the moving platform to come down, then ride it to the 
+top area with the box in tow. At the top, double jump to the left ledge and 
+continue left, grabbing 3 more gems (23). Then, go left and onto the next 
+moving platform. Now, continue up and left, then up and right to the next 
+regular ledge by means of jumping from winged ball to winged ball. Once on 
+that high ledge, go right and jump onto some more winged balls. You'll see 2 
+of them moving back and forth: one to the right and one to the left. Grab 
+onto the left-moving one, then at the end of its path, jump onto the winged 
+ball above to reach a ruby (28).
+
+Now, drop back down and go all the way right into the next room. Take the 
+triangle key there, then go back to the previous room. Go left and grab onto 
+the winged balls, then jump/grab onto the right-moving one. When you get to 
+the far right, jump onto the ledge and go right. Unlock the triangle door and 
+go into the next room. Take the 2 gems (30) and the final star fragment 
+there, and go through the flippers, then drop down to the lower area. Go left 
+and open the star door, then exit this level.
+
+
+Vision 1-6
+----------
+
+From the start, grab onto the winged balls moving up and down at either side 
+of the middle area. Ride one to the top, then jump onto the ledge and wait 
+for the left one to come down. Grab onto that one, then jump off at the top. 
+Climb up the vine, then jump onto the left ledge and continue up and left 
+into the next area. There, go ahead and read the sign to learn about the 
+switches. Hit the one above the sign with your yo-yo to open the door nearby. 
+Go through and continue left to a box; pick it up and use it to double jump 
+to the next switch further left. Hit the switch to open the next door, then 
+throw the box left through the doorway and then go through yourself. Use the 
+box to reach the higher ledge, then continue left and grab the flying enemy 
+you see. Drop down to the bottom-left ledge by the spike pit, and throw the 
+enemy right at the switch to trigger it. Climb back up the rope to reach the 
+higher ledge, then grab the flying enemy that reappears and use it to reach 
+the ledge where the door opened. Go right and take the circle key.
+
+Now, make your way all the way right to the start of this room, and go back 
+into the first area of the level. Drop all the way down there to the bottom 
+area by the star fragment you cannot reach yet, then go right and unlock the 
+circle door and enter that room. Go right and grab the enemy, then use it to 
+double jump to the 2 gems in the air up ahead. Continue right to a winged 
+ball; use it to reach the right ledge. Go right and read the sign to learn 
+about the timed switches. Trigger the one above you to open the door ahead 
+temporarily. So, go through and grab the first star fragment.
+
+Next, go down the rope in this part of the room, then at the bottom, go left 
+and grab the 4 gems (6) along the way. At the end, take the heart and 
+triangle key, and go through the flippers. Then, continue left into the first 
+room again. Go left and ride the winged balls up to the ledge with the star 
+door. From there, ride the left one upward to the next ledge. There, go left 
+and open the triangle door, then continue to the next area. In there, go left 
+and grab/throw the enemy walking along to get it out of your way, and take 
+the 2 gems as well (8). Then, climb up the rope to the upper ledge and grab 
+the enemy there. Jump over the left pit with it, but double jump while over 
+the pit so the enemy drops straight down, hitting the timed switch. Then, 
+quickly go through the left door. Head left and take the heart if you need 
+it, then drop down and continue right. Take 3 more gems (11) and grab onto 
+the rope hanging at the end.
+
+From there, grab onto the winged balls to make it over to the right ledge. 
+Take the flying enemy there and throw it left towards the timed switch. Go 
+through the open door quickly and take the X key. Climb up the rope and take 
+the second star fragment, along with 2 gems (13). Then, drop down to the 
+bottom area and go right, unlock the X door, and continue to the next room. 
+Back in the first area, go right and ride the winged balls to the first ledge 
+above. This time, wait for the right winged ball to come down, then grab on 
+and ride it to the top. Jump onto that ledge and go right; unlock the X door 
+and enter that area.
+
+In this room, go right to the sign to read about the 3 switches here. You 
+must hit them in the right order to open the door to the right. Use the box 
+to reach/hit the high middle one. Then, hit the left one, and finally the 
+right one to open the door. Continue right, grab 2 gems (15) and a heart, 
+then go into the next area. Here, go right and pick up the box, then jump 
+onto the moving platform. Ride it just a tad bit upward, then double jump up 
+and left to a ruby (20). Drop down and get the box again, then ride the 
+platform to the ledge at the top. Take the 2 gems there (22), then throw the 
+box to the left so it drops onto the timed switch. After that, climb the rope 
+and go through the door into the next area.
+
+There, go left and pick up the box, then jump onto the moving platform. Ride 
+it to the top, then jump so you're directly over the 3 switches. Jump again 
+to drop the box straight down, hitting all switches to open the door. Take 
+the box and go onto the platform once more, then jump onto the left ledge and 
+throw the box through the open doorway. Go left into the other area of the 
+room, then pick up the box and use it to double jump up to 2 more gems (24). 
+Then, continue to the next area.
+
+In this next area, go left and onto the first rope. Jump off the left side 
+and collect 3 gems (27). Go left and drop down to another ledge, and take the 
+box there. Go right and jump to get the last 3 gems (30). Continue left and 
+all the way downward with the box in your grasp. At the very bottom, use the 
+box to double jump to the last star fragment. Now, use a winged ball to reach 
+the upper ledge, then open the star door and leave here.
+
+
+=======
+World 2
+=======
+
+Vision 2-1
+----------
+
+To start off this level, head right and read the sign to learn about the wind 
+chutes, such as the one in front of you. Try it out by stepping into the 
+wind, and it'll send you to the ceiling above. Go right and drop, then 
+continue right to another wind chute. Ride it upward, then drop onto the 
+upper ledge to the right. Drop down to the ground level, then go back left to 
+get 3 gems. Then, continue right to the next area. There, go right and up 
+another wind chute to a ledge with a box. Read the sign to learn about how to 
+weigh yourself down on wind chutes when holding boxes. Try it, then go right 
+with the box in tow. Go up the steps and grab a heart in the air, then sink 
+into the next wind chute. Go left at the bottom to find 5 gems (8). Now, go 
+right to the end, then drop the box and grab onto the flying enemy above. 
+It'll fly upward while carrying you, so head onto the upper left ledge. Once 
+there, go up the ladder to the next area.
+
+Here, go left and up the wind chute. Grab onto the winged ball to the right 
+when it comes close, then hold on as it moves to the right. Jump/grab onto 
+the next one, then jump off onto the ledge at the right end. Grab the ruby 
+(13), then go back left. This time, get onto the left ledge and from there, 
+continue left until you can drop down to a lower area with another wind chute 
+to the left of that. Go right and grab the enemy you see, then go left and up 
+the wind chute. At the top, drop down along the left side of it to the 
+ground, then continue left. Grab 3 gems in the air (16), then use the enemy 
+you're holding to reach the high ledge with a star fragment on it.
+
+Now, ride the wind chute up to the top, then jump onto the left ledge and 
+continue in that direction. Go left and climb downward on the vine. At the 
+bottom, go left to the next area. Head left and pick up the enemy you pass 
+along the way. Go left to a sign and read to learn about throwing enemies 
+while riding wind chutes. Demonstrate that by going in the chute and throwing 
+the enemy left to hit the timed switch along the way. Ride the wind to the 
+ceiling, then drop down to the right ledge and go through the open door to 
+get a star fragment. Drop off the right side to get a heart and 3 gems (19).
+
+Next, grab the enemy on the ground again and ride the wind chute. At the top, 
+hold Right and drop onto the right ledge. Then, use the enemy to double jump 
+to the next ledge. Continue right and onto a box covering a wind chute, and 
+take the ruby (24) in the alcove. Then, go left and grab the flying enemy to 
+start drifting upward. Direct it to a high ledge to the left. Land there and 
+take 3 gems (27), then double jump right to that ledge again. Now, pick up 
+the box and throw it aside, and ride the wind chute to the ceiling. Continue 
+right and down the steps into the next area.
+
+In this area, go right and read the sign to see how moving platforms above 
+block the wind chute's current. Go right and wait until the moving platform 
+is above the wind chute, then ride it up to the platform. Go right and onto 
+the ledge, then take the heart there. Go right and drop down to the lower 
+area, and read the sign to learn about the wire-screen floor and how the wind 
+chutes go right through them. Go right and take the box, then drop it on the 
+wind to block it from going up. Now, go up and use the winged balls to reach 
+the ledge with the final star fragment. Drop back down and take the box, and 
+head right. Double jump to the high ledge and go right to get the last 3 gems 
+(30). At the end of the path, open the star door and clear this level!
+
+
+Vision 2-2
+----------
+
+From the start, go up and right into the following area. In the second room, 
+go right and take the first 5 gems. Pick up the box and head right, then jump 
+and throw it to the wind chute on the next ledge, blocking it. Then, grab 
+onto the winged ball and reach the next ledge, and go right to find a star 
+fragment. Go up the ladder to the next area. In here, go left and up the wind 
+chute to the top area. Go all the way left and ride the moving platform at 
+the end upward to the top, then jump onto the right ledge. Pick up the box 
+and throw it directly to the right, so it passes the star fragment and drops 
+on the wind chute over there. Double jump right onto the ledge and take the 
+second star fragment, then drop to where the box dropped. Go right and take 
+the circle key. Then, pick up the box and throw it to the right, then ride 
+the wind chute to the upper ledge. Jump left and drop down to get 3 gems (8), 
+then go left and drop down again to get 3 more gems (11). Go left and ride 
+the moving platform to the top, then go left and open the circle door, and 
+continue to the next area.
+
+In the next room, go left and pick up the first enemy you come across. Then, 
+head left and jump from ledge to ledge, collecting the gems in the air along 
+the way (16). Be quick though, since these ledges disappear after being 
+landed on. At the end, take the second star fragment and double jump with the 
+enemy to get the triangle key in the upper corner. Then, go left and open the 
+triangle door, and go into that room. There, pick up the box and throw it to 
+the left ledge. Then, jump down the right side of the pit to get 5 gems (21). 
+Now, go up the wind chute and land on the left ledge. Hit the timed switch, 
+then pick up the box and sink down the wind chute to the bottom. Then, go 
+left and toss the box away, then go through the open door. At the other side, 
+take the X key. Ride up the wind chute to the top, then go right and through 
+the flippers. Drop back down to the bottom of the room, then go right and 
+through the X door into the next area.
+
+There, climb up the vine and jump onto the upper ledge to the right. Go right 
+and jump to grab a heart if needed, otherwise continue past a wind chute and 
+drop to a ledge with 3 gems on it (24). Drop down to the one below for 3 more 
+gems (27), and the bottom one for 3 more (30). Now, go up the chute to the 
+top, then go back left to the vine. Drop down to the lower area, and go right 
+until you come to the wind chute covered by a box. Pick up the box and go up 
+a few steps to the left. Throw the box right onto the ledge in mid-air. Go up 
+the wind chute to the right, then get onto the ledge with the box. Pick up 
+the box and jump onto the wind chute from the top. Sink downward and land on 
+the ledge with the star door. Open up and get out of here.
+
+
+Vision 2-3
+----------
+
+In this vertical level, go right and ride up the wind chute to the top of the 
+room. There, go right and use the winged ball to reach the higher ledge. Go 
+right and take 3 gems, then go into the next area. Here, go right and jump 
+onto the ledge in the air past the up-and-down moving platform. Pick up the 
+box and jump onto the wire-screen floor and drop the box onto it. Drop down 
+to the lower area and go right into the wind chute; ride it to the top of the 
+room. Hold Right and get ready to jump to the right when the wire-screen 
+floor with the box moves in front of the chute, allowing you to land on that 
+ledge. Take the star fragment and head right, then jump down and take 5 gems 
+(8). Climb down the vine to the bottom, then go left and down the ladder to 
+the next area.
+
+In this area, go left and jump onto the moving platform when it comes up. Use 
+it to jump to the left ledge, where you'll find a box; pick it up. This next 
+part may take you a few tries, but please try to follow what I'm saying and 
+you'll get through. With the box, run and jump off the ledge towards the 
+left. You'll jump into 2 water chutes next to each other. When you're above 
+the left chute, hit the jump button again to drop the box on the left chute, 
+while propelling you onto that ledge. Take the circle key and continue left, 
+then drop down to get 8 gems (16). At the bottom, grab onto the winged ball 
+and ride it up to a ledge with an extra life medallion. Then, drop down and 
+go right, grabbing onto another winged ball and using it to jump over the 
+spike pit. Continue right and go over spike pits, while you collect 3 gems 
+(19) along the way.
+
+Now, go right into the wind chute. There are 3 switches to the right on the 
+way up; hit each one to open the door at the top. Go left through it and grab 
+the flying enemy to fly upward. Direct it to the left to grab the second star 
+fragment. Drop back down and grab the enemy when it reappears, then fly onto 
+the upper right ledge. Then, go right and up the ladder to the next area. 
+Here, go left and unlock one circle door, then go across and unlock the other 
+one. Take the heart in the air and go up the first wind chute. Jump left and 
+grab onto the first winged ball. Jump between this one and the other winged 
+ball, collecting the 3 gems in between them (22). Continue left and up 
+another wind chute, then drop down the left side and head into another area.
+
+In this next area, go left and jump to grab 3 gems overhead (25). Continue to 
+the wind chute, then ride it up and jump to the right ledge. Hit the first 
+switch, then quickly jump into the wind and ride it to the top. Jump out on 
+the left side and hit the second high switch, then the bottom one to open the 
+door. Get back onto the right ledge and take the final star fragment in the 
+small room. Now, continue left through this room until you come to another 
+wind chute. Ride that to the top, then go right and open a circle door. Take 
+the box in there and throw it to the left out of that room. Go pick it up, 
+then go left and jump over the chute, and grab the ruby (30). Then, sink down 
+the wind chute with the box weighing you down. At the bottom, go left and 
+open the star door and leave here.
+
+
+Vision 2-4
+----------
+
+Starting off here, go right and grab the enemy you see. You'll also see a new 
+obstacle to avoid: moving spike tops. Wait for the one in front of you to 
+move upward, then pass under and use the enemy you're holding to double jump 
+to the next ledge. Continue right and jump to grab 2 gems in the air, then 
+drop down to a lower area with a spike ball moving above. Wait until it moves 
+to the left side, then grab an enemy and run right and double jump to the 
+next higher ledge. Go right and jump over the spike top to get another gem 
+(3), and then continue over some spike pits while avoiding the spike tops 
+overhead. Go right some more until you reach a regular enemy. Pick it up and 
+go right while avoiding popping the enemy on a spike top. At the end, double 
+jump to the high ledge to get a heart and 3 gems (6), then drop down and go 
+right to the next area.
+
+In the second area, go left and down the rope, then head left to a box. Pick 
+it up and throw it to the right end of the room. Go right and jump on it to 
+reach the ledge with a star fragment on it. Drop back down to the lower area 
+again, pick up the box, and head left. Jump over the spike top and jump to 
+the slightly higher platform, then double jump with help from the box to 
+reach the high ledge. Go left and jump to get 3 gems (9). Continue to find 3 
+more gems in the air (12); jump to collect them while avoiding the spike top 
+floating across them. Pick up the nearby box and throw it left, then use it 
+to reach the upper ledge where you'll find 2 gems (14) and a heart. After 
+that, go left into the next area.
+
+There, go left and read the sign to learn about placing boxes on up-and-down 
+spike tops to weigh them down. Go all the way left and grab the box, then 
+double jump over the spike top to drop the box onto it. Ride it downward, 
+then when you can squeeze through, grab the box and drop to the lower area. 
+Go left and grab the 2 gems in the air (16), then double jump to the ledge 
+with the second star fragment on it. Take the box and go right, then sink the 
+spike top like you did the first one here. After you weigh it down, take the 
+box again and go down and to the left. Go over the wind chute with the box in 
+hand, then take the extra life medallion, and 3 gems (19). Now, go all the 
+way right and through the bottom-right doorway to the next area.
+
+In this area, go right and onto the wind chute, making sure to get the 2 gems 
+on the way up (21), although you can't miss them anyway. Go right on the 
+ledge and read the sign to learn about throwing boxes at spike tops, causing 
+the box to stop and drop upon impact. Take the box and go down, then when the 
+spike top moves all the way to the right, throw the box at it so it drops 
+down to the middle area below. Drop down there and use the box to reach the 
+upper ledges with the final star fragment, and 2 gems (23). Then, go right to 
+find 2 winged balls moving up and down. Grab the first one, then the second 
+one to reach the top of this area. Jump to the right wall and drop for 3 gems 
+(26). At the bottom, go into the next area to the right.
+
+Here, use the winged balls to reach the upper ledge, then take the box you 
+find and throw it to the right when the spike top is in the path of you and 
+the box. Go right and down to take the box, then go right and use it to 
+double jump to the final 4 gems (30). Use the box once more to double jump to 
+the right ledge, then open the star door and exit here!
+
+
+Vision 2-5
+----------
+
+To start this vertical level off, head left a bit, jumping to reach the first 
+2 gems in the air. Grab the box on the ground between the gems, then go left 
+to find a bunch of spike tops. Wait until the very first one on the floor 
+moves towards the left, then drop the box on it to keep it in place. Next, go 
+back right and grab the enemy you passed, and bring it back left. Jump from 
+the inclined ledge to the box atop the spike top, then double jump to the 
+high ledge for 3 more gems (5). Now, go back down and take the box and get it 
+to the left side of the area. Use it to jump to the left ledge, then take the 
+heart in the air and continue left. Go down the ladder to the next area.
+
+Go down the rope, then to the right. Take the box and wait for the spike top 
+ahead to move upward, then throw the box at the right wall. Go right and past 
+the box, and read the sign to learn of some information I don't understand 
+since I'm not fluent in Japanese. Turn around and take the box, and go right, 
+double jumping to the upper ledge. Go down the vine and continue down and 
+left through here. Pass the wind chute and continue along the bottom path. 
+Jump over the lower spike top and take the 2 gems above you as you progress 
+(7). Go left and into the open area above you, then grab the flying enemy to 
+the right to fly upward. Get all 3 gems (10) there, then go left into the 
+next area.
+
+Here, go left and onto the lowest ledge, then jump up the disappearing 
+platforms and grab ahold on the winged ball. Wait for the flying enemy to 
+start moving to the left, then jump and grab it to fly. Hold Left all the way 
+to get the bottom row of 3 gems (13). Get back to the winged ball and grab 
+the flying enemy again, this time going upward to find a star fragment. Go 
+back down and fly with the enemy up and left one last time to get 4 more gems 
+(17). On the upper ledge, grab the winged ball and get to the highest area, 
+then go right into the following room.
+
+In this next room, go right and grab the heart and circle key. Now, backtrack 
+a couple rooms to the room with the wind chute and spike tops. There, go all 
+the way right and unlock the circle door, then follow the bottom path right 
+into another area. There, go right and drop the box on the spike top to sink 
+it downward. Leave the box on it, and head to the right once in the lower 
+area. Go up the wind chute to the top, then go left and grab an enemy 
+wandering around. Go left and down the pit where the spike top was, and land 
+on the box. Double jump left and up to reach the ruby and a loose gem (23). 
+Then, take the box off the spike top so you can progress, then throw it all 
+the way to the right for later. Go right and up the wind chute again to the 
+top, then go left and grab the enemy again. Use it to double jump to the high 
+ledge with a heart and a box on it.
+
+Take the box and head back right to the wind chute you came up from. Drop 
+down the chute a little, and go right to the first ledge you pass. Jump to 
+get the triangle key, then continue down the chute. Veer to the left to grab 
+3 additional gems on the way down (26). At the bottom, walk right with the 
+second box and jump onto where the first one is. From there, double jump to 
+the upper ledge, then use the winged ball to reach the high ledge with a star 
+fragment on it. Now, go back down and left, then up the wind chute. At the 
+top, go left and down, then left to the next area.
+
+There, continue left and up the wind chute further ahead. Jump to the right 
+ledge and open the triangle door, and claim the last 4 gems there (30). Go 
+back left and up the wind chute, then go go the left ledge and open that door 
+as well. Go left and up the wind chute, then onto the right ledge. Take the 
+box to the right and throw it left under the low platform above. Go back left 
+and take the box on the ledge where you threw it, and sink down the chute. Go 
+right and double jump with the box to reach the ledge with the final star 
+fragment. Now, go left and up the wind chute, then grab the winged ball and 
+jump to the last ledge. Open the star door and leave this level.
+
+
+Vision 2-6
+----------
+
+In this level, go right and pick up the box, then drop it below the middle 
+platform that the spike top floats above. Go right and grab an enemy, then go 
+back and jump onto the box, then double jump to reach 2 gems. Go down and 
+take the box, then go right and down and throw it to the right. Grab the 
+enemy that reappears and use it up ahead to double jump to 3 more gems (5). 
+Continue right to where the box stopped, and jump on it to reach a heart. 
+Pick up the box and go right/double jump to 3 more gems (8). Then, go right 
+and take the box with you, and double jump to the high ledge. Continue into 
+the next area from there.
+
+Here, go right and up the wind chute, then go onto the left ledge. Take the 
+box and go right to the edge of the platform. When the spike top is going 
+down to the ground, throw it right so it stays in the middle area. Go onto 
+that ledge and pick up the box, then drop it at the right edge of that 
+platform. Next, go left and drop down to the lower area again, and pick up 
+the enemy. Go back up and right, past the spike top when it goes upward. Jump 
+onto the box and double jump with the enemy to reach the next ledge. From 
+there, go right and down the rope, then go either left to get a heart, or 
+right to the next area.
+
+In the next area, go right and use the flying enemy to reach the high ledge 
+above. Land there and take the next flying enemy upward, grabbing 4 gems on 
+the way (12). Go left and use the regular enemy to double jump to the next 
+ledge, then do the same on the following ledge. On the next one, fly up and 
+right with the flying enemy to reach the higher ledge. Continue upward by 
+double jumping via the enemies until you reach the very top, then head left 
+to the next area. Here, go left and up the 2 wind chutes. Get onto the ledge 
+after the second one, then wait for the spike top next to the chute to get 
+out of your way. Then, drop down and left to the next part of the room, where 
+you'll find 2 gems and an extra life medallion (14).
+
+Now, go back right and up the wind chute, then onto the ledge to the left. 
+Grab the winged ball when it comes down, and ride it upward, then jump onto 
+the following ledge. Go right and up the rope, then onto the left ledge. Go 
+up the steps to the top one before the wind chutes, then jump to the right 
+ledge and grab the box sitting there. Go back left and drop the box on the 
+left chute, then go up the right one and land on the upper left ledge. Drop 
+down the left side of that ledge to get a heart and 2 gems (16). At the 
+bottom, take the box and put it on the right chute, then ride the first one 
+upward. Go right and drop into the ledge with the ruby (21). Drop down to the 
+box, then get to the ledge below and right of it, then take the box off the 
+chute. Jump with it to the right ledge, and onto the following one. Throw it 
+right onto the spike top to send it sinking. When you can, jump aboard and 
+hit the 3 switches on the way to open the door below. Go into that room to 
+get a star fragment.
+
+Now, go left and up the ledges, then jump to the right ledge at the top. Go 
+right and up the rope, then right into the next area. There, go right and up 
+the small wind chute, and onto the left ledge. Take the box and carry it down 
+and right to avoid being blown upward by the chute. Go right and take the 5 
+gems in the air (26), and the star fragment at the far end. Then, bring the 
+box back to the left. Double jump while over the chute to drop the box on it, 
+then get onto the left ledge. Grab the enemy and double jump to the right 
+ledge. Go right across the spike pit by grabbing/jumping from the winged 
+ball, then take the 2 gems (28) and the circle key at the other side.
+
+After that, go back left and down, then left to the previous room. There, go 
+left and downward past the switches. Go into the room you opened up with the 
+switches before, then unlock the circle door and enter that room. Go right 
+and take the box, then drop it to the left of the spike top. Continue right 
+and up, and take the enemy you find. Bring it left without popping it on the 
+spike top, then jump on the box and double jump to the high ledge. Take the 2 
+gems there (30), then the final star fragment. Go back down and right, and up 
+a couple ledges. Grab an enemy and double jump to the last ledge, where 
+you'll open the star door and leave this level!
+
+
+=======
+World 3
+=======
+
+Vision 3-1
+----------
+</pre><pre id="faqspan-2">
+Start off this level by heading right, jumping to grab 3 gems on the way. 
+Read the sign to learn about hitting switches to make blocks come out/recede 
+from the walls. Hit the switch above to make a block appear in front of you, 
+then jump on it and continue right through here. Jump to get 2 more gems (5) 
+and continue right until you come to a flying enemy against a wall. Grab it, 
+then throw it through the narrow passage to the right to hit the switch. Jump 
+across the 2 blocks that come out, and continue onward to another switch. Hit 
+it and use the 2 blocks that appear as stepping stones to reach the high 
+ledge with the star fragment on it. Get back down and hit the switch to 
+remove the blocks, then go down the ladder to the next area.
+
+Here, go left and drop down to a lower area. Go right and jump to hit the 
+switch, then grab the enemy to the left. Go right and jump from the bottom 
+step to the right, and double jump onto the block in the air. Go right and 
+get the second star fragment. Now, head back up the steps and to the left 
+until you come to a rope. Drop down to the area below, then head right. Jump 
+over the spike top when it comes near, and make your way right, jumping when 
+you can to collect 5 gems in the air (10). Then, go left and hit the switch 
+and jump the block to the next platform. Go left and hit the switch to remove 
+the blocks, allowing the spike tops to move down and out of your way. Get to 
+the other side, then hit the switch when the spike tops are all above where 
+the blocks appear, trapping them on top. Drop down and go right to get 2 gems 
+(12) and 2 hearts. Then, go left and down the ladder to the next area.
+
+In this area, go down and hit the switch to remove the blocks ahead of you. 
+Go right and drop down the area below, and hit the switch by the wind chute 
+to make a block appear above it, blocking the wind. Grab the flying enemy to 
+the left and fly upward in that large room to get a ruby in the upper left 
+corner (17). Then, get the enemy again and fly to an upper right ledge to get 
+the last star fragment. Next, go back down to the bottom area and head right. 
+Grab the enemy and use it to double jump to the higher ledge. Go right and 
+down the other side, then take the box and continue right and down to another 
+ledge below. Go left and down, then right. Use the box to double jump to the 
+ledge with one ruby on it (22). Then, drop down to the lower area and grab 
+the other ruby below (27).
+
+Now, go all the way left and up the rope at the end. At the top, jump off the 
+left side and take the last 3 gems (30), and a heart on the way down. Then, 
+go up the rope and head right. Go through the wind chute and grab the enemy 
+further right. Take it and jump/throw it at the switch to the left. Grab the 
+enemy when it reappears and use it to double jump. Continue right and jump to 
+the next ledge, then continue to the star door and exit this stage.
+
+
+Vision 3-2
+----------
+
+Here in this vertical level, start by going left all the way to the next 
+area. There, go left and grab the enemy you see, then go back right and throw 
+it at the switch to make blocks appear as steps to the left. Go left and grab 
+the enemy when it reappears, then go left and up the block steps. Go left and 
+double jump over the pit, dropping the enemy on the switch below. Continue 
+left and into the following area. In the next area, go left and up the first 
+wind chute, then at the top, jump right into the second one. At the very top 
+of the room, jump onto the high right ledge and go into that room.
+
+There, go right and hit the switch to shrink the blocks in front of you. 
+Then, jump the pit and continue right to a flying enemy. Grab it and use it 
+to double jump to the next ledge, then continue onward. Grab 3 gems and 
+continue to the next area. There, take the heart and the first star fragment, 
+then go back left to the previous room. Head left until you come to that 
+flying enemy again, and carry it to the left. When you reach a passage you 
+can't fit through with the enemy, throw it left at the switch to make blocks 
+appear there. Now, go back right and double jump with the enemy, and you'll 
+see a box. Take it and go back left, and throw it at the block wall to make 
+it drop to the area below. Then, go left and drop into that pit as well. 
+Carry the box to the right and you'll see a high moving platform with some 
+gems. Double jump with help from the box to reach that platform, then grab 
+the 5 gems as you move to the right (8). Go right to the next room.
+
+In this center room again, go right and take the heart and a ruby (13). Go 
+right through the flippers, then drop all the way to the bottom of the room. 
+Then, head right and over the star door, and into the following area. There, 
+go all the way right to the very end, then go into the next room. Go right 
+and grab the flying enemy to fly upward, making sure to grab 4 gems on the 
+way up (17). Land on the upper ledge and go left to the next room. There, 
+pass the first switch and you'll find a box you can pick up, so do so. Wait 
+until the moving platform below comes all the way to the right and stops, 
+then double jump so the box drops onto it. Grab the gem in the air (18) and 
+land on the first large block. As the moving platform heads back left, it'll 
+trigger all the switches, making the block you're on disappear and the next 
+one in the pattern appear. Cross the blocks in that fashion, grabbing 3 more 
+gems in the air (21). At the other side, go left and into the next room. 
+There, grab the heart and the second star fragment, then go through the 
+flippers and into the main area.
+
+Now, go left and climb up the rope until you reach another ledge to the right 
+you can jump onto. Get onto that ledge and go right into the next area. Head 
+all the way right through this room, and into the following one. In this last 
+area, grab the flying enemy and float upward, grabbing 4 gems (25). Land on 
+the upper ledge and go into the next room. Here, go left onto the first large 
+block and you'll notice a flying enemy flying high above a switch below. The 
+object here is to jump and grab the enemy, then jump again to drop the enemy 
+on the switch, thus making the next block appear for you to land on. Use that 
+strategy to get across the room, collecting 5 more gems along the way (30). 
+At the end, go into the next room, where you'll find a heart and the final 
+star fragment. Go through the flippers and drop to the bottom of the room. Go 
+right and open the star door, then exit this level!
+
+
+Vision 3-3
+----------
+
+Here, go right and up the rope, then jump onto the platform that disappears 
+when you step on it to the left. Double jump across them and collect 3 gems 
+in the air, then drop down and head back up the rope. From there, go right 
+and up the ladder to the next area. There, go left and grab the flying enemy 
+to start flying upward. Throw it at the switch to the right, then drop down 
+and go right into the area previous blocked by a block. Continue all the way 
+right and down to find 2 boxes. Take the first one, then jump onto the second 
+one in the corner. Double jump up and grab the ruby (8).
+
+Next, take one box and go left and up the steps. Then, jump and throw it 
+right onto the right ledge. Go right and get the second box, then go back up 
+to the top of those steps. Jump and throw the box to the right like you did 
+with the first one, then quickly move left to the other side of the block 
+outlines in the background. The box you threw will go right, drop, and hit a 
+switch, making those blocks appear. Go up the steps they form and take the 
+first star fragment at the top. After that, drop off the right edge of the 
+platform and hit the switch below and to the right, causing all the blocks to 
+the left to recede again. Head all the way left to where the flying enemy is, 
+and use it to reach the upper ledge. There, continue up the steps and to the 
+right, then down into the next area.
+
+There, drop down to the ledge below to get a heart. Then, go right and drop 
+down the pit next to the wind chute all the way to the bottom. From there, go 
+left into the next area. In there, go left and grab an enemy, then go right 
+and throw it at the switch to make the blocks appear. Then, go left and pick 
+up the regular box you see, then drop it at the left edge of the platform. 
+Grab the enemy nearby and jump on the box, then double jump with it to the 
+high ledge to get 3 gems (11). Next, drop down to the previous ledge and take 
+the box, and continue down to the bottom area. Go right and double jump over 
+the spiked top, dropping the box on it. Then, go back up and left and take an 
+enemy you find. Go right and jump onto the spike top/box stack, then double 
+jump onto the high right ledge. Take the ruby there (16), then drop down to 
+the area below. Go right and drop down by the wind chute, taking 3 gems on 
+the way down (19). Then, go left and into the next area.
+
+In this next area, hit the switch to remove the block in front of you, then 
+go left and climb the rope to the top area. Go left and pick up the box you 
+come across. Jump onto the left ledge and throw the box under the wall to the 
+other side, then you go left and up the left wind chute. Take the box you 
+threw, and throw it back to the right, triggering a switch that stops the 
+left wind chute and turns on the right one. Jump up and hit the timed switch, 
+then go right and up the other chute. Then, go onto the ledge with the 
+temporarily open door, and take the second star fragment.
+
+Now, go down and hit the switch below the platform to stop the right wind 
+chute. Then, go all the way left and jump down the pit at the end to get 3 
+gems (22). From there, go left to the next area. Here, go left and up the 
+wind chute to the top area. Jump onto the ledge at the top and take the 
+circle key and a heart. Then, go right to the next area. Unlock the circle 
+door and continue right to unlock another one. Take 3 gems (25), then go left 
+and up the rope. Go right and up the ladder to the next area. There, go left 
+and unlock another circle door, then go in that room.
+
+There, hit the switch to remove the blockage, then continue left and ride the 
+wind chute to the top of the area. There, double jump right onto the top 
+ledge with a switch on it. Go right and wait for the highest moving platform 
+to pass under the large block that the regular box is sitting upon. Hit the 
+switch to cause the big block to vanish, causing the small one to drop onto 
+the moving platform. When it stops at the leftmost point, hit the switch 
+again. When the platform moves right again, the box will drop downward to 
+another large block. Do the same technique on the ledge just below you, to 
+get the box dropped to a lower area. When that happens, go left and drop down 
+to the low area, then go right and take the box. Bring it to the left and 
+drop it on the wind chute, blocking the wind.
+
+Then, go right and grab an enemy, then bring it left to the box you placed on 
+the wind chute. Jump onto it and to the left ledge. Take the final star 
+fragment there, then double jump to the next ledge and take the ruby (30). 
+Now, go all the way right and into the previous room. Continue right and down 
+the ladder into the following area. In the next room, go left and down the 
+rope, then continue left to the star door. Open it and head out of here.
+
+
+Vision 3-4
+----------
+
+From the start, go right and past the enemy to a sign explaining how to use 
+the weight boxes. Push the one to the right wall, then go back and grab the 
+enemy and use it to double jump from the weight box to the high ledge. From 
+there, go right and push the weight right until it drops to a lower area. 
+Take the first gem and continue to the next area. There, go down and right to 
+the following area. In there, read the sign to learn about pushing weights 
+onto floor switches to open doors. Try that out to the right by pushing the 
+box left onto the switch. Jump onto the rope and climb it; jump to the right 
+ledge and go right through the open door.
+
+Continue right and onto a platform with a weight box on it. Push it right so 
+it drops to the ground, then go left and down, then push it right so it 
+covers the wind chute. Go right and push the second weight box off the other 
+wind chute, then ride the chute to the top of the room. There, drop down the 
+right side to get 2 gems (3) and a star fragment. Jump into the wind chute 
+again, then fall along the left wall. When you're about to pass the ruby, 
+jump left to get it (8). Go up the wind chute one more time, then onto the 
+left ledge. Jump to get 3 more gems (11), then push the weight box left 
+through all the enemies. At the end, continue to the next area.
+
+In the next area, push the weight box onto the floor switch to open the door 
+above. Jump from the box to the next ledge, jump there to get 2 gems (13). 
+Use the winged ball to get the heart if you want. Then, jump to the left 
+ledge and climb the rope to the top. From there, jump to the right ledge and 
+continue to the top ledge by the right doorway. Jump and grab the enemy, then 
+double jump to the high ledge with 2 more gems (15) and a ruby (20). After 
+that, head right to the next area. Head right through here, pushing the 2 
+weight boxes ahead until they drop, collecting 2 gems on the way (22). 
+Continue to a switch; hit it to remove the large blocks above it. Climb the 
+rope and jump to the left ledge at the top for 2 more gems (24). Drop down to 
+the ledge below and push the weight box right onto the switch below, making 
+the large block to the left disappear. Go left and up the steps, then climb 
+down the rope and continue left into the next area.
+
+There, go left and hit the switch, then go back to the room you just came 
+from. Climb the rope and get onto the high ledge where the large block was 
+before, and take the star fragment. Go left to the next area. This time, push 
+the weight box left until it drops, then jump down to get 3 gems (27). Push 
+the box left and use it to jump to the next ledge, then go left to another 
+room. Head down and left until you come to the weight box and a regular box 
+in the corner. Push the weight to the left, but stop when it reaches the edge 
+(do not let it drop into the niche). Go back for the regular box, and throw 
+it left so it hits the weight. Grab the block and jump onto the weight, then 
+double jump to the high ledge, getting 3 gems (30) and the final star 
+fragment. Now, go back right to the star door and head out of here!
+
+
+Vision 3-5
+----------
+
+Here, head all the way right through this first area. You'll encounter a new 
+enemy here as well: one that shoots 2 spiked balls ahead for you to avoid or 
+be hit by. You can pick this guy up like any other, but be careful! Anyway, 
+get to the far right area, then take the heart and go up the ladder to the 
+next room. There, go left and up the 2 wind chutes to the top area. Get onto 
+the left ledge and grab 2 gems and a heart. Now, drop all the way down to the 
+bottom area, and go right to the following area. Go down and right until you 
+come to a timed switch and a winged ball above. Wait until the enemy on the 
+above ledge is done shooting, then use the winged ball and get onto the 
+ledge. Grab the enemy, then go right and drop down. Push the weight box left 
+until it drops into the niche, then go right by the door and throw the enemy 
+left at the switch to open the door. Go in and take the circle key.
+
+Next, go up the rope and grab the heart on the ledge at the top. Go left and 
+jump down to get 3 gems (5), then head all the way left again. Grab the 
+shooting enemy in the corner and use it to double jump to the high ledge, 
+then go into the next room again. There, go ride the wind chutes to the top 
+area, then get on the right ledge and open the circle door, and continue into 
+that room. In that room, go right and up the rope to a higher ledge by a 
+spiked top. Get onto the ledge above it with a weight box on it. Push the 
+weight onto the top, then go left and down and take the regular box. Throw it 
+at the spike top as it drops; that way it lands in an appropriate spot below. 
+Drop down with it and carry it left, then double jump to the ledge with 2 
+gems (7) and the triangle key.
+
+Now, go back left to the previous room. Go left and drop down to the bottom 
+area, then go into the first wind chute. Open the triangle door at the top to 
+the left, then drop down inside to get 3 gems (10). Continue left to another 
+wind chute. Ride it to the top, then drop down the left side to the ground, 
+where you'll find 2 more gems (12) and a heart. Then, go up the wind chutes 
+to reach the very top area. Land on the right ledge and take 2 gems (14) and 
+a heart there. Next, get onto the ledge left of the wind chute. Hit the 
+switch to remove the large block, then go left to the next area.
+
+In this area, go left until you come to a weight box and a switch. Hit the 
+switch, then push the weight all the way left until it drops. Hit the switch 
+again to remove the large block, then push the weight left onto the floor 
+switch. Then, use the winged ball to reach the high ledge with the open door, 
+and go left through it. Go up the rope and avoid enemy fire, then jump onto 
+the ledge at the top and take the heart on it. Go right and past the enemy, 
+then push the weight box right until it drops. Push it all the way left, 
+deflecting the onslaught of enemy shots. Kill the enemy ahead with the box, 
+then drop it down to the area below. Drop down with it and continue right to 
+another rope. Go down it and grab the heart and X key. Now, go down and right 
+to the next area.
+
+Here again, go right and drop to the very bottom area. There, go left and 
+open the bottom X door (hit the switch if you need to, in case the large 
+block prevents you from reaching the door). Go into that room. In that room, 
+go left and down, then left to a regular box. Take it and bring it left until 
+you reach a switch with a niche and a large block below it. Drop the box into 
+the niche next to the large block, then go left to find a weight box. Push it 
+all the way right until it drops onto the right floor switch. Go left and hit 
+the switch in the air to remove the large block, then carry the box left and 
+drop it on the other floor switch. Climb the rope at the end to the high 
+ledge, then go right. Grab a heart, 4 gems (18), and the square key. Go 
+through the flippers and into the previous room again.
+
+There again, go right and up the wind chute until you are stopped by a large 
+block above. Land on the left ledge and unlock the other X door, and enter 
+that room. Go left and you'll see a moving platform overhead with a weight 
+box on it. Wait until it reaches its leftmost point, then hit the switch to 
+make the large blocks appear. When the weight box drops to the left, push it 
+to the left (not to the wall just yet). Stop pushing when you get close 
+enough so you have space to fit on the left side. Jump on the block and grab 
+the enemy on the ledge. Double jump onto there to get 2 gems (20) and a star 
+fragment. Grab the enemy again when it reappears, then go down and push the 
+weight to the right so you're under the gem line high above. Jump on the box 
+and use the enemy to jump to those 3 gems (23). Then, go back right and hit 
+the switch, then continue to the next area.
+
+There again, go right and drop down to the bottom area. Go left and down the 
+ladder to the next area. There, grab the extra life medallion and another 
+star fragment. Then, head all the way right and up the ladder to the next 
+room. There, go left and up the wind chutes to the top, then drop down onto 
+the second highest ledge to the right. Open the square door and enter that 
+area.
+
+In this next room, go right and across the 3 ropes, then onto the lower 
+ledge. Go right and down, then push the weight box to the left just enough so 
+you can jump out from below the left side of the platform above. Go left and 
+gran the regular box, then go right and jump on the weight and to the upper 
+ledge. Drop the box on that ledge, then go down and push the weight all the 
+way to the right wall. After that, go back left and up the ropes, then onto 
+the ledge where you left the regular box. Throw it right at the wall from 
+there so it lands on the weight. Then, go right and take the box, jump onto 
+the ledge to the left, then double jump to the high right ledge. Take 2 gems 
+(25) and the last star fragment, then go right and drop down to the area 
+below. Avoid the enemy fire and take the 5 gems (30), then take an enemy and 
+double jump to the ropes above. Head all the way left to the previous room.
+
+Back there, go left and down to the very bottom of the room. Then, go down 
+the ladder to the last room. Go all the way left to the star door, then open 
+it and exit here.
+
+
+Vision 3-6
+----------
+
+Here, start by going all the way right, past the star door, into the second 
+area. There, go right and into the tall wind chute. Ride it to the top, then 
+grab the 2 gems on the platforms next to the chute. Then, go right and climb 
+down the rope a little. Jump onto a ledge to the right to get 3 more gems 
+(5). Then, go back left and up to the top, then go left into the next area. 
+In this room, go up the rope and take the regular box on the right platform. 
+Go left and drop it into the niche in the ground to the left (it's right 
+below the left edge of the left platform). Then, push the weight left and 
+drop it onto the ground below. Push it left and under the overpass, then jump 
+to the higher ledge and grab the enemy there. Use it to double jump to a 
+ledge up ahead with a ruby on it (10). Then, continue to the next room.
+
+In this next room, go left and grab the enemy that appears, and use it to 
+double jump to the ledge with the weight box on it. Push that weight right 
+off the right side of the platform. Grab the enemy again and jump on the 
+weight to the ledge, then onto the next ledge to the left. Double jump to the 
+top of that ledge, then go left to a ledge with a regular box. Take it and 
+drop down the gap to the right of the ledge you're currently on. Drop the box 
+into the niche below, then push the weight nearby all the way left. Use it to 
+reach the ledge with the circle key. Now, go back to the previous room.
+
+There, make your way all the way right to the rope. Climb it and get onto the 
+ledge with the weight box to the left. Push it left a little so it hangs off 
+the left edge of the platform. Grab the regular box on the other ledge and 
+jump on the weight, then double jump with the box to the high left ledge. Go 
+left and grab onto the moving winged ball. Use it to jump to the flying enemy 
+to your left. Fly upward with it over the spiked tops, then to the left until 
+it disappears. Then, jump to the left and grab the next flying enemy to reach 
+the ledge. Grab 4 gems (14) and a heart there. After that, go back down and 
+right to the winged ball. Grab it and jump to the right ledge, then go right. 
+Defeat the enemy and grab another heart, then head into that area.
+
+There, go up the rope and take the upper right path to the next room. In the 
+next room, you'll find 4 weight boxes on 4 ledges. Start by pushing both the 
+top ones into the middle pit to the ground below. Drop down to the bottom-
+right ledge and push the weight to the right until it drops. Go left to the 
+weight stacked onto the first one that you pushed down into the niche. Push 
+that one to the right until it drops into an empty spot further down. 
+Finally, get onto the bottom-left ledge and push that weight right until it 
+drops, then all the way to the right wall. Jump from it to the upper ledge, 
+then continue right and get 3 gems (17), then head down the ladder to the 
+room below.
+
+Here, go down and left and grab the enemy; use it to jump to the next ledge. 
+Go left and get 4 gems (21) and a heart, then continue to the next area. In 
+there, grab the first star fragment and go through the flippers to the main 
+room. Drop down to the ledge right below the one you were on, unlock the 
+circle door, and enter that room. In that room, go all the way down the first 
+rope, then head all the way right. Go up another rope to the top, then jump 
+to the following rope to the right. Go to the top, then jump to the right to 
+get a gem (22) and an extra life.
+
+Head back down the ropes and to the first one at the opposite end of the 
+room. Climb it just a little so you can jump to the winged ball. From there, 
+grab the flying enemy and go upward, avoiding the moving spiked top. When the 
+enemy pops, grab the second one to the left and fly onto the right ledge. 
+Grab the single gem atop there (25), then drop down the pit to get 2 hearts 
+and 4 gems (29). Now, go all the way left to the next area. There, grab the 
+last gem (30) and another extra life. Go through the flippers to the main 
+area, then get to the very top of the room. Push the weight box to the left 
+until it drops to the ground far below. Drop down there and push it left, 
+then jump to the upper ledge and unlock the other circle door and enter that 
+room.
+
+In this room, go up the rope and continue to the following room. Now in the 
+next puzzle area, go left and down to a ledge with a weight box, then another 
+one with 3 regular boxes. Take the regular boxes and throw them right onto 
+the other ledge. Push the weight box left across them and drop it below. Take 
+a regular box and drop it into the niche directly below the platform the 
+boxes were originally found on. Push the weight to the left until you come to 
+a small ledge above the ground. Stop pushing just when you reach it so you 
+can use the weight to jump from the ground onto the platform. Go right and up 
+to the second box and bring it back left to the weight. Jump onto that 
+platform, then drop off the other side and drop the box into the second niche 
+before the narrow underpass. Now, push the weight left a bit more and use it 
+to reach the triangle key and another star fragment on the ledges. After 
+that, go back to the large room with the wind chutes.
+
+Go right and up the chutes a little. Grab onto the first winged ball to the 
+right you come by, then climb down the rope to the right. Get to the bottom, 
+then open the triangle door and enter that room. Go up the rope and right on 
+the upper ledge into the final puzzle room here. Start by jumping to the 
+right ledge with the 2 weight boxes. Push the right one into the niche above 
+the large block, then push the second weight box off the right edge of the 
+platform. Go left and drop off that side of this high area. Go right and push 
+the third weight box into the niche below the large block. Push the second 
+weight box right into the second niche. Go left and hit the switch to drop 
+the final weight box. Push it right onto a floor switch, then enter the open 
+room for the final star fragment.
+
+Now, head back to the wind chute room again. Go into the chute and ride it 
+up, then grab onto the first winged ball on the left side. Go onto the ledge 
+to the left and into that room. Continue to the star door; open it and exit 
+this level and World 3!
+
+
+=======
+World 4
+=======
+
+Vision 4-1
+----------
+
+To start this new world, head left to a sign to learn about the time bomb 
+enemies. Grab the one in the air up ahead and the timer will start to count 
+down. Double jump with it to grab 6 gems and a star fragment above and to the 
+left. Continue left and grab the second one, and use it to reach the high 
+ledge. Go left and jump for 3 more gems (9), then grab the regular enemy that 
+appears above. Carry it left and read the sign to learn about bombs and 
+cracked blocks. Double jump to the ledge with the time bomb enemy, and take 
+the time bomb; drop it in front of the cracked block to the left. When it 
+explodes, clearing the block, go into the next area.
+
+There, grab the winged ball to reach the upper ledge, then go left and read 
+the sign to learn about throwing the time bombs at walls and how they'll stop 
+and drop to the ground below. Take the first time bomb and throw it left 
+under the narrow passage, then go get it and continue left until you have to 
+do it again. Throw it at the cracked wall at the end, then continue to a 
+regular enemy. Use it to reach the winged ball flying above, then jump on the 
+right ledge. Take 2 gems (11) and a heart, then jump to the upper left ledge 
+with aid from the winged ball. Use the time bomb to double jump to the above 
+winged balls. Get to the top ledge and climb the ladder to the next area.
+
+In this next area, go right and grab the regular enemy walking along. Use it 
+to double jump to the lone gem in the air to the left (12). Grab the flying 
+time bomb enemy, then quickly jump with it to reach the star fragment above. 
+Go right and grab the regular enemy, then jump to the time bomb; double jump 
+with the time bomb again to get an extra life and a ruby (17). Throw the time 
+bomb at the right wall, then go into that area. In there, go right and grab 
+the time bomb. Use it to double jump to the extra life in the air, and the 
+next ledge. Continue right and use the next one to reach the following ledge. 
+Take a gem atop there (18), then jump right and get 3 more (21).
+
+Now, continue right and past the regular enemy for now, until you come to 
+another time bomb enemy. Take it and throw onto the left ledge with the 
+cracked wall. When it explodes, go back and get the regular enemy, and use it 
+to double jump there to get the last star fragment. Grab the time bomb when 
+it reappears, then continue right past the now-open star door. Bomb the right 
+wall, and enter the next room. There, go right and jump down to get 2 gems 
+(23), then go left at the bottom to the bottom half of the previous room. Go 
+left and use the time bomb to reach the 7 gems in the air (30), then go back 
+to the room you were just in.
+
+There again, stack the 2 boxes and grab the flying enemy. Double jump to the 
+left ledge and enter that next area again. Go left to the star door and exit 
+this level!
+
+
+Vision 4-2
+----------
+
+Here, head right and grab the first time bomb enemy. Use it to jump to the 3 
+gems in the air above. Toss the first one away and grab the second one, then 
+go right and read the sign to learn about how the explosion can trigger 
+switches. Double jump above the switch below the thin platform to get 2 gems 
+(5), then drop the time bomb above the switch. When the door to the right 
+opens due to the switch being hit, continue right and use the time bomb the 
+cracked block, then enter that small alcove to get a ruby (10). Grab the time 
+bomb again and double jump to the higher ledge. Grab the flying time bomb to 
+the left, then jump and throw it to the right onto a cracked block. After it 
+explodes, jump across the pit and head right into the next area.
+
+In the following area, go right and read the sign to find out about the 
+dangers of touching a spiked top with a time bomb in hand. Take the time bomb 
+and throw it right under the spiked tops. Pick it up at the other end and 
+jump to the next ledge, where you'll find 2 gems (12) and a heart. Go right 
+and take the next time bomb, and continue while avoiding the next 2 spiked 
+tops. Double jump to the next ledge and continue into the next area.
+
+There, go all the way down the rope to the bottom area, and go right. Get 2 
+more gems (14) and a heart, then jump back to the rope and onto the upper 
+right ledge. Go right to the winged ball, and use it to reach/grab the flying 
+time bomb enemy. Drop down to the ground and go left, then double jump to the 
+upper ledge, dropping the time bomb above the cracked blocks below. Go all 
+the way left, then down and right. Grab the star fragment at the end and 
+climb down the ladder to the next area.
+
+In this area, go left and down the rope, then head right. Grab the enemy and 
+double jump to the right ledge, where you'll find an extra life medallion. Go 
+left and up the rope, then head left on the top ledge. Go left and hit the 
+timed switch, then go back right and down the rope. Go right and take the 
+flying enemy and bring it left. Throw it through the door opening and hit the 
+time bombs to trigger them all, breaking the cracked blocks at the top. Go up 
+the rope and to the left, then grab the star fragment and continue to the 
+next area.
+
+There, go left and grab the first winged ball, then jump to the next ones 
+when one moves towards you. Grab the single gem in the air (15), then jump to 
+grab the flying enemy above. Use it to reach the 2 gems above it (17) and a 
+ruby (22). Continue left with the winged balls and jump to reach another gem 
+(23), then get onto the ledge at the end. Grab the time bomb enemy and throw 
+it left under the single spiked top moving left and right. Pick it up and 
+continue left, throwing it under the up-and-down-moving spiked tops. Double 
+jump up to the winged balls, dropping the time bomb by the cracked block. Use 
+the winged balls to reach the top ledge with 2 gems (25) and the ruby (30). 
+Go back down and left through the now open passage, Climb the rope at the end 
+and jump onto the right ledge with a heart on it. Drop down the right side 
+and take the last star fragment, too. Go down the ladder to the area below.
+
+Here, head all the way right, using the time bombs to jump to the higher 
+ledges. At the very end, hit the timed switch, then make your way back left 
+and up the winged balls. Go left and down, then right through the open door. 
+Open the star door and you'll be out of this stage.
+
+
+Vision 4-3
+----------
+
+In here, head right and down until you reach the time bomb enemy in the 
+bottom middle area. Use it to jump to the 3 gems above, then onto the right 
+ledge. Go up and right with the winged ball, then right through the wind 
+chute onto the next ledge. Go right and drop down alongside the spiked tops, 
+grabbing 2 gems (5). Go right and jump down to get 3 more (8). Go left and 
+grab the heart, then take the time bomb enemy and go all the way right. 
+Double jump to reach 2 more gems in the air (10). Now, carry the time bomb 
+left and up the wind chute, then onto the right ledge. Jump and throw it 
+right over the spiked tops so it drops on the other end of the platform. Go 
+right and get it, then double jump to the upper right ledge. Go right into 
+the next area from there.
+
+There, go right and over the pit to the ledge with a box. Take it and drop 
+down to the lower area, then head right and double jump to the upper ledge. 
+Go right through the flippers and take the time bomb enemy; use it to jump to 
+the 3 gems in the air along the right wall (13). Use the time bomb to double 
+jump to the winged ball above. Jump up to the second one when it comes down, 
+then onto the right ledge to get a star fragment. Get onto the left ledge and 
+go left. Take the circle key, then go through the flippers and continue left 
+to the previous room. Head left and up the wind chute, then continue to the 
+area with the 2 circle doors. Open the left door and go down into the next 
+room.
+
+In this room, take the time bomb and bomb both cracked blocks on either side 
+of the room (you'll have to blow up one side and use the time bomb when it 
+reappears to do the other). After that, take the time bomb again and head to 
+the right. Drop down the pit and throw the time bomb left, exploding another 
+cracked block. Go up the wind chute and head all the way left. At the end, 
+drop down to get 3 gems (16), then go right and grab the heart. Then, go down 
+the ladder to the next area. There, go right and onto the far right ledge by 
+jumping from the winged balls in the air. Grab 4 gems (20) and an extra life 
+there, then drop down to the bottom of the room. Go right and ride up the 
+wind chute to the top area. Go right and drop down to get 2 gems (22), then 
+grab the time bomb enemy and ride the wind chute upward again. Throw it left 
+so it drops onto/destroys a cracked block. Go into that room and take the 
+box, and throw it through the flippers. Go through them yourself and throw 
+the box right onto the wind chute. Pick up an enemy and double jump from the 
+box onto the right ledge, then continue into the next area.
+
+There, head right and take the heart in the air. Grab onto the winged ball up 
+ahead and onto the ledge with the first shooting enemy. Grab it and double 
+jump to the upper winged ball. Repeat the process to get to the top ledge, 
+then head left to the triangle key. Now, go right and down, then left to the 
+previous room. Wait for the enemy to walk down towards you, then use it to 
+double jump to the upper ledge. Go up the wind chute to the top, then head 
+right and down. Open the triangle door and enter that area. Open another 
+triangle door inside, then go right and down the rope. Take the star fragment 
+there and go back to the previous room.
+
+There, head left and up the wind chute, then go left and down through the 
+flippers. Continue left and use the enemy to double jump to the winged balls. 
+Jump up by grabbing the winged balls to reach the top area, then go all the 
+way left into a new area. In there, go left and drop down to the very bottom 
+of the room. Grab the enemy and jump onto the wind chute to the left. At the 
+top, go left and take an extra life. Drop down to the ledge below to get a 
+ruby (27), then go down a little more to get the last 3 gems (30). Go right 
+out of this small area, then make your way to the bottom right area of the 
+room. Open the triangle door and enter the next area.
+
+In there, go right and jump from the winged ball to the upper ledge. Pick up 
+the box and move as far right as you can while holding the box. Wait for the 
+time bomb to move to the left of your position (jump over it), then drop down 
+the box. Take the time bomb and throw it right atop the box. Now, quickly 
+move left and drop down to the lower area, and head right. Pick up the enemy 
+and jump to the upper right ledge. Go through the door as soon as it opens 
+because it closes FAST. Drop down again and head left to a time bomb enemy. 
+Pick it up and carry it left while avoiding the spiked tops. Use it to double 
+jump to a higher ledge, then use the regular enemy there to reach the winged 
+ball. Get the final star fragment, then jump with the enemy and ride the wind 
+chute up to the top area. Go right through the flippers, then open the star 
+door and away you'll go!
+
+
+Vision 4-4
+----------
+
+Start off here by grabbing the 2 hearts to your left if you need them; 
+otherwise leave them in case you need health later on. Grab the time bomb and 
+double jump to the upper ledge, then go into the left room. There, go left 
+and grab a regular enemy, and use it to double jump to the ledge above 
+further ahead. Use the winged ball to reach the following platform, then use 
+the time bomb to advance to the top ledge, and go right into the next area. 
+In that area, go all the way right, then up the ledges. Head left, then drop 
+down the pit, grabbing the flying time bomb enemy as you drop. Carry it right 
+and drop it off by the cracked block. After it explodes, go in and grab the 
+circle key.
+
+Next, go up onto the higher ledge and to the left. Go down and get the time 
+bomb again, then get back up to that upper ledge. Jump over the pit and 
+double jump to the higher ledge, then go left into the next area. Go left and 
+down to the bottom area, then head left. Grab 2 gems and a heart, and 
+continue left. Go through the flippers and down the second ladder to the room 
+below. Make your way left and down the rope, then all the way right. Unlock a 
+circle door, then grab an enemy and jump to the winged ball, then to the 
+ledge with a time bomb. Take the time bomb, jump, and throw it to the left. 
+It'll explode, hitting a cracked block on the other side of the flippers.
+
+Now, get to the upper right ledge by using the time bomb that reappears, then 
+go into the next area. Make your way to the upper left area of this next 
+area, then into the following area to the left. There, go left and down, then 
+to the left a bit more. Go down the first ladder this time into the room 
+below. There, go down and to the left, grabbing 2 gems (4) and the triangle 
+key. After that, go right and through the flippers, then drop to the bottom 
+area. Head all the way left and up the rope, then unlock the triangle door in 
+the upper left area. Go left and down, grab onto the winged ball, then jump 
+to the ledge where you'll find a star fragment. Then, drop down to the bottom 
+and go through the flippers to the right.
+
+Head back right to the area with 2 regular enemies. Grab one and go up to the 
+winged ball, and to the following ledge. Take the time bomb and drop down to 
+the ground area again, and throw it left through the open circle door. Pick 
+it up at the other side and double jump to the ledge with 3 more gems (7). 
+Now, get back up to the time bomb ledge, and continue into the right room. Go 
+up and left into the following room like you've done other times. In the 
+following room, go left, down, and all the way left to a wind chute. Go up 
+it, grabbing the time bomb on the way up. At the top, throw it right at the 
+cracked block. After it explodes, enter that room and head right and down. 
+Avoid the time bomb and the spiked top, and continue down and right. Grab 2 
+gems (9) and an extra life. Go back left and open a triangle door, and take 2 
+gems (11) and another extra life.
+
+Now, grab the time bomb and double jump to the upper right ledge when the 
+spiked top goes downward. Go right and get to the right side of the spiked 
+top, then take the time bomb and get to the next ledge. Go right and take a 
+heart before continuing to the next area. In that area, head to the right, 
+jump over the pit, and continue to a triangle door, collecting 2 more gems 
+(13) on the way. Open the triangle door and jump to grab a heart, then wait 
+for the winged ball. Jump and grab onto it when it comes close, then jump 
+while moving to avoid spiked tops. Climb the rope when you can jump to it, 
+and go into the right room at the top.
+
+In that room, go right and down to find a box and a time bomb. Throw the 
+block to the right wall, then take the time bomb and jump to the right ledge. 
+Throw it right through the low passage; follow it in, take it again, and drop 
+it off next to the switch (do NOT throw it at the switch; you want to get out 
+of there before the switch is triggered, or else you'll be blocked in). Go 
+back left out of that passage, then after the time bomb explodes, making a 
+large block appear, grab the time bomb below once more. Jump from the large 
+block to the high ledge, thanks to the time bomb. Go right and get 2 gems 
+(15), a star fragment, and the X key. Go back left and down to the bottom 
+area. Throw the block left, and use the time bomb to jump to the left ledge. 
+Then, continue out of this room.
+
+Back here, go down and left to the pit I told you to jump over earlier. Drop 
+down it this time, grabbing 2 gems (17). Head right and through a passage to 
+an X door. Open it and continue to another area. This next area is a bit 
+tricky, so follow this walkthrough and you'll get by. Go down and right to 
+find 2 time bombs. Take one, drop it off on the above ledge next to the 
+switch. Wait until it's at about 5-6 seconds left, then take the other time 
+bomb and go up and left (so you're to the left of the block indentation in 
+the background). When that block comes out, jump on it and the next ledge, 
+then throw the time bomb right so it drops next to the switch. Now, quickly 
+go up to the top area by means of winged balls, jump across the first block 
+onto the middle ledge. If done correctly, the second time bomb will explode, 
+allowing the second block to appear ahead of you. Jump across it and onto 
+another platform.
+
+From there, go left and grab 2 gems (19), then drop all the way down to get 
+another star fragment. Now, go through the flippers, then back left to the 
+previous room. There, go up the rope and head left, then down and left to the 
+following room. Head left and down the rope to the bottom area, then head all 
+the way right into another room. There, grab the winged ball and get to the 
+upper ledge, then unlock the X door to the right and enter that area.
+
+There, go down and right to the right wall. Hit the switch through the wall 
+to open the doors above, letting out 4 time bombs. Use them to double jump to 
+the above ledges, grabbing 2 sets of 2 gems in each of the small alcoves 
+(23). Jump to the high middle area to get 4 more gems (27) and a heart if you 
+can reach it. When you're done, drop down and throw a time bomb to the left, 
+then double jump to the high ledge and exit here. In the next room, head left 
+into the following room. There, continue left to the rope, then climb up to 
+the top and climb the ladder into the following room above. Head all the way 
+left and up the wind chute, then onto the right ledge. Go right and down to 
+the ledge with the time bomb walking about.
+
+On that ledge, take the time bomb and jump to the right ledge, over the 
+spiked top when it goes down. Wait for the spiked top there to move to the 
+right, then grab the time bomb up there and throw it to the left. Now, 
+quickly head to the left and down to the ledge below. Take the time bomb and 
+jump to the left ledge. Quickly pick up the time bomb you threw there and 
+double jump up to get the 3 last gems (30). You may have to do that twice to 
+get all three of them. Now, go left and down to the bottom area, then climb 
+down the ladder to the next area. There, go left and down to the bottom, then 
+head to the right. Open the star door and exit this complex stage!
+
+
+Vision 4-5
+----------
+
+Here, head right and grab the time bomb enemy you come across. Go back left 
+with it and double jump into an alcove above to get 2 gems.  Get rid of it 
+before it explodes, then pick it up when a new one reappears, and head right. 
+Read the sign to learn about the arrow blocks up ahead. Throw the time bomb 
+at the arrow block, causing it and the cracked blocks it's pointing at to 
+explode. Then, continue to the next area. There, grab the time bomb and drop 
+it on the arrow block to the right. After it explodes, head right some more 
+to a sign telling you that you can pick up arrow blocks. Take the one up 
+ahead and use it to double jump to the high ledge to the left. Grab 5 gems 
+(7) and an extra life. Drop back down and take the block to the right. Double 
+jump to the upper ledge, then climb up to the next area.
+
+In the next area, go left and jump on the winged ball when it comes downward. 
+Ride it upward, then jump to the right ledge. Go right and grab the arrow 
+block, then drop back down to the ground below and throw it left under the 
+switch. Go back up to the upper right ledge and grab the time bomb, then 
+bring it down and throw it at the arrow block. When it explodes, triggering 
+the switch, use the winged ball to get onto the low right ledge. Enter that 
+room to get a star fragment.
+
+Next, head up with the winged ball to the top, then go left. Grab the regular 
+enemy and use it double jump to the first disappearing platform. Jump left 
+across the two of them, getting a gem from each (9). Jump to the flying enemy 
+to the left, then quickly double jump to the left, grabbing a ruby (14) and 2 
+more gems (16). Fall to the ground and go left to the next area. In that 
+area, go left and grab the enemy; use it to jump to the next ledge above. 
+Grab the arrow block and drop to the ground, then go left. Drop it below the 
+cracked block in the air above you. Go back right and onto that ledge, then 
+use the enemy there to get to the top ledge. Grab the time bomb and jump off 
+the left edge, grabbing 3 gems on the way down (19). Go left and throw the 
+bomb at the arrow block. After it explodes, dropping a left-pointing arrow 
+block down, pick it up and throw it to the left wall. Go back right and up 
+the ledges to the time bomb, and throw it at that arrow block. When it 
+explodes, it'll hit the other arrow block, causing the cracked block above to 
+explode. After that, go back right and grab a regular enemy, then bring it to 
+the left and jump to the higher ledge. Grab the heart and continue to the 
+following area.
+
+Here, go left and grab the regular enemy, then jump to the ledge with a lone 
+gem on it (20). Continue left to a time bomb enemy; pick it up and jump to 
+the ledge with an extra life. Carry the time bomb to the right, and drop it 
+on the arrow block covering a wind chute. After the wind chute is opened, 
+ride it upward and take the second star fragment, plus 4 gems (24). Continue 
+left and double jump with the new time bomb enemy to the next ledge, then 
+continue to another area.
+
+In the following area, go left over the wind chute and pick up the box you 
+find. Move a little to the right and drop the box; that way when the time 
+bomb on the upper ledge drops down and walks to the right, the box blocks its 
+path and makes it move to the left instead. After that happens, wait for the 
+time bomb to drop off the left edge of the platform, walk to the left wall on 
+the next one, then start moving to the right. Pick up the box and throw it 
+left through that passage (after the time bomb is moving to the right so you 
+don't crush it). As soon as the time bomb drops off that right edge, throw 
+the box to the right. When the time bomb is deterred to the left and drops 
+off to the next platform, throw the box leftward. After the time bomb heads 
+to the right and off that ledge, throw the box right to the very bottom area. 
+As soon as the time bomb starts moving to the left past the floor switch, 
+drop the box on the floor switch and follow the time bomb to the left. Pick 
+it up and use it to jump to the high ledge at the end. Go up the wind chute, 
+then the ladder to reach the next area.
+
+There, head right and pick up the right-pointing arrow block. Use it to 
+double jump to the ledge above, so you can claim 3 gems (27). Go back down 
+and take the arrow block, and head right. Move as far as you can with it, 
+then throw it under the passage to the right wall. Then, use the flying enemy 
+to jump to the right ledge, then use the winged ball to get to the top ledge. </pre><pre id="faqspan-3">
+Go left through the flippers, and take the time bomb enemy. Go left and down, 
+then to the right. Throw it at the arrow block, then after it all explodes, 
+use the flying enemy to get to the right ledge again. Go right and drop down 
+to the lower area, then go right. Pick up the time bomb and double jump to 
+the ledge with the last star fragment on it.
+
+Now, wait until that time bomb explodes, then go down and pick up the one 
+that reappears. Throw it left, then use it to double jump to the high ledge. 
+Use the winged ball to go higher, then jump to the right ledge. Grab 3 gems 
+(30) and continue to the next area. In that area, go right and down, and pick 
+up the regular box. Throw it directly to the right. Pick up the up-pointing 
+arrow block and throw it where you threw the regular box. Now, go down and to 
+the right side of the room. Go up the wind chute and grab the time bomb enemy 
+on the right ledge. Go left and past the left-facing arrow block, and onto a 
+lower left ledge with another arrow block. Drop the time bomb there to 
+detonate that block. After it disappears, go back onto the previous ledge 
+with the left-facing block, and put it where the up-facing one you just 
+destroyed was. Go get the time bomb and leave it next to the block. After it 
+explodes, go down and left, then up the rope. Jump right at the top onto the 
+second ledge, and open the star door to leave this level.
+
+
+Vision 4-6
+----------
+
+Starting off this vertical stage, head left and through the wind chute. 
+Continue to the left and pick up the enemy you reach, then go back into the 
+wind chute. Ride it to the top, then go left. Jump with the enemy to reach 
+the winged ball; use that to reach the left ledge and continue into the next 
+area. In the second room, go left and up the wind chute you encounter. At the 
+top, go right and pick up the arrow block. Throw it left and let it sink down 
+the wind chute, blocking it. Drop down to the bottom area and pick up one of 
+the time bomb enemies. Drop it on the arrow block, then after it explodes, 
+pick up the other time bomb and ride up the wind chute. At the top, throw it 
+left and blow up the cracked block. After that, continue left and you'll find 
+a time bomb with a spiked top flying closely overhead. When it's clear, grab 
+the time bomb and jump to get a gem, then jump to the left ledge with it and 
+enter that area.
+
+In the next room, jump and grab the first flying enemy to go upward. Grab 3 
+gems (4) and a heart, then land on the middle platform. Grab the second 
+flying enemy and continue upward through the middle area. Jump to get the 
+third flying enemy, and continue upward to get 3 more gems (7), then land on 
+the ledge to the right. Go up the wind chute and jump to the winged balls. 
+Jump to the left, grabbing onto the winged balls, then the flying enemy at 
+the end. Fly up to the next ledge, then head right and pick up the regular 
+enemy. Go right and use it to jump to the next ledge above. Go left and grab 
+the shooting enemy when the coast is clear, and use it to jump to another 
+ledge above you. From there, go into the wind chute and jump to the winged 
+ball to the right. Get onto the next ledge and go right into the next area.
+
+There, head right and onto the following platform, past the rope. Go right to 
+find 2 up-pointing arrow blocks. Grab one, then go left and drop to the 
+bottom of the room. Throw that block all the way right to the end of that 
+alcove. Go back up the rope to the top, then go right to the other up-facing 
+arrow block. Go left and drop down to the ledge below. Jump and throw that 
+block to the right, so it's right below the switch. Go left and take the next 
+up-facing block, and go right and down. Throw it to the right by the door, 
+then take the right-facing block and throw it right next to that one. Now, go 
+back left and down to the bottom area, and grab the flying time bomb. With 
+it, go right and throw it at the first arrow block. It'll all explode, 
+triggering a switch and opening the door. Go up to that ledge and through the 
+door. Get the star fragment and a circle key.
+
+Now, head left and up the rope to the top area again. Go right onto that 
+ledge, and continue right to a ladder. Go up into the next room. There, go 
+left and open the circle door, then jump onto the winged ball and jump onto 
+the right ledge at the top of the ride. Go right and use the enemy to reach 
+the following platform. Continue down, and grab the enemy to the left. Carry 
+it right, then drop it and take the time bomb enemy. Throw it to the left so 
+it hits the cracked block through the floor. After that, grab an enemy and 
+jump to the right ledge. Grab 2 gems (9) and a heart, then go up with the 
+winged ball to an upper ledge. Jump left to get 4 gems (13) and the extra 
+life medallion there.
+
+Next, go back down and left, and grab an enemy. Jump to the left ledge, then 
+continue left and down the steps to another enemy. Take that and go right to 
+the top ledge, then double jump to the higher ledge. Head left and grab the 
+enemy/use it to jump to the winged ball above. From there, jump to the small 
+disappearing platform to the right. Jump right to a rope, then jump to 
+another rope, grabbing the lone gem in between (14). Jump to a right ledge 
+with 2 more gems (16) and a heart. Now, head left and jump to the next winged 
+ball, and ride it to the left. Jump onto that ledge and enter the next room.
+
+In that room, go left and grab the first arrow block you pass. With it, jump 
+down to the bottom area and throw it at the left wall. Take the time bomb 
+enemy and place it next to that block. Go up the rope and head left to the 
+other arrow block. Take it and go left and down, then stand by the right wall 
+with the block overhead. After the time bomb explodes, the explosion will hit 
+your block (not damaging you, thankfully), and the cracked block to the left. 
+Now, go left and grab the flying enemy, and fly to the right. Grab 2 gems in 
+the air (18), then drop back down, avoiding the spiked top if you can. Take 
+the flying enemy when it reappears, then fly to the ledge above and enter the 
+left room.
+
+There, go left over the wind chute, then jump across the small platforms to 
+the left. Collect 4 gems (22) and an extra life, then land on the ledge at 
+the end. Wait until the flying time bomb below moves to the left, then jump 
+and grab it, and drop it on the cracked block below and to the right. After 
+it's cleared, drop into the area below and continue to the left. Ignore the 2 
+doors for now and enter the following area. In there, go left and into 
+another room.
+
+In the last room, go all the way left and up the wind chute at the end. At 
+the top, go right and pass the time bomb for now. Pick up the box and head 
+down and right with it. Throw it under the spike-topped passage, and let the 
+box sink the spiked top downward. Go left and down, then left and up the wind 
+chute again. This time, take the time bomb and go down and right with it. 
+Throw it where you threw the box. Go right and down to where it rests; take 
+it and go left. Jump over the pit and drop off the time bomb by the cracked 
+block. After it explodes, claim the star fragment. Now, go down and left and 
+up the chute again. Grab the time bomb and use it to jump to the high ledge 
+to the right. From there, enter the next room.
+
+Head right across the 2 platforms, grabbing 2 gems (24) and a heart. Jump to 
+the other side and enter the following area. There, go right and down, and 
+hit the switch to open one of the doors. Go back up the rope and into the 
+previous room. Go across the platforms, but this time, drop to the ones 
+below. Grab each set of 2 gems above each platform, claiming 6 gems in all 
+(30). At the bottom, go back into the left room and make your way to the top 
+right area. Enter the room there so you're back at the top of the room with 
+the platforms. Jump across them, then drop down and to the right. Land on a 
+ledge and enter the room to find another switch. Hit it, then leave the room.
+
+Now, drop down to the star door and go into the right area. There, head all 
+the way right and up the wind chute at the end. Go left and across the 
+platforms, then drop and grab the flying time bomb. Head down through the 
+hole in the floor and continue leftward. Jump onto the ledge where the doors 
+are now open, and take the last star fragment. Go back down and into the left 
+room. Open the star door and this vision/world is done!
+
+
+=======
+World 5
+=======
+
+Vision 5-1
+----------
+
+In this first level of the new world, go left and up to get a ruby (5). Then, 
+head down and right to a sign; read to learn about the warp zones. Try it out 
+by entering the "I" warp zone to the right to reach the next area. There, go 
+left and jump onto the first winged ball when it comes down. When it moves 
+up, jump to the left to grab 3 gems (8). Get to the second winged ball, then 
+onto the left ledge. Head left to another area. In there, go left and onto 
+the winged ball, then to the ledge with the weight box. Push it off the right 
+side of the platform, then left so it sits inside the flippers, keeping them 
+open. Get back onto the above ledge and go left to a timed switch; hit it. Go 
+right and push the weight back right (you'll make it through the other side 
+of the flippers, too). Continue right through the open door and grab a star 
+fragment, then if you can, go back left before the door closes (if not, go 
+through the "II" warp and you'll be in the room to the right; you can make 
+your way back here easily).
+
+After that, go left through the flippers and continue to a wind chute. Go up 
+it to the top, then walk to the right, picking up 4 gems along the path (12). 
+At the end, grab the circle key and drop down, then go right to the previous 
+room. Back there, go right to the first winged ball on the right side, and 
+use it to reach the right ledge. Open the circle door and enter that area. 
+There, go right and pick up the box, then continue right and you'll see a 
+spiked top moving left and right. Wait until it moves towards the right, then 
+jump and throw the box at it; that way it hits the spiked top and drops to 
+the floor below, allowing you to pick it up on the other side of the wall. 
+Use the box to reach the ledge to the right, then continue to the next area.
+
+In that area, go up the wind chute to the top of the area. Go up the steps 
+and into the left room. Go left and jump across all the platforms, grabbing 3 
+gems on the way (15). At the far left side by the doorway, drop into the last 
+pit to the bottom area. Head right and grab a heart, a ruby (20), and an 
+extra life. Continue into the next room to the right. Grab the ruby you find 
+(25) and step into the "III" warp zone. Where you reappear, go left and take 
+the star fragment, then go left. Drop to the area below and head left to the 
+room you just came from. This time, drop into the first pit and go right at 
+the bottom into the previous room. Go right and take the last ruby (30), then 
+go through the flippers and up the wind chute, then to the left to the next 
+room again.
+
+Now, head left across the platforms and continue into the following room. Go 
+left and jump to the rope, then to the left ledge. Go into that area to the 
+left. There, go left and double jump to the upper ledge to the left. Continue 
+left to a box; take it and throw it right through the flipper doors. Go right 
+after them and jump across the disappearing platform. Go right and take the 
+box, and throw it back to the left. That way it drops down where the 
+disappearing platform was. Go left and down, then take the box and head left. 
+Drop down at the end, and throw the box to the right, along the path of 
+shooting enemies. Follow the box to the right through the now-clear path. At 
+the end, take the final star fragment.
+
+From there, throw the box left and repeat the process to get out. When you 
+get all the way out, double jump with the box to the upper ledge and continue 
+right all the way to a door. Go into the previous room. Climb the rope there 
+and head left at the top to the upper area of the room you were in. There, go 
+left and double jump to the next ledge above the pit. Go left and down, and 
+take the box. Throw it right through the flippers, then go right and take the 
+box again. Jump to the next level platform to the right, then jump and throw 
+the box leftward. Double jump to that platform and take the box, then throw 
+it to the left again. Jump onto the winged ball and jump to the next ledge 
+where the box should be sitting. Double jump with the box to the top ledge, 
+then open the star door and be on your way out!
+
+
+Vision 5-2
+----------
+
+In this vertical stage, go left into the next area. There, go up the wind 
+chute, then at the top, drop down the left side to the bottom. Grab 5 gems 
+and continue into the next area. Grab the enemy and double jump to the high 
+ledge, and take the circle key there. Go back to the previous room. Head 
+right and up the wind chute again, then at the top, double jump to the right 
+ledge. Open the circle door and enter that area. Go right and jump over the 
+pit for now, then continue right to a box. Take it and drop it just far 
+enough away from the right wall so you can double jump to the right ledge. Do 
+that and grab the flying enemy, then double jump with it from the box to the 
+left ledge. Take the star fragment you find there.
+
+Next, go down and get the box, then throw it left through the passage. Go 
+left after it, then grab it and jump down the pit with it, grabbing 5 gems on 
+the way down (10). At the bottom, throw the box to the right wall, then go 
+right and grab the flying enemy. Jump on the box, then up to the high ledge. 
+Hit the switch to make the large block recede. Now, go all the way left to 
+the next area. There, go up the wind chute and to the left at the top. Grab 
+the box that falls from above, then go right and sink down the wind chute 
+with it on hand. At the bottom, go left and grab a ruby (15) and double jump 
+to the upper ledge. Grab a heart and continue to the next area.
+
+There, go left and up another wind chute to the top area. At the top, go 
+right and take 5 gems in the air (20). Then, head all the way to the far left 
+area. Drop down to a lower ledge with a box on it. Take the box and jump 
+right across the disappearing platforms. Jump into the wind chute with the 
+box in hand, then drop the box down the wind chute while you jump onto the 
+right ledge. Take the second star fragment, then go down and left to the next 
+area. Go left and up the wind chute as far as you can go for now. Drop down 
+the left side and ignore the switch for now. Instead, take the time bomb 
+enemy and go up the wind chute to the top. Drop off to the left, then double 
+jump onto a high left ledge. Take the ruby (25), then drop back down and wait 
+for the time bomb to explode/reappear.
+
+After that, take the time bomb and drop it right next to the nearby switch. 
+Go up the wind chute and jump to the right ledge, and wait for the large 
+block above to disappear. When that happens, go right and hit the timed 
+switch, then jump into the wind chute and go to the top ledge. Go right 
+through the door and take the last star fragment. Grab the flying enemy and 
+go up to the upper ledges. Go left and take 2 hearts and the X key. Continue 
+to the end, then jump down and get 5 gems (30). At the bottom, go right and 
+hit the switch again, then go up the wind chute. Drop down the right side and 
+go right to the next room.
+
+There, go right and up the wind chute to the top. Go onto the right ledge and 
+unlock the X door, then enter that room. Go right and grab the triangle key 
+on the ledge, then drop down the pit to the lower area. Head right and 
+through the wind chute, then drop to the right and continue to the first room 
+of the level. Go all the way right, then grab the flying enemy and jump to 
+the right ledge. Hit the switch at the top to make the large block appear 
+below. Now, go back left to the previous room. There, go up the wind chute, 
+then drop down the left side and continue to the following room.
+
+In that next area, go left and open the triangle door. Go left and through 
+the flippers, then up the wind chute on the other side. At the top, go right 
+into the next area. There, grab the box and use it to double jump to the high 
+ledge to the right. Open the star door, then exit this level.
+
+
+Vision 5-3
+----------
+
+In this next vertical stage, start by going all the way to the right. Pass 
+the flying enemy and grab 3 gems, then continue to the next area. There, go 
+right and pick up the box, then jump onto the up-and-down moving platform to 
+the left. At the top, throw the box right so it falls on the spiked top. Jump 
+onto it as it slowly goes downward, then as soon as you can, get onto the 
+right ledge and pick up the box again. Use it to double jump to the right 
+ledge, where you'll find the first star fragment. Drop down to the ledge 
+below to find a heart, then go back to the first room.
+
+Now, go left and use the flying enemy to float upward to the high ledge. Jump 
+onto there and go up the ladder to the room above. There, go left to the 
+flying enemy; grab it and fly to the left ledge, then climb to the following 
+room. Continue right there and into yet another room. In that room, hit the 
+switch to remove the large block ahead of you, then go into the actual room. 
+Head right and pick up the arrow block, and drop it onto the wind chute. Go 
+right and hit the switch to drop a weight box onto that. Push the weight 
+aside, then grab the time bomb enemy nearby and use it to destroy the arrow 
+block. Fly up the wind chute to the high ledge, where you'll find another 
+star fragment.
+
+After that, push the weight onto the wind chute, then hit the switch. Go all 
+the way left to the previous room. Back there, go left to the flying enemy 
+and use it to reach the right ledge. Climb into the next room. There, go 
+right and pick up the box, and drop it slightly to the left. Continue and 
+grab an enemy, then go back left and jump from the box to the high ledge. 
+Pick up the ruby (8), then drop down and pick up the box again. Bring it all 
+the way to the right. Before you drop into a lower area, throw it all the way 
+to the right. Pick up an enemy and continue right; use it to jump to the high 
+ledge up ahead. Jump the pit and grab the box, then jump down the pit, taking 
+5 gems (13) on the way down. At the bottom, use the box to jump to the upper 
+ledge and go into the "I" warp zone.
+
+Where you end up, go left and take a ruby (18) and an extra life. Go left 
+through the flippers and drop down to the lower area. Continue left and up 
+the steps, taking 4 more gems (22), then enter the next area. There, take the 
+enemy and double jump to the left, dropping the enemy on the switch, making 
+the first block appear. Grab the next enemy that appears and jump to the 
+right over the next switch, triggering the next block to appear. Do this 
+until you reach the very top, then head onto the right ledge into the next 
+room.
+
+There, go right and take a heart and the last star fragment. Now, go back 
+left to the previous room. There, go left and onto the top block, then drop 
+onto the one directly below you. Take the enemy and get onto the next block 
+up to the left. From there, jump to the left ledge and go the left. Drop down 
+a long pit, taking the last 8 gems on the way (30). At the bottom, go right 
+and into the "II" warp zone. When you appear in the next room, go right and 
+open the star door and exit this level.
+
+
+Vision 5-4
+----------
+
+In yet another vertically situated stage, grab the rubies to the left and to 
+the right (10). Then, head right and into the "I" warp zone to the next area. 
+There, go right and across the first rope, then continue to the right. Grab 7 
+gems (17), then jump to the following platform. Take 3 more gems (20), but 
+don't go into the "V" warp just yet. Go down the rope to the second ledge 
+down and to the left. Push the weight box there to the right so it falls down 
+to the bottom area. Push it left so it holds the flippers open, then go back 
+to the above ledge and go left through the 2 wind chutes. At the end, go down 
+and hit the timed switch. Go right and through the lower area of the 2 wind 
+chutes, then push the weight through the flippers so you fit through. Go 
+around and through the open door ahead to get the star fragment. Now, go up 
+the winged ball to the top area, then go left and up the rope. At the top, go 
+right and into the "V" warp zone.
+
+In the next area, go left and up the wind chute, then drop down the left side 
+of it. Go left and hit the switch to make blocks above appear/the one higher 
+than those disappear. Grab the time bomb and drop it next to that same 
+switch, then go up the wind chute and go left, dropping onto the 2 large 
+blocks. After the switch is triggered and you drop, hit the second switch in 
+the air to open the left door. Go left and into the "VI" warp zone to the 
+next area.
+
+Next, go left and down, and pick up the regular box. Carry it to the left 
+until you reach 2 arrow blocks above a timed switch. Drop the block atop the 
+middle of them, then grab the time bomb and place it next to the box. Go 
+right by the closed door and wait for the bomb to go off, dropping the box on 
+the switch. When that happens, quickly go through the door, and up the winged 
+ball to get the second star fragment. Then, go through the flipper doors and 
+head all the way left into the "III" warp zone.
+
+From where you end up, go right and up the first wind chute. Drop down the 
+right side and continue right into another wind chute. Go right from there 
+past the enemy, and drop down to the floor below. Go left and take the box, 
+and throw it to the right wall. Go left and up the wind chute again, then 
+onto the right ledge. Grab the enemy and bring it to the right. Double jump 
+with it from the box to the high ledge, where you'll find a ruby (25). Now, 
+go all the way left and up the first wind chute. Jump to the left ledge and 
+go into the "II" warp zone to reach the first room of the stage again.
+
+From there, go right into the "I" warp, then continue to the "V" warp in the 
+following room. In the room where you appear after taking the "V" warp, head 
+left to the lower switch. Hit it (that way the 2 large blocks above are 
+there), then go into the "VI" warp to the next area. There, grab the box 
+shortly to the left, and use it to double jump to the left ledge you didn't 
+reach before. There, go left and grab 5 gems (30), then go through the "IV" 
+warp.
+
+In the next room, go right and up the first wind chute. Drop down the right 
+side to the ground, and continue right. Take the arrow block and drop it onto 
+the second wind chute, blocking it for now. Grab the time bomb enemy, go up 
+the other wind chute, then head right. Jump the pit, dropping the time bomb 
+below onto the arrow block. Land on the right ledge, then hit the timed 
+switch. Go left and up the second wind chute, which should be unblocked by 
+the explosion by now. At the top, head through the door and take the final 
+star fragment.
+
+After that, go right and down the pit, then head all the way left. Go back 
+through the "IV" warp zone, then in the next room, go right and drop down to 
+the lower area. Go left and through the "III" warp to the following area. 
+There, go right and up the wind chute, then onto the left ledge. Go through 
+the "II" warp zone to the first area again. Take a time bomb and double jump 
+to the middle platform with the star door. Open it and exit here.
+
+
+Vision 5-5
+----------
+
+Here in this normal level, go all the way right to the next area. There, 
+continue all the way right past the winged balls, into another room. In that 
+third room, go right and pick up the enemy, and use it to jump to the upper 
+ledge. Go right and hit the timed switch, then jump to the flying enemy. Head 
+right by double jumping from enemy to enemy, being sure to take 2 rubies (10) 
+on the way. At the right ledge, go in and take the circle key and a heart. 
+Then, go right and open the circle door into the next area.
+
+In there, go right and across the rope, and onto a platform with an arrow 
+block and a single box. Take the arrow block and throw it to the right on the 
+ledge next to the flippers. Take the box and throw it right so it drops down 
+to the area below, then go down and grab 3 gems (13), then take the box 
+again. Carry it right and drop it on the first wind chute. Go up the other 
+one and land on the upper ledge, then go left. Take the time bomb and throw 
+it through the flippers to destroy the arrow block. After that, throw the 3 
+boxes on the ledge left through the flippers to the other ledge. Then, go 
+left, down, then left and up the rope. Go right and down to the ledge with 
+the 3 boxes. Take one box, then take another one and place it on top of the 
+first one, but place it so half is hanging off the right side to form a step. 
+Jump to the second box while holding the third box, then double jump to the 
+high ledge to get a star fragment.
+
+Now, drop off the ledge and take 2 more gems (15) and go left to the previous 
+room. There, continue left through the next several rooms until you come to 
+the very first room of the stage. Once there, go left and open the circle 
+door, then enter a new area. Go left and grab the box, then ride the moving 
+platform all the way up. At the top, go left and push the weight box to the 
+left while holding the box; that way you don't blow upward. Drop the box and 
+push the weight off the left edge. Drop down to where you pushed it, then 
+push it left onto the spiked top so it weighs it down to the ledge below.
+
+Next, go right and up the wind chute, then drop off the right side of it. Go 
+right and up the moving platform again, then go left and take the box. Go 
+right and down to the ground again, then head all the way to the left. Take 5 
+gems (20) and stand on the leftmost ledge, then throw the box to the right. 
+It'll land on that platform because the weight on the spiked top will make it 
+drop there. Now, go back right and up the wind chute, then left to claim the 
+box. Use it to double jump to the upper platform to the left, where you'll 
+find another star fragment. After that, drop down again and head all the way 
+right. Go up the moving platform to the top, then go right into the next 
+room.
+
+Head right and pick up the enemy, then grab 5 gems overhead (20). Drop down 
+to the ledge directly below you. Go left and take 5 more gems (25), then go 
+to the right edge of the platform. Double jump to the right with help from 
+the enemy to reach the ledge, then go into the next room. There, go right and 
+push the weight box onto the wind chute. Grab the flying enemy to the right 
+and double jump from the weight to the left ledge, and take the triangle key 
+you find. From there, go down and push the weight aside, and go up the wind 
+chute. Jump onto the right ledge and grab the flying enemy. Use it to fly to 
+the right ledge. Open the triangle door and enter that area.
+
+In there, go right and hit the second switch to make the large block ahead 
+disappear. Then, hit the timed switch and head right, then drop down to the 
+lower area. Grab a time bomb and drop it onto the switch below. Go left and 
+take the other time bomb, and throw it at the first one to quickly detonate 
+it, activating the switch and removing the block to the left. Go through the 
+door and take the last star fragment.
+
+From here, go left into the next area. There, go left and through the 
+flippers, then grab the flying enemy. Fly up and to the left, and land on 
+that ledge. Go up the steps to the star door; open it and exit this stage.
+
+
+Vision 5-6
+----------
+
+Here, start by going left and up the rope to the top. Jump to the right and 
+ride the wind chute to the very top of the room. Then, jump onto the right 
+ledge and continue to the next room. In there, go up the rope to a ledge with 
+2 time bombs and a switch. Hit the switch, then grab a time bomb enemy and 
+drop it off next to the switch. Wait until it's at about 4-3 on the timer, 
+then grab the second time bomb and jump across the first block to the right, 
+then onto the following platform. When the switch is first triggered, jump 
+onto the second block and throw the time bomb you have back to the left. 
+Continue to the right, then onto the last block when the switch is hit again. 
+Jump to the last ledge to get the circle key and a heart. Now, drop down and 
+open the circle door, then enter another area.
+
+There, go right and drop down to the very bottom of the area, then go left to 
+the next room. In that room, go left and grab 5 gems, then go back and take 
+the flying enemy. Fly upward to the high ledge and ride the wind chute to the 
+top area. Grab the triangle key, then drop down to the right and go into the 
+right room. Back there, ride up the wind chute to the top, then jump onto the 
+right ledge. Drop down to the first ledge below you; open the circle door and 
+take 2 hearts and an extra life inside. Go down to the next ledge and open 
+the triangle door there. Grab 5 gems inside (10), then go left and drop 
+downward. Go into the wind chute, and grab onto a winged ball to the left to 
+stop being pulled up. Head left into the room you were just in.
+
+In there again, go all the way left and up the wind chute you come across. 
+Head left on the platform, then drop down and move right. Take 5 gems (15), 
+then go back left into another room. There again, go all the way left to the 
+rope by the left wall. Climb up it to the top, then open the left circle door 
+and enter that room.
+
+There, go left and pick up the box covering the wind chute, then ride the 
+moving platform at the end upward. Jump to the right ledge and look to the 
+right; you'll see a moving platform going left and right. Wait until it stops 
+at its leftmost point, then starts moving to the right. When it moves right, 
+throw the box at it. Go right and up the wind chute, then to the right ledge. 
+Wait until the platform below pushes the box over the wind chute, then hit 
+the timed switch and jump to the left ledge. Continue left and through the 
+door to get a star fragment. Now, drop down to the ground and head all the 
+way right to the previous room.
+
+From here, go right and up the wind chute to the top area. Then, head onto 
+the left ledge, open the triangle door, and go in that room. There, go left 
+and grab the box, then ride up the moving platform to the top area. Go left 
+and push the weight box to the side. Drop the box and push the weight off the 
+left side to the area below. Go right and throw the box to the right so it 
+drops as well, then go left and down to the weight. Push it right so it sinks 
+down the wind chute. Go down with it and head right to the box. Grab it, then 
+go back left and push the weight to the left edge of the elevated platform 
+it's sitting on. Jump and throw the box onto the upper ledge to the left.
+
+Now, jump onto that ledge and go left, and pick up the box. Double jump to 
+the next ledge and take the star fragment there. After that, go down and all 
+the way right to the previous room. This time, go right and up the wind 
+chute, then onto the right ledge. Grab the enemy, then go left and drop 
+downward while holding the Right directional. As soon as you have the 
+opening, jump to the right and grab the rope on the left side of the square 
+door. Go up and grab the square key, then enter the right room.
+
+In that room, go right and over the disappearing platform. Grab the box at 
+the other side and use it to double jump to the middle platform above. Take 
+the box there and throw it to the right wall. Go down and grab the other box, 
+then jump onto the first box and double jump to the high ledge. Take the last 
+star fragment you find up there.
+
+This next part may be tricky, but please try to follow along with me. Drop 
+down and throw one box all the way to the left by the doorway. Take the 
+second box and walk as far left as you can, then drop it at the edge and get 
+onto the middle platform above. Go left and take the first box, and throw it 
+right at the other one on the edge so it sits on the disappearing platform. 
+Go right and onto that platform, then jump back onto the left ledge, allowing 
+the first box to drop below. When the platform reappears, jump on it again 
+and grab the box on the ledge; that way you carry it down with you. As you 
+fall, throw that box to the right into another segment of the room area. When 
+you land below, take the other box and go right. Jump into the wind chute, 
+then drop the box into the wind and land on the right ledge. Go right into 
+that room and take the X key, then use the box to jump to the ruby (20).
+
+Now, go back left and drop down where the wind chute was that you covered by 
+dropping a box on it. At the bottom, go right and grab the flying enemy at 
+the end. Fly up to the next ledge, then go up the wind chute. Open the X door 
+and enter the small room to get another ruby (25). Go back down and to the 
+right into the next room. In that room, go right and up the wind chute. Grab 
+onto the SECOND winged ball to the right on the way upward. Jump onto the 
+right ledge and open the square door. Grab 2 hearts and another extra life in 
+there. Then, go left and drop to the bottom level. Open the X door and claim 
+the last 5 gems inside (30).
+
+From here, go left and into the wind chute again. Grab onto the winged ball 
+to the left, then drop to the ground and continue into the left room again. 
+There, continue all the way left. Go up a wind chute, then continue left and 
+down, then left to another room. Here, go left and open the star door to exit 
+the last level of this world!
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=  6. Secrets/Tips and Tricks  -=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+================
+Unlock EX Stages
+================
+
+To unlock the EX stages of the game, you must first complete all 5 regular 
+worlds of the game.
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=  7. Copyright Notice -=
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This file is Copyright (c)2002-2006 Devin Morgan. All rights reserved. Please 
+view the following URL to see the list of sites that are allowed to post my 
+work:
+
+http://www.freewebs.com/dbmfaqs/allowlist.html
+
+This list is comprised of sites I know and trust well. If your site is not on 
+the aforementioned list, you are not currently not allowed to post any of my 
+files on your site. If you wish to acquire permission, feel free to email me 
+(see the section below); permission may or may not granted at my discretion. 
+Please respect my work and do not steal it or post it without my permission. 
+I only want my most recent work to be available and I do not feel that can be 
+achieved if others take from me without my knowledge or permission.
+
+If you are writing a FAQ for this game as well, and would like to use some 
+information, contact me and we'll talk. Please do not rip me off, as that is 
+blatant plagiarism and such will not be tolerated.
+
+*****************************************************************************
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=  8. Contact Information  -=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+As of this version, the file contains all the information I know to date. If 
+it is a work in progress, give me time before bombarding me with emails about 
+things being missing. All I ask is that you READ THE FAQ before emailing me, 
+since that's what it's here for! Don't waste my time (and yours) by asking me 
+for information obviously covered in the guide. If it's in reference to a 
+side quest or item, chances are they can be found in another section besides 
+the walkthrough, so check the appendices as well.
+
+If you have any questions, comments, or things to add that are not already in 
+this FAQ, feel free to email me. I usually do post submissions, credit given 
+of course, so long as I feel they are relevant to the game in question. My 
+email address is: dbmfaqs(at)gmail.com. Thanks for reading, and be sure to 
+check out the rest of my work at this URL:
+
+http://www.gamefaqs.com/features/recognition/3579.html
+
+=- End of File -=

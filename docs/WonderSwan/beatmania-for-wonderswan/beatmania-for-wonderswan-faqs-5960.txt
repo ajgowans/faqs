@@ -1,0 +1,222 @@
+                ________
+                |      |        ___
+                |_     |       /   \
+                  |    |      |     |
+D     J           |    |       \___/
+          ______  |    |
+         /      \ |    |    ________ 
+        / S     Y\|   D|   R|    O |  M     E
+       /    /\    |    |    |_     |
+      |_   |_ |_       |_     |_   |_
+        |    |  |        |      |    |
+         \    \/    |    |__    |    |
+          \        /|       |   |    |
+           \______/ |_______|   |    |
+                                |    |
+                                |    |
+B  E  A  T  M  A  N  I  A  |\__/     |
+  [  f   o   r             |        /
+      W o n d e r S w a n] |       /
+      faq                   \_____/
+
+
+                                              ver.1.00
+                                              .251099
+
+
+DJ Syndrome: Beatmania [for WonderSwan] FAQ
+by J.T.Kauffman
+ver.1.00
+25nov99
+
+Contents:___________________________________________________
+0.01: Intro
+0.02: Stage Flow 
+0.03: Hidden Songs
+0.04: Song List
+0.05: Outro
+_____Versions:
+_____Legal:
+_____Sources:
+_____Contact:
+
+
+0.01: Intro_________________________________________________
+
+'DJ Syndrome' is the main tagline of the marketing campaign for 
+Beatmania 4th Mix ~The Beat Goes On~. It's also now a series of guides 
+to Beatmania, Dance Dance Revolution and the rest of the BEMANI series 
+of rhythm games by Konami. While not comprehensive, it should begin to 
+answer some of the questions that you might have about the games. 
+
+Please note that this FAQ only covers the WonderSwan release of 
+Beatmania for WonderSwan.  For a more comprehensive look at Beatmania 
+and the rest of the BEMANI series, including things like Soundtracks 
+(audio CDs), strategy guides, portable LCD games (like Beatmania 
+Pocket), and much much more, please check out my longer work titled DJ 
+Syndrome: The BEMANI Series FAQ. 
+
+All of the information contained in this FAQ is also available in the 
+longer, more comprehensive work titled "DJ Syndrome: The BEMANI Series 
+FAQ". This document is merely a scaled down version that only pertains 
+to the WonderSwan release Beatmania for WonderSwan (the Playstation, 
+GameBoy, and arcade releases are _not_ covered).
+
+This is my final planned release for this FAQ. Please see my BEMANI 
+series FAQ (the Compendium at gamefaqs.com) for more up-to-date 
+BEMANI/Beatmania info. 
+
+
+Title:   Beatmania for WonderSwan
+System:  WonderSwan
+
+Intro:   The only release so far to actually include a turntable, the 
+Wonderswan version of Beatmania includes songs from the 3rd Arcade mix.
+Visually and aurally excellent, the WS version's main drawback is it's 
+lack of songs - there are only 10 initially, and only one real hidden 
+song. Also, it's worth noting that the songs are unchanged from the 
+arcade (unlike BM GB, in which the songs are re-formatted for the 
+GameBoy's layout), which ends up making things a bit hard at some 
+points. Also features a continue mode so that you can turn the system 
+off, and when you turn it back on, you'll be back at the stage you were 
+on when the system was switched off - a _very_ nice feature...
+
+0.02: Stage Flow___________________________________________
+
+Normal: (difficulty [in stars] under stage number)
+Stage 1:-----Stage 2:-----Stage 3:-----Stage 4:
+(*,**)       (*,**,***)   (***,****    (****,*****
+                            *****)       ******)
+funk         funk         ambient      bossa groove
+soul         soul         j-dance pop  funky jazz groove
+ambient      ambient      bossa groove bigbeatmix
+j-dance pop  j-dance pop  funky jazz   reggae
+             bossa groove  groove      house
+             funky jazz   bigbeatmix   drum'n bass mix
+              groove      reggae       *hard techno
+
+Expert:
+
+class~a:
+Stage 1:-----Stage 2:-----Stage 3:-----Stage 4:-----Stage 5:
+soul         ambient      funky jazz   reggae       house
+                           groove
+class~b:
+Stage 1:-----Stage 2:-----Stage 3:-----Stage 4:-----Stage 5:
+funk         j-dance pop  bossa groove bigbeatmix   drum'n bass mix
+
+Survival:
+Stage 1:-----Stage 2:-----Stage 3:-----Stage 4:-----Stage 5:
+funk         soul         ambient      j-dance pop  Bossa groove
+
+Stage 6:-----Stage 7:-----Stage 8:-----Stage 9:-----Stage 10:
+funky jazz   bigbeatmix   reggae       house        drum'n bass mix
+ groove
+
+Stage 11:
+hard techno
+
+(*hidden song)
+
+
+0.03: Hidden Songs_________________________________________
+
+How to get the two hidden songs:
+ - These are some of the easiest hidden songs to get - just merely do 
+the highest difficulty songs in each stage in Normal (Stage 1=**, Stage 
+2=***, Stage 3=****) and you'll get hard techno in stage 4. You don't 
+need to win all three in a row - you can continue as much as you want, 
+and as far as I know you don't need a certain score. After you play hard 
+techno, medley will open up in 'free' mode.
+
+
+0.04: Hidden Mode__________________________________________
+
+In order to open the hidden mode in Expert, Survival, you merely have to 
+complete either Expert Course A or Expert Course B without the turntable 
+or any key help turned on.
+
+
+0.05: Song List____________________________________________
+
+[note: if multiple BPMs are listed, then it starts at the first number, 
+then changes to the next number, then the next, etc. The first number in 
+the Notes category is the number in notes in 1P mode, and the second 
+number is for 2P mode. If there is a dash instead of a number, then the 
+song is not available in that mode.]
+
+Song Title         Artist         Genre           Diff.  BPM    Notes
+Cat Song           UPA&NORA       funk            *      127    154
+ - Theme of UPA	
+find out           nouvo nude     soul            *      100    95
+beginning of life  Quadra         ambient         **     110    80
+believe again      DJ nagureo     j-dance pop     **     130    216
+ (HYPER MEGA MIX)     
+La Bossanova       staccato two-F bossa groove    ***    143    213
+ de Fabienne                       
+Stop Violence!     Herbie Hammock funky jazz      ***    113    123
+                    & His Band     groove 
+METAL GEAR SOLID   ESPACIO        bigbeat mix     ****   140    179    
+ -main theme        BROTHERS       
+Queen's Jamaica    Crunky Boy     reggae          ****   94     189  
+                    featuring Muhammad	
+20.november        DJ nagureo     house           *****  130    301
+ (single mix)
+Deep Clear Eyes    QUADRA         drum'n bass mix *****  155    276   
+Attack the Music   DJ FX          hard techno     ****** 140    323
+All songs for      various        medley          ????   var.   var.
+ Wonderswan
+
+[note: Medley, one of the two hidden songs, is actually clips from all 
+eleven of the other songs (hence the name and genre). There are two 
+different sections from each song, each a few seconds long, that will 
+play randomly. 16 segments will play total, and sometimes the same 
+segment will repeat - it's totally random. It's also not judged - after 
+the 16th segment, it returns to the Free mode selection (it's only 
+available in free mode).]
+
+
+0.06: Outro________________________________________________
+
+_____Versions:
+
+v.1.00 25nov99: final release
+      added remaining missing info.
+
+v.0.87 06sept99: still technically pre-release
+      Cut and pasted info on BMws from my BEMANI Series FAQ to 
+      create this document, which deals only with BMws. 
+
+
+_____Trademark/Copyright Info:
+
+Beatmania, BEMANI, Dance Dance Revolution, Guitar Freaks, Pop'n'Music, 
+Drummania, Dance!Dance!Dance!, GooGooSoundy, and all versions/mixes are 
+copyright/trademarked by Konami Computer Entertainment Japan. All other 
+copyrights are properties of their respective owners. 
+
+This document is copyright J.T.Kauffman 1999 and cannot be reproduced 
+for profit in any form. It can be freely distributed over the internet 
+as long as it is unaltered and is only distributed on free (i.e. non-
+subscription) sites. If you do choose to post this document on your 
+site, please email me to let me know.
+
+
+_____Sources: 
+ 
+Beatmania Consumer all Guide
+
+
+_____Contact:
+
+J.T.Kauffman
+stormwalker@hotmail.com
+
+
+since 06sept99
+Shibata, Japan
+jtk.
+
+
+
+

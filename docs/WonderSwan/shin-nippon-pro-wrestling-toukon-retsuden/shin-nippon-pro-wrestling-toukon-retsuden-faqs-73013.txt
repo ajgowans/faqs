@@ -1,0 +1,511 @@
+
+
+  _________.__    .__          _______  .__                             
+ /   _____/|  |__ |__| ____    \      \ |__|_____ ______   ____   ____  
+ \_____  \ |  |  \|  |/    \   /   |   \|  \____ \\____ \ /  _ \ /    \ 
+ /        \|   Y  \  |   |  \ /    |    \  |  |_> >  |_> >  <_> )   |  \
+/_______  /|___|  /__|___|  / \____|__  /__|   __/|   __/ \____/|___|  /
+        \/      \/        \/          \/   |__|   |__|               \/ 
+__________                                                              
+\______   \_______  ____                                                
+ |     ___/\_  __ \/  _ \   ______                                      
+ |    |     |  | \(  <_> ) /_____/                                      
+ |____|     |__|   \____/                                               
+                                                                        
+ __      __                          __  .__  .__                       
+/  \    /  \_______   ____   _______/  |_|  | |__| ____    ____         
+\   \/\/   /\_  __ \_/ __ \ /  ___/\   __\  | |  |/    \  / ___\        
+ \        /  |  | \/\  ___/ \___ \  |  | |  |_|  |   |  \/ /_/  >       
+  \__/\  /   |__|    \___  >____  > |__| |____/__|___|  /\___  /        
+       \/                \/     \/                    \//_____/         
+    ___________           __                                            
+ /\ \__    ___/___  __ __|  | ______   ____                             
+ \/   |    | /  _ \|  |  \  |/ /  _ \ /    \                            
+ /\   |    |(  <_> )  |  /    <  <_> )   |  \                           
+ \/   |____| \____/|____/|__|_ \____/|___|  /                           
+                              \/          \/                            
+__________        __                   .___                             
+\______   \ _____/  |_  ________ __  __| _/____   ____                  
+ |       _// __ \   __\/  ___/  |  \/ __ |/ __ \ /    \                 
+ |    |   \  ___/|  |  \___ \|  |  / /_/ \  ___/|   |  \                
+ |____|_  /\___  >__| /____  >____/\____ |\___  >___|  /                
+        \/     \/          \/           \/    \/     \/  
+
+__________________________________________________________
+
+
+             FAQ by: Fire_Pro_Fan
+
+__________________________________________________________
+
+
+
+Released by TOMY in 1999, Shin Nippon Pro-Wrestling: Toukon
+Retsuden (New Japan Pro-Wrestling: Intense Fighting Spirit)
+is a 2D Wrestling game for the Japan-only portable, gaming
+system the Bandai WonderSwan.
+
+The WonderSwan port of Toukon Retsuden features six of New
+Japan Pro-Wrestling's top Wrestlers at the time; three of
+which (Mutoh, Chono & Tenzan) were prominent members of NWO
+Japan faction.
+
+Following the release of the WonderSwan version of Toukon
+Retsuden, TOMY would then go on to port the Toukon Retsuden
+series to Nintendo's Game Boy Advance system.
+
+
+
+=====================================================
+
+**************CONTROLS*****************
+
+=====================================================
+
+
+===============
+While standing:
+===============
+
+A - Kick 
+
+A - Punch (close range)
+
+B - Grapple (in close range)
+
+
+Tap Back/Forward twice - Run
+
+A + B - Taunt
+
+START - Pause
+
+
+==============
+While running:
+==============
+
+Back - Stop running
+
+A/B - Running attack 
+
+
+==========================
+While opponent is running:
+==========================
+
+B - Counter attack
+
+
+================
+While grappling:
+================
+
+Forward/Back + A (Irish Whip)
+
+
+================================
+While grappling behind opponent:
+================================
+
+B - Back grapple
+
+
+===================================
+While opponent is laying on ground:
+===================================
+
+A - Stomp
+B - Stomp/Submission hold
+
+Down + B - Pick up opponent
+
+A + B - Pin
+
+
+====================
+Additional commands:
+====================
+
+Button mash A + B  - Get up
+Button Mash A + B - Escape a submission hold/pinfall attempt
+
+
+
+=====================================================
+
+**************THE MODES*****************
+
+=====================================================
+
+
+TITLE MATCH
+
+G1 CLIMAX
+
+TIME ATTACK
+
+TRAINING
+
+OPTION
+
+
+
+=====================================================
+
+**************TITLE MATCH*****************
+
+=====================================================
+
+
+Take on the entire roster to become the IWGP Champion.
+
+Each match is set to one round with a time limit of
+ten minutes.
+
+Once becoming the IWGP Champion, Title Match mode will
+continue to loop as the player continues to face the
+same opponents infinitely.
+
+
+=====================================================
+
+**************G1 CLIMAX*****************
+
+=====================================================
+
+
+Take on the entire roster in an open leagued styled
+tournament to become the G1 Champion.
+
+There are a total of five opponents the player must
+defeat consecutively. 
+
+Successfully defeating the fifth opponent in G1 Climax
+will present the game's ending credits.
+
+
+=====================================================
+
+**************TIME ATTACK*****************
+
+=====================================================
+
+
+Choose an opponent and race against the clock to win
+the match as quickly as possible.
+
+The fastest match times are displayed at the end of
+each game.
+
+
+=====================================================
+
+**************TRAINING*****************
+
+=====================================================
+
+
+Practice a Wrestler's moves in Toukon Retsuden's
+Training mode.
+
+Simply select a Wrestler of choice followed by an
+opponent to spar against.
+
+There is no time limit and the ability to pin,
+tap out or disqualify a Wrestler has been disabled. 
+There is also no visible audience in Training mode.
+
+
+=====================================================
+
+**************OPTION*****************
+
+=====================================================
+
+
+===========
+DIFFICULTY:  - Adjust the COM's difficulty level.
+===========
+
+* EASY
+* NORMAL (default)
+* HARD 
+
+
+======
+MUSIC:
+======
+
+* 00 - Unused
+* 01 - Opening theme
+* 02 - Main menu theme
+* 03 - Wrestler select theme
+* 04 - Pre match theme
+* 05 - Next challenger theme
+* 06 - Championship win theme
+* 07 - Continue? theme
+* 08 - Game Over theme
+* 09 - Game credits theme
+* 10 - Shinya Hashimoto theme
+* 11 - Keiji Mutoh theme
+* 12 - Masahiro Chono theme
+* 13 - Kensuki Sasaki theme
+* 14 - Jushin "Thunder" Liger theme
+* 15 - Hiroyoshi Tenzan theme
+
+=======
+EFFECT: Listen to the game's various sound effects.
+=======
+
+* 00 -
+* 24 
+
+=====
+EXIT:  - Return to the main menu.
+=====
+
+
+=====================================================
+
+**************THE WRESTLERS*****************
+
+=====================================================
+
+
+================
+SHINYA HASHIMOTO
+================
+Nickname: The King Of Destruction
+
+
+High Kick - A
+Chop - A (in close range)
+
+Wheel Kick - A (while running)
+Trip Kick - A (while opponent is running)
+
+Leg Drop - A (at head or feet of downed opponent)
+Elbow Drop - B (at feet of downed opponent)
+Torso Lock - B (at head of downed opponent)
+Turn Opponent Over - A + B (after piledriver)
+
+
+Sleeper Hold - B (front grapple)
+DDT -  Up + B (front grapple)
+Brainbuster - Down + B (front grapple)
+Elbow Strike - Forward + B (front grapple)
+Arm Drag - Back + B (front grapple)
+
+Release German Suplex - B (back grapple)
+
+
+The strongest striker in the game but also the
+slowest speed-wise. Watch out for Hashimoto's
+highly damaging "Wheel Kick" and "DDT".
+
+
+______________________________________________________
+
+
+==============
+MASAHIRO CHONO
+==============
+Nickname: Mr. G1
+
+
+Kenka Kick - A 
+Shin Kick - A (in close range)
+
+Strong Kenka Kick - A (while running)
+Samoan Drop - A (while opponent is running)
+
+Stomp - A (at feet/head of downed opponent)
+S.T.F. - B (at feet of downed opponent)
+Stepover Sleeper Hold - B (at head of downed opponent)
+
+Knee Lift - B (front grapple)
+DDT - Up + B (front grapple)
+Rollup - Down + B (front grapple)
+Dropkick - Forward + B (front grapple)
+Backdrop - Back + B (front grapple)
+
+Backdrop - B (back grapple)
+
+
+A well balanced Wrestler that likes to wear down
+opponents with brutal kicks before applying his
+signature submission hold ...the "S.T.F.".
+
+
+______________________________________________________
+
+
+===========
+KEIJI MUTOH
+===========
+Nickname: Natural Born Master
+
+
+Kick - A
+Punch - A (in close range)
+
+Rolling Space Elbow - A (while running)
+Dropkick - A (while opponent is running)
+
+Flash Elbow - A (at feet/head of downed opponent)
+Figure Four Leg Lock - B (at feet/head of downed opponent)
+
+Full Nelson - B (front grapple)
+Backbreaker - Up + B (front grapple)
+Full Nelson Release German Suplex - Down + B (front grapple)
+Arm Toss - Forward + B (front grapple)
+Vertical Suplex - Back + B (front grapple)
+
+Release German Suplex - B (back grapple)
+
+
+Mutoh's "Space Rolling Elbow" can be interrupted
+by punching or kicking Mutoh before he has a chance
+to attack. 
+
+Watch out for Mutoh' painful "Full Nelson Release
+German Suplex" and "Figure Four Leg Lock".
+
+
+______________________________________________________
+
+
+==============
+KENSUKE SASAKI
+==============
+
+
+Slap - B 
+
+Lariat - A (while running)
+Dropkick - A (while opponent is running)
+
+Stomp - A (at feet/head of downed opponent)
+Single Leg Boston Crab - B (at feet of downed opponent)
+Strangle Hold Y - B (at head of downed opponent)
+
+Headbutt - B (front grapple)
+Piledriver - Up + B (front grapple)
+Brainbuster - Down + B (front grapple)
+Scoop Powerslam - Forward + B (front grapple)
+Arm Drag - Back + B (front grapple)
+
+Backdrop - B (back grapple)
+
+Kensuke's "Lariat" is one of the strongest running
+attacks in the game that is only rivaled by Kensuke's
+impressive assortment of power style throws. 
+
+
+______________________________________________________
+
+      
+================
+HIROYOSHI TENZAN
+================
+Nickname: Mogyu
+
+Kick - A 
+Chop - A (in close range)
+
+Wheel Kick - A (while running)
+
+Stomp - A (at feet/head of downed opponent)
+Knee Drop - B (at feet of downed opponent)
+Chop - B (at head of downed opponent)
+
+Samoan Drop - B (front grapple)
+Kneeling Powerbomb - Up + B (front grapple)
+Vertical Suplex - Down + B (front grapple)
+Release Powerbomb - Forward + B (back grapple)
+Snap Suplex - Back + B (front grapple)
+
+Backdrop - B (back grapple)
+
+
+Another slow moving Wrestler that loves to stomp
+his opponents into the ground. 
+
+To make up for his slow speed, Tenzan has a wide
+variety of powerful throws at his disposal.
+
+
+______________________________________________________
+
+
+======================
+JUSHIN 'THUNDER' LIGER
+======================
+Nickname: Shooting star
+
+Kick - A 
+Palm Thrust - A (in close range)
+
+Koppu Kick - A (while running)
+Savate Kick - A (while opponent is running)
+
+Kick - A (at feet/head of downed opponent)
+Armbar - B (at feet/head of downed opponent)
+
+Fisherman Suplex - Up + B (front grapple)
+Liger Bomb - Down + B (front grapple)
+Fisherman Suplex - Forward + B (front grapple)
+DDT - Back + B (front grapple)
+
+Release German Suplex - 
+
+The fastest striker in the game, but also the
+weakest when it comes to attack power.
+
+When moving in close to throw Liger, try to stay
+directly above or below him to avoid being struck
+head-on by Liger's "Koppu Kick".
+
+
+
+=====================================================
+
+**************SECRETS, TIPS & TRICKS*****************
+
+=====================================================
+
+
+===========
+Auto Reset:
+===========
+
+Simultaneously press A + B and START to reset the game. 
+
+
+
+=====================================================
+
+**************CREDITS*****************
+
+=====================================================
+
+
+[TOMY] - for creating the Toukon Retsuden series and
+         bringing it to the Bandai WonderSwan.
+
+[Bandai] - for creating the WonderSwan game system.
+
+[PuroGeek] - for inspiring me to start writing FAQs.
+
+[...and you] 
+
+=====================================================
+
+**************CREDITS*****************
+
+=====================================================
+
+Questions, comments, corrections & additions, please
+email me at: justin.imprint.m@gmail.com
+

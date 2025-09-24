@@ -1,0 +1,432 @@
+==========================================
+Pocket Fighter for Wonderswan    *Capcom*
+==========================================
+
+By: Gregor Simeonov
+Email: gregor@idirect.ca
+
+                    __          ___    ___  __
+  /\   \        /  /  \  |\  | |   \  |    |  \
+ /__\   \  /\  /  |    | | \ | |    | |--  |__/   
+/    \   \/  \/    \__/  |  \| |___/  |___ | \     
+                                              \
+                                               \
+                   |\  /|   /\   |\  | |   /\   \
+                   | \/ |  /__\  | \ | |  /__\   \
+                   |    | /    \ |  \| | /    \  |
+            \____________________________________/
+			
+				FAQ
+
+               http://www.wondermania.com
+
+Wonder Mania-- The only dedicated english Wonderswan site!
+
+
+
+Table of Contents:
+- Introducton
+- Abbreviations
+- Move list
+- Combo system
+- Card Battle Mode
+- Credits
+
+
+-Introduction-
+
+Pocket Fighter for Wonderswan is one of the more valuable games for 
+Wonderswan. Not only does it respresent the power that a Wonderswan 
+console posses, but it challenges fighting games that appear on more
+popular systems such as the Gameboy or Neo Geo Pocket. Pocket Fighter is 
+very similar to the Playstation, Sega Saturn and Arcade versions
+of the game. All the combos, super moves, control schemes and 
+graphical portraits are the same, except now it's in your pocket.
+Although the directional pads of the Wonderswan were not designed
+in favor of fighting games, it sure does te job and leaves you
+satisfied with an aobe average Wonderswan game. Included is a 
+card fihgting mode which enhances the experience. Luckily, most of 
+the menus are in english, so it's easy to find your way around. If 
+you don't have this game yet, it's time to do some searching:).
+
+
+
+-Abbreviations-
+
+P  - Press the "punch" button, varies between key configurations
+K  - Press the "kick" button   "      "
+S  - Press the "special" button "     "
+C  - Press the "chohatsu" or "taunt" button "    "
+PK - Punch+ Kick, the "throw" command
+
+These terms refer to the motion of the direction pad.
+
+D  - down, push down on the d-pad
+F  - forward, towards the opponent
+U  - up
+B  - back, away from the opponent
+DF - down+forward, diagonal
+DB - down+back, diagonal
+UF - up+forward, diagonal
+UB - up+back, diagonal
+
+===========
+|MOVE LIST|
+===========
+
+Standard moves: these are moves that have the same commands and work with 
+every character.
+
+Dash: F,F
+Backstep: B,B
+Speedy attacks: F,F + K or F,F + P
+Super jump: D,U
+Recover: (from fall) PK or S
+Sweep: DF + K
+Upper Cut: DF + p
+Special Overhead (unblockable): F + S
+Special Upper (unblockable): DF + S
+
+
+-----
+*RYU*
+-----
+Extra moves-
+	Overhead Punch: F + P
+	Overhead Kick: F + K
+	Jab: B + P
+	Leg Throw: (close) B,D,DB + PK
+	Super Throw: (close) B,DB,D,DF,F + PK
+
+Special moves-
+	Hado-Ken: D,DF,F + P
+	Shoryu-Ken: F,D,DF+ P
+	Tatsumaki Senpu-Kyaku: D,DB,B + K (can be done in air)
+	
+Super moves-
+	Shinkuu Hado-Ken: D,DF,F + S
+	Shinkuu Tatsumaki Senpu-Kyaku: D,DB,B + S
+	Shin Shoryuken: F,D,DF + S
+
+-----	
+*Ken*
+-----
+Extra moves-
+	Overhead Kick: F + K
+	Super Throw: (close) B,DB,D,DF,F + PK
+
+Special moves-
+	Hado-Ken: D,DF,F + P
+	Shoryu-Ken: F,D,DF + P
+	Tatsumaki Senpu-kyaku: D,DB,B + K
+
+Super moves-
+	Shoryu Reppa: F,D,DF + S
+	Shinryu-Ken: B,D,DB + S
+	Shinpu Jinrai Kyaku: B,DB,D,DF,F + S
+
+---------
+*Chun-Li*
+---------
+Extra moves-
+	Flash Kick: F + K
+	Stomp: (over opponent in air) D + K
+	Super Throw: (close) B,DB,D,DF,F + PK
+
+Special moves-
+	Lightning Kick: K (tapped repeatedly)
+	Kiko-Ken: B,DB,D,DF,F + P
+	Spinning Bird Kick: B,DB,D,DF,F + K
+	Kikoshin: F,D,DF + K
+
+Super moves-
+	Kiko-Sho: D,DF,F + S
+	Shin-Kikoshin: F,D,DF + S
+	Bike Attack: F,DF,D,DB,B + S
+
+--------
+*Sakura*
+--------
+Extra moves-
+	Overhead Kick: F + K
+	Super Throw: (close) B,DB,D,DF,F + PK
+
+Special moves-
+	Hado-Ken: D,DF,F + P
+	Sho Ho Ken: F,D,DF + P
+	Sakura Rush (yay): B,DB,D,DF,F + K
+
+Super moves-
+	Shinkuu Hado-Ken: D,DF,F + S
+	Midare-Zakura: F,D,DF + S
+	Body Guard: F,DF,D,DB,B +S
+
+----------
+*Morrigan*
+----------
+Extra moves-
+	Power Stab: F + K
+	Valkyrie Kick: (falling in air) D + K
+	Vector Drain: (close) B,DB,D,DF,F + PK
+	Super Throw: (close) F,DF,D,DB,B + PK
+	Flying Dash: Hold S, then F,F or B,B
+	
+Special moves-
+	Sould Fist: D,DF,F + P
+	Shadow Blade: F,D,DF + P
+	Shinning Tail Slash: D,DB,B + K
+
+Super moves-
+	Darkness Illusion: B,DB,D,DF,F + S
+	Super Blade: F,D,DF + S
+	Super Tail Slash: D,DB,B + S	
+
+---------
+*Lei-Lei*
+---------
+Extra moves-
+	Arm Smack: F + P
+	Chainsaw Stab: F + K
+	Super Throw: (close) B,DB,D,DF,F, + PK
+	Air Dash: (in air) F,F or B,B
+
+Special moves-
+	Shuri-Ken: D,DF,F + P
+	Shield Beam: D,DB,B + P
+	Ground Blade: F.DF.D.DB.B + P
+
+Super moves-
+	Massive Throw: F,DF,D,DB,B + S
+	Roller: D,DF,F + S
+	Umbrella Pop: F,D,DF + S
+
+---------
+*Felicia*	
+---------
+Extra moves-
+	Cat Shock (à la Blanka): P (tapped repeadetly)
+	Super Throw: (close) F,DF,D,DB,B,UB,U,UF + PK
+
+Special moves-
+	Cat Roll: D,DF,F + P (press P more times to finish with uppercut)
+	Cat Sweep: D,DF,F + K
+	Cat Spike: F,D,DF + K
+	Cat Bounce: D,DB,B + P (press P repeatedly for more hits)
+
+Super moves-
+	Dancing Flash: F,D,DF + S
+	Help me!: B,DB,D,DF,F, + S
+	Dancing Kitty: F,DF,D,DB,B + S
+	
+--------
+*Tabasa*
+--------
+Extra moves-
+	Kat Kick: (in air) F + K
+	Super Throw: (close) F,DF,D,DB,B + PK 
+
+Special moves-
+	Dragon Fang: D,DF,F + P
+	Roll Attack: D,DF,F + K
+	Rolling Upper: F,D,DF + P
+
+Super moves-
+	Beam: D,DF,F + S
+	Robo Grapple: F,DF,D,DB,B + S
+	Dragon Roll: F,D,DF + S
+
+-------
+*Ibuki*
+-------
+Extra moves-
+	Super Throw: (close) B,DB,D,DF,F + PK
+	
+Special moves-
+	Kunai Dagger: D,DF,F + P (can be done in air)
+	Penguin Drop: B,D,DB + K
+	Kazekiri: F,D,DF + K
+	Sword Slice: D,DB,B + K (repeat for more hits)
+
+Super moves-
+	Kasumi: D,DF,F + S
+	Toad Blast: F,DF,D,DB,B, + S
+	Yoroi Doushi: F,D,DF + S  
+
+---------
+*Zangief*
+---------
+Extra moves-
+	Knee Drop: (in air) D + K
+	Body Slam: (in air) D + P
+	Rock Slam: (in air) D,D + P
+	Press Grab: (close) D + PK or DF + PK or DB + PK
+	Whip Grab: (close) F + PK or B + PK
+	Super Grab: (close) F,DF,D,DB,B + PK
+
+Special moves-
+	Spinning Pile Driver: F,DF,D,DB,B,UB,U,UF + PK
+	Lariat: P + S
+	Banishing Fist: F,D,DF + P
+
+Super moves-
+	Russian Dance: F,D,DF + S
+	Dash Bite Attack: B,DB,D,DF,F + S
+	Atomic Buster: F,DF,D,DB,B,UB,U,UF + S
+
+-----
+*Dan*
+-----
+Extra moves-
+	Super Throw: (close) B,DB,D,DF,F, + PK
+
+Special moves-
+	Gad-Ken: D,DF,F + P
+	Koryu-Ken: F,D,DF + P
+	Danku-Ken: D,DB,B + K
+
+Super moves-
+	Shinkuu Gado-Ken: D,DF,F + S
+	Father Nose Blast: B,DB,D,DF,F + S
+	Shoryu-Rekka: F,D,DF + S
+	Father Raging Demon: (lvl. 3 or higher) F,DF,D,DB,B + S
+	Hisshou Burai Ken (madly hard to pull): F,DF,D,DB,B,DB,D,DF,F + S
+	Chohatsu-densetsu: D,DF,F,D,DF,F + C
+
+-------
+*Akuma*
+-------
+Extra moves-
+	Overhead Kick: F + K
+	Tenma Kuujin Kyaku: (in air) DF + K
+	Leg Throw: (close) B,D,DB + PK
+	Super Throw: (close) B,DB,D,DF,F, + PK
+
+Special moves-
+	Gou Hadou Ken: D,DF,F + P (can be done in air)
+	Shoryu-Ken: F,D,DF + P
+	Tatsumaki Senpu-Kyaku: D,DB,B + K
+	Ashura Senkuu Forward (teleport forward): F,D,DF + K
+	Ashura Senkuu Backward (teleport backward): B,D,DB + K 
+	Hyakki Shuu: D,DF,F,UF,U + P
+		During Hyakki Shuu-
+		Hyakki Gou Shou: P
+		Hyakki Gou Sen: K
+		Hyakki Gou Sai: (close) hold B or F + P
+		Hyakki Gou Tsui: (close) hold B or F + K
+
+Super moves-
+	Messatsu Gou Hadou: D,DF,F + S
+	Tenma Gou Zankuu: (in air) D,DF,F + S
+	Messatsu Gou Shoryu: F,D,DF + S
+	Shun Goku Satsu: (lvl. 3 or higher) F,DF,D,DB,B + S
+
+
+
+//////////////////
+--|COMBO SYSTEM|--
+//////////////////
+
+The Combo system in Pocket Fighter is very simple. Even though the 
+combo counter was removed from the Wonderswan version, classic
+Pocket Fighter combos with idealistic character animations
+remained. If you are not familiar with them just yet, it's real
+easy. Every combo starts with the Punch button, then you can make
+variations of the proceeding buttons. Also, all full combos consist 
+of four buttons pressed simutanesously, however, not all of the 
+four hits are successful, since the comp[uter can usually block the 
+last one. There are quite a bit of possibilities for the combos, and 
+the number of succesful hits very between the characters, but all the 
+commands are the same. For example, this is a combo: P,K,P,P or
+P,P,P,K . This is a key part in causing some damage in this game.
+
+
+
+|{{{{{{{{}}}}}}}}|
+|CARD BATTLE MODE|
+|{{{{{{{{}}}}}}}}|	
+
+Pocket Fighter for Wonderswan was equipped with a unique, but repetative
+card battle mode. You accumulate your number of cards every time you 
+beat the game. If the difficulty and number of rounds are higher, you get
+more cards at the end. I'm not going to list all the cards (maybe when I
+get all of them and find time), but I will give a basic know-how of
+the battle system, for those who can't undertsnad Japanese.
+
+
+Cards:
+
+p\k : These are the "combo" or "attack" cards, they have symboles of
+       a hand and a foot on it, and a number on the top-left and 
+       bottom-right corners. The higher the numbers, the stronger the 
+       attack. To make a combo, you need to have four p/k cards avaiable.
+
+special: These are the "special move" cards, it sort of looks like
+         a turtle's shell on the image, and has a number on the top-left
+         and bottom-right corners. When you choose this card, you can also
+         choose which special move you want to do (uppercut, fireball etc...).
+         This is where the accumulated cards come i play. If you acquired the
+         card, the "special move" card enables you to use it, so you will
+         either receive a 2nd or 3rd lvl. special move, or a super.
+
+gem: These are the "gem" cards, they have a picture of a Gem on it. Place
+     these before your p/k or special cards for a stronger attack.
+
+UP: This is the "dodge" card. The design of the card is an arrow pointing
+    upwards. Place this card to attempt to dodge small combos against 
+    you. Also, try placing it before p/k cards for a greater chance
+    of success against the computer.
+
+G: These are the "Guard" cards. The design of the card is a big G against
+   a brick wall. Use these cards to block the computers attacks.
+
+Pie: These are the "health" cards. They have a picture of a piece of cake
++2   and a number on the bottom. Use them to recover life. The higher
+     the number, the more life you will regain.
+
+
+How it works:
+Put together various combos of the different cards listed above. You
+qill see that not all cards can go together, since they will be
+shaded and inaccesible if they do not go with the card you just place.
+Only the player with the higher value of cards set will do dammage
+to the opponent, but the opponent will be able to dodge or regain health
+during your attack. To have a higher chance of winning, you must not only use
+force but strategy against your computer. If the computer hasn't done
+a combo in a couple of rounds, it means that his "combo" cards are accumulating.
+Therefore, instead of risking doing a special move or combo which is weaker than 
+the opponent's, use a Guard card if available. If you have to use a single
+p/k card, dispense the one with the largest value (numbers on card). This will be
+to your advantage because you will raise the value of your cards during the attack. 
+If you are pulling a 4-card combo, the value will already be high enough to beat 
+the computer's.
+
+//-------\\
+::Credits::
+\\-------//
+
+-I'd like to thank Bandai for releasing such a nifty
+little system, even though it's not out overseas.
+
+-Thanks to JapAnime.com who personally went out 
+and searched their local Jap stores for my copy of
+Pocket Fighter, that was service at it's best.
+
+-Capcom for releasing awesome fighting titles.
+
+-GameFaqs and S:SNGP which inspired me to write this
+FAQ and make a Wonderswan site.
+
+
+
+
+By: Gregor Simeonov
+Email: gregor@idirect.ca
+2001
+
+WONDERMANIA!!
+
+http://www.wondermania.com
+
+--Copyright 2001--
+No sale of FAQ permitted, email me if you want
+to use it for a site.	                                             

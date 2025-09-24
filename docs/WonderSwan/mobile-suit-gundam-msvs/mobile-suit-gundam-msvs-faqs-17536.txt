@@ -1,0 +1,3324 @@
+Mobile Suit Gundam MSVS Mecha Guide 0.9
+Released on June 23, 2002
+by Soren Kanzaki (soren_kanzaki@yahoo.com)
+
+-------------------
+Table of Contents:
+-------------------
+
+Section 1: Overview
+Section 2: Version History
+Section 3: General Mecha Information
+Section 4: Federal Forces Mecha
+  Part A: RB-79 Types
+  Part B: RX-75 Types
+  Part C: RX-77 Types
+  Part D: RX-78 Types
+  Part E: RGM-79 Types
+  Part F: RAG-79 Types
+Section 5: Principality of Zeon Mecha
+  Part A: MS-06 Types
+  Part B: MS-07 Types
+  Part C: MS-09 Types
+  Part D: MS-14 Types
+  Part E: MS-15 Types
+  Part F: YMS-16 Types
+  Part G: MS-18E Types
+  Part H: Zeon Underwater Types
+  Part I: Psycommu Types
+Section 6: Special Gundam Development Project Mecha
+  (a.k.a. RX-78GP Types)
+Section 7: Model Flowchart / Unlock Order
+Section 8: Credits
+Section 9: Copyright / Authorization
+Section 10: Miscellaneous
+
+--------------------
+Section 1: Overview
+--------------------
+
+    All Universal Century fans know their names.  The MS-05 Zaku and the RGM-
+79 GM.  A pair of mass produced mobile suits that spawned an array of 
+variants.
+
+    Even though the focus of attention in mobile suit design from UC 0079-
+0083 was the Gundam and its successors, the bulk of mobile suits produced in 
+this period were much more humble.  Though they get little screen time, they 
+are in fact more important to the history of the Universal Century than the 
+Gundam itself.
+
+    What would it be like to a test pilot during those years?  Can you help 
+Anaheim Electronics research Federation and Zeon mobile suits, leading up to 
+the final fruits of the Gundam Development Project?
+
+    In MSVS, you assume the role of a test pilot for Anaheim Electronics.  
+Replay the famous battles of the war, from the first incursion of Denim's 
+Zaku II in Side 7 all the way to a climactic showdown against Anavel Gato and 
+the RX-78GP02a Physalis.  Test out a wide variety of mobile suit variations, 
+from the simple and well-known MS-05 Zaku I to the obscure RAG-79-G1 
+Gundiver.  Can you master the mobile suits of the Universal Century?
+
+---------------------------
+Section 2: Version History
+---------------------------
+
+    0.8 (6/23/02): First draft.  Contains all currently known unlockable 
+friendly mecha from the MSVS basic version.
+
+-------------------------------------
+Section 3: General Mecha Information
+-------------------------------------
+
+    In MSVS, you are given 5 different slots for keeping mecha.  In order to 
+view your current mecha, change weapons, upgrade, change models, purchase new 
+and sell old mecha, go to the MS Deck.  (Option 3)  All MS transactions occur 
+in 'Dock Points', which represent your credit and standing with Anaheim 
+Electronics.
+
+    The MS Deck has 5 different selections.  They are, in order:
+
+    Setup - change and check the equipment of your mecha
+    Custom - upgrade the statistics of your mecha
+    Model Change - unlock new models and alter existing models
+    New Unit - construct a brand new unit
+    Dispose (Shobun) - sell off your old units
+
+    When you start the game, Anaheim Electronics will have 3 mecha in its 
+possession: a MS-06F Zaku II, a RX-75 Guntank, and a MS-06M Zaku Marine Type.  
+You can dispose of these as you please, but I'd recommend keeping the Zaku II 
+(unless you plan on selling everything and buying a RGM-79 GM).  If you do 
+sell everything, when coupled with the 2600 Dock Points you begin with, 
+you'll have a grand total of 4900 Dock Points.  That is enough to buy a new 
+RGM-79 and give it 9 upgrades.  (Or you can upgrade the Zaku II completely if 
+you sell the Guntank and Zaku Marine Type, leaving you with 400 Dock Points.)
+
+    All mecha have certain vital statistics.  If you enter the Custom screen 
+and select a mecha (either by pressing down or A), they are in order:
+
+    Taikyuuryoku (Physical Strength)
+    Soukou Atai (Armor Value)
+    Undousei (Mobility)
+    Sakuteki Nouryoku (Enemy Detection Ability)
+    Generator
+    Tekisei (Aptitude) for the 4 Terrain Types
+    Size
+
+    And what are their uses?
+
+Taikyuuryoku:  This is displayed as your HP.  When this reaches zero, your 
+suit has been destroyed.
+
+Soukou Atai: This value helps reduce the damage suffered from enemy attacks.
+
+Undousei: This not only determines how quickly and nimbly your unit moves on 
+the map, but it also increases your chance of evading enemy attacks.
+
+Sakuteki Nouryoku: This determines the maximum distance at which your unit 
+can lock onto enemy units.  During Storm conditions, this value is lowered to 
+approximately 75% of the maximum.
+
+Generator: This is displayed as your EN.  When this value reaches zero, your 
+mobility will be lowered, but you can still move.  Certain attacks (usually 
+physical attacks, some beam weapons without E Caps) require EN to use.  If 
+you have 0 EN, you can still use these attacks, but they will be at 
+approximately 50% effectiveness (they seem to miss more, and they will do 50% 
+damage).
+
+Tekisei: This determines how well this mobile suit, in general, performs in 
+one of 4 different terrain types.  They are Uchuu (Space), Chijou (Ground), 
+Sabaku (Desert), and Mizuchuu (Underwater).  If a unit has a D Aptitude in a 
+terrain, it can neither be deployed in that terrain nor can its aptitude be 
+upgraded in that terrain.
+
+Size: This cannot be changed.  Smaller units seem to have a bonus to their 
+evasion.
+
+    All mecha can have 10 sets of upgrades applied in total, and 4 in any one 
+category.  The cost of upgrading statistics is fixed, based on the unit.  
+Aptitude upgrades cost much more.  If you change the model of a mobile suit, 
+the upgrades used will be reset to 0 (but you'll get the base statistics).
+
+    Certain mecha can be changed from one model to another.  This is a non-
+reversible action.  For most of the MS variants, you will have to construct 
+the new model via a model change before it appears on the New Unit 
+construction menus and is available as a unit for the enemy to pilot during 
+Single actions.
+
+    And now, weapons.  Mecha weapons (including armor and shields) are viewed 
+in the Set Up screen.  All weapons and armor fall into 7 different location 
+categories: Kotei (fixed), Migite (right hand), Hidarite (left hand), Ryoute 
+(Both Hands), Ude (Arm), Kata (Shoulder), Senaka (Back), Ashi (Legs), Koshi 
+(Hips), Shatai (Frame), and Body.  Kotei (fixed) weapons cannot be removed or 
+replaced.  For all the others, you may have 1 weapon in each slot.  (That is, 
+you can only choose 1 weapon from all systems that are of the Migite type to 
+hold in your right hand; and the same for your Hidarite, Ryoute, Ude, Kata, 
+Senaka, Ashi, Koshi, Shatai, and Body systems.)  In the case of Shields, 
+special Boosters, and Layered Armor (e.g., the RX-78NT1 Alex's Chobham 
+Armor), you can usually select between using the armor/shield and leaving it 
+off.  These are marked with a  *, since they can be on, or you may select 
+"Soubi Nashi" (equip nothing).  Armors and shields increase the Armor of the 
+unit in general, but reduce its mobility.  Shields also can occasionally be 
+used by the pilot to completely absorb an incoming attack.
+
+    All weapons systems have several characteristics.  Their location (as 
+covered above), their AP (attack points), range, hit rates, and ammunition or 
+energy.  The AP is listed as AxB, where A is the amount of damage each shot 
+will do when it impacts, and the B indicates the number of shots in each 
+salvo.  For example, the MS-06F Zaku II has a 120mm Machinegun is listed as 
+15x3.  This means each attack consists of a burst of 3 shots, each 
+potentially doing 15 points of damage (for a total of 45 if all 3 hit).
+
+    The range is just that; the range at which the weapon can be fired.  
+After the numerical range, up to 3 letters are listed: S, M, and L.  This 
+indicates which of the three general attack ranges that weapon falls under 
+for this unit.  Note that what constitutes the 'Short', 'Middle', and 'Long' 
+range varies from mobile suit to mobile suit.
+
+    The hit rate is a rough guide of how accurate the weapon is.  Finally, 
+all weapons either use ammunition or energy.  For weapons with ammunition, 
+the displayed value is the number of salvoes this weapon has (not individual 
+shots).  Again, a MS-06F Zaku II's 120mm Machinegun has a listed ammunition 
+of 50; that means it has a total of 150 rounds (3x50).  If a weapon has 
+energy listed, instead, it uses energy when it is fired/executed.  As noted 
+above, weapons that use energy work at reduced effectiveness if the mobile 
+suit is out of energy, but they can still be fired.
+
+--------------------------------
+Section 4: Federal Forces Mecha
+--------------------------------
+
+    Federal Forces mobile suits (since they do not have any mobile armors) 
+are divided into six main categories (and a hidden, 7th category that will 
+not appear until you have completed Mission EX3 once).  These are built 
+around the main archetypes of the mobile suit forces:
+
+    RB-79: Space Support Weapons
+    RX-75: Mobile Artillery
+    RX-77: Medium Range Fire Support (including RGC mass produced units)
+    RX-78: General Purpose High Grade Mobile Suit (full versions)
+    RGM-79: General Purpose Mass Produced Mobile Suit (and RX-79 mass 
+      produced Gundam types)
+    RAG-79: Underwater Mobile Suit
+
+    Of these, the strongest units (until you unlock the RX-78GP types) will 
+be in the RX-78 family, and the most common military types lie in the RGM-79 
+family.
+
+    As you can see, one of the major strengths in the Federal Forces approach 
+to mobile suit design and deployment is interchangeability.  Most mobile 
+suits (with the exception of the RB-79 and RX-75 family) were constructed in 
+generally the same design (humanoid, 2 legs, the basic RX-78 Gundam 'look', 
+if you will).  The Federal Forces were able to deploy a massive number of 
+mobile suits in a relatively limited amount of time once the finalization of 
+the RGM-79 series was complete.
+
+    For information on the RX-78GP family of mobile suits and the Gundam 
+Development Project, please refer to Section 6.
+
+Legend:
+MS Model Number "Common Name" [Translations or Alternate Names]
+Physical Strength: Base, Upgrade Amount
+Armor Value: Base, Upgrade Amount
+Mobility: Base, Upgrade Amount
+Enemy Detection Ability: Base, Upgrade Amount
+Generator: Base, Upgrade Amount
+Aptitude: Space/Ground/Desert/Underwater
+Size
+Cost: New Unit, Statistic Upgrades, Aptitude Upgrades (if applicable)
+
+Weapons:
+Weapon Name (Fixed/Left Hand/Right Hand/Shoulder/Body/Hips/Legs)*
+AP: Damage X Shots
+Range, (S, M, and/or L)
+Hit  Ammunition/Energy
+* indicates this system can be set on, or off (Soubi Nashi)
+
+OR
+
+System Name (Fixed/Left Hand/Right Hand/Shoulder/Body/Hips/Legs)*
+Effects
+
+Comments
+
+   *********************
+    Part A: RB-79 Types
+   *********************
+
+RB-79 "Ball"
+Physical Strength: 250, +62
+Armor Value: 16, +4
+Mobility: 30, +7
+Enemy Detection Ability: 40, +4
+Generator: 175, +43
+Aptitude: A/D/D/D
+Size: S
+Cost: 800, 200, N/A
+
+Weapons:
+120mm Cannon (Fixed)
+AP: 30x1
+Range: 16-60, ML
+Hit: 40  Ammo: 50
+
+Arm (Fixed)
+AP: 16x1
+Range: 0-15, S
+Hit: 50  Energy: 3
+
+Comments: The standard RB-79 Ball served as the only Federal Forces space-
+capable mobile weapon during the opening stages of the One Year War.  While 
+it is a decently capable space support weapon, it lacks all the qualities of 
+a mobile suit - good armor, good mobility, and good weaponry.  The RB-79 Ball 
+first appeared during Kidou Senshi Gundam.
+
+RB-79K "Ball Custom"
+Physical Strength: 260, +75
+Armor Value: 18, +4
+Mobility: 30, +7
+Enemy Detection Ability: 40, +4
+Generator: 175, +43
+Aptitude: A/D/D/D
+Size: S
+Cost: 950, 237, N/A
+
+Weapons:
+180mm Cannon (Fixed)
+AP: 20x2
+Range: 16-60, ML
+Hit: 40  Ammo: 50
+
+Arm (Fixed)
+AP: 16x1
+Range: 0-15, S
+Hit: 50  Energy: 3
+
+Comments: Even though the Federal Forces eventually committed themselves to a 
+true mobile suit development program, some Ball variants did appear during 
+the One Year War.  By replacing the single 120mm Cannon mounted on the top of 
+the Ball with a pair of twin 180mm Cannon, the damage potential has been 
+increased on this model.  Several other minor improvements were also made to 
+this version.  Shou-i Shiro Amada scored an impressive victory in space by 
+using a RB-79K against Aina Sahalin in a MS-06RD-4, thus saving the life of 
+Terry Sanders Jr.  The RB-79K Ball Custom first appeared during the Kidou 
+Senshi Gundam: 08th MS Shoutai OAV series.
+
+   *********************
+    Part B: RX-75 Types
+   *********************
+
+RX-75 "Guntank"
+Physical Strength: 300, +75
+Armor Value: 24, +4
+Mobility: 40, +10
+Enemy Detection Ability: 60, +4
+Generator: 300, +75
+Aptitude: C/A/B/D
+Size: LL
+Cost: 1700, 425, 1700
+
+Weapons:
+120mm Cannon (Fixed)
+AP: 60x1
+Range: 41-85, L
+Hit: 40  Ammo: 20
+
+40mm Gun Launcher (Fixed)
+AP: 10x4
+Range: 16-30, SM
+Hit: 45  Ammo: 30
+
+Comments: One of three different designs proposed by Tem Rey to fulfill the 
+Project V specifications for new Federal Forces mobile suits, the RX-75 (the 
+original Guntank that survived on the White Base was the RX-75-4) trades 
+mobility and close-combat ability for long range artillery support.  Despite 
+its imposing countenance, the armor on this unit is rather weak, and it 
+cannot engage targets at close range.  This version, with the Gun Launcher 
+instead of Missile Tubes, reflects the first mass produced version available, 
+and was deployed in the Southeast Asia region in support of the assault on a 
+major Zeon base in the area.  The RX-75 Guntank first appeared during Kidou 
+Senshi Gundam; however, this mass produced version first appears during Kidou 
+Senshi Gundam: 08th MS Shoutai.
+
+RMV-1 "Guntank II"
+Physical Strength: 300, +75
+Armor Value: 25, +4
+Mobility: 40, +10
+Enemy Detection Ability: 64, +4
+Generator: 300, +75
+Aptitude: D/A/B/D
+Size: LL
+Cost: 1500, 375, 1500
+
+Weapons:
+120mm Cannon (Fixed)
+AP: 60x1
+Range: 50-85, L
+Hit: 40  Ammo: 20
+
+Missile Launcher (Fixed) 
+AP: 15x3
+Range: 31-50, ML
+Hit: 40  Ammo: 5
+
+180mm Rocket Pod (Fixed)
+AP: 12x4
+Range: 41-60, ML
+Hit: 45  Ammo: 10
+
+Comments: As with so many of the original Tem Rey designs, the RX-75 was 
+refined into a mass produced model that spawned many descendants.  The RMV-1 
+Guntank II was the second mass-produced model - it is cheaper to construct, 
+has slightly better range and armor, and many new weapons.  It also 
+completely lost the ability to be deployed in space.  Unfortunately, the 
+minimum engagement distance is almost twice as much in the RMV-1 as the RX-
+75, making it a tempting target for any Zaku pilot with a Heat Hawk.  The 
+RMV-1 made its first anime appearance during Kidou Senshi Z Gundam.  
+(Although, given the timespan of the game, it is probable that it was in use 
+in or around UC 0083.)
+
+   *********************
+    Part C: RX-77 Types
+   *********************
+
+RX-77 "Guncannon"
+Physical Strength: 315, +78
+Armor Value: 32, +4
+Mobility: 50, +12
+Enemy Detection Ability: 58, +4
+Generator: 300, +75
+Aptitude: B/A/B/D
+Size: L
+Cost: 2500, 625, 2500
+
+Weapons:
+240mm Cannon (Shoulder)
+AP: 25x2
+Range: 40-70, ML
+Hit: 50  Ammo: 30
+
+Missile Pod (Shoulder)
+AP: 20x2
+Range: 35-65, ML
+Hit: 60  Ammo: 40
+
+Beam Rifle (Fixed)
+AP: 40x1
+Range: 26-42, M
+Hit: 60  Ammo: 20
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 40  Ammo: 30
+
+Comments: The second of Tem Rey's new mobile suits, the RX-77-2 Guncannon 
+survived the attack by Denim, Slender, and Gene and was piloted by several 
+members of the White Base's crew in battle.  It is surprisingly well armored 
+(on par with the RX-78-2), sharing the same lunar titanium as its other 
+Project V siblings.  While it is possible to close inside the effective range 
+of the 60mm Vulcans, which are the primary close defense weapon of this unit, 
+given the normally fluid nature of mobile suit combat that should be a rare 
+occurrence.  Even though the original design of the Guncannon focused on the 
+twin artillery cannons mounted on the shoulders (and exchangeable with spray 
+missile launchers), the best weapon on this unit is the Beam Rifle.  The RX-
+77 Guncannon first appeared during Kidou Senshi Gundam.
+
+RX-77-3 "Guncannon-3" [aka Guncannon Heavy Arms Type]
+Physical Strength: 315, +78
+Armor Value: 34, +4
+Mobility: 50, +12
+Enemy Detection Ability: 64, +4
+Generator: 325, +81
+Aptitude: B/A/B/D
+Size: L
+Cost: 2300, 575, 2300
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 40x1
+Range: 26-48, M
+Hit: 60  Ammo: 20
+
+Beam Cannon (Fixed)
+AP: 28x2
+Range: 35-65, ML
+Hit: 50  Ammo: 30
+
+Hand Grenade (Fixed)
+AP: 16x1
+Range: 30-45, M
+Hit: 70  Ammo: 10
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 40  Ammo: 30
+
+Comments: It was clear towards the end of the One Year War that the base RX-
+77 design was being rapidly outpaced by its RX-78 sibling.  Further, the high 
+effectiveness of beam weaponry was especially attractive to Federal Forces 
+designers.  An experimental Guncannon Heavy Arms Type was designed that 
+incorporated a number of advances over the basic RX-77 type.  The 240mm 
+Cannons were replaced by Beam Cannons, and the generator strengthened to 
+accommodate the increased strain.  A rack for hand grenades was installed on 
+the hip.  All in all, the performance of the RX-77-3 was better than the 
+original RX-77-2.  The RX-77-3 Guncannon Heavy Arms Type appeared in the 
+Mobile Suit Variations (MSV) collection.
+
+RX-77D "Guncannon-D"
+Physical Strength: 300, +75
+Armor Value: 28, +4
+Mobility: 60, +15
+Enemy Detection Ability: 58, +4
+Generator: 275, +68
+Aptitude: A/A/C/D
+Size: L
+Cost: 1700, 425, 1700
+
+Weapons:
+120mm Machinegun (Fixed)
+AP: 15x3
+Range: 26-55, ML
+Hit: 65  Ammo: 30
+ 
+240mm Cannon (Fixed)
+AP: 25x2
+Range: 40-70, ML
+Hit: 55  Ammo: 30
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 40  Ammo: 30
+
+Comments: Like the RX-79 series of mobile suits, the RX-77D was a limited run 
+mass produced version of the RX-77 Guncannon.  The mobility has been slightly 
+improved, but the armor is much weaker than the original Guncannon.  Also, 
+since Beam Rifles were not widely available yet (basically, appearing only on 
+the RX-78 Gundam, RX-77-2 Guncannon, and the RX-79 series of mass produced 
+Gundams; the RGM-79 and RGC-80 would field the Beam Spray Rifle), this 
+version has a 120mm Machinegun.  No capacity for using a Missile Launcher was 
+designed, either.  The RX-77D Guncannon-D first appeared in Kidou Senshi 
+Gundam: 08th MS Shoutai.
+
+RGC-80 "GM Cannon"
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 58, +4
+Generator: 250, +62
+Aptitude: B/A/C/D
+Size: L
+Cost: 1200, 300, 1200
+
+Weapons:
+Beam Spray Gun (Right Hand)
+AP: 35x1
+Range: 26-55, ML
+Hit: 70  Ammo: 30
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+240mm Cannon (Fixed)
+AP: 45x1
+Range: 40-70, ML
+Hit: 50  Ammo: 30
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 30  Ammo: 30
+
+Comments: Just as the mass production efforts of the Federal Forces led to 
+the development of the RGM-79 series from the original RX-78 Gundam, the 
+persistent need for mid-range heavy fire support produced a similar 
+derivative from the RX-77 Guncannon.  The RGC-80 GM Cannon was developed 
+later than its GM sibling, and very few were produced before the end of the 
+One Year War.  One major deficiency in the GM Cannon is a lack of real short-
+range protective weapons.  The 60mm Vulcans are inadequate for driving away 
+enemy units, and once inside the range of the Beam Spray Gun, the GM Cannon 
+is very vulnerable.  The RGC-80 GM Cannon appeared in the MSV (Mobile Suit 
+Variations) collection.
+
+RGC-83 "GM Cannon II"
+Physical Strength: 315, +78
+Armor Value: 25, +4
+Mobility: 60, +15
+Enemy Detection Ability: 64, +4
+Generator: 300, +75
+Aptitude: A/A/B/D
+Size: LL
+Cost: 1600, 300, 1200
+
+Weapons:
+GM Rifle (Fixed)
+AP: 16x3
+Range: 26-60, ML
+Hit: 65  Ammo: 30
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Cannon (Fixed)
+AP: 28x2
+Range: 35-65, ML
+Hit: 55  Energy: 30
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 40  Ammo: 30
+
+Comments: The renewed development of Gundams and GMs in the three years 
+following the One Year War naturally produced an interest in revitalizing and 
+correcting the deficiencies of the original RGC-80 GM Cannon.  The much 
+improved RGC-83 GM Cannon II has many of the same features as its sibling 
+RGM-79N GM Custom, including the GM Rifle and Beam Saber.  Further, a pair of 
+high performance beam cannons provide excellent mid-to-long range fire 
+support capacity.  The generator has also been improved to accommodate these 
+new weapons.  The GM Cannon II does not suffer from a weak short range combat 
+capacity (with the Beam Saber), and is an excellent fire support platform 
+(considering that it was mass produced).  The RGC-83 GM Cannon II first 
+appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+   *********************
+    Part D: RX-78 Types
+   *********************
+
+RX-78 "Gundam"
+Physical Strength: 350, +87
+Armor Value: 32, +4
+Mobility: 70, +17
+Enemy Detection Ability: 58, +4
+Generator: 325, +81
+Aptitude: A/A/A/C
+Size: L
+Cost: 3000, 750, 3000
+
+Weapons:
+Beam Rifle (Right Hand)
+AP: 40x1
+Range: 26-60, ML
+Hit: 80  Ammo: 30
+
+Hyper Bazooka (Right Hand)
+AP: 50x1
+Range: 26-70, ML
+Hit: 50  Ammo: 20
+
+Hyper Hammer (Right Hand)
+AP: 45x1
+Range: 20-50, SML
+Hit: 45  Energy: 5
+
+Gundam Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 28x1
+Range: 0-20, S
+Hit: 75  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: No real discussion of the mobile suits of the Universal Century is 
+complete without reference to the RX-78-2, the only fully functional Gundam 
+prototype that survived the attack on Side 7.  The Gundam and its legendary 
+pilot, Newtype Amuro Rey, helped shaped the development of GMs and mobile 
+suits for years to come.  This version of the RX-78 lacks the Beam Javelin 
+and Super Napalm that was shown in the TV anime, but in all other respects is 
+a high performance, excellent mobile suit that should serve as the backbone 
+of your game until the RX-78NT1 Alex is available.  Most notable is its 
+ability to deploy in any kind of terrain (although it operates at a penalty 
+underwater).  Generally, the Beam Rifle is your best weapon.  The RX-78 
+Gundam first appears in the original Kidou Senshi Gundam.
+
+FA-78-1 "Full Armor Gundam"
+Physical Strength: 350, +87
+Armor Value: 39, +4
+Mobility: 60, +15
+Enemy Detection Ability: 60, +4
+Generator: 375, +93
+Aptitude: A/B/C/D
+Size: LL
+Cost: 5000, 1250, 5000
+
+Weapons:
+Beam Gun (Fixed)
+AP: 30x2
+Range: 26-42, M
+Hit: 50  Ammo: 25
+
+240mm Cannon (Fixed)
+AP: 48x1
+Range: 40-70, ML
+Hit: 60  Ammo: 20
+
+Beam Saber (Fixed)
+AP: 28x1
+Range: 0-20, S
+Hit: 60  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: Towards the end of the One Year War, it was obvious that the RX-78-
+2 Gundam was over-worked and under-powered compared to some of the mobile 
+armors (and even mobile suits - the MS-14A Gelgoog being a prime example) 
+that the Duchy of Zeon was deploying.  While the basic design of the RX-78 
+was solid, its needed extra armor and heavy weapons to conduct heavy assault 
+against mobile armors.  One proposal to solve this problem was the FA-78-1 
+Full Armor Gundam.  Additional armor would be layered over the Gundam, and a 
+heavy shoulder mounted cannon would provide extra firepower.  Further, the 
+single beam rifle would be replaced with a 2-barrel version.  In the end, 
+this project was scrapped, however.  The FA-78-1 Full Armor Gundam appears in 
+the MSV (Mobile Suit Variations).
+
+RX-78NT1 "Alex" [aka RX-78NT1 G-4 Alex]
+Physical Strength: 420, +105
+Armor Value: 33, +4
+Mobility: 60, +15
+Enemy Detection Ability: 64, +4
+Generator: 350, +87
+Aptitude: A/A/B/D
+Size: LL
+Cost: 5500, 1375, 5500
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 45x1
+Range: 26-60, ML
+Hit: 70  Ammo: 30
+
+Shield (Left Hand)
+Defense +5
+Mobility -15
+
+Chobham Armor (Body)
+Defense +10
+Mobility -25
+
+Beam Saber (Fixed)
+AP: 30x1
+Range: 0-20, S
+Hit: 80  Energy: 28
+
+90mm Gatling Gun (Fixed)
+AP: 14x3
+Range: 20-48, SM
+Hit: 70  Ammo: 30
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: A major problem towards the end of the One Year War was the rapidly 
+developing Newtype skills of the Gundam's pilot, Amuro Rey.  A project was 
+undertaken to develop a new, high reaction Gundam, which would also 
+incorporate many new technological advances.  The original Core Block System 
+was replaced with a 360 degree panoramic cockpit.  Layered, modular armor 
+upgrades were introduced.  90mm Gatling Guns whose power exceeded 
+conventional 120mm Machineguns were installed in both arms.  Magnetic Coating 
+was installed at the joints to reduce friction.  All things considered, the 
+RX-78NT1 Alex was the most impressive mobile suit of its day, and would 
+remain so until the Gundam Development Project was completed.  It was a 
+testament to the tactical cunning and determination of Bernard Wiseman, the 
+last surviving member of the Cyclops Team, that a Zaku II was able to 
+severely damage the Alex while it was being tested by pilot Christina 
+Mackenzie.  Wiseman lost his life in the attempt, but averted the need to use 
+a nuclear weapon to destroy the Alex and the colony it was being tested in.  
+Many of the developments introduced in the Alex were never seen for another 3 
+years.  The RX-78NT1 Alex appears in Kidou Senshi Gundam 0080: War in the 
+Pocket.
+
+Special Note: Yes, the Alex has lower mobility than the original RX-78 
+Gundam.  I'm not sure why that is (the Alex should have higher mobility), but 
+the Alex is still a better mobile suit because of the 90mm Gatling Gun.  
+Possibly the most useful weapon in the game until the RX-78GP series is 
+unlocked.
+
+   **********************
+    Part E: RGM-79 Types
+   **********************
+
+RGM-79 "GM"
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 250, +62
+Aptitude: A/A/B/D
+Size: L
+Cost: 1500, 375, 1500
+
+Weapons:
+Beam Spray Gun (Right Hand)
+AP: 35x1
+Range: 26-55, ML
+Hit: 70  Ammo: 30
+
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 26-55, ML
+Hit: 65  Ammo: 30
+
+Hyper Bazooka (Right Hand)
+AP: 62x1
+Range: 26-65, ML
+Hit: 40  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 65  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, SM
+Hit: 30  Ammo: 30
+
+Comments: The RGM series of mecha are mass produced copies of the RX-78 
+Gundam.  The original RGM-79 was in fact developed from the data that was 
+collected during Amuro's piloting of the original Gundam.  Although nowhere 
+as powerful as its predecessor (especially lacking is the strong lunar 
+titanium; the RGM-79 is armored with conventional titanium alloys), the RGM-
+79 has several advantages, especially in armament, over the standard Zeon MS-
+06F Zaku II.  However, the prime engagement range of the RGM-79 is much 
+narrower than that of the Zaku II - it is usually best to engage targets 
+between 26 and 36 units of distance.  (That is, farther than the minimum 
+distance of the Beam Spray Gun but within medium engagement range.)  The Beam 
+Saber does more damage than a Heat Hawk, but is less accurate and uses more 
+energy.  Later developments of the RGM-79 would prove to be much more useful.  
+The RGM-79 GM first appeared in Kidou Senshi Gundam.
+
+RGM-79 (G) "Rikusen GM" [GM Ground Combat Version]
+Physical Strength: 300, +75
+Armor Value: 27, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 250, +62
+Aptitude: D/A/B/C
+Size: L
+Cost: 2000, 500, 2000
+
+Weapons:
+100mm Machinegun (Right Hand)
+AP: 12x3
+Range: 17-55, ML
+Hit: 50  Ammo: 30
+
+Bazooka (Right Hand)
+AP: 50x1
+Range: 17-65, ML
+Hit: 40  Ammo: 20
+
+Missile Launcher (Right Hand)
+AP: 40x1
+Range: 17-60, ML
+Hit: 65  Ammo: 25
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-16, S
+Hit: 70  Energy: 25
+
+Comments: The RGM-79 (G), or Rikusen GM, was a mass produced version of the 
+RGM-79 specifically designed for Land Combat.  Unlike the original GM, which 
+is usable in almost any terrain (except underwater), the RGM-79 (G) cannot be 
+deployed in space.  Its armament is also quite altered from the earlier RGM-
+79 - there is no shield, nor is the excellent Beam Spray Gun available for 
+use on this variant.  The primary difference between the GM and Rikusen GM, 
+however, is the alloys used in its armor.  Lunar titanium was used in the 
+production of the RGM-79 (G), making it much more durable.  Consequently, 
+very few of these units were produced during the One Year War.  The RGM-79 
+(G) Rikusen GM first appeared in Kidou Senshi Gundam: 08th MS Shoutai.
+
+RX-79 (G) "Rikusen Gundam" [Gundam Ground Combat Version]
+Physical Strength: 315, +78
+Armor Value: 32, +4
+Mobility: 50, +12
+Enemy Detection Ability: 48, +4
+Generator: 300, +75
+Aptitude: D/A/B/C
+Size: L
+Cost: 2500, 625, 2500
+
+Weapons:
+Beam Rifle (Right Hand)
+AP: 40x1
+Range: 21-60, ML
+Hit: 60  Ammo: 30
+
+Bazooka (Right Hand)
+AP: 50x1
+Range: 21-65, ML
+Hit: 40  Ammo: 20
+
+100mm Machinegun (Right Hand)
+AP: 12x3
+Range: 17-55, ML
+Hit: 50  Ammo: 30
+
+Missile Launcher (Left Hand)*
+AP: 40x1
+Range: 21-60, ML
+Hit: 65  Ammo: 25
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+Multi Launcher (Fixed)
+AP: 10x1
+Range: 15-20, S
+Hit: 45  Ammo: 30
+
+Comments: Project V, the development of the RX-78 Gundam, produced a quantity 
+of spare parts that had no use once the decision to forgo mass production of 
+full RX-78's was made.  (The Federal Forces instead chose to produce the RGM-
+79.)  However, these spare parts were cobbled together to produce the RX-79 
+(G) series of Land Combat Mass Produced Gundams.  These have the identical 
+lunar titanium armor as the original, but have lower generator output and 
+most notably far lower mobility.  The armament is also slightly different 
+from the RX-78.  The only major deployment of the RX-79 (G) in the anime was 
+in Southeast Asia.  Thus, the first appearance of the RX-79 (G) Rikusen 
+Gundam was in Kidou Senshi Gundam: 08th MS Shoutai.
+
+RX-79 (G) Ez8 "Gundam Ez8" [Gundam Extra Zero 8]
+Physical Strength: 350, +87
+Armor Value: 32, +4
+Mobility: 60, +15
+Enemy Detection Ability: 50, +4
+Generator: 300, +75
+Aptitude: D/A/B/C
+Size: L
+Cost: 2700, 675, 2700
+
+Weapons:
+Beam Rifle (Right Hand)
+AP: 43x1
+Range: 26-60, ML
+Hit: 60  Ammo: 30
+
+100mm Machinegun (Right Hand)
+AP: 12x3
+Range: 26-55, ML
+Hit: 50  Ammo: 30
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+12.7mm Machinegun [12.7mm Kijuu] (Fixed)
+AP: 4x3
+Range: 0-25, S
+Hit: 40  Ammo: 30
+
+Comments: As mentioned earlier, the RX-79 (G) units were produced from spare 
+parts.  Consequently, no replacement parts were available for damaged units.  
+When Shou-i Shiro Amada severely damaged his RX-79 (G) in an encounter with 
+the new Zeon mobile armor Apsaras, field mechanics rebuilt the unit with a 
+variety of parts, giving it an entirely new look.  Upgrades to several key 
+areas were also effected during this process.  Generally speaking, this unit 
+is equal to the original RX-78 in many areas, but can only effectively be 
+used in relatively flat ground.  The RX-79 (G) Ez8 appears in Kidou Senshi 
+Gundam: 08th MS Shoutai.
+
+RGM-79G "GM Command"
+Physical Strength: 300, +75
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 45, +4
+Generator: 250, +62
+Aptitude: A/A/B/D
+Size: L
+Cost: 1600, 400, 1600
+
+Weapons:
+Beam Gun (Right Hand)
+AP: 35x1
+Range: 26-55, ML
+Hit: 50  Ammo: 30
+
+90mm Machinegun (Right Hand)
+AP: 8x4
+Range: 26-50, ML
+Hit: 60  Ammo: 40
+
+Hyper Bazooka (Right Hand)
+AP: 52x1
+Range: 26-65, ML
+Hit: 40  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, SM
+Hit: 40  Ammo: 30 
+
+Comments: While the RGM-79 GM was in many ways a success, its performance 
+still was lackluster.  Generally speaking, it was only slightly superior to 
+the aging MS-06F Zaku II, and the new generation of Zeon mobile suits 
+appearing late in the One Year War (MS-09 and MS-14 families, especially) far 
+outclassed the original GM.  The RGM-79G variant sports an improved arsenal 
+as well as some minor improvements to the mobile suit's abilities.  The cost, 
+however, was greater than the RGM-79, and for such a minor performance 
+increase.  Few units were produced, most finding their way into colony 
+defense.  The RGM-79G GM Command appears in Kidou Senshi Gundam 0080: War in 
+the Pocket.
+
+RGM-79N "GM Custom"
+Physical Strength: 300, +75
+Armor Value: 25, +4
+Mobility: 60, +15
+Enemy Detection Ability: 50, +4
+Generator: 300, +75
+Aptitude: A/A/B/D
+Size: L
+Cost: 2200, 550, 2200
+
+Weapons:
+GM Rifle (Right Hand)
+AP: 16x3
+Range: 26-60, ML
+Hit: 65  Ammo: 30
+
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 26-55, ML
+Hit: 65  Ammo: 30
+
+Bazooka (Right Hand)
+AP: 52x1
+Range: 26-65, ML
+Hit: 40  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 45  Ammo: 30
+
+Comments: The Federal Forces had, even since the inception of the RGM-79 GM, 
+been looking for a higher performance replacement.  Possibly the best 
+incarnation of the standard GM line, the RGM-79N appeared toward the latter 
+half of UC 0083.  While it lacked a Beam Rifle, the excellent GM Rifle could 
+inflict serious damage at a high rate of fire.  The mobility of the RGM-79N 
+was finally high enough to maintain a semblance of parity with Zeon mobile 
+suits like the MS-09R Rick Dom and MS-14 Gelgoog series.  However, the high 
+cost of producing these units versus a normal GM meant that most GM Customs 
+were issued to ace and veteran pilots.  Still, in the hands of such a pilot, 
+the GM Custom could acquit itself very nicely.  The RGM-79N GM Custom first 
+appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+RGM-79Q "GM Quell"
+Physical Strength: 310, +77
+Armor Value: 25, +4
+Mobility: 60, +15
+Enemy Detection Ability: 52, +4
+Generator: 250, +62
+Aptitude: A/A/B/D
+Size: L
+Cost: 2300, 575, 2300
+
+Weapons:
+GM Rifle (Right Hand)
+AP: 16x3
+Range: 26-60, ML
+Hit: 65  Ammo: 30
+
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 26-55, ML
+Hit: 65  Ammo: 30
+
+Bazooka (Right Hand)
+AP: 52x1
+Range: 26-65, ML
+Hit: 40  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 45  Ammo: 30
+
+Comments: One of the major repercussions of Operation Stardust was the 
+formation of a special fighting force to stop potential outbreaks such as the 
+Delaz Fleet.  The name of that unit was the Titans, and a special GM variant 
+was developed as a stop-gap measure until newer mobile suits could be 
+developed for the Titan's use.  The RGM-79Q GM Quell (possibly in reference 
+to the Titan's mission to quell resistance) is a minor improvement over the 
+RGM-79N GM Custom.  The RGM-79Q GM Quell appears in Kidou Senshi Gundam 0083: 
+Stardust Memories.
+
+RGM-79 (PWD) "Powered GM"
+Physical Strength: 300, +75
+Armor Value: 27, +4
+Mobility: 70, +17
+Enemy Detection Ability: 48, +4
+Generator: 225, +56
+Aptitude: D/A/B/D
+Size: LL
+Cost: 2200, 550, 2200
+
+Weapons:
+90mm Machinegun (Right Hand)
+AP: 8x4
+Range: 26-50, ML
+Hit: 60  Ammo: 40
+
+Bazooka (Right Hand)
+AP: 52x1
+Range: 26-65, ML
+Hit: 40  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 28x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+60mm Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 40  Ammo: 30
+
+Comments: The latter battles of the One Year War had shown some of the major 
+deficiencies in the original RGM-79.  Primary among these were its low 
+mobility (especially when compared to its RX-78 predecessor) and poor armor.  
+During the years between the One Year War and right before the Delaz Fleet 
+launched Operation Stardust, the Federation conducted research on upgrading 
+these characteristics of the GM, as well as developing new equipment for 
+mobile suits.  The result was the prototype "Powered GM", which was designed 
+primarily as a testbed for such equipment.  Testing on the Powered GM and the 
+GM Jetpack was being conducted at the Torrington, Australia GM Proving 
+Grounds up until the beginning of Operation Stardust.  One drawback to the 
+retrofitting and prototype nature of the Powered GM was the bulky external 
+modules used to install and test the new equipment.  The RGM-79 (PWD) Powered 
+GM first appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+RGM-79SC "GM Sniper Custom"
+Physical Strength: 290, +72
+Armor Value: 24, +4
+Mobility: 50, +12
+Enemy Detection Ability: 60, +4
+Generator: 250, +62
+Aptitude: A/B/C/D
+Size: L
+Cost: 2200, 550, 2200
+
+Weapons:
+Sniper Beam Rifle (Fixed)
+AP: 50x1
+Range: 41-75, L
+Hit: 85  Ammo: 25
+
+Hand Beam Gun (Fixed)
+AP: 20x1
+Range: 26-40, M
+Hit: 60  Energy: 15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 75  Energy: 25
+
+Comments: Even though the RGM-79 GM was designed for simple mass production, 
+it became clear that minor variations could be produced for special missions 
+while still retaining the general cockpit and piloting characteristics of the 
+original, making transitions between the various models easy for experienced 
+pilots.  Veteran and ace pilots might be allowed to pilot the RGM-79SC GM 
+Sniper Custom, instantly recognizable by the heat shield (resembling a blocky 
+set of goggles) placed over the head sensors to protect against the heat 
+discharge from the increased performance of this unit.  However, the GM 
+Sniper Custom remained rare due to its considerably higher production cost.  
+The RGM-79SC GM Sniper Custom appears in the Mobile Suit Variations (MSV) 
+collection.
+
+RGM-79SP "GM Sniper II"
+Physical Strength: 315, +78
+Armor Value: 25, +4
+Mobility: 60, +15
+Enemy Detection Ability: 70, +4
+Generator: 300, +75
+Aptitude: A/A/B/D
+Size: L
+Cost: 3000, 750, 3000
+
+Weapons:
+Sniper Beam Rifle (Fixed)
+AP: 45x1
+Range: 26-60, ML
+Hit: 85  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 70  Energy: 25
+
+Comments: Much like its predecessor, the RGM-79SC GM Sniper Custom, the GM 
+Sniper II was designed as a special issue high performance long-range attack 
+mobile suit.  The second of its line, the GM Sniper II is much improved over 
+the original, especially in its generator capacity.  However, its armaments 
+leave much to be desired - especially since this mobile suit lacks any mid-
+range high rate of fire weapon (such as the Hand Beam Gun).  Used properly, 
+this suit can be effective.  The RGM-79SP GM Sniper II appears in Kidou 
+Senshi Gundam 0080: War in the Pocket.
+
+   **********************
+    Part F: RAG-79 Types
+   **********************
+
+RAG-79 "Aqua GM"
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 45, +4
+Generator: 225, +56
+Aptitude: D/C/D/A
+Size: L
+Cost: 1350, 337, 1350
+
+Weapons:
+Missile Launcher Gun (Fixed)
+AP: 15x4
+Range: 25-55, ML
+Hit: 40  Ammo: 45
+
+Torpedo [Gyorai] (Fixed)
+AP: 50x1
+Range: 42-65, L
+Hit: 30  Ammo: 20
+
+Beam Pick (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+Comments: While the Principality of Zeon spent a great deal of time and 
+materiel in developing an array of underwater mobile suits, the Federal 
+Forces did not match their efforts.  This particular variation of the general 
+RGM-79 type is basically a GM specially armed and designed for underwater 
+combat.  Instead of beam weaponry, which historically has poor underwater 
+performance, a high rate of fire missile launcher gun was supplemented with 
+torpedoes and used to equip this unit.  A conventional beam saber was 
+replaced with a beam pick.  Generally, however, considering the intense 
+effort Zeon designers placed in underwater mobile suits, the RAG-79 Aqua GM 
+is not really able to compete with designs like that MSM-07 Z'Gok or MSM-03 
+Acguy.  The RAG-79 Aqua GM appears only in Kunio Ookawara's MS Collection 
+(aka M-MSV).
+
+RAG-79-G1 "Gundiver" [Waterproof Gundam]
+Physical Strength: 300, +75
+Armor Value: 28, +4
+Mobility: 60, +15
+Enemy Detection Ability: 50, +4
+Generator: 300, +75
+Aptitude: D/C/D/A
+Size: L
+Cost: 1800, 450, 1800
+
+Weapons:
+Altered Beam Rifle [Henkou Beam Rifle] (Fixed)
+AP: 40x1
+Range: 25-55, ML
+Hit: 60  Ammo: 30
+
+Harpoon Gun (Fixed)
+AP: 25x4
+Range: 21-38, M
+Hit: 70  Ammo: 15
+
+Torpedo [Gyorai] (Fixed)
+AP: 50x1
+Range: 30-65, ML
+Hit: 40  Ammo: 12
+
+Beam Pick (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 70  Energy: 25
+
+Comments: A worthy upgrade to the original RAG-79 Aqua GM, the RAG-79-G1 
+Gundiver (also known as the Waterproof Gundam) sports a beam rifle 
+specifically designed for underwater combat.  Instead of a missile launcher 
+gun, a high performance harpoon gun was equipped (which however has much 
+reduced range).  Also, a better torpedo was installed.  Generally, this is a 
+good underwater mobile suit capable of dealing on a equal footing with any of 
+its Zeon counterparts (except for mobile armors such as the MAM-07 Grabro or 
+customized suits like the MSM-07E).  The RAG-79-G1 Gundiver appears only in 
+Kunio Ookawara's MS Collection (aka M-MSV).
+
+--------------------------------------
+Section 5: Principality of Zeon Mecha
+--------------------------------------
+
+    The Principality of Zeon has the distinction of producing the first real 
+mobile suits, starting with the MS-05 Zaku I.  Produced by the Zeonic 
+Corporation, the mobile suit would revolutionize warfare in the Universal 
+Century alongside the other two major developments: Minvosky physics and the 
+Newtype effect.
+
+    Unlike the Federal Forces, which was able to virtually dictate new design 
+and development of mobile suits, and which operated from a single design 
+standpoint, the Principality of Zeon had several independent corporations 
+that produced mobile suits.  Their designs varied, but most had a uniform 
+'look' to them - domed heads, hovering leg thrusters or skirts, and of course 
+the single camera placed on a horizontally aligned track.  The cyclopean 
+fearsomeness of the original Zaku was probably not lost on those soldiers who 
+had to face it in combat.
+
+    Even given the panoply of Zeon mobile suits, their basic control systems 
+and operational design allows them to be categorized into several major 
+families:
+
+     MS-06 Types (designs built around the MS-05/MS-06 Zaku family)
+     MS-09 Types (designs built around the MS-09 Dom family)
+     MS-14 Types (designs built around the MS-14 Gelgoog family)
+     MS-15 Types (the MS-15 Gyan close-combat mobile suit)
+     YMS-16 Types (the prototype YMS-16M Xamel mobile artillery)
+     MS-18E Types (the prototype MS-18E Kaempfer assault mobile suit)
+     Zeon Underwater Types (special use underwater mobile suits)
+     Psycommu Types (Newtype mobile suits and armor)
+
+     While members of each family often look very different, their control 
+systems were similar.  For example, Zeon Underwater Types traditionally used 
+hydrojets for underwater maneuvers, and a pilot familiar with their use would 
+be able to carry over some experience from one model to another.
+
+     The irony is that the very strength of Zeon mobile suits were their 
+demise.  The unrivalled performance of the MS-06F Zaku II lead to a period of 
+stunted mobile suit development until the debut of the RX-78 Gundam.  The 
+excellent but specialized mobile suits of the Principality of Zeon, such as 
+the MS-18E Kaempfer, were never produced in sufficient numbers to impact the 
+war.  Even the MS-14 Gelgoog, arguably superior to the RX-78 Gundam, never 
+had a chance to make an impact on the final outcome of the war.  Too many 
+resources and too much time was spent developing niche mobile suits, and by 
+the time the new mobile suits arrived, most experienced Zeon pilots were 
+dead, having met their fate in older Zaku II's and Rick Doms.
+
+   *********************
+    Part A: MS-06 Types
+   *********************
+
+MS-05 "Zaku I"
+Physical Strength: 275, +68
+Armor Value: 15, +4
+Mobility: 40, +10
+Enemy Detection Ability: 40, +4
+Generator: 175, +43
+Aptitude: A/B/B/D
+Size: L
+Cost: 1000, 250, 1000
+
+Weapons:
+105mm Machinegun (Right Hand)
+AP: 13x3
+Range: 17-50, ML
+Hit: 45  Ammo: 35
+
+Zaku Bazooka (Right Hand)
+AP: 50x1
+Range: 17-65, ML
+Hit: 50  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-16, S
+Hit: 65  Energy: 10
+
+Shoulder Tackle (Fixed)
+AP: 18x1
+Range: 0-16, S
+Hit: 80  Energy: 5
+
+Comments: The first true mobile suit, the Zaku I is a bit outdated to fight 
+alongside mobile suits developed for the One Year War.  It bears many 
+similarities to the MS-06F Zaku II, especially in the general design of the 
+munitions.  The 105mm Machinegun, however, is capable of fairly short range 
+combat (17 units of distance is Short for most units).  There are really two 
+main problems to the Zaku I - its paper thin armor and low mobility.  (The 
+ridiculously low generator rating would be a problem, except the weapons 
+don't actually use that much energy.)  Nonetheless, a skilled pilot in a Zaku 
+I might be able to defeat newer mobile suits like the RGM-79 GM or MS-06F 
+Zaku II.  Attempting to confront a high-performance mobile suit with the Zaku 
+I is a good object lesson in the importance of mobility to mobile suit 
+warfare.  The MS-05 Zaku I first appears in Kidou Senshi Gundam.
+
+MS-06F "Zaku II"
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: A/B/C/D
+Size: L
+Cost: 1500, 375, 1500
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 21-55, ML
+Hit: 48  Ammo: 50
+
+Zaku Bazooka (Right Hand)
+AP: 50x1
+Range: 21-65, ML
+Hit: 55  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-20, S
+Hit: 70  Energy: 10
+
+Comments: The robust MS-06F Zaku II and its many variants served the 
+Principality of Zeon well beyond the One Year War.  The basic armaments (a 
+ranged rapid fire tank-caliber machine gun or bazooka, coupled with a short 
+range beam or heat weapon) would define mobile suit weaponry for years to 
+come.  Although the Zaku II was clearly incapable of handling the newer 
+Federation mobile suits, in experienced hands it is more than capable of 
+defeating a RGM-79 GM.  The main difference between the GM and Zaku II is the 
+prime engagement range.  The Zaku II has a larger range to work with its 
+120mm Machinegun or Zaku Bazooka, and a skilled pilot can 'hang' inside of 
+the range of Federation ranged weapons (Beam Spray Gun) but outside of true 
+melee range (Heat Hawk, Beam Saber).  In this case, the 120mm Machinegun can 
+provide superior firepower when compared to the 60mm Vulcans that cover this 
+key 'sweet spot' for many Federal Forces GM types.  The Zaku II is also quite 
+a formidable close combat unit; although the Heat Hawk does slightly less 
+damage, it is far more accurate and takes less than half the energy of the 
+Beam Saber on a GM.  The MS-06F Zaku II first appears in Kidou Senshi Gundam.
+
+MS-06J "Zaku II Rikusen" [Zaku II Ground Combat Version]
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: D/A/B/C
+Size: L
+Cost: 1550, 387, 1550
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 21-55, ML
+Hit: 48  Ammo: 50
+
+Zaku Bazooka (Right Hand)
+AP: 50x1
+Range: 21-65, ML
+Hit: 55  Ammo: 20
+
+Magella Top Cannon [Magella Top Hou] (Right Hand)
+AP: 60x1
+Range: 37-70, L
+Hit: 45  Ammo: 20
+
+Missile Pod (Legs)*
+AP: 30x1
+Range: 30-50, ML
+Hit: 60  Ammo: 12
+
+Cracker (Fixed)
+AP: 6x4
+Range: 30-45, ML
+Hit: 70  Ammo: 10
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-20, S
+Hit: 70  Energy: 10
+
+Comments: It is well to remember that the Principality of Zeon is based in 
+Side 3, on the far side of the Moon.  The original MS-06F Zaku II was 
+optimized for space deployment, and therefore used a series of thrusters 
+stored in the legs for movement.  Once Zeon forces established themselves on 
+the Earth, it was clear that space-borne equipment was not needed for land-
+based Zaku II troops.  The result was the MS-06J Rikusen (or Ground Combat) 
+Zaku II.  The Rikusen Zaku II replaces the leg thrusters with a set of 
+effective Missile Pods, and also carries several Crackers - multi-studded 
+grenades.  Occasionally, the Rikusen Zaku II has been known to field the 
+turret and cannon from a Magella Attack Tank instead of a more conventional 
+Machinegun or Bazooka.  All in all, the Rikusen Zaku II proved a useful and 
+powerful version for land deployment.  The MS-06J Rikusen Zaku II first 
+appeared in Kidou Senshi Gundam: 08th MS Shoutai.
+
+MS-06R1 "Koukidou Zaku" [High Mobility Zaku]
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 70, +17
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: A/D/D/D
+Size: L
+Cost: 1700, 425, N/A
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 21-55, SML
+Hit: 50  Ammo: 50
+
+Zaku Bazooka (Right Hand)
+AP: 50x1
+Range: 21-65, ML
+Hit: 60  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-20, S
+Hit: 70  Energy: 10
+
+Comments: While the MS-06F Zaku II was a capable space mobile suit, the 
+thrusters in the legs were clearly insufficient for the kind of high-speed 
+maneuvers skilled pilots could and needed to put the mobile suit through.  
+After prototype testing, the MS-06R1 Koukidou Zaku was produced in limited 
+numbers for deployment to ace and veteran pilots.  The major difference 
+between the MS-06F and MS-06R1 is the whopping mobility increase.  Even an </pre><pre id="faqspan-2">
+average pilot in a MS-06R1 should be able to outmaneuver and defeat an RGM-
+79, possibly even a newer GM variant.  Shin Matsunaga, the 'White Wolf of 
+Solomon', piloted a famous all-white Koukidou Zaku.  The MS-06R1 Koukidou 
+Zaku appears in the Mobile Suit Variations (MSV) collection.
+
+MS-06R2 "Koukidou Zaku Kouki" [High Mobility Zaku Final]
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 80, +20
+Enemy Detection Ability: 42, +4
+Generator: 250, +62
+Aptitude: A/D/D/D
+Size: L
+Cost: 2000, 500, N/A
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 21-55, SML
+Hit: 50  Ammo: 50
+
+Giant Bazooka (Right Hand)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-20, S
+Hit: 70  Energy: 10
+
+Comments: The robust, proven nature of the Zaku design lent itself to many 
+variants and upgrades that built upon the same cockpit and piloting systems.  
+In this way, pilots with considerable experience would not have to endure a 
+long down-time of retraining and check flights in order to qualify on a brand 
+new mobile suit.  Such is the case with the MS-06R2, the final version of the 
+High Mobility Zaku produced.  Unlike other prototype and testbed versions, 
+the MS-06R2 was basically a specially souped-up mobile suit for combat aces.  
+The 360mm Giant Bazooka from the MS-09 Dom series was substituted for the 
+traditional 280mm Zaku Bazooka, but in other respects the armament is the 
+same.  A modest, but noticeable increase in mobility and generator capacity 
+was also effected.  All things considered, this was as far as the basic Zaku 
+frame could be taken.  Four units were produced, one remaining at the Zeon 
+Granada Base for further testing.  Johnny Ridden became a pilot of one of the 
+remaining three suits.  The MS-06R2 Koukidou Zaku Kouki appears in the Mobile 
+Suit Variations (MSV) collection.
+
+MS-06D "Desert Zaku"
+Physical Strength: 290, +72
+Armor Value: 22, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: D/A/A/D
+Size: L
+Cost: 1600, 400, N/A
+
+Weapons:
+120mm Machinegun (Fixed)
+AP: 15x3
+Range: 20-55, SML
+Hit: 50  Ammo: 50
+
+Missile Pod (Fixed)
+AP: 20x1
+Range: 20-40, SML
+Hit: 40  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 20x1
+Range: 0-20, S
+Hit: 70  Energy: 10
+
+Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, S
+Hit: 35  Ammo: 30
+
+Cracker Pod (Fixed)
+AP: 4x4
+Range: 26-32, M
+Hit: 70  Ammo: 10
+
+Comments: Considering the extensive area of Zeon operations, several 
+different mobile suit variants were developed for difficult terrain and 
+climate deployments.  The constant sand and high heat of tropical and desert 
+environments proved difficult, especially on mobile suit maintenance.  The 
+MS-06D Desert Zaku was specially designed for desert conditions, and 
+protected against sand and other environmental hazards.  Its armament is 
+similar, but slightly less varied, than a MS-06J Rikusen Zaku II (from which 
+it was developed).  However, the accuracy of the 120mm Machinegun is slightly 
+higher.  The MS-06D Desert Zaku appears in the Mobile Suit Variations (MSV) 
+collection.
+
+MS-06K "Zaku Cannon"
+Physical Strength: 290, +72
+Armor Value: 21, +4
+Mobility: 50, +12
+Enemy Detection Ability: 48, +4
+Generator: 225, +56
+Aptitude: D/A/A/D
+Size: L
+Cost: 1700, 425, N/A
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 15x3
+Range: 21-55, ML
+Hit: 50  Ammo: 50
+
+Big Gun (Hips)*
+AP: 20x2
+Range: 21-60, ML
+Hit: 45  Ammo: 15
+
+180mm Cannon (Fixed)
+AP: 45x1
+Range: 37-70, L
+Hit: 40  Ammo: 20
+
+Comments: Just as Zeon mobile suit design altered the plans of the Federal 
+Forces units, reports on the RX-77 Guncannon and RX-78 Gundam caused the Zeon 
+California Base to produce a mid-range fire support variant of the MS-06J, 
+the MS-06K Zaku Cannon.  In many ways, it resembles a RGC-80 GM Cannon.  
+However, the tremendous recoil from the shoulder mounted 180mm Cannon and 
+general poor performance lead to a limited production run.  Ian Greydon and 
+his unit used the MS-06K in the defense of the California Base until the end 
+of the war.  The MS-06K appears in the Mobile Suit Variations (MSV) 
+collection.
+
+MS-06V "Zaku Tank"
+Physical Strength: 260, +65
+Armor Value: 12, +4
+Mobility: 40, +10
+Enemy Detection Ability: 42, +4
+Generator: 200, +50
+Aptitude: D/A/B/D
+Size: M
+Cost: 700, 175, 700
+
+Weapons:
+Arm (Arm)
+AP: 0x0
+Range: 0
+Hit: 0  Ammo: 0
+
+Power Arm (Arm)
+AP: 20x1
+Range: 0-15, S
+Hit: 50  Energy: 15
+
+180mm Cannon (Shoulder)*
+AP: 45x1
+Range: 26-50, ML
+Hit: 45  Ammo: 20
+
+50mm Machinegun (Frame)
+AP: 4x3
+Range: 10-25, S
+Hit: 60  Ammo: 30
+
+Rocket Launcher (Frame)
+AP: 10x3
+Range: 26-40, ML
+Hit: 40  Ammo: 30
+
+Comments: Even though the Principality of Zeon had massive mobile suit 
+production capabilities and started with a superior number of units, field 
+commanders often found that full mobile suit replacements were few and far 
+between.  Cut-off or undersupplied units had to replace losses whenever and 
+however they could.  By mating the tracks and body of a Magella Attack Tank 
+with the torso and head of a MS-06F Zaku II, a last-ditch defensive unit was 
+created that proved to be extremely useful for construction and combat 
+engineering purposes.  In the front lines, however, a MS-06V Zaku Tank was 
+slow, pitifully armored, and had little in the way of armament.  Consignment 
+to a Zaku Tank in combat was, essentially, death.  Still, it was a highly 
+prized unit, for it was cheap to produce and useful in non-combat purposes.  
+The MS-06V Zaku Tank appeared in Kidou Senshi Gundam: 08th MS Shoutai.
+
+MS-21C "Dra-C"
+Physical Strength: 390, +97
+Armor Value: 15, +4
+Mobility: 70, +17
+Enemy Detection Ability: 45, +4
+Generator: 225, +56
+Aptitude: A/D/D/D
+Size: M
+Cost: 1000, 250, N/A
+
+Weapons:
+40mm Vulcan (Fixed)
+AP: 8x4
+Range: 21-50, ML
+Hit: 40  Ammo: 30
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 25
+
+Comments: The terrible losses suffered during the One Year War did not, 
+however, completely eliminate all Zeon mobile suits from the Earth Sphere.  
+Many Zeon mobile suits, intact or damage, remained hidden or in Zeon 
+possession.  (Some were turned over to the Federal Forces for study or use in 
+aggressor training.)  The Delaz Fleet, short on mobile suits and expecting 
+only space operations, cobbled together the torso and head of a Zaku with 
+large propellant tanks and boosters.  The resulting high mobility space 
+attack suit was armed modestly with a 40mm Vulcan cannon and a Beam Saber.  
+Still, it could provide surprising support for space operations, and at the 
+very least could screen for operations by real mobile suits.  The MS-21C Dra-
+C appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+MS-06S "Dozle Sen'you Zaku II" [Dozle Personal Use Zaku II/Zaku II Commander]
+Physical Strength: 350, +87
+Armor Value: 30, +4
+Mobility: 60, +15
+Enemy Detection Ability: 50, +4
+Generator: 250, +62
+Aptitude: A/B/C/D
+Size: LL
+Cost: 5000, 1250, 5000
+
+Weapons:
+120mm Machinegun (Right Hand)
+AP: 18x3
+Range: 21-55, ML
+Hit: 48  Ammo: 50
+
+Zaku Bazooka (Right Hand)
+AP: 50x1
+Range: 21-65, ML
+Hit: 55  Ammo: 20
+
+Heat Hawk (Fixed)
+AP: 40x1
+Range: 0-20, S
+Hit: 70  Energy: 12
+
+Comments: Chuu-shou Dozle Zabi (a member of the ruling Zabi family in the 
+Principality of Zeon) had a custom made Zaku for personal inspection tours 
+and combat.  Sporting a tremendously oversized Heat Hawk and generally being 
+a high performance mobile suit, the MS-06S (which was the general model 
+number for Zaku Commander Types) performs far above the normal expectations 
+for a Zaku.  The MS-06S appears in Kidou Senshi Gundam.
+
+   *********************
+    Part B: MS-07 Types
+   *********************
+
+MS-07 "Gouf"
+Physical Strength: 300, +75
+Armor Value: 24, +4
+Mobility: 60, +15
+Enemy Detection Ability: 45, +4
+Generator: 225, +56
+Aptitude: D/A/A/D
+Size: L
+Cost: 1750, 437, N/A
+
+Weapons:
+Heat Rod (Fixed)
+AP: 30x1
+Range: 10-36, SM
+Hit: 90  Energy: 20
+
+Gatling Shield (Left Hand)*
+AP: 18x4
+Range: 26-55, ML
+Hit: 45  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Heat Saber (Fixed)
+AP: 23x1
+Range: 0-20, S
+Hit: 80  Energy: 15
+
+85mm Cannon [85mm Cannon Hou] (Fixed)
+AP: 7x5
+Range: 10-25, S
+Hit: 60  Ammo: 30
+
+Comments: As the One Year War raged, it became clear that the MS-06F Zaku II 
+was a good mobile suit that was nonetheless hopelessly out of date.  With the 
+debut of the RX-78-2 Gundam, the quest for more powerful mobile suits took on 
+a new urgency.  The Zeonic Corporation's successor to the MS-06 Zaku family 
+was the MS-07 Gouf.  Solely designed as a land combat model, the Gouf in its 
+original configuration (a standard but not a Gatling Shield) lacked any long 
+range armament.  (Beyond 36 units of distance.)  The Gouf had a limited 
+production run, being quickly replaced by the MS-09 Dom which proved to be a 
+more highly mobile, well armed mobile suit.  The MS-07 Gouf appeared in Kidou 
+Senshi Gundam.
+
+Special Note: You can choose to take the Gatling Shield, Shield, or neither.
+
+MS-07C-3 "Gouf Shuubusou" [Gouf Heavy Arms]
+Physical Strength: 300, +75
+Armor Value: 27, +4
+Mobility: 50, +12
+Enemy Detection Ability: 48, +4
+Generator: 250, +62
+Aptitude: D/A/B/D
+Size: LL
+Cost: 1900, 475, 1900
+
+Weapons:
+Giant Bazooka (Fixed)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Energy: 20
+
+85mm Cannon [85mm Cannon Hou] (Fixed)
+AP: 7x5
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: A major deficiency in the first production runs of the MS-07 Gouf 
+was the lack of ranged armament.  While the Heat Rod and short range 85mm 
+Cannon were highly effective, experienced GM pilots could easily stay outside 
+of their range and whittle away enemy resistance with their Beam Spray Guns.  
+The MS-07C-3 Gouf Heavy Arms was an attempt to correct the deficiency.  Most 
+of the original armament was scrapped, and instead emphasis was placed adding 
+ranged capacity.  A standard Giant Bazooka from the MS-09 Dom family 
+supplemented the 85mm Cannons.  Still, this version is relatively weak, and a 
+poor choice considering that actual MS-09 Doms would have been more easily 
+available.  The MS-07C-3 Gouf appears in the Mobile Suit Variations (MSV) 
+collection.
+
+MS-07H "Gouf Flight Type"
+Physical Strength: 325, +81
+Armor Value: 25, +4
+Mobility: 60, +15
+Enemy Detection Ability: 48, +4
+Generator: 250, +62
+Aptitude: D/A/A/D
+Size: LL
+Cost: 1600, 400, N/A
+
+Weapons:
+Giant Bazooka (Both Hands)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Energy: 20
+
+Gatling Shield (Both Hands)
+AP: 18x4
+Range: 26-55, ML
+Hit: 45  Ammo: 20
+
+85mm Cannon [85mm Cannon Hou] (Fixed)
+AP: 7x5
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Heat Saber (Fixed)
+AP: 23x1
+Range: 0-20, S
+Hit: 70  Energy: 15
+
+Comments: While Gouf production en masse ceased relatively early in the 
+mobile suit's lifetime, continued experimentation and variation in the Zeon 
+tradition was still performed on the suit.  Attempts to increase the ground 
+performance of the Gouf by making it atmosphere flight capable lead to the 
+MS-07H Gouf Flight Type.  This incarnation essentially combines the benefits 
+of the C variant (Heavy Arms) with the main variant.  Pilots could choose 
+between the high damage, longer ranging Giant Bazooka or high rate-of-fire 
+Gatling Shield (which does, indeed, count as a shield).  The MS-07H Gouf 
+Flight Type appears in the Mobile Suit Variations (MSV) collection.
+
+MS-07B "M'kuve Sen'you Gouf" [M'quve Personal Use Gouf]
+Physical Strength: 300, +75
+Armor Value: 27, +4
+Mobility: 65, +16
+Enemy Detection Ability: 50, +4
+Generator: 250, +62
+Aptitude: D/A/A/D
+Size: L
+Cost: 4000, 1000, N/A
+
+Weapons:
+Heat Rod (Fixed)
+AP: 30x1
+Range: 10-35, SM
+Hit: 90  Energy: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Heat Saber (Fixed)
+AP: 23x1
+Range: 0-20, S
+Hit: 80  Energy: 15
+
+85mm Cannon [85mm Cannon Hou] (Fixed)
+AP: 7x5
+Range: 10-25, S
+Hit: 60  Ammo: 30
+
+Comments: Long part of Zeon tradition was the heavy customization of mobile 
+suits, both to fit individual niche missions and for high ranking aces.  
+M'kuve had his own personalized Gouf model, which is generally identical to 
+the early MS-07B Gouf type (which originally did not have a Gatling Shield).  
+As with most personal command types, the MS-07B M'kuve Sen'you Gouf was 
+better built and therefore had slightly increased performance.  The MS-07B 
+M'kuve Sen'you Gouf appears in Kidou Senshi Gundam.
+
+   *********************
+    Part C: MS-09 Types
+   *********************
+
+MS-09 "Dom"
+Physical Strength: 325, +81
+Armor Value: 28, +4
+Mobility: 70, +17
+Enemy Detection Ability: 48, +4
+Generator: 250, +62
+Aptitude: D/A/B/D
+Size: LL
+Cost: 1800, 450, 1800
+
+Weapons:
+Giant Bazooka (Fixed)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Ammo: 20
+
+Scattering Beam [Kakusan Beam] (Fixed)
+AP: 0x1
+Range: 0-20, S
+Hit: 90  Energy: 5
+
+Heat Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 75  Energy: 20
+
+Comments: While the retrofit MS-06J Rikusen Zaku II was adequate for 
+Earthside combat duty, the Principality of Zeon was really looking for a new, 
+higher performance dedicated land combat suit.  Shortly after the 
+introduction of the MS-07 Gouf, the MS-09 Dom made its own debut.  It 
+followed much more traditional lines in terms of armament and configuration, 
+which endeared it to existing Zaku pilots.  Still, the lack of a high rate of 
+fire medium range weapon (equivalent to the 120mm Zaku Machinegun) made the 
+Dom more effective in the hands of aces such as the infamous Kuroi Sanrensei 
+(Black Trinary) of Gaia, Ortega, and Mash.  The MS-09 and its variants were a 
+tremendous success, and many units were produced to replace Zakus of all 
+types - beating out the MS-07 Gouf in the process.  The MS-09 Dom first 
+appeared in Kidou Senshi Gundam.
+
+Special Note: The Scattering Beam, if it successfully hits, has a very high 
+chance of completely freezing all functions of the target for a short time.
+
+MS-09F/TROP "Dom Tropen"
+Physical Strength: 350, +87
+Armor Value: 30, +4
+Mobility: 80, +20
+Enemy Detection Ability: 50, +4
+Generator: 275, +68
+Aptitude: D/A/A/D
+Size: LL
+Cost: 2300, 575, N/A
+
+Weapons:
+Raketen Bazooka (Fixed)
+AP: 55x1
+Range: 26-60, ML
+Hit: 55  Ammo: 25
+
+Sturm Faust (Fixed)
+AP: 65x1
+Range: 30-38, M
+Hit: 20  Ammo: 8
+
+Heat Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 80  Energy: 20
+
+Comments: MS-09 Dom units stationed Earthside found that tropical and desert 
+conditions adversely affected the performance of their mobile suit - a 
+problem, since one of the primarily advantages of the Dom was its high 
+maneuverability.  Just as with the MS-06D Desert Zaku, a variant was created 
+with shielding against sand and heat as well as other minor weatherproofing 
+changes.  The resultant MS-09F/TROP Dom Tropen (from the German for tropical) 
+was an excellent desert fighting mobile suit.  The normal 360mm Giant Bazooka 
+was substituted with a 880mm raketen (German for rocket) bazooka, and this 
+version also sports the optional Sturm Faust (essentially, a handheld linear 
+bazooka).  In general, the MS-09F is superior to the original.  The MS-
+09F/TROP Dom Tropen appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+MS-09G "Dowadge"
+Physical Strength: 355, +88
+Armor Value: 28, +4
+Mobility: 80, +20
+Enemy Detection Ability: 54, +4
+Generator: 300, +75
+Aptitude: D/A/A/D
+Size: LL
+Cost: 2500, 625, 2500
+
+Weapons:
+Giant Bazooka (Fixed)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Ammo: 20
+
+30mm Vulcan (Fixed)
+AP: 4x3
+Range: 10-25, S
+Hit: 45  Energy: 30
+
+Heat Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 75  Energy: 20
+
+Comments: Even after the One Year War ended, development and improvements to 
+the venerable MS-09 Dom continued.  The addition of 30mm Vulcans to the head 
+and general improvements to the unit marked the MS-09G Dowadge, which was 
+otherwise very similar to its Dom predecessors.  Dowadges would serve in a 
+variety of military and para-military outfits up to and beyond the Grypps 
+War, a testament to the soundness of the original design.  The MS-09G 
+appeared in Kidou Senshi Z Gundam and Kidou Senshi Gundam ZZ, but 
+historically was produced before UC 0083 (making it fit the time period of 
+this game).
+
+MS-09R "Rick Dom"
+Physical Strength: 350, +87
+Armor Value: 28, +4
+Mobility: 70, +17
+Enemy Detection Ability: 48, +4
+Generator: 250, +62
+Aptitude: A/D/D/D
+Size: LL
+Cost: 2200, 550, 2200
+
+Weapons:
+Giant Bazooka (Fixed)
+AP: 60x1
+Range: 26-65, ML
+Hit: 50  Ammo: 20
+
+Scattering Beam [Kakusan Beam] (Fixed)
+AP: 0x1
+Range: 0-20, S
+Hit: 90  Energy: 5
+
+Heat Saber (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 75  Energy: 20
+
+Comments: Unlike many Zeon mobile suits, the MS-09 Dom started its life as a 
+ground-based mobile suit.  Its impressive performance and proven ability made 
+it an attractive immediate replacement to the aging MS-06F Zaku II, and a 
+space variant was constructed.  The MS-09R Rick Dom was virtually identical 
+to the ground based MS-09, save for variant minor changes made to make it 
+spaceworthy.  During the end of the One Year War, Rick Doms formed the bulk 
+of front-line space mobile suits (along with whatever MS-06F Zaku II units 
+still remained).
+
+Special Note: The Scattering Beam, if it successfully hits, has a very high 
+chance of completely freezing all functions of the target for a short time.
+
+   *********************
+    Part D: MS-14 Types
+   *********************
+
+MS-14A "Gelgoog"
+Physical Strength: 355, +88
+Armor Value: 27, +4
+Mobility: 70, +17
+Enemy Detection Ability: 54, +4
+Generator: 300, +75
+Aptitude: A/B/B/D
+Size: L
+Cost: 3000, 750, 3000
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 40x1
+Range: 21-60, ML
+Hit: 60  Ammo: 30
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Sword (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 25
+
+Comments: Even without prompting from the Federal Forces, the Principality of 
+Zeon was well on its way to developing a high performance replacement for the 
+MS-06F Zaku II.  This project, the MS-11 Gelgoog, was suddenly cancelled and 
+its specifications recast when reports of the alarming efficiency of the RX-
+78-2 Gundam started surfacing.  The Federal Forces' success with E-Cap based 
+portable beam weaponry forced the Principality of Zeon to counter with their 
+own E-Cap carrying designs.  While the MS-09 Dom filled the temporary need 
+for improved mobile suits, the now MS-14A Gelgoog was the suit they were 
+looking for.  Arguably better than (or at least equal to) the RX-78 Gundam, 
+the mass produced Gelgoog would have clearly trounced their RGM-79 opponents 
+- if they hadn't arrived so late in the war and in insufficient numbers.  
+Many unassembled Gelgoogs would survive to be finished and used by Zeon 
+remnants, and a large quantity were seized by the Federal Forces for reverse 
+engineering, training, and aggressor squadrons.  The Gelgoog has all the 
+necessary weapons and systems for a good mobile suit, even if the original 
+shield was a bit unwieldy.  The MS-14A Gelgoog first appeared in Kidou Senshi 
+Gundam.
+
+MS-14B "Koukidou Gelgoog" [High Mobility Gelgoog)]
+Physical Strength: 355, +88
+Armor Value: 27, +4
+Mobility: 80, +20
+Enemy Detection Ability: 54, +4
+Generator: 300, +75
+Aptitude: A/D/D/D
+Size: L
+Cost: 3500, 875, 3500
+
+Weapons:
+Rocket Launcher (Fixed)
+AP: 50x1
+Range: 21-60, ML
+Hit: 50  Ammo: 30
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Sword (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 25
+
+Comments: Unable to leave any of their designs alone, even before the MS-14A 
+mass produced version of the Gelgoog was complete, a variant based on the 
+prototype YMS-14S was being developed.  Though solely a space combat mobile 
+suit (which had become the focus of operations following the Federal Forces' 
+successful execution of Operation Odessa and the start of Operation Star 
+One), the MS-14B Koukidou or High Mobility Gelgoog boasted increased 
+performance versus a standard Gelgoog.  Sadly, the highly efficient beam 
+rifle has been replaced in this version with a Rocket Launcher.  Otherwise, 
+this is an excellent space mobile suit.  Zeon ace Johnny Ridden was one of 
+several MS-14B pilots.  The MS-14B Koukidou Gelgoog appears in the Mobile 
+Suit Variations (MSV) collection.
+
+MS-14F "Gelgoog M" [Gelgoog Marine]
+Physical Strength: 400, +100
+Armor Value: 28, +4
+Mobility: 80, +20
+Enemy Detection Ability: 58, +4
+Generator: 300, +75
+Aptitude: A/A/B/D
+Size: L
+Cost: 3600, 900, 3600
+
+Weapons:
+Beam Rifle (Right Hand)
+AP: 50x1
+Range: 21-60, ML
+Hit: 65  Ammo: 30
+
+90mm Machinegun (Right Hand)
+AP: 12x3
+Range: 21-55, ML
+Hit: 60  Ammo: 50
+
+Spike Shield (Right Hand)
+AP: 18x1
+Range: 0-15, S
+Hit: 70  Energy: 5
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 28
+
+Comments: Arguably the most popular mass produced variant of the Gelgoog, the 
+MS-14F Gelgoog Marine is a highly mobile, strong mobile suit.  Some versions 
+carried a 90mm Machinegun (suitable for the assault purposes intended) 
+instead of a high powered beam rifle.  Also, a modified Zaku shoulder shield 
+with spikes could be used as a close-combat weapon.  Instead of the 
+distinctive twin Beam Swords used by the standard Gelgoog, the Gelgoog Marine 
+carried a more conventional pair of Beam Sabers (like the Federation 
+versions).  This excellent mobile suit would serve in many units and many 
+theaters far beyond the One Year War.  The MS-14F Gelgoog Marine first 
+appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+MS-14C "Gelgoog Cannon"
+Physical Strength: 355, +88
+Armor Value: 27, +4
+Mobility: 70, +17
+Enemy Detection Ability: 60, +4
+Generator: 300, +75
+Aptitude: A/B/B/D
+Size: L
+Cost: 2500, 625, 2500
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 40x1
+Range: 21-60, ML
+Hit: 60  Ammo: 30
+
+Beam Cannon (Fixed)
+AP: 55x1
+Range: 21-65, ML
+Hit: 50  Energy: 30
+
+Missile Pod (Left Hand)*
+AP: 20x1
+Range: 30-40, M
+Hit: 40  Ammo: 15
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Sword (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 25
+
+Comments: Combining the MS-014 Gelgoog with a high powered single beam 
+cannon, the MS-014C Gelgoog Cannon was envisioned as a fire support platform 
+with strong anti-ship capabilities (due to its high mobility and strong 
+firepower).  In general, the MS-014C performs in a similar fashion to the 
+standard Gelgoog, but the ability to carry and utilize additional armament 
+gives this version increased lethality that comes at the cost of some 
+structural protection.  Also, heavy use of the Beam Cannon (linked to the on-
+board reactor) can severely drain the power supply of the mobile suit.  The 
+MS-014C Gelgoog Cannon appears in the Mobile Suit Variations (MSV) 
+collection.
+
+Special Note: You can choose to take the Missile Pod, Shield, or neither.
+
+MS-14JG "Gelgoog J" [Gelgoog Jaeger]
+Physical Strength: 360, +90
+Armor Value: 27, +4
+Mobility: 80, +20
+Enemy Detection Ability: 72, +4
+Generator: 300, +75
+Aptitude: A/B/B/D
+Size: L
+Cost: 4250, 1062, 4250
+
+Weapons:
+Beam Machinegun (Fixed)
+AP: 20x4
+Range: 21-70, ML
+Hit: 75  Ammo: 20
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Sword (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 80  Energy: 25
+
+Comments: The MS-14JG Gelgoog Jaeger (from the German word for rifleman, 
+hunter, or sniper) was a mobile suit far beyond its time, and would hint at 
+the direction of units such as the AGX-04 Gerbera Tetra.  Tremendous 
+detection range coupled with excellent mobility allow the Jaeger to select 
+the engagement range for its advanced Beam Machinegun.  In the hands of an 
+accurate pilot, the Beam Machinegun can double the damage inflicted on most 
+targets.  Sadly, few of these advanced mobile suits were produced, and they 
+saw little combat during the One Year War.  The MS-14JG Gelgoog Jaeger 
+appeared in Kidou Senshi Gundam 0080: War in the Pocket.
+
+   *********************
+    Part E: MS-15 Types
+   *********************
+
+MS-15 "Gyan"
+Physical Strength: 355, +88
+Armor Value: 27, +4
+Mobility: 60, +15
+Enemy Detection Ability: 54, +4
+Generator: 300, +75
+Aptitude: A/B/B/D
+Size: L
+Cost: 3000, 750, 3000
+
+Weapons:
+Beam Saber (Fixed)
+AP: 30x1
+Range: 0-25, S
+Hit: 85  Energy: 30
+
+Shield Missile (Fixed)
+AP: 10x4
+Range: 26-55, ML
+Hit: 60  Ammo: 30
+
+Comments: Designed as a next generation close-combat space mobile suit, the 
+MS-15 Gyan held some promise even with the lack of reliable medium or long 
+ranged weapons.  The fact that it had no beam rifle or gun is somewhat 
+unattractive (considering the demonstrated high effectiveness of the RX-78-2 
+Gundam's Beam Rifle), but since close combat was its primary function, the 
+powerful Beam Saber should have sufficed.  M'kuve served as a test pilot for 
+the early Gyan prototypes, and he and his Gyan perished in a battle in the 
+abandoned New Texas colony against the RX-78 Gundam.  The MS-15 Gyan appeared 
+in Kidou Senshi Gundam.
+
+   **********************
+    Part F: YMS-16 Types
+   **********************
+
+YMS-16M "Xamel"
+Physical Strength: 350, +87
+Armor Value: 33, +4
+Mobility: 70, +17
+Enemy Detection Ability: 80, +4
+Generator: 300, +75
+Aptitude: D/A/A/D
+Size: XL
+Cost: 1900, 475, N/A
+
+Weapons:
+680mm Cannon (Fixed)
+AP: 70x1
+Range: 61-90, L
+Hit: 35  Ammo: 15
+
+Missile Launcher (Fixed)
+AP: 10x6
+Range: 26-60, M
+Hit: 50  Ammo: 30
+
+20mm Vulcan (Fixed)
+AP: 3x4
+Range: 10-25, S
+Hit: 45  Ammo: 30
+
+Comments: The Principality of Zeon was always committed to innovative mobile 
+suit design for every possible combat purpose, and the prototype YMS-16M 
+Xamel reflects that design theory.  Solely a long-range mobile artillery 
+unit, the Xamel is an excellent fire support platform with suprisingly high 
+mobility for such a large unit.  Piloted by a crew of 2, the Xamel is however 
+quite helpless in close-range combat - the 20mm Vulcans are no match for a 
+determined attacker with a Beam Saber or Heat Hawk.  Few of these units were 
+produced, but one was used in support of the early stages of Operation 
+Stardust.  The YMS-16M Xamel appears in Kidou Senshi Gundam 0083: Stardust 
+Memories.
+
+   **********************
+    Part G: MS-18E Types
+   **********************
+
+MS-18E "Kaempfer"
+Physical Strength: 360, +90
+Armor Value: 33, +4
+Mobility: 80, +20
+Enemy Detection Ability: 58, +4
+Generator: 350, +87
+Aptitude: A/A/B/D
+Size: L
+Cost: 3500, 875, 3500
+
+Weapons:
+Shotgun (Fixed)
+AP: 12x4
+Range: 21-40, M
+Hit: 90  Ammo: 30
+
+Giant Bazooka (Fixed)
+AP: 60x1
+Range: 25-65, ML
+Hit: 50  Ammo: 20
+
+Panzer Faust (Fixed)
+AP: 75x1
+Range: 30-40, M
+Hit: 30  Ammo: 2
+
+Chain Mine (Fixed)
+AP: 12x4
+Range: 10-20, S
+Hit: 80  Ammo: 1
+
+60mm Chaingun [60mm Kikanhou] (Fixed)
+AP: 6x3
+Range: 10-20, SM
+Hit: 40  Ammo: 30
+
+Beam Saber (Fixed)
+AP: 28x1
+Range: 0-20, S
+Hit: 80  Energy: 28
+
+Comments: The MS-18E Kaempfer was a prototype mobile suit designed for heavy 
+assaults.  In this respect, it was a resounding success.  Carrying an 
+extremely varied arsenal, it's capable of engaging enemies at a wide variety 
+of ranges.  Further, it has excellent mobility and armor, as well as very 
+good detection ability.  Unfortunately, the Kaempfer was unable to overcome 
+the RX-78NT1 'Alex' and its pilot, Mikhail Kaminsky, was killed in action.  
+The MS-18E Kaempfer first appeared in Kidou Senshi Gundam 0080: War in the 
+Pocket.
+
+   *******************************
+    Part H: Zeon Underwater Types
+   *******************************
+
+MS-06M "Zaku Marine Type"
+Physical Strength: 290, +72
+Armor Value: 20, +4
+Mobility: 40, +10
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: D/C/D/A
+Size: L
+Cost: 1400, 350, 1400
+
+Weapons:
+Subroc Gun (Fixed)
+AP: 16x4
+Range: 21-55, ML
+Hit: 45  Ammo: 20
+
+240mm Rocket Pod (Fixed)
+AP: 20x1
+Range: 21-60, ML
+Hit: 30  Ammo: 20
+
+Comments: It quickly became clear to Zeon Earthside forces that the ability 
+to conduct effective underwater operations with mobile suits was necessary.  
+(The Federal Forces could rely on a regular blue-water navy, but the Zeon 
+forces had little in the way of naval power save a few submarine squadrons.)  
+A quick retrofit of the MS-06F Zaku II was attempted, with waterproofing 
+seals on the joints.  The main weapon was the Submarine Rocket (or Subroc) 
+Gun, supplemented with rocket pods.  The performance of the suit was subpar, 
+however, as the joints tended to leak and the mobility was highly 
+compromised.  Less than 10 units were produced.  The MS-06M Zaku Marine Type 
+appears in the Mobile Suit Variations (MSV) collection.
+
+MSM-03 "Gogg"
+Physical Strength: 310, +77
+Armor Value: 30, +4
+Mobility: 40, +10
+Enemy Detection Ability: 50, +4
+Generator: 250, +62
+Aptitude: D/B/D/A
+Size: LL
+Cost: 2000, 500, 2000
+
+Weapons:
+Mega Particle Cannon [Mega Ryuushi Hou] (Fixed)
+AP: 40x1
+Range: 21-50, ML
+Hit: 50  Energy: 20
+
+Missile Launcher (Fixed)
+AP: 20x2
+Range: 30-50, ML
+Hit: 50  Ammo: 15
+
+Claw (Fixed)
+AP: 30x1
+Range: 0-20, S
+Hit: 70  Energy: 5
+
+Comments: While the MS-06M (also known as the MSM-01) Zaku Marine Type was 
+the 'first' underwater mobile suit, its performance left much to be desired.  
+Rather than let the Zeonic Company refine their suit, the Zimmad Company 
+countered with the first successful underwater mobile suit - the MSM-03 Gogg.  
+While its mobility was just as pitiful as its Zaku predecessor, the Gogg was 
+more heavily armed and armored - vital for underwater operations at any 
+significant depth.  The mega particle cannon mounted on the main body gave it 
+incredible punch, backed up by twin missile launchers.  While still not a 
+challenge for real mobile suits on land, in the water it could cause 
+considerable havoc and certainly would have been a menace to regular blue-
+water navies.  The MSM-03 Gogg first appeared in Kidou Senshi Gundam.
+
+MSM-03C "Hygogg"
+Physical Strength: 325, +81
+Armor Value: 33, +4
+Mobility: 50, +12
+Enemy Detection Ability: 55, +4
+Generator: 300, +75
+Aptitude: D/B/D/A
+Size: LL
+Cost: 2500, 625, 2500
+
+Weapons:
+Beam Cannon (Fixed)
+AP: 40x1
+Range: 21-55, ML
+Hit: 70  Energy: 25
+
+Hand Missile Unit (Fixed)
+AP: 30x4
+Range: 51-65, L
+Hit: 50  Ammo: 1
+
+Torpedo [Gyorai] (Fixed)
+AP: 16x4
+Range: 30-50, ML
+Hit: 50  Ammo: 15
+
+Claw (Fixed)
+AP: 28x1
+Range: 0-20, S
+Hit: 80  Energy: 5
+
+Comments: While the MSM-03 Gogg was a step in the right direction, its 
+performance still left much to be desired.  Attempts to rectify some of the 
+problems led to the MSM-03C Hygogg.  The mega particle cannon in the body was 
+moved to the arms, and additional armaments were added - including a 
+distinctive one-shot hand missile unit that could nevertheless deliver a 
+potentially devastating barrage.  Armor and mobility were both improved 
+(impressive, if one considers the antithetical nature of those elements).  
+All in all, the MSM-03C Hygogg was a fairly strong mobile suit, especially in 
+the water.  However, like many Zeon mobile suits, few were ever produced.  
+The MSM-03C Hygogg appeared in Kidou Senshi Gundam 0080: War in the Pocket.
+
+MSM-04 "Acguy"
+Physical Strength: 290, +72
+Armor Value: 22, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 200, +50
+Aptitude: D/C/D/A
+Size: L
+Cost: 1300, 325, 1300
+
+Weapons:
+Hand Vulcan (Fixed)
+AP: 12x3
+Range: 21-55, ML
+Hit: 48  Ammo: 30
+
+Rocket Pod (Fixed)
+AP: 30x1
+Range: 31-60, ML
+Hit: 45  Ammo: 20
+
+Claw (Fixed)
+AP: 25x1
+Range: 0-20, S
+Hit: 65  Energy: 5
+
+Comments: Unwilling to accept the failure of their MS-06M Zaku Marine Type, 
+the Zeonic Company used several basic sections from their MS-06F Zaku II to 
+construct an all new undewater mobile suit.  This was the MSM-04 Acguy.  
+Though the Acguy lacks the impressive mega particle cannons of the Gogg, it 
+has a considerable amount of more conventional weaponry, like the Rocket Pods 
+in the arms and Hand Vulcans.  Unlike the versions usually seen, this Acguy 
+has all of the different types of hand-based armaments available on this 
+unit.  Still, like most Zeon underwater mobile suits (the MSM-07 series being 
+the major exception), it has poor mobility and horrific land performance.  
+The Acguy is also very lightly armored compared to the Gogg, and under-
+armored when compared to the Z'Gok.  The MSM-04 Acguy first appeared in Kidou 
+Senshi Gundam.
+
+MSM-04G "Juagg"
+Physical Strength: 290, +72
+Armor Value: 16, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 200, +50
+Aptitude: D/A/C/B
+Size: LL
+Cost: 1300, 325, 1300
+
+Weapons:
+320mm Rocket Launcher (Fixed)
+AP: 20x3
+Range: 21-60, ML
+Hit: 45  Ammo: 20
+
+Arm (Right Hand)
+AP: 20x1
+Range: 0-20, S
+Hit: 60  Energy: 5
+
+320mm Rocket Launcher (Right Hand)
+AP: 20x3
+Range: 21-60, ML
+Hit: 45  Ammo: 20
+
+Comments: One of several prototype mobile suits designed for the planned 
+attack on the Federation Jaburo headquarters, the MSM-04G Juagg was based on 
+the MSM-04 Acguy design.  However, its hands were to be 320mm Rocket 
+Launchers, in view of its intended fire support role for the attacking 
+underwater mobile suits.  While the rockets could be exchanged for regular 
+arms, in general this would have been a niche mobile suit with poor combat 
+performance, had it seen duty.  Char Aznable's discovery of the entrance to 
+the Jaburo base, however, thankfully spare the Juagg from ever being 
+deployed.  The MSM-04G Juagg only appears in the MS-X collection.
+
+MSM-04N "Agguguy"
+Physical Strength: 300, +75
+Armor Value: 21, +4
+Mobility: 40, +10
+Enemy Detection Ability: 48, +4
+Generator: 200, +50
+Aptitude: D/A/C/B
+Size: L
+Cost: 1400, 350, 1400
+
+Weapons:
+Heat Rod (Both Hands)
+AP: 20x2
+Range: 0-40, SML
+Hit: 70  Energy: 30
+
+Claw (Both Hands)
+AP: 30x1
+Range: 0-20, S
+Hit: 70  Energy: 5
+
+Vulcan (Fixed)
+AP: 6x3
+Range: 10-25, SM
+Hit: 35  Ammo: 30
+
+Comments: A marriage of some of the arguably most ugly designs and weapons in 
+the Zeon inventory, the MSM-04N Agguguy was the close-range counterpart to 
+the MSM-04G Juagg.  The base design called for a series of Heat Rods (taken 
+from the Zeonic Company's Gouf) to be installed in the hands, which could be 
+exchanged for more conventional claw hands if needed.  Like the Juagg, this 
+design was based on the questionable MSM-04 Acguy, and would have probably 
+been an embarassment in combat.  Like many of the other mid-war Zeonic 
+Company designs, the MSM-04N had a thankfully brief time-span, never being 
+produced due to the rushed attack on Jaburo.  The MSM-04N Agguguy appears in 
+the MS-X collection.
+
+EMS-05 "Agg"
+Physical Strength: 245, +61
+Armor Value: 15, +4
+Mobility: 50, +12
+Enemy Detection Ability: 42, +4
+Generator: 225, +56
+Aptitude: D/A/B/D
+Size: M
+Cost: 700, 175, 700
+
+Weapons:
+Drill (Fixed)
+AP: 40x1
+Range: 0-10, S
+Hit: 60  Energy: 30
+
+Missile Launcher (Fixed)
+AP: 20x2
+Range: 33-50, L
+Hit: 40  Ammo: 15
+
+Missile Pod (Fixed)
+AP: 30x1
+Range: 21-32, M
+Hit: 45  Ammo: 15
+
+Laser Torch (Fixed)
+AP: 15x1
+Range: 10-20, S
+Hit: 70  Energy: 10
+
+Comments: In preparation for a strike against the underground Federal Forces 
+headquarters of Jaburo, Zeon's California Base developed a wide variety of 
+special purpose mobile suits for the assault.  The EMS-05 Agg was equipped 
+with a drill and laser torch in order to cut through the expected obstacles 
+and other combat engineering functions normal required when breaching 
+prepared defensive positions.  As Char Aznable eventually discovered the 
+secret entrance to Jaburo, the need for the Agg and other suits like it was 
+obviated, and the EMS-05 was relegated to the scrap pile.  The EMS-05 Agg 
+appears in the Mobile Suit Variations (MSV) collection.
+
+MSM-07 "Z'Gok"
+Physical Strength: 350, +87
+Armor Value: 28, +4
+Mobility: 60, +15
+Enemy Detection Ability: 48, +4
+Generator: 275, +68
+Aptitude: D/B/D/A
+Size: L
+Cost: 2500, 625, 2500
+
+Weapons:
+Mega Particle Cannon [Mega Ryuushi Hou] (Fixed)
+AP: 35x1
+Range: 21-50, ML
+Hit: 60  Energy: 25
+
+240mm Rocket Launcher (Fixed)
+AP: 18x4
+Range: 30-50, ML
+Hit: 50  Ammo: 10
+
+Claw (Fixed)
+AP: 30x1
+Range: 0-20, S
+Hit: 75  Energy: 5
+
+Comments: One of the more dangerous Zeon underwater mobile suit designs, the 
+MSM-07 Z'Gok produced by the MIP Company built upon the successes (and 
+failures) of the earlier MSM-03 Gogg and MSM-04 Acguy.  Hand-mounted Mega 
+Particle Cannons were supplemented with high capacity 240mm Rocket Launchers 
+- capable of dealing considerable damage if the entire barrage finds it mark.  
+Unlike many other underwater mobile suits, the Z'Gok did not have bulky water 
+ballast tanks - and therefore is more mobile and smaller than many of its 
+compatriots.  It also has fairly decent ground performance, making it the 
+amphibious assault suit of choice.  The MSM-07 Z'Gok first appeared in Kidou 
+Senshi Gundam.
+
+MSM-07E "Z'Gok-E"
+Physical Strength: 355, +88
+Armor Value: 33, +4
+Mobility: 70, +17
+Enemy Detection Ability: 54, +4
+Generator: 300, +75
+Aptitude: D/A/B/A
+Size: LL
+Cost: 3000, 750, 3000
+
+Weapons:
+Beam Cannon (Fixed)
+AP: 40x1
+Range: 21-50, ML
+Hit: 60  Energy: 30
+
+240mm Rocket Launcher (Fixed)
+AP: 18x4
+Range: 30-50, ML
+Hit: 50  Ammo: 10
+
+Claw (Fixed)
+AP: 35x1
+Range: 0-20, S
+Hit: 80  Energy: 5
+
+Comments: Though designed by the less influential MIP Company, Zeon designers 
+seemed to be unable to resist the constant pressure of upgrading and 
+customizing their mobile suits.  Work on the already successful MSM-07 Z'Gok 
+lead to the MSM-07E (for experimental) Z'Gok-E.  This version boasted 
+improved performance across the board, but was slightly larger.  Its ground 
+performance also had a stunning increase - the Z'Gok-E can operate in all 
+terrains save the void of space.  Also, the weapons systems were slightly 
+upgraded.  Only a limited number of these improved Z'Goks were built, and of 
+course underwater mobile suits turned out to have very little impact on the 
+course of the war.  The MSM-07E Z'Gok-E appeared in Kidou Senshi Gundam 0080: 
+War in the Pocket.
+
+MSM-08 "Zogok"
+Physical Strength: 315, +78
+Armor Value: 28, +4
+Mobility: 70, +17
+Enemy Detection Ability: 42, +4
+Generator: 250, +62
+Aptitude: D/A/D/B
+Size: LL
+Cost: 2000, 500, 2000
+
+Weapons:
+Wide Cutter (Fixed)
+AP: 20x4
+Range: 26-40, ML
+Hit: 80  Ammo: 20
+
+Arm Punch (Fixed)
+AP: 25x1
+Range: 0-25, S
+Hit: 80  Energy: 5
+
+Commentary: The MSM-08 Zogok was another special use mobile suit designed by 
+the Zeon California Base for use in the assault against Federal Forces 
+headquarters in Jaburo.  Much like the EMS-05 Agg, the Zogok was designed to 
+aid in the clearance and breaching of combat engineering emplacements.  So 
+too, when the secret entrance to Jaburo was found, the need for the Zogok 
+disappeared.  The MSM-08 Zogok appears in the MS-X collection.
+
+MSM-10 "Zock"
+Physical Strength: 430, +107
+Armor Value: 33, +4
+Mobility: 40, +10
+Enemy Detection Ability: 64, +4
+Generator: 350, +87
+Aptitude: D/B/D/A
+Size: XL
+Cost: 3500, 875, 3500
+
+Weapons:
+Photon Maser Cannon [Photon Maser Hou] (Fixed)
+AP: 30x1
+Range: 16-40, ML
+Hit: 50  Energy: 30
+
+Mega Particle Cannon [Mega Ryuushi Hou] (Fixed)
+AP: 30x4
+Range: 25-50, ML
+Hit: 30  Energy: 40
+
+Claw
+AP: 25x1
+Range: 0-15, S
+Hit: 60  Energy: 5
+
+Comments: The MSM-10 Zock represented a shift away from the traditional 
+underwater suit towards what might best be described as underwater mobile 
+armor (similar to the MAM-07 Grabro).  The tremendous Zock had ridiculously 
+low mobility, even for an underwater mobile suit, but boasted strengthened 
+construction and armor equal to the protection afforded by lunar titanium.  
+The weapons on this underwater leviathan included an array of four mega 
+particle cannons mounted on the torso both fore and aft, as well as a photon 
+maser (Microwave Amplification by Stimulated Emission of Radiation) cannon on 
+the head.  The major drawback to these powerful weapons was the drain on the 
+reactor.  Only a handful of Zocks were constructed.  The MSM-10 Zock appeared 
+in Kidou Senshi Gundam.
+
+   ************************
+    Part I: Psycommu Types
+   ************************
+
+    While pilots have a slot for Psycommu Type mobile suits/mobile armors 
+piloting experience, no such suits exist in the standard MSVS game.  Most 
+likely, they are present in MSVS: Zeon Carrier.  Several probable Psycommu 
+Types do appear in the game as enemies (such as the MSN-02 Zeong and MAN-08 
+Elmeth).
+
+----------------------------------------------------
+Section 6: Special Gundam Development Project Mecha
+----------------------------------------------------
+
+    In UC 0083, the fruits of the Federal Forces Gundam Development Project 
+were beginning to bear fruit.  A series of 4 different next generation mobile 
+suits, commissioned by the Federal Forces and built by Anaheim Electronics 
+were developed at Anaheim's Von Braun City facilities.  It was the pair of 
+mobile suits delivered via the Albion to the Torrington, Australia MS Proving 
+Grounds that would be inexorably intertwined in Operation Stardust.
+
+    The units of the Gundam Development Project are extremely powerful and 
+advanced.  In order to unlock any of them, you must complete the EX missions.  
+In order to do so, you must not have lost any 'Situation' single player 
+battles.  If you have lost one, you must complete the game, and start over 
+from the beginning (though you will still retain all pilot statistics and 
+mobile suits, which makes winning a lot easier).  After completing Scenario 
+20 (Mobile Suit Gundam), the game will tell you that the information for the 
+Gundam Development Project has been loaded into your game.  You must then 
+complete EX3 (Taigi aru Tatakai), which features Shou-i Kou Uraki in the RX-
+78GP01 Zephyranthes.  In other respects, it is a duplicate of Scenario 15, 
+only with a 5:00 minute time limit.  Successful completion of EX3 unlocks the 
+Zephyrantes and the RX-78GP01-Fb Full Vernian.  Then, you must complete EX4 
+(Akumu Futatabi) against Anavel Gato - this time, he pilots the RX-78GP02a 
+Physalis with a loaded Atomic Bazooka.  Again, it is otherwise similar to 
+Scenario 17, only with a 5:00 minute time limit.  Beating EX4 unlocks the 
+Physalis, Stamen, and Gerbera Tetra.
+
+    Sadly, the results of Operation Stardust and the Federal Forces' 
+unwillingness to claim responsibility for the construction and arming of the 
+RX-78GP02a Physalis with a nuclear warhead led to the removal of all 
+materials related to the Gundam Development Project, and the 4 mobile suits 
+passed into the realm of history.
+
+RX-78GP01 "Zephyranthes"
+Physical Strength: 465, +116
+Armor Value: 33, +4
+Mobility: 70, +17
+Enemy Detection Ability: 60, +4
+Generator: 350, +87
+Aptitude: D/A/A/C
+Size: LL
+Cost: 5500, 1375, 5500
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 50x1
+Range: 26-65, ML
+Hit: 80  Ammo: 35
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 30x1
+Range: 0-25, S
+Hit: 80  Energy: 30
+
+60mm Vulcan (Fixed)
+AP: 8x3
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: The first mobile suit of its family, the RX-78GP01 Zephyranthes 
+(named after the zephyrlily) was designed as a potential mass produced 
+replacement for the current RGM-79N GM Custom.  In general, it followed the 
+design of the RX-78 Gundam, incorporating new technological advances made 
+durig the 3 years following the One Year War.  The result was an excellent 
+(if somewhat costly for a potentially mass produced unit) mobile suit.  Both 
+suit and pilot (Shou-i Kou Uraki) eventually proved strong enough to face the 
+'Nightmare of Solomon', Sho-sa Anavel Gato, and played a pivotal role in the 
+final outcome of Operation Stardust.  Eschewing multi-mission arsenals, the 
+Zephyranthes' weapon systems reflect a solid basic package: Beam Rifle for 
+mid to long range combat, Shield, Beam Saber for close combat, and 60mm 
+Vulcans as supplements.  The RX-78GP01 Zephyranthes appeared in Kidou Senshi 
+Gundam 0083: Stardust Memories.
+
+RX-78GP01-Fb "Full Vernian"
+Physical Strength: 465, +116
+Armor Value: 33, +4
+Mobility: 90, +22
+Enemy Detection Ability: 60, +4
+Generator: 350, +87
+Aptitude: A/D/D/D
+Size: LL
+Cost: 6400, 1600, 6400
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 50x1
+Range: 26-65, ML
+Hit: 80  Ammo: 35
+
+Shield (Left Hand)*
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 30x1
+Range: 0-25, S
+Hit: 80  Energy: 30
+
+60mm Vulcan (Fixed)
+AP: 8x3
+Range: 10-25, S
+Hit: 50  Ammo: 30
+
+Comments: There was a major limitation to the RX-78GP01 - it was a dedicated 
+land combat mobile suit.  (The third and fourth mobile suits in the Gundam 
+Project, the Dendrobium Orchis and Gerbera, were designed for space 
+deployment).  When its pilot, Kou Uraki, took the Zephyranthes into battle to 
+defend the Albion, it was severely damaged due to both incorrect balancer 
+data and the lack of space combat ability in the mobile suit.  A major 
+retrofit and overhaul was conducted at Anaheim Electronics' Von Braun City 
+lunar base, which gave the mobile suit the ability to deploy in space.  The 
+new RX-78GP01-Fb Full Vernian Zephyranthes had superior mobility and could 
+deploy in space, but otherwise was unchanged from the original design.  Both 
+the Full Vernian and Physalis would eventually be destroyed shortly after the 
+nuclear attack conducted by the Delaz Fleet against the Federal Forces' base 
+at Kompei Island (aka Solomon) in UC 0083.  The RX-78GP01-Fb Full Vernian 
+appears in Kidou Senshi Gundam 0083: Stardust Memories.
+
+RX-78GP02a "Physalis"
+Physical Strength: 465, +116
+Armor Value: 33, +4
+Mobility: 80, +20
+Enemy Detection Ability: 60, +4
+Generator: 350, +87
+Aptitude: A/A/B/D
+Size: LL
+Cost: 6800, 1700, 6800
+
+Weapons:
+Atomic Bazooka (Shoulder)*
+AP: 200x1
+Range: 61-99, L
+Hit: 80  Ammo: 1
+
+Shield (Fixed)
+Defense +7
+Mobility -25
+
+Beam Saber (Fixed)
+AP: 38x1
+Range: 0-28, S
+Hit: 90  Energy: 30
+
+60mm Vulcan (Fixed)
+AP: 8x3
+Range: 10-25, S
+Hit: 60  Ammo: 30
+
+Comments: The Anarctic Treaty signed during the course of the One Year War 
+specifically forbade certain types of weapons from being used, including the 
+dropping of colonies and nuclear attacks.  Sadly, this did not prevent the 
+Federal Forces or Anaheim Electronics from developing a mobile suit whose 
+sole purpose was the safe and effective delivery of a Mk-82 nuclear warhead 
+in a tactical situation.  The Physalis (named after the groundcherry) is 
+essentially built around the shoulder mounted Atomic Bazooka; even the 
+heavier shield was added to withstand the pressure wave from an atomic blast.  
+However, once its nuclear payload has been expended, the GP02a must rely on 
+close range weaponry to stage a quick exit from the battlefield.  
+Nonetheless, a direct hit with the Atomic Bazooka on a mobile suit should 
+prove fatal to the target.  The RX-78GP02a Physalis first appeared in Kidou 
+Senshi Gundam 0083: Stardust Memories.
+
+Special Note: It may come as a relief to players that the default 
+configuration of the Physalis does NOT enable the Atomic Bazooka.  Since I've 
+never seen the computer use anything but the default configuration, the 
+Physalis you'll see in the Single combat section shouldn't have the Atomic 
+Bazooka.  Anavel Gato in Scenario EX4, though, DOES have one, and he has 
+every intention of hitting you with it.
+
+RX-78GP03S "Stamen"
+Physical Strength: 455, +113
+Armor Value: 32, +4
+Mobility: 70, +17
+Enemy Detection Ability: 60, +4
+Generator: 350, +87
+Aptitude: A/D/D/D
+Size: L
+Cost: 7000, 1750, N/A
+
+Weapons:
+Beam Rifle (Fixed)
+AP: 50x1
+Range: 25-65, SML
+Hit: 85  Ammo: 35
+
+Folding Bazooka (Fixed)
+AP: 60x1
+Range: 25-75, SML
+Hit: 60  Ammo: 20
+
+Folding Shield (Fixed)
+Defense +4
+Mobility -15
+
+Beam Saber (Fixed)
+AP: 35x1
+Range: 0-28, S
+Hit: 85  Energy: 30
+
+Comments: Arguably the only Federal Forces 'mobile armor' ever developed was 
+the tremendous RX-78GP03 Dendrobium Orchis (named after the orchid).  
+Envisioned for space area defense, the Orchis was build around what amounted 
+to an altered RX-78GP01, the RX-78GP03S Dendrobium Stamen.  There were 
+several important changes to the cockpit, such as the panoramic 360 degree 
+display (first seen on the RX-78NT1 Alex).  As such, no Core Block System was 
+installed.  Minor alterations to the exterior of the RX-78GP03S which served 
+as the inner core suit for the Orchis included latches for mating with the 
+weapons containers.  Still, a wider variety of armaments is available on the 
+Stamen versus its other Gundam Project siblings, since the Folding Bazooka 
+normally carried on the Orchis carries over to the Stamen form.  The RX-
+78GP03S Stamen first appeared in Kidou Senshi Gundam 0083: Stardust Memories.
+
+AGX-04 "Gerbera Tetra"
+Physical Strength: 465, +116
+Armor Value: 33, +4
+Mobility: 80, +20
+Enemy Detection Ability: 60, +4
+Generator: 325, +81
+Aptitude: A/D/D/D
+Size: L
+Cost: 4500, 1125, 4500
+
+Weapons:
+Beam Machinegun (Fixed)
+AP: 25x4
+Range: 26-70, ML
+Hit: 90  Ammo: 25
+
+Sturm Booster (Back)*
+Mobility +80
+
+Beam Saber (Fixed)
+AP: 30x1
+Range: 0-25, S
+Hit: 80  Energy: 30
+
+Comments: It may be surprising that the AMX-04 Gerbera Tetra (named after the 
+Transvaal daisy) is classified as a RX-78GP type.  The RX-78 GP series were 
+mobile suits developed by Anaheim Electronics for the Federal Forces.  While 
+the first three suits of that line were eventually delivered to the Federal 
+Forces (one of them being subsequently stolen), there was a fourth mobile 
+suit that was part of the Gundam Development Project.  This was the RX-78GP04 
+Gerbera.  Designed as an all-purpose space mobile suit, it sought to fill the 
+same niche as the GP01 Zephyranthes only in space.  However, as the RX-78GP01 
+Fb demonstrated, there was no real need for a space-only mobile suit - a 
+retrofitted RX-78GP01 could fill both mission specifications.  Anaheim 
+Electronics therefore found itself with a prototype that the Federal Forces 
+did not need or want.  The unfinished Gerbera was delivered to the Cima Fleet </pre><pre id="faqspan-3">
+by Anaheim (known for its double dealings), and was slightly redesigned to 
+fit a more "Zeon" look.  The result was the Gerbera Tetra.
+
+Interestingly, the Gerbera Tetra has the potential to be one of the strongest 
+mobile suits of its family.  The optional Sturm Booster doubles the basic 
+mobility of the Gerbera Tetra.  It does suffer from a lack of weaponry and a 
+slightly weaker generator, but the Beam Machinegun is a solid weapon that can 
+outperform the GP family of Beam Rifles in damage and range (should a 
+majority of the shots hit).  For all its mobility, the Gerbera Tetra and its 
+pilot, Cima Garahau, met a catastrophic death at the hands of the RX-78GP03 
+Dendrobium Orchis.  The AGX-04 Gerbera Tetra first appeared in Kidou Senshi 
+Gundam 0083: Stardust Memories.
+
+Special Note: I do not believe the Gerbera Tetra in Single encounters is 
+equipped with the Sturm Booster.
+
+------------------------------------------
+Section 7: Model Flowchart / Unlock Order
+------------------------------------------
+
+Legend:
+Model Number (available after completing/start)* [Change Cost]
+* indicates that this unit automatically appears on the New Unit construction 
+menu, and does not need to be unlocked via a Model Change
+SC = Scenario
+EX = Extra
+
+RB-79 Types:
+
+RB-79* (start) [500] ---> RB-79K (SC 3)
+
+RX-75 Types:
+
+RX-75* (start) [500] ---> RMV-1 (SC 1)
+
+RX-77 Types:
+
+RX-77* (SC 1) [500] ---> RX-77-3 (SC 3)
+              [500] ---> RX-77D (SC 5)
+
+RGC-80 (SC 2) [500] ---> RGC-83 (SC 3)
+
+RX-78 Types:
+
+RX-78* (SC 4) [2000] ---> FA-78-1 (SC 16)
+              [2500] ---> RX-78NT1 (SC 13)
+
+RGM-79 Types:
+
+RGM-79* (start) [500] ---> RGM-79 (G) (SC 2) [500] ---> RX-79 (G) (SC 2) ...
+                [500] ---> RGM-79G (SC 3) ---> [600] RGM-79N (SC 5) ...
+                [700] ---> RGM-79 (PWD) (SC 4)
+                [500] ---> RGC-80 (SC 2) <see RX-77 Types>
+                [700] ---> RGM-79SC (SC 9) [800] ---> RGM-79SP (SC 11)
+
+(From Above)
+RX-79 (G) (SC 2) [500] ---> RX-79 (G) Ez8 (SC 11)
+RGM-79N (SC 5) [500] ---> RGM-79Q (SC 17)
+
+RAG-79 Types:
+
+RAG-79* (SC 6) [500] ---> RAG-79G1 (SC 14)
+
+MS-06 Types:
+
+MS-05* (start) [500] ---> MS-06F (start) ... <cont'd>
+
+MS-06F (start) [500] ---> MS-06J (start) [500] ---> MS-06D (SC 4)
+                                         [500] ---> MS-06K (SC 1)
+               [500] ---> MS-06R1 (SC 3) [500] ---> MS-06R2 (SC 9)
+               [500] ---> MS-06V (start)
+               [500] ---> MS-21C (SC 10)
+              [3500] ---> MS-06S (EX1)
+
+MS-07 Types:
+
+MS-07* (SC 4) [500] ---> MS-07C-3 (SC 7)
+              [500] ---> MS-07H (SC 12)
+             [2250] ---> MS-07B (SC 20)
+
+MS-09 Types:
+
+MS-09* (SC 8) [500] ---> MS-09F/TROP (SC 14) [500] ---> MS-09G (SC 14)
+              [500] ---> MS-09R (SC 8)
+
+MS-14 Types:
+
+MS-14A* (SC 10) [500] ---> MS-14B (SC 13) [500] ---> MS-14F (SC 17)
+                                          [750] ---> MS-14JG (SC 16)
+                [500] ---> MS-14C (SC 13)
+
+MS-15 Types:
+
+MS-15* (SC 10)
+
+YMS-16 Types:
+
+YMS-16M* (SC 15)
+
+MS-18E Types:
+
+MS-18E* (SC 14)
+
+Zeon Underwater Types:
+
+MSM-03* (SC 6) [500] ---> MSM-03C (SC 11)
+
+MSM-04* (start) [500] ---> MSM-04G (SC 6)
+                [500] ---> MSM-04N (SC 6)
+                [500] ---> EMS-05 (SC 6)
+
+MSM-07* (SC 6) [500] ---> MSM-07E (SC 14)
+               [500] ---> MSM-08 (SC 6)
+
+MSM-10* (SC 6)
+
+MS-06M* (start)
+
+Psycommu Types:
+None
+
+RX-78GP Types: (secret)
+
+RX-78GP01* (EX3) [900] ---> RX-78GP01-Fb (EX3)
+
+RX-78GP02a* (EX4)
+
+RX-78GP03S* (EX4)
+
+AGX-04* (EX4)
+
+Available Units By Scenario Number:
+Start: RB-79, RX-75, RGM-79, MS-05, MS-06F, MS-06J, MS-06V, MS-06M, MSM-04
+Scenario 1: RMV-1, RX-77, MS-06K
+Scenario 2: RGM-79 (G), RX-79 (G), RGC-80
+Scenario 3: RB-79K, RX-77-3, RGM-79G, RGC-83, MS-06R1
+Scenario 4: RX-78, RGM-79 (PWD), MS-06D, MS-07
+Scenario 5: RX-77D, RGM-79N
+Scenario 6: RAG-79, MSM-03, MSM-04G, MSM-04N, EMS-05, MSM-07, MSM-08, MSM-10
+Scenario 7: MS-07C-3
+Scenario 8: MS-09, MS-09R
+Scenario 9: RGM-79SC, MS-06R2
+Scenario 10: MS-21C, MS-14A, MS-15
+Scenario 11: RX-79 (G) Ez8, MSM-03C, RGM-79SP
+Scenario 12: MS-07H
+Scenario 13: RX-78NT1, MS-14B, MS-14C
+Scenario 14: RAG-79-G1, MS-09F/TROP, MS-09G, MS-18E, MSM-07E
+Scenario 15: YMS-16M
+Scenario 16: FA-78-1, MS-14JG
+Scenario 17: RGM-79Q, MS-14F
+Scenario 20: MS-07B
+EX1: MS-06S
+EX3: RX-78GP01, RX-78GP01-Fb
+EX4: RX-78GP02a, RX78-GP03S, AGX-04
+
+-------------------
+Section 8: Credits
+-------------------
+
+    There are several people without whose publicly available resources this 
+document could have never been complied:
+
+    www.mahq.net, whose information helped me confirm the translations of 
+some mecha and pilot names;
+
+    Jeffrey's J<->E Dictionary Server (linear.mv.com/), an excellent on-line 
+dictionary.
+
+    Also, special credit is given to Burke Rukes' Big List o' Gundam Mecha, a 
+superb source of information on even the most obscure mobile suits.  Much of 
+the series information and confirmation of the weapons systems names was 
+obtained from that work.
+
+-------------------------------------
+Section 9: Copyright / Authorization
+-------------------------------------
+
+This document is the sole property of soren_kanzaki@yahoo.com, and copyright 
+2002.  Unauthorized reproduction, either in print, electronic, or other 
+format is expressly prohibited without consent of the author.  Individuals 
+may download this document from the following authorized websites:
+
+GameFAQs (www.gamefaqs.com)
+www.cheats.de
+www.neoseeker.com
+www.ign.com
+www.a2zcheats.com
+
+Individuals may only use this document for personal purposes and are 
+expressly prohibited from transferring or reproducing this document in any 
+format without consent of the author.  This document cannot be altered and 
+then redistributed without consent of the author.  This document, 
+reproductions thereof, or excerpts, cannot be sold for money.
+
+--------------------------
+Section 10: Miscellaneous
+--------------------------
+
+As can be expected, the Operations Guide/FAQ/Walkthrough (whatever you want 
+to call it) for Mobile Suit Gundam: MSVS is forthcoming.  All scenario data, 
+pilot information, etc. has been written down, all I need to do is type it 
+up.  That should make this wonderful little simulation playable for even 
+those who do not speak any Japanese (as it will contain full Easytype menu 
+translations).  After that, I have to finish the Harobot Operations Guide (or 
+I may do that before the MSVS Guide, depending) before moving on to other 
+projects.
+
+Also, expect a re-release of all previous documents to catch up new 
+authorizations.  It's a good deal of work, and should occupy most of the 
+summer ...
+

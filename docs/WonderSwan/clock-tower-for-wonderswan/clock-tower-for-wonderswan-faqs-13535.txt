@@ -1,0 +1,1764 @@
+WARNING:  While the Main Walkthrough Portion of this 
+Document is Relatively Spoiler Free, some sections
+following that contain MAJOR SPOILERS, so only read
+those sections if you do not mind or have already
+played.  Be careful even then, since some of those
+might contain spoilers for the SEQUEL (they're
+marked, but be careful not to skip right to them
+without realizing it).
+
+UPDATE STATUS:  Wow...here I am, SEVEN YEARS after 
+starting this guide, and somehow I find that I haven't
+updated it once in nearly seven years.  I wasn't yet a 
+Junior in High School upon starting this guide, and now 
+it's been over a year since I graduated from College.  
+It makes me feel old, looking back on it, but now I'm 
+rambling.  The bottom line is, now at last this guide is 
+finally complete, more or less (unless someone needs me 
+to answer questions, etc, along with a few brush-ups
+I'm still making here and there).  The face of the guide 
+has changed a lot, now, since the English Translation is 
+much easier to find, allowing me to make the Walkthrough 
+part of this guide pretty much Spoiler Free.  However, the 
+Character Analysis section is still here (and expanded) for 
+your reading pleasure, along with an all new Plot Points 
+and Theories section, for those of you who have completed 
+the game (and possibly the sequel) or who don't mind Spoilers.  
+
+C  L  O  C  K
+T  O  W  E  R
+(The First Fear)
+			
+A Walkthrough For A Highly Under-Recognized Game
+
+____________________________________________________
+
+System:  SNES		
+Written By:  Mr_Mason_W2DS  
+Began On:    July 23, 2001
+Latest Work Finished on:  August 6, 2008
+Version 2.0
+This Document Copyright (c) 2001, 2008 Mr_Mason_W2DS 
+You can contact me at MrMasonW2DS@hotmail.com
+
+FOR THE RECORD:  As this Entire Guide is written by me, 
+you may use this guide only for the purpose of helping 
+you.  You may post it or show it to others for 
+non-profit purposes ONLY.  You may not submit it to 
+any kind of magazine (In America, you'd probably have 
+no reason to for this game), nor sell it, nor put it 
+on a CD for sale.  If you do post it anywhere under 
+the set conditions that must be met, then everything 
+must be intact, including all the credits, both to 
+myself and to those who provided me with information.  
+You may not take credit for this specific FAQ in any 
+way shape or form, though if you are in the credits, 
+you may take credit for that which you are credited for.
+You may also use the information found here to make
+an FAQ of your own (since the information belongs to the
+Game itself and thus to the public) but please credit me
+if this guide was your source, and especially if you
+reference one of my own theories (such as in the Character 
+Analysis section).    
+
+____________________________________________________
+
+1.0.  Table Of Contents
+____________________________________________________
+			
+1.1  Credits
+1.2  Intro To this Walkthrough
+1.3  Story
+1.4  Characters
+1.5  Playing the Game
+1.6  Maps Of The Barrows Mansion
+1.7  Walkthrough Preface
+1.8  S ENDING
+1.9  A ENDING
+2.0  B ENDING
+2.1  C ENDING
+2.2  D ENDING
+2.3  E ENDING
+2.4  F ENDING
+2.5  G ENDING
+2.6  H ENDING
+2.7  Character Analysis
+2.8  Plot Analysis and Theories
+2.9  Closing
+
+
+____________________________________________________
+
+1.1  Credits
+____________________________________________________
+
+All of these people get credit for making this walk-
+through possible.  I'm listing them according to the
+help they gave.
+
+--Tsama, CStarFlare, and Scissorman, for giving me
+much needed storyline elements, such as translations,
+who was who between Dan and Bobby, Etc.
+
+--CStarFlare, and MzXr468 for helping with the S 
+ending.  They were the source, and without them I'd 
+still not know how to get it.  I also thank Gutsyness 
+for relaying this information to me.  Huntz67 gets 
+a LOT of thanks here, because CStareFlare told me 
+that he was the original source who gave CStarFlare
+and MzXr468 the information.
+
+--Eric S. Hooten,  because his FAQ kept me from being 
+completely lost the first time I played the game.  I'd
+have never found my way around by trying to make sense
+of all the Japanese!  Also, he is credited for my 
+knowledge of the B and C endings, because it was using
+his guide that I got these two endings.
+
+--Lord Zero, whose guide confirmed what I thought
+was the way to the A ENDING (as well as pointed out
+something I wouldn't have known, since I always did
+the thing in question, which will be pointed out
+later in this guide).  It was also reading Lord Zero's
+guide, and a compliment he paid to mine, that 
+inspired me now (SEVEN YEARS later) to finally 
+finish what I started, albeit looking somewhat different
+from when I began.  So, many thanks to you!
+
+--Similar thanks goes to Daemon_Machina, who used my
+guide to make an awesome Map of the Barrows mansion
+(Check it out!), and to anyone else who has used or 
+referenced my guide...little things like that made me 
+realize it was worth the effort.
+
+--Goldie, of Don't Cry Jennifer forums, who gave me some
+information from an e-mail straight from Clock Tower's
+creator, Hifumi Kouno.
+
+--Hifumi Kouno, who not only directed the games, but seems
+kind enough to respond to the e-mails of his fans, making
+him a valuable source of information as well as the creator
+of a very great franchise.
+
+______________________________________________________
+
+1.2  Introduction to the Walkthrough
+______________________________________________________
+
+This walkthrough is made with the intent of being as        
+formal, fun, informative (yet spoiler free in the walkthrough
+section), and helpful as it can be, all at the same time.  
+I'm hoping that I can give it just a touch of a professional 
+feel, as this game lacks an officcial walkthrough in America
+(Ex: Bradygames, Prima, etc).  So, I hope that this walkthrough 
+can compensate for that; though I must admit, some great
+walkthroughs have surfaced since I set out with this one years
+ago.  This walkthrough is far less necessary than it was then,
+if it's necessary at all.  But what can I say?  I feel that
+I should finish what I started, even if it's extremely late.
+
+I think that this Game, Clock Tower, is a wonderful game which isn't 
+recognized nearly as much as it should be.  This is mostly 
+because it (unfortunately) was never released in America.  
+This is one of the most irrational decisions in video game
+history, because the game was so advanced for an SNES 
+game.  It'd have done well in the US, and was one of the
+first console games ever to deal with cinematic-type 
+horror.  It did quite well in its mood, considering what
+the programmers' limits were.  But I digress.  I hope that
+you enjoy this walkthrough, and I hope it helps you.  
+
+________________________________________________________
+
+1.3  Story
+________________________________________________________
+
+Jennifer and her three friends, Lotte, Ann, and Laura,
+have been chosen to be adopted by the mysterious, yet
+unquestionably wealthy Mr. Barrows, who lives in a mansion
+known as Clock Tower (Hence the game's name) because of 
+it's own, quite large Clock Tower, by whose chimes the locals
+once tended their fields before it apparently stopped running 
+nearly a decade before the game's events.  
+
+Jennifer and her friends are led to their new home by Mary, or, 
+as they often call her, Ms. Mary out of respect.  They're thrilled 
+to have a new home, especially this particular home, which 
+is obviously spectacular from the moment they enter the main hall.  
+
+However, a place this big was bound to hold secrets..
+And the secrets of Clock Tower are darker than those
+of most estates..  Because Jennifer and her friends are
+about to discover that the Barrows family is far from
+normal..  That evil lives even within the wall of the most 
+beautiful places.  And that there are some things 
+worse than being in an orphanage..
+
+_______________________________________________________
+
+1.4 Characters
+_______________________________________________________
+
+Note:  In this Characters section, information directly preceded
+by an asterisk (*) come from the Clock Tower creator,
+Hifumi Kouno, courtesy of Goldie from Don't Cry Jennifer
+Forums.
+
+Jennifer Simpson: She and her friends are only fourteen.
+Jennifer is a nice girl, who seems quiet at times, yet
+always polite.  She's known to let her worry and 
+curiosity get the best of her at times, however.  This
+girl holds more agony inside than is obvious from the 
+outside.  She lost both of her parents when she was 
+small.  Her father was a doctor, and he simply disappeared
+without ever being found as of the time the game
+takes place.  Jennifer can only hope that her new life with 
+Mr. Barrows can help her to move  on...And give her some 
+resolution as to her past.  *In the orphanage, Jennifer was
+a quiet girl, and this caused her to have a position of
+standing on the sidelines, not being part of the popular
+crowd.
+
+Ann:  Ann seems optimistic girl, and seems excited and
+curious about her new adoptive father.  Ann doesn't 
+seem to stress easily, as her optimistic expectations
+rule out too much worry.  She can come across as teasing
+with her friends at times (as a comment made by her early
+on suggests).  *She was part of the popular crowd in the 
+orphanage, and she wasn't quite close with Jennifer.  
+
+Laura:  Laura seems the opposite of Ann.  She seems a bit
+more introverted, quiet, and serious; also, she worries more,
+and seems bothered by her intuition, by which she is set
+ill at ease about the girls' new home.  She's one of the 
+least optomistic people about the move.  This isn't
+to say she's not excited--but she is probably 
+least happy about the adoption out of Jennifer and her 
+friends.  *She was also part of the popular crowd, and she
+and Ann, despite their different personalities, seem to
+have been close friends.  
+
+Lotte:  It is now well known that Lotte is female, not least
+of which reasons is her feminine figure, which is ironically
+more noticeable than with the other girls, most likely in order to 
+make sure that she is known to be female, since her clothing and
+hair style are more gender neutral compared to the others.  
+Admittedly, in spite of the graphical evidence, I once thought 
+she was a male, partly due to the name, which I thought was a version of 
+"Lot." In any case, Lotte seems insecure about the adoption, but not
+for the same foreboding ill-ease as Laura.  Instead, it seems 
+she fears that she will not live up to the expectations
+of Mr. Barrows or ever grow accustomed to a new, presumably luxurious
+and pampered way of life, a fear that is implied by comments made early
+in the game by her and Ann.  Are her fears true, or unfounded?  *Like
+Jennifer, Lotte was an outsider to the popular crowd in the orphanage,
+and she is closer with Jennifer than the others.
+
+Mary:  Apparently from the adoption agency, Mary has acted as the mediator 
+between Mr. Barrows and his soon-to-be children.  She behaves in a 
+caring manner towards Jennifer and her friends, and seems more than 
+happy to take part in guiding the children to their new home.  
+
+Simon Barrows:  A man of mystery..  He's apparently been a recluse for 
+quite some time, not leaving his mansion, not even being seen in 
+the past nine years or so.  It would seem that something
+happened in his life nine years ago, something so devastating that 
+he withdrew from the rest of the world.  He seems to be very lonely as of 
+late, as implied by the adoption of Jennifer and her friends.  But 
+he is burdened by a family secret that he doesn't wish to bear.
+A secret that he couldn't escape, even when he tried to..  Can 
+his new children help him to escape a destiny that's all too 
+cruel?  
+
+__________________________________________________
+
+1.5 Playing the Game
+__________________________________________________
+
+Clock Tower is a fairly simple, yet unique, game
+to play.  It's a point and click adventure, one
+of the first to appear as a console game.  This 
+annoys many people, but if you're into the game
+enough to be reading this walkthrough, then you
+probably aren't too annoyed, or you just won't
+let something like that get in the way of this 
+game.  Here are some of the main points of 
+gameplay:
+
+Controls:(According to SNES Control Pad)
+Y:  Action Button.  Used for most 
+things, walking, searching, talking, opening
+doors, etc.
+
+B:  Panic Button.  Used to get you out
+of dangerous situations.
+
+A:  Item Button.  Used to observe and 
+go through your inventory.
+
+X:  Makes Jennifer stop walking or running
+and come to a rest.
+
+Start:  As in most games, used to Pause.
+
+Direction Pad:  Moves the mouse-style cursor.
+
+L:  Run Left.
+
+R:  Run Right.
+
+--In order to move Jennifer, click in any 
+direction, but not on an object..  She will
+walk in the direction you click.  To make
+Jennifer run, there are two methods.  Situate
+the cursor on the side you want her to run 
+to and double click, OR press the L and R 
+buttons(for the SNES equivalent, not your 
+keyboard if you have an emulator) which makes
+her run in the corresponding direction.
+
+--In order to talk to people or search items,
+and open doors, situate the cursor over the
+item/person/door, and if it can be searched,
+opened, or if they can be talked to, the cursor
+should become a bracket, enclosing the desired
+destination.  Then, simply click with the action
+button.  Voila!  
+
+--When you're in danger, it will help to become
+familiar with the panic button.  Whenever your in 
+danger, and you can't hide and are forced into
+confrontation (Or, at a certain time, when you
+must flee), tapping the panic button rapidly 
+can help you to escape.  Just keep tapping until
+you are safe.  When you want to use an object or
+exit a door, or climb up an area, etc, etc,
+to defend yourself, remember to click on it with 
+the action button first, then start hitting the 
+panic button.  In short, this button provides
+Jennifer with the resourcefulness and adrenaline
+she will need to survive.
+
+--Know when to hide, and choose your hiding places
+wisely.  When being tracked by the Terrors of Clock
+Tower, there's a chance you'll mess up and die if 
+you're not careful.  Pay attention to every 
+option and possibility.  Once you've found a hiding
+place, click on it to use it to your survival needs.
+
+--Pay attention to Jennifer's picture.  The color
+behind the picture determines how strong Jennifer is.
+Looking death in the eye is certainly known to 
+deplete one's strength.  Here is a list of the 
+colors, and what level of strength they represent.
+
+Blue--Full Strength.  You're doing pretty well, and
+the odds are, with good use of the panic button, 
+you'll be able to survive, assuming you know what
+resources to use and what places to hide.
+
+Green--Reasonable Strength.  You're still doing 
+okay, but you've been startled.  You're probably
+doing as well off as with Blue Strength, but
+just beware not to lose much more strength..
+
+Yellow--You're pretty low on strength.  You still
+have strengh left, but it would be wise to avoid
+depleting that last bit of strength at all costs.
+
+Red--You've used up all of your adrenaline and 
+strength.  If you have to escape from a situation,
+you'd best do so by means other than those 
+requiring the panic button, as it's success rate
+is questionable (though not impossible) in this
+state of wild fear and fatigue.  That means a 
+really close encounter will more likely result in
+your death.
+
+Your strength goes down a level or more whenever 
+you do something strenuous, or go through
+a startling or terrifying experience.  It rebuilds,
+as you have time to rest and/or calm down, but
+this takes a while.  As such, try to avoid such
+strength depleting situations whenever possible,
+such as by hiding as opposed to fighting. 
+Jennifer's picture is also helpful for other 
+reasons.  When it flashes, then you're in grave
+danger.  This is usually when you must use the 
+panic button, and is usually a sign that
+your strength will be depleted a level.  Also,
+when the picture closes in on Jennifer's eye,
+showing surprise, the meaning, which is often
+obvious, is that danger is very near, but 
+escapable without use of the panic button.  This
+is USUALLY a warning to start making tracks!
+
+IF YOU DIE:  If you fall victim to the terror running
+rampant throughout Clock Tower's corridors, then
+you'll get the game over screen, saying "DEAD END"
+(Which I find far more creative than "YOU DIED", LOL)
+Don't worry, and certainly don't shut the game off,
+because you can choose continue at the title 
+screen and start right back in the room where you
+met your demise, at the same point in the game.
+
+_____________________________________________________
+
+1.6  Map Of The Barrows Mansion
+_____________________________________________________
+
+Simon Barrows has to be one of the wealthiest men
+in Romsdaaren, Norway--His mansion is huge.  However, 
+its layout is fairly simple, and after going over these 
+maps a couple of times, you'll pick up fairly quick
+on what's where.  I strongly suggest that you 
+use it your first time through, because the game
+is very confusing otherwise, unless you've got a 
+translated version.  Some of the rooms are 
+interchangeable, so I numbered them all rather
+than list a room.  Below is the key, telling
+not only what rooms go with which numbers, but
+what some of the symbols stand for.
+
+Symbols:  S: Stairs  L:  Ladder.  E:  Elevator. 
+          U:  Door leading Up and Down.  
+          R:  Door leading left and right.
+          x:  Can't be opened.  
+	  ~~~:  Dead end of Rocks.
+Rooms:
+  1.Foyer                           2.Collapsed Hall  
+  3.Living Room                     4.Master Bedroom  
+  5.1st Bathroom                    6.2nd Foyer
+  7.Phone Room or Religious Study   8.Kitchen
+  9.Garage                          10.Scream Hallway  
+  11.Trophy or Mannequin Room       12.Hall of Idol
+  13.Courtyard			    14.Jail Shed
+  15.Cage Room,2nd BathR,or Library 16.Chapel
+  17.Cage Room,2nd BathR,or Library 20.2nd Foyer Upst.
+  18.MusicRoom,2nd BathR,or Library 22.ClosetRoom
+  19.Libr.,Music,Cage, or 2nd BathR 23.Scream Hallway2
+  21.Phone Room or Religious Study  26.Child's Room
+  24.Trophy or Mannequin Room       27.Normal Study
+  25.MusicRoom,Library,or 2nd BathR 28.Storeroom
+  29.Secret Prison                  31.Foyer Upst.
+  30.2nd Floor Elevator Hall        33.Cave 
+  32.Outside Balcony		    34.Huge Cavern
+  36.Cave Elevator Hall             
+  35.The Cradel Under The Star
+
+*Note1:  The Clock Tower, While being the Games 
+Namesake, is only one room.  When you get there,
+everything to do is obvious, so it isn't on the
+map.
+
+*Note2:  Among ALL of the rooms that CAN be the 2nd
+Bathroom, ONE of them will always be sealed off..
+You can't even click on it..  Be aware that this
+will happen, so don't think your game's messed up. 
+
+                             1st Floor
+                      _____________       _________
+                      | 15|L16| 17|       |18 | 19|
+     _________________|__U|U__|__U|_______|U__|U__|
+     |  11 |  S        |          |   | S         |
+     |_____R_ _________R__________R__ R___________|
+           | U|   | 14|           |  U|
+           |  |   |U__|           |   |
+           |10|        13         |~~~|
+           |  R                   |~~~|
+    _______|_U|___________________R   |____________
+____|8 |7 R     S     | 5 | 4 | 3 | 2 |	     S	  |
+|9  |_U|__|     6     |__U|U__|__U|__U|	    1	  |
+|___R_____R___________R___________R___R___________x
+
+				
+				
+                              2nd Floor
+                      _____________       _________
+                      |25 |26 |27 |       |29 |28 |
+     _________________|__U|U__|__U|_______|x__|__U|
+     | 24 |  S        |           |   | S t  12   |
+     |____R__ ________R___________R__ R___t_______|
+           | U|                   |  U|
+           |  |                   |~~~|
+           |23|                   |___|
+           |  |                   | E |
+    _______|_U|___________________| 30|____________
+    |22|21R    20     |  32      L|   |   31       |
+  __|_U|__|  ____S____|_U__U______|__U|  _____S____|
+  |_______R__|        |___________R___R__|
+
+                                Caves
+                           _____
+                           | L |
+                           |   |
+                           |   |
+                           |   |
+                           |33 |
+                           |   |
+                           |   |   _____
+                           |   |   | E |
+                           |   |   |   |
+                           |   |   |36 |____________________
+                           |   |___|__U|34 _________   | 35|
+                           |   R_______________________R___|
+                           |   |
+                           |   |
+                           |___|
+
+APOLOGY:  I know that, with the rooms being numbered and so
+many of them being interchangable, my maps may be confusing.
+While I think I did a decent job of making these maps in shape
+and accuracy, I admit that they may be confusing in the way the 
+rooms are labeled.  Try to study the map until you are familiar 
+with it.  I apologize for any inconvenience.
+
+STRATEGY:  A good strategy for using this game is to copy
+and paste it onto a text file, then open it in two windows.  
+Set one window on the map, and use the other for reading the
+guide.  This way, you won't have to waste time by scrolling
+up and down the guide to see the map.
+
+______________________________________________________________
+
+1.7  Walkthrough Of Clock Tower: Preface
+______________________________________________________________
+
+I have made this walkthrough to show you how to get the 
+different endings of Clock Tower.  These, I hope, are helpful
+enough to aid you in your escape, and good enough to capture
+your interest.  However, as many of the ending methods are
+similar in many ways, there are many things that are copied
+and pasted, so don't expect something entirely new when you
+are reading the same instructions, except for special cases.
+This walkthrough used to be way more detailed, story wise, as
+when I first made this walkthrough (SEVEN YEARS ago!  Wow!)
+English versions of the game were rare to come by; so I
+thought it was a good service to explain (as far as I could)
+what was going on.  Now, the walkthrough is far more to-the-
+point than before, since it's fairly easy to find an English
+version of the game. 
+
+THIS WALKTHROUGH IS *RELATIVELY* SPOILER FREE, though 
+I do hint at certain things just to help the player confirm
+that he/she has picked up on all the plot points he or
+she should have picked up on at certain points; that said, the
+best way to avoid even the mildest spoiler is to play through
+the game as best as you can without a walkthrough at all.  
+Still, in revamping this walkthrough since the game can be
+played in English, I felt I had the opportunity to make it
+free of most plot spoilers, at least insofar as I could.  
+HOWEVER, take care not to scroll down past the Guide for
+Ending G, as some things beyond that point are no longer
+part of the standard walkthrough, and DO contain direct
+spoilers.
+
+The S ENDING is the most detailed Guide; after that, guides
+for other endings will often say something along the lines
+of "Do what you would to get the S ENDING except for (insert 
+difference here)".  So, once you have familiarized yourself
+with how to get the S Ending, it will be much easier to
+get the others.
+
+*Note:  A LOT of keys you get aren't in your inventory.  So,
+if I don't say to get it from your inventory, it means that
+it's automatically used when you open the corresponding 
+door, or whatever the key goes to.
+
+__________________________________________________________________
+
+1.8  The S ENDING
+__________________________________________________________________
+	
+You start out in the Foyer.  
+
+Ms. Mary tells Jennifer and her friends to stay put as she goes to 
+find Mr. Barrows.  That's a simple task..  Wow, the night will be 
+a breeze if everything's that simple, right? Of course.  
+
+Be sociable and talk to your friends, all of them...twice, in fact,
+leaving Lotte for last both times, if you want the full effect of
+the conversation.  Jennifer, being a responsible and generous
+young lady, will volunteer to look for Ms. Mary and save Lotte
+the trouble.
+
+Once you hear a scream, you'll find that your friends are 
+missing from the Foyer.  It may just be a joke, but like any
+good friend, you'll want to find them ASAP, just in case.  
+Check the entire foyer if you're a perfectionist and 
+completionist (as I can be) but it's not necessary for
+any reason at all.  If you do, though, you'll discover that the
+front door is locked.  So don't figure on escaping the house
+that easily, "if" you encounter any danger...
+ 
+When you're finished searching the Foyer, through the door that
+Jennifer originally left through, and then into the next door in 
+the far left.  From this hall, go into the living room.  Search the
+box on the chest, as there may or may not be a "West Wing Key;"
+if not, you'll find it later, and if so, don't worry if it
+doesn't appear in your inventory.  As I've said before, many 
+keys won't.   
+
+Next go to the Master bedroom (You can reach it directly from the
+Living Room).  Look at the picture on the dresser for some 
+story development, though you don't have to in order to finish
+the game.  
+
+Check the drawer of the dresser, to find perfume.  Pocket
+the sweet smelling stuff, and leave into the hall.
+
+Once out in the hall, continue to the left.  Suddenly, you hear
+dripping water.  And such a sound, in a horror game, can't
+be a good omen.  It's coming from the 1st Bathroom.  
+
+Go into the bathroom.  Go through the door in the middle, 
+not bothering to close it back (in fact, make a point to open
+it if Jennifer closes it), and inspect the shower.
+
+You'll make two discoveries, the second of which
+is an active threat (and will be throughout the rest
+of the game).  Run out of the bathroom and go through the
+door to the far left in the hall, to the 2nd Foyer.   
+
+Run up the stairs, and go to the far left, into the hall 
+leading to the Closet Room. If you can't see the door, run a 
+little to the right, then run back to the left, until the screen 
+scrolls over enough to show the door.  Then go into the hall.  
+
+Once in the hall, the first door you see is the door you should take--the 
+closet Room.  There is a cupboard to the far left.  Click 
+on the box on the other side of it, and Jennifer will begin
+to climb over it.  Start tapping the panic button, fast!
+You'll climb over; then you need to wait for your stalker to
+leave.  Jennifer will climb back over to the other side, 
+once she's safe.  
+
+Click on the box on the other side again.  This time,
+Jennifer can't make the climb--she doesn't have the 
+motivation of having a homicidal psycopath behind her.
+No problem (you're likely grateful), just click on the box
+in the middle of the room.  Jennifer will push it to the 
+cupboard.  Now click on the other box yet again.  This time,
+Jennifer will be able to climb over, where she will open the
+box.  There's a long, black cloak inside.  You have no idea
+why, but you keep the cloak out of some intuition that 
+it might be useful.  
+
+There are two green cans of pesticide beside the door, which 
+will also be important, so take one.  Now you can leave this 
+room.  
+
+If you didn't find a West Wing Key in the living room
+box, then in the hallway outside the closet room, go to the 
+far left wall, and examine the nest up there.  You can't reach it.
+Between the options of the stick and the box in the
+middle of the hall, opt to click on the box (the stick
+won't work).  Jennifer will push the box over to the nest.  
+
+Click on the nest again, and Jennifer will climb onto the box, 
+and take a key from the nest.  Now, leave this hall into the
+2nd Foyer.  
+
+Once you're back in the 2nd foyer, go downstairs, and then go to 
+the leftmost door.  You're on your way to the Kitchen.  The 
+leftmost door in the foyer should lead to a hallway.  The kitchen
+is the first doorway you see.  
+
+Once you're in the kitchen, you see that there is a meat locker 
+in the upper left corner of the room (the big metal thing).  
+You should check it, with your pesticide ready.  In other words,
+this is your first chance to use an item.  Go into your inventory, 
+and go over to the green can.  Now, with the green can, click on 
+the meat locker.  You'll find that it was a wise choice, as large 
+cockroaches will try to swarm you.  They will die from the 
+pesticide, and you will be free to take the key from
+inside.  Leave the kitchen.  
+
+You should get back to the 2nd foyer now.  There is a door in the 
+middle of the first floor wall here that you must now take.  
+This leads you to the Scream Hallway, where you may or may not hear 
+a scream.  Do NOT look out the windows, EVER, after the 
+scream occurs (if it ever does) but instead, "assume" that 
+the scream comes from the other end of the hall.  With 
+that in mind, hurry to the other end.  When you get there, 
+no one's there.  (Note: this can also happen upstairs,
+in Scream Hallway2, where you should follow the same
+procedure of NOT looking out the windows.  This procedure
+is a KEY point when trying to get an S ending).  The door
+on the other end of the scream hall leads you to yet 
+another hallway.
+
+You are now in the back of the mansion, the West Wing.  
+Go up the stairs to the left.  This will lead you to 
+an upstairs hallway, where you should go to the right, 
+until you go into another hallway.  Here, your destination is the 
+middle door.  Click on it.  The room it leads to should look
+like a child's room.
+
+Click on the toy chest against the right wall (The one the clown
+doll is sitting on).  You'll get a key from here.  Something
+decidedly supernatural will occur, and you'll find
+yourself face to face with a "small" threat.  Don't worry too 
+much, though, and just walk calmly toward this new 
+enemy, and when you get near it start tapping the panic button.  
+You and the enemy will knock one another down, and only you
+will survive unscathed.  
+
+Leave the room by going out of the door you came through.
+Once in the hallway, go all the way to the right, and 
+keep going until you reach a hole in the floor.  Walk 
+to and examine the hole.  Then, use the plank next to 
+it to make a bridge of sorts.  Walk across it.  
+
+Now, go to the door all the way to the right, examining the
+weird part of the wall if you want to.  The door will
+lead to the storage room.  There are two crates on a
+carrier against the wall in the background.  
+Click on them, thus pushing them aside.  Examine the crack 
+in the wall that was behind them. Use the pipe against the shelf by clicking 
+on it, and  Jennifer will break that portion of the wall down. Now,click 
+on the hole there to enter it.  (Note:  I suggest that 
+you do all of this rather quickly if you don't want
+to risk getting an unpleasant surprise.  If, at any 
+point in this room, you are ambushed, the way to escape is to 
+run out into the hallway, go across the plank, into the door at the 
+far left.  Then go BACK through it and run back across the plank, 
+click on the plank, and Jennifer will pick it up.  This will ensure
+your survival at least for now).
+
+Once you've entered the hole in the wall (with or without
+having been interrupted), you'll find
+yourself in the secret prison.   Check the markings 
+on the wall to the left, the two slips of paper on the floor,
+and the bag on the floor for full story development.  If you
+put the pieces together carefully, you should know something
+disturbing now about a certain someone...
+
+Now examine the body in the corner, the identity of which
+provides a pivotal point in the game's plot.  There's
+a note in the corpse's skeletal hand.  Let Jennifer read
+the tragic words fully, which will also give you some 
+insight into the type of horror you are dealing with; it seems
+there is something even more horrific than anything you've
+seen yet, waiting/living in a certain location ominously
+hinted at in the notes you have read.  There's nothing
+more to do here.  Leave the room the way you came, proceeding 
+to the hall as quickly as possible from the storage room, 
+as if you haven't already been ambushed there, you're still 
+fair game for that.  If it happens, do as instructed before.
+
+Make your way to the cage room.  This room, 
+as you may find out, is one of the first interchangable
+rooms.  It is normally room 15 or 19.  But can be
+any of the others listed for it on the map key. 
+Once you find the cage room, examine the table
+in it, and you should recieve a key.  Use the  
+key from the table on both cages.  
+
+Now, leave this room.  Go back to the 2nd foyer,
+and go into the phone room, which can be either
+Room 7, or Room 21 on my map.  If it's really
+the phone room, you will automaticly use the 
+key you got from the meat locker in order to open 
+the door.  Once you go in, if no one's there then
+exit the room, and go back in.  Keep this up until
+an event is triggered.  Leave the room as soon as
+you have control (You'll understand why when
+it happens).  Then re-enter the room.
+
+Check the table in the middle of the room in order
+to pick up a key.  This key is for the Religious 
+Study, so keep that in mind.  
+
+For now though, go to the music room.  The music room 
+can be room 18, 19, or 25..  Once you find it, search 
+behind the curtain.  If you find anything behind the
+curtain other than a Sceptor, then you have to beat the
+game with the Statue.  In that case, scroll down 
+past all of this to #7 in "IN CASE OF STATUE".  I can't
+stress enough (without Spoilers) that, if for any reason 
+you do not find the Sceptor upon your very first time 
+opening the curtain here, it means that you will have to 
+use the Statue.  
+
+However, if you find a sceptor behind the curtain, 
+take it, and leave the room.  
+
+Now go back to the 2nd Foyer, and to the Religious Study, 
+which can be room 7 on  the first floor, or 21 on the second 
+floor, whichever one of the two that wasn't the phone room.  
+
+There are two bookshelves here, which you should examine first.
+Now examine the demonic-looking painting.  It looks like
+some sort of demonic worship.  Now, go over to the desk, 
+and observe the books, chair, and the corner of the desk.  On the
+desk you should read something that will be very useful information
+later in the game, and in fact relates to the game's very
+Namesake.  
+  
+Now examine the bookshelf to the left.  Jennifer will push it over,
+revealing an extra portion of the painting.  Examine
+it once, and then use the sceptor on it.  Nothing
+will happen, though, as this is just a precaution to
+take.  I think Jennifer compares the sceptor to the one in the 
+picture, since sometimes she will not use the Sceptor
+properly in absence of this step (unless I'm doing something
+else wrong at those times).  
+
+Now it's time to go to the chapel.  It's room 16.  You should
+recognize this from the painting.  Examine everything in this room,
+if only for minor plot development.    In the floor, there is 
+a square outline inside of the star marking.  Make SURE to examine 
+it.  If you've been piecing things together, you should feel
+very close to a dark discovery.
+
+Check the flower vase in the upper right corner.  Then 
+use your sceptor on it.  If Jennifer won't do so,
+then she still doesn't have enough evidence that
+this is what must be done.  In that case, you'll
+have to go back up to the religious study, and
+examine both portions of the painting again,
+then use the sceptor on the sceptor in the 
+painting.  This has happened to me many times, and
+it's frustrating.   After this, go back down to the 
+chapel.  Then try to use the sceptor on the vase
+once more.  If it doesn't work, examine the markings
+on the floor again and then try.  It should certainly
+work now.  Jennifer will wonder for a minute what's
+supposed to happen, when a trapdoor opens inside of
+the star!  
+
+THE CAVES
+
+Go down the trap door..  You're now under the star...
+This new area appears to be a huge cave.  Walk to the 
+right, once you're at the bottom of the ladder.  You'll 
+see a figure in a black cloak walking past a guard dog.  
+Follow the figure.  However, the dog notices you.
+When it barks, remember that you have a black cloak 
+too.  So, use the perfume on yourself, then use the
+cloak on yourself.  In your new disguise, your
+canine foe will be non-the-wiser.  
+
+Once on the other side of the dog, go all the way to the 
+right, past the opening.  You will trigger an 
+event.  Once it's finished, Jennifer must now go to the 
+passage that was right beside the dog--into the Huge Cavern.  
+
+Once here, walk to the right until you see a table and some
+crates.  Those crates hold explosives.  You don't have an
+explanation, so move on to the right, all the way 
+until you enter the next "room".  There, you will find
+two huge pillars framing a fancy red curtain.   
+
+Again, having pieced together the facts you've
+gathered so far will bring you to a chilling
+realization about what this must be.  Examine the curtain.  
+You will eventually, due to what happens, come to a shallow
+body of water and to a steep slope (back in the Huge Cavern)
+which Jennifer must climb.   Start tapping the panic button as
+rapidly as you can.  Jennifer makes it halfway up, but
+slides back down.  Keep tapping the panic button, and 
+you'll be fine, despite the tension of the situation.
+
+Jennifer will now run back to the entrance of 
+this place.  Go through the cave in the background.
+Once she goes into it, go all the way to the right.
+There's an elevator.  Use the panel next to it
+to enter it.  There are three other floors besides
+this one--1st, 2nd, and 3rd.  Go to the 3rd floor.  
+
+Jennifer will exit the elevator, and for a while
+the events will be automatic.  Don't get too 
+comfortable however.  If you should find yourself
+under a direct attack, tap the panic button rapidly 
+until Jennifer is again safe!
+
+Congratulations, you have just guided Jennifer
+through her horrific stay at the Clock Tower
+Mansion...and you have, in this case, helped
+her to achieve the best outcome possible in
+the game!  
+
+
+IN CASE OF STATUE:
+There are times in the game when you will
+use the statue instead of the sceptor.  
+This is, I believe, the correct way to
+end the game, since the statue appears
+in the sequal.  In the below portion
+of the guide, I tell the only ways
+I've ever gotten an S Ending in which the
+statue was used.  Using the statue instead
+of the sceptor has no real affect on the 
+game, but here I will tell how to get it.
+This isn't as descriptive as everything
+above, as it's all in the S Guide Above.
+However, certain parts that you haven't
+read to yet if you've gotten the statue
+will be descriptive.  Well, on with this
+part of the guide:
+
+1:  When you go to the Master Bedroom,
+let the parrot out and click on the 
+bed.  Use the panic button to wrap it
+up in the cover.
+
+2:  When the most common stalker attacks you from
+the bathroom, hide under the left bed in the 
+master bedroom.
+
+3:  NOW go to the closet room (22), and
+get the cloak.  
+
+4.  In the hall outside of the closet 
+room, get the key from the nest by 
+pushing the crate up to it and examining
+it. 
+
+5.  Go through scream hall 2 (room 23) NOT
+looking through a window if you hear a 
+scream.
+
+6.  Go to the Child's room, check the toybox 
+for the chapel key, and defeat the enemy
+by using the panic button.  
+
+7.  Go to the Library(Room 15, 17, 18, 19,
+OR 25), read the words on the second book
+shelf.  One of the books says, mysteriously,
+to look for the idol in the bosom of the 
+statue upstairs.
+
+8.  Now, go up to the Hall of Idol (12),
+which is also the hall with the plank.
+Examine the second statue you see.  You'll
+find the idol you read about in the library!
+It looks VERY important, but you don't know
+what to do with it yet..  You'll have to
+move on for now.
+
+9.  Go to the storage room, move the 
+crates, and break the wall down.  Go 
+through the hole.
+
+10.  Examine everything, the corpse last of
+all.
+
+11.  Now, do EVERYTHING in the S Ending
+guide that you haven't done already, 
+except for everything pertaining to the
+sceptor.  This means you never have to
+visit the music room, but I still search
+the religious study for plot reasons.  
+You won't be able to push the book shelf over 
+though.  (It may be particularly important
+to examine the Religious Library if you're
+trying for an A ENDING, so bear that in mind).
+
+12.  Whenever you've done everything 
+else on the S Ending guide, get to the 
+chapel.  Examine everything in this room.
+There is some sort of altar under a picture of some
+sort of demon..  In the floor, there is a square
+outline inside of the star marking.  Make SURE
+to examine it.  
+
+For now, You notice that the alter looks just right to 
+place the statue on.  Could this be what the statue 
+is for?  To find out, get the statue from your 
+inventory and use it on the altar.  Sure enough, a 
+trapdoor opens inside of the STAR!  
+
+NOTE:  From this point on, use the portion of the
+S ENDING guide titled "THE CAVES"
+
+FOR A SLIGHTLY DIFFERENT VARIATION:  Start the game out
+as you would "In the Case of the Statue."  Once you
+hear dripping, however, pass the bathroom up and go
+on to the Second Foyer.  Once you see what happens 
+there, hide in the Master Bedroom.  From that point on,
+follow the S Ending Guide bearing one thing in mind:
+In the Phone Room, NEVER examine the Suit of Armor.
+It may also pay to never enter the 1st Bathroom, though
+I'm almost 100% certain that it won't matter as long
+as you don't go in before going to the Second Foyer.
+
+Then you will have the same Rank (the S Ending) but
+there will be one difference; whether you consider
+it a small or significant difference depends on
+what how you look at it.
+
+_____________________________________________________
+
+1.9 The A ENDING
+_____________________________________________________
+
+To get the A ENDING, do EXACTLY as you would for the S
+ENDING (whether or not you go for the "Slightly Different
+Variation") except for a couple of things.  
+
+First of all, after getting the Key from the Meat Locker
+in the Kitchen, you'll immediately want to get the 
+Ham from the Refrigerater..
+
+Second of all, never go into the Secret Prison.  That's
+right, completely ignore the parts of the S ENDING guide
+that tell you to go into the Secret Prison, meaning you
+should never move the two crates in the Storage Room,
+and you definitely should never use the pipe to break
+a whole in the wall leading to that room, at least not
+until further notice.
+
+Once you go into the Phone Room, just as you did with
+the S ENDING, go in and out of it over and over until
+you trigger an event.  If you've played through the
+S ENDING, you'll realize that this event is playing
+out somewhat differently than it did on the S Path.
+
+After the events in the Phone Room have finished, you'll
+find yourself in a totally different location (The Shed) sitting
+opposite a certain character.  Use the ham on that character
+as soon as you can.  When you are able to exit through a door
+on the far right, DON'T.  Instead, select the two-by-four block
+of wood right beside the door.  
+
+Do check out the Religious Library and examine everything
+in it you can.  I always did just for the sake of the 
+plot developement, but evidently it's also a MUST 
+for this ending (thanks to Lord Zero for this one)!
+
+Once you have left the Shed, carry on with the exact same
+path you would follow for the S ENDING, and you'll 
+end your journey with the A ENDING.  Decide for yourself
+whether or not it is in fact the "Second Best" ending.
+
+_____________________________________________________
+
+2.0 The B ENDING  
+_____________________________________________________
+
+To get the B ENDING, do exactly as you would in the
+S ENDING except for one difference...go into the 
+Scream Halls until you DO hear a Scream, and then 
+immediately look out a window.  After witnessing
+the event, carry on as usual with the S ENDING strategy
+FULLY (other than the one difference mentioned), and 
+you'll end up getting the B ENDING.  
+
+Just remember, after getting off the elevator, there
+will still be a moment in which, though the threatened
+death is slightly different from the S and A endings, 
+you will have to tap the panic button rapidly to survive.  
+If you should find yourself in immediate danger, use the 
+panic button!
+
+If you're following the S ENDING Path "For a Slightly
+Different Variation" then you'll have to be sure
+to examine the Suit of Armor in the Phone room when
+you go there.  Remember, however, that the B ENDING
+will be exactly the same no matter which path
+for the S ENDING you were following (with the one
+difference suggested in each case) to get it.
+
+_____________________________________________________
+
+2.1 The C ENDING
+_____________________________________________________
+
+Do exactly what you would for the B ENDING, except
+that, once you board the Elevator in the Caves, you 
+should press the button for the 2ND Floor instead of for
+the 3rd Floor.
+
+Once you exit the hall that you find yourself in just
+off the elevator, you will trigger an event.  Tap
+the panic button when it becomes obvious that you're
+in danger.  Run through the door on the left side
+of the screen, then click on either of the doorways
+in the next hall; they both lead to the same
+place (The OutSide Balcony, Room #32).  
+
+Climb the ladder in the background, and while climbing
+it, it will become obvious that you should tap
+the panic button rapidly.  Do so, and from that 
+point on, the ending should play out on its own.
+Enjoy!
+
+_____________________________________________________
+
+2.2 The D ENDING
+_____________________________________________________
+
+Do everything that you would do for the S ENDING, 
+except NEVER enter the Secret Prison, NEVER
+enter the Phone Room (which means you will
+never enter the Religious Study) and NEVER click
+on the shelf beside the calendar in the Kitchen.
+If you find out that you must enter the Religious
+Study (if you get the Scepter instead of the statue)
+then save just before entering the Phone Room, and
+if you trigger an event in that room, restart
+and keep entering the room until you do NOT trigger
+the event, and get the key and leave.  HOWEVER, I 
+recommend you play as though you were going for
+the S ENDING (aside from the differences mentioned
+here) in "In Case of Statue" as it's much easier
+to pull this ending off if you don't have to use
+the Scepter.
+
+Aside from this, play all the way up to the elevator in
+the Caves using the S ENDING Guide aside from these 
+differences.  Then, on the elevator, select the 2nd
+Floor.  Go out into the hallway beyond the one you
+exit the elevator into, and ENDING D will take
+care of itself.
+
+_______________________________________________________
+
+2.3 The E ENDING
+_______________________________________________________
+
+Do the exact same things as you would for the D ENDING
+except that you should select the 3rd Floor once you
+reach the elevator in the caves.  From that point
+on, the E ENDING will play out on its own.
+
+_____________________________________________________
+
+2.4 The F ENDING
+_____________________________________________________
+
+To get the F ENDING, follow the same exact path for the
+S ENDING up UNTIL you have just passed the guard dog.
+DO NOT continue to the right end of the screen, but 
+instead go directly into the cave.  From then on,
+follow the S Ending guide, and you'll find yourself
+getting the F ENDING.
+
+_____________________________________________________
+
+2.5 The G ENDING
+_____________________________________________________
+
+Getting the G Ending is very simple.  Follow the S Ending
+Guide until you have hidden for the first time, having 
+GONE INTO THE 1st BATHROOM upon hearing the dripping sounds.
+Then, after hiding, go into either of the Scream Halls until
+you hear a scream.  Look out one of the hallway's windows.
+Then proceed immediately to the Garage.  There is a crate 
+behind the car, where you will find a key.  Use the key
+on the car repeatedly until Jennifer finally drives away
+into "safety."  Watch the credits roll, then see the ending.
+But will Jennifer's ordeal be over without permanent
+consequences?
+
+_____________________________________________________
+
+2.6 The H ENDING
+_____________________________________________________
+
+The way to get the H Ending is almost identical to
+getting the G Ending, but not quite, so follow these
+instructions.  Follow the S Ending Guide up until you have 
+hidden for the first time.  Then, proceed 
+immediately all the way to the Garage.  There is a crate behind 
+the car, where you will find a key.  Use the key on the car 
+repeatedly until Jennifer finally drives away into "safety."  
+Watch the credits roll, and then afterwards you'll see the 
+ending...can escaping really be that easy?
+
+_____________________________________________________
+
+2.7  Character Analysis  _SPOILERS_
+_____________________________________________________
+
+Do NOT read any further unless you have beaten the 
+game or do not mind to read spoilers...this Character
+Analysis and the following section are in light of things 
+you will have discovered throughout the game.  From here 
+on until the "Closing" Section, THERE WILL BE SPOILERS,
+so if you want to read the Closing but don't want
+any SPOILERS, scroll all the way to the bottom of the page
+without even glancing at the text.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+Who are Bobby and Dan?  What's up with Simon 
+Barrows?  What's the whole truth about Ms. Mary?
+All of these questions are about to be answered, as best
+as I know how.  If you've beaten the game, then you know 
+that there's a lot to these characters, especially</pre><pre id="faqspan-2">
+more than is explained in the beginning of this
+guide.  So, just sit back and read, and you will
+see what seems to be, and what I believe to be, the
+deal with these characters.
+
+MS. MARY (MARY BARROWS):  She really turned out to be 
+the mother of the Barrows Twins, and the wife of Simon
+Barrows.  It is my opinion that the girls did NOT
+know she was Mrs. Barrows, but rather thought she was 
+working with the adoption agency.  My reasoning is that
+when Jennifer sees her name as "Mary Barrows" on her
+father's patient list, she seems to react as though
+she hadn't known that Mary was a Barrows.  In the end,
+Mary turned out to be quite the opposite of a caring
+adoption case worker.  She was full of hatred, and she was
+very evil.  Whether she was tainted upon birthing demonic
+children or whether she married into the Barrows family
+for that very purpose in the first place (the family has
+a history of such demonic happenings), when Jennifer 
+encounters her, any show of genuine kindness shown by
+Ms. Mary is only a front.  Regardless of Ms. Mary's
+initial feelings for her husband, she later made him a 
+prisoner when he couldn't accept their demonic children.  
+Mary seems to be crazy as well as evil, possibly suggesting
+that she was indeed driven insane by her children's abnormal
+birth rather than being originally evil.  Several times in 
+the game, she  says some absurd things, such as disgustedly 
+calling Jennifer a thief despite her own obviously worse 
+offense (murder), and speaking as though killing Jennifer is 
+merely an act of parental discipline.  Whether she is purely 
+evil or simply driven insane (and thus in some sense a tragic 
+villain) by a love for her tainted children, she now partakes 
+in the demonic rituals of the Barrows family heritage (perhaps
+because it nurtures her evil but beloved children), and 
+ultimately forces Jennifer to either kill her or be killed.
+
+SIMON BARROWS:  You ultimately discover that he is
+a prisoner in a cage.  It would seem that he really 
+DIDN'T want the evil family burden of the Barrows.   
+The Barrows family apparently has a family religion 
+centering around demon worship, which has marked their very 
+genetic line, leaving them prone to having demonic, deformed 
+children on occasion (whether this happens at random or due 
+to a deliberate summoning is never explained), but Simon 
+evidently didn't want to have any part of such evil.  When 
+he discovered that his children had been tainted, it seems 
+he rejected them, as Quintin had done to his son generations 
+before.  It is reasonable to believe he tried to use the 
+Clock Tower against the children, but that Mary found out 
+his plan and outsmarted him, ultimately imprisoning him, 
+where he remains imprisoned.  He likely dies of starvation 
+before the game is over, as Jennifer is the only survivor 
+in the sequel.
+
+BOBBY BARROWS:  The most frequent enemy in the game,
+Bobby apparently has a demon inside of him.  In fact,
+it seems his very soul is demonic rather than human.  
+Whether due to rituals or to a Barrows Family
+curse (due to the family religion), Bobby was born
+with a bloodlust and a deformed mind.  It seems Bobby
+has the natural desire to kill, a desire nurtured by
+his mother's all-too-willing approval.  His weapon of
+choice, quite possibly because it can also act as 
+a sheild (Protection since he's nine years old, and 
+even if it's hard to kill him, he can apparently feel pain), 
+is a pair of oversized hedge clippers, or perhaps these
+scissors were specially fashioned by his mother.  
+In any case, he's a terror to behold.  Because of the
+second game, I'm inclined to believe he's wearing 
+some cheap mask, as in the sequel he is said to have 
+worn one..  Jennifer, in her fright, sees this
+as his real face.  Judging by the fact that falling from 
+great heights on multiple occasions doesn't even scathe him, 
+Bobby may be a being that can be killed only by complete 
+destruction--like getting ground up in Clock Gears.  
+He's much more dangerous than his mother for this reason.  It
+is possible that he acts as a guardian for his brother, a role
+that may very well be a sacred one in the Barrows religion if
+his brother is seen as a type of incarnate deity.
+
+DAN BARROWS:  Of the twins, he is the most affected by the Barrows 
+Curse/Religion. Like his brother, he has a demon spirit for a soul, 
+it seems. He is a huge, monstrous creature, who, as though he were a 
+baby, can only crawl because of his massive size.  He is kept and 
+protected in the caves,where his mother and brother possibly feed him 
+the corpses of their victims, which is perhaps the biggest 
+purpose behind their murdurous ways, besides adhering to the 
+Barrows' bloodthirsty religion.  He is very slow, because of his
+limited mobile abilities, but he is very strong and resilient, and 
+may have inherent magical abilities, possibly being the source of much 
+of the supernatural evil in the  mansion, given that he is pampered and 
+possibly even worshipped by his mother and brother (the picture above 
+the altar in the Chapel resembles Dan very much).  For this reason, 
+it is possible that creatures like Dan are seen as incarnations of 
+some sort of deity in the religion of the Barrows family.  Whether his 
+mother believed in and practiced such a thing all along or began to 
+believe (and practice) it after birthing him is unknown.  
+
+SPOILERS for the SEQUEL AHEAD - PLEASE SKIP AHEAD TO "WALTER SIMPSON"
+IF YOU HAVEN'T PLAYED CLOCK TOWER 2 (Called simply "CLOCK TOWER" 
+in the US, NOT "The Struggle Within")
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Dan's different appearance in the sequel has raised many questions.
+In his return, he looks more like his brother, normal in size and 
+form.  Being grossly affected by the Demonic deformities common to 
+the Barrows family, in the original game Dan's demonic spirit
+seems to have worked in a unique fashion, as if the demon used 
+his human body for a core to form upon, growing its own physical 
+manifestation around and engulfing his body.  This would possibly 
+serve as protection for the demon, since, if it was ever destroyed 
+somehow, it could simply retreat from its own physical body, and 
+into its core, which grew inside as a normal (looking) boy.  
+Thus when the demon is finally burned, its outer flesh acts as a 
+shield for the concealed body within.  Jennifer's mesmerized reaction 
+to the burning mass (shown in the opening to the sequel) suggests that 
+she noticed that there was something more to the demon than the outside, 
+and in fact it may be that fact that drives her over the edge and causes
+her to lose her memory of much of her plight.  The limp of Scissorman 
+in the sequel might be seen as a result of Dan's natural body (having
+been in use for less than a year) being weaker than Bobby's, who had no
+problem walking normally with the giant scissors.  And the way Dan 
+claims to have a memory loss could have been more than an alibi, but 
+an excuse to learn correct speech, and figure out a world he's never 
+seen before as the Instructors tried to "restore his memory".  Despite
+the possible disadvantages of being relatively new to using his human 
+body, Dan retains much of his former power in the sequel, being able to 
+influence others to do evil things and being so resilient that only a 
+complete exorcism from the Earthly realm can stop him.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+WALTER SIMPSON:  Jennifer's father, a doctor.  It turns out that the
+occasion of his house call when he disappeared was the birth of 
+Mary Barrows' twin boys.  When he delivered the babies, apparently
+without having any clue as to the Barrows Family history, one
+of them (or perhaps both of them; the translation makes it seem
+that way) ate his hand.  Seeing that they were already horribly
+deformed and bloodthirsty, he knew that the children were demonic.
+However, Mary overpowered him, probably helped along by the fact
+that he had lost a hand and was likely weakened by the shock of
+it.  It is unlikely that Simon helped Mary do this, since Simon
+seems to have been vehemently against taking part in being an
+approving father to the demonic children.  In any event, Walter
+Simpson ultimately died of suffocation from being trapped in
+the Secret Prison, which was evidently sealed airtight.  The
+last thing apparently on his mind was his daughter, Jennifer,
+whose name he wrote three times in his last log before breathing
+his last.
+
+____________________________________________________________________
+
+2.8  Plot Points and Theories  _SPOILERS_
+____________________________________________________________________
+
+Many things have already been covered in the Character Analysis
+section, but I do believe there are a few lingering questions.
+
+WHICH ENDINGS ARE "AUTHENTIC":  (Very minor Spoilers for the Sequel, as
+in it's information you find out very very early in the Sequel and in
+fact can deduce from the instruction manual before you even play the game)
+Well, at the time the game was released, it's probably true that ANY 
+of the endings were authentic.  However, the sequel shows that only 
+Endings A, B, and C could be the authentic endings in the Clock Tower 
+universe if the Sequel is to be included in that Universe.  In some way, 
+these are the most cinematic/dramatic endings, so it makes sense.    
+
+TIME WILL CAUSE ADHERENCE?  What's the deal with the Clock Tower driving
+the Scissorman to his own self inflicted Demise?  It would seem that 
+whichever Barrows originally had the mansion built in Romsdaaren Norway 
+rejected the evil of the family religion and, perhaps using an ancient
+means of fighting evil, erected a special Clock Tower infused with
+some special kind of power.  That power could bind the brand of evil
+that breathes life into the Demon Children sometimes born in the Barrows
+family, and it is released whenever the Clock Tower gears are working.
+Mary evidently realized this, and at some point shortly after the birth of
+her children she stopped the Clock Tower from running (it was evidently
+running on the actual day/night of their birth according to the opening
+for "The First Fear" on the PS1).  She imprisoned Simon then, most likely
+because he tried to use the Clock Tower as a weapon against his children
+or she knew he WOULD try.  Note:  It would seem that the gears really
+do possess some special quality, as opposed to simply driving Bobby
+mad because of the noise; notes in the game specifically say "Time Will
+Cause Adherence," as if it were a solemn guarantee, whereas Bobby's merely
+reacting to a loud noise would be, at best, an unpredictable event.
+
+For more background on this, read the next part; but be warned that there
+are there are SPOILERS for the sequel contained in the rest, for the
+sake of explaining these things fully; that said, these Spoilers concern
+the BACK STORY of the sequel mainly instead of the "present-day" plot of
+the Sequel...but it is particularly interesting back story (that
+largely determines the location of an entire level in that game), so if you
+want to discover it IN the Sequel, please skip ahead to "THE BARROWS
+CURSE"  If you're okay as long as the "present-day" events of the
+sequel aren't ruined, then this section is no Spoiler threat to you (as
+long as you've played the SNES Original, of course) and it will help you
+fill in some of the gaps as to the nature of this game's namesake,
+the Clock Tower.  Otherwise, what you've already read is plenty enough (and
+all that could have been deduced anyway before the sequel was released).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Some reference the sequel to will fill in some gaps.  In the Sequel, you 
+discover that Quinton Barrows, Master of the 13th Generation of the Barrows 
+Family, had discovered a way to exorcise the "Devil Children" that his family 
+was known for breeding.  He was branded a traitor for this, as he rejected the 
+apparently evil religion of his family (which evidently brought a curse upon 
+all  Barrows, though those who practice the family religion evidently look
+upon the curse as a gift) and killed his own son, who was the Scissorman
+in his generation (and possibly the original Scissorman).  Quinton did
+this using a Door that devours whatever enters it; that door was found
+in a cave beneath the original Barrows Castle.  It is reasonable to believe
+that whoever built the Clock Tower in the original game used a similar 
+power (though not by identical means) as that which was used to "exorcise 
+the Devil Children" by Quinton.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+THE BARROWS CURSE:  All that can really be said about the Barrows Curse
+is that it evidently afflicts even those in the Barrows family who do
+not WANT to take part in the family religion.  This would explain
+why bystanders like Simon fathered demonic children 
+despite their obvious resistance to the concept.  Why this curse has
+such a strong hold on the Barrows Family has not been explicitly
+stated by the original developers, and since subsequent owners of
+the series have shown little interest in the original plot, there
+is no official, canonical answer to this question.  It is reasonable
+to believe that the rituals of the Barrows family involved a blood
+pact, so that the very bloodline of the family was marked, regardless
+of whether or not those carrying that blood willed it to be or not.
+It would seem to be that same Curse that, at least when a Demonic 
+Child is present, can cause several supernatural atrocities to occur,
+such as a hand reaching out of a mirror and the reanimation of
+a corpse (in the PS1 version, the FIRST FEAR).  It is the sequel which
+reinforces this information, but since all of this -can- possibly be 
+deduced from the first game, there's no need to include direct Spoilers 
+for the Sequel on this topic.
+
+THE BARROWS RELIGION:  The nature of the Barrows Family's religion
+is obscure in that, for the most part, they seem to follow a 
+generic brand of demon worship.  Upon closer inspection, it seems
+that there are certain specific elements of the religion.  Because
+the picture above the altar in the Chapel (and on the fresco 
+in the Religious study) looks very much like Dan, it's possible that
+the Barrows family religion revolves around trying to incarnate some
+sort of dark deity into a physical form.  In Bobby's and Dan's
+generation, Dan would seem to be that incarnation.  Whether this 
+demonic incarnation happens randomly as a result of the Barrows' 
+family's history with the religion, or whether it may only happen when 
+one or both parents specifically perform certain rituals or cooperate 
+with those rituals is never explicitly stated.   (Minor Spoiler For the 
+Sequel)  The Sequel gives certain indications that the Barrows Religion 
+involves deliberate mockery of Christian beliefs, as certain symbols & 
+images of the Barrows religion seen in the sequel parallel Christian 
+symbols &  images but in a dark, sinister version.  Such parallels 
+would seem to make the "incarnation" of the Demon Children a direct 
+and intentional mockery, by the Barrows' demon-centered Faith, of the 
+Christian belief in the Incarnation.  Such details give the Barrows
+religion an even darker and more sinister edge by having it mock 
+something good and holy.  It is almost certainly the Barrows Religion 
+that causes the Barrows Curse.
+
+JENNIFER'S MOTHER?  Some say that the corpse sometimes found in the
+Trophy Room, which will attack Jennifer in the FIRST FEAR version of
+the game, is in fact Jennifer's mother, who, according to that same
+theory, must have gone to the house with Jennifer's father.  While,
+to my knowledge, there is no official statement confirming this,
+it does make sense that Jennifer's mother accompanied her husband
+to the Barrows Mansion, as for her to have disappeared separately
+from her husband would make Jennifer the victim of a painful 
+coincidence (though that too is possible; or her mother may have
+died from grief over the father; such possibilities are worth
+mentioning and should not be dismissed).  So it is not impossible
+that the corpse in the Trophy room is that of Jennifer's mother;
+however, it is noteworthy that, if that's the case, Jennifer never
+seems to realize it, as she doesn't attach any emotional significance
+to discovering the corpse, unlike her heartfelt display of cradling
+her father's skeletal remains.  It's also interesting that, if this
+corpse is Jennifer's mother, it isn't skeletal like her father's, 
+though it should be ROUGHLY the same age; admittedly, it is possible
+that the body was mummified, being found, after all, in a taxedermy
+room.  However, again, there is no official confirmation of this
+theory, so ultimately the player can decide what he or she believes 
+about this.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+_____________________________________________________
+ 
+2.9  Closing (END OF ALL SPOILERS)
+_____________________________________________________
+
+Finally, this guide seems like it just might
+be finished.  That said, if you have ANY 
+comments on how this FAQ can be made better, please 
+e-mail me at (I'll say it again so you don't have to 
+scroll all the way up there) MrMasonW2DS@hotmail.com.  
+You can also just post a Message on the SNES Clock Tower
+Message Board at GameFAQs.com.  Tell me anything you think 
+could improve this walkthrough.  I can't promise anything
+(unless there's some particular mistake in the walkthrough,
+which I would then certainly try to fix if I can),
+but you never know until you ask, right?  Thanks!    
+
+I will consider putting up a Frequently Asked Questions
+part if I am asked to and given certain specific questions
+to address that I have not already addressed in this guide.  
+However, do not ask me to put anything in the main walkthrough
+that would constitute a Spoiler.  I am pleased with the 
+relatively spoiler free state of the walkthrough as it is, and
+don't want to change that.  In fact, if you spot a spoiler
+I failed to edit out of it (since in the original version I 
+attempted to make a translation guide as much as a walkthrough) 
+please let me know by sending me an e-mail.
+
+Now that all the Endings are Covered and key plot points
+have been explored, if there proves to be no need for an
+FAQ section and no one finds a significant flaw with the guide,
+it looks like this guide is finally complete.  After nearly
+SEVEN YEARS without a single update, I'd say it's about time;
+wouldn't you?  
+
+Thanks for reading this, and I hope you found it entertaining,
+informative, and helpful all at the same time!

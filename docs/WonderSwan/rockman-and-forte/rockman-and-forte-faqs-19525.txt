@@ -1,0 +1,374 @@
+Rockman & Forte for the WonderSwan
+
+FAQ by alex cross (alexcross21@hotmail.com)
+
+Version 1.0
+10/2/2002
+
+
+------------
+Contents
+
+1. Brief intro
+2. Controls
+3. Tips and differences in this game
+4. Item Shop
+5. Mini Walkthrough
+6. Weapons Description
+7. Thanks
+------------
+1. Brief intro
+------------
+
+The game starts out as a Rockman type robot rampages through the city. 
+Rockman intends to save the city from harm while Forte is sent by Wily to 
+find out why there's a resemblance between this mysterious new robot and 
+Rockman.
+
+------------
+2. Controls
+------------
+
+Rockman:
+
+B button: fire (hold down to charge a shot)
+A button: jump
+X4 button: move left
+X2 button: move right
+X3 + A buttons: slide
+
+Forte:
+
+B button: Fire (hold down for rapid fire, can be shot in seven directions)
+A button: jump (press again in the air for a double jump).
+X4 button: move left
+X2 button: Move right
+X3 + A buttons: dash
+
+------------
+3. Tips and differences in this game
+------------
+
+Keep in mind while playing this game that when an enemy is destroyed all 
+shots by that enemy disappear. This will change your fighting style as it is 
+to your advantage to stand in the line of the enemy's fire and keep shooting.
+
+Another thing to note is that you will automatically fall off ladders when 
+your feet touch the bottom of it. This will throw off a lot of people who are 
+used to other Rockman games. Also, when climbing down a ladder to another 
+screen you should be prepared to be dropped off from the ladder when you go 
+to the next screen.
+
+Your special weapons will not be recharged after beating a level.
+
+I have found that no boss is 'weak' to another boss's weapon in this game. In 
+fact, all weapons seem to do the same amount of damage. The only difference 
+damage wise ends up coming from how long the weapon stays 'within' the boss 
+(as special weapons travel through bosses). For example, when you use Konro 
+Man's weapon on Aircon Man, it will do more damage if you use it underneath 
+him then if you were to fire off a shot next to him (as the Aircon will be 
+'hit' more times when it is fired underneath him). This makes the Barrier 
+Wind/Forte Cyclone very powerful as it moves in a wave as will 'hit' a boss 
+more. On Dangan Man (a very wide Boss) this weapon can take off almost half 
+his life in one shot. 
+
+Of the items that can be bought at the shop I recommend the armor the most 
+(though for Forte you might want to get the power shot first).
+
+------------
+4. Item shop
+------------
+
+For what each item does as well as it's cost consult what number matches what 
+is in the grid as you would find it in the item shop. Note that except for 
+extra lives you can only have one of each of these items.
+
+
+|  1  |  2  |  3  |  4  |  5  |  6  |
+-------------------------------------
+|  7  |  8  |  9  |  10 |  11 |  12 |
+-------------------------------------
+|  13 |  14 |  15 |  16 |  17 |  18 |
+
+
+1. Extra life for Rockman. 200 bolts.
+
+2. Extra life for Forte. 200 bolts.
+
+3. Exit unit. Allows you to escape a stage you've already beaten. One use per 
+purchase.  50 bolts.
+
+4.  Rush Coil, for Rockman only. Allows you to perform a high jump off of 
+Rush's back. One use per purchase. 100 bolts.
+
+5. Treble, for Forte only. Enables you to fly for a short amount of time. One 
+use per purchase. 200 bolts.
+
+6. Tango, for Rockman only. Tango bounces around damaging enemies. One use 
+per purchase. 200 bolts.
+
+7.Power shot, for Forte only. Increases the damage Forte's regular weapon 
+does. 300 bolts.
+
+8. Phase shot, for Forte only. Allows your shots to go through walls. 300 
+bolts.
+
+9. Beat, for Rockman only. You become invincible for a short period while 
+Beat damages enemies that he comes in contact with. One use per purchase. 300 
+bolts.
+
+10. Energy equalizer. When you pick up weapon energy icons they are now split 
+between the weapons that have been used. 150 bolts
+
+11. Energy recover up. Increases the amount of energy you get when you grab 
+energy icons. 300 bolts.
+
+12. Energy saver. Cuts down on the amount of energy your boss weapons use. 
+150 bolts.
+
+13. Health recover up. Increases the amount of energy you get when you grab 
+health icons. 200 bolts.
+
+14. Shell. When activated shells will show up on the level you are in that 
+can be shot for items. The effects last for the level or until you die. One 
+use per purchase. 50 bolts.
+
+15.Eddie, for Rockman only. Eddie will drop a random item for you. One use 
+per purchase. 150 bolts.
+
+16. Reggae, for Forte only. Same as Eddie.150 bolts.
+
+17. Spike saver. Instead of getting killed by spikes you only get damaged. 
+One use per purchase. 20 bolts
+
+18. Armor. Lessens the amount of damage you receive. 300 bolts.
+
+
+------------
+5. Mini Walkthrough
+------------
+
+In this section I'll give some pointers on how to get through the levels (if 
+needed) and give strategies on bosses and mini bosses. After the Grey Devil 
+level you can choose which order you take on the next four bosses. This is 
+the order I think will give you the best advantage over the bosses.
+
+------------
+Grey Devil 
+
+Level Tips: None needed.
+
+Mini Boss Strategy: None (there isn't one).
+
+Boss Strategy: The Grey Devil is only vulnerable when it sticks out it's eye. 
+Try to stand about a half step away from it so that the globs it throws go 
+over you. You don't want to make contact with the globs as they will prevent 
+you from moving freely and slowly drain your life. Fire your weapon 
+repeatedly to get free if this happens. After the second time it sticks it's 
+eye out the Grey Devil will then turn into a ball and roll to the other side 
+of the room. Simply jump over him when he does this and repeat the whole 
+process until he is defeated. 
+
+------------
+Konro Man
+
+Level Tips: This level is pretty straight foreword, though it's good to keep 
+in mind that enemy shots disappear with the enemy itself when jumping from 
+platform to platform. Also, keep an eye out for mines, that will flash and 
+blow up a few seconds after you step on them.
+
+Mini Boss Strategy: Just stay out from directly underneath the hand and keep 
+firing at it. If you start running out of floor, head to either the left or 
+right wall as it has ledges that can't be destroyed.
+
+Boss Strategy: Krono Man will fire shots up that will rain down on you and 
+stay on the ground to form obstacles, during which time he can't be hurt. 
+While these shots are coming down they can be destroyed if shot. He will then 
+try to blast you with walls of fire that can be easily jumped over. He will 
+then jump from one side of the room to the other, firing a blast when he is 
+at the center of the room. A very easy boss to beat with your normal weapon, 
+beating him will get you the Flame Shower for Rockman and Flame Mixer for 
+Forte.
+
+------------
+Aircon Man
+
+Level Tips: This level is covered with spikes that will kill you with one 
+touch. After the Mini Boss you will have to ride enemy balloons that you'll 
+have to 'pump up' by shooting them, and 'steer' them by facing the direction 
+you want them to go to. Only shoot them until they are pumped up, though, as 
+a more shots will blow it up. Also, in these areas you might find it easier 
+to slide/dash off the balloons rather then jumping off them. And don't miss 
+the secret area to the right on your way up.
+
+Mini Boss Strategy: Use the Flame Shower/Mixer on him (the Flame weapons 
+shot's will go though the moving bars) while jumping over the shots from the 
+enemies on either side. If you don't have the Flame weapon while playing as 
+Rockman, you'll have to reflect your shots off of the enemies and make it 
+past the bars that are moving from side to side. As Forte you can simply fire 
+directly up.
+
+Boss Strategy: Aircon Man will start off by shooting homing weapons at you 
+(he can't be hurt when he does this). Once you destroy them he will then jump 
+to the top of the screen blowing clouds at you. These clouds will only hurt 
+you if you hit the sides and will kill you if you get caught  between two of 
+them. You can use them as to stand on, however, and will have to do this so 
+that you can fire at him (as Rockman) if you don't have the Flame 
+Shower/Mixer. Once done with the clouds he will come down on the opposite 
+side of the room and will try to suck you into him, while also sucking in 
+some projectiles that you can destroy. Repeat process until you've beaten 
+him. You'll get the Barrier Wind/ Forte Cyclone.
+
+
+------------
+Dangan Man
+
+Level Tips: Not much to this level, though you'll run into a new type of 
+enemy that fires clouds that are exactly like those from Aircon Man. There 
+are also ceiling panels that will fall on you when you are halfway under 
+them.
+
+Mini Boss Strategy: A Simple boss that fires three homing missiles at you. 
+Once you destroy them, he jumps over to the other side of the room. I always 
+use my normal weapon.
+
+Boss Strategy: Dangan Man will jump over to the other side of the room, throw 
+stun weapons at you, and then try to ram you twice and repeat. By far the 
+easiest way to beat him is using the Barrier Wind/Forte Cyclone as it only 
+takes three shots. Beating him will get you the Rockn Vulcan and the Forte 
+Vulcan
+------------
+Komuso Man
+
+Level Tips: This level has some mines and has platforms that will fall once 
+you have touched them. Nothing that's all that hard.
+
+Mini Boss Strategy: Another simple boss that I use the normal weapon on. When 
+it's on the lower half of the screen I keep to the upper and vise versa.
+
+Boss Strategy: This guy can be a pain. He'll run to the center of the room, 
+split himself into three, and have each fire off three shots at you (which 
+thankfully can be destroyed). He'll do this three times while being immune to 
+harm for the most part. When he's done, he'll stand in the center and call 
+flames which will go back and forth. At this point get next to him and use 
+the Flame Shower/Mixer while keep the fire button held down. Once you beat 
+him you will receive Doppel Crash and Doppeler Attack.
+
+
+------------
+Clock Men
+
+Level Tips: New to the game are spring boards that will launch you higher, 
+and enemies that can only be hurt when they are at a certain angle. There is 
+also an area where the ceiling raises and lowers that is lined with spikes. 
+Try to take your time with this as the spikes will kill you with one hit. 
+Another new obstacle are arrows that reverse which way is up and down. Not 
+too hard to deal with, just keep in mind that your controls are still the 
+same.
+
+Mini Boss Strategy: Easy boss that jumps around the room. When it lands it 
+causes stuff to fall from the ceiling. I always use my normal weapon.
+
+Boss Strategy: The Clock Men will try to come at you on both sides and will 
+eventually freeze you. Use Barrier Wind/Forte Cyclone on them for a fast and 
+easy victory. With them gone you get Time Switch/ Time Bomb.
+
+
+------------
+Compass Man
+
+Level Tips: Nothing new in this level.
+
+Mini Boss Strategy: This Boss can only be hurt when the tanks head pops up. 
+The top head will follow you around and either try to blast you or throw a 
+spike at you. Again, I use my normal weapon.
+
+Boss Strategy: This can be the most annoying bosses in the game. He 
+separates, with his top have firing at you while his lower half tries to ram 
+you. He can only be hurt by shooting the top of his lower half. However as 
+this is at an odd height you will have to shoot at him while doing a half 
+jump. Try using either your normal weapon or the Barrier Wind/Forte Cyclone. 
+You don't get a weapon for beating him.
+
+------------
+Rockman Shadow
+
+Level Tips: The only new thing in this level is an area where the floor 
+slowly falls over the course of three screens. If you are playing as Rockman 
+you will have to use the clouds that the enemies blow at you as a platform to 
+get past the third screen.
+
+Mini Boss Strategy: This boss will cling to the ceiling and jump down to fire 
+three homing shots at you. Only it's cannon can be hurt. A full jump will 
+enable you to fire at it, so it's easy enough to kill it with your normal 
+weapon.
+
+Boss Strategy: Rockman Shadow has three different patterns. He will start off 
+by jumping to the center of the screen and either firing a shot at you and 
+then sliding at you, or he will just slide at you. He's easy enough to avoid 
+and fire off shots of your weapon of choice. When his health gets half way 
+down he will start teleporting directly above you and he will try to use a 
+giant drill on you. When he is done with his drill attack rocks will fall 
+from the ceiling. At this point only his head can be harmed. Once he gets 
+down to a quarter of his life he will charge you and try to hit you with an 
+energy sword. I recommend using the Barrier Wind/Forte Cyclone on these last 
+to patterns of his.
+
+
+------------
+6. Weapons Descriptions
+------------
+
+The first named weapon in a group is Rockman's and the second one is Forte's. 
+The weapons are listed as you will find them in the weapon screen.
+
+
+
+Rockn Vulcan & Forte Vulcan
+Received From: Dangan Man
+Description: The Rockn Vulcan fires a shot that will split into three 
+different shots. The Forte Vulcan has limited homing abilities.
+
+Flame Shower & Flame Mixer
+Received From: Konro Man
+Description: Both weapons can be used as a sort of flamethrower by holding 
+the weapon button down. Once released the flames will go upward. The 
+difference is that the Shower looks like an arc of flame will the Mixer 
+circles around Forte.
+
+Barrier Wind & Forte Cyclone
+Received From: Aircon Man
+Description: Both weapons are identical. They both fire a shot that travels 
+in a wave as it goes across the screen. This weapon can be used to destroy 
+the walls that are in front of items such as extra lives.
+
+Doppel Crash & Doppeler Attack
+Received From: Komuso Man
+Description: Crash basically 'punch' the enemy. Attack will split Forte into 
+four mini beings that can hurt enemies by touching them. You can remain in 
+this state by keeping the button held down and can move through walls.
+
+Time Switch & Time Bomb
+Received From: Clock Men
+Description: They both freeze the enemies. You can't fire any shots while 
+using the weapon.
+
+7. Thanks
+
+I'd like to thank the following sites:
+
+www.mmhp.net
+This was the first site I found that had a list of all Megaman/Rockman games. 
+It was also where I found out about this game.
+
+megaman.retrofaction.com
+www.megaman-x.com
+
+Both of wich are great MegaMan sites.
+
+Finally, I'd like to thank
+
+gamefaqs.com
+
+For hosting my FAQ. 
+
