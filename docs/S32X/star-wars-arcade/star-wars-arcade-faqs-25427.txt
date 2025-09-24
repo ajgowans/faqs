@@ -1,0 +1,291 @@
+
+               _________________.    ___      .______
+              /                 |   /   \     |   _  \
+             |   (------|  |----`  /  ^  \    |  |_)  |
+              \   \     |  |      /  /_\  \   |      /
+          .----)   |    |  |     /  _____  \  |  |\  \----.
+          |_______/     |__|    /__/     \__\ | _| `._____|
+
+          ____    __    ____  ___      .______        _______.
+          \   \  /  \  /   / /   \     |   _  \      /       |
+           \   \/    \/   / /  ^  \    |  |_)  |    |   (----`
+            \            / /  /_\  \   |      /      \   \
+             \    /\    / /  _____  \  |  |\  \-------)   |
+              \__/  \__/ /__/     \__\ | _| `.____________/
+
+              _      ____     ____      _      ____    _____
+             / \    |  _ \   / ___|    / \    |  _ \  | ____|
+            / _ \   | |_) | | |       / _ \   | | | | |  _|
+           / ___ \  |  _ <  | |___   / ___ \  | |_| | | |___
+          /_/   \_\ |_| \_\  \____| /_/   \_\ |____/  |_____|
+
+o---------------------------------------------------------------------o
+|-=-=-=-=-=-=-=-=-=-=-=-=Star Wars: Aracade-=-=-=-=-=-=-=-=-=-=-=-=-=-|
+|...........................Version 1.0...............................|
+|...........................By Zee3Dee3...............................|
+|.......................Last Updated 8/31/03..........................|
+|-=-=-=-=-=-=-=-=-=-=-=-=-pdorr3@yahoo.com-=-=-=-=-=-=-=-=-=-=-=-=-=-=|
+o---------------------------------------------------------------------o
+ _____________________________________________________________________
+ \-------------------------Table of Contents-------------------------/
+  \_________________________________________________________________/
+                        \_____________________/
+                        |-Version History-----|
+                        |-Guide Introduction--|
+                        |-Story---------------|
+                        |-Ships---------------|
+                        |-Enemies-------------|
+                        |-Walkthrough---------|
+                        |-Hints & Tips--------|
+                        |-Secrets-------------|
+                        |-FAQ-----------------|
+                        |-Contact Info--------|
+                        |-Copyright Info------|
+                        |-Credits-------------|
+                        |_____________________|
+                        \_____________________/
+
+ _______________________________________________________________________
+ \-------------------------Version History-----------------------------/
+  \___________________________________________________________________/
+
+.-------------.
+| Version 1.0 |
+| 8/31/03     |
+'-------------'
+-The FAQS first update, it will cover mostly all the sections listed,
+with only a few more things to be added in the next version update.
+
+_______________________________________________________________________
+\-------------------------Guide Information---------------------------/
+ \___________________________________________________________________/
+
+-Seeing that this game was in the top 10 viewed FAQ's and only having
+a single "Hints & Tips" guide, I decided to pounce upon the chance
+to make a full FAQ/Walkthrough. This FAQ will cover everything this
+game has to offer. From the story line, to a enemy list, and even
+unlockable secrets, you can find it all here!
+
+-Please be sure to read all sections of this FAQ, including the
+copyright information, incase you planned on using this guide for your
+own personal use.
+
+-I hope you enjoy this FAQ, and please feel free to email me with any
+questions or comments you might have!
+
+
+_______________________________________________________________________
+\------------------------------Story----------------------------------/
+ \___________________________________________________________________/
+
+-Coming Soon!
+
+_______________________________________________________________________
+\------------------------------Ships----------------------------------/
+ \___________________________________________________________________/
+
+.-------------.
+|    Pilot    |
+'-------------'
+-Craft:   X-Wing
+-Crew:    One
+-Shields: 7 Units
+-Weapons: 4 Lasers
+
+-Info
+This is the ship you will be using if you are playing alone. It has
+just one less shield unit than the Y-Wing, not making too much of a
+difference, but you do get 4 lasrers, 2 more than the Y-Wing.
+
+.-------------.
+|   Pilot &   |
+|   Gunner    |
+'-------------'
+-Craft:   Y-Wing
+-Crew:    Two
+-Shields: 8 Units
+-Weapons: 2 Lasrers
+
+-Info
+If you want an easier game, you can use this ship and play the game
+in two player mode. One player conrols the ship itself, and the main
+gun, while the other player controls a turret, their crosshairs are
+green. While this shit has 1 more shield unit than the X-Wing, and
+2 less lasers, this is the ship of choice, if you want an easier
+game.
+
+
+_______________________________________________________________________
+\------------------------------Enemies--------------------------------/
+ \___________________________________________________________________/
+
+.-------------.
+| Tie Fighter |
+'-------------'
+-Your basic enemy unit, seen all over the game. They shoot lasr beams
+and leave behind electric type bombs. They can be shoot down in 1 shot.
+
+.----------------.
+| Star Destroyer |
+'----------------'
+-Large ships that fire multiple laser beams at once. They cannot be shot
+down, and and also move very slow on screen, if at all.
+
+
+_______________________________________________________________________
+\---------------------------Walkthrough-------------------------------/
+ \___________________________________________________________________/
+
+.------------------.
+|      Level 1     |
+|  Difficulty 1/5  |
+|      Tie x15     |
+'------------------'
+
+-The first level is a breeze, its really a warm up stage, where you
+must shoot down 15 tie fighters, and avoid the asteroids in the
+asteroid fields. The tie fighters fly right in front of you and
+only start to let go of a few bombs at the very end of the level.
+Shoot them all down and you are done.
+
+.------------------.
+|      Level 2     |
+|  Difficulty 2/5  |
+|      Tie x20     |
+'------------------'
+
+-Now you must deal with Star Destroyers. They shoot large laser
+blasts right toward you, and the lasers come in about 3-4 in a group.
+Dodge the laser shoots from the SD's, watch out for the asteroids,
+and shoot down 20 tie fighters. The tie's are a bit more aggressive
+now also, as they will fire a few laser shots here and there, and let
+go of a few bombs. Nothing you cant handle, just got a bit more things
+to avaoid.
+
+.------------------.
+|      Level 3     |
+|  Difficulty 2/5  |
+|      Tie x25     |
+'------------------'
+
+-No Star Destroyers to deal with this time, but now the tie's have
+learned a bit more, and that includes flying head on towards you.
+Now instead of the ties coming up from behind you everytime, they
+will now quickly go from left to the right of the screen, or even
+fly almost directly towards you. I highly advise you now start to
+use your torpedos now, as some of these ties fly pretty darn quick
+to just hit with a normal laser shot. Avoid the asteroids also,
+and you should be fine. You basicaly went through a bit more
+advanced version of level one.
+
+_______________________________________________________________________
+\---------------------------Hints & Tips------------------------------/
+ \___________________________________________________________________/
+
+-Its a good idea to bring a buddy along to help you out. Two people
+firing at once is better than one!
+
+-Proton torpedoes are useful when the tie fighters are in a far away
+distance, dont use one if the tie fighter is right in front of you
+and you can hit it with a simple laser blast.
+
+-Try and play in cockpit view, it lets you see the radar, which can
+actualy prove to be quite useful at times.
+
+-Always hold down the laser button, you never know when a tie fighter
+will come flying right in front of you!
+
+-Use the in game messages to your advantage, they let you know when
+tie's are coming in from behind, so at this point you should slow
+down and let them pass you, then blast them!
+
+_______________________________________________________________________
+\------------------------------Secrets--------------------------------/
+ \___________________________________________________________________/
+
+Sound Test-
+Pause the game and press:
+Up, Right, Left, A, Down, Up
+Your game will now restart.
+
+-Timer Restart
+Pause the game and press:
+Left, Down, A, C, Down, Up
+If entered correctly, you will hear a noise.
+
+-Timer Stop
+Pause the game and press:
+Down, B, B, Up, Right, Left
+If entered correctly, you will hear a noise.
+
+_______________________________________________________________________
+\--------------------------------FAQ----------------------------------/
+ \___________________________________________________________________/
+
+-Submit your questions to:
+pdorr3@yahoo.com
+All legit questions will be answered through email, and if you give me
+permission the question you provided and the answer you received will
+be posted here in this section of my guide.
+
+Q: What do I need to play this game?
+------------------------------------
+A: You need a Sega console, of any version or year, then you must have
+the sega add on console called the 32x, this hooks onto the top of your
+sega, where you may now purchase 32x games.
+
+Q: Where can I buy this game?
+-----------------------------
+A: Your best bet is www.eBay.com, you can probably find it here and
+purchase it for a very low price of between $2-10.
+
+_______________________________________________________________________
+\----------------------------Contact Info-----------------------------/
+ \___________________________________________________________________/
+
+-Feel free to contact me at anytime. I  check my email about 5 times a
+week, you may contact me by email here:
+pdorr3@yahoo.com
+
+-You may also contact me through AOL Innstant Messanger (AIM) Here is
+my AIM screen name:
+PDorr3
+
+_______________________________________________________________________
+\------------------------------Credits--------------------------------/
+ \___________________________________________________________________/
+
+-Thanks to CJayC for maintaining such an awsome gaming site.
+-Lucas Arts for making the best movie series ever.
+
+_______________________________________________________________________
+\---------------------------Copyright Info----------------------------/
+ \___________________________________________________________________/
+
+-(C)Copyright 2003 Peter Dorr (Zee3Dee33)
+
+-This guide may be used for personal annd private use, such as printing
+it and using it as your own personal guide. If you wish to use it for
+a personal website or such, PLEASE contact me first and get my
+permission, if you offend these rules, you will be delt with as this
+violation of copyright law, so give credit where it is due!
+
+-All trademarks and copyrights containeed in this document are owned by
+their respective trademark and copyright holders.
+
+|'''''||                  ____ '||''|.                   ____
+    .|'     ....    ....  ` //  ||   ||    ....    ....  ` //
+   ||     .|...|| .|...||  //   ||    || .|...|| .|...||  //
+ .|'      ||      ||       \\   ||    || ||      ||       \\
+||......|  '|...'  '|...'   )) .||...|'   '|...'  '|...'   ))
+                           //                             //
+                          /'                             /'
+
+
+
+
+
+
+
+
+

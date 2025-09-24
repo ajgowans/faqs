@@ -1,0 +1,834 @@
+                             Sega 32X Installation and Hookup FAQ
+
+Version 1.0-July 2nd, 2002.
+
+
+Legal Stuff:
+
+Any materials or information quoted in this document are the sole property of
+their specific owners.
+
+Neither I nor any website hosting this document are in any way affiliated with
+Sega Corporation.
+
+Neither the author of this FAQ or The Sega Corporation assumes no liability for
+any consequences the use of this information may have.  This information is
+presented for educational purposes only and you utilize this information at
+your own risk.  This document and any of the materials quoted in it are
+protected by international copyright law.
+
+The entire contents of this FAQ are copyright 2002 by Nick Crait.  Feel free to
+distribute this FAQ to the four winds if you wish but DO NOT MODIFY IT.  Also,
+you may NOT charge a fee or otherwise profit from this FAQ.  This FAQ is meant
+to be free for everyone to use and share.  This includes having the FAQ
+reprinted in commercial publications both electronic and on paper.  You will be
+sued if you do so.  You may distribute this FAQ in hard copy or electronic
+format as long as you do so freely.  You may post this on your website as long
+as you do not modify the text and you give me credit as the author.  Any
+attempt to misrepresent this work as your own will be litigated.  If you wish
+to convert this to HTML, Latex, PDF, etc. please ask me before doing so.  I'm
+sure it will be fine but I'd like to know first.
+
+Some of the information in this document has been gleaned from the following
+excellent sources (Nothing has been quoted as yet but these documents were used
+as general information sources):
+
+Sega Saturn FAQ by John Hokanson Jr.
+[http://db.gamefaqs.com/console/saturn/file/sega_saturn_b.txt]
+
+The Sega Megadrive/Genesis FAQ by Chris Foulger
+[http://db.gamefaqs.com/console/genesis/file/sega_master_system_a.txt]
+
+The Sega 32X FAQ by Gordon Craick
+[http://db.gamefaqs.com/console/32x/file/sega_32x.txt]
+
+The Sega CD FAQ by Barry W. Cantin
+[http://db.gamefaqs.com/console/segacd/file/sega_cd.txt]
+
+The author gratefully acknowledges these sources.  A hearty thank you goes out
+to these authors for writing these documents.  For more information on these
+specific platforms please read those FAQ's.
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Revision history:
+
+Version 1.0:  Initial version of the FAQ.  Began writing in June of 2002. 
+Probably about 8 million spelling and grammatical errors.  Finished on July 2nd
+of 2002.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 1-Questions and Answers
+
+
+Q:  Why this FAQ?
+
+A:  I wrote this FAQ because I started looking around on the net for
+information on the 32X.  I'm a game collector and was interested in getting one
+to add to my collection.  Unfortunately, I discovered this isn't a whole lot of
+information on the 32X other than technical specs and some game reviews.  I
+then got a 32X off of eBay and when it arrived, I found that there I didn't
+have all the cables needed to hook it up to my Genesis and had to send it back.
+ Luckily, the seller was nice about it and let me send it back at no charge. 
+When I started asking around I found that I wasn't the only one with this
+problem.  So next I was lucky enough to get a brand new 32X off of eBay that
+came with instructions and everything.  I figured that there's a lot of 32Xs
+floating around and that people have no idea how to hook them up when they get
+them.  So I figured I'd try and fill the gap by offering this FAQ up.
+
+
+Q:  What is the Sega 32X?
+
+A:  The 32X is a hardware add-on for the Genesis.  It hooks into the cartridge
+port of the Genesis and via a pass through cable on the back.  The 32X contains
+its own microprocessors to enhance the abilities of the Genesis, mostly by
+providing better graphics and some 3D abilities.
+
+The 32X's processors run in parallel with the hardware in the Genesis to
+provide a speed, graphics, and sound boost.  The 32X plays special Sega 32X
+cartridges that are similar in shape to Genesis cartridges and utilize the
+special abilities of the 32X.  You can also plug regular Genesis carts into the
+32X without removing it from the Genesis.  I have heard, however, of some
+possible problems with damage to Genesis carts doing this.  I have no idea if
+this has any basis in fact.
+
+
+Q:  What's the deal with the 32X and the Sega CD?
+
+A:  The 32X is also capable of enhancing the abilities of the Sega CD if the
+user has one.  There are special Sega CD 32X games that you play in the Sega CD
+that take advantage of the extra hardware of the 32X.  Essentially, the 32X
+cleans up some of the graininess of full motion video (FMV) and allows the game
+to use more colors.  The only Sega CD 32X games that I know of (released in the
+US) are all FMV titles that are essentially interactive movies.  If anyone
+knows of any other games that used the Sega CD/32X combo please let me know.  I
+will, of course, give you credit in the FAQ if you wish.
+
+
+Q:  What was the point of the 32X?
+
+A:  I'm not sure if anyone exactly knows.  From what I've read, my speculation
+is that Sega wanted something to extend the product life of the Genesis and to
+combat the Super Nintendo (which had better graphics and sound than the
+Genesis).  The Saturn was on the horizon but Sega needed something to compete
+with in the meantime.  The 32X was released in the US first and Japan and
+Europe followed.  For a variety of reasons (cost, software selection,
+competition, etc) the 32X did not sell well at all and pretty much faded into
+oblivion fairly quickly.
+
+
+Q:  Why didn't the 32X sell very well?
+
+A:  That question is currently beyond the scope of this FAQ.  GameFaq's hosts
+some other FAQ's that can answer this question better than I.  For starters try
+Gordon Craick's FAQ at:
+http://db.gamefaqs.com/console/32x/file/sega_32x.txt.  You should be able to
+find general information about the 32X sprinkled throughout the web as well.
+
+
+Q:  What are the best games for the 32X?
+
+A:  That depends on your taste.  In general, 32X games are reportedly pretty
+terrible.  There are some gems however.  Virtua Racing Deluxe is generally
+considered to be the best port of the arcade game, even better than the Saturn
+version.  Virtua Fighter is supposed to be a pretty good fighting game with
+decent control but I don't know how it fares against its Saturn counterpart. 
+Space Harrier is considered to be a very good port of the original arcade game
+and Night Trap Sega CD 32X is probably the most popular interactive movie title
+for the Sega CD.
+
+
+Q:  Where can I get a 32X?
+
+A:  I got mine on eBay.  Game stores with used merchandise may have them from
+time to time.  And I assume there are other sources on the Internet that sell
+32Xs.  Before you buy however, read the section of this FAQ on hooking it up,
+because its very important you have all the parts you need.  BE SURE to get the
+A/C adapter for it.  I believe but I am not sure that the 32X uses the same A/C
+adapter as the Genesis 2.  I will check and find out.  If so, you should be
+able to cannibalize a spare Genesis 2 A/C adapter for the 32X.  However, you
+MUST have all the cables necessary to hook it up to your system.
+
+
+Q:  Can I hook up my 32X to a Sega CDX?
+
+I think so.  The 32X FAQ on www.gamefaqs.com
+{http://db.gamefaqs.com/console/32x/file/sega_32x.txt} says it can be done. 
+Also, the instructions that come with the 32X do say how to connect the 32X to
+a Sega CDX.  However, in the same box that came with those instructions there
+was a small addendum that said NOT to hook up the 32X to the Sega CDX.  The 32X
+FAQ says that the reason Sega says not to hook up the 32X to the CDX (Aghhh! 
+Too many abbreviations!) is because Sega did not receive permission from the
+Federal Communications Commission (FCC) to connect the two systems.  This
+sounds pretty plausible. Reportedly, the 32X works just fine with the CDX while
+playing cartridges.  However, the 32X apparently blocks the CD lid of the 32X
+while it's installed.  I would assume that you could insert your Sega CD/32X
+disc in the CDX first before you connect the 32X.  Please let me know if you
+have tried this.
+
+
+Q:  FCC approval?  What the hell is FCC approval?
+
+A:  The FCC regulates the sale of pretty much anything electronic in the United
+States.  In order to almost any electronic or computerized device the
+manufacturer must first get permission from the FCC.  This is because the FCC
+is charged with maintaining radio, television, satellite, etc frequencies in
+the United States.  Game consoles and computers emit radio, magnetic, etc
+signals when they are on.  If they emit too much of the wrong kind of
+transmission it can mess up the operation of other devices like televisions,
+computers, and radios and/or maybe screw up TV, radio, etc transmissions in the
+area.  Therefore if Sega did not get permission ahead of time from the FCC for
+the CDX/32X combination they would legally not be allowed to sell it in the
+United States.
+
+
+Q:  Is it possible to hook up the 32X to a Nomad?
+
+A:  I don't know but my guess would be a strong no.  At any rate, I don't think
+I'd want to risk killing something as rare as a Nomad trying it out.
+
+
+Q:  My God, don't you ever shut up?
+
+A:  Yeah, I hear that from my mother all the time.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 2: Different Genesis models
+
+
+This is the real meat of this FAQ.  Hooking up the 32X isn't that hard but it
+is complicated compared to setting up most consoles.  You have to deal with the
+connections to the Genesis and to the 32X itself.  The most common problem is
+simply that one doesn't have the instructions.  Never fear, I will show you the
+way to salvation.
+
+First, a word on the different models of the Genesis (also known as the Mega
+Drive in the UK, Japan, and South America).  There are 3 different models of
+the Genesis and each of them works with the 32X in a different way.  Here's how
+to tell the difference. (Thanks to Chris Foulger for his excellent
+Sega Genesis/Megadrive FAQ at:
+http://db.gamefaqs.com/console/genesis/file/sega_master_system_a.txt
+
+Genesis model 1:  The original American Genesis.  Looking at it from the front,
+it has a headphone jack and volume control on the front left side.  It is the
+biggest of the 3 consoles.  There is a round, raised part on the top of the
+unit which has the Genesis logo on it.  On the top back of the console the
+words "High Definition Graphics" are written in raised, silver lettering.  It
+has 4 plugs on the rear of the unit:  RF switch output, DIN monaural A/V
+output, A/C adapter input, and Serial EXT. Output.  The 32X will work with this
+model of Genesis and instructions for hooking them up were included with new
+32Xs.
+
+Genesis 2:  The Genesis 2 was the revised model Genesis with different styling.
+ It is somewhat smaller than the original Genesis and has NO headphone jack or
+volume control.  The top front of the console has buttons on the front (power
+and reset) and three small red LEDs between those two buttons.  The "Genesis"
+logo is written on the back top behind the cartridge input.  The Genesis 2 has
+only TWO jacks on the back.  The first jack is for the A/C (power) adapter. 
+The Genesis 2 uses a different A/C adapter than the original Genesis.  The
+second jack is the A/V OUT.  You would hook up an RF switch or A/V cables to
+this port.  You can hook up a stereo A/V cable to the Genesis 2 to get stereo
+sound through your television or stereo.  Note:  The A/V connector for the
+Genesis 2 is different from that of the original Genesis and they are NOT
+compatible physically or electrically.
+
+Genesis 3:  This is the newest model of Genesis and was made and sold by a
+third party company for Sega.  This is the smaller than both model 1 and 2
+Genesis' and has bright red lettering saying: (insert here) on the top of it.
+The 32X is NOT COMPATIBLE with the Genesis 3.  I don't know why.  If anyone
+knows, please tell me.
+
+Sega CDX:  The CDX is an all-in-one Genesis and Sega CD combination unit.  It
+is designed to be portable and is probably the smallest of all the Genesis'
+(excepting the Nomad).  The CDX is a small rectangular thing and contains a top
+loading CD drive in the front with a built in cartridge port in the back. 
+Officially, the 32X is not compatible with the CDX.  However, I have read in
+the 32X FAQ by Gordon Craick that the 32X can safely be hooked up to the CDX
+and works fine.  Apparently the 32X/CDX combination did not have FCC approval
+so Sega could not advertise them as being compatible.  I have no idea if this
+is true.  The 32X *did* come with instructions for hooking up the 32X to a CDX
+but a small note was inserted stating that the 32X was not compatible with the
+Sega CDX after all.  My guess would be that they printed sets of instructions
+ahead of time and after the system shipped the FCC reminded them they did not
+have FCC approval for the CDX/32X combination.
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 3:  Sega 32X cables, hookups, etc.
+
+
+The 32X came with more parts and cables than most game consoles do.  Depending
+on which model of Genesis you have you will need all of the cables that
+originally came with the system.  Finding all these is easier said than done. 
+Here is a list and description of the various cables that came with the 32x.
+
+1.)  A/C Adapter
+This is used to feed power to the 32X.
+
+2.)  Mini-din to mini-din cable
+This cable is (I think) used to pass the video signal from the Genesis to the
+32X.  This cable is about 10-12 inches long and has a large plastic "bulb" on
+one end of the cable.  Both sides of the cable end in an eight pin round male
+connector.  The connectors look a lot like modern PC keyboard connectors.  This
+cable connects the A/V IN port of the 32X to the A/V OUT port of the Genesis 2.
+ This cable is required for hooking up to both the Genesis 1 and 2 consoles.
+
+3.)  Genesis 1 DIN to 32X mini-din adapter cable
+This cable is used in conjunction with the cable described above to hook up the
+Genesis 1 to the 32X.  Add description.
+
+4.)  Plastic spacer
+This is a black plastic "collar" that goes around the "neck" at the bottom of
+the 32X.  This is used to hook up the 32X to the Genesis 2.  It doesn't
+actually do anything electrically or electronically; its purpose is to make the
+32X fit snugly against the cartridge port of the Genesis 2.  You don't need
+this to hook up the 32X to the Genesis 1.  I imagine the 32X will work on a
+Genesis 2 without the plastic spacer but it may not seat properly which could
+cause problems and/or damage.  Do so at your own risk.
+
+5.)  Metal clips
+These are two little metal clips that are used when attaching the 32X to the
+Genesis 1.  The instructions say something about them being magnetic/RF
+shielding clips.  I have no idea what these things do.  What I do know,
+however, is that they're a pain in the ass to install into the Genesis and when
+you remove the 32X to just use the Genesis you must remove the clips, which is
+a pain in the ass.  I didn't use them to hook up my 32X and have had no
+problems so far.  You can install them if you want to but they may not be worth
+the trouble.
+
+6.)  A/V out cable
+This cable is very similar to the A/V cable that came with the Genesis 2
+console.  In fact, I believe the two cables are interchangeable.  This cable
+has a male mini-din connector on one end to hook up to the A/V out port of the
+32X.  The other end of the cable ends in two RCA jacks (yellow for video, white
+for audio) that hook up a television.  This cable is monor (meaning you can't
+get stereo sound out of it) so you will need a different cable (or cables,
+depending) to get your 32X to output stereo sound.  You will need this cable to
+hook up the 32X to the Genesis 1 and 2 unless you have a suitable replacement
+cable.
+
+The 32X also came with instructions, promotional flyers, and packing materials.
+ The 32X instructions (at least the ones I have) included provisions for
+hooking the 32X up to the Genesis 1, 2, and CDX.  It does not say how to
+connect the 32X to a Genesis 3 and I believe it is not possible to do so
+anyway.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 4:  Hooking Up the Beast
+
+
+The Sega 32X isn't really a difficult system to hook up but most people come
+across them without the right parts or instructions.  This section will deal
+with how you physically install the 32X onto your Genesis to play 32X games.
+I'll first tell you which parts you'll need to connect it to a particular model
+of Genesis and then tell you how to actually use the parts.  Some of this is
+simply paraphrased from the 32X instruction manual.
+-------------------------------------------------------------------------------------------------
+
+Hooking up to a Genesis 1:
+
+In order to hook up the 32X to an original model Genesis (a.k.a. Genesis 1_ you
+will need the following parts:
+
+The 32X itself (duh).
+The male mini-din to male mini-din cable.
+The male Standard DIN (the larger, rounder connector on the back of the Genesis
+1) to female mini-din adapter cable.
+Possibly the horrid little metal clips.
+
+First off, unplug the Genesis and 32X from the electrical outlet.  Secondly,
+make sure the plastic spacer is NOT on the bottom of the 32X.  The neck of the
+32X has the same shape as Genesis cartridge and goes into the cartridge slot in
+the exact same way.  (Insert metal clip instructions here)
+Gently insert the cartridge shaped neck of the 32X into the cartridge slot of
+the Genesis.  Push down gently but don't force it.  You should be able to tell
+when it's seated all the way (remember, just think of it as a heavier cartridge
+and insert it like that) nice and snug.  The 32X should now be sitting on top
+of the Genesis and looking quite out of place.
+
+Next, look at the back of the Genesis.  See that black round place with the
+little holes in it (the holes like the pupils of Kermit the Frog).  Now find
+your cable that has the big round connector on it.  You should see some fat
+round pins coming out of that thing.  Those pins line up with the holes in the
+back of the Genesis.  Okay, now take that connector and find the arrow that
+point's forward (it should be on the outside rubber part of the connector). 
+Orient the connector so the arrow point is facing up towards the ceiling and
+forward towards the round port on the back of the Genesis.  Now slide the cable
+into the port on the back of the Genesis.  Be careful while you do this because
+it's not that hard to bend or break the pins and therefore destroy your Genesis
+(bad) or the 32X cable (worse).  The only advice I can give is to move the
+connector around until the pins slide in without requiring much force.  It's
+hard to see what you're doing when you're doing this so be careful.  If you
+want to get some practice find an old PC and with a keyboard port that looks
+like the one on the back of the Genesis.  Then find a keyboard with a connector
+to match and practice connecting and disconnecting the computer and keyboard.
+
+Once you have that cable connected to the back of the Genesis you should have
+the other end of the cable flopping on the floor.  Now get your male mini-din
+to male mini-din cable.  Take the end of that cable that DOES NOT have the fat
+round growth near the end.  This is the end of the cable you will attach to the
+OTHER cable coming out of the Genesis.
+
+Those two cables are essentially smaller versions of the thing you installed a
+minute ago.  These should also have arrows so you can tell that orientation
+they should be in.  Now, line up those two arrows so they're facing each other.
+ Now gently slide the connectors together until they're snugly fit together and
+you can't see any metal between them.  Be careful here as well because these
+pins are smaller than the others and therefore more delicate.  Once again,
+don't force them.  Want some practice?  Well, this time find a newer PC and
+keyboard.  Actually, for this one you can use an older Mac with ADB connectors.
+ Just practice putting those bad boys together without destroying the pins and
+you should be able to assemble the Genesis/32X cables.
+
+Now you should have the fatter end of the male mini-din to male mini-din cable
+flopping on the floor.  Take a look at the back of your 32X.  See those two
+round indentations side by side?  They look identical, right?  Well, written
+below those little ports should be the words "A/V OUT" on the left most side
+and "A/V IN" on the right most side.  You want to take the loose end of your
+two-cable combination and plug it into the port marked A/V IN.  Once again,
+have the arrow on the cable pointing forward and facing upward.  Gently plug it
+into the A/V IN port.
+
+Now you're done connecting up the Genesis to the 32X.  All you have to do now
+is connect the 32X to your TV and you're good to go.
+
+Find that cable with the male mini-din connector on one end and the yellow and
+white RCA jacks on the other.  Line up the arrow on the mini-din connector of
+that cable to the "A/V OUT" port of the 32X.  Insert it in there just like you
+did with its neighbor to the left.  Now just plug the RCA jacks into your TV. 
+Voila!
+
+All you need to do now is hook up the 32X power supply and plug it in.  Then
+hook up the Genesis' power supply and plug it in.  Make sure all your
+connections are tight and in the right places.  Then stick a 32X cartridge into
+the cartridge slot of the 32X and switch on your Genesis (there's no on switch
+on the 32X itself).  You should now be able to enjoy the (limited) library of
+32X games.  Try Virtua Racing Deluxe.  It doesn't look flashy but it's fun.
+
+Please note that the method described above will only give you mono sound from
+your system.  I'll talk about how to enable stereo sound later.
+
+Addendum:  If you don't have Audio/Video (RCA) jacks on your TV.  If you only
+have the big VHF connector on the back of your TV (the kind where you hook in
+cable TV) then you'll need another part.  Just obtain an RF switch for the
+Genesis 2.  The Genesis 2 and the 32X share the same kind of A/V ports.  Hook
+up the 32X to the Genesis 1 in the same way as I described above.  But instead
+of using the cable with the yellow and white jacks, put the mini-din connector
+into the A/V OUT port of the 32X.  Then connect the other end to the TV.  Easy
+as pie.  This will also give you mono sound.
+
+Please note that I did not include instructions for putting the in the little
+metal clips.  The official instructions advise putting them in before you do
+anything else.  However it's almost impossible to describe how to do it without
+diagrams and I don't think it has much affect anyway.
+It's up to you whether you want to try and install them or not.  I will NOT be
+adding installation instructions for the little metal clips in the future.
+
+-------------------------------------------------------------------------------------------------
+
+Hooking up to a Genesis 2:
+
+The 32X really was designed to be used with the Genesis 2.  All the pictures on
+the boxes show it with a Genesis 2 and it's obvious from the styling that the
+32X is meant to visually complement the Genesis 2.  There's no performance
+difference or anything but it's a little easier to attach it to the Genesis 2
+then the original.  Here we go.
+
+You will need the following to hook up the 32X to a Genesis 2:
+
+Male mini-din to male mini-din connector cable.
+32X A/C power supply.
+Black plastic spacer that fits on the bottom of the 32X.
+Male mini-din to RCA (audio/video jacks) cable either mono (yellow, white) or
+stereo (red, yellow, white).
+Possibly the horrid little metal clips.
+
+First off, unplug everything again.  I rather doubt you'll electrocute yourself
+and die but I figure it's not worth the risk.  You're more likely the kill the
+hardware than yourself anyway.
+
+Now, take the black plastic spacer and see how it curves.  Orient it so the
+part that curves UPWARD is facing up towards the ceiling.  Now slide it under
+the 32X (around its "neck') and up until it is flush against the curving outer
+bottom of the 32X.  There should be a nice click or two to tell you when you're
+done.  This requires very little force so if it won't go on easily you're
+probably doing something wrong.  You may be able to get away without this
+spacer if you simply can't find it.  I don't know.  I'd certainly use it if you
+have it though.
+
+Secondly, align the 32X with the Genesis.  The logo on the front of the 32X
+should be facing FORWARD toward you.
+
+And the logo on the Genesis 2 should be towards the BACK of the unit.  If by
+some chance you have things backwards the 32X won't go in anyway so you don't
+have much to worry about.
+
+Take the 32X and gently insert its "neck" into the cartridge input of the
+Genesis 2.  Push down until you feel it's all the way in.  Don't force it.  It
+should fit in nice and snug.  Just insert it like a cartridge.
+
+Ok, now take that male mini-din to male mini-din cable (I'm sorry I don't have
+a more user friendly description of it).  Take the end WITHOUT the large round
+"growth" on it and plug it into the A/V port on the back of the Genesis 2.  If
+you have a Genesis 2 you should be familiar with this procedure.  Make sure
+it's nice and snug and don't bend the pins.  That would be bad.  Oh yes, that
+would be bad indeed.
+
+Now take the other end of the cable flopping on the floor.  Find the A/V IN
+port on the back of the 32X.  Take the free end of the cable coming from the
+Genesis 2 (the one with the big "growth" on the end) and orient it so the arrow
+is facing upwards towards the ceiling.  Insert it into the A/V IN port of the
+32X.  Now your Genesis 2 and 32X are connected.
+
+Next take either the A/V cable that came with your Genesis 2 or the one that
+came with the 32X (either works fine) and plug it into the A/V OUT port of the
+32X.  Then just plug the other end of it (the RCA jacks) into your TV.
+
+Lastly, connect up the power supplies for the Genesis 2 and the 32X.  I
+*believe* the power supplies are identical but I'm not sure.  *IF* they are you
+should be able to use the power supply from another Genesis 2 for the 32X if
+you can't find the one that came with the 32X.
+
+Once your power is up insert a 32X cartridge into the 32X and hit the power
+button the Genesis 2.
+You should now be able to experience the joys of parallel processing.
+
+Addendum:  If you only have a VHF connector on the back of your TV you'll need
+a Genesis 2 RF switch to connect up your 32X to the TV.  If you've ever played
+your Genesis 2 you should have one of these already.  Just plug it into the A/V
+OUT port of the 32X instead and connect the other end to the big round
+connector on the back of the TV.  Easy as pie.
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 5:  Combining the Genesis, 32X, and Sega CD
+
+If you're enough of a Sega fan to have a 32X then you probably have a Sega CD
+as well.  If you don't, you should get one.  There are some good games for it.
+
+If you do have a Sega CD then you can combine the 32X, Sega CD, and Genesis
+into one massively parallel multiprocessing machine (at least 4 CPU's and God
+knows how many video and sound chips).
+There are a few games (7 or so I believe) that utilize the 32X in conjunction
+with the Sega CD.  To my knowledge, all of these are simply full motion video
+(FMV) titles.  The video looks cleaner, sharper, and has more colors in the 32X
+versions.  The best known is probably Night Trap.  The game play in the Sega
+CD/32X version is exactly the same as the original Sega CD game but the video
+looks a little better all around.  It doesn't look like laserdisc but it is a
+definite improvement.  If you like FMV games it might be worth your time to
+pick up the Sega CD/32X version of a game rather than the original Sega CD
+version.  As a blurb, in my opinion the combination of the Sega CD and 32X was
+grossly underutilized.  Some extremely exceptional role-playing games could
+have been produced had anyone wanted to.
+
+Hooking up the Sega CD/Genesis/32X isn't very hard but it does take an extra
+step or two.  Plus you'll need an extra outlet for the Sega CD.
+
+Note:  There are some restrictions on combinations of the Sega CD and Genesis
+themselves.  If you have the original front-loading Sega CD you can ONLY hook
+it up to an original model Genesis (with the headphone jack).  You cannot hook
+a Genesis 2 and a front-loading Sega CD together.
+You can, however, connect the original model Genesis (with the headphone jack)
+to both the original Sega CD (front loading) and the second generation Sega CD
+(the top loading one).  The 32X will work with either.
+-------------------------------------------------------------------------------------------------
+
+Hooking up the 32X to the original Sega CD and Genesis 1:
+
+First off, unplug everything.  Then connect up your Sega CD and Genesis 1 as
+you usually would.  Once they're stuck nicely together then just follow the
+instructions above for connecting up the 32X to the Genesis 1.  Once you have
+everything together and plugged back in remove any cartridges from the 32X. 
+Then switch on the Genesis and the boot screen for the Sega CD should load up
+as it normally does.  Push the reset button to eject the tray and then put your
+Sega CD/32X disc on the tray and press start on the control pad (the normal
+procedure for a Sega CD game, nothing different).  Then press start to boot up
+the game and everything should proceed normally.  The game disc will
+automatically detect and utilize the 32X hardware.  Some of the Sega CD/32X
+games may require a 6-button control pad.
+
+Please note that this setup will give you monaural sound output.  I'll detail
+how to get stereo sound out of this setup later.
+
+-------------------------------------------------------------------------------------------------
+
+Hooking up the 32X to the Genesis 2 and Sega CD 2:
+
+Just like the 32X, the revised version of the Sega CD is meant to complement
+the Genesis 2.  The styling of all 3 machines is consistent.  But you can use
+the Genesis 1 and Sega CD 2 together with the 32X.  It may look weird but it's
+perfectly serviceable.
+
+First off, unplug everything.  Now connect up your Genesis 2 and Sega CD 2 as
+you normally would (side to side).  Now follow the above instructions for
+installing the 32X into the Genesis 2.  Once you've got everything put together
+plug everything back in (be careful not to mix and match A/C adapters here. 
+The Sega CD needs to use ONLY its own A/C adapter).  Make sure there are no
+cartridges in the 32X and then switch on the Genesis 2.  The Sega CD boot
+screen should appear as normal and you can then put in your Sega CD/32X CD.  If
+you can't tell, I don't have a second generation Sega CD so I have no idea what
+it looks like.  But these installation instructions should work.
+
+Note:  Depending on which A/V out cable you use this may be a monaural setup. 
+See below for details on getting stereo sound out of this combination.
+-------------------------------------------------------------------------------------------------
+
+Hooking up the 32X to the Genesis 1 and Sega CD 2:
+
+I'm afraid I don't know much about this.  My guess would be that you connect
+your Genesis and Sega CD as you usually do and then install the 32X into the
+Genesis.  Make sure the 32X is devoid of cartridges and then turn on the
+Genesis as you usually would.  I don't have any further details.  Information
+is welcomed.
+
+Note:  This will almost certainly be a monaural setup.  There may be a way to
+get stereo sound out of this combination but I'm not at all sure.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 6:  Getting stereo sound output from the 32X
+
+The 32X is able to output stereo sound through it's A/V OUT port depending on
+what you have hooked up to it.  I'm pretty sure that all the 32X does is just
+take the audio signals from the Genesis and shunt it through its own A/V OUT
+port.  That means that if you have mono sound coming into the 32X you will have
+mono sound coming out.  And if you have stereo sound coming into the 32X it
+will spit out stereo sound.  Figuring out how to get stereo sound out of the
+32X is probably the biggest pain in the ass of getting a 32X.  Worry not, it
+isn't very hard but it may require some funky cables on your part.  As usual,
+the method you use depends on which model of Genesis you have.  Getting stereo
+sound out of the Genesis 2 is pretty easy.  Getting it out of the Genesis 1 is
+kind of a pain.
+-------------------------------------------------------------------------------------------------
+
+Obtaining stereo sound from a Genesis 1 and a 32X:
+
+This is where it can get kind of unpleasant.  I never did understand why Sega
+decided to make the Genesis 1 only output stereo sound through a headphone
+jack.  I doubt I'll ever know.  At any rate, this decision is what makes it
+kind of hard to get stereo sound out of the 32X when using an original model
+Genesis.  You'll need some extra cables and quite possibly a front-loading Sega
+CD.  Note that 32X games will work fine without stereo sound.  In fact you may
+not even want to bother hooking up stereo sound with the 32X.  But if you do,
+here's how to do it.
+
+To do it the kosher way, as described in the instructions that came with the
+32X here's what you will need:
+
+All the cables you normally need for connecting a 32X and Genesis 1.
+A front-loading Sega CD unit.
+A male to male stereo headphone cable.
+Stereo RCA audio cables (red and white).
+
+Make sure that the cables you get are long enough.  You're going to have the
+snake those audio RCA cables to your TV and the headphone cable as to stretch
+between the front of the Genesis and back of the Sega CD without being too
+tight.  Try to get something that's only an inch or two more than you need. 
+Longer is not necessarily better.
+
+First off, unplug everything from the electrical outlets.  You can do this with
+your 32X already in the Genesis if you want to.  It won't hurt anything.
+
+Next, take that headphone cable.  Find the headphone jack on the front of your
+Genesis.  Plug one end of the cable into that headphone jack.  Take the other
+end of the cable and snake it around to the back of your Sega CD.  Find the
+headphone (I think it's actually labeled as "mixing") and plug the other end of
+the cable in there.  You should now have a headphone cable running from your
+Genesis to Sega CD.
+
+Now look on the back of your Sega CD.  See those red and white jacks back
+there?  Those are where you want to connect your RCA cables.  Take one end of
+the red and white RCA cables (it doesn't matter which end) and plug the white
+cable into the white jack and the red cable into the red jack.  Now go back to
+your Genesis for a moment.  See the volume control sitting by the headphone
+jack?  Push that all the way up so it's at maximum volume.  You may be able to
+have it lower, I'm not sure.
+
+Now hook up the 32X to the Genesis as described above.  Here's the tricky part.
+ Take the A/V cable coming out of the 32X.  Connect it to your TV as usual BUT
+ONLY CONNECT THE YELLOW CONNECTOR.  The yellow connector is the video output
+and you want to put that in the yellow colored RCA jack at the back (or front
+maybe) of your TV.  Just leave the white (and red if you have it on your cable)
+connector dangling there.  It won't go anywhere.
+
+Next, find the red and white RCA cables coming out of your Sega CD.  Take the
+free red and white connectors and snake them around to where you just plugged
+in the yellow connector.  Now plug the red colored connector into the red jack
+and white colored connector into the white jack.
+
+What you should now have is the following situation:
+
+Only the yellow connector on the cable coming from the 32X should be hooked up
+to the TV.
+The red and white connectors coming from the Sega CD should be hooked up to the
+TV next to the yellow connector from the 32X.
+
+Make sure your Genesis volume control is all the way up and that your TV volume
+isn't too high.  Plug everything back in and turn on your Genesis/Sega CD/32X
+as usual.  You should now hear stereo sound coming out of your TV.  You should
+get stereo sound whether you are playing a Sega CD game, a 16-bit Genesis game,
+or a 32X game.
+
+Now...... why did you just do this?
+
+Like I said before the 32X can only spit out whatever sound came into it in the
+first place.  The Genesis 1 is incapable of putting stereo sound out of its A/V
+port in back.  It can only output mono sound.  In fact, this connector is the
+exact same one that was on the old 8-bit Sega Master System.  The Master System
+was incapable of producing stereo sound at all.  When Sega designed the Genesis
+they decided (for some reason) to have the Genesis spit out stereo sound from
+the headphone jack in the front and to spit out mono sound from the A/V port in
+the back.  I don't know why.
+
+So what you're doing with all these other cables and the Sega CD is converting
+the sound output of the headphone into a form that a TV can use.  You do this
+by passing the sound through the Sega CD, which then converts it into the kind
+of sound a TV can use (outputted through those red and white RCA jacks).  This
+just shunts the stereo sound from the Genesis into the TV.  So you're taking
+the video from the 32X (the yellow connector) and the audio from the Sega CD
+(red and white connectors) and combining them through the TV.
+
+Note:  If you have an original model Genesis but do not have a Sega CD there
+*may* be another way.  At most stereo and electronics stores you can get cables
+and/or adapters that have the male headphone jack connector on one end and the
+red and white RCA cables on the other.  This splits and converts the sound into
+a form a stereo or TV can use.  In theory this should work.  However, I have
+not tested this and have no idea if it works.  If anyone has tried this please
+let me know.
+-------------------------------------------------------------------------------------------------
+
+Obtaining stereo sound from a Genesis 2 and 32X:
+
+This is much easier.  In fact you may not need any extra cables and connector
+at all.  First off, let's talk cables.  There are two kinds of A/V cables that
+work with the Genesis 2 and the 32X.  The first one is monaural one with yellow
+and white RCA connectors.  The yellow carries the video and the white carries
+the mono audio.  The second type is a stereo A/V cable.  This one has yellow,
+white, and red RCA connectors.  The yellow carries the video, the white carries
+one sound channel and the red carries the other sound channel.
+
+So to get stereo sound out of a Genesis 2 and 32X you will need:
+
+All the normal cables to hook up the 32X and the Genesis 2.
+A male mini-din to stereo RCA cable.
+
+Your Genesis 2 may very well have come with one of the stereo A/V cables.  If
+not, there's plenty floating around from all the dead Genesis 2s out there.
+
+Just follow the instructions above for hooking up the 32X to a Genesis 2.  Now,
+instead of using the A/V cable that came with the 32X instead use the stereo
+A/V cable (the one with the yellow, red, and white connectors).  Just plug
+those connectors into their appropriate jacks on your TV and you're all set. 
+You now have stereo sound.  Easy, huh?
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+Section 7:  Everything else
+
+This is just sort of a catchall section of information that didn't seem to fit
+anywhere else.  This is probably not terribly important but I figured I should
+include it for the sake of completeness.
+
+-------------------------------------------------------------------------------------------------
+The official 32X instructions do include a section on hooking up the 32X to a
+Sega CDX.  However, I have never done this and have never closely inspected a
+Sega CDX.  Also, you need (at least according to the instructions) some plastic
+spacer thing to make the 32X and CDX fit together.  Because I really don't have
+enough information on this I'm not going to write a tutorial for it.
+If anyone has put together a 32X and CDX successfully I would appreciate
+hearing from you.  I will quote you in this FAQ.
+-------------------------------------------------------------------------------------------------
+
+I have no idea if the little metal clips are truly necessary or not.  The
+instructions list them as "electromagnetic shield plates."  All I can tell you
+is that I have run my 32X without installing the clips (I do have them though)
+and have run into no problems so far.  For all I know my Genesis may explode
+and kill me without those clips but I imagine they're mostly superfluous.  It's
+up to you whether you want to use the clips or not.
+-------------------------------------------------------------------------------------------------
+
+I have read that some 32X's have shorted out and destroyed
+themselves/games/Genesis' in the process.  I have no idea if this is true.  My
+guess would be that if this did happen then it's probably due to user error. 
+However, to be on the safe side you might want to disconnect your 32X when you
+want to play regular Genesis games.  At least you're not risking your valuable
+copy of Phantasy Star 4.
+-------------------------------------------------------------------------------------------------
+
+Here's some trivia for you.  The heart of the 32X is two Hitachi SH2 CPU's
+running at 23Mhz.  These are the same processors that the Sega Saturn uses
+(though I think they run at a different clock speed in the Saturn).  And if you
+hook up a Sega CD to your 32/Genesis you will have a sort of neutered Saturn. 
+The 32X also added the one thing that Genesis needed the most: more colors.
+I have read that the Saturn is a difficult system to develop for due to its
+dual processor architecture.  I would guess that the 32X would share that
+dubious quality.  Maybe even more so, because a programmer would also have to
+contend with the processors of the Genesis and Sega CD.  That might also
+explain why so few games came out for the system.
+-------------------------------------------------------------------------------------------------
+
+If you have a cleaning kit for your Genesis you can use it on your 32X as well.
+ The pins and stuff are the same.  You should clean your 32X and Genesis at
+least once a month and probably more often if they sit out all the time. 
+Cleaning the contacts really does help a lot.  Also, you should clean your
+cartridges.  Just use a Q-tip dipped in rubbing alcohol and rub it along the
+cartridge contacts.  That should be your first troubleshooting step.
+-------------------------------------------------------------------------------------------------
+
+Future wish list:
+
+Add a troubleshooting section with possible solutions to problems.
+Add a table of contents to make it easier to find information.
+Organize the sections further to make it easier to read.
+Provide and HTML version of the FAQ for easier reading.
+Add recommended sources for obtaining parts/cables/etc.
+Add reader comments and suggestions.
+Put the document under the GPL license.
+Translate into Spanish.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once again, the author gratefully acknowledges the following sources for
+information in writing up this FAQ:
+
+
+Sega Saturn FAQ by John Hokanson Jr.
+[http://db.gamefaqs.com/console/saturn/file/sega_saturn_b.txt]
+
+The Sega Megadrive/Genesis FAQ by Chris Foulger
+[http://db.gamefaqs.com/console/genesis/file/sega_master_system_a.txt]
+
+The Sega 32X FAQ by Gordon Craick
+[http://db.gamefaqs.com/console/32x/file/sega_32x.txt]
+
+The Sega CD FAQ by Barry W. Cantin
+[http://db.gamefaqs.com/console/segacd/file/sega_cd.txt]
+
+
+This is the end of the FAQ.  I hope it has been of some help to you.  The
+entire contents of this FAQ are copyright 2002 by Nick Crait.  Feel free to
+distribute this FAQ to the four winds if you wish but DO NOT MODIFY IT.  Also,
+you may NOT charge a fee or otherwise profit from this FAQ.  This FAQ is meant
+to be free for everyone to use and share.  This includes having the FAQ
+reprinted in commercial publications both electronic and on paper.  You will be
+sued if you do so.  You may distribute this FAQ in hard copy or electronic
+format as long as you do so freely.  You may post this on your website as long
+as you do not modify the text and you give me credit as the author.  Any
+attempt to misrepresent this work as your own will be litigated.  If you wish
+to convert this to HTML, Latex, PDF, etc. please ask me before doing so.  I'm
+sure it will be fine but I'd like to know first.
+
+Readers can contact me via e-mail at: orporg@yahoo.com.  I will try to answer
+questions or comments you have but may not always have the time to do so.  I
+will definitely give you some kind of response though.  If you have information
+that you would like included in this document please let me know and I'll look
+it over.  If I include it you will of course, receive full credit.
+
+The latest (and probably only) version of this FAQ can always be found at
+www.gamefaqs.com.
+

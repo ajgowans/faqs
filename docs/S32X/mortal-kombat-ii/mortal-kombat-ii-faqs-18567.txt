@@ -1,0 +1,1608 @@
+                 ..o$o$"$"$"$"$o$o..                      _Mortal Kombat II_
+              $o$$$o$$$$$$$$$$$$$o$$o.               _Complete FAQ / Moves List_
+           $o$$$$""      ""      """$$$oo              _for the Sega 32X only_
+         o$$$$"        $oo o o       ""$$$o
+       o$$$"       oo$$$$$$$$$$o        "$$$o
+      o$$$     o$$$$$$$$$$$$$$"$$oo       "$$$
+     $$$"   "$$$$$$$$$$$$$$$$o$o$$$"        $$$
+    $$$    o$$$$$$$$$$$$$$$$$$$$$$$$o o   o  "$$
+   $$$"    o$$$$$$$$$"$$$$$$"" "$$$$$$"$$$$$  $$$
+  .$$"    o$$$$$$$$$$o""$$$""""ooo"$$$$$$$$"   $$$
+  $$$"    o$$$$$$$$$$            ""oo"$"$o""   $$$$          Author Information:
+  $$$     o$$$$$$$$$$                """""$    o$$$      Shinnokxz (Cory Hansen)
+  $$$    o$$$$$$$$$$$$o                   "o "oo$$$        shinnokxz@charter.net
+  $$$ 'oo$$$$$$$$$$$$$$$$ooooooo$$$$$oo    $"$ "$$$ http://corysplace.silius.net
+  $$$"  ""  $$$$$$$$$$$$$$$$$$$$$$$$$$$$o    " $$$$
+  "$$$       "$$$$$$$$$$$$$$$$$$$$$$$$$$$o    o$$$"
+   $$$o       "$$$$$$$$$$$$$$S$D$P$r$O$$$$o   $$$"
+    $$$o       $$""$$$$$$$$$$$$$$$$$$$$$$$o  $$$"
+     "$$o    "$""  "$""$$$$$$$$$$$$$$$$$$$oo$$$"
+      "$$$o        "     $$$$$$$$$$$$$$$$$o$$"
+        "$$$o         oo$$$$$$$$$$$$$$$$$$$$"
+          "$$$$ooooo$$$$$$$$$$$$$$$$$$$$$$"
+            ""$$$$$$$$$$$$$$$$$$$$$$$$$"
+               ""$$$$$$$$$$$$$$$$$$$""
+                  'o$o$"$"$"$"$o$o'
+=------------>M O R T A L  K O M B A T  I I<------------+
+
+================================================================================
+
+_____________________________________
+|Introduction / Copyright Information|----------------------------------------->
+This Guide is for Mortal Kombat II for the Sega 32X and ONLY Sega 32X. It
+contains rap sheets on all characters, backgrounds, stories, combos, and other
+such things that have to do with the game Mortal Kombat II.
+
+This FAQ/Walkthrough is created for personal use only. It is prohibited to use
+this FAQ on your commercial web page, magazine or game guide without advising
+me.  You are also not allowed to rip off any segment of my FAQ without advising
+me by e-mail. I worked hard for this and I don't want to see someone says that
+he has done the whole FAQ.  But, you can put this FAQ on your home page, the
+only condition for this is to e-mail me and TELL me that you are putting this
+FAQ on your home page and you need to GIVE me the URL. Thank you for you
+cooperation.
+
+Currently, this FAQ/Guide can ONLY be found on http://Gamefaqs.com. If you see
+this guide on any other site, contact the author immediately.
+
+
+================================================================================
+
+__________________
+|Table of Contents|------------------------------------------------------------>
+I.---->Updates and Revisions
+II.--->Mortal Kombat II Premise
+III.-->Mortal Kombat II Ports Comparison
+IV.--->Options and Controls
+V.---->General Moves
+VI.--->Juggle Combos
+VII.-->Stage Fatalities
+VIII.->Battlegrounds
+IX.--->Fighters And Moves Lists
+---------Liu Kang
+---------Kung Loa
+---------Johnny Cage
+---------Reptile
+---------Sub-Zero
+---------Shang Tsung
+---------Kitana
+---------Jax
+---------Mileena
+---------Baraka
+---------Scorpion
+---------Rayden
+X.---->Secret Fighters
+XI.--->Bosses
+XII.-->Cheats, Tips, and Codes
+XIII.->Glitches and Bugs
+XIV.-->Mortal Kombat II Arcade History
+XV.--->Mortal Kombat Franchise History
+XVI.-->Mortal Kombat Websites
+XVII.->Authors Information
+XVIII.>Closing Comments
+XIX.-->Mortal Kombat II Hidden Messages
+
+
+================================================================================
+I.
+______________________
+|Updates and Revisions|-------------------------------------------------------->
+When: January 11, 2004
+Version: Final
+What: I completed the moves list, thus finishing this guide. Have fun!
+
+When: August 4, 2002
+Version: 1.6
+What: I spell checked this big guy, and I also came by to tell you that the FAQ
+is now on GameFAQs.com. The Moves List is coming along smoothly.
+
+When: August 1, 2002
+Version: 1.4
+What: I have pretty much all the sections completed, except the moves list,
+which I'll be focusing on for the next week.
+
+When: July 30, 2002
+Version: 1.2
+What: I got all the section I-VIII completed (not spell or grammar checked,
+mind you), and I'll get started on the Character guides very soon.
+
+When: July 27, 2002
+Version: 1.0
+What: The basic skeleton of the FAQ has been created, the ToC are up and the
+main starting has been finished. Now it's on to the hard stuff =\
+
+
+================================================================================
+II.
+_________________________
+|Mortal Kombat II Premise|----------------------------------------------------->
+500 years ago, Shang Tsung was banished to the Earth Realm.  With the
+aid of Goro he, was to unbalance the furies and doom the planet to a
+chaotic existence.
+
+By seizing control of the Shaolin Tournament he tried to tip the scales
+of order towards chaos.  Only seven warriors survived the battles and
+Shang Tsung's scheme would come to a violent end at the hands of Liu
+Kang.
+
+Facing execution for his failure and the apparent death of Goro, Tsung
+convinces Shao Kahn to grant him a second chance.
+
+Shang Tsung's new plan is to lure his enemies to compete in the Outworld
+where they will meet certain death by Shao Kahn himself.
+
+Now the Kombat Kontinues...
+
+
+================================================================================
+III.
+__________________________________
+|Mortal Kombat II Ports Comparison|-------------------------------------------->
+This small section will list the advantages and disadvantages of each port of
+Mortal Kombat II. Although this is strictly opinionated, I think most people
+will agree with this, but if you happen to disagree, send your (readable AND
+sensible) argument to shinnokxz@charter.net
+
+Mortal Kombat II for Arcade:
+-Advantages
+  Cleaner Graphics
+  Better Sound Quality
+  Tighter Controls (For people who are comfortable with the Joysticks)
+  Fun meeting new people to challenge and defeat
+-Disadvantages
+  Elite Kombat Players (People who will cream you to hell and back)
+  It takes Money
+Overall: This is the port to go with, if you can. The overall atmosphere is
+what added to the fun of what MK really is.
+Rating: 9/10
+
+Mortal Kombat II for Sega Genesis
+-Advantages
+  Tighter Controls
+  No need to input a Blood Code this time
+  Fun 2-player matches
+-Disadvantages
+  Sound has taken a step down, quality wise
+  You MUST buy a 6-button controller
+  Blood and Gore aren't has detailed
+Overall: I'd only spring for the Genesis port if you don't have a SNES, Sega
+32X, or Saturn port in reach. That doesn't stop it from being a fun game, but
+technically, this is the bottom of the ladder.
+Rating: 2/5
+
+Mortal Kombat II for Super Nintendo
+-Advantages
+  Crisper Graphics and Colors
+  More Detailed Sound
+  Better Feel
+  Fun 2-player Matches
+-Disadvantages
+  Character Design and Animation is choppy (worse than the Genesis port)
+  Controller isn't up to snuff with the action
+  Pretty expensive for an old used game
+  Can be GLITCHY when provoked =\
+Overall:  This is definitely the one to get if you don't want to bother hunting
+down and paying extra for the Saturn and PSX version. The controls aren't as
+good as I would have liked, but it's a predicament that you can easily get used
+to.
+Rating: 4/5
+
+Mortal Kombat II for Sega Saturn
+-Advantages
+  Technically, this port is the closest to the Arcade version
+  Clean graphics, nice character size, backgrounds are identical to arcade
+  Fun two player
+-Disadvantages
+  Missing sound effects.
+  LOADING TIMES. ERGH.
+Overall:  Could've been unbeatable had it not been for horrible programming.
+MKII for the Saturn has THE WORST loading times of any fighting game I've seen.
+Rating: 1/5
+
+Mortal Kombat II for Playstation
+-Advantages
+  Crisper Graphics and Colors
+  More Detailed Sound
+  Better Feel
+  Fun 2-player Matches
+-Disadvantages
+  You need to MOD your PSX, which can be tough on your wallet and on your system
+  You must Import it (which can be VERY costly)
+  Completely hard to find
+Overall: This is a version I don't really recommend unless you already have a
+chipped PSX and you get MK2 as a present.
+Rating: 2/5
+
+Mortal Kombat II for Sega 32X
+-Advantages
+  Crisper Graphics and Colors
+  More Detailed Sound
+  More Sound Effects
+  Announcer
+  Fun 2-player Matches
+-Disadvantages
+  You NEED a 6-button controller
+  Hard to find
+  Can get expensive
+Overall: I'd dodge for the Sega 32X version over the Genesis and the SNES
+version any day. The graphics aren't perfect, but they are of higher quality
+than the SNES and Genesis versions. The sound isn't perfect, but at least it
+wasn't butchered like it was in the Genesis port.
+Rating: 4/5
+
+
+================================================================================
+IV.
+_____________________
+|Options and Controls|--------------------------------------------------------->
+This small section will discuss the Options the game gives you and the Controls
+setup as well. (Note: this FAQ/Guide is intended for use with the 6-button
+controller. Go buy one, you cheapass. They're 5 bucks =\)
+
+Options:
+ Difficulty (chooses how hard you want the AI to be)
+  Very Easy
+  Easy
+  Medium
+  Hard
+  Very Hard
+ Credits (You choose how many continues you want)
+  Gimme 15-30
+ Extra Controls (choose whether you have a 6-button controller or a normal one)
+  Port 1: Activator/6-Button
+  Port 2: Activator/6-Button
+
+
+
+ -----------------------------------------        U = Up
+/   |U |                  ---- ---- ----  \       D = Down
+|___|  |___               |HP| |BK| |HK|  |       B = Back
+|B        F               ---- ---- ----  |       F = Forward
+|___    ___               ---- ---- ----  |       HP = High Punch
+|   |  |                  |LP| |BK| |LK|  |       BK = Block
+|   |D |                  ---- ---- ----  |       HK = High Kick
+|            Start                        |       LP = Low Punch
+|            Select                       |       LK = Low Kick
+|-----------------------------------------|
+Here's my ever-so sexy rendition of the Sega Genesis (32X) 6-button controller.
+
+
+Placement Guide:
+This is to let you know where to go when the guide tells you to go to "Close,
+sweep, or long" distance when performing a move.
+
+Close:
+Standing as close as the opponent as possible
+___________________
+|                 |
+|                 |
+|                 | Y = You
+|                 | O = Opponent
+|                 |
+| YO              |
+|-----------------|
+
+Sweep:
+About 2 steps away from the other fighter
+___________________
+|                 |
+|                 |
+|                 | Y = You
+|                 | O = Opponent
+|                 |
+| Y  O            |
+|-----------------|
+
+Half Screen:
+A half of a screen away from the opponent
+___________________
+|                 |
+|                 |
+|                 | Y = You
+|                 | O = Opponent
+|                 |
+|    Y       O    |
+|-----------------|
+
+Full Screen:
+As far from the opponent as possible
+___________________
+|                 |
+|                 |
+|                 | Y = You
+|                 | O = Opponent
+|                 |
+| Y            O  |
+|-----------------|
+
+Anywhere:
+Move can be done anywhere on screen
+___________________
+|                 |
+|                 |
+|                 | Y = You
+|                 | O = Opponent
+|                 |
+|  Y   O          |
+|-----------------|
+
+
+
+================================================================================
+V.
+______________
+|General Moves|---------------------------------------------------------------->
+Mortal Kombat II, as with any Mortal Kombat, is packed with basic moves that
+are the same with each character. These moves are pretty basic, but can be
+linked together with more powerful moves to make a Juggle Combo (Which I'll
+discuss later). Here are some basic inputs while fighting in Mortal Kombat II.
+
+
+Block (BK) = Get to know how to use block, because if you want to compete with
+the true MK2 pros out there, you'll need to know when, how, and where you need
+to block. Timing is critical when blocking projectiles, uppercuts, roundhouse
+kicks, and even special moves. Just keep on your toes, and you should turn very
+good in no time.
+
+Upper Cut (D+HP) = If your character is standing right by the opponent, your
+fighter will punch the other fighter in the jaw, sending them in the air.
+Beware, if uppercuts are blocked, or countered correctly, you will be facing
+some hideous juggle combos. Does some damage. It also should be noted that each
+character's Uppercut inflicts different amounts of damage.
+
+Sweep (B+LK) = Sweep is a move that us quick and usually hard to predict when
+in an up-close fight. Your fighter flips around with their foot out, and trips
+the defender. Not only is it quick, but also it has quick recovery and not much
+dead time after being blocked. This is definitely a move to remember. Doesn't
+do much damage.
+
+Roundhouse Kick (B+HK) = Your fighter swings his foot in the air and connects
+on the opponents head, which causes them to fly back. This is a quick move, but
+that doesn't really make it unblockable. Though not as affective as the other
+basic moves, it can prove handy in close combat. Another thing to note: you can
+do this move either up-close or at sweep distance. Does a consider amount of
+damage. It also should be noted that each character's Roundhouse Kick inflicts
+different amounts of damage.
+
+Jump Kick (U+F+LK/HK) = This is one of the most important moves if you want to
+become a great juggle combo master. This move fits in with just about any move.
+Uppercut, follow it by a jump kick. Does your character have a projectile? Use
+it, then hit the dazed opponent with a jump kick. Though it could be a costly
+mistake when blocked, it's still an attack that HAS to be in your move arsenal.
+It also should be noted that each character's Jump Kick inflicts different
+amounts of damage.
+
+Crouch Kick (D+LK/HK) = Crouch down, and press any of the kick buttons. It's
+not too fun to look at, but it does a good amount of damage. It's also a good
+move to do with close combat when your opponent is block happy.
+
+Crouch Punch (D+LP/HP) = Another good crouching move that is hard to block and
+links together with other moves really well. But, unlike the Crouch Kick, it
+has a quicker reload, so it's easier do over and over again.
+
+
+================================================================================
+VI.
+_______________
+|Juggle Combos|---------------------------------------------------------------->
+Juggle Combos are various links of moves that are simply linked together. The
+concept is very simple, but it's an idea that is very hard to master. You'll
+have your basic jugglers such as Uppercut+Jump Kick, Crouch Punch+Uppercut, and
+other various methods. The whole idea is to add more damage in one swift set of
+moves that are hard to block. A great Juggler character that I'm particularly
+fond of is Johnny Cage. His move arsenal fits in perfectly with the simple set
+of general moves.
+
+Juggle combos can range from small 3 move sets to gargantuan 7 hit monsters
+that can literally leave the opponent in awe. It takes perfect timing,
+movement, and smooth move alternations.
+
+The Moves list will contain juggle combos for each character. Not ALL juggles,
+but some. The beautiful thing about juggler combos is that they are completely
+customizable. It is very easy to make your own combos! So if you have any combo
+ideas, send them into me (my address is at the beginning and end of the FAQ),
+I'll give you full credit.
+
+
+================================================================================
+VII.
+__________________
+|Stage Fatalities|------------------------------------------------------------->
+Like each Mortal Kombat, there are battlegrounds that have an ending move that
+ends your opponent's life. Here are the descriptions of each Stage Fatality
+found in Mortal Kombat II.
+
+
+
+Acid Pit
+What: Your fighter uppercuts the opponent into a huge acid bath off of a long
+platform. The opponent floats to the top of the Acid bath in a green skeleton
+like figure.
+
+Some Info: In order to do this fatality, hold down LP+LK while upper cutting
+the opponent when the "Finish Him/Her!" screen appears.
+
+My take: I like this fatality; it has a lot of originality, plus
+the skeleton of the dead warrior looks wicked. My rating of coolness: 4/5
+
+
+
+Kombat Tomb
+What: Your fighter upper cuts the opponent into a bed of spikes-on the ceiling!
+Sort of like The Pit in MK1, only your opponent goes UP instead of DOWN.
+
+Some Info: A neat trick: When the opponent flies into the spikes, press and
+hold D+BK on both controller to make the body slide-off and have MK Sound
+Designer yell out "Awwa!" Each fighter has his or her own combination for this
+fatality.
+
+My Take: This is my favorite pit death in the franchise of MK. It adds a nice
+original twist to the already profound Pit stage in MK1, and it will for sure
+tickle any gamer's violence bone. My rating of coolness: 5/5
+
+
+
+The Pit II
+What: Your fighter uppercuts the opponent into a HUGE Pit (Much larger than The
+Pit 1). As your opponent hits the ground, the camera switches to a top-down
+view, which shows the fighter landing in a bone-smashing SPLAT. Blood is
+littered everywhere.
+
+Some Info: The two guys in the background is Liu-Kang and a popular MK guy
+named Torch (who actually never really participated in any of the MKs). Each
+fighter has his or her own combination for this fatality.
+
+My Take: Another good one, but my least favorite of the three. I like the
+Top-Down camera switch, but landing on just plain concrete is unsatisfying.
+Where are the spikes?!
+
+
+================================================================================
+VIII.
+_______________
+|Battlegrounds|---------------------------------------------------------------->
+Like in MK1, MK2 has its own distinct battlegrounds that the fighters battle
+in. You get 11 in MK2.
+
+
+
+Stage 1 = Acid Pool
+
+What:      A small room with chains draping down over the kombatants. You are
+           surrounded with acid good and (looks like) stucco walls. A quick
+           fighting pace theme graces your TV Speakers.
+Where:     On a stucco platform for one wall to the other.
+More Info: Is a stage Fatality (see "Stage Fatalities" part of this guide to
+           look up what you do and stuff).
+My Take:   A very distinct stage in its own nature, we haven't see anything
+           like. A classic, and it's nice that it's getting a makeover in the
+           next Mortal Kombat game (Mortal Kombat: Deadly Alliance).
+
+
+
+Stage 2 = Kombat Tomb
+
+What:      A small area that has birds flying in the background, and brown
+           structures and holsters. A very distinct theme comes with this
+           background. It sets the mood, but I'm not sure I like it.
+Where:     On a concrete floor, below lots of spikes =D
+More Info: Each character has their own combination to performing the stage
+           fatality. There is a huge YinYang etched in the background
+My Take:   I like the stage fatality, but the overall environment and
+           atmosphere doesn't make it feel, nor look, like a tomb. Maybe
+           calling it "Kombat Deck" would have been a bit wiser?
+
+
+
+Stage 3 = Wasteland
+
+What:      A Dry, desolate field like location with purple backgrounds and
+           mountains in the distance. A quick, but moody song plays.
+Where:     In the Outworld.
+More Info: In Mortal Kombat Trilogy, Motaro grazed here. It is a land of plenty
+           of lost souls and graves. This land is where Baraka's fellow Mutants
+           live.
+My Take:   I like this stage. It is very atmospheric, and the colors melded in
+           with the story of the battleground adds perfect depth in the game.
+
+
+
+Stage 4 = Sky Portal
+
+What:      A floating room (apparently, with the rushing clouds in the window)
+           that has floating monks all over it. The same theme plays here that
+           is in the Kombat Tomb.
+Where:     A platform with red carpeting.
+More Info: None.
+My Take:   This stage is mediocre, it has lots of animation, but there's really
+           nothing special to it.
+
+
+
+Stage 5 = Living Forest
+
+What:      A Dense forest covered with vines, branched, dirt-and howling trees.
+           A perfect theme fits in here, it really makes you think you're
+           fighting for your life (=P) in a forest like atmospheric theme.
+Where:     On a dirt incline
+More Info: In the background, you'll notice a few secret characters (Human Smoke
+           and Jade) popping out from the trees. There is also a dead mangled
+           corpse of Raiden on the far left side (well, it looks like Raiden).
+My Take:   I like the music, and the great use of animations (for the trees),
+           this battleground is one of MY MK favorites.
+
+
+
+Stage 6 = Armory
+
+What:      A room with welding tools in the background (with some nifty
+           animation as well). It also has numerous weapons scattered about. The
+           main feature of this stage is the music. A soft, stern low tone is
+           playing.
+Where:     On some tile.
+More Info: This stage is prone to really weird glitches (see 'Glitches and
+           Bugs' part of guide). There is a huge Dragon symbol on the floor and
+           in the background.
+My Take:   I like this stage for its gloomy atmosphere and dark colors. The
+           theme is also one that is worth a listen to.
+
+
+
+Stage 7 = The Pit II
+
+What:      A huge platform in the middle of nowhere (it seems).
+Where:     On a thin platform with neat designs going along the sides of it. In
+           the background, you can see another bridge.
+More Info: The two fighters in the background are Liu Kang and Torch. This is a
+           stage fatality where you can knock the opponent off and have them
+           fall miles down, onto the concrete below.
+My Take:   A neat background and theme, but the stage fatality is sort of ho-
+           hum. I like the patterns along the side, and the atmosphere adds nice
+           depth.
+
+
+
+Stage 8 = Portal
+
+What:      A red portal heavily guarded by Shang Tsung's ghostly floating monks.
+Where:     On a brick floor, in front of a red swirling portal
+More Info: A few variations were made from this level (mostly just changing
+           colors).
+My Take:   This stage is very cool, as it actually takes place in the Earth
+           Realm itself. To add to the coolness and fiction factor, a nice music
+           theme plays in the background.
+
+
+
+
+Stage 9 = Kahn's Arena
+
+What:      A huge arena surrounded by Kahn's army. Filled with a song that makes
+           you nervous just listening to it (haha).
+Where:     On a concrete platform in front of Shao Khan on his manly throne, and
+           his two prisoners tied in chains: Kano and Sonya.
+More Info: This is the battleground you face Kintaro and Shao Khan in. It was
+           slightly altered in Mortal Kombat Trilogy so that Kano and Sonya
+           weren't in chains (because they were both playable in that game).
+My Take:   I liked the fact that they put Sonya and Kano in chains, that was a
+           cool nostalgic effect that made you remember the story of MK1.
+
+
+
+*Secret Stage* Stage 10 = Secret Portal
+
+What:      The same thing as the Portal battleground.
+Where:     On a brick floor, but with the portal being BLUE instead of red.
+More Info: The only way to fight in the stage is to fight the secret Character
+           Noob Saibot. This stage is ONLY in the Genesis/32X versions!
+My Take:   Same as Portal
+
+
+
+*Secret Stage* Stage 11 = Goro's Lair
+
+What:      A pit where Shang Tsung tortured his humans. Sadly, it doesn't have
+           the same music as the original Goro's Lair one in MK1.
+Where:     Filled with bricks and skeletons with glowing eyes in the background.
+           Blood is also sprayed on one of the pillars (very cool).
+More Info: You only get to fight in the battleground if you fight the secret
+           characters Jade and Human Smoke.
+My Take:   A great version of the old classic =D
+
+
+================================================================================
+IX.
+__________
+|Fighters|--------------------------------------------------------------------->
+It has finally come. The section for the Fighters and all their moves, combos,
+and fatalities is now underway. Expect to detailed lists for just about
+everything about the fighter... their Story, ending, or whatever. Please Note:
+The endings are classified as spoilers; so if you want to find out how the
+character ends up by beating the game yourself, skip the ending part.
+Note: In order to perform Babalities or Friendships, you have to win BOTH round
+without using the punch buttons!
+
+============
+
+-=Liu Kang=-
+
+Moves: Forearm Smack = HP (Close)
+       Liu Kang smacks his opponent two times with his elbow.
+       -
+       High Fireball = F, F, HP (Anywhere)
+       A burst of fire shoots for Liu Kang's hands. Can be done in air.
+       -
+       Crouching Fireball = F, F, LP (Anywhere)
+       Same has High Fireball, only Liu Kang crouches on the ground to do the
+       move.
+       -
+       Flying Kick = F, F, HK (Anywhere)
+       Liu Kang propels himself across the screen in a flash with his foot out.
+       -
+       Bicycle Kick = Hold LK for 5 Seconds (Anywhere)
+       Liu Kang, as if on a bicycles, flies across the screen; legs pumping.
+
+Fatalities: Dragon Chomp = D, F, B, B+HK (Close-Sweep)
+            Liu Kang lays down the authori-tah and turns himself into a dragon
+            and chomps down onto the hapless foe. Leaving a victorious
+            warrior and a torso-missing body.
+            -
+            Extreme Uppercut = Rotate D-pad 360 degrees to the left (Close)
+            Liu Kang flips his opponent into the perfect position and sends
+            them soaring with a devastating uppercut.
+            -
+            Friendship = F, B, B, B+LK (Anywhere)
+            Liu Kang takes up dancing lessons and shows you his stuff. Shake it!
+            -
+            Babality = D, D, F, B+LK (Anywhere)
+            Liu Kang, using his bizarre psychic ability, turns the opponent into
+            a baby.
+            -
+            Pit/Spikes = B, F, F+LK (Close)
+
+============
+
+-=Kung Lao=-
+
+Moves: Headbutt = HP (Close)
+       Kung Lao sends his opponent backwards as he headbutts them with his sharp
+       Hat.
+       -
+       Ground Teleport = D, U (Anywhere)
+       Kung Lao transports on the other side of his opponent.
+       -
+       Aerial Kick = D+HK (Anywhere in Air)
+       Kung Lao delivers a blow to the opponent's head. Most powerful move in
+       the game.
+       -
+       Hat Throw = B, F+LP (Anywhere)
+       Kung Lao takes his hat off and hucks it at you. Press U or D to guide
+       the hat to the head or feet.
+       -
+       Whirlwind Spin = BK+U, U (keep tapping LK to keep spinning) (Anywhere)
+       Kung Lao spins around, using his hat to cut anything in his way.
+
+Fatalities: Hat Slice = F, F, F+LK (Far Sweep)
+            Kung Lao takes his hat off and slices his foe down the middle. The
+            opponent turns to the screen and his body falls to the side in
+            two pieces. Awesome, easy fatality.
+            -
+            Hat Throw = Hold LP, B, B, F, Release LP (Far)
+            Kung Lao hucks his hat. MAKE SURE YOU AIM THE HAT AT THE OPPONENT'S
+            HEAD! Or the fatality will just look like a normal Hat Throw move!
+            -
+            Friendship = B, B, B, D+HK (Anywhere)
+            Lao takes his hat off and makes a new friend by pulling a rabbit out
+            Of his hat.
+            -
+            Babality = D, D, F, B+LK (Anywhere)
+            Kung Lao, using his bizarre psychic ability, turns the opponent into
+            a baby.
+            -
+            Pit/Spikes = F, F, F+HP (Close)
+
+============
+
+-=Johnny Cage=-
+
+Moves: Stomach Jab = HP (Close)
+       Cage sends a hard palm to his opponent's stomach.
+       -
+       Drop Kick = HK/LK (Close)
+       Cage uses his nimbleness to send a kick to the chin of his opponent.
+       -
+       Low Green Ball = D, B, F+HK (Anywhere)
+       A projectile aimed at enemies that are at a close distance or that are
+       crouching.
+       -
+       High Green Ball = F, F, B+KP (Anywhere)
+       A projectile aimed at enemies that are at a far distance or that are
+       jumping
+       -
+       Shadow Uppercut = B, D, B+HP (Close)
+       Johnny sends a powerful uppercut that is shadowed.
+       -
+       Shadow Kick = B, F+LK (Sweep/Close)
+       Cage glides across the screen in a red shadow aimed at the opponent.
+       -
+       Ball Breaker = LP+BK (Close)
+       Johnny does the splits and punched the opponent in the pills.
+
+Fatalities: Torso Rip = D, D, F, F+LP (Close)
+            Johnny Cage grabs the opponent's waist, twists, tears, and throws
+            the stump on the ground. Easy fatality and one to see.
+            -
+            Uppercut Decapitation = F, F, D, U (Close)
+            In an anger, Cage crouches down and wreaks a final blow onto the
+            opponent's chin, sending his opponents skull and flesh flying.
+            Hold down LP+BK+LK to have Johnny Knock off more of the opponent!
+            -
+            Friendship = D, D, D, D+HK (Anywhere)
+            Cage writes out an autograph to his greatest fan.
+            -
+            Babality = B, B, B+HK (Anywhere)
+            Cage, using his bizarre psychic ability, turns the opponent into
+            a baby.
+            -
+            Pit/Spikes = D, D, D+HK (Close)
+
+============
+
+-=Reptile=-
+
+Moves: Acid Spit = F, F+HP (Anywhere)
+       Reptile rips his mask off and spews a spray of acid at his opponent.
+       -
+       Slide = B+LK+HK (Anywhere/Sweep)
+       Reptile adapts a move from Subbie and slides across the screen.
+       -
+       Force Ball = B, B+LP+HP (Anywhere)
+       A slow projectile that sends the opponent hurling forward.
+       -
+       Invisibility = BK+U,U,D+HP (Anywhere)
+       Reptile disappears in a small explosion.
+
+Fatalities: Tongue Eat = B, B, D, LP (Half Screen)
+            Reptile rips off is mask, shoots his tongue out and connects with
+            the enemy's head. He then tears away and swallows the head whole
+            and rubs his tummy in delight.
+            -
+            Invisible Torso Slice = F, F, D+HK (Anywhere/Must be Invisible)
+            Indescribably, Reptile mysteriously finds a way to cut his
+            opponent in half while invisible.
+            -
+            Friendship = B, B, D+LK (Anywhere)
+            Reptile gains a few bucks and ads his new plush toy.
+            -
+            Babality = D, D, D+HK (Anywhere)
+            Reptile, using his bizarre psychic ability, turns the opponent into
+            a baby.
+            -
+            Pit/Spikes = D, D, F, F+BK (Close)
+
+============
+
+-=Sub-Zero=-
+
+Moves: Backhand Punch = HP (Close)
+       Subbie bitch slaps his opponent.
+       -
+       Slide = B+LK+HK (Anywhere/Sweep)
+       Reptile adapts a move from Subbie and slides across the screen.
+       -
+       Freeze = D, F ,LP (Anywhere)
+       Sub-Zero sends a slew of ice that freezes his opponent for a few seconds
+       -
+       Ground Freeze = D, B, LK (Anywhere)
+       Sub-Zero shoots ice on the ground, when the opponent steps on it they
+       slide out of control.
+       -
+       Slide = B+LK+HK (Anywhere)
+       Subbie slides across the screen and sweeps under his opponent.
+
+Fatalities: Ice Shatter = F, F, D+HK then F, D, F, F+HP (Close)
+            Sub-Zero super-freezes his opponent, causing them to ice over
+            with incredible amounts of ice. He then uppercuts the sculpture,
+            shattering the opponent.
+            -
+            Ice Grenade = Hold LP+B, B, D, F then release LP (Full Screen)
+            Sub-Zero forms an ice ball in his hand, throwing it at the opponent,
+            Causing them to explode. Can anyone say MK the movie?
+            -
+            Friendship = B, B, D+HK (Anywhere)
+            Subbie gains a few bucks and ads his new plush toy.
+            -
+            Babality = D, B, B+HK (Anywhere)
+            Sub-Zero, using his bizarre psychic ability, turns the opponent into
+            a baby.
+            -
+            Pit/Spikes = D, F, F+BK (Close)
+
+============
+
+-=Shang Tsung=-
+
+Moves: One Skull Launch = B, B+HP (Anywhere)
+       Tsung shoots one flaming skull from his hand.
+       -
+       Two Skull Launch = B, B, F+HP (Anywhere)
+       Tsung shoots two flaming skulls from his hand.
+       -
+       Three Skull Launch = B, B, F, F+HP (Anywhere)
+       Tsung shoots three flaming skulls from his hand.
+
+Fatalities: Explosion = Hold HK for Three Seconds (Sweep)
+            Tsung shoots inside of his opponent, causing them to explode.
+            -
+            Soul Suck You = U, D, U+LK (Close)
+            Shang grabs his opponent's chest, lifts them up, and takes their
+            soul. The remaining body is left with a green skin.
+            -
+            Kintaro = Hold LP for 30 Seconds (the whole last match)
+            Tsung transforms into Kintaro, punching your body in half.
+            -
+            Friendship = B, B, D, F+HK (Anywhere)
+            Tsung Sprouts a Rainbow.
+            -
+            Babality = B, F, D+HK (Anywhere)
+            Shang Tsung, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = Hold BL, D, D, U, D (Close)
+
+============
+
+-=Kitana=-
+
+Moves: Elbow Punch = HP (Close)
+       Kitana crack her opponent in the skull.
+       -
+       Fan Swipe = B+HP (Close)
+       Kitana cuts her opponent with her fan.
+       -
+       Fan Throw = F, F+HP+LP (Anywhere)
+       Kitana throws her Fan (can also be done in air)
+       -
+       Fan Lift = B, B, B+HP (Sweep to Close)
+       Kitana blows her enemy into the air.
+       -
+       Square Wave Punch = F, D, B+HP (Anywhere)
+       Kitana does something.
+
+Fatalities: Fan Swipe = BL, Bl, HK (Close)
+            Kitana decapitates her opponent
+            -
+            Kiss of Death = Hold LK, F, F, D, F release LK (Close)
+            Kitana kisses her opponent, causing them to explode.
+            -
+            Friendship = D, D, D, U+LK (Anywhere)
+            Kitana bakes up a cake.
+            -
+            Babality = D, D, D, LK (Anywhere)
+            Kitana, using her bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = F, D, F+HK(Close)
+
+============
+
+-=Jax=-
+
+Moves: Overhead Punch = F+HP (Close)
+       Jax takes a huge swipe at the opponent.
+       -
+       Tremor = Hold LK for Three Seconds (Anywhere)
+       Jax punches the ground, causing a huge damaging tremor to the enemy.
+       -
+       Energy Wave = B, B+HK (Anywhere)
+       Jax sends this damaging projectile.
+       -
+       Gotcha! = F, F, LP keep tapping LP (Close)
+       Jax grabs the opponent and smashed them in the face repeatedly.
+       -
+       Back Breaker = Bl in air (Close)
+       Jax breaks the opponents back in air.
+       -
+       Quad Slam = F+LP, keep tapping HP (Close)
+       Jax slams his opponent around the arena.
+
+
+Fatalities: Head Crush = Hold LP, F, F, F release LP (Close)
+            Jax finally bashes his opponent's head off.
+            -
+            Arm Rip = Bl, Bl, Bl, BL+LP (Close)
+            Jax rips his enemy's arms off.
+            -
+            Friendship = D, D, U, U+LK (Anywhere)
+            Jax messes with origami.
+            -
+            Babality = D, U, D, U+LK (Anywhere)
+            Jax, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = U, U, D, LK(Close)
+
+============
+
+-=Mileena=-
+
+Moves: Elbow Crack = HP (Close)
+       Kitana mimics her twin sister and elbows the opponent in the head.
+       -
+       Sais = Hold HP for 2 seconds (Anywhere)
+       Mileena throws her Sais.
+       -
+       Ground Ball = B, B, D+HK (Anywhere)
+       Mileena rolls across the ground, tripping her adversary.
+       -
+       Teleport Kick = F, F+LK (Anywhere)
+       Mileena all of a sudden falls from the sky with a kick.
+
+Fatalities: Murder = F, D, F, LP (Close)
+            Mileena shows no mercy by stabbing her opponent multiple times.
+            -
+            Kiss of Death II = Hold HK for three seconds (Close)
+            Mileena kisses her opponent, sucking them in and spitting them out
+            in bones.
+            -
+            Mileena plants a flower for the enemy.
+            -
+            Babality = D, D, D+HK (Anywhere)
+            Mileena, using her bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = F, D, F, LK (Close)
+
+============
+
+-=Baraka=-
+
+Moves: Backhand = HP (Close)
+       Baraka backhands the opponent.
+       -
+       Slice = B+HP (Close)
+       Baraka takes a cheap swipe at the opponent.
+       -
+       Double Kick = Jump, HK, HK (Close)
+       Baraka double kicks his opponent.
+       -
+       Blind Fury = B, B, B+LP (Sweep)
+       Baraka fends off his opponent by swiping his blades in front of him.
+       -
+       Projectile = B, B+HP (Anywhere)
+       Baraka shoots a spark at his opponent.
+
+Fatalities: Decapitation = B, B, B, B+HP (Close)
+            Baraka finally slices his enemy's head off.
+            -
+            Stick = B, F, D, F+LP (Close)
+            Baraka stabs his opponent, causing them to die on his blades.
+            -
+            Friendship = U, F, F, HK (Anywhere)
+            Baraka gives his friend a present.
+            -
+            Babality = F, F, F+HK (Anywhere)
+            Baraka, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = F, F, D, HK (Close)
+
+============
+
+-=Scorpion=-
+
+Moves: Spear = B, B+LP (Anywhere)
+       Scorpion uses his patented spear to bring the enemy to him.
+       -
+       Teleport Punch = D, B+HP (Anywhere)
+       Scorpion disappears and reappears...  punching his opponent in the face!
+       -
+       Scissor Takedown = F, D, B+LK (Close)
+       Scorpion uses a special tripping move.
+       -
+       Scorpions throw his adversary out of the air.
+
+Fatalities: Toasty! = U, U+HP (Half Screen)
+            Scorpion burns his opponent.
+            -
+            LONG Toasty!! = D, D, U, U+HP (Anywhere)
+            Scorpion burns his opponent from anywhere.
+            -
+            Slice = Hold HP, F, D, F, F, F release HP (Close)
+            Scorpion uses his spear to slice the opponent in half.
+            -
+            Friendship = B, B, D, HK (Anywhere)
+            Scorpion sales a doll to his opponent.
+            -
+            Babality = D, B, B+HK (Anywhere)
+            Scorpion, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = D, F, F, BL (Close)
+
+============
+
+-=Scorpion=-
+
+Moves: Spear = B, B+LP (Anywhere)
+       Scorpion uses his patented spear to bring the enemy to him.
+       -
+       Teleport Punch = D, B+HP (Anywhere)
+       Scorpion disappears and reappears...  punching his opponent in the face!
+       -
+       Scissor Takedown = F, D, B+LK (Close)
+       Scorpion uses a special tripping move.
+       -
+       Air Throw = BL (Close)
+       Scorpions throw his adversary out of the air.
+
+Fatalities: Toasty! = U, U+HP (Half Screen)
+            Scorpion burns his opponent.
+            -
+            LONG Toasty!! = D, D, U, U+HP (Anywhere)
+            Scorpion burns his opponent from anywhere.
+            -
+            Slice = Hold HP, F, D, F, F, F release HP (Close)
+            Scorpion uses his spear to slice the opponent in half.
+            -
+            Friendship = B, B, D, HK (Anywhere)
+            Scorpion sales a doll to his opponent.
+            -
+            Babality = D, B, B+HK (Anywhere)
+            Scorpion, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = D, F, F, BL (Close)
+
+============
+
+-=Rayden=-
+
+Moves: Mini Uppercut = HP (Close)
+       Rayden uppercuts the opponent without sending them in the air.
+       -
+       KAMIKAZAAA Torpedo = B, B, F (Anywhere)
+       Scorpion disappears and reappears...  punching his opponent in the face!
+       -
+       Lightning Toss = D, F, LP (Anywhere)
+       Rayden throws lightning as a projectile
+       -
+       Teleport = D, U (Anywhere)
+       Rayden teleports to the other side of his opponent.
+       -
+       Shock = Hold HP for 3 seconds (Close)
+       Rayden makes love to his opponent.
+
+Fatalities: Execution = Hold LK then keep tapping BL+LK (Close)
+            Rayden grabs his opponent and makes them explode.
+            -
+            Explosive Uppercut = Hold HP for 7 seconds (Close)
+            Rayden uppercuts his opponent and they explode.
+            -
+            Friendship = D, B, F+HK (Anywhere)
+            Kidd Thunder !!!
+            -
+            Babality = D, D, U+HK (Anywhere)
+            Rayden, using his bizarre psychic ability, turns the opponent
+            into a baby.
+            -
+            Pit/Spikes = U, U, U+HP (Close)
+
+================================================================================
+X.
+_________________
+|Secret Fighters|-------------------------------------------------------------->
+"Congratulations!  You Have Found The Passage From The Outworld To The
+Earth Realm.  Now You Must Battle With An Undiscovered Warrior From
+Mortal Kombat One.  Prepare Yourself To Return To _________."
+
+This is the message you'll get when you have stumbled onto a secret fighter.
+Like other Mortal Kombats, Mortal Kombat II has its own amount of secret
+characters. Note: You CANNOT play as any of the fighters, you can only fight
+them in 1-player mode.
+
+
+
+-=Jade=-
+As a female ninja like Mileena and Kitana, Jade sports the same look; except
+she's green. You may have noticed her on the Living Forest stage popping her
+head out from in back of the trees.
+
+How to get to Jade
+Have you ever noticed that '?' on the battle plan below Shang Tsung? That icon
+is actually a portal to Jade! In order to fight her, you need to get to the
+character fight before that (It's usually Scorpion), and during that fight, you
+must defeat the character ONLY USING THE D-PAD AND THE LOW KICK! No block
+button!
+
+Where and How to Beat Jade
+When you get to jade, you'll be transported to Goro's Lair from MK1. Jade is
+very fast, and she's the most difficult of the three secret characters to beat
+(in my opinion). She has the same moves as Kitana, and she her difficulty is
+set to Very Hard. Plus, she is two times faster than any of the normal fighters
+when it comes to moving around. To beat her, make sure you keep her distance
+and block constantly. Send a few Jump Kicks and projectiles her way, and keep
+on blocking. Don't try to throw her, or uppercut here. In fact, I suggest
+avoiding getting close to her. Jump Kicks, Block, and Projectiles. Upon
+defeating Jade, you won't get anything special. You just get the self-pride in
+the fat that you one of the MK's toughest characters!
+
+
+
+-=Human Smoke=-
+This elusive character has smoke emitting from his body. His story and
+whereabouts are unknown, but he does use the same moves as Scorpion. To get to
+fight him, it's a bit trickier. Start a two-player game. On the Portal Stage,
+do a bunch of Upper cuts in a row. Have you ever noticed that head that pops
+out of the corner and says "Toasty"? Well, when he pops out on this page,
+IMMEDIATELY HOLD DOWN+BLOCK.
+
+Where and How to beat Human Smoke
+Like Jade, you'll be transported to Goro's Lair from MK1. Like Jade, he is very
+fast when moving around, so don't be intimidated when first fighting him. My
+advice is to keep out of close confrontations, as he has the Same Takedown move
+as Scorpion. But keep on blocking his Spear. The cruddy thing about staying far
+away from him is the fact that he has his Teleport Punch move that can hit you
+and leave you open to a horrible juggle combo from him. Always keep on the
+move, Block, Jump Kick, Projectile. You know the drill. Upon defeating Human
+Smoke, you won't get anything special. You just get the self-pride in the fat
+that you one of the MK's toughest characters!
+
+
+
+-=Noob Saibot=-
+This secretive fighter is just as reclusive as he his looks. He is pitch black.
+In Fact, if you take the MK's creator's names backwards (Boon, Tobias) you get
+Noob Saibot. To get him, you must win 50 matches in a row. No guff.
+
+Where and How to beat Noob Saibot
+The same basics apply here as they did on Human Smoke, Noob used Scorpion's
+moves, so you the same strategy. The difference here is that you fight him in a
+different level. The level is a Blue Portal stage, so that makes him HARD TO
+SEE!! Add the fact that he is FASTER than Human Smoke and Jade, you've got
+yourself a challenge.
+
+
+================================================================================
+XI.
+________
+|Bosses|----------------------------------------------------------------------->
+Like MK1, MK2 has bosses. But instead of Shang Tsung and Goro, this time around
+we have Shao Khan and Goro.
+
+
+Fighting Kintaro:
+Kintaro isn't a happy guy. He is very quick for being so big, and he has a big
+arsenal of moves. Some things to remember: Always be on your toes, his attack
+are quick and can be dodged with a little skill. His attacks are UNBLOCKABLE,
+so you're going to be doing a lot of dodging. Use your character Jump Kicks
+constantly, and sweep when you get close (He's a sucker for that).
+
+Here's a tip: get him cornered into a corner by doing anything possible.
+Projectiles, jump kicks, roundhouse kicks, whatever. When you get him into a
+corner, CONSISTENTLY punch him with Low Punch! This will drain his life
+drastically and he can't do anything about it! Don't stop though, or he'll
+throw you out of the corner, and he'll be tough to get back in there again.
+
+
+Fighting Shao Khan:
+Like Kintaro, Shao Khan is unblockable and he has a wide variety of moves. Only
+with SK, he is quicker. The key with him is to get him while he's taunting you.
+A projectile, upper cut, roundhouse, or anything will do. When he's not
+taunting you, you should stay away from him and provoke his taunting (the
+longer you stay away, the more he'll do it). He's also a sucker for moves that
+puts him in the air or trap him; like Kitana's Fan lift or Baraka's Blade Fury.
+
+You can also do the "Punch in the corner" trick that you did with Kintaro.
+
+Congratulations! Shao Khan's reign is over! You are now the supreme Mortal
+Kombat champion!
+<character ending plays>
+
+
+================================================================================
+XII.
+_________________________
+|Cheats, Tips, and Codes|------------------------------------------------------>
+The following are codes and tips that you can do in MK2 for Sega 32X. Note:
+Test Modes (the cheat found in the Genny port) is not in the 32X version. =(
+
+
+Beat Kintaro/Shao Khan Easily: Get them in a corner and QUICKLY tab Low Punch.
+It will drain their life, and they won't do anything!
+
+Random Select: Press UP and START at the Choose Your Fighter screen. Be sure to
+have the selection box positioned at its default icon.
+
+Disable Throws in VS Game: Hold DOWN and HIGH PUNCH on both joysticks after
+selecting your fighters. A message will appear saying throws are disabled.
+
+Oh Maw: After doing the Dead Pool Stage Fatality (see Basics page), hold DOWN
+on the joystick. You will hear Dan Forden say "Oh maw".
+
+Drop Opponent off Tomb Spikes: Right after doing the Kombat Tomb Stage
+Fatality, hold DOWN on both joysticks. The body will slowly slip from the
+spikes and fall to the ground.
+
+Play Pong: Play 250 Battles in a row. The message "You have reached the outer
+limits of the tournament. Now you both must face a challenge from your past..."
+will appear and you will get to play Pong, first player to get seven wins.
+
+
+Do you have anymore? Send them to shinnokxz@charter.net
+
+
+================================================================================
+XIII.
+___________________
+|Glitches and Bugs|------------------------------------------------------------>
+Bugs are always interesting in any game. And MK2 for 32X is no exception. It
+has plenty of interesting glitches and bugs that are worth the trouble to get
+to.
+
+Most of these glitches are also present in the SNES and Genesis version.
+
+
+Fighters:        Anybody vs. Computer
+When:            Right after the computer throws you.
+What:            The computer will walk backwards right after they throw
+                 you. Jump at them when they are walking backwards, and
+                 don't attack, and keep walking towards them.
+
+
+Fighter:         Sub-zero, Scorpion, Reptile, Baraka, or Lui Kang vs.
+                 anybody you may, however choose Shang Tsung and morph into a
+                 character who it will work with.
+When:            After you win.
+What:            Have the winner throw the victim to win the match. As soon
+                 as they get thrown, have the victim hold down and tap any
+                 attack button.
+
+
+Fighters:        Scorpion or Cage vs. Anybody
+When:            After you win.</pre><pre id="faqspan-2">
+What:            Have victim get in corner. Win. Get real close.
+                 Jump at them. Just after you leave the ground, do D-D-U-U if
+                 Scorpion, or D-D-F-F if Cage. and time it so that you hit
+                 the button part of the fatality as soon as you hit the ground.
+Results:         Scorpion will pull off his mask before he gets pushed out of
+                 the corner, and his skull won't get pushed out, resulting
+                 in his skull appearing on his shoulder. Cage will reach
+                 behind victim and do the fatality from too close.
+Results:         The victim will do the move, then go into their dizzy
+                 animation. Then things progress as normal.
+                 This is a setup for further glitches.
+
+
+Fighters:        Shang Tsung vs. Lui Kang
+When:            After you win.
+What:            Morph into Sub Zero. Deep-freeze opponent. Keep freezing
+                 them until morph time. Morph into Jax. Do head pop fatality.
+Results:         Color map will get screwed up. Liu Kang will look extra
+                 bloody. This is a very widely known one, but here for
+                 completeness.
+
+
+Fighters:        Kitana vs. Shao Kahn
+When:            Just before winning.
+What:            Win by having the time run out, but with you having more
+                 energy. Time it so that he is being lifted when the time
+                 runs out.
+Results:         The game will lock up.
+
+
+Fighters:        Reptile vs. Anybody
+When:            After you win.
+Where:           The armory stage
+What:            Do his tongue fatality.
+Results:         The floor will move.
+
+
+Fighters:        Jax vs. Raiden
+What:            If you do his arm rip-off fatality, Kung Lao's arms will appear
+                 instead of Raiden's.
+
+
+Fighters:        Jax vs. Jax
+What:            If you do his arm rip-off fatality, the victim's arms won't
+                 land.
+
+
+Fighters:        Shang Tsung vs. human or computer
+What:            Morph into Sub-zero. Wait until the last second before you
+                 morph back, then freeze the ground. After you morph back into
+                 Shang Tsung, immediately do single-flaming skulls really fast
+                 (tap back and HP really fast). This causes the ground freeze to
+                 disappear and the Flaming skull will turn into Kung Lao for a
+                 second, or flaming skull will disappear (among other strange
+                 things).
+
+
+Fighters:        Lui Kang vs. Human Anybody (works for me best with Cage)
+What:            Have victim continuously jump straight up. Charge up the
+                 bicycle kick. This takes some timing. If you can high-punch
+                 them AS they are jumping up, and immediately do a bicycle kick,
+                 they will go very very high up and you will see the ceiling.
+                 This crashes the game often.
+
+
+There are smaller ones, but they aren't really worth going through to see. Of
+course, if you have seen any that aren't listed here send them here:
+shinnokxz@charter.net. You'll get full credit.
+
+
+================================================================================
+XIV.
+_________________________________
+|Mortal Kombat II Arcade History|---------------------------------------------->
+This part of the guide will list all the versions of the MK2 Arcade and their
+difference.
+
+===========
+VERSION 1.1
+===========
+First version released to the public even though unfinished.
+Contained almost all moves but not many fatalities.
+Kintaro and Shao Kahn were very difficult to beat.
+No game ending after beating Shao Kahn.
+Baraka's blade swipe had no sound.
+Shang Tsung had the ceiling walk bug.
+Could beat Kintaro by just punching the entire match.
+
+===========
+VERSION 1.4
+===========
+
+Mileena's ground roll move added.
+Kung Lao's aerial kick added.
+Sub-Zero could do the first part of the freeze-uppercut
+   fatality during the match.
+Danger indicator added.
+This version contained many but not all aspects of version
+   2.1.  Since version 1.4 was not widely circulated, those
+   changes will be listed under version 2.1.
+
+===========
+VERSION 2.1
+===========
+
+First "official" release version.
+Intro text slightly changed.
+Reptile's slide added.
+Ending story and credits added.
+Computer intelligence improved.
+Nearly all fatalities were added.
+Friendships and babalities were added.
+The pit/spike fatality was added.
+Smoke and Jade were added.
+Kintaro and Shao Kahn easier to defeat.
+Could keep Kintaro and Shao Kahn up in the corner by using repeated punches.
+Could crash the game through baby brutalization.
+Doing Shang Tsung's soul stealing fatality against Jax could
+   sometimes crash the game.
+
+===========
+VERSION 3.1
+===========
+
+More amounts of blood added.
+Dead Pool fatality added.
+Noob Saibot added.
+Raiden's super uppercut fatality added.
+Kung Lao's friendship added.
+Pictures of the creators added after the credits.
+Revolution X and DCS ads added.
+Comic and CD offer shows picture of CD.
+Computer intelligence increased.
+Computer has ability to do missile weapons in the air.
+Multiple babality problem fixed.
+Repeated punches in the corner against Kintaro fixed.
+Kitana's multiple fan lifts in the corner fixed.
+Sub-Zero freeze - punch - freeze - punch... fixed.
+
+===========
+VERSION 4.2
+===========
+
+This is a pirated ROM and is not an official Midway release.
+It is only in a few arcades across the country.
+Uppercuts are faster.
+Cage does red shadow kick and uppercut every time.
+Cages shadow kick goes twice as far.
+Barakas roundhouse has awesome range.
+Noob Saibot after only six wins.
+Pong after only 20 or so wins.
+Secret characters vulnerable to missile weapons.
+Liu Kang has a red dragon fatality.
+Kung Lao has a bones in his hat fatality.
+
+
+**  I would like to stress that all versions above 3.1 are not official
+versions and you will likely never see them.  I haven't seen them
+myself, so I can't confirm anything else that has been said about them.
+
+
+================================================================================
+XV.
+_________________________________
+|Mortal Kombat Franchise History|---------------------------------------------->
+Here is the rundown of each Mortal Kombat released and what systems it was
+released for.
+
+
+Mortal Kombat
+-Arcade
+-Super Nintendo
+-Sega Genesis
+-Nintendo Gameboy
+-Sega Game Gear
+-Sega CD
+-PC
+-Sega Master System
+
+
+Mortal Kombat II
+-Arcade
+-Sony Playstation
+-Sega Saturn
+-Super Nintendo
+-Sega Genesis
+-Nintendo Gameboy
+-Sega Game Gear
+-Sega 32X
+-PC
+-Sega Master System
+-Amiga
+
+
+Mortal Kombat 3
+-Arcade
+-Sega Genesis
+-Super Nintendo
+-PC
+-Sony Playstation
+-Nintendo Gameboy
+
+
+Ultimate Mortal Kombat 3
+-Arcade
+-Sega Saturn
+-Super Nintendo
+-Sega Genesis
+-Super Nintendo
+
+
+Mortal Kombat Trilogy
+-Sony Playstation
+-Nintendo 64
+-Sega Saturn
+-PC
+-Game.com
+
+
+Mortal Kombat I & II
+-Nintendo Gameboy
+-PC (Rumored)
+
+
+Mortal Kombat Myhtoligies: Sub-Zero
+-Sony Playstation
+-Nintendo 64
+
+
+Mortal Kombat 4
+-Sony Playstation
+-Nintendo 64
+-PC
+-Nintendo Gameboy Color
+
+
+Mortal Kombat Gold
+-Sega Dreamcast
+
+
+Mortal Kombat: Special Forces
+-Sony Playstation
+-Nintendo 64 (Cancelled)
+
+
+Mortal Kombat Advance
+-Nintendo Gameboy Advance
+
+
+Mortal Kombat: Deadly Alliance
+-Nintendo Gamecube
+-Sony Playstation2
+-Microsoft Xbox
+-Nintendo Gameboy Advance
+
+
+Am I missing any? Contact me at shinnokxz@charter.net
+
+
+================================================================================
+XVI.
+________________________
+|Mortal Kombat Websites|------------------------------------------------------->
+Here are some websites that contain full information for MK2 and other MK games.
+
+http://trmk.org - The Realm of Mortal Kombat
+http://mk5.org - MK5.Org
+http://welcome.to/sektors - Sektor's Mortal Kombat Page
+news:alt.games.com - Mortal Kombat Newsgroup (Your ISP must have a News Server)
+news:alt.games.mk.mk3 - Mortal Kombat 3 Newsgroup
+
+
+================================================================================
+XVII.
+____________________
+|Author Information|----------------------------------------------------------->
+Cory Hansen
+shinnokxz@charter.net
+http://corysplace.silius.net
+
+Cory Hansen (Shinnokxz) has been writing reviews and FAQs for GameFAQs for over
+seven years. To view all my other contributions, go here:
+http://www.gamefaqs.com/features/recognition/3783.html
+
+
+================================================================================
+XVIII.
+__________________
+|Closing Comments|------------------------------------------------------------->
+Mortal Kombat II, regardless of system, is a blast to play. It was even more
+fun to write this guide, communicating with fellow MK fans, and wading through
+countless MK websites.
+
+
+================================================================================
+XIX.
+_________________________________
+|Mortal Kombat II Hidden Messages|--------------------------------------------->
+
+Jade clues:
+
+I Am Called Jade
+Before The ?
+Ermac Who?
+I Will Meet You In Goro's Lair
+Chun Who?
+I Am One Of Three
+Restrict Yourself
+Alone Is How You Will Find Me
+One Day We Will Fight!
+Bring On Kano And Sonya!
+
+
+Smoke clues:
+
+I Am Called Smoke
+Toasty
+You Can Start Finding Me
+Ermac Who?
+You Can Not Defeat Me
+I Am One Of Three
+Portal
+I Will Meet You In Goro's Lair
+Mortal Kombat One
+Prove Yourself
+
+
+Messages Upon Winning:
+
+Who Is Smoke?
+Who Is Jade?
+Friendship?
+Where is Sonya?
+Where is Kano?
+Where is Goro?
+Babality?
+Ceamr Odse Nto Exits       (Ermac Does Not Exist)
+Emro Batmok Ot Meok        (More Kombat To Kome)
+Sruep Ghih Miptac          (Super High Impact)
+Three Rae On Stniiiaamel   (There Are No Animalities)
+
+
+================================================================================
+Document Finished. By Cory Hansen. Copyright 2002-2004.
+

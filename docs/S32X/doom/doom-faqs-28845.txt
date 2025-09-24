@@ -1,0 +1,1357 @@
+-------------------------------------------------------------------------------
+
+ DOOM/ULTIMATE DOOM, DOOM II, FINAL DOOM (TNT/PLUTONIA), AND THE MASTER LEVELS
+
+                              GAME MULTIMEDIA FOR
+                    PC, GAME-CONSOLE AND HANDHELD PLATFORMS
+
+                        COUNT OF ALL "OFFICIAL" SECRETS
+
+                              REVISION 06/23/2010
+
+-------------------------------------------------------------------------------
+
+TOPICS IN ORDER OF APPEARANCE          | TOPICS IN ALPHABETICAL ORDER
+=============================          | ============================
+ 0. Introduction                       | 3DO (Panasonic And Others) Doom (13)
+ 1. Doom Game Secrets: General         | Apple iPhone/iPod touch Doom (24)
+ 2. PC/Mac Doom                        | Atari Jaguar Doom (12)
+ 3. PC/Mac Ultimate Doom               | Doom Game Secrets: General (1)
+ 4. PC/Mac Doom II                     | Glossary (25)
+ 5. PC/Mac Master Levels For Doom II   | Introduction (0)
+ 6. PC/Mac Final Doom: TNT/Evilution   | Microsoft Xbox 360 Doom (22)
+ 7. PC/Mac Final Doom: Plutonia        | Microsoft Xbox 360 Doom II (23)
+ 8. Sony PlayStation Doom              | Microsoft Xbox Doom II (20)
+ 9. Sony PlayStation Final Doom        | Microsoft Xbox Master Levels (21)
+10. Sega Saturn Doom                   | Microsoft Xbox Ultimate Doom (19)
+11. Nintendo 64 Doom 64                | Nintendo 64 Doom 64 (11)
+12. Atari Jaguar Doom                  | Nintendo Game Boy Advance Doom (16)
+13. 3DO (Panasonic And Others) Doom    | Nintendo Game Boy Advance Doom II (17)
+14. Super Nintendo Doom                | PC/Mac Doom (2)
+15. Sega Genesis 32X Doom              | PC/Mac Doom II (4)
+16. Nintendo Game Boy Advance Doom     | PC/Mac Final Doom: Plutonia (7)
+17. Nintendo Game Boy Advance Doom II  | PC/Mac Final Doom: TNT/Evilution (6)
+18. Tapwave Zodiac Doom II             | PC/Mac Master Levels For Doom II (5)
+19. Microsoft Xbox Ultimate Doom       | PC/Mac Ultimate Doom (3)
+20. Microsoft Xbox Doom II             | Sega Genesis 32X Doom (15)
+21. Microsoft Xbox Master Levels       | Sega Saturn Doom (10)
+22. Microsoft Xbox 360 Doom            | Sony PlayStation Doom (8)
+23. Microsoft Xbox 360 Doom II         | Sony PlayStation Final Doom (9)
+24. Apple iPhone/iPod touch Doom       | Super Nintendo Doom (14)
+25. Glossary                           | Tapwave Zodiac Doom II (18)
+
+-------------------------------------------------------------------------------
+
+0. INTRODUCTION
+===============
+o This document lists all of the map levels that are built into some of the
+  more popular commercial Doom/Doom II games, and provides quick-reference
+  information on the number of "official" secret areas on each map, and the
+  maximum scores a player can achieve for discovering them.
+
+o In this document, "official secrets" are areas or items on a map that can
+  affect a player's "secrets found" score, shown on the tally screens that
+  typically appear when a player exits a map.  (Different Doom/Doom II game
+  versions display this score as "SECRET" or "SECRETS".)
+
+o Other computer-based editions of the PC/Macintosh Doom/Doom II games exist,
+  however they are identical in most aspects to the original PC/Mac games, and
+  so are generally not addressed in this document.  Other editions of Doom,
+  Doom II, etc. which are not addressed here may be included in future updates.
+
+o This document is 79 characters wide, and is best viewed in a monospaced font.
+  The master HTML version is located here: http://classicdoom.com/maxsec.htm
+  The master text version is located here: http://classicdoom.com/maxsec.txt
+
+1. DOOM GAME SECRETS: GENERAL
+=============================
+o Not all hidden areas or items in a given Doom/Doom II game are considered
+  "official" secrets.  Many maps have hidden or hard-to-reach areas and items
+  that will not affect a player's secrets-found score.
+
+o In general an "official" (score-affecting) secret area will be a specially
+  flagged horizontal surface, such as the floor of a room or tunnel, a patch of
+  ground, the narrow strip beneath the bottom edge of a door, the top of a step
+  or pedestal, etc.  Credit for discovering an official secret is commonly
+  given when the lower endpoint of the player character's axis (an imaginary
+  vertical line running down through the center of the character) contacts that
+  horizontal surface.
+
+o Note that in some instances it may not actually be possible for the player
+  character's axis to cross the perimeter of a particular secret area or touch
+  its surface.  This problem can occur when a small or narrow secret area is
+  occupied by a solid object, or is located too close to a wall or teleporter.
+  In rare cases an official secret may be located in a completely inaccessible
+  section of the map, or a 100% score may depend on a player reaching secret
+  areas that do not actually exist on the map.
+
+o In some Doom/Doom II games, some locations have multiple secret surfaces
+  within them.  This can, in effect, give more value to specific items or
+  areas.  For example, one hidden stairway in Ultimate Doom has over a dozen
+  surfaces flagged as secret, which makes that one stairway account for more
+  than 80 percent of that map's official secrets.
+
+o In some Doom/Doom II games, some "official secret" areas are not actually
+  hidden, and may even be located in parts of the map that a player character
+  must pass through in order to reach an exit (or other goal).
+
+o In certain Doom games the player character must actually pick up a "secret"
+  item in order to be credited with discovering it; Simply walking into/across
+  the space that the item occupies will not always affect the player's score.
+
+o The original PC Doom/Doom II games will give a SECRET score of "0%" for maps
+  that have no official secret areas.  Note that some "source ports" of the
+  original PC game engines will give a SECRET score of "100%" for those maps.
+
+o Some game-console versions of Doom/Doom II will give a score of "0%" for maps
+  that have no hidden official secrets; other game-console editions will give a
+  score of "100%" for such maps.
+
+2. PC/MAC DOOM
+==============
+o PC/Mac Doom includes 27 maps, divided into 3 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|--------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.9 maps (maps E1M1 through E1M9)
+  THE SHORES OF HELL....|....2....|.9 maps (maps E2M1 through E2M9)
+  INFERNO...............|....3....|.9 maps (maps E3M1 through E3M9)
+
+o Official secrets and maximum scores for PC/Mac Doom v1.9:
+
+  Map  | Map name            | Secrets | Score
+  -----|---------------------|---------|------
+  E1M1.|.HANGAR..............|....3....|.100%.
+  E1M2.|.NUCLEAR PLANT.......|....6....|.100%.
+  E1M3.|.TOXIN REFINERY......|....7....|.100%.
+  E1M4.|.COMMAND CONTROL.....|....3....|.100%.
+  E1M5.|.PHOBOS LAB..........|....9....|.100%.
+  E1M6.|.CENTRAL PROCESSING..|....4....|.100%.
+  E1M7.|.COMPUTER STATION....|....4....|.100%.
+  E1M8.|.PHOBOS ANOMALY......|....1....|.N/A..
+  E1M9.|.MILITARY BASE.......|....2....|.100%.
+  -----|---------------------|---------|------
+  E2M1.|.DEIMOS ANOMALY......|....4....|.100%.
+  E2M2.|.CONTAINMENT AREA....|...12....|.100%.
+  E2M3.|.REFINERY............|....6....|.100%.
+  E2M4.|.DEIMOS LAB..........|...10....|.100%.
+  E2M5.|.COMMAND CENTER......|...10....|.100%.
+  E2M6.|.HALLS OF THE DAMNED.|....3....|.100%.
+  E2M7.|.SPAWNING VATS.......|....6....|.100%.
+  E2M8.|.TOWER OF BABEL......|....0....|.N/A..
+  E2M9.|.FORTRESS OF MYSTERY.|....1....|.100%.
+  -----|---------------------|---------|------
+  E3M1.|.HELL KEEP...........|....1....|.100%.
+  E3M2.|.SLOUGH OF DESPAIR...|....3....|.100%.
+  E3M3.|.PANDEMONIUM.........|....6....|.100%.
+  E3M4.|.HOUSE OF PAIN.......|....4....|.100%.
+  E3M5.|.UNHOLY CATHEDRAL....|...10....|.100%.
+  E3M6.|.MT. EREBUS..........|....4....|.100%.
+  E3M7.|.GATE TO LIMBO/LIMBO.|....4....|.100%.
+  E3M8.|.DIS.................|....0....|.N/A..
+  E3M9.|.WARRENS.............|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".  The PC/Mac Doom map in Episode 3 Mission 7
+  is referred to as "GATE TO LIMBO" in the tally screens, and "LIMBO" in the
+  Automap.
+  A tally screen is not displayed when exiting map E1M8, E2M8 or E3M8.
+
+3. PC/MAC ULTIMATE DOOM
+=======================
+o PC/Mac Ultimate Doom includes 36 maps, divided into 4 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|--------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.9 maps (maps E1M1 through E1M9)
+  THE SHORES OF HELL....|....2....|.9 maps (maps E2M1 through E2M9)
+  INFERNO...............|....3....|.9 maps (maps E3M1 through E3M9)
+  THY FLESH CONSUMED....|....4....|.9 maps (maps E4M1 through E4M9)
+
+o Official secrets and maximum scores for PC/Mac Ultimate Doom v1.9:
+
+  Map  | Map name              | Secrets | Score
+  -----|-----------------------|---------|------
+  E1M1.|.HANGAR................|....3....|.100%.
+  E1M2.|.NUCLEAR PLANT.........|....6....|.100%.
+  E1M3.|.TOXIN REFINERY........|....7....|.100%.
+  E1M4.|.COMMAND CONTROL.......|....3....|.100%.
+  E1M5.|.PHOBOS LAB............|....9....|.100%.
+  E1M6.|.CENTRAL PROCESSING....|....4....|.100%.
+  E1M7.|.COMPUTER STATION......|....4....|.100%.
+  E1M8.|.PHOBOS ANOMALY........|....1....|.N/A..
+  E1M9.|.MILITARY BASE.........|....2....|.100%.
+  -----|-----------------------|---------|------
+  E2M1.|.DEIMOS ANOMALY........|....4....|.100%.
+  E2M2.|.CONTAINMENT AREA......|...12....|.100%.
+  E2M3.|.REFINERY..............|....6....|.100%.
+  E2M4.|.DEIMOS LAB............|...10....|.100%.
+  E2M5.|.COMMAND CENTER........|...10....|.100%.
+  E2M6.|.HALLS OF THE DAMNED...|....3....|.100%.
+  E2M7.|.SPAWNING VATS.........|....6....|.100%.
+  E2M8.|.TOWER OF BABEL........|....0....|.N/A..
+  E2M9.|.FORTRESS OF MYSTERY...|....1....|.100%.
+  -----|-----------------------|---------|------
+  E3M1.|.HELL KEEP.............|....1....|.100%.
+  E3M2.|.SLOUGH OF DESPAIR.....|....3....|.100%.
+  E3M3.|.PANDEMONIUM...........|....6....|.100%.
+  E3M4.|.HOUSE OF PAIN.........|....4....|.100%.
+  E3M5.|.UNHOLY CATHEDRAL......|...10....|.100%.
+  E3M6.|.MT. EREBUS............|....4....|.100%.
+  E3M7.|.GATE TO LIMBO/LIMBO...|....4....|.100%.
+  E3M8.|.DIS...................|....0....|.N/A..
+  E3M9.|.WARRENS...............|....1....|.100%.
+  -----|-----------------------|---------|------
+  E4M1.|.HELL BENEATH..........|....2....|.100%.
+  E4M2.|.PERFECT HATRED........|....3....|.100%.
+  E4M3.|.SEVER THE WICKED......|...22....|..90%.
+  E4M4.|.UNRULY EVIL...........|....2....|.100%.
+  E4M5.|.THEY WILL REPENT......|....2....|.100%.
+  E4M6.|.AGAINST THEE WICKEDLY.|....3....|.100%.
+  E4M7.|.AND HELL FOLLOWED.....|....4....|..50%.
+  E4M8.|.UNTO THE CRUEL........|....1....|.N/A..
+  E4M9.|.FEAR..................|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".  The PC/Mac Ultimate Doom map in Episode 3
+  Mission 7 is referred to as "GATE TO LIMBO" in the tally screens, and "LIMBO"
+  in the Automap.
+  On map E4M3, SEVER THE WICKED, the player character cannot step into a pair
+  of tiny secret areas which are occupied by torches.
+  On map E4M7, AND HELL FOLLOWED, the player character is unable to step into
+  each of 2 secret areas.
+  A tally screen is not displayed when exiting map E1M8, E2M8, E3M8 or E4M8.
+
+4. PC/MAC DOOM II
+=================
+o Official secrets and maximum scores for PC/Mac Doom II, v1.9:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ENTRYWAY............|....5....|.100%.
+  ..2.|.UNDERHALLS..........|....1....|.100%.
+  ..3.|.THE GANTLET.........|....1....|.100%.
+  ..4.|.THE FOCUS...........|....3....|.100%.
+  ..5.|.THE WASTE TUNNELS...|....3....|.100%.
+  ..6.|.THE CRUSHER.........|....3....|.100%.
+  ..7.|.DEAD SIMPLE.........|....1....|.100%.
+  ..8.|.TRICKS AND TRAPS....|....7....|.100%.
+  ..9.|.THE PIT.............|....6....|.100%.
+  .10.|.REFUELING BASE......|...18....|.100%.
+  .11.|.CIRCLE OF DEATH.....|....3....|.100%.
+  .12.|.THE FACTORY.........|....4....|.100%.
+  .13.|.DOWNTOWN............|....8....|.100%.
+  .14.|.THE INMOST DENS.....|....0....|...0%.
+  .15.|.INDUSTRIAL ZONE.....|...11....|..90%.
+  .16.|.SUBURBS.............|....4....|.100%.
+  .17.|.TENEMENTS...........|....3....|.100%.
+  .18.|.THE COURTYARD.......|....4....|.100%.
+  .19.|.THE CITADEL.........|....9....|.100%.
+  .20.|.GOTCHA!.............|....7....|.100%.
+  .21.|.NIRVANA.............|....0....|...0%.
+  .22.|.THE CATACOMBS.......|....3....|.100%.
+  .23.|.BARRELS O' FUN......|....2....|.100%.
+  .24.|.THE CHASM...........|....4....|.100%.
+  .25.|.BLOODFALLS..........|....2....|.100%.
+  .26.|.THE ABANDONED MINES.|....4....|.100%.
+  .27.|.MONSTER CONDO.......|....8....|..87%.
+  .28.|.THE SPIRIT WORLD....|....7....|.100%.
+  .29.|.THE LIVING END......|....0....|...0%.
+  .30.|.ICON OF SIN.........|....0....|...0%.
+  .31.|.WOLFENSTEIN.........|....4....|.100%.
+  .32.|.GROSSE..............|....6....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: Map 11 is referred to as "CIRCLE OF DEATH" in the tally screens, and
+  "'O' OF DESTRUCTION!" in the Automap.
+  On map 15, INDUSTRIAL ZONE, a narrow secret area is located just before the
+  raised edge of a teleporter.  On approach, the player character is usually
+  lifted by the edge of the teleporter pad before the character's axis contacts
+  the secret area.
+  On map 27, MONSTER CONDO, a teleporter pad is flagged as secret, and the
+  player character's axis cannot normally contact the surface of the pad before
+  teleportation occurs.
+  Note that in some earlier editions of Doom II, none of the hidden areas on
+  maps 25, 31 and 32 were flagged as official secrets, and so a SECRET score of
+  0% was normal.  In version 1.9 a player can score 100% on each of those maps.
+
+5. PC/MAC MASTER LEVELS FOR DOOM II
+===================================
+o Official secrets and maximum scores for PC/Mac Doom II Master Levels:
+
+  Map | WAD file name (map title)                  | Secrets | Score
+  ----|--------------------------------------------|---------|------
+  ..1.|.ATTACK.WAD ("Attack")......................|....1....|.100%.
+  .25.|.BLACKTWR.WAD ("Black Tower")...............|....4....|.100%.
+  ..7.|.BLOODSEA.WAD ("Bloodsea Keep").............|....4....|.100%.
+  ..1.|.CANYON.WAD ("Canyon")......................|....4....|.100%.
+  ..1.|.CATWALK.WAD ("The Catwalk")................|....2....|.100%.
+  ..1.|.COMBINE.WAD ("The Combine")................|....1....|.100%.
+  ..1.|.FISTULA.WAD ("The Fistula")................|....1....|.100%.
+  ..1.|.GARRISON.WAD ("The Garrison")..............|....5....|.100%.
+  ..8.|.GERYON.WAD ("Geryon")......................|....2....|.100%.
+  ..1.|.MANOR.WAD ("Titan Manor")..................|....7....|.100%.
+  ..7.|.MEPHISTO.WAD ("Mephisto's Maosoleum")......|....5....|.100%.
+  ..5.|.MINOS.WAD ("Minos' Judgement").............|....5....|.100%.
+  ..7.|.NESSUS.WAD ("Nessus")......................|....1....|...0%.
+  ..1.|.PARADOX.WAD ("Paradox")....................|....7....|.100%.
+  ..1.|.SUBSPACE.WAD ("Subspace")..................|....2....|.100%.
+  ..1.|.SUBTERRA.WAD ("Subterra")..................|....1....|.100%.
+  .31.|.TEETH.WAD ("The Express Elevator To Hell").|....4....|.100%.
+  .32.|.TEETH.WAD ("Bad Dream")....................|....1....|.100%.
+  ..1.|.TTRAP.WAD ("Trapped On Titan").............|....2....|.100%.
+  ..9.|.VESPERAS.WAD ("Vesperas")..................|....2....|.100%.
+  ..3.|.VIRGIL.WAD ("Virgil's Lead")...............|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: In BLOODSEA.WAD, one secret area opens upon the death of a Mancubus,
+  but that monster is not present at skill levels 1 or 2.
+  In COMBINE.WAD the only "official" secret is accessed upon starting the game;
+  the player character starts within the map's only secret sector.
+  In NESSUS.WAD the player character cannot step into the one secret area on
+  this map.
+  TEETH.WAD contains 2 map levels (all other Master Levels WAD files contain 1
+  map each).
+
+6. PC/MAC FINAL DOOM: TNT/EVILUTION
+===================================
+o This section covers "Doom 2: TNT - Evilution", which is one of two Doom II
+  games included in the software package "Final Doom" for the PC/Mac.
+
+o Official secrets and maximum scores for PC/Mac Final Doom, TNT Evilution:
+
+  Map | Map name              | Secrets | Score
+  ----|-----------------------|---------|------
+  ..1.|.SYSTEM CONTROL........|....1....|.100%.
+  ..2.|.HUMAN BBQ.............|....4....|.100%.
+  ..3.|.POWER CONTROL.........|....3....|.100%.
+  ..4.|.WORMHOLE..............|....8....|.100%.
+  ..5.|.HANGER................|....3....|.100%.
+  ..6.|.OPEN SEASON...........|....1....|.100%.
+  ..7.|.PRISON................|....4....|.100%.
+  ..8.|.METAL.................|....4....|.100%.
+  ..9.|.STRONGHOLD............|...11....|.100%.
+  .10.|.REDEMPTION............|....5....|.100%.
+  .11.|.STORAGE FACILITY......|....2....|.100%.
+  .12.|.CRATER................|....2....|.100%.
+  .13.|.NUKAGE PROCESSING.....|....6....|.100%.
+  .14.|.STEEL WORKS...........|....4....|.100%.
+  .15.|.DEAD ZONE.............|....6....|.100%.
+  .16.|.DEEPEST REACHES.......|....4....|.100%.
+  .17.|.PROCESSING AREA.......|....4....|.100%.
+  .18.|.MILL..................|....5....|.100%.
+  .19.|.SHIPPING/RESPAWNING...|....4....|.100%.
+  .20.|.CENTRAL PROCESSING....|....7....|.100%.
+  .21.|.ADMINISTRATION CENTER.|....4....|.100%.
+  .22.|.HABITAT...............|....9....|.100%.
+  .23.|.LUNAR MINING PROJECT..|....3....|.100%.
+  .24.|.QUARRY................|....3....|.100%.
+  .25.|.BARON'S DEN...........|....4....|.100%.
+  .26.|.BALLISTYX.............|....2....|.100%.
+  .27.|.MOUNT PAIN............|....2....|.100%.
+  .28.|.HECK..................|....2....|.100%.
+  .29.|.RIVER STYX............|....3....|.100%.
+  .30.|.LAST CALL.............|....1....|.100%.
+  .31.|.PHARAOH...............|....2....|.100%.
+  .32.|.CARIBBEAN.............|....3....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On maps 18 and 28 one official secret is split into multiple separate
+  locations.  In each case, credit will be given for discovering that secret if
+  the player character steps into any of those locations.
+  The initial commercial release of the TNT/Evilution WAD file contains an
+  error in map level 31 ("PHARAOH") which may prevent further progress in the
+  game (the yellow keycard is missing).  A patch to correct this error is
+  available from Team TNT (access http://www.teamtnt.com and click on "Bugs &
+  Fixes").  There are also cheat codes that will enable a trapped player to
+  exit map 31 (access http://classicdoom.com/doomcode.htm for details).  For
+  information on exiting this map without keys, codes or file patches, access
+  http://classicdoom.com/tntdemos.htm#tnt31ex and read the TNT31EX.LMP entry.
+
+7. PC/MAC FINAL DOOM: PLUTONIA
+==============================
+o This section covers "Doom 2: Plutonia Experiment", which is one of two Doom
+  II games included in the software package "Final Doom" for the PC/Mac.
+
+o Official secrets and maximum scores for PC/Mac Final Doom, Plutonia
+  Experiment:
+
+  Map | Map name               | Secrets | Score
+  ----|------------------------|---------|------
+  ..1.|.CONGO..................|....1....|.100%.
+  ..2.|.WELL OF SOULS..........|....0....|...0%.
+  ..3.|.AZTEC..................|....1....|.100%.
+  ..4.|.CAGED..................|....4....|.100%.
+  ..5.|.GHOST TOWN.............|....1....|.100%.
+  ..6.|.BARON'S LAIR...........|....6....|.100%.
+  ..7.|.CAUGHTYARD.............|....1....|.100%.
+  ..8.|.REALM..................|....1....|.100%.
+  ..9.|.ABATTOIRE..............|....2....|.100%.
+  .10.|.ONSLAUGHT..............|....3....|.100%.
+  .11.|.HUNTED.................|....1....|.100%.
+  .12.|.SPEED..................|....2....|.100%.
+  .13.|.THE CRYPT..............|....1....|.100%.
+  .14.|.GENESIS................|....3....|.100%.
+  .15.|.THE TWILIGHT...........|...19....|.100%.
+  .16.|.THE OMEN...............|....0....|...0%.
+  .17.|.COMPOUND...............|....2....|.100%.
+  .18.|.NEUROSPHERE............|....1....|.100%.
+  .19.|.NME....................|....1....|.100%.
+  .20.|.THE DEATH DOMAIN.......|....2....|.100%.
+  .21.|.SLAYER.................|....0....|...0%.
+  .22.|.IMPOSSIBLE MISSION.....|....4....|.100%.
+  .23.|.TOMBSTONE..............|....5....|.100%.
+  .24.|.THE FINAL FRONTIER.....|....7....|.100%.
+  .25.|.THE TEMPLE OF DARKNESS.|....1....|.100%.
+  .26.|.BUNKER.................|....4....|..75%.
+  .27.|.ANTI-CHRIST............|....3....|.100%.
+  .28.|.THE SEWERS.............|....4....|.100%.
+  .29.|.ODYSSEY OF NOISES......|....2....|.100%.
+  .30.|.THE GATEWAY OF HELL....|....0....|...0%.
+  .31.|.CYBERDEN...............|....1....|.100%.
+  .32.|.GO 2 IT................|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On maps 6, 7, 15, 26 and 31 one official secret is split into multiple
+  separate locations.  In each case, credit will be given for discovering that
+  secret if the player character steps into any of those locations.
+  On map 26, BUNKER, a very narrow secret area surrounds the raised edges of a
+  square teleporter.  On approach, the player character is lifted by the edge
+  of the teleporter pad before the character's axis contacts the secret area.
+
+8. SONY PLAYSTATION DOOM
+========================
+o PlayStation Doom includes 59 maps, divided into 2 Episodes:
+
+  Episode name  | Episode | Maps included
+  --------------|---------|-------------------------------------------
+  ULTIMATE DOOM.|....1....|.33 maps (maps 1 through 30, 55 through 57)
+  DOOM II.......|....2....|.26 maps (maps 31 through 54, 58 and 59)...
+
+o Official secrets and maximum scores for PlayStation Doom:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.HANGAR..............|....3....|.100%.
+  ..2.|.PLANT...............|....7....|.100%.
+  ..3.|.TOXIN REFINERY......|....6....|.100%.
+  ..4.|.COMMAND CONTROL.....|....4....|.100%.
+  ..5.|.PHOBOS LAB..........|....9....|.100%.
+  ..6.|.CENTRAL PROCESSING..|....3....|.100%.
+  ..7.|.COMPUTER STATION....|....3....|.100%.
+  ..8.|.PHOBOS ANOMALY......|....1....|.100%.
+  ..9.|.DEIMOS ANOMALY......|....4....|.100%.
+  .10.|.CONTAINMENT AREA....|....6....|.100%.
+  .11.|.REFINERY............|....5....|.100%.
+  .12.|.DEIMOS LAB..........|...10....|.100%.
+  .13.|.COMMAND CENTER......|....4....|.100%.
+  .14.|.HALLS OF THE DAMNED.|....1....|.100%.
+  .15.|.SPAWNING VATS.......|....1....|.100%.
+  .16.|.HELL GATE...........|....0....|.100%.
+  .17.|.HELL KEEP...........|....0....|.100%.
+  .18.|.PANDEMONIUM.........|...10....|.100%.
+  .19.|.HOUSE OF PAIN.......|....3....|.100%.
+  .20.|.UNHOLY CATHEDRAL....|....8....|..87%.
+  .21.|.MT. EREBUS..........|....2....|.100%.
+  .22.|.LIMBO...............|....3....|.100%.
+  .23.|.TOWER OF BABEL......|....0....|.100%.
+  .24.|.HELL BENEATH........|....2....|.100%.
+  .25.|.PERFECT HATRED......|....3....|.100%.
+  .26.|.SEVER THE WICKED....|....2....|.100%.
+  .27.|.UNRULY EVIL.........|....2....|.100%.
+  .28.|.UNTO THE CRUEL......|....1....|.100%.
+  .29.|.TWILIGHT DESCENDS...|....3....|.100%.
+  .30.|.THRESHOLD OF PAIN...|....2....|.100%.
+  .55.|.FORTRESS OF MYSTERY.|....1....|.100%.
+  .56.|.THE MILITARY BASE...|....2....|.100%.
+  .57.|.THE MARSHES.........|....0....|.100%.
+  ----|---------------------|---------|------
+  .31.|.ENTRYWAY............|....4....|.100%.
+  .32.|.UNDERHALLS..........|....1....|.100%.
+  .33.|.THE GANTLET.........|....1....|.100%.
+  .34.|.THE FOCUS...........|....3....|.100%.
+  .35.|.THE WASTE TUNNELS...|....3....|.100%.
+  .36.|.THE CRUSHER.........|....3....|.100%.
+  .37.|.DEAD SIMPLE.........|....1....|.100%.
+  .38.|.TRICKS AND TRAPS....|....7....|.100%.
+  .39.|.THE PIT.............|....6....|.100%.
+  .40.|.REFUELING BASE......|...15....|.100%.
+  .41.|.O OF DESTRUCTION!...|....3....|.100%.
+  .42.|.THE FACTORY.........|....4....|.100%.
+  .43.|.THE INMOST DENS.....|....0....|.100%.
+  .44.|.SUBURBS.............|....4....|.100%.
+  .45.|.TENEMENTS...........|....2....|.100%.
+  .46.|.THE COURTYARD.......|....4....|.100%.
+  .47.|.THE CITADEL.........|....9....|.100%.
+  .48.|.NIRVANA.............|....0....|.100%.
+  .49.|.THE CATACOMBS.......|....3....|.100%.
+  .50.|.BARRELS OF FUN......|....2....|.100%.
+  .51.|.BLOODFALLS..........|....2....|.100%.
+  .52.|.THE ABANDONED MINES.|....4....|.100%.
+  .53.|.MONSTER CONDO.......|....7....|.100%.
+  .54.|.REDEMPTION DENIED...|....0....|.100%.
+  .58.|.THE MANSION.........|....5....|.100%.
+  .59.|.CLUB DOOM...........|....0....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 20, UNHOLY CATHEDRAL, one locked secret area cannot be opened.
+
+9. SONY PLAYSTATION FINAL DOOM
+==============================
+o PlayStation Final Doom includes 30 maps, divided into 3 Episodes:
+
+  Episode name  | Episode | Maps included
+  --------------|---------|-----------------------------
+  MASTER LEVELS.|....1....|.13 maps (maps 1 through 13).
+  TNT...........|....2....|.11 maps (maps 14 through 24)
+  PLUTONIA......|....3....|..6 maps (maps 25 through 30)
+
+o Official secrets and maximum scores for PlayStation Final Doom:
+
+  Map | Map name             | Secrets | Score
+  ----|----------------------|---------|------
+  ..1.|.ATTACK...............|....1....|.100%.
+  ..2.|.VIRGIL...............|....1....|.100%.
+  ..3.|.CANYON...............|....4....|.100%.
+  ..4.|.COMBINE..............|....1....|.100%.
+  ..5.|.CATWALK..............|....2....|.100%.
+  ..6.|.FISTULA..............|....1....|.100%.
+  ..7.|.GERYON...............|....2....|.100%.
+  ..8.|.MINOS................|....4....|.100%.
+  ..9.|.NESSUS...............|....1....|...0%.
+  .10.|.PARADOX..............|....7....|.100%.
+  .11.|.SUBSPACE.............|....2....|.100%.
+  .12.|.SUBTERRA.............|....1....|.100%.
+  .13.|.VESPERAS.............|....2....|.100%.
+  ----|----------------------|---------|------
+  .14.|.SYSTEM CONTROL.......|....1....|.100%.
+  .15.|.HUMAN BARBECUE.......|....4....|.100%.
+  .16.|.WORMHOLE.............|....8....|.100%.
+  .17.|.CRATER...............|....2....|.100%.
+  .18.|.NUKAGE PROCESSING....|....6....|.100%.
+  .19.|.DEEPEST REACHES......|....4....|.100%.
+  .20.|.PROCESSING AREA......|....4....|.100%.
+  .21.|.LUNAR MINING PROJECT.|....2....|.100%.
+  .22.|.QUARRY...............|....3....|.100%.
+  .23.|.BALLISTYX............|....2....|.100%.
+  .24.|.HECK.................|....2....|.100%.
+  ----|----------------------|---------|------
+  .25.|.CONGO................|....1....|.100%.
+  .26.|.AZTEC................|....1....|.100%.
+  .27.|.GHOST TOWN...........|....1....|.100%.
+  .28.|.BARON'S LAIR.........|....9....|.100%.
+  .29.|.THE DEATH DOMAIN.....|....2....|..50%.
+  .30.|.ONSLAUGHT............|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: In PlayStation Final Doom, map 28 is referred to as "BARON S LAIR" in
+  the tally screens, and "BARON'S LAIR" in the Automap.
+  On map 9, NESSUS, the player character cannot step into the secret area.
+  On map 29, THE DEATH DOMAIN, one locked secret area cannot be opened.
+
+10. SEGA SATURN DOOM
+====================
+o Saturn Doom includes 59 maps, divided into 2 Episodes:
+
+  Episode name  | Episode | Maps included
+  --------------|---------|-------------------------------------------
+  ULTIMATE DOOM.|....1....|.33 maps (maps 1 through 30, 55 through 57)
+  DOOM II.......|....2....|.26 maps (maps 31 through 54, 58 and 59)...
+
+o Official secrets and maximum scores for Saturn Doom:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.HANGAR..............|....3....|.100%.
+  ..2.|.PLANT...............|....7....|.100%.
+  ..3.|.TOXIN REFINERY......|....6....|.100%.
+  ..4.|.COMMAND CONTROL.....|....4....|.100%.
+  ..5.|.PHOBOS LAB..........|....9....|.100%.
+  ..6.|.CENTRAL PROCESSING..|....3....|.100%.
+  ..7.|.COMPUTER STATION....|....3....|.100%.
+  ..8.|.PHOBOS ANOMALY......|....1....|.100%.
+  ..9.|.DEIMOS ANOMALY......|....4....|.100%.
+  .10.|.CONTAINMENT AREA....|....6....|.100%.
+  .11.|.REFINERY............|....5....|.100%.
+  .12.|.DEIMOS LAB..........|...10....|.100%.
+  .13.|.COMMAND CENTER......|....4....|.100%.
+  .14.|.HALLS OF THE DAMNED.|....1....|.100%.
+  .15.|.SPAWNING VATS.......|....1....|.100%.
+  .16.|.HELL GATE...........|....0....|.100%.
+  .17.|.HELL KEEP...........|....0....|.100%.
+  .18.|.PANDEMONIUM.........|...10....|.100%.
+  .19.|.HOUSE OF PAIN.......|....3....|.100%.
+  .20.|.UNHOLY CATHEDRAL....|....8....|..87%.
+  .21.|.MT. EREBUS..........|....2....|.100%.
+  .22.|.LIMBO...............|....3....|.100%.
+  .23.|.TOWER OF BABEL......|....0....|.100%.
+  .24.|.HELL BENEATH........|....2....|.100%.
+  .25.|.PERFECT HATRED......|....3....|.100%.
+  .26.|.SEVER THE WICKED....|....2....|.100%.
+  .27.|.UNRULY EVIL.........|....2....|.100%.
+  .28.|.UNTO THE CRUEL......|....1....|.100%.
+  .29.|.TWILIGHT DESCENDS...|....3....|.100%.
+  .30.|.THRESHOLD OF PAIN...|....2....|.100%.
+  .55.|.FORTRESS OF MYSTERY.|....1....|.100%.
+  .56.|.THE MILITARY BASE...|....2....|.100%.
+  .57.|.THE MARSHES.........|....0....|.100%.
+  ----|---------------------|---------|------
+  .31.|.ENTRYWAY............|....4....|.100%.
+  .32.|.UNDERHALLS..........|....1....|.100%.
+  .33.|.THE GANTLET.........|....1....|.100%.
+  .34.|.THE FOCUS...........|....3....|.100%.
+  .35.|.THE WASTE TUNNELS...|....3....|.100%.
+  .36.|.THE CRUSHER.........|....3....|.100%.
+  .37.|.DEAD SIMPLE.........|....1....|.100%.
+  .38.|.TRICKS AND TRAPS....|....7....|.100%.
+  .39.|.THE PIT.............|....6....|.100%.
+  .40.|.REFUELING BASE......|...15....|.100%.
+  .41.|.O OF DESTRUCTION!...|....3....|.100%.
+  .42.|.THE FACTORY.........|....4....|.100%.
+  .43.|.THE INMOST DENS.....|....0....|.100%.
+  .44.|.SUBURBS.............|....4....|.100%.
+  .45.|.TENEMENTS...........|....2....|.100%.
+  .46.|.THE COURTYARD.......|....4....|.100%.
+  .47.|.THE CITADEL.........|....9....|.100%.
+  .48.|.NIRVANA.............|....0....|.100%.
+  .49.|.THE CATACOMBS.......|....3....|.100%.
+  .50.|.BARRELS OF FUN......|....2....|.100%.
+  .51.|.BLOODFALLS..........|....2....|.100%.
+  .52.|.THE ABANDONED MINES.|....4....|.100%.
+  .53.|.MONSTER CONDO.......|....7....|.100%.
+  .54.|.REDEMPTION DENIED...|....0....|.100%.
+  .58.|.THE MANSION.........|....5....|.100%.
+  .59.|.CLUB DOOM...........|....0....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 20, UNHOLY CATHEDRAL, one locked secret area cannot be opened.
+
+11. NINTENDO 64 DOOM 64
+=======================
+o Official secrets and maximum scores for N64 Doom 64:
+
+  Map | Map name         | Secrets | Score
+  ----|------------------|---------|------
+  ..1.|.STAGING AREA.....|....4....|.100%.
+  ..2.|.THE TERRAFORMER..|....2....|.100%.
+  ..3.|.MAIN ENGINEERING.|....5....|.100%.
+  ..4.|.HOLDING AREA.....|....2....|.100%.
+  ..5.|.TECH CENTER......|....1....|.100%.
+  ..6.|.ALPHA QUADRANT...|....3....|.100%.
+  ..7.|.RESEARCH LAB.....|....4....|.100%.
+  ..8.|.FINAL OUTPOST....|....2....|.100%.
+  ..9.|.EVEN SIMPLER.....|....0....|.100%.
+  .10.|.THE BLEEDING.....|....7....|.100%.
+  .11.|.TERROR CORE......|....4....|.100%.
+  .12.|.ALTAR OF PAIN....|....2....|.100%.
+  .13.|.DARK CITADEL.....|....2....|.100%.
+  .14.|.EYE OF THE STORM.|....1....|.100%.
+  .15.|.DARK ENTRIES.....|....1....|.100%.
+  .16.|.BLOOD KEEP.......|....1....|.100%.
+  .17.|.WATCH YOUR STEP..|....2....|.100%.
+  .18.|.SPAWNED FEAR.....|....5....|.100%.
+  .19.|.THE SPIRAL.......|....0....|.100%.
+  .20.|.BREAKDOWN........|....3....|.100%.
+  .21.|.PITFALLS.........|....3....|.100%.
+  .22.|.BURNT OFFERINGS..|....6....|.100%.
+  .23.|.UNHOLY TEMPLE....|....3....|.100%.
+  .24.|.NO ESCAPE........|....3....|.100%.
+  .25.|.CAT AND MOUSE....|....1....|.100%.
+  .26.|.HARDCORE.........|....0....|.100%.
+  .27.|.PLAYGROUND.......|....0....|.100%.
+  .28.|.THE ABSOLUTION...|....0....|.100%.
+  .29.|.OUTPOST OMEGA....|....7....|.100%.
+  .30.|.THE LAIR.........|....4....|.100%.
+  .31.|.IN THE VOID......|....0....|.100%.
+  .32.|.HECTIC...........|....0....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 1, STAGING AREA, a 100% score may not be displayed when the
+  player discovers all accessible secrets.
+  In certain cases on some maps the player character must pick up a specific
+  object in order to receive credit for discovering a secret (simply touching
+  the space that the object occupies will not affect the player's score).
+  Note that some maps allow a player to achieve a 100% SECRETS score without
+  discovering every potential secret.  (For example, on map 29, OUTPOST OMEGA,
+  the seventh secret is only added/scored if a certain switch is activated.)
+
+12. ATARI JAGUAR DOOM
+=====================
+o Official secrets and maximum scores for Atari Jaguar Doom:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.HANGAR..............|....3....|.100%.
+  ..2.|.PLANT...............|....6....|.100%.
+  ..3.|.TOXIN REFINERY......|....7....|.100%.
+  ..4.|.COMMAND CONTROL.....|....4....|.100%.
+  ..5.|.PHOBOS LAB..........|....9....|.100%.
+  ..6.|.CENTRAL PROCESSING..|....3....|.100%.
+  ..7.|.COMPUTER STATION....|....3....|.100%.
+  ..8.|.PHOBOS ANOMALY......|....1....|.100%.
+  ..9.|.DEIMOS ANOMALY......|....4....|.100%.
+  .10.|.CONTAINMENT AREA....|....7....|..85%.
+  .11.|.REFINERY............|....5....|.100%.
+  .12.|.DEIMOS LAB..........|...10....|.100%.
+  .13.|.COMMAND CENTER......|....4....|.100%.
+  .14.|.HALLS OF THE DAMNED.|....1....|.100%.
+  .15.|.SPAWNING VATS.......|....1....|.100%.
+  .16.|.TOWER OF BABEL......|....0....|.100%.
+  .17.|.HELL KEEP...........|....0....|.100%.
+  .18.|.PANDEMONIUM.........|...10....|.100%.
+  .19.|.HOUSE OF PAIN.......|....3....|.100%.
+  .20.|.UNHOLY CATHEDRAL....|....8....|.100%.
+  .21.|.MT EREBUS...........|....2....|.100%.
+  .22.|.LIMBO...............|....3....|.100%.
+  .23.|.DIS.................|....1....|.100%.
+  .24.|.MILITARY BASE.......|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 10, CONTAINMENT AREA, a secret area exists in an inaccessible
+  section of the map.
+
+13. 3DO (PANASONIC AND OTHERS) DOOM
+===================================
+o Official secrets and maximum scores for 3DO Doom:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.HANGAR..............|....3....|.100%.
+  ..2.|.PLANT...............|....6....|.100%.
+  ..3.|.TOXIN REFINERY......|....7....|.100%.
+  ..4.|.COMMAND CONTROL.....|....4....|.100%.
+  ..5.|.PHOBOS LAB..........|....9....|.100%.
+  ..6.|.CENTRAL PROCESSING..|....3....|.100%.
+  ..7.|.COMPUTER STATION....|....3....|.100%.
+  ..8.|.PHOBOS ANOMALY......|....1....|.100%.
+  ..9.|.DEIMOS ANOMALY......|....4....|.100%.
+  .10.|.CONTAINMENT AREA....|....7....|..85%.
+  .11.|.REFINERY............|....5....|.100%.
+  .12.|.DEIMOS LAB..........|...10....|.100%.
+  .13.|.COMMAND CENTER......|....4....|.100%.
+  .14.|.HALLS OF THE DAMNED.|....1....|.100%.
+  .15.|.SPAWNING VATS.......|....1....|.100%.
+  .16.|.TOWER OF BABEL......|....0....|.100%.
+  .17.|.HELL KEEP...........|....0....|.100%.
+  .18.|.PANDEMONIUM.........|...10....|.100%.
+  .19.|.HOUSE OF PAIN.......|....3....|.100%.
+  .20.|.UNHOLY CATHEDRAL....|....8....|.100%.
+  .21.|.MT EREBUS...........|....2....|.100%.
+  .22.|.LIMBO...............|....3....|.100%.
+  .23.|.DIS.................|....1....|.100%.
+  .24.|.MILITARY BASE.......|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 10, CONTAINMENT AREA, a secret area exists in an inaccessible
+  section of the map.
+
+14. SUPER NINTENDO DOOM
+=======================
+o SNES Doom includes 22 maps, divided into 3 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|--------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.8 maps (maps E1M1 through E1M8)
+  THE SHORES OF HELL....|....2....|.6 maps (maps E2M1 through E2M6)
+  INFERNO...............|....3....|.8 maps (maps E3M1 through E3M8)
+
+o Official secrets and maximum scores for SNES Doom:
+
+  Map  | Map name            | Secrets | Score
+  -----|---------------------|---------|------
+  E1M1.|.HANGAR..............|....3....|.100%.
+  E1M2.|.NUCLEAR PLANT.......|....6....|.100%.
+  E1M3.|.TOXIN REFINERY......|....7....|.100%.
+  E1M4.|.COMMAND CONTROL.....|....3....|.100%.
+  E1M5.|.PHOBOS LAB..........|....9....|.100%.
+  E1M6.|.COMPUTER STATION....|....4....|.100%.
+  E1M7.|.PHOBOS ANOMALY......|....1....|.N/A..
+  E1M8.|.MILITARY BASE.......|....2....|.100%.
+  -----|---------------------|---------|------
+  E2M1.|.DEIMOS ANOMALY......|....4....|.100%.
+  E2M2.|.REFINERY............|....6....|.100%.
+  E2M3.|.DEIMOS LAB..........|...10....|.100%.
+  E2M4.|.HALLS OF THE DAMNED.|....3....|.100%.
+  E2M5.|.TOWER OF BABEL......|....0....|.N/A..
+  E2M6.|.FORTRESS OF MYSTERY.|....1....|.100%.
+  -----|---------------------|---------|------
+  E3M1.|.HELL KEEP...........|....1....|.100%.
+  E3M2.|.SLOUGH OF DESPAIR...|....3....|.100%.
+  E3M3.|.PANDEMONIUM.........|....6....|.100%.
+  E3M4.|.HOUSE OF PAIN.......|....4....|.100%.
+  E3M5.|.MT. EREBUS..........|....4....|.100%.
+  E3M6.|.LIMBO...............|....4....|.100%.
+  E3M7.|.DIS.................|....0....|.N/A..
+  E3M8.|.WARRENS.............|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".  The "E#M#" designators used here for SNES
+  Doom maps are for reference only, and are not displayed in the game.
+  A tally screen is not displayed when exiting map E1M7, E2M5 or E3M7.
+
+15. SEGA GENESIS 32X DOOM
+=========================
+o Official secrets and maximum scores for Sega 32X Doom:
+
+  Map | Map name (not used) | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.Hangar..............|....3....|.100%.
+  ..2.|.Nuclear Plant.......|....6....|.100%.
+  ..3.|.Toxin Refinery......|....7....|.100%.
+  ..4.|.Command Control.....|....4....|.100%.
+  ..5.|.Phobos Lab..........|....9....|.100%.
+  ..6.|.Central Processing..|....3....|.100%.
+  ..7.|.Computer Station....|....3....|.100%.
+  ..8.|.Phobos Anomaly......|....1....|.100%.
+  ..9.|.Deimos Anomaly......|....4....|.100%.
+  .10.|.Containment Area....|....7....|..85%.
+  .11.|.Refinery............|....5....|.100%.
+  .12.|.Deimos Lab..........|...10....|.100%.
+  .13.|.Command Center......|....4....|.100%.
+  .14.|.Halls of the Damned.|....1....|.100%.
+  .15.|.Spawning Vats.......|....1....|.100%.
+  .16.|.Fortress of Mystery.|....1....|.100%.
+  .17.|.Military Base.......|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: The map names used here for Sega 32X Doom maps are for reference only,
+  and are not displayed in the game.
+  On map 10, CONTAINMENT AREA, a secret area exists in an inaccessible section
+  of the map.
+  Note that maps 16 and 17 can only be accessed if the game was started on map
+  1, and if cheat codes were not used during the game.
+
+16. NINTENDO GAME BOY ADVANCE DOOM
+==================================
+o GBA Doom includes 32 maps: 24 maps divided into three story-related Episodes,
+  and 8 bonus maps accessible only in Deathmatch games.  Breakdown of GBA Doom
+  map groups:
+
+  Episode or map group  | Episode | Maps included
+  ----------------------|---------|------------------------------
+  KNEE DEEP IN THE DEAD.|.1.......|.9 maps (maps 1 through 8, 24)
+  THE SHORES OF HELL....|.2.......|.8 maps (maps 9 through 16)...
+  INFERNO...............|.3.......|.7 maps (maps 17 through 23)..
+  ----------------------|---------|------------------------------
+  Deathmatch bonus maps.|.N/A.....|.8 maps (maps 25 through 32)..
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".
+
+o Official secrets and maximum scores for GBA Doom:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.HANGAR..............|....3....|.100%.
+  ..2.|.NUCLEAR PLANT.......|....6....|.100%.
+  ..3.|.TOXIN REFINERY......|....7....|.100%.
+  ..4.|.COMMAND CONTROL.....|....4....|.100%.
+  ..5.|.PHOBOS LAB..........|....9....|.100%.
+  ..6.|.CENTRAL PROCESSING..|....3....|.100%.
+  ..7.|.COMPUTER STATION....|....3....|.100%.
+  ..8.|.PHOBOS ANOMALY......|....1....|.100%.
+  .24.|.MILITARY BASE.......|....2....|.100%.
+  ----|---------------------|---------|------
+  ..9.|.DEIMOS ANOMALY......|....4....|.100%.
+  .10.|.CONTAINMENT AREA....|....7....|..85%.
+  .11.|.REFINERY............|....5....|.100%.
+  .12.|.DEIMOS LAB..........|...10....|.100%.
+  .13.|.COMMAND CENTER......|....4....|.100%.
+  .14.|.HALLS OF THE DAMNED.|....1....|.100%.
+  .15.|.SPAWNING VATS.......|....1....|.100%.
+  .16.|.TOWER OF BABEL......|....0....|.100%.
+  ----|---------------------|---------|------
+  .17.|.HELL'S KEEP.........|....0....|.100%.
+  .18.|.PANDEMONIUM.........|...10....|.100%.
+  .19.|.HOUSE OF PAIN.......|....3....|.100%.
+  .20.|.UNHOLY CATHEDRAL....|....8....|.100%.
+  .21.|.MOUNT EREBUS........|....2....|.100%.
+  .22.|.LIMBO...............|....3....|.100%.
+  .23.|.DIS.................|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: This table is sorted first by Episode order, then by map level order.
+  On map 10, CONTAINMENT AREA, a secret area exists in an inaccessible section
+  of the map.
+  The 8 Deathmatch-only maps do not have "official" scored/tallied secrets, and
+  so are not included here.
+
+17. NINTENDO GAME BOY ADVANCE DOOM II
+=====================================
+o Official secrets and maximum scores for GBA Doom II:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ENTRYWAY............|....5....|.100%.
+  ..2.|.UNDERHALLS..........|....1....|.100%.
+  ..3.|.THE GANTLET.........|....1....|.100%.
+  ..4.|.THE FOCUS...........|....3....|.100%.
+  ..5.|.THE WASTE TUNNELS...|....3....|.100%.
+  ..6.|.THE CRUSHER.........|....3....|.100%.
+  ..7.|.DEAD SIMPLE.........|....1....|.100%.
+  ..8.|.TRICKS AND TRAPS....|....7....|.100%.
+  ..9.|.THE PIT.............|....6....|.100%.
+  .10.|.REFUELING BASE......|...17....|.100%.
+  .11.|.'O' OF DESTRUCTION..|....3....|.100%.
+  .12.|.THE FACTORY.........|....4....|.100%.
+  .13.|.DOWNTOWN............|....8....|.100%.
+  .14.|.THE INMOST DENS.....|....0....|...0%.
+  .15.|.INDUSTRIAL ZONE: A..|....3....|..27%.
+  .16.|.INDUSTRIAL ZONE: B..|....9....|..75%.
+  .17.|.SUBURBS.............|....4....|.100%.
+  .18.|.TENEMENTS...........|....3....|.100%.
+  .19.|.THE COURTYARD.......|....4....|.100%.
+  .20.|.THE CITADEL.........|....9....|..77%.
+  .21.|.GOTCHA!.............|....7....|.100%.
+  .22.|.NIRVANA.............|....0....|...0%.
+  .23.|.THE CATACOMBS.......|....3....|.100%.
+  .24.|.BARRELS O' FUN......|....2....|.100%.
+  .25.|.THE CHASM: A........|....3....|.100%.
+  .26.|.THE CHASM: B........|....1....|..25%.
+  .27.|.BLOODFALLS..........|....0....|...0%.
+  .28.|.THE ABANDONED MINES.|....4....|.100%.
+  .29.|.MONSTER CONDO.......|....8....|..87%.
+  .30.|.THE SPIRIT WORLD....|....7....|.100%.
+  .31.|.THE LIVING END......|....0....|...0%.
+  .32.|.ICON OF SIN.........|....0....|...0%.
+  .33.|.WOLFENSTEIN.........|....0....|...0%.
+  .34.|.GROSSE..............|....0....|...0%.
+  -----------------------------------------------------------------------------
+  Notes: The map numbers used here for GBA Doom II maps are for reference only,
+  and are not displayed in the game.
+  On map 20, THE CITADEL, a building containing 2 official secrets is missing;
+  however, the game still expects those secrets to be discovered in order for
+  the player to attain a score of 100%.
+  On map 29, MONSTER CONDO, a teleporter pad is flagged as secret, and the
+  player character's axis cannot normally contact the surface of the pad before
+  teleportation occurs.
+
+18. TAPWAVE ZODIAC DOOM II
+==========================
+o Official secrets and maximum scores for Zodiac Doom II:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ENTRYWAY............|....5....|.100%.
+  ..2.|.UNDERHALLS..........|....1....|.100%.
+  ..3.|.THE GANTLET.........|....1....|.100%.
+  ..4.|.THE FOCUS...........|....3....|.100%.
+  ..5.|.THE WASTE TUNNELS...|....3....|.100%.
+  ..6.|.THE CRUSHER.........|....3....|.100%.
+  ..7.|.DEAD SIMPLE.........|....1....|.100%.
+  ..8.|.TRICKS AND TRAPS....|....7....|.100%.
+  ..9.|.THE PIT.............|....6....|.100%.
+  .10.|.REFUELING BASE......|...18....|.100%.
+  .11.|.CIRCLE OF DEATH.....|....3....|.100%.
+  .12.|.THE FACTORY.........|....4....|.100%.
+  .13.|.DOWNTOWN............|....8....|.100%.
+  .14.|.THE INMOST DENS.....|....0....|...0%.
+  .15.|.INDUSTRIAL ZONE.....|...11....|..90%.
+  .16.|.SUBURBS.............|....4....|.100%.
+  .17.|.TENEMENTS...........|....3....|.100%.
+  .18.|.THE COURTYARD.......|....4....|.100%.
+  .19.|.THE CITADEL.........|....9....|.100%.
+  .20.|.GOTCHA!.............|....7....|.100%.
+  .21.|.NIRVANA.............|....0....|...0%.
+  .22.|.THE CATACOMBS.......|....3....|.100%.
+  .23.|.BARRELS O' FUN......|....2....|.100%.
+  .24.|.THE CHASM...........|....4....|.100%.
+  .25.|.BLOODFALLS..........|....2....|.100%.
+  .26.|.THE ABANDONED MINES.|....4....|.100%.
+  .27.|.MONSTER CONDO.......|....8....|..87%.
+  .28.|.THE SPIRIT WORLD....|....7....|.100%.
+  .29.|.THE LIVING END......|....0....|...0%.
+  .30.|.ICON OF SIN.........|....0....|...0%.
+  .31.|.WOLFENSTEIN.........|....4....|.100%.
+  .32.|.GROSSE..............|....6....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 15, INDUSTRIAL ZONE, a narrow secret area is located just
+  before the raised edge of a teleporter.  On approach, the player character is
+  usually lifted by the edge of the teleporter pad before the character's axis
+  contacts the secret area.
+  On map 27, MONSTER CONDO, a teleporter pad is flagged as secret, and the
+  player character's axis cannot normally contact the surface of the pad before
+  teleportation occurs.
+
+19. MICROSOFT XBOX ULTIMATE DOOM
+================================
+o Xbox Ultimate Doom: Thy Flesh Consumed is included with the Xbox games "Doom
+  3: Limited Collector's Edition", and "Doom 3: Resurrection of Evil".
+
+o Xbox Ultimate Doom includes 37 maps, divided into 4 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|----------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.10 maps (maps E1M1 through E1M10)
+  THE SHORES OF HELL....|....2....|..9 maps (maps E2M1 through E2M9).
+  INFERNO...............|....3....|..9 maps (maps E3M1 through E3M9).
+  THY FLESH CONSUMED....|....4....|..9 maps (maps E4M1 through E4M9).
+
+o Official secrets and maximum scores for Xbox Ultimate Doom:
+
+  Map   | Map name              | Secrets | Score
+  ------|-----------------------|---------|------
+  E1M1..|.HANGAR................|....3....|.100%.
+  E1M2..|.NUCLEAR PLANT.........|....6....|.100%.
+  E1M3..|.TOXIN REFINERY........|....7....|.100%.
+  E1M4..|.COMMAND CONTROL.......|....3....|.100%.
+  E1M5..|.PHOBOS LAB............|....9....|.100%.
+  E1M6..|.CENTRAL PROCESSING....|....4....|.100%.
+  E1M7..|.COMPUTER STATION......|....4....|.100%.
+  E1M8..|.PHOBOS ANOMALY........|....1....|.N/A..
+  E1M9..|.MILITARY BASE.........|....2....|.100%.
+  E1M10.|.SEWERS................|....1....|.100%.
+  ------|-----------------------|---------|------
+  E2M1..|.DEIMOS ANOMALY........|....4....|.100%.
+  E2M2..|.CONTAINMENT AREA......|...12....|.100%.
+  E2M3..|.REFINERY..............|....6....|.100%.
+  E2M4..|.DEIMOS LAB............|...10....|.100%.
+  E2M5..|.COMMAND CENTER........|...10....|.100%.
+  E2M6..|.HALLS OF THE DAMNED...|....3....|.100%.
+  E2M7..|.SPAWNING VATS.........|....6....|.100%.
+  E2M8..|.TOWER OF BABEL........|....0....|.N/A..
+  E2M9..|.FORTRESS OF MYSTERY...|....1....|.100%.
+  ------|-----------------------|---------|------
+  E3M1..|.HELL KEEP.............|....1....|.100%.
+  E3M2..|.SLOUGH OF DESPAIR.....|....3....|.100%.
+  E3M3..|.PANDEMONIUM...........|....6....|.100%.
+  E3M4..|.HOUSE OF PAIN.........|....4....|.100%.
+  E3M5..|.UNHOLY CATHEDRAL......|...10....|.100%.
+  E3M6..|.MT. EREBUS............|....4....|.100%.
+  E3M7..|.GATE TO LIMBO/LIMBO...|....4....|.100%.
+  E3M8..|.DIS...................|....0....|.N/A..
+  E3M9..|.WARRENS...............|....1....|.100%.
+  ------|-----------------------|---------|------
+  E4M1..|.HELL BENEATH..........|....2....|..50%.
+  E4M2..|.PERFECT HATRED........|....3....|.100%.
+  E4M3..|.SEVER THE WICKED......|...22....|..90%.
+  E4M4..|.UNRULY EVIL...........|....2....|.100%.
+  E4M5..|.THEY WILL REPENT......|....2....|.100%.
+  E4M6..|.AGAINST THEE WICKEDLY.|....3....|.100%.
+  E4M7..|.AND HELL FOLLOWED.....|....4....|..50%.
+  E4M8..|.UNTO THE CRUEL........|....1....|.N/A..</pre><pre id="faqspan-2">
+  E4M9..|.FEAR..................|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".  The Xbox Ultimate Doom map in Episode 3
+  Mission 7 is referred to as "GATE TO LIMBO" in the tally screens, and "LIMBO"
+  in the Automap.
+  On map E4M1, HELL BENEATH, one secret sector is surrounded by a barrier that
+  cannot be lowered.
+  On map E4M3, SEVER THE WICKED, the player character cannot step into a pair
+  of tiny secret areas which are occupied by torches.
+  On map E4M7, AND HELL FOLLOWED, the player character is unable to step into
+  each of 2 secret areas.
+  A tally screen is not displayed when exiting map E1M8, E2M8, E3M8 or E4M8.
+
+20. MICROSOFT XBOX DOOM II
+==========================
+o Xbox Doom II: Hell on Earth is included with the Xbox games "Doom 3: Limited
+  Collector's Edition", and "Doom 3: Resurrection of Evil".
+
+o Official secrets and maximum scores for Xbox Doom II:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ENTRYWAY............|....5....|.100%.
+  ..2.|.UNDERHALLS..........|....1....|.100%.
+  ..3.|.THE GANTLET.........|....1....|.100%.
+  ..4.|.THE FOCUS...........|....3....|.100%.
+  ..5.|.THE WASTE TUNNELS...|....3....|.100%.
+  ..6.|.THE CRUSHER.........|....3....|.100%.
+  ..7.|.DEAD SIMPLE.........|....1....|.100%.
+  ..8.|.TRICKS AND TRAPS....|....7....|.100%.
+  ..9.|.THE PIT.............|....6....|.100%.
+  .10.|.REFUELING BASE......|...18....|.100%.
+  .11.|.CIRCLE OF DEATH.....|....3....|.100%.
+  .12.|.THE FACTORY.........|....4....|.100%.
+  .13.|.DOWNTOWN............|....8....|.100%.
+  .14.|.THE INMOST DENS.....|....0....|...0%.
+  .15.|.INDUSTRIAL ZONE.....|...11....|..90%.
+  .16.|.SUBURBS.............|....4....|.100%.
+  .17.|.TENEMENTS...........|....3....|.100%.
+  .18.|.THE COURTYARD.......|....4....|.100%.
+  .19.|.THE CITADEL.........|....9....|.100%.
+  .20.|.GOTCHA!.............|....7....|.100%.
+  .21.|.NIRVANA.............|....0....|...0%.
+  .22.|.THE CATACOMBS.......|....3....|.100%.
+  .23.|.BARRELS O' FUN......|....2....|.100%.
+  .24.|.THE CHASM...........|....4....|.100%.
+  .25.|.BLOODFALLS..........|....2....|.100%.
+  .26.|.THE ABANDONED MINES.|....4....|.100%.
+  .27.|.MONSTER CONDO.......|....8....|..87%.
+  .28.|.THE SPIRIT WORLD....|....7....|.100%.
+  .29.|.THE LIVING END......|....0....|...0%.
+  .30.|.ICON OF SIN.........|....0....|...0%.
+  .31.|.WOLFENSTEIN.........|....4....|.100%.
+  .32.|.GROSSE..............|....6....|.100%.
+  .33.|.BETRAY..............|....3....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: On map 15, INDUSTRIAL ZONE, a narrow secret area is located just
+  before the raised edge of a teleporter.  On approach, the player character is
+  usually lifted by the edge of the teleporter pad before the character's axis
+  contacts the secret area.
+  On map 27, MONSTER CONDO, a teleporter pad is flagged as secret, and the
+  player character's axis cannot normally contact the surface of the pad before
+  teleportation occurs.
+
+21. MICROSOFT XBOX MASTER LEVELS
+================================
+o Xbox Master Levels ("Doom II Master Levels") is a Doom II based game included
+  with the Xbox game "Doom 3: Resurrection of Evil".
+
+o Official secrets and maximum scores for Xbox Master Levels:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ATTACK..............|....1....|.100%.
+  ..2.|.BLACK TOWER.........|....4....|.100%.
+  ..3.|.BLOODSEA KEEP.......|....4....|.100%.
+  ..4.|.CANYON..............|....4....|.100%.
+  ..5.|.THE CATWALK.........|....2....|.100%.
+  ..6.|.THE COMBINE.........|....1....|.100%.
+  ..7.|.THE FISTULA.........|....1....|.100%.
+  ..8.|.THE GARRISON........|....5....|.100%.
+  ..9.|.GERYON..............|....2....|.100%.
+  .10.|.TITAN MANOR.........|....7....|.100%.
+  .11.|.NESSUS..............|....1....|...0%.
+  .12.|.SUBSPACE............|....2....|.100%.
+  .13.|.SUBTERRA............|....1....|.100%.
+  .14.|.EXPRESS ELEVATOR I..|....4....|.100%.
+  .15.|.EXPRESS ELEVATOR II.|....1....|.100%.
+  .16.|.TRAPPED ON TITAN....|....2....|.100%.
+  .17.|.VESPERAS............|....2....|.100%.
+  .18.|.VIRGIL'S LEAD.......|....1....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: The map names used in this table are the actual names for the Master
+  Levels maps.  The names displayed on the tally screens are incorrect, as are
+  almost all names and numbers displayed on the Automap screen.
+  Note that on map 3, BLOODSEA KEEP, one secret area opens upon the death of a
+  Mancubus, but that monster is not present at skill levels 1 or 2.
+  On map 6, THE COMBINE, the only "official" secret is accessed upon starting
+  the game; the player character starts within the map's only secret sector.
+  On map 11, NESSUS, the player character cannot step into the one secret area
+  on this map.
+
+22. MICROSOFT XBOX 360 DOOM
+===========================
+o Note that although this Xbox 360 game is titled "Doom", the actual product is
+  the 4-Episode update/reissue of Doom, called "The Ultimate Doom".
+
+o Xbox 360 Doom includes 36 maps, divided into 4 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|--------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.9 maps (maps E1M1 through E1M9)
+  THE SHORES OF HELL....|....2....|.9 maps (maps E2M1 through E2M9)
+  INFERNO...............|....3....|.9 maps (maps E3M1 through E3M9)
+  THY FLESH CONSUMED....|....4....|.9 maps (maps E4M1 through E4M9)
+
+o Official secrets and maximum scores for Xbox 360 Doom:
+
+  Map  | Map name              | Secrets | Score
+  -----|-----------------------|---------|------
+  E1M1.|.HANGAR................|....3....|.100%.
+  E1M2.|.NUCLEAR PLANT.........|....6....|.100%.
+  E1M3.|.TOXIN REFINERY........|....7....|.100%.
+  E1M4.|.COMMAND CONTROL.......|....3....|.100%.
+  E1M5.|.PHOBOS LAB............|....9....|.100%.
+  E1M6.|.CENTRAL PROCESSING....|....4....|.100%.
+  E1M7.|.COMPUTER STATION......|....4....|.100%.
+  E1M8.|.PHOBOS ANOMALY........|....1....|.N/A..
+  E1M9.|.MILITARY BASE.........|....2....|.100%.
+  -----|-----------------------|---------|------
+  E2M1.|.DEIMOS ANOMALY........|....4....|.100%.
+  E2M2.|.CONTAINMENT AREA......|...12....|.100%.
+  E2M3.|.REFINERY..............|....6....|.100%.
+  E2M4.|.DEIMOS LAB............|...10....|.100%.
+  E2M5.|.COMMAND CENTER........|...10....|.100%.
+  E2M6.|.HALLS OF THE DAMNED...|....3....|.100%.
+  E2M7.|.SPAWNING VATS.........|....6....|.100%.
+  E2M8.|.TOWER OF BABEL........|....0....|.N/A..
+  E2M9.|.FORTRESS OF MYSTERY...|....1....|.100%.
+  -----|-----------------------|---------|------
+  E3M1.|.HELL KEEP.............|....1....|.100%.
+  E3M2.|.SLOUGH OF DESPAIR.....|....3....|.100%.
+  E3M3.|.PANDEMONIUM...........|....6....|.100%.
+  E3M4.|.HOUSE OF PAIN.........|....4....|.100%.
+  E3M5.|.UNHOLY CATHEDRAL......|...10....|.100%.
+  E3M6.|.MT. EREBUS............|....4....|.100%.
+  E3M7.|.GATE TO LIMBO/LIMBO...|....4....|.100%.
+  E3M8.|.DIS...................|....0....|.N/A..
+  E3M9.|.WARRENS...............|....1....|.100%.
+  -----|-----------------------|---------|------
+  E4M1.|.HELL BENEATH..........|....2....|.100%.
+  E4M2.|.PERFECT HATRED........|....3....|.100%.
+  E4M3.|.SEVER THE WICKED......|...22....|..90%.
+  E4M4.|.UNRULY EVIL...........|....2....|.100%.
+  E4M5.|.THEY WILL REPENT......|....2....|.100%.
+  E4M6.|.AGAINST THEE WICKEDLY.|....3....|.100%.
+  E4M7.|.AND HELL FOLLOWED.....|....4....|..50%.
+  E4M8.|.UNTO THE CRUEL........|....1....|.N/A..
+  E4M9.|.FEAR..................|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: "N/A" is "Not Applicable".  The Xbox 360 Doom map in Episode 3 Mission
+  7 is referred to as "GATE TO LIMBO" in the tally screens, and "LIMBO" in the
+  Automap.
+  On map E4M3, SEVER THE WICKED, the player character cannot step into a pair
+  of tiny secret areas which are occupied by torches.
+  On map E4M7, AND HELL FOLLOWED, the player character is unable to step into
+  each of 2 secret areas.
+  A tally screen is not displayed when exiting map E1M8, E2M8, E3M8 or E4M8.
+
+23. MICROSOFT XBOX 360 DOOM II
+==============================
+o Xbox 360 Doom II includes 41 maps, divided into 2 games/Episodes:
+
+  Episode name           | Episode | Maps included
+  -----------------------|---------|----------------------------
+  HELL ON EARTH..........|....1....|.32 maps (maps 1 through 32)
+  NO REST FOR THE LIVING.|....2....|..9 maps (maps 1 through 9).
+
+o Official secrets and maximum scores for Xbox 360 Doom II "HELL ON EARTH"
+  game/Episode:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.ENTRYWAY............|....5....|.100%.
+  ..2.|.UNDERHALLS..........|....1....|.100%.
+  ..3.|.THE GANTLET.........|....1....|.100%.
+  ..4.|.THE FOCUS...........|....3....|.100%.
+  ..5.|.THE WASTE TUNNELS...|....3....|.100%.
+  ..6.|.THE CRUSHER.........|....3....|.100%.
+  ..7.|.DEAD SIMPLE.........|....1....|.100%.
+  ..8.|.TRICKS AND TRAPS....|....7....|.100%.
+  ..9.|.THE PIT.............|....6....|.100%.
+  .10.|.REFUELING BASE......|...18....|.100%.
+  .11.|.CIRCLE OF DEATH.....|....3....|.100%.
+  .12.|.THE FACTORY.........|....4....|.100%.
+  .13.|.DOWNTOWN............|....8....|.100%.
+  .14.|.THE INMOST DENS.....|....0....|...0%.
+  .15.|.INDUSTRIAL ZONE.....|...11....|..90%.
+  .16.|.SUBURBS.............|....4....|.100%.
+  .17.|.TENEMENTS...........|....3....|.100%.
+  .18.|.THE COURTYARD.......|....4....|.100%.
+  .19.|.THE CITADEL.........|....9....|.100%.
+  .20.|.GOTCHA!.............|....7....|.100%.
+  .21.|.NIRVANA.............|....0....|...0%.
+  .22.|.THE CATACOMBS.......|....3....|.100%.
+  .23.|.BARRELS O' FUN......|....2....|.100%.
+  .24.|.THE CHASM...........|....4....|.100%.
+  .25.|.BLOODFALLS..........|....2....|.100%.
+  .26.|.THE ABANDONED MINES.|....4....|.100%.
+  .27.|.MONSTER CONDO.......|....8....|..87%.
+  .28.|.THE SPIRIT WORLD....|....7....|.100%.
+  .29.|.THE LIVING END......|....0....|...0%.
+  .30.|.ICON OF SIN.........|....0....|...0%.
+  .31.|.WOLFENSTEIN.........|....4....|.100%.
+  .32.|.GROSSE..............|....6....|.100%.
+  -----------------------------------------------------------------------------
+  On map 15, INDUSTRIAL ZONE, a narrow secret area is located just before the
+  raised edge of a teleporter.  On approach, the player character is usually
+  lifted by the edge of the teleporter pad before the character's axis contacts
+  the secret area.
+  On map 27, MONSTER CONDO, a teleporter pad is flagged as secret, and the
+  player character's axis cannot normally contact the surface of the pad before
+  teleportation occurs.
+
+o Official secrets and maximum scores for Xbox 360 Doom II "NO REST FOR THE
+  LIVING" game/Episode:
+
+  Map | Map name            | Secrets | Score
+  ----|---------------------|---------|------
+  ..1.|.THE EARTH BASE......|....7....|.100%.
+  ..2.|.THE PAIN LABS.......|...12....|.100%.
+  ..3.|.CANYON OF THE DEAD..|....5....|.100%.
+  ..4.|.HELL MOUNTAIN.......|....8....|.100%.
+  ..5.|.VIVISECTION.........|....8....|.100%.
+  ..6.|.INFERNO OF BLOOD....|...11....|.100%.
+  ..7.|.BARON'S BANQUET.....|...11....|.100%.
+  ..8.|.TOMB OF MALEVOLENCE.|....3....|.100%.
+  ..9.|.MARCH OF THE DEMONS.|....5....|.100%.
+
+24. APPLE IPHONE/IPOD TOUCH DOOM
+================================
+o Apple iPhone/iTouch Doom includes 36 maps, divided into 4 Episodes:
+
+  Episode name          | Episode | Maps included
+  ----------------------|---------|--------------------------------
+  KNEE-DEEP IN THE DEAD.|....1....|.9 maps (maps E1M1 through E1M9)
+  THE SHORES OF HELL....|....2....|.9 maps (maps E2M1 through E2M9)
+  INFERNO...............|....3....|.9 maps (maps E3M1 through E3M9)
+  THY FLESH CONSUMED....|....4....|.9 maps (maps E4M1 through E4M9)
+
+o Official secrets and maximum scores for Apple iPhone/iTouch Doom:
+
+  Map  | Map name              | Secrets | Score
+  -----|-----------------------|---------|------
+  E1M1.|.HANGAR................|....3....|.100%.
+  E1M2.|.NUCLEAR PLANT.........|....6....|.100%.
+  E1M3.|.TOXIN REFINERY........|....7....|.100%.
+  E1M4.|.COMMAND CONTROL.......|....3....|.100%.
+  E1M5.|.PHOBOS LAB............|....9....|.100%.
+  E1M6.|.CENTRAL PROCESSING....|....4....|.100%.
+  E1M7.|.COMPUTER STATION......|....4....|.100%.
+  E1M8.|.PHOBOS ANOMALY........|....1....|.100%.
+  E1M9.|.MILITARY BASE.........|....2....|.100%.
+  -----|-----------------------|---------|------
+  E2M1.|.DEIMOS ANOMALY........|....4....|.100%.
+  E2M2.|.CONTAINMENT AREA......|...12....|.100%.
+  E2M3.|.REFINERY..............|....6....|.100%.
+  E2M4.|.DEIMOS LAB............|...10....|.100%.
+  E2M5.|.COMMAND CENTER........|...10....|.100%.
+  E2M6.|.HALLS OF THE DAMNED...|....3....|.100%.
+  E2M7.|.SPAWNING VATS.........|....6....|.100%.
+  E2M8.|.TOWER OF BABEL........|....0....|.100%.
+  E2M9.|.FORTRESS OF MYSTERY...|....1....|.100%.
+  -----|-----------------------|---------|------
+  E3M1.|.HELL KEEP.............|....1....|.100%.
+  E3M2.|.SLOUGH OF DESPAIR.....|....3....|.100%.
+  E3M3.|.PANDEMONIUM...........|....6....|.100%.
+  E3M4.|.HOUSE OF PAIN.........|....4....|.100%.
+  E3M5.|.UNHOLY CATHEDRAL......|...10....|.100%.
+  E3M6.|.MT. EREBUS............|....4....|.100%.
+  E3M7.|.GATE TO LIMBO/LIMBO...|....4....|.100%.
+  E3M8.|.DIS...................|....0....|.100%.
+  E3M9.|.WARRENS...............|....1....|.100%.
+  -----|-----------------------|---------|------
+  E4M1.|.HELL BENEATH..........|....2....|.100%.
+  E4M2.|.PERFECT HATRED........|....3....|.100%.
+  E4M3.|.SEVER THE WICKED......|...22....|..90%.
+  E4M4.|.UNRULY EVIL...........|....2....|.100%.
+  E4M5.|.THEY WILL REPENT......|....2....|.100%.
+  E4M6.|.AGAINST THEE WICKEDLY.|....3....|.100%.
+  E4M7.|.AND HELL FOLLOWED.....|....4....|..50%.
+  E4M8.|.UNTO THE CRUEL........|....1....|.100%.
+  E4M9.|.FEAR..................|....2....|.100%.
+  -----------------------------------------------------------------------------
+  Notes: The iPhone/iTouch Doom map in Episode 3 Mission 7 is referred to as
+  "GATE TO LIMBO" in the tally screens, and "LIMBO" in the Automap.
+  On map E4M3, SEVER THE WICKED, the player character cannot step into a pair
+  of tiny secret areas which are occupied by torches.
+  On map E4M7, AND HELL FOLLOWED, the player character is unable to step into
+  each of 2 secret areas.
+
+25. GLOSSARY
+============
+o Quick-reference glossary for terms used in this document:
+
+  DEATHMATCH: Player-versus-player gameplay.  PC versions can include monsters.
+  DOOM (also DOOM 1/DOOM I): First Doom game; PC Doom has three 9-map Episodes.
+  DOOM GAME/GAMES (used generally): Any/all "Doom" games (Doom, Doom II, etc.).
+  DOOM II (DOOM 2: HELL ON EARTH): PC Doom 1 sequel with new monsters, 32 maps.
+  DOOM II GAMES: Generally, Doom II and Doom II-based products like Final Doom.
+  E#M#: Episode and Mission (Map) designator for map levels in some Doom games.
+  EPISODE: A group of map levels.  Most games end after an Episode's last map.
+  FINAL DOOM: PC: Two 32-map Doom II games; PSX: One 30-map (3 Episode) game.
+  GBA: Acronym used for Nintendo's portable "Game Boy Advance" gaming devices.
+  IPHONE: Smartphone by Apple, with form and functions similar to iPod touch.
+  IPHONE/IPOD/ITOUCH DOOM: Alternate terms for Doom for iPhone and iPod touch.
+  IPOD TOUCH (also ITOUCH): Handheld multimedia touch-screen device by Apple.
+  MAC: Common abbreviation indicating Apple Macintosh computers or Doom games.
+  MAP LEVEL/MAP: "Map level" is used to distinguish "level" from "skill level".
+  MASTER LEVELS: PC: 21 Master Levels CD maps; Some used in PSX and Xbox games.
+  MASTER LEVELS CD: PC CD has map/file sets "Master Levels" and "Maximum Doom".
+  MAXIMUM DOOM: Collection of 3,493 PC maps/files on the Master Levels CD-ROM.
+  OFFICIAL SECRET: An area/item on a map that affects the secrets-found score.
+  PC: Usually refers to PC Doom games and the equivalent Macintosh Doom games.
+  PLUTONIA: PC: 32-map game in Final Doom; PSX: A 6-map Episode of Final Doom.
+  PS: Prefix/acronym used generically for Sony PlayStation consoles or devices.
+  PSX: An acronym commonly used for the original 1995 Sony PlayStation console.
+  SNES (also SUPER NES): Acronym for the "Super Nintendo Entertainment System".
+  TALLY SCREEN: Shows kills, items and secrets attained in the last map level.
+  TNT/EVILUTION: PC: 32-map game in Final Doom; PSX: 11-map Final Doom Episode.
+  (THE) ULTIMATE DOOM: Update/reissue of original Doom 1; includes extra maps.
+  WAD: One or more map levels combined in a file for computer-based Doom games.
+  XBOX 360 DOOM: Ultimate Doom for Xbox 360, downloadable via Xbox Live Arcade.
+  XBOX 360 DOOM II: Xbox 360 Doom II package downloadable via Xbox Live Arcade.
+  XBOX LIVE/XBOX LIVE ARCADE: Refers to online services for Xbox and Xbox 360.
+  ZODIAC: Versatile, game-oriented Personal Digital Assistant, by Tapwave, Inc.
+
+-------------------------------------------------------------------------------
+Copyright (C) 1996-2010                                     www.ClassicDOOM.com
+-------------------------------------------------------------------------------
+

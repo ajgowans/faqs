@@ -1,0 +1,784 @@
+*******************************************************************************
+*******************************************************************************
+************************ Slam City with Scottie Pippen ************************
+*******************************************************************************
+*******************************************************************************
+Produced by Baker McCutcheon (bakermccutcheon@gmail.com), (c) August, 2015
+
+Table of Contents
+
+1) Why Am I Doing This?
+2) Game Information
+3) Welcome to Slam City
+4) Objective
+5) Controls
+6) Options
+7) Walkthrough
+8) A Few More Tips
+9) Special Thanks
+
+
+###############################################################################
+                   **** Section 1 - Why Am I Doing This? ****
+###############################################################################
+
+A few weeks before writing this FAQ I set out to stream myself beating every
+single 32X/32XCD game. The first two games that I tried were Spiderman: Web of
+Fire and Mortal Kombat 2. I had no problem beating either of those. Then, for
+fun, I thought I would take a stab at Slam City with Scottie Pippen. I
+instantly became aware that this game was nearly impossible to beat if you
+tried to beat it the way the developers intended you to. You are supposed to
+look for "breaks" in your opponent's defense but I quickly realized that a
+"break" is a matter of opinion. Where I thought the "breaks" were and where the
+developers thought the "breaks" were did not coincide with each other. I became
+very frustrated to say the least and I thought my quest to beat all 32X/32XCD
+games might become an unrealized pipe dream.
+
+Then something occurred to me when I was playing against Mad Dog (one of your
+four opponents). When I was on offense and he tossed me the ball, he would
+always say or do something a little bit different. I also noticed that the game
+did not switch scenes between the time he passed me the ball and when I was
+driving towards the basket. So that means for each comment/action you should be
+able to predict what will happen in that scene. So I went into training mode
+and wrote down what Mad Dog did/said when he was passing me the ball and when
+(using the shot clock) and how I was supposed to break past him.
+
+The developers must have thought about this somewhat because there are A LOT of
+different comments/actions, many of which are almost indistinguishable from
+each other. For instance, Mad Dog might say "Let's see what you got" before
+passing me the ball in one scene and in another scene he might say the same
+thing but with a slightly different inflection. Even worse, some opponents
+don't even say or do anything before they throw the ball in. Those issues
+aside, there was enough difference between most of the opening comments/actions
+for me to win with regularity.
+
+Anyway, it was that discovery that led me down the path to beating this game
+and showing Pippen what's what.
+
+
+###############################################################################
+                    **** Section 2 - Game Information ****
+###############################################################################
+
+Slam City with Scottie Pippen is a 1-player, one-on-one Full Motion Video (FMV)
+basketball video game developed by Digital Pictures for the PC, Sega CD and
+Sega 32XCD. It was released in 1994. Scottie Pippen stars in the game, and
+performed the theme song. Ron Stein, who had previously directed the video
+footage for Prize Fighter (another FMV game), directed the video footage for
+the game.
+
+In the game, players face various opponents in one-on-one games of basketball,
+including Pippen himself.
+
+The game allowed video playback of low resolution MPEG video without
+specialized hardware utilizing video compression technology that Digital
+Pictures dubbed "Digichrome." Lag free on-screen selection was accomplished
+through a disc layout and buffering technology the company called
+"Instaswitch".
+
+
+###############################################################################
+                  **** Section 3 - Welcome to Slam City ****
+###############################################################################
+
+(The text below is taken directly from game manual)
+
+Look, this ain't some kind of summer camp.
+This is the street.
+We don't play ball here just to pass time.
+It's a way of life.
+We take our hoops seriously.
+Around here, we play to win.
+All right, Ace. You're the new guy.
+So it's not like we're just going to give you respect.
+You're gonna have to earn it.
+
+You are gonna take on four of the toughest players Slam City has to offer.
+You make a nice shot against these guys, you get some respect.
+You take it to the hoop strong, you get more respect.
+You figure out how to really sky - and I mean some outrageous slam-dunk action
+- you're gonna see that respect really take off.
+'Course, respect ain't all a one-way street.
+Let one of these guys get by you and you're gonna lose some of that respect.
+Let them beat you, and we're talkin' sinking ship.
+What does all this respect get you?
+A chance for a shot at the pros, maybe a Nike shoe deal of your own, and - oh,
+yeah - a chance to go one-on-one with da man himself - Scottie Pippen!
+
+
+###############################################################################
+                        **** Section 4 - Objective ****
+###############################################################################
+
+The objective of this game is to earn respect. Respect can be gained or lost in
+a variety of ways. Here is a quick summary:
+
+Ways to gain respect:
+- Block/reject an opponent's shot
+- Steal the ball from an opponent
+- Rebounding a ball after a missed shot
+- Cause an opponent's shot clock to run out
+- Score on an opponent (Slam dunks are worth more than other shots)
+- Beat an opponent (the worse you beat them, the more points you earn)
+
+Ways to lose respect:
+- Your opponent blocks/rejects your shot
+- You start shooting but never let go of the "A" button
+- Your opponent steals the ball from you (this only occurs if you break in the
+wrong direction. More on this later)
+- Your opponent rebounds the ball
+- Your shot clock runs out before you shoot
+- Your opponent scores against you
+- Your opponent beats you (the worse you get beat, the more points you lose)
+
+There are four different opponents of varying difficulty that you will be
+playing against in order to gain respect. They are:
+
+Fingers:
+He talks a lot of trash. He has to look good when he scores.
+
+Juice:
+She can hit anything from anywhere. Competition is her middle name; makin' you
+look bad is her game.
+
+Mad Dog:
+He's been known to ask for help climbing off the backboard after skying past
+you to the hoop. White men can jump.
+
+Smash:
+He's from the same gene pool as the big men. Hates humanity. Hates you.
+
+Scottie Pippen:
+The real thing-not some cheap cartoon character that maybe on a good day sorta
+look like him. There ain't nobody tougher.
+
+
+The ultimate objective of the game is to play against (and beat) Scottie Pippen
+himself. In order to do this, you must accumulate 1,000,000,000 (1 Billion)
+respect points. You will then be presented with a congratulatory video and have
+a chance to face the master.
+
+
+###############################################################################
+                        **** Section 5 - Controls ****
+###############################################################################
+
+Offense:
+- Move "left" and "right" with the d-pad to get a clear shot at the basket
+without your opponent getting in the way.
+- Press the "A" button to begin your shot. Time your release so that you let go
+of the "A" button when you are as close as possible to the top of your jump.
+Failure to let go of the "A" button will result in you losing serious respect.
+You should also make sure that your opponent's hands are not up when shooting.
+- Pressing "up" and "down" on the d-pad will adjust the strength of your shot.
+The further you are from the basket, the more strength you will need. The
+closer you are to the basket, the less strength you need.
+- Pressing "B" while you are at the extreme left or the extreme right can
+result in a slam dunk. You will only perform a dunk if you press the "B" button
+at the correct time and you are on the correct side of the screen. If you are
+on the wrong side of the screen when you press the "B" button, your opponent
+will steal the ball from you. One huge problem with this game is that it is not
+obvious when you are allowed to break past your opponent. As mentioned above,
+that was my main motivation for making this FAQ.
+- If you miss a shot and there is an opportunity for a rebound, press the d-pad
+"left" and "right" to move and press the "A" button to jump for the ball.
+
+Defense:
+- Move "left" and "right" to try to position yourself in front of your
+opponent. The better job you do at staying in front of your opponent, the less
+likely they are to break past you.
+- If you think you can tell which direction your opponent is about break
+toward, you can steal the ball by moving to the extreme left or extreme right
+and pressing the "C" button. If you are on the wrong side of the screen when
+you press the "C" button, your opponent will blow past you.
+- If your opponent tries to take a shot, press the "A" button to get your hands
+up in their face. This will decrease the odds of your opponent making the shot.
+- Additionally, if your opponent tries to take a shot, press the "B" button at
+the right time to reject their shot.
+- If your opponent misses a shot and there is an opportunity for a rebound,
+press the d-pad "left" and "right" to move and press the "A" button to jump for
+the ball.
+
+
+###############################################################################
+                        **** Section 6 - Options ****
+###############################################################################
+
+Save Game:
+Not much to say here. I would save after victory so that you can restore your
+game if you lose a game later on.
+
+Restore Game:
+Use this option to load a previously saved game. If you are saving every time
+you win a game, then you can load from your last save so that you never lose
+respect points.
+
+Delete Game:
+Removes previously saved Slam City games. You can save up to 10 Slam City
+games. Deleting a saved Slam City game does not free up any backup RAM,
+however.
+
+Delete Backup RAM File:
+Removes files from backup RAM. The Slam City saved games are stored in a file
+called "SLAMCITYSAV". The high score data is saved in a file called
+"SLAMCITYHGH".
+
+High Score List:
+Displays the top ten respected players.
+
+Statistics:
+Displays your performance stats against your opponents.
+
+Music:
+You can toggle the music on and off. The music is funky as hell, so I would
+recommend cranking it. It might be easier to hear what your opponents are
+saying to you if you turn the music off, however. I will go into why this is
+important in the next section.
+
+Training Mode:
+When training mode is enabled, the game will tell you when it is appropriate to
+break past your opponent when you are on offense. It will also tell you when it
+is appropriate to steal the ball from your opponent when you are on defense.
+The word "BREAK" will appear on one side of the screen. For instance, if you
+are on offense and the word break appears at the top left when there is 7
+seconds on the shot clock, your character would need to be at the extreme left
+of the screen and you would need to press the "B" button at that moment to
+break past them. Alternatively, if you are on defense and the word "BREAK"
+appears at the top right when there is 5 seconds on the shot clock, your
+character would need to be at the extreme right of the screen and you would
+need to press the "C" button to steal the ball. While in training mode you do
+not gain or lose respect points.
+
+Buckets Mode:
+When buckets mode is OFF, the ball changes possession when a player scores. If
+buckets mode is ON, a player continues to have possession until they miss a
+shot or the ball gets stolen from them.
+
+Game Type:
+This is where you choose how each game will end. You can choose to have the
+game end when a player gets a certain number of points or you can choose to
+have the game end after a certain amount of time has elapsed. The "SCORE TO 7"
+option will make it so the games go by the quickest.
+
+
+###############################################################################
+                       **** Section 7 - Walkthrough ****
+###############################################################################
+
+Here's the moment you've been waiting for. I must preface that this walkthrough
+is INCOMPLETE. I am basically just sharing the information that I compiled
+myself that helped me beat the game. I have done my best to describe each
+players opening actions/comments, as well as, when to perform your breaks and
+steals. Because some of the actions/comments are very similar for some
+opponents there may be some ambiguity as to what you should do at a given time.
+That's why I have multiple "break" times listed for a given action/comment.
+Sometimes you just have to choose one and/or use visual cues to help you as
+well.
+
+Before we begin, let me show you how to use the hints below. Let's say for
+example you are reading this hint:
+
+Fingers: Says "Poopy butt"
+You: Break left at 8
+
+This would mean that if Fingers says "Poopy butt" as he is throwing you the
+ball, then you would need to head to the extreme left of the screen and press
+"B" when the shot clock has 8 seconds left.
+
+Alrighty then, let's hop in.
+
+*******************************************************************************
+                                  - Fingers -
+*******************************************************************************
+
+Fingers is the second easiest of the four opponents because it's a little
+easier to spot his openings and his actions/comments are relatively easy to
+distinguish from each other.
+
+#########################
+#When you are on offense#
+#########################
+
+Fingers: Dribbles, clasps ball, pulls up shorts
+You: Break left at 10 or Break left at 6
+
+Fingers: Dribbles then mumbles "Come on"
+You: Break right at 10, break left at 7
+
+Fingers: Dribbles, then says "Let's go Ace, come on"
+You: Break right at 7
+
+Fingers: Dribbles, clasps ball
+You: Break right at 6 or left at 6
+
+Fingers: Clasps ball twice, then says "Let's go, Ace"
+You: Break left at 7
+
+Fingers: Dribbles, clasps ball, then says "Come on, Ace, Let's go"
+You: Break left at 5
+
+Fingers: Says "Let's see what you got"
+You: Break left at 5.5
+
+Fingers: Says "Let's go, Ace"	(In a low voice)
+You: Break right at 7 or left at 6
+
+Fingers: Mumbles "Come on, Ace"
+You: Break right at 6
+
+Fingers: Dribbles then mumbles incoherently
+You: Break left at 7
+
+Fingers: Clasps ball twice
+You: Break left at 7
+
+Fingers: Dribbles, clasps ball, makes "sss" sound
+You: Break left at 7
+
+Fingers: Says normally "Come on, Ace"
+You: Break left at 6
+
+Fingers: Says "Ace"
+You: Break left at 7
+
+Fingers: Says "Let's go, baby"
+You: Break right at 9
+
+Fingers: Says "Let's go, baby. Come on."
+You: Break left at 7
+
+Fingers: Dribbles a bunch, then says "Yo, baby. Come on"
+You: Break right at 7
+
+Fingers: Says "Come on, baby, let's go"
+You: Break left at 9 or break left at 5
+
+Fingers: Says "Come on, baby"
+You: Break left at 7
+
+#########################
+#When you are on defense#
+#########################
+
+Fingers: Flails around
+You: Steal left at 10
+
+Fingers: Claps once
+You: Steal left at 8
+
+Fingers: Says "Ball"
+You: Steal right at 9
+
+Fingers: Wiggles fingers and mumbles
+You: Steal right at 10
+
+Fingers: Clasps ball
+You: Steal right at 8
+
+Fingers: Holds hands out
+You: Steal right at 6
+
+Fingers: Makes loud panting sounds
+You: Steal right at 7
+
+Fingers: Wiggles fingers then says "Come on"
+You: Steal right at 6.5
+
+Fingers: Wiggles and claps
+You: Steal right at 5
+
+Fingers: Claps and wiggles
+You: Steal left at 10
+
+Fingers: Wiggles fingers, claps, mumbles "Come on"
+You: Steal left at 8
+
+
+*******************************************************************************
+                                - Juice -
+*******************************************************************************
+
+Juice is the toughest opponent in my opinion because she is not very vocal. You
+have to depend on just her actions to tip you off and many of her actions look
+the same to me. I would play against her as little as possible.
+
+#########################
+#When you are on offense#
+#########################
+
+Juice: Dribble, clasp
+You: Break left at 10 or left at 7
+
+Juice: Hard clasp
+You: Break right at 7
+
+Juice: Hard clasp then waits
+You: Break left at 7
+
+Juice: Dribble, clasp, dribble, clasp
+You: Break right at 10 or left at 8
+
+Juice: Clasp, dribble
+You: Break right at 7 or left at 7
+
+Juice: Dribble, clasp then waits
+You: Break left at 10 or right at 7
+
+Juice: Regular clasp
+You: Break left at 7 or right at 7 or left at 5
+
+Juice: Clasp from far away
+You: Break right at 7
+
+Juice: Dribbles three times
+You: Break right at 10
+
+Juice: Dribble, dribble, clasp
+You: Break right at 10
+
+#########################
+#When you are on defense#
+#########################
+
+Juice: Calmly Says "Ball"
+You: Steal left at 7 or right at 6
+
+Juice: Says "Ball" with moderate energy
+You: Steal left at 8
+
+Juice: Says "Ball...Ball" with a little attitude
+You: Steal right at 7 or left at 7
+
+Juice: Mumbles something then says "Ball"
+You: Steal left at 10
+
+Juice: Says "Gimme the ball"
+You: Steal right at 10
+
+Juice: Holds hands out
+You: Steal right at 10
+
+Juice: Claps
+You: Steal left at 3 or right at 5
+
+Juice: Flicks nose
+You: Steal left at 7
+
+Juice: Says "Ball" with hands out
+You: Steal right at 7
+
+Juice: Says "Ball" quietly with one hand out
+You: Steal left at 10
+Juice: Mumbles
+You: Steal right at 7
+
+Juice: Says "Ball" with attitude
+You: Steal right at 10
+
+*******************************************************************************
+                                 - Mad Dog -
+*******************************************************************************
+
+Mad Dog is by far the easiest opponent because he is so vocal. It's easy to
+describe what he says and it's pretty easy to see his openings. I would play
+against him as much as possible to get respect points. Remember, though, that
+you get less respect each time you play the same opponent, so you have to mix
+it up somewhat.
+
+#########################
+#When you are on offense#
+#########################
+
+Mad Dog: Says "Lock you up" in a slightly angry tone
+You: Break right at 7
+
+Mad Dog: Says "Lock you up" in an angrier tone
+You: Break left at 7 or 5
+
+Mad Dog: Says "Mad dog"
+You: Break left at 7
+
+Mad Dog: Shakes/nods head
+You: Break right at 6 (7)
+
+Mad Dog: Says "Let's see what you got, Ace"
+You: Break right at 10 or left at 10 or left at 7 or right at 6
+
+Mad Dog: Quietly says "Let's see what you got, Ace"
+You: Break right at 10
+
+Mad Dog: Says "Let's see what you got"
+You: Break left at 10 or break right at 8
+
+Mad Dog: Says "Let's go, Ace"
+You: Break right at 7
+
+Mad Dog: Dribbles then passes
+You: Break left at 7 or right at 10
+
+Mad Dog: Dribbles, then slams ball down
+You: Break left at 5
+
+Mad Dog: Says "Your ball"
+You: Break right at 7
+
+Mad Dog: Mumbles something like "Gun nam gen" (Let's begin???)
+You: Break left at 7
+
+Mad Dog: Says "Give me your best shot"
+You: Break left at 5
+
+Mad Dog: Says "Let's see what you got, champ"
+You: Break right at 7
+
+Mad Dog: Says something like "Ball King"
+You: Break left at 7
+
+Mad Dog: Says something like "Thank god"
+You: Break right at 7
+
+Mad Dog: Clasps hands on ball
+You: Break left at 10 or right at 7 or left at 7
+
+Mad Dog: Says "Go"
+You: Break right at 7
+
+#########################
+#When you are on defense#
+#########################
+
+Mad Dog: Reaches
+You: Steal right at 10
+
+Mad Dog: Says "Give up the rock punk"
+You: Steal left at 6.5 or right at 6.5
+
+Mad Dog: Says "Go"
+You: Steal left at 10 or right at 10
+
+Mad Dog: Says "Have the ball"
+You: Steal right at 7
+
+Mad Dog: Says "Can't hold me"
+You: Steal right at 10
+
+Mad Dog: Says "Give me the ball punk"
+You: Steal left at 8
+
+Mad Dog: Says "Ball"
+You: Steal left at 10 or Steal left at 5.5
+
+Mad Dog: Says "Give me the rock"
+You: Steal left at 6.5
+
+Mad Dog: Shrugs
+You: Steal left at 7
+
+Mad Dog: Says "Give up the rock tough guy"
+You: Steal left at 10
+
+Mad Dog: Says "Let's go give up the rock"
+You: Steal right at 10
+
+Mad Dog: Says "Ball punk"
+You: Steal left at 10
+
+Mad Dog: Says "The rock"
+You: Steal right at 7
+
+Mad Dog: Motions toward you
+You: Steal left at 10 or right at 6
+
+*******************************************************************************
+                                 - Smash -
+*******************************************************************************
+
+Smash is the second most difficult opponent in my opinion because he is not
+very vocal and many of his actions/comments look the same. I would try to play
+against him as little as possible.
+
+#########################
+#When you are on offense#
+#########################
+
+Smash: Says "Your ball, kid"
+You: Break left at 7
+
+Smash: Holds ball down with one hand then passes
+You: Break left at 10 or right at 10 or right at 7 or left at 7
+
+Smash: Mumbles then passes
+You: Break left at 6
+
+Smash: Dribbles twice then passes
+You: Break left at 7 or left at 5
+
+Smash: Stalls then passes
+You: Break left at 10 or right at 7 or right at 5
+
+Smash: Dribbles once then passes
+You: Break right at 7
+
+Smash: Throws up ball (plays around with the ball)
+You: Break right at 7
+
+Smash: Spins ball on finger
+You: Break left at 7
+
+Smash: Dribbles while mumbling
+You: Break left at 7
+
+Smash: Dribbles twice alternating hands
+You: Break right at 7
+
+Smash: Clasps ball and mumbles
+You: Break left at 7
+
+#########################
+#When you are on defense#
+#########################
+
+Smash: Claps
+You: Steal right at 7
+
+Smash: Says "Give me the ball"
+You: Steal left at 8 or right at 8
+
+Smash: Says "Whew!"
+You: Steal left at 7
+
+Smash: Points at you
+You: Steal left at 8
+
+Smash: Mumbles a few words
+You: Steal left at 10
+
+Smash: Sways around
+You: Steal left at 9
+
+Smash: Motions toward himself with both hands and says "Come on, punk"
+You: Steal left at 8
+
+Smash: Says "Let's go, show me what you got"
+You: Steal right at 10
+
+Smash: Claps then says "Let's go"
+You: Steal left at 8
+
+Smash: Gets down low and rocks back and forth
+You: Steal right at 7
+
+Smash: Motions toward himself with one hand
+You: Steal right at 10
+
+Smash: Says "Come get some of this"
+You: Steal left at 10
+
+Smash: Sways and then claps
+You: Steal left at 10
+
+Smash: Stands up taller and motions toward you with one hand
+You: Steal right at 7
+
+Smash: Grabs nose and says something
+You: Steal left at 5
+
+Smash: Says "You're in my house now"
+You: Steal left at 10
+
+Smash: Motions towards himself with one hand then claps
+You: Steal left at 7
+
+
+*******************************************************************************
+                             - Scottie Pippen -
+*******************************************************************************
+
+Okay so now you've made it to the final showdown. I'm sorry to say that if you
+were expecting a super intense, hard-fought match, it's not going to happen.
+Unfortunately, Pippen is a scrub in this game. I have some theories as to why.
+My guess is that the developers did not have the money to pay Pippen to shoot
+as much footage as the other actors/opponents did. Consequently, there are FAR
+FEWER scenes for Pippen then there are for the other players. This means that
+it is very easy to predict what he is going to do. Maybe I just got lucky, but
+I beat him the first time without even going into training mode. I did later go
+into training mode so that I could provide some guidance for this FAQ, however.
+I did not compile as much info for Scottie as I did the other players because,
+like I said, you really don't need it.
+
+#########################
+#When you are on offense#
+#########################
+
+Scottie: Dribble once, then says "Bring it on"
+You: Break right at 10
+
+Scottie: Squats then throws
+You: Break right at 7
+
+Scottie: Dribbles twice while squatting
+You: Break right at 7
+
+Scottie: Dribbles once while squatting
+You: Break right at 7
+
+Scottie: Mumbles
+You: Break left at 10
+
+Scottie: Dribbles then says "From the top"
+You: Break left at 10
+
+#########################
+#When you are on offense#
+#########################
+
+Scottie: Says nothing but stays low
+You: Steal left at 7
+
+Scottie: Stands up and smiles
+You: Steal left at 10
+
+Scottie: Squats and sways
+You: Steal right at 10
+
+
+###############################################################################
+                   **** Section 8 - A Few More Tips ****
+###############################################################################
+
+Saving and Reloading:
+This is nothing revolutionary but I thought I would share. Every time a match
+is over, as long as I ended the match with more respect points than I started
+with, I would save my game. Pay attention to your points because sometimes you
+will gain points even though you lost the match. If you ever lose a match or
+end up with less respect points than you started with, simply load up your last
+save.
+
+Buckets mode:
+I found myself turning buckets mode ON. Only do this after you have gotten good
+at being on offense. When buckets mode is on, you can keep driving for the
+basket each time you make a point. This is the quickest way to beat your
+opponents and net the most respect points at the same time.
+
+A Quick Note About Respect Points:
+Remember, beating your opponent by a large margin will earn you more respect
+points than barely winning. Also, dunks are worth more than regular shots, so
+you should really only take a regular shot when you have missed all of the
+break opportunities. Finally, if you continue to beat the same opponent
+repeatedly, you will gain less and less respect each time. So, it is advisable
+to switch to a different opponent every so often.
+
+
+
+###############################################################################
+                     **** Section 9 - Special Thanks ****
+###############################################################################
+
+- Digital Pictures for making this terrible but interesting and somewhat
+innovative game.
+
+- Wikipedia for some information regarding the release of this game.
+
+- The instructional manual for this game, which was actually somewhat helpful
+if you read it carefully.
+

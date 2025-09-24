@@ -1,0 +1,395 @@
+BRUTAL PAWS OF FURY v1
+for Genesis
+
+Copyright 2002 Tom Churchill
+
+Hi and welcome to my faq for Brutal - Paws of Fury.
+Ill try and make a decent
+faq that will help you through the game. If there is
+anything I've left out feel
+free to tell me. Don't know what else to say in this
+introduction so Ill go onto
+the next section.
+
+=================
+TABLE OF CONTENTS
+=================
+1.    CHARACTERS
+2.    MOVES
+3.    STRATEGIES
+4.    CHEATS
+5.    SOMETHING FUNNY
+6.    ABOUT ME
+7.    THANKS
+8.    LEGAL STUFF
+
+===============================================================================
+1.     CHARACTERS
+===============================================================================
+-------------------------------------------------------------------------------
+KUNG-FU BUNNY
+-------------------------------------------------------------------------------
+Right understanding
+
+Quote:     To know fear is courage.
+Style:     Relaxed paw
+Height:    5 foot 10 ins
+Weight:    100 lbs
+
+Favourite attack:     Tobi Masharwiger
+
+Background:
+Spent 15 years in a shaolin temple studying the art.
+There he set new standards and was know for kicks
+which clocked 120 mph!
+His agility and speed make him a tough opponent.
+However he cannot take too much punishment due to his
+small frame.
+
+Who plays Kung-Fu Bunny?
+You are kind and considerate. Nothing gives you
+greater pleasure than seeing
+how you helped another succeed. However you have
+difficulty making personal
+decisions and keeping them. Your desire to help others
+comes from your desire
+for someone else to give your life direction.
+
+-------------------------------------------------------------------------------
+LEON
+-------------------------------------------------------------------------------
+Right effort
+
+Quote:     I have only one judge: the world.
+Style:     Jah, The righteous path.
+Height:    6 feet
+Weight:    250 lbs
+
+Favourite attack:    Righteous roar.
+
+Background:
+Leon fights to avenge an insult from Tai Cheetah and
+Kendo.
+His greatest weapons are his roar and his razor sharp
+claws.
+
+Who plays Leon?
+You never forget a debt for right or wrong. You stop
+at nothing to even up the
+score. You're willpower is indomitable but you find it
+difficult to focus on
+more than one thing at a time.
+
+-------------------------------------------------------------------------------
+TAI CHEETAH
+-------------------------------------------------------------------------------
+Right mindfulness
+
+Quote:     To teach someone is to be responsible for
+them.
+Style:     Tai cheeh, Speed through wisdom.
+Height:    6 foot 2 ins
+Weight:    140 lbs
+
+Favourite attack:    Fist whirlwind.
+
+Background:
+He has perfected his style over years of solitude.
+Kendo Koyote is his erratic but brilliant student.
+Tai Cheetahs greatest wish is for Kendo Coyote to
+succeed him.
+Tai Cheetah mixes a graceful pose with lightning
+blows.
+
+Who plays Tai Cheetah?
+You are devoted to those who are close to you. Yet you
+are cold and unfeeling
+to those who you regard as enemies. You're abilities
+are second to none and yet
+you lack the self motivation to excel. Often you are
+happy with you're lot and
+see no need to change. Too often you have seen others
+succeed only to turn into
+an unpleasant character. You're aims are modest but
+your happiness will be 
+grand.
+
+-------------------------------------------------------------------------------
+RHEI RAT
+-------------------------------------------------------------------------------
+Right speech
+
+Quote:     None Available.
+Style:     Thai boxing.
+Height:    5 foot 11 ins
+Weight:    160 lbs
+
+Favourite attack:    Choking neck punch.
+
+Background:
+Rhei is the most successful Thai boxes in the world.
+He answers to noone.
+He despises fools.
+
+Who plays Rhei Rat?
+You despise fools. You want them to be humiliated. You
+are the one who can
+stand up to the bullies and shame them. You find it
+difficult to make friends
+as often as they make you cringe with their ignorance
+and inability. You speak
+very little as you can normally answer your own
+questions much better than most
+other people. Strangely you have found it difficult to
+succeed in life whereas
+others with much less ability succeed.
+
+-------------------------------------------------------------------------------
+KENDO KOYOTE
+-------------------------------------------------------------------------------
+Right resolve
+
+Quote:     I'm baaaack.
+Style:     Tae kwon do.
+Height:    6 foot 2 ins
+Weight:    200 lbs
+
+Favourite attack:    Aerial back punch
+
+Background:
+Kendo is the pupil of Tai Cheetah However he has none
+of the wisdom or the
+subtlety of Tai. Kendo sees fighting as a path to
+riches.
+
+Who plays Kendo Koyote?
+You are a winner. No matter what happens you know
+eventually you will succeed.
+You are undaunted by problems and any setbacks merely
+make you seek another
+setback. You're confidence makes you reckless. You
+indulge yourself totally and
+never cheat yourself of any pleasure.
+
+-------------------------------------------------------------------------------
+FOXY ROXY
+-------------------------------------------------------------------------------
+Right Livelihood
+
+Quote:     To care for others is to care for yourself.
+Style:     Penjat Silat.
+Height:    6 foot
+Weight:    160 lbs
+
+Favourite attack:    Parang malat.
+
+Background:
+Foxy is known to the world as Idhra Prashmet.
+She is well known and successful U.N.executive.
+She is also master of the Indian marshal arts.
+
+
+Who plays Foxy Roxy?
+You a capricous and playful who loves to see joy and
+happiness. You are unable
+to take anything seriously for too long however and
+you also have a strong need
+for diversion.
+
+-------------------------------------------------------------------------------
+IVAN
+-------------------------------------------------------------------------------
+Right action.
+
+Quote:     You rest when you are dead.
+Style:     Soviet military.
+Height:    6 foot
+Weight:    250 lbs
+
+Favourite attack:    Hitting the opponent.
+
+Background:
+Ivan is an ex soviet military commando.
+There he became a hand to hand combat expert.
+He is the strongest fighter in the world.
+
+Who plays Ivan?
+You are a down to Earth kind of person who stands for
+no nonsence. Almost any
+problem can be overcome by a bit of common sense and
+hard work. You hate to sit
+still for any lengh of time and you are unable to see
+why some people want to
+do nothing all the time.
+
+
+
+
+===============================================================================
+2.    MOVES
+===============================================================================
+You can only use these special moves once you've
+played through the game untill
+it says you can. Then it even tells you how to do it,
+I dont know how usefull
+this is then. ;D 
+
+U = Up
+D = Down
+L = Left
+R = Right
+W = Weak attack
+M = Medium Attack
+S = Strong attack
+H = Hold
+-------------------------------------------------------------------------------
+ALL CHARACTERS
+-------------------------------------------------------------------------------
+Taunt: A+B
+
+-------------------------------------------------------------------------------
+KUNG-FU BUNNY
+-------------------------------------------------------------------------------
+Hi Flash Kick: HD+M
+Flash Kick: HM+S S
+Double Flash Kick: B D F
+Scissor Kick: M+S
+Dance of Death: HW W W
+Iron Fist: HS S S
+Devil's Kiss: F D B
+
+-------------------------------------------------------------------------------
+LEON
+-------------------------------------------------------------------------------
+Bite: M+S
+Swim Attack: F D B
+Roar: D F M
+Powerchord: B D F
+Wild Side: HW W W
+Rage Within: HW+HS+M
+Leon Experience: HM S S S S
+
+-------------------------------------------------------------------------------
+TAI CHEETAH
+-------------------------------------------------------------------------------
+Fire Punch: D F
+Fire Kick: B D
+Fire Run: F D B
+Way of the Crane: W+M+S
+Fist of the North: HW W W
+Divine Wind: HM M M
+
+-------------------------------------------------------------------------------
+RHEI RAT
+-------------------------------------------------------------------------------
+Knockout Punch: W+M+S
+Frenzy Attack: B D S
+Face Pull: D F
+Neck Choke: M+S
+Tsumai: HS M M
+Lightning Fury: HW W W
+Berserk: HM W M
+
+-------------------------------------------------------------------------------
+KENDO COYOTE
+-------------------------------------------------------------------------------
+Slam Punch: W+M+S
+Headbutt: M+S
+Cannonball: F D DB M
+Spinball: D F
+Five Rings: B D DF M
+Ki Force: HW S S
+Hapkido: HM W W
+
+-------------------------------------------------------------------------------
+FOXY ROXY
+-------------------------------------------------------------------------------
+Whiplash Kick: M+S
+Spinning Attack: B B S
+Rolling Attack: D F
+Kuntao: W+M+S
+Call of the Lotus:HS S S
+Mind Throw: F D B S
+-------------------------------------------------------------------------------
+IVAN
+-------------------------------------------------------------------------------
+Big Belly Attack: F D B
+Earthquake: B D F
+Strength of the North: D B M
+Jar Al Nar: HS W W
+Rage of the World: HM+HS L+S
+
+===============================================================================
+3.    STRATEGIES
+===============================================================================
+When you first start a good idea is to go to two
+player and just familiar
+yourself with the control system. You cant choose
+whether to punch or kick
+but I've found it doesnt really matter. There isnt
+really an easy way to win.
+You have to change your statagies a lot. For instance
+for the first two levels
+I used strong down kicks but when I got onto Ivan that
+technique became
+useless. I then used consecutive weak forward punches.
+This worked far better.
+
+===============================================================================
+4.    CHEATS
+===============================================================================
+Unlock Dali Lama
+Just press
+C, A, B, A, Left, A
+You will then hear a sound to confirm that the cheat
+has worked.
+
+===============================================================================
+5.    SOMETHING FUNNY
+===============================================================================
+The makers of the game can't spell, its true, take a
+look at the Foxy Roxy bio.
+It says "capricous" instead of "capricious".What? Why
+are you looking at my
+like that? Stop it...
+
+===============================================================================
+6.    ABOUT ME
+===============================================================================
+Well my name is Tom Churchill and this is my first faq
+that I have actually put
+on the internet. I have written others but I didnt put
+them on. My hobbies
+include skateboarding, fire-spinning and computer
+stuff.
+
+If you want to contact me just mail me at
+Tlight4@yahoo.co.uk
+I'm not the best at this game but I will try and help
+you. My only request is
+that you read the complete faq before asking. Oh and
+if you feel like sending
+hate mail: feel free, I've never had any so it would
+be entertaining.
+
+===============================================================================
+7.    Thanks
+===============================================================================
+Well who to thank...I guess the makers of this
+game...*Runs to check who they
+are*, Gametek. Erm who has helped me make this faq? 
+Also I would like to thank... *goes to check his name
+to*,Kao Megura I checked 
+his faq a lot to make the presentation look nice. I
+think thats about it.
+
+===============================================================================
+8.    LEGAL STUFF
+===============================================================================
+Okay so as far as I know because I've put the
+Copyright Tom Churchill thingy at
+the top you basically cant rip stuff off this faq and
+use it as your own. Not
+quite sure how it works but hey-hoe.
+
+

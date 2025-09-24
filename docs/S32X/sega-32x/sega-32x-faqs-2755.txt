@@ -1,0 +1,978 @@
+      SEGA MEGADRIVE
+  Frequently Asked Questions 
+	Version 2.2
+          26/06/00
+Written and updated by: Chris Foulger	(megadrive@angelfire.com)
+
+This F.A.Q is written from a European (U.K) point of view if anyone
+in the U.S or Japan or Hong Kong wants to help me out with regard to 
+Genesis/Megadrive information I will be more than happy.
+
+Thanks to the following contributors
+------------------------------------
+ 
+Jon Dyton		(jon@wibble.powernet.co.uk)
+Jon Legg		(legg_jon@hotmail.com)
+Ron Kiser		(kiser62@earthlink.net)
+Andy Welburn	(andrew.welburn@cableol.co.uk)
+Matthew Nielson
+Adri			(j.hoogestege@hccnet .nl)
+
+Distribution notice
+-------------------
+You are free to distribute this F.A.Q as long as it is kept intact,
+Including this notice if you have any corrections or additional
+for this F.A.Q let me know.
+Also if you put this F.A.Q on your website let me know and I will send 
+you the updates.
+
+Disclaimer
+----------
+This F.A.Q is not endorsed by Sega Enterprises or Sega Europe. 
+No guarantee is made to the accuracy of the information
+in this F.A.Q All trademarks and copyrights are recognized.
+
+Where to find the latest version this F.A.Q
+--------------------------------------------
+WWW: http//www.digitpress.com
+     http//www.gamefaqs.com
+
+E-MAIL: by request to megadrive@angelfire.com 
+
+Contents
+--------
+I. General information
+   1.1 What is the Sega Megadrive?
+   1.2 What is the history of the Megadrive?
+   1.3 What is the difference between Megadrive 1, 2 and 3? 
+   1.4 What are the technical specifications of the Megadrive?
+   1.5 What are the aesthetic differences between each Megadrive?
+   1.6 How many different variations of the Megadrive exist?
+   1.7 What pack-in variations exist?
+
+II. Compatibility
+   2.1 can you play Japanese or U.S games on a U.K Megadrive?
+   2.2 Can you play Master System Games on A Megadrive?
+   2.3 Can you play Game Gear games on a Megadrive?
+
+III. Software
+   3.1 What games are Available for the Megadrive?
+   3.2 Who is Sonic the Hedgehog?
+   3.3 How many sonic games are available for the Megadrive?
+   3.4 Do any games use extra chips for better graphics?
+   3.5 In Japanese text mode are there any differences to U.K games?
+   3.6 What Japanese games had different names in the U.K & U.S?
+   3.7 What unreleased games were there?
+   3.8 What games were released in the U.K but not in the U.S?
+   3.9 what game packaging variations are there?
+    
+IV. Accessories
+   4.1 What accessories are available?
+   4.2 What multiplayer accessories exist?
+   4.3 What are J-carts?
+   4.4 What cheating cartridges are available?
+   4.5 Were there any unreleased accessories?
+
+V. Upgrades
+  5.1 What is the Mega CD? 
+  5.2 What are the technical specifications of the Mega CD?
+  5.3 What is the 32x? 
+  5.4 What are the technical specifications of the 32x?
+  5.5 Is it possible to play import 32X games on a U.K 32X?		
+
+VI. Trivia
+   
+---------------------
+I General Information
+---------------------
+1.1 What is the Sega Megadrive?
+
+The Sega Megadrive was the first true 16 bit video game console 
+and was made by Sega.
+
+1.2  What is the history of the Megadrive?
+
+ 
+After the 1984 videogames market crash cartridge based consoles had lost 
+acceptance in the consumer market in favor of cheaper disk and tape based 
+systems such as the Sinclair Spectrum and Commodore 64.
+About 1987 things were beginning to change in the marketplace and 
+consoles had begun selling again. Master System achieved reasonable sales of 
+230,000 units in Europe and the Nintendo N.E.S in America that was estimated to 
+be installed in one out of three American households. 
+Sega saw that time was right for a more adventurous console and more
+importantly that people were willing to pay for more expensive 
+Cartridge software.
+16 bit machines had already reached home computer users by 1987 
+through the Commodore Amiga and the Atari ST. A cheap powerful 
+Instant loading console based on this technology that was more 
+than capable of replicating the best arcade games of the time 
+was bound to be a top seller.
+The first version of the Megadrive was released in Japan in 
+October 1988. The four games available Super Thunderblade, Alex Kidd and the 
+Enchanted Castle, Altered Beast and Space Harrier 2 showed how much better the 
+Megadrive could handle arcade conversions compared to the equivalent home 
+computers. 
+A large profitable grey import market quickly grew up around
+the Megadrive and N.E.C's also powerful console the PC Engine 
+Supplying gamers with these consoles raising awareness of the
+Megadrive before the official release.
+The Megadrive was renamed Genesis and released in America in 
+September 1989. sports simulations were very popular in America 
+especially John Madden and NHL ice hockey that helped sell the machine.
+The early launch of the Genesis in America gained a lot of the market
+from Nintendo before they could get their 16 bit Super Nintendo on sale.
+A European launch followed in November 1990 and caught the Christmas rush.
+Virgin Mastertronic distributed the Megadrive in the U.K. The first
+U.K shipment of 30 000 units went to the larger chain stores of the time  
+Comet, Dixons, Rumbelows and Toys R Us and sold steadily for £189.99.   
+Western third party publishers like Electronic Arts, Disney and later on Acclaim 
+were eager to sign up to produce games for the Megadrive expanding the 
+variety of titles available, Showing that the Megadrive could handle 
+more than just arcade titles, Castle of Illusion starring Mickey Mouse from 
+Disney and Populous from Electronic arts being two such examples.
+But is was with the release of Sonic the Hedgehog and a subsequent pack-in that 
+saw sales really take off.
+A year later a sequel was created (sonic 2) and Backed by an imaginative 
+marketing campaign (sonic 2uesday) became the Megadrive's biggest selling title 
+ever. The Megadrive caught the media attention in a really big way and Sega 
+sponsored all kinds of sport, music events and other products, continuing to 
+bring awareness of video gaming to a wider audience and increasing sales.
+The successful sales continued and two separate upgrades were produced a CD ROM 
+drive and a 32 bit adapter although due to poor software support they never 
+achieved the same success as the base unit.
+The Megadrive was the early 90's most successful console and gained a huge 
+library of arcade conversions, sports and original titles. The machines early 
+Success lay in its accurate conversions of popular arcade games. Later on in its 
+life innovative marketing wide range of great software and a £99.99 price point 
+for the Megadrive played a part in its 
+Success. The last games released were at the end of 1997 in Europe and late 1998 
+in America.
+
+
+1.3  What is the difference between Megadrive 1,2 and 3? 
+
+In an effort to increase the sales and reduce manufacturing costs the  
+Megadrive was redesigned in 1993 and this was known as the Megadrive 2.
+The technical specifications remained the same but the casing and some  
+features were changed as follows:
+
+* Headphone jack removed
+* A/V port changed to a custom multi out port that now provides stereo sound to 
+T.V's (previously only Mono was outputted on Megadrive 1 as the headphone port 
+was used for stereo sound.)
+* RF out port removed
+* Auto switching RF lead included
+* Power lead port made smaller and a different AC adapter used
+* Push button power switch 
+
+Japanese Megadrive 2
+
+There are also a few slight differences to the Japanese Megadrive 2 as listed 
+below, although the size and shape remain identical the western version of the 
+Megadrive 2. 
+
+* Slide switch remained 
+* Japanese Version had red colored flaps on the cartridge port
+* no power LED  
+*The text "high grade multi purpose intelligent terminal" embossed just behind 
+the cartridge port
+
+*Packaged with a 6 button pad as standard
+
+Genesis 3
+Smaller than a Megadrive 2 and was released only on the U.S under license from 
+Sega by a company called Majesco in 1997. This version of the Genesis was 
+incompatible with the 32X and Mega/Sega CD
+
+1.4  What are the technical specifications of the Megadrive?
+
+C.P.U	                   Motorola M68000 16 bit processor 
+                         running at 7.67Mhz
+Sound C.P.U              Z80a running at 3.58 MHz
+Main sound chip		 Yamaha YM2612 6 channel FM
+Additional sound chip    4 channel PSG
+Palette                  512
+Onscreen colours         64
+Maximum onscreen sprites 80
+Resolution		       320 x 224
+Outputs                  separate R.F aerial and R.G.B outputs (AUX connector - 
+Megadrive 1 only),
+                         stereo headphone jack (original model only)
+                         9 pin EXT port (Early original model only)
+Expansion port on the bottom right hand side for Mega CD
+2 nine pin joypad connectors on the front of the machine.
+
+1.4 What are the aesthetic differences between each version of Megadrive?
+
+Aesthetics for the Megadrive 1 width 28.5 cm height 5 cm length 22.5 cm the 
+original Japanese Megadrive had a Gloss black finish. There was large logo in 
+gold "16 BIT" On the circular molding on the top of the Megadrive also around 
+this circle was printed the text "multi purpose intelligent terminal". At the 
+bottom of the circle is a square section in purple. To the left side of the 
+console are the cooling vents. "Sega Megadrive" is printed in white on the lower 
+right of the console. The reset button on the machine is blue as is the start 
+button on the joypad.
+
+For the American Genesis the "16 BIT" logo was slightly smaller. Text in white 
+was printed around the circular molding and reads "High Definition Graphics" A 
+large Genesis logo was printed in front of the cartridge port. The reset button 
+and start button on the joypad are both now white.
+
+The European Megadrive had the text "high grade multi purpose intelligent 
+terminal" printed around the circle and the smaller "16 BIT" logo was used. 
+"Sega Megadrive" was printed in the same place as the Japanese machine. The 
+Reset button and start button are white.
+
+There is also an Asian Megadrive had no text printed around the circle and the 
+larger "16 BIT" logo was used. "Sega Megadrive" was printed in the same place as 
+the Japanese machine. The Reset button and start button are blue. This is often 
+mistaken for a Japanese Megadrive 
+But internally is identical to the U.K Megadrive and has a PAL output. 
+
+
+1.5  What different variations of the Megadrive exist?
+
+Original Japanese version (Megadrive 1) featuring headphone jack and AUX 
+port with Japanese language settings and a cartridge lock.
+
+American version was identical but renamed Genesis and had English language 
+Settings. The cartridge lock was removed.
+
+European version similar to the Genesis version but converted to display 
+PAL 50HZ signal and English language settings. 
+
+Slight changes to the Megadrive 1 removed EXT port and added the message
+"produced by or under license from Sega Enterprises" to the boot ROM.
+
+1993 totally redesigned Megadrive 2 more square shaped design removed the 
+headphone jack and only one custom multi output for sound and picture (See 1.3).
+
+
+Wondermega was a combined Megadrive and Mega CD made by J.V.C that had improved 
+sound capabilities. The connectivity of the machine was improved also as a MIDI 
+connector, phono plugs and SVHS connector were added to the machine. The karaoke 
+function including 2 inputs for microphones was concealed under a sliding door 
+on the front of the machine. There were buttons on the top of the machine that 
+allowed you to use a small selection of sound enhancements (Game, Bass Ex and 
+Karaoke) that also could be switched on when a normal Mega CD game was used.
+Originally came packed with a four game CD  called Wondermega Collection - Game 
+Garden that featured the Megadrive game Flicky, a quiz game, Pyramid a puzzle 
+game and an air hockey game.The Game Garden disc is also compatible with CDG (CD 
+and Graphics)enabled CD players. 
+A later pack in Japan was a platform game Wonderdog by Core. The enhanced audio 
+capabilities of the Wondermega were its main selling point and the internal CD 
+player screen had an extra option that allowed you to change the pitch of any 
+music CD being played. Additional peripherals included a cartridge "Wonder MIDI" 
+that let you create music and connect to MIDI compatible devices another add on 
+was a music keyboard "Piano Player" that allowed you with the additional 
+software to learn to play the keyboard and create music.
+The Wondermega was also redesigned and the machine was given a softer more 
+curved look and was renamed Xeye when launched America and did not get a 
+European release.
+A third version of the Wondermega was also released in Japan only that had some 
+of the extra connectors removed and the joypads were remodeled infra red 
+joypads.
+
+Multimega was a combined Portable Megadrive and Mega CD and was aimed at
+a more affluent market. The launch price for the Multimega was a staggering 
+£350.00. Although it had no built-in screen to play games on the move it could 
+double as a portable CD player and was powered by 2 AA batteries that only had 
+enough power to run the CD payer. To play Megadrive and Mega CD games the 
+Multimega had to be plugged into the mains. 
+The portable CD control buttons are on the front of the console (play, stop, 
+Etc.) and a small backlit L.C.D displayed the track number. An extra line out 
+port was provided for connection to stereo equipment.
+ It was also possible for a Multimega to be connected to a 32X although this set 
+up did not allow you to play 32X CD's as the disc drive lid was blocked by the 
+32X unit. 
+The Multimega was known as the CDX in America.
+There were 2 different pack-ins sold with the Multimega, first was Road Avenger 
+and a later pack-in included Fifa Soccer.
+
+
+Nomad was a fully portable Megadrive with a built in 3-Inch colour L.C.D screen 
+that could also be connected to a television using the same scart or RF lead as 
+the Megadrive 2. Although strangely connecting the unit to a television did not 
+turn the screen of the Nomad off during play 
+There was a second joypad port on the bottom of the machine for two player 
+games. 
+The Nomad played normal Megadrive cartridges so it had the same wide 
+range of software as the Megadrive. The Nomad had 6 fire buttons for use on 6 
+button compatible games. The Nomad was powered by 6 AA batteries that you fitted 
+to a case that clipped to the back of the unit. A rechargeable battery pack and 
+AC adapter were also available.  
+The Nomad was released in America in late 1996 for $149.99 but did not receive a 
+European release.
+
+Megatech was an arcade machine that featured 8 interchangeable Megadrive or 
+Master System games in a juke box style arcade cabinet. This was first released 
+about 1989 fitted with the best Megadrive games available at the time, like 
+Thunderforce II, Altered Beast, Tetris, Last Battle, Space Harrier 2 and Golden 
+Axe. Master System games like Great golf and Parlor games were also available 
+but all the machines I have seen were only fitted with the better looking 
+Megadrive titles  The games could be changed at any time and later titles 
+available included sonic. The games were identical to the Megadrive versions, 
+even the game cheats worked! 
+The games for this cabinet were supplied on a Japanese shaped Megadrive cart 
+although they are slightly heavier. The labels on the games were silver and red 
+and only had Megatech and the name of the game printed on them. These carts were 
+not compatible with a standard Megadrive due to the extra information that was 
+stored on them to run the second monitor,a different length edge connector, 
+number of pins, pinouts, and spacing.
+A second smaller 9-inch monitor was built into the top of the cabinet
+and displayed instructions for each of the games. But you paid to play for a 
+timed period as the time ran out the playing screen 
+would flash green to inform you that extra credits would needed be inserted to 
+continue playing.
+
+Mega-play. Sega released this in 1993 after the Megatech. This was another 
+arcade cabinet version that was running on the Megadrive hardware. 
+The system is Jamma compatible (an arcade hardware standard) and was able to 
+play special Mega play carts. The games were delivered in a sort of Megadrive-
+box, but there are no pictures on the box. The only differences on the boxes 
+were the titles. The system used only one monitor and can run four different 
+inter selectable carts at once.
+
+
+Megajet was a handheld Megadrive that could be rented for use on Japan airlines 
+flights. There was no built in screen as you plugged the unit into the L.C.D 
+television that folded out from the armrest.
+The cartridges plugged into the top of the Megajet and it had 6 fire buttons for 
+compatibility with games like Street Fighter 2. There was a second joypad port 
+on the bottom of the Megajet for 2 player games. 
+A selection of four games were available to hire for the flight including Super 
+Monaco GP 2 and Sonic, although you could use your own games if desired. The 
+Megajet was also available in limited quantities at Japanese retail outlets and 
+was marketed as a portable Megadrive.
+
+Laseractive this was a laser disc player from Pioneer that could take plug in 
+modules and one of these could play Megadrive and Mega CD games. It could also 
+display Megadrive graphics over Streamed video from compatible Laser discs.
+The format was known as Mega LD and only a few games were released on this 
+format. 3D glasses were also produced for the Laseractive for use on compatible 
+discs like Melon Brain and 3D museum. The other modules available allowed you to 
+play PC Engine HU Cards and CD's and karaoke. 
+
+Mega PC a PC made by Amstrad that could play normal Megadrive games and PC 
+games.
+This was launched in Japan as the Terra drive but I believe that it was a 
+different company cooperating with Sega. Released in the U.K in 1993 
+redesigned and changed casing colour from dark grey to cream. The specs 
+were 386sx running at 25Mhz, 1 MEG RAM and a 40 MEG hard disc IBM compatible. 
+Mega PC could also be connected to a Mega CD. An updated version was later 
+released called the Mega Plus with improved specs 486, 33Mhz with 4 Meg RAM.
+
+MSX Two of the AX series of machines that were only ever released in the Arab 
+countries by a company called Universal were capable of playing standard 
+Megadrive cartridges. The AX330 MSX had a cartridge port on the top of the 
+machine and had 4 built in MSX program's Calendar, painting, Arabic writing and 
+English writing. The other MSX machine the AX990 came packaged with 50 program's 
+but I would think that they are likely to be either MSX program's or an 
+unofficial Megadrive multi cart. 
+
+Aiwa CSD-GM1 was manufactured and released by Japanese stereo company Aiwa and 
+was a portable CD, radio and tape player (a ghetto blaster) that could also play 
+Megadrive and Mega CD games via an extra section that could be attached to the 
+bottom of the unit. The attachment unit contained the cartridge port on the 
+front, joypad connectors, reset button and AV out port. When this unit was 
+attached to the main unit a serial cable connected them together. Mega CD games 
+were played via the CD drive on the top of the unit. The pack also included a 
+custom blue coloured joypad but no pack in game.
+
+1.6  What pack-in variations exist?
+
+Megadrive 1 packs have included the following games at some time 
+Altered Beast plus one joypad (original pack-in £189.99)
+Megadrive 1 altered beast, one joypad, Moonwalker plus Moonwalker video (special 
+offer pack-in)
+Megadrive 1 Sonic the Hedgehog plus one joypad
+Megadrive 1 World Cup Italia 90 plus one joypad
+
+Megadrive 2 packs-ins have included:
+Street Fighter 2, virtua racing, Sonic 3, The lion king, Aladdin, EA Double 
+Headder (John Madden, NHL ice hockey) ,Sonic 1,Sonic 2 and Sonic collection.
+Megagames one (columns, world cup Italia 90, super hang on)sonic & Streets of 
+rage, sonic 2, 
+Megagames 6 packs there were three different versions of these which were on 6 
+game multi game cartridges.
+Variation 1 (Revenge of Shinobi, golden axe, streets of rage, columns, 
+world cup Italia 90, super hang on)
+
+vol.2 (World Cup Italia 90, Alien Storm, Super Thunderblade, Columns, Super 
+Monaco GP, Super Hang on)
+
+vol.2 variation 2(Revenge of Shinobi, golden axe, streets of rage, columns, sega 
+soccer, sonic)As of November 1999 this pack was still available from the 
+catalogue shopping store Argos.
+
+Another limited edition value pack in set was Megagames 3 (Alien Storm, Monaco 
+GP and Super Thunderblade) Ecco the Dolphin and European Club Soccer.
+
+
+-------------
+Compatibility
+-------------
+
+2.1  can you play Japanese or U.S games on a U.K Megadrive?
+
+Originally the Japanese games did not fit a European Megadrive because the 
+cartridges were a slightly wider and a different shape to the European games. 
+This was easy to overcome by either using a converter cartridge that simply 
+extended the Megadrive's cartridge connector and then you just plugged the 
+Japanese game on top.
+Or the other way you could overcome this was by cutting two notches out from the 
+side of the cartridge port so the Japanese game would fit.
+
+Early Genesis games had no protection at all and could played without a 
+converter or any modification. July 1992 saw extra protection being added to a 
+lot of the games by means of a software program that checked the language 
+setting on the machine and what signal the Megadrive is outputting (N.T.S.C 60Hz 
+Japan & America P.A.L 50Hz Europe). If the game was being played in the wrong 
+territory a message usually appeared telling you that the game was incompatible. 
+Again this was not too hard to overcome new converter cartridges could be 
+brought similar to the Japanese converters but on the back of the cartridge 
+there were a set of dip switches and if you set them in the right order the 
+import came would play. The settings were often shown on a sticker attached to 
+the front of the cartridge. The second method requires an internal conversion to 
+be made to your Megadrive and two switches need to be added to change the 
+settings of the Machine. One switch toggles between Japanese and English text 
+the other toggles between 50Hz & 60Hz display.
+The Megadrive could then be set to a European, American or Japanese hardware 
+configuration. 
+
+2.2  Can you play Master System Games on A Megadrive?
+
+Yes but you will need a Powerbase Converter this sits on top of the Megadrive 
+and plugs into the cartridge port and allows you to play
+the Master System cartridges and cards and the pause button was on the front. 
+You can use light gun and 3D glasses games and any other master system 
+accessories. A new version was released in Europe that was compatible with the 
+Megadrive 2 but the card port was removed so you could no longer play card games 
+or 3d glasses games. A third party Master System converter called the Mega 
+Master and was distributed by Fire and Datel in the U.K this looked like the 
+Megadrive 2 converter but could not play card games the pause button was a 
+toggle switch on the side.
+
+2.3  Can you play Game Gear games on a Megadrive?
+
+Unfortunately not, although a converter was talked about in some magazines and 
+referred to as the Mega Game Gear there was no official announcement was made.
+
+-------------
+III. Software
+-------------
+
+3.1  What games are Available for the Megadrive
+
+There is not enough space in this F.A.Q to list them all but there is possibly 
+more than 900 games including variants released during the 10 year life span of 
+the Megadrive. The most popular games were the sonic series, streets of rage 
+series, Fifa soccer series, John madden American football series, Street fighter 
+II special champion edition and the Mortal Kombat series. Go to 
+http://www.eidolons-inn.de/ for the most complete list of Megadrive games on the 
+net the G30 project.
+
+3.2  Who is Sonic the Hedgehog?
+
+Sonic was and still is Sega's mascot character. After witnessing the success of 
+Nintendo's character Mario and the success of his games Sega realized that they 
+needed a strong character and game to help push Megadrive sales. Development 
+started in April 1990 they looked at their previous mascot character for the 
+Master System Alex Kidd, but he did not have a real mass market appeal, and was 
+too similar to Mario. 
+They decided to make a new Character by holding an internal design competition 
+at Sega Japan. There were 100 competition entries out of which 4 finalists were 
+chosen. The 4 designs were a wolf, a bulldog, a fat man (who was developed into 
+Dr. Robotnic) and a blue hedgehog created by artist Maoto Oshima. He came up 
+with the character by crossing Felix the cat with Mickey Mouse and the 
+developing the character further. The Sonic game was finally released in July 
+1991 and was a staggering success.
+Several more Sonic games were made across all the Sega machines including 2 
+arcade games (Sonic the arcade game & Sonic Fighters).
+
+3.3  How many Sonic games are available for the Megadrive?
+
+The games are, Sonic the Hedgehog, Sonic 2, Sonic 3, Sonic and Knuckles, Sonic 
+spinball, Sonic collection (sonic 1,2 and DR Robotnic's mean bean machine on one 
+cartridge) and Sonic 3D also known as Sonic Blast in America.
+Also on available on Mega CD Sonic the Hedgehog CD and on 32x Knuckles Chaotix 
+featured sonic characters but not Sonic.
+Sonic made cameo appearances in a few games as follows Soiell, Art Alive, Wacky 
+Worlds, Ultimate Soccer, Joe Montanna football and was on the loading screen on 
+some Sega released Mega CD games. DR. Robotnic's mean bean machine was a puzzle 
+game with sonic's main enemy DR. Robonic taking the lead role.
+
+3.4  Do any games use extra chips for better graphics?
+
+Like the Super Nintendo there is a Megadrive game that uses extra chips to 
+improve graphic performance.
+ 
+Virtua Racing from Sega uses the Sega Virtua Processor created in conjunction 
+with Hitachi.
+The specifications of the SVP are as follows:-
+
+Chip Command Type: DSP, 1 command, 1 clock
+Speed / Instruction per second: 23MHz (23 mips)
+ROM: I-ram (instruction RAM) 2048 bytes
+Polygons per second 300-500 (16 colours) with 4 interrupts
+RAM: D-RAM (optional installation)
+Sound expansion: 2 channels PWM (pulse wave Modulation)
+Data BUS bandwidth: internal / external 16 bits  
+
+
+3.5  In Japanese text mode are there any differences to U.K games?
+
+Yes quite a few Megadrive games include bilingual text options some that I am 
+aware of are as follows:
+
+Mystic Defender / title reads Kujuki 2(Spellcaster 2)also the intro changes from 
+a page of text telling the story to an animated Cinema
+featuring the games characters.
+Legend of Ju Ju/ title reads Toki 
+Ghouls and Ghosts /title reads Daimakumaira, restart points in the game are 
+different.
+Revenge of Shinobi /title reads Super Shinobi
+Truxton / title reads Tatsujin
+Streets of rage 1 & 2 /title reads Bare knuckle 
+Mercs /title reads Commando II in Japanese text
+Super Fantasy Zone / cinemas are in Japanese text
+Cyberball / Modem option is added to the select screen  (not selectable)
+Also if you use a Powerbase converter there are some Master System games that 
+show Japanese text or different titles screens when played through a Megadrive 
+with Japanese settings.
+
+
+3.6 What Japanese games had different names in the U.K & U.S?
+
+Lots of games were reprogrammed for western releases to satisfy the growing 
+demand for new software. These changes were often more obvious then the 
+bilingual text options that were already built into some games
+(see 3.5). Sega and particularly Renovation who specialized in converting games 
+for release in the west converted the most games in this way. So far the games 
+that I know of that have different names to the Japanese releases are:-
+
+Axis FZ 			- Final Zone
+Devils Crush		- Dragons Fury
+Super Masters 		- Arnold Palmer Tournament Golf
+Volfied			- Ultimate Qix
+Final Blow			- Buster Douglas Boxing
+Shiten Myooh		- Shadow Blasters
+Runark			- Growl
+Assault Suit Leinos 	- Target Earth
+Magical Hat Adventure	- Decap attack
+Soko Ban			- Boxxle
+Wani Wani World		- Berlin wall
+Junkers High		- Outrun 2019
+Puyo puyo			- DR Robotnic's Mean Bean Machine
+Cameleon Kid		- Kid Chameleon
+
+
+3.7  What unreleased games were there?
+
+Due to the fact that the Megadrive was released in three main territories there 
+are some games that were announced for a western release but never appeared. 
+Even between the America and Europe some games were not released (see 3.8) for 
+example X-perts and Vectorman 2 were due for a European release but never 
+arrived although they were released in America.
+These are the games that to the best of my knowledge were announced but 
+never released in any area.
+
+Wacky Races
+Chaos Engine 2 
+Last Survivor (AKA Battle Isle)
+Fireteam Rogue - Interplay 
+monster hunter (Menacer game)- Sega
+Power Drift - Sega         
+zero Tolerance 2
+Zeewolf
+Dino racer
+Stephen Segal, 
+House of Fun (a license from the band Madness)
+Akira
+Shadow of Yserbius
+Interplanetary Lizards 
+Smaartvark (A.K.A Arnie the Ardvark),
+Elite (Megadrive version also contained 32X code) 
+Kartoon Kombat 
+Mall rats (based on the film).
+Four Sega VR games 
+Outlaw Racing 
+Iron Hammer
+Nuclear Rush
+Matrix Runner 
+all of which were 16 MEG cartridges. 
+
+3.8 What games were released in the U.K but not in the U.S?
+
+This section is under construction and more titles will be added, so far I know 
+of the following PAL only titles. Some of these were also released in Japan.
+Super Fantasy Zone, Alien Soldier, Megaman the Willey Wars, Wrestle War, Jimmy 
+Whites Whirlwind Snooker, Micro machines Military, Brian Lara Cricket, Brian 
+Lara Cricket 96, Super Skidmarks.
+
+3.9 what game packaging variations are there?
+
+Often due to the various different shaped cartridges made by the many companies 
+releasing games for the Megadrive this lead to a wide variety of different cases 
+for the games. One small thing to note about Japanese import games is that they 
+have no have no tags on the top to hang the games from shop racking.
+A few of the Sunsoft games were sold in mini boxes that were half the size of 
+the standard boxes, The lager companies produced their own dedicated cases and 
+carts Taito capcom and Namcot all had there name printed inside the box and on 
+the back of the carts. Card boxes were used for later releases in the US and 
+Accolade games were released in two part card boxes that the top lifted off. 
+Virtua  Racing needed a special box due to a much larger cartridge although the 
+size for the case was not changes only the cartridge holder on the inside of the 
+case. 
+
+
+---------------
+IV. Accessories
+---------------
+
+4.1  What accessories are available?
+  
+Menacer Sega's own light gun the biggest light gun ever created for a home 
+system.
+The Menacer was made up of three interchangeable sections, the main section 
+could be used as a pistol and to this a stock could be added for extra support 
+and the third section was with twin sights that clipped on to the top.
+The Menacer was powered by 6 AAA batteries and was not connected by a wire to 
+the Megadrive but by an Infra-red beam that relayed signals to a receiver box 
+that sat on top of the television. The Menacer was advertised as the most 
+accurate light gun ever. The Menacer retailed for £60.00 and came packaged with 
+a 6 game cartridge that was mostly target shooting games. The best game was 
+based on the Megadrive game Toejam & Earl which the player fired tomatoes at 
+enemies from the Toejam & Earl game.
+Only three other games were Menacer compatible T2 the arcade game, Bodycount and 
+Corpse Killer on Mega CD (there is also a 32x CD version of Corpse Killer)
+
+Arcade power stick this was Sega's own large sturdy three-button arcade style 
+joystick and was available at launch. There was adjustable speed rapid fire for 
+each button. The Japanese version and a micro-switched joystick but the U.K and 
+U.S versions used rubber contacts.
+
+Analogue control pad this was called the AX-1E controller and was a black, 
+circular shaped pad. There was an analogue sick and an analogue throttle control 
+as well as 4 independent fire buttons and a start button. 
+This controller was compatible with Afterburner II, F1 Hero and Galaxy Force II. 
+This pad was only released in Japan.
+
+Infra red control pads sold as a complete set that included a receiver box and 
+two three button controllers. These were sold as a dual format peripheral due to 
+the compatibility between Megadrive and Master System controllers.
+
+6 button joypad Sega made a 6 button joypad for use on games like Mortal Kombat 
+and Street fighter II that required more than the 3 buttons that the standard 
+Megadrive joypad had.
+Features included a rolling base to the D pad and 6 buttons there 
+is a mode button on the top right of the pad that if held down when turning on 
+the Megadrive the pad would set to a three button mode. This was needed for 
+games that were incompatible in 6 button mode I.E Forgotten Worlds, Alien3, 
+Golden Axe 2 and Decapattack.
+The mode button could also be used as an extra fire button or a select button. 
+The Japanese version of the 6 button pad was slightly smaller with a shorter 
+lead and a purple start button.
+
+Arcade Power Stick II a joystick similar design to the Arcade Power Stick except 
+with 6 buttons and a mode button.
+
+CD ROM drive (see 5.1)
+
+32 bit adapter (5.3)
+
+Activator One of the more unusual Sega add ons was this controller that was a 
+sort of virtual reality controller. The Activator had eight sides and was placed 
+flat on the floor. Infra red beams were projected up from each of the sides.
+The player stood in the middle and broke the beams at different hights and 
+combinations to produce the moves on screen. Compatible mostly with
+fighting games although a manual included in the pack displayed combinations for 
+some of the more popular Genesis titles. Only released in America.
+
+Mega modem before Sega TV and Edge 16 modems was the Mega Modem that was only 
+released in Japan in 1991. This plugged into the EXT port at the back of the 
+original Megadrive. A Sega game net was set up to use the system but was not a 
+success. The Mega modem was due for release in America under the name "Tele-
+Genesis Modem". There were three games launched with the Mega modem Cyberball by 
+Tengen and the two other games were Shikinjoh and Tel Tel Baseball both by 
+Sunsoft. One of the later released compatible titles was Advanced world war 
+simulator and all the instruction books for these games included the Mega modem 
+manual in the back section.
+ 
+Batter Up a baseball controller for use on baseball games that are popular in 
+America. Made by Sports Sciences and was only available in America. 
+
+TV Golf a Golf controller for use on  EA golf games like the PGA series the 
+controller was shaped like a golf club. A second unit plugged into the control 
+port one and was placed on the floor in-front of the player. A very expensive 
+item that sold for about £100. This was also produced by sports sciences.
+
+Master System converter (see 2.3)
+ 
+Various converters to play imported games made by third party manufacturers. 
+(see 2.1)
+
+2 button mouse made by Sega primarily for use on role playing games,
+This mouse was a standard shaped mouse with red buttons the left mouse button 
+had identifying lines on it. The most interesting feature is that this mouse can 
+double as a trackball by turning it upside down, pushing the ball acted as 
+another fire button. 
+
+Mega mouse A 3 button mouse was also released this had an extra button but could 
+not be used as a trackball and was only released in America.
+
+2 different modems for use in America. Edge 16, X band
+ 
+Sega TV Cable games adapter was created in cooperation with Time Warner and 
+Sega. The adapter was a similar shape to the Master System converter 2 except it 
+was a bit larger and had a cable TV connector on the side of the unit. You paid 
+monthly fee like a standard cable/satellite channel and selected games were 
+provided to play for a limited time. Playable previews of Games due for release 
+were also made available on the Sega TV channel. The idea behind this was to 
+promote more sales of the game on release. Games could not be saved on the 
+adapter so if you liked a game you could go and buy it. Sega TV was only 
+available in a few areas of the U.K that had cable TV although not all areas 
+that had cable were given the option of Sega TV. The service was eventually 
+stopped late 1997 after a run of a couple of years.
+ 
+Hyperscore this was a plug through cartridge for recording high scores that 
+could then be displayed on Teletext. The game Cartridges were plugged into the 
+top of the Hyper score and then the high scores were saved into it. Next there 
+was a phone number you could call and upload your score by means of a speaker on 
+the front of the Hyperscore similar to a tone dialer. All the game scores were 
+then put into a national league and the highest score won a prize. Scores could 
+be checked by going to the Hyperscore Teletext page. The Hyperscore was made and 
+marketed  by Hasbro.
+   
+Multi game selector For Genesis this was an adapter that plugged into the 
+cartridge port and had spaces for ten different games. The idea was similar to a 
+juke box so you could select to play different games easily by just pushing a 
+button. This was a third party peripheral that was only released in America.
+
+Justifier this was Konami's own gun for use on their titles. This was a more 
+standard looking light gun shaped like a revolver. For two player games the 
+second gun plugged into the bottom of the player one gun. The player one gun was 
+pale blue player two's was pink. Compatible games were Lethal Enforcers 1 and 2 
+(also the Mega CD versions) Snatcher and Corpse Killer on Mega CD (there is also 
+a 32x version of Corpse Killer)
+The Justifier was not compatible with Menacer software.
+
+Sega Powerstrip The complete Sega Megadrive set up required four power supplies 
+Megadrive, Mega CD, 32x and a television as the adapters were quite large often 
+normal extra plug extension sockets would not fit. Sega released a special 
+extension unit colored blue with red sega text printed along the top. This 
+provided 5 plug sockets. Only available in America.
+
+Miracle keyboard For Genesis this was a complete music keyboard add on for 
+learning to play the keyboard. A separate game cartridge plugged into the 
+Megadrive and contained several practice programs and games to help you learn to 
+play. This was a third party peripheral that was only released in America. Cost 
+of this peripheral was over $200 due to the size of the keyboard.
+
+
+4.2  What multi taps exist?
+
+There are two official multi tap adapters available one from Electronic Arts and 
+one from Sega, and one was a third party multi tap adapter made by Gamester.
+The E.A tap was a small adapter that plugged into both  of the joypad ports and 
+the four ports were on the front.
+The Sega multi 4-player adapter plugged into the player 2 joypad port. A lead 
+extended from the port to a small box that had four ports and a sliding selector 
+switch on the top. The selector switch had five settings 1 to 4 and Multi if you 
+were playing a 2 player game you could choose which port to use and multi 
+selected the four player mode
+five players could be used as a controller could be plugged into port one.
+Colour stickers were provided with the adapter that could be attached to each of 
+the pads to identify each players controller.
+One obvious advantage of the sega adapter was that two adapters could be used 
+for eight player games like the Japanese released J League Soccer.
+Unfortunately they were incompatible with each other Electronic arts
+Four score only worked with E.A games and the Sega multi player adapter only 
+worked with the sega games. The Gamester adapter provided the ideal solution to 
+this situation by being compatible with both multi tap standards. Later released 
+games were programmed to work with both Sega and E.A adapters.
+
+4.3  What are J-carts?
+
+J-Carts were made by Codemasters and these were cartridges with two joypad ports 
+built in. The idea being that if you brought the game you could enjoy multi 
+player games without the need for an additional multi tap. This was especially 
+useful because as there were already two incompatible multi tap's available.
+
+4.4  What are J-carts were made?
+
+Only Codemasters made J-carts the titles are as follows:-
+
+Pete Sampras tennis
+Pete Sampras tennis 96
+Micromachines 2
+Micromachines 96
+Micromachines Military
+Super Skidmarks
+At a later time some of these titles were produced on standard cartridge for a 
+lower price
+
+4.5 what cheating cartridges are available?
+
+Action Replay made and distributed by U.K company Datel who also make various 
+console peripherals. They also made a second version the Pro Action Replay 2 
+that had a built in code finder. The Action Replay could be used to play 
+Japanese import games and if the correct codes were found import games with 
+programmed protection could be played.
+
+Game Genie by Codemasters distributed in the U.K by toy manufacturer Hornby. The 
+Game Genie had a disadvantage over the Pro Action Replay and that was due to the 
+fact that the codes had to be provided by Hornby although you could create your 
+own codes it was very difficult.
+
+
+4.6  Were there any unreleased accessories?	
+
+Yes there were these are the unreleased accessories that I am aware of.
+
+Virtual reality headset that was shown with four games (see 3.6)at the 1993 
+C.E.S show in Chicago U.S.A. Sega VR (The official name) was due to go on sale 
+in America in December 1993.
+
+Graphics tablet was announced when the Megadrive was launched in Japan and it 
+suffered many delays until it was eventually cancelled. The Graphics Tablet 
+would have perhaps allowed the use of art programs and would have been 
+compatible with the 3.5 Inch disc drive. It is possible that development was 
+changed over to the Sega Pico (an educational graphics tablet).
+ 
+Keyboard and 3.5 Inch disk drive were supplementary units to the Mega Modem but 
+were cancelled due to the poor performance of the Mega Modem in Japan.
+
+Neptune a 32x and Megadrive combined similar in shape to a Megadrive 2.
+Only one non-working prototype of this is known to exist, which is only a case 
+mock up for display purposes and does not contain any working electronics.
+
+Analogue steering wheel designed by AM2 for use on Virtua Racing was also shown 
+prior to the release of the game but was never released due to the expense of 
+the wheel. It was later modifications were made the base of the wheel was 
+changed and then launched as the Saturn Arcade Racer. 
+
+Modular Cartridge containing the Sega Virtua processor as more games that used 
+the SVP chip were planned this would have reduced the cost of these games by 
+containing the SVP on the modular cartridge. The games would then plug in on top 
+containing the game data for the chip. This would have saved paying for a new 
+expensive SVP chip each time a new game came out by using this add on.
+
+-----------
+V. Upgrades
+-----------
+5.1  What is the Mega CD?
+
+The Mega CD is a CD ROM drive that plugs into the expansion port on the side of 
+the Megadrive and allows specially written CD software to be played on the 
+Megadrive. The Mega CD could also play normal music CDs both 5 and 3 inch discs 
+and could play CD+G discs. The Mega CD also improved the graphics and sound of 
+the Megadrive. There are 2 versions of the Mega CD that are technically the same 
+but with different casings. 
+The Mega CD 1 Sat underneath the Megadrive 1 and featured a motorized  
+front loading CD drive. The Mega CD 2 was released at the same time as the 
+Megadrive 2 and attached to the side of either version of the Megadrive and had 
+a top loading CD drive.
+
+5.2  What are the technical specifications of the Mega CD?
+
+Main C.P.U	      Motorola 68000 running at 12.5Mhz in parallel with the 
+                    Megadrive's C.P.U
+Graphics processor    Custom ASIC chip that could handle scaling and rotation.
+CD Drive              Single speed CD ROM with a 150 Kbytes a second data 
+transfer rate
+CD Buffer             128 K bit CD ROM data cache memory
+Sound	                Stereo P.C.M 6 channel
+                      16 Bit D/A converter
+Save memory           64 K bit back up RAM (back up RAM cartridge is also 
+available)
+Outputs               stereo phono sockets
+
+The Mega CD did not improve the colours on the Megadrive although it did allow 
+the Megadrive to display film footage F.M.V.
+
+5.3  What is the 32x? 
+
+The 32x is a 32 bit upgrade unit that plugged into the cartridge port of 
+the Megadrive. The 32x improved the graphic and audio capabilities of both the 
+Megadrive and Mega CD. Extra graphic abilities included the ability to display 
+graphics layered over standard Megadrive graphics for example on the 32x version 
+of Mortal Kombat II the backgrounds were made by the Megadrive whilst the 
+sprites were handled by the 32x. 
+The 32x could also display 50 000 texture-mapped polygons a second 
+and hardware scaling and rotation.
+
+5.4  What are the technical specifications of the 32x?
+
+C.P.U 		Two Hitachi SH2 32BIT RISC running at 23Mhz / 40 MIPS
+
+Co processor 	A new 32x VDP works with the Megadrive's 68000 and Z80
+
+Palette		32,768 simultaneous colours
+
+Memory		4 MBIT RAM in addition to the Megadrive and Mega CD
+
+sound		Digital stereo PCM, programmable sample rates, audio mixing
+                with Megadrive sound.
+
+5.5 Is it possible to play import 32X games on a U.K 32X?
+
+It is not possible to play Japanese or American imports on a U.K 32X due to the 
+poor sales of the 32X no converters were produced. If you have a switched 
+(50/60hz) Megadrive though an American 32X will work. This is the only way to 
+play import 32X games. 
+
+----------
+VI. Trivia
+----------
+
+* DR Robotnic's Mean Bean Machine was originally a Japanese game called Puyo 
+Puyo from Compile. The puzzle section remains the same but the cinemas feature 
+DR. Robotnic trying to take over Sonics world. This was done to make the game 
+more appealing to the western audiences.
+
+* Zero Tolerance is a Doom style corridor shooter that has the ability 
+to link up 2 Megadrive's and 2 televisions like the link mode seen in some 
+Playstation games. The link lead was received through a mail in voucher that was 
+packaged with the game. The link lead plugged into each of the second joypad 
+ports and was similar to a joypad extension lead.
+
+* The main bad enemy character in Sonic the Hedgehog Dr. Robotnic is known as 
+Dr. Eggman in Japan.
+
+* There are 2 versions of Klax available for the Megadrive one is made by Namcot 
+for Japanese release. The second version was made by Tengen for the western 
+release. In my opinion the Tengen version is the better.
+
+* Some of the best music ever produced for the Megadrive as heard in The 
+Revenge of Shinobi and streets of rage was created by a top Japanese musician 
+Yuzo Koshiro he actually had a Megadrive sound chip built into his recording 
+studio. Music CDs could also be brought in Japan with his 
+Megadrive music re-mixed.
+
+* Joe Montanna American Football II was the first game ever to feature a full 
+running commentary as heard in a lot of sport CD games today. This was 
+revolutionary advance in game sound and was even featured on a U.K science and 
+technology program (Tomorrows World). There was also a Sportstalk baseball 
+released in the US.
+
+* Sega's Sonic license was taken into new territory with a Sonic fruit machine 
+this licensed gambling machine was released through Deith Leisure a subsidiary 
+of Sega Europe who also run Sega's arcade machine business in the U.K.
+  
+* Virtua racing caused an interesting problem for some people with cordless 
+phones, the frequency of the SVP chip was picked up by the phones and they would 
+ring.
+
+* The rarest Megadrive game ever released was the original Phantasy Star. There 
+were only ever 1000 of these ever made and it was exclusively sold in Japan. The 
+game was a straight port of the Master System version with no improvements as it 
+ran on the Megadrive's internal Master System chip.
+
+
+THANKS & SEE YOU IN THE NEXT UPDATE.
+[END OF TEXT]
+
+
+

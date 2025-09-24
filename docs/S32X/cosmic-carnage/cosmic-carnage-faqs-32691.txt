@@ -1,0 +1,534 @@
+<->COSMIC CARNAGE<->
+System: Genesis/32X
+
+By:     DEATHSCHILD, darpeigh@aol.com
+
+_____________________________________________
+
+                               "DISCLAIMER"
+
+This 'FAQ' is for personal and private use only and not for promotional or
+profitable perposes. No portions or parts of this 'FAQ' may be changed,
+altered, displayed or reprinted in any Magazine's, Websites or Anywhere
+else without consent from the Author.
+
+___________________________________________________________________________
+
+ -Appendix-
+
+1) Story
+2) Control
+   -Pad Layout
+   -Key
+   -Button Layout
+   -Crawl
+3) Getting Started
+   -Options Screen
+    -Difficulty
+    -Time Up
+    -Music/Sound FX
+    -Controller Configuration
+   -Select Fighter
+   -Select Armor
+4) The Fighters
+   -Renegades
+    -Notes
+     -TALMAC
+     -NAJA
+     -YUG
+     -DEAMON
+   -Soldiers
+    -Notes
+     -TYR
+     -NARUTO
+     -CYLIC
+     -ZENA-LAN
+5) Fatalities
+6) Combos
+7) Cyber Brawl?
+   -Code
+8) History
+9) Copyright
+   -Credits
+
+____________________________________________________________________________
+
+1) STORY
+
+                       ONLY THE STRONGEST SURVIVE
+
+In a frantic attempt to escape a lifetime of hard labor on an intersteller
+mining project, a shipload of criminals have hijacked their prison barge
+and used it to ram a military cruiser. The damage was extensive-only four
+members of each ship survived.
+The prison barge is completely useless. Power and life support on the
+military cruiser are fading fast, and all the escape pods have been
+destroyed, except one... and that pod has only room for one passenger.
+Eight beings from eight different worlds, either criminals or
+professional soldiers, are all desperate to survive. There is only one way
+to determine who will escape and live, and who will die.
+
+Your life depends on it.
+
+____________________________________________________________________________
+
+2) CONTROL
+
+-Pad Layout
+Listed below are the eight basic D-Pad positions used in the game. These
+positions are for when a character is facing RIGHT. Reverse the positions
+for when a character is facing Left.
+
+
+UB - U - UF                   (Z)
+  \  |  /               (Y)
+B -  N  - F  (-)  (X)            (C)
+  /  |  \                  (B)
+DB - D - DF          (A)
+
+
+ [KEY]
+
+UB = Up-Back
+U  = Up
+UF = Up-Forward
+B  = Back
+N  = Neutral
+F  = Forward
+DB = Down-Back
+D  = Down
+DF = Down-Forward
+
+
+-Button Layout
+Listed below is the default 6-Button Arcade Pad set-up.
+
+   (X) - Light Punch
+   (Y) - Light Kick
+   (Z) - Provoke 1
+   (-) - Start
+   (A) - Fierce Punch
+   (B) - Fierce Kick
+   (C) - Provoke 2
+
+Note to 3-Button Control Pad Users:
+The default functions of Buttons (A), (B) and (C) are the Fierce Punch,
+Fierce Kick and Provoke 2, but the type of attack produced depends on
+the speed at which the button is PRESSED. 'TAP' either (A), (B) or (C)
+Button quickly for a Light Attack. 'PRESS' either (A), (B) or (C)
+Button for a Fierce Attack.
+
+-Crawl
+Every character in Cosmic Carnage is able to 'crawl' or crabwalk (as some
+like to call it). To Crawl in Cosmic Carnage Press and Hold the D-Pad
+either Down Back or Down Forward.
+
+____________________________________________________________________________
+
+3) GETTING STARTED
+Following the SEGA logo is a breif game introduction, then the Title
+screen appears. Press Start at any time to bring up the Game Menu.
+
+-OPTIONS-
+Select OPTIONS and press Start to bring up the Option menu. Highlight an
+option by pressing the D-Pad up or down, and change features within a
+highlighted option by pressing left or right, or select EXIT and press
+any button.
+
+-Difficulty: How tough do you want your opponents in the One Player game?
+Level 1 is the easiest and level 5 is the hardest.
+
+-Time Up: This sets a time limit on your battle. Turn this feature off
+for an unlimited time match.
+
+-Music/Sound FX Test: Use these features to play the background music and
+the sound effects used in the game. Press the D-Pad left or right to
+select the number of the track you wish to play, and press Button A, B,
+C, X, Y or Z to play the music or sound effect.
+
+-Controller Configuration: Customize the fuctions of the buttons on your
+Control Pad. Select this feature and press Button A, B, C, X, Y or Z.
+When the Configuration screen appears, press the D-Pad up or down to
+highlight the desired function, then press the button you would like to
+use for that function. To return to the Options screen, press Start, or
+select EXIT and press any button.
+
+-SELECT FIGHTER-
+When you select a game and press Start, the Player Select screen appears.
+Use the D-Pad to highlight the desired fighter, and press Start. In a One
+Player game, the computer randomly chooses an opponent once you've chosen
+a fighter. In a Two Player game, both players must select a fighter and
+press Start to proceed to the next screen.
+
+-SELECT your ARMOR-
+The Parts Select screen appears next. If you chose one of the soldiers
+(Tye, Naruto, Cylic or Zena-Lan), you select the armor you want your
+fighter to wear. Press the D-Pad up or down to select the armor category
+and press left or right to choose within that category. The special
+attacks you can use depend on the armor your fighter is wearing. If you've
+choosen one of the fugitives from the barge, the screen shows that no
+armor is available. In a One Player game, the computer automatically
+selects armor (if available) for your opponent. Press Start to begin your
+match.
+
+____________________________________________________________________________
+
+4) The FIGHTERS
+Those who wear armor have two types of special attacks: one for light
+armor and one for heavy armor. The type of attack you can do depends on the
+part your fighter uses to attack (arms, legs or body) and the type of armor
+on that part.
+All instructions are for when a character is facing RIGHT & with the
+'Default 6-button'. Reverse the method for when a character is facing Left.
+
+After the motions for the Special-Moves will be a small description (which
+will be in "Quotation Marks"). This description will tell you if you can do
+this move while in the Air/Jumping or whether or not it's an Air-Throw.
+
+-Notes
+The 4 Renegades (Talmac, Yug, Naja and Deamon) do not have the option
+of selecting between Light & Heavy armor.
+This can also be considered an 'Advantage' for them.. because they will
+not lose any of their Special-Attacks as is the case with the Soldiers.
+
+
+ TALMAC:
+
+This tall, dark and sinister fugitive uses razor claws, has lightning
+reflexes and powerful punches to hold his own in the arena. No one is
+sure whether he is wearing a mask, or if that is his real face. No one
+has gotten close enough to find out. Talmac does not use armor.
+
+-Gale Wall: Press D, DB, B + (X) or (A). (reverses projectiles)
+
+-Gale Wave: Press F, B, F + (X) or (A).
+
+-Pile Dragon: Press F, D, DF + (X) or (A).
+
+-Gale Arrow: Press and hold B, then F + (X) or (A).
+========
+ NAJA:
+
+To defeat this serpintine siren, you must steer clear of her tail, a
+weapon she uses as a battering ram, whip or vice. Naja doesn't need any
+armor.
+
+-Back Whip: Press and hold D, then U + (Y) or (B).
+
+-Winder Rush: Press D, DB, B + (X) or (A). "Can perform
+              this move while jumping"
+
+-Tail Squeeze: contact your opponent and press (Y) or (B).
+========
+ YUG:
+
+This gorilla-like humanoid relies almost entirely on his long, powerful
+arms to deliver punishing hammer blows, bone-crushing holds and
+devastating throws. He has a very long reach. Yug's armor is built in,
+so he does not use additional armor.
+
+-Spinning Double Strike: Press F, FD, D, DB, B + (X) or (A) twice.
+
+-Blaze Hold: Press D, DF, F + (X) or (A).
+
+-Strangle Hold: Grab your opponent with the Blaze Hold.. Then press and
+                hold U + (X) or (A) repeatedly. This must be
+                done quickly or Yug will not perform the move.
+
+-Wheel Press: Grab your opponent with the Blaze Hold.. Then
+              Press U, UF, F, FD, D + (X) or (A).
+
+
+-Rolling Gangbuster: Grab your opponent with the Blaze Hold.. Then
+                     Press B, F + (X) or (A).
+
+========
+ DEAMON:
+
+Deamon is as vicious as he is ugly, and he enjoys using his natural
+weapons to their best advantage. His long claws can tear an opponent to
+bloody shreds, and that scorpion stinger attached to the back of his
+isn't just for show. Deamon does not use armor.
+
+-Whirling Thrasher: Press F, F + (X) or (A), then (Y) or (B).
+
+-Hammerhead Whip: Press B, D, U + (X) or (A).
+
+-Rolling Claw: contact your opponent and press (X) or (A).
+
+____________________
+
+-Notes
+The Soldiers are already equiped wearing 'Light Armor'. You have the
+option to equip them with 'Heavy Armor'. The Heavy Armor will make your
+Soldier move Slower and will cut their Jumping in half.
+Also keep in mind that when a Certain Armor part gets knocked off,
+you will lose the move which pertained to that part of the body.
+Before I forget, moves that are 'Both Armor Styles' can be performed
+both with or without Armor.
+
+The 'Layout' for the Soldiers is going to be a little different in
+that you'll see a letter following the name of the Special-Move.
+This letter will let you know which body armor part you'll need to
+perform that Special-Move.
+
+[KEY]
+
+<A> = Arms
+<B> = Body
+<L> = Legs
+
+The chart below is how the Layout is going to look for the Soldiers.
+An example is given with 1 of 'Cylics' Special-Moves:
+
+
+      (Body Armor needed to perform Special-Move)
+                        _/
+                       | |
+  "Machine Gun Knuckle <A>: F, D, DF + (X) or (A)."
+  |___________________|    |_____________________|
+               \                        \
+     (name of Special-Move)              \
+                               (motion for Special-Move)
+
+
+ TYR:
+
+A master designer of weapons and bodysuits, Tyr has saved the best
+designs for himself. He uses the weight and power of his armor to support
+devastating charges and body slams. His drop throws are lethal.
+
+"Light Armor Only"
+
+-Atomic Hammer <A>: Press F, DF, D + (X) or (A) for a front attack
+                    or (Y) or (B) for a rear attack.
+
+-Dash Hurdler <L>: Press and hold B, then F + (Y) or (B). "Can perform
+                   this move while jumping"
+
+-Breast Charger <B>: Press and hold B, then F + (C) or (Z).
+
+"Heavy Armor Only"
+
+-Mega Buster Drop <A>: While in midair, press B + (X) or (A)
+                       simultaneously. "Air-Throw"
+
+-Mega Cyclone Wrecker <K>: Press and hold B, then F + (Y) or (B).
+
+-Mega Cannon <B>: Press and hold B, then F + (C) or (Z).
+
+"Both Armor Styles"
+
+-Super Press: Press D, DF, UF + (X) or (A).
+
+-Tornado: Press B, DB + (Y) or (B). "DODGE attacks"
+
+-Super Whip: Press B, F + (A).
+========
+ NARUTO:
+
+Elbow blades and a long sword give Naruto a long, sharp reach. He is
+especially proficient at aerial maneuvers and martial arts moves.
+
+"Light Armor Only"
+
+-Naruto Slice <A>: Press F, DF, D, F + (X) or (A).
+
+-Spinning Kick <L>: Press D, DF, F + (Y) or (B). "Can perform this
+                    move while jumping"
+
+-Whirlwind Kick <B>: Press D, DF, UF then Button (C) or (Z).
+
+"Heavy Armor Only"
+
+-Spinning Double Slice <A>: Press F, D, DF + (X) or (A).
+
+-Whilwind Blast Kick <L>: Press B, DB, D, DF, F + (Y) or (B). "Can
+                          perform this move while jumping"
+
+-Double Hammer Blast <B>: F, B, F + (C) or (Z).
+
+"Both Armor Styles"
+
+-Dash: Press the D-Pad "TWICE" in the direction you want to dash. "Can
+         be performed while jumping in ALL 8 D-Pad directions"
+
+-Drop Throw: Contact opponent and press B or F + (X) or (A).
+             "This move is an Air-Throw"
+========
+ CYLIC:
+
+An entomologist's worst nightmare, this fighter is fast and agile, with a
+number of projectile attacks that allow him to wreak havoc from a distance.
+
+"Light Armor Only"
+
+-Energy Smasher <A>: Press D, DF, F + (X) or (A).
+
+-Gravitation Crush <L>: While in midair (next to your opponent), press
+                    B or F + (Y) or (B).
+
+-Energy Blast <B>: Press D, DF, F + (C) or (Z).
+
+"Heavy Armor Only"
+
+-Machine Gun Knuckle <A>: Press F, D, DF + (X) or (A).
+
+-Energy Thunder <L>: Press (Y) or (B) repeatedly.
+
+-Granade Attack <B>: Press and hold B, then F + (C) or (Z).
+
+"Both Armor Styles"
+
+-Double Needle Kick: Press F, D, U + (Y) or (B).
+
+-Neck Throw: Contact opponent, then press B or F + (X) or (A).
+========
+ ZENA-LAN:
+This fiery fighter has a number of electrifying moves at her command.
+Speed and agility are her greatest assets.
+
+"Light Armor Only"
+
+-Fury Punch <A>: Press (X) or (A) repeatedly.
+
+-Bloody Spiral <L>: Press B, B, F + (Y) or (B).
+
+-Riding Crusher <B>: While in midair, press B or F + (Y) or (B).
+                     "This move is an Air-Throw"
+
+"Heavy Armor Only"
+
+-Lightning Ring <A>: Press (X) or (A) repeatedly.
+
+-Knee Blas <L>: Press D, DF, UF + (Y) or (B).
+
+-Blazing Charge <B>: Press F, F + (C) or (Z).
+
+"Both Armor Styles"
+
+-Flying Lariat: Press B, DB, D, DF, F + (X) or (A).
+
+____________________________________________________________________________
+
+5) FATALITIES
+
+The Fatalities in Cosmic Carnage are simple and are identicle for every
+character in how you perform/execute them and what happens to either you
+or your foe. You must finish/beat your opponent on the Final Round using
+a Special-Attack (its that simple), Special-Throws will not count as a
+Fatality. It doesn't matter which Special-Attack you use or if you/they
+are in the Air or on the Ground. If you or your opponent are blocking and
+get Knocked Out in the final round then a Fatality will not happen. 1 of
+3 things will happen to either you or your opponent:
+
+1) - Your/Their 'Head' will explode.
+
+2) - Your/Their 'Arms' will be cut off.
+
+3) - You'll/They'll be 'Cut in Half' at the waist.
+
+____________________________________________________________________________
+
+6) COMBOS
+
+As awkward? alright "BAD"... as the control in Cosmic Carnage is, there
+are many decent Combos....for Certain Characters at least:
+
+[Talmac]
+2 Hits - Crouching (X), Gale Wall
+3 Hits - Jump-In (B), crouching (B)
+3 Hits - Jump-In (B), crouching (X), Gale Wall
+
+[Naga]
+2 Hits - Jump-In (B), crouching (B)
+
+[Yug]
+2 Hits - Standing (A), Blaze Hold + Wheel Press
+3 Hits - Standing (A), Spinning Double Striker
+3 Hits - Jump-In (A), standing (A), Blaze Hold + Strangle Hold
+4 Hits - Jump-In (A), standing (A), Spinning Double Strike
+
+[Deamon]
+3 Hits - Jump-In (B), Whirling Thrasher
+________
+
+[Tyr]
+2 Hits - Jump-In (B), crouching (B)
+
+[Naruto]
+3 Hits - Crouching (B), Naruto Slice
+3 Hits - Crouching (A), Spinning Double Slice
+5 Hits - Crouching (B), Spinning Kick
+
+[Cylic]
+2 Hits - Standing (A), Machine Gun Knuckle
+2 Hits - Standing (A), Granade Attack
+
+[Zena-Lan]
+2 Hits - Standing (A), Blazing Charge
+3 Hits - Jump-In (B), standing (A), Blazing Charge
+
+-Notes
+As you know after playing Cosmic Carnage the Control is EXTREMELY Picky.
+The combos do WORK, you just have to get familiarized with the 'Timing' of
+your normal attacks.
+
+____________________________________________________________________________
+
+7) CYBER BRAWL
+
+In Japan Cosmic Carnage is known as Cyber Brawl. In Cyber Brawl three of
+the four soldiers were Human, while the same four soldiers were changed
+or illustrated differently for Cosmic Carnage to look like Aliens/Freaks.
+Mortal Kombat was highly ripped on by several organizations for it's
+fatality moves which these groups considered 'Barbaric' and 'InHumane'.
+By doing this form of Censoring you're not doing these fatality moves to
+a Human, you're just doing it to an Alien. Something they forgot to change
+is the 'Blood' color, While the YUG's Blood is a yellow-brown hue the
+Soldier's Blood is...you guessed it....RED.
+Sega most likely Re-illustrated the Soldiers because when they get their
+Armor knocked off they're pretty much in their underwear, and you know how
+'some' people feel about that. I don't know? That's just my 2-cents.
+
+CYBER BRAWL Code:
+
+Before turning on your 32X, hold buttons X, B & Z, then press the Start
+button at the introduction.
+
+-Note: You'll need a 6-Button controller for this code to work.
+
+____________________________________________________________________________
+
+8) HISTORY
+
+05/21/04 - Started layout for 'CC' FAQ.
+05/28/04 - Confirmed Special-Move motions.
+05/28/04 - Added 'Crawl' section.
+05/30/04 - Added Cyber Brawl code.
+06/01/04 - Added Renegades, Soldiers & Notes section/s.
+06/02/04 - Altered FAQ & added Combo section.
+06/09/04 - Reconfigured FAQ layout.
+06/11/04 - Checked FAQ ????.
+09/28/04 - Added what can be done in the "Air" and what not.
+____________________________________________________________________________
+
+9) COPYRIGHT info.
+
+SEGA, Genesis, 32X and Cosmic Carnage are TradeMarks of SEGA.
+(c)1994 SEGA, P.O. Box 8097, Redwood City, CA 94063.
+All rights reserved.
+
+
+-Credits
+
+Sega, for making this game & the 32X hardware.
+YOU, for reading this FAQ.
+
+GAMEFAN & GAMERS' REPUBLIC magazine's (R.I.P).......
+
+
+ COPYRIGHT(c) Anthony G.
+
+
+

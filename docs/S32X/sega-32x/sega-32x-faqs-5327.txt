@@ -1,0 +1,514 @@
+
+                      The Sega 32X Mars
+ 			Frequently Asked Questions			 
+		     Version X.04 - December 1998	 
+
+-----------------------------------------------------------------------
+This F.A.Q. is based on the Saturn/32x made by Gordon Craick.
+Since it wasn't updated since December 1994, i said to myself "It's 
+time to do a real update and how !!!" Don't you agree ?? 
+
+This F.A.Q. as two copyrights, one to Gordon Craick and the other to
+Sylvain De Chantal. All rights reserved. This document may be copied, 
+in whole or in part, by any means provided the copyright and sections 
+remain intact and no fee is charged for the information. Contributors
+retain the copyright to their individual contributions.
+
+The data contained here in is provided for informational purposes only.
+No warranty is made with regards to the accuracy of some informations.
+-----------------------------------------------------------------------
+Additional contributions IS welcome!  
+Please mail additional information,
+opinions, and comments to : mailto --> "slydc@hotmail.com"
+                                or --> "slydc@videotron.ca"
+
+Where to get this F.A.Q.:
+
+Try - GameFaqs.Com at "http://www.gamefaqs.com/"
+    - my Home Page at "http://www.chez.com/slydc/"
+    - Digital Press "http://www.digitpress.com/"
+    - Sega Sages "http://www.segasages.com/"
+    - SegaNet "http://www.seganet.com"
+
+or sometimes on the newsgroup "rec.games.video.classic"
+                          and "rec.games.video.sega"
+                         
+------------------------------------------------------------------------
+
+              Welcome to the Sega 32x Mars F.A.Q. 
+
+                      TABLE OF CONTENTS
+                     -------------------
+              
+              0.0) New Additional Info           
+              1.0) The 32x Mars
+              1.5) History of the 32X Mars
+              2.0) 32x specs
+              2.5) The 32X Neptune System
+              3.0) The 32x in other Countrys
+              3.5) CARTRIDGES & CD'S LIST 
+              3.6) Japanese Games List
+              4.0) Never Released Games List
+              4.5) More Inputs
+              5.0) Credits
+
+------------------------------------------------------------------------
+
+0.0) New Additional Info
+------------------------
+
+** Jonathan Legg wrote the European cartridge list **
+
+** Chaz Bocock for describing 2 proto games **
+
+** A suggestion from Jon Folkers... *** 
+
+** Sean Kelly about prototypes games **
+
+------------------------------------------------------------------------
+
+1.0) So what is the 32X?
+------------------------
+
+The 32X was released in late November 1994 in the United States, with
+releases in other countries following in the coming months. What the
+32X is an addon for existing Genesis/Megadrive owners, which, when
+plugged into the cartridge port of the machine, provides extra proces-
+sing power, graphical enhancement and other improvements over your old 
+machine. 
+
+The 32X is a cartridge and CD's based system, and is not be upgradeable 
+to the Saturn(which was first planned with the Jupiter). The 32X also 
+include less of the specially designed processors than the Saturn, 
+allowing it to be released at a very much cheaper price.
+
+For those who own a SegaCD the 32X will take advantage of this to 
+provide 32X CD games. If you have a SegaCD it will use the extra capa-
+bilities of the machine, in addition to that of the Genesis and itself. 
+The reason for this seems to be so that Sega can boost sales of the
+SegaCD, while also cutting prices on the 32X by not having to include
+a CD-drive. 
+
+How did this come about? Most believe that Sega initially was at work
+on a cartridge only machine, however due to the market pressure of CD
+becoming standard, Sega was persuaded to integrate CD storage into
+their machine. Rather than waste this technology, they opted to use 
+some of the technology in a cheaper, less powerful console that could
+remain competitive for several years, well at least for three years...
+
+------------------------------------------------------------------------
+
+1.5) History of the 32X Mars: (by Barry Cantin)
+-----------------------------------------------
+The Sega 32X was designed during 1993-94 by Sega of America primarily 
+for use in the North American and European markets. The Japanese were 
+about to get the Sega Saturn 32-bit system, and Sega felt (wisely) that 
+there wasn't enough room in the Japanese video game market for two Sega 
+32-bit systems. So, the system was developed in the U.S. with some 
+follow-up work done in Japan. The Sega 32X unit was unveiled during 
+"Sega Gamer's Day", June 2, 1994, at Sega's Headquarters in San Francisco.
+Sega showed demos of early 32X titles, including "Doom", "Star Wars 
+Arcade", "Ecco the Dolphin", "Super Motocross", "Virtua Racing Deluxe", 
+"Super After Burner", and "Fahrenheit"(on CD). (Note that Ecco 32X was 
+never released)
+
+November, 1994 - Sega of America released the 32X unit. SRP was $159.99, 
+and did not include a pack-in. On the day of the system's launch, no 
+titles were available, either.  A few days later, Sega released "Doom", 
+"Star Wars Arcade", and "Virtua Racing Deluxe". Shortly after that two 
+additional titles made it to store shelves: "Cosmic Carnage" and "Metal 
+Head".
+
+The Sega 32X was released in Europe as well, and in Japan as the "Super 
+32X" for use with the Mega Drive systems. The design was essentially the 
+same for all three types of machines. Although there was talk of a combo 
+Genesis/32X machine to be released in Japan, it never materialized.
+
+Blockbuster Video stores also began to carry the 32X and games for rental.  
+Some hype was generated at these stores with a free rental of a 32X 
+"preview" video in the months leading up to the unit's release.
+Several third-party developers were brought on board to create 32X games, 
+including Acclaim, Accolade, Activision, Core Design, and EA Sports.  
+Thirty-six games were eventually released for the system, including five 
+CD titles, from 1994-96.  The majority of those games were from Sega.
+The Sega 32X was sold initially with no pack-in, but later releases 
+included three different titles:
+
+1995: Star Wars pack-in 
+1995: Doom pack-in
+1996: Virtua Fighter pack-in
+
+The 32X saw decent sales for a relatively brief period of time; however, 
+many people did not want to buy the system with Sega's upcoming Saturn 
+system just over the horizon.  Sega insisted that they would continue 
+to support the 32X even after the Saturn was released in 1995. The 32X 
+underwent several price cuts from 1995-96, in an attempt to boost sagging 
+32X unit sales.  Several hits were released for the 32X, including 
+"Mortal Kombat 2" and "Virtua Fighter"(which was preceded by the "Virtua 
+Fighter Training Pack", consisting of a VF T-shirt, a video tape with 
+some VF info/strategies, and coupons toward its purchase). Still, the 
+public saw the Saturn as Sega's true next-gen system, and began aban-
+doning the 32X pretty quickly. The last title to be released for the 
+32X was "Spiderman: Web of Fire" (Sega), in spring 1996.
+
+In 1996, Sega discontinued support for the 32X in favor of the Saturn.  
+This was not a great shock to anyone, since the number of titles had 
+slowed to a trickle earlier that year. During late 1996-1997, several 
+large chain stores including Toys R Us and Electronics Boutique started 
+discounting the 32X system as low as $19.99 (base system). Most of the 
+games had also been discounted to less than $20 each.
+
+
+------------------------------------------------------------------------
+
+2.0)  The 32x Specifications:
+-----------------------------
+
+   PROCESSOR: Twin Hitachi (SH2) 32 bit RISC processors
+		      - clock speed of 23 MHZ
+		      - 40 MIPS
+
+   CO-PROCESSOR(s): Genesis 68000, Z80, Genesis 32X VDP
+		    Video processor
+		      - 50,000 texture-mapped polygons/sec
+		      - texture mapping
+		      - hardware scaling and rotation
+
+   VIDEO: - 32,768 simultaneous colours on screen
+	  - Genesis resolution
+	  - Overlaying over existing Genesis/SegaCD video
+
+   MEMORY: 512k (4 MBit) additional RAM to Genesis/SegaCD memory
+
+   AUDIO: Stereo PCM chip
+	      - audio mixing with Genesis sound
+	      - additional 2 channels (therefore 14 all together?)
+
+   I/O: Same as Genesis
+	   - 32X upgradable; can upgrade the 32X
+
+   STORAGE: CD-ROM if you have a SegaCD
+	       - speed same as SegaCD
+	       - compatible with audio CD, CD&G, SegaCD and JVC X'eye
+
+	    Cartridge
+	       - compatible with Genesis model 1 & 2, JVC X'eye
+	       - can store save game/score information (as with many
+		 Genesis games)
+
+------------------------------------------------------------------------
+
+2.5) The 32X Neptune System:
+----------------------------
+
+Sega's decision to lunch a mutated 32X/Genesis had almost seen the day,
+but was canceled with the arrival of another 32-bit system: the Sega 
+Saturn! Sega had admitted that the 32X was a little too expensive at the
+time so the idea of putting a 32X & a Genesis alltogether and releasing
+it with a better price was their idea, well the idea vanished faster than
+the speed of light.
+
+so if somebody out there wants a Sega Neptune, you better be damn rich
+since it only exist one prototype. Better yet, don't think about it...
+
+If anybody wants to see a picture of the Neptune, please go to my web 
+site at: "http://slydc.encomix.es/32x.htm", Thanks!!
+
+------------------------------------------------------------------------
+
+3.0) The 32x in other Countrys:
+-------------------------------
+
+The 32X was released in Japan in a low key launch, even despite the 
+Genesis relative lack of popularity in that country. The 32X is also 
+available in Europe (aka Mega 32X), Australia, and Canada in limited 
+numbers. It was also released in Japan (called the Super 32X) with 
+very few games due to lack of popularity of the Megadrive console. 
+Any more info anyone ???
+
+The lockout chips/compatability for the European, North American, and 
+Asian machines remains incompatible with each other respectively. 
+These machines will a combination of hardware 'lock-key' mechanisms to
+prevent uncontrolled importing. These may eventually be circumnavigated 
+through the use of converters, as used in the past by some companies. 
+
+Here are the 2 games European-only:
+-----------------------------------
+* Darxide (Shooter) [from Rocket Science]
+* FIFA Soccer '96 (Sports) [from Electronics Arts]
+
+ 
+------------------------------------------------------------------------
+
+3.5) The CARTRIDGES & CD'S LIST :
+---------------------------------
+
+Name				        MemSize   Manufacturer      Type
+========================================================================
+After Burner                     16Meg    Sega	            Shooter
+B.C. Racers	      		   24Meg    Core Design	      Racing
+Blackthorne                        Meg    Sega              Adventure
+Brutal:Paws Unleashed              Meg    Gametek           Fighting
+Corpse Killer CD                 -----    Digital Picture   Shooter
+Cosmic Carnage 			   24Meg    Sega		      Fighting
+Doom 				         24Meg    ID Software	      Shooter
+Farenheight CD (+ Sega CD)       -----    Sega              Action
+Golf Magazine:36 Great Holes	   24Meg	Sega	            Sports 
+Kolibri				     Meg  	Sega	       	Shooter
+Knuckle Chaotix                  24Meg    Sega              Action 
+Metal Head                         Meg    Sega    		Action
+Mortal Kombat 2			     Meg    Acclaim	      Fighting
+Motocross Championship           16Meg    Sega	      	Racing
+NBA Jam TE				     Meg	Acclaim           Sports
+NFL Quaterback Club                Meg    Acclaim		Sports
+Night Trap CD                    -----    Digital Picture   Adventure
+Pitfall:the Mayan Adventure      32Meg    Activision        Action   
+Primal Rage                      32Meg    Sega              Fighting
+RBI Baseball '95                 16Meg    Time Warner       Sports
+Shadow Squadron                  16Meg    Sega              Shooter
+Slam City CD			   -----	Digital Picture	Sports
+Space Harrier     		   24Meg   	Sega	            Shooter
+Spiderman: Web of Fire		     Meg   	Sega	      	Action
+Star Trek:Starfleet Academy        Meg    Sega              Simulation
+Star Wars Arcade 		         24Meg    Sega	            Shooter
+Supreme Warrior CD		   -----  	Digital Picture	Shooter
+T-Mek                              Meg    Sega              Fighting
+Tempo                            24Meg    Sega              Action
+Toughman Contest Boxing          32Meg    Electronic Arts   Sports
+Virtua Fighter			   32Meg 	Sega	            Fighting
+Virtua Racing Deluxe 		   24Meg 	Sega              Racing
+World Series Baseball '95          Meg    Sega              Sports
+WWF Raw				     Meg	Acclaim           Sports
+WWF Wrestlemania Arcade		     Meg	Acclaim           Sports
+Zaxxon Motherbase 2000           16Meg    Sega              Shooter      
+
+
+------------------------------------------------------------------------
+
+3.6) Japanese Games List [the Super 32X]
+----------------------------------------
+Japanese Name [AKA in the US]            Manufacturer  Type      Date
+=========================================================================
+After Burner Complete                         Sega     Shooter   '95.1.13
+Chaotix[Knuckle Chaotix]                      Sega     Action    '95.4.21
+Cyber Brawl[Cosmic Carnage]                   Sega     Fighting  '95.1.27
+Doom                                          ID       Shooter   '94.12.3
+Golf Magazine:36 Great Holes                  Sega     Sports    '95.2.24
+Metal Head                                    Sega     Action    '95.2.24
+Mortal Kombat 2                               Acclaim  Fighting  '95.5.19
+NBA Jam TE                                    Acclaim  Sports    '95.9.1
+NFL Quaterback Club                           Acclaim  Sports    '95.7.14
+Parasquad[Zaxxon Motherbase 2000]             Sega     Shooter   '95.7.14  
+Sangokushi 4[Romance of the Three Kingdoms 4] Koei     Strategy  '95.7.28
+Stellar Assault[Shadow Squadron]              Sega     Shooter   '95.5.26
+Space Harrier                                 Sega     Shooter   '94.12.3
+Star Wars Arcade                              Sega     Shooter   '94.12.3
+Tempo                                         Sega     Action    '95.3.24
+Virtua Fighter                                Sega     Fighting  '95.10.20
+Virtua Racing Deluxe                          Sega     Racing    '94.12.16
+WWF Raw                                       Acclaim  Sports    '95.9.1
+
+
+------------------------------------------------------------------------
+
+3.7) European Games List [the Mega 32X]
+----------------------------------------
+Name				                              Manufacturer       
+=========================================================================
+32 Great Holes starring Fred Couples			Sega
+After Burner							Sega
+BC Racers							      Core
+Corpse Killer [Mega CD/32X]					Sega
+Cosmic Carnage					       	Sega
+Darxide						      	Sega
+Doom							      	id / Sega
+FIFA 96						       	EA Sports
+Knuckles Chaotix					      	Sega
+Kolibri						      	Sega
+Metal Head						      	Sega
+Mortal Kombat 2					      	Acclaim
+Motocross Championship				       	Sega
+NBA Jam Tournament Edition					Acclaim
+NFL Quarterback Club						Acclaim
+Primal Rage						        	Sega
+Slam City with Scottie Pippen [Mega-CD/32X]		Digital Pictures
+Soul Star X [Mega CD/32X]					Sega
+Space Harrier							Sega
+Star Wars Arcade					      	Sega
+Stellar Assault				       		Sega
+Supreme Warrior [Mega CD/32X]		       		Sega
+T-Mek						        		Sega
+Toughman Contest				       		EA Sports
+Virtua Fighter				      		Sega
+Virtua Racing Deluxe						Sega
+WWF Raw					      		Acclaim
+Zaxxon Motherbase				      		Sega
+
+
+
+------------------------------------------------------------------------
+
+4.0) The Never Released Games List:
+-----------------------------------
+
+Never Released (???)                      Manufacturer      Type
+------------------------------------------------------------------------
+32Xtreme				            Sega	      	Sports
+Alien Trilogy                             Acclaim           Shooter
+Alien vs. Predator                        Activision        Action
+Alone in the Dark                                           Adventure                                       
+Apache                                    Domark            Action
+Batman Forever                            Acclaim           Action
+Bios Fear                                 
+Clay Fighter 2:Judgement Clay             Interplay         Fighting
+Casper                                                      Action
+Castlevania                               Konami            Action
+College Basketball                        Sega              Sports
+Comix Zone                                Sega              Action
+Converve City Ball Tour                                     Sports
+Converse Hoops                            Virgin            Sports
+Cyber Brawl                               Sega(renamed cosmic carnage)
+Cuberwar                                                    Action
+Darxide (U.S. version)		         	Sega	      	Action
+Daytona USA                               Sega              Racing
+Descent                   
+Dracula X                                 Konami            Action
+Dynamite Headdy                           Sega              Action
+Ecco the Dolphin                          Sega              Adventure
+FIFA Soccer '96 (U.S. version)	   	Electronic Arts   Sports
+Flying Aces
+Frank Thomas Big Hurt Baseball                              Sports
+Fred Couples Golf                         Sega
+Golf Magazine:36 Great Holes CD           Sega(released as cart instead)
+Heads on Soccer          
+Heavy Machinery
+Izzy's Quest for the Olympic Rings                          Sports
+Judge Dreed                                                 Action
+Kingdom of the Far Reaches                                  
+Loadstar                                                      
+Midnight Raiders CD                       Sega                 
+NBA Action '96		            	Sega	      	Sports
+Nautilus                
+Outpost
+Power Rangers                                               Action
+Primal Rage CD                            Sega(released as cart instead)
+Prime Time NFL                                              Sports
+Race Drivin'                              Atari             Racing
+Rachet & Bolt             
+Rayman                                    Ubi Soft          Action
+Revolution X                              Acclaim           Shooter               
+Romance of the 3 Kingdoms IV              Koei              Simulation
+Scottish Open			      	Core Design   	Sports
+Shadow of Atlantis                        Sega              Adventure
+Shell Shock
+Sonic 4                                   Sega              Action
+Soulstar X			             	Core Design	      Shooter
+Spider-Man & Venom:Seperation Anxiety     Acclaim           Fighting
+Spot Goes To Hollywood                    Virgin		Action 
+Stellar Assault			       	Sega	       	Shooter
+Street Fighter the Movie                  Capcom            Fighting
+Street Racer             
+Super After Burner                        Sega(renamed After Burner)
+Super MotoCross                           (renamed Motocross Champ.) 
+Super Space Harrier                       Sega(renamed Space Harrier)
+Surgical Strike CD                        Sega              Shooter
+Tee Off                                   Core Design       Sports
+Thunderhawk 2                             Core Design       Shooter
+Vara's Code                               
+Virtua Hamster				      Sega	      	Action
+Virtual Golf                              Sega              Sports
+Wirehead CD                               Sega              
+Wrath Squadron                            Sega              
+X-Men: Mojo-World		        	      Sega		      Action
+Zero Tolerance                            Accolade          Shooter
+
+------------------------------------------------------------------------
+
+4.5) More Inputs:
+-----------------
+
+The 32X was released in the United States in late November, 1994 and  
+finally had been dicountinued late 1995 due to the early arrival of 
+the Sega Saturn in the summer of 1995.
+  
+Sega was trying to provide some type of upgrade path to the Saturn so
+that it can play existing 32X games, however there is a definite
+technological difference that makes this difficult. When implemented,
+this will be through an optional plug-in cartridge that will allow
+you to play not only 32X games, but also Genesis, and SegaCD games on
+your Saturn.
+
+Sega claimed on the 32X packaging that it will not work with the CDX, 
+essentially because FCC approval for this combination was never received. 
+However, if you connect the 32X to your CDX, it works fine. (NOTE: The 
+author assumes NO responsibility for any damages or losses incurred for 
+anything suggested here, and neither does Sega of America... if you try 
+this, you do so at your own risk).
+
+Chaz Bocock wrote to me about 2 prototype games. Here's what:
+Judge Dredd and Virtua Hamster. I'll tell you what I know about these games..
+
+JUDGE DREDD : A friend of mine wrote the PC version of this game, and saw the
+prototype of the 32X version.  The only difference between the 32X version
+and the Megadrive version, is the flying level (on the hoverbikes), the
+background to this is a mode-7 type affect.
+
+VIRTUA HAMSTER : This was going to be a 'Hamsters and other animals on
+power skateboards' - 'Turtles' style.  The creatures would race down a
+series of 3D Tunnels/Tubes.  The only work that was completed on this
+games was a rendered mock-up of what the game would like, plus a small
+intro.  It never got further than this.
+
+Sean Kelly (the multi-game cart maker) wrote to me if i knew any proto-
+type games. I've told him that i only knew these proto games: 
+Judge Dredd, Virtua Hamster, Ecco & Surgical Strike CD. (2 described
+above). He told me that he has these prototypes games...Virtua Hamster,
+X-Men & Tempo, the lucky guy!! But many of you know that Tempo was released
+but prototype games of released games can exist, like Terminator 2 for the
+NES of Thunderground for the Atari 2600. Wonder if the Tempo proto is the
+same thing as the released one....hummm.
+
+Here's a suggestion from Jon Folkers (Manic Butt):
+This looks like a good place to insert some of the FAQs about stereo sound 
+when hooking this beast up to different model Genesis machines. I know I 
+was pissed when I found out my sound output HAD to be mono unless I used 
+headphones.
+
+Some of this is in the 32X manual, but could be excerpted for people who 
+bought used and didn't get instructions -- the rest is at
+http://www.sega.com/support/troubleshoot/.
+
+I agree with Jon, so since i didn't had much time to write a chapter on
+how to hook-up the 32X in stereo or anything else in the instruction
+manual of the 32X, i'll will make a chapter for the manual for everybody
+who doesn't have or didn't get the manual. So wacth out for the next
+version, thanks for your patient until then!
+
+Are you having problems to finish a game or any trouble, please go
+to this site: "http://vgstrategies.miningco.com/msub32x.htm".
+Just say to Al Amaloo that i sent you !  
+
+------------------------------------------------------------------------
+
+5.0) Credits:
+-------------
+Not much for now...
+
+* Chaz Bocock
+* Barry Cantin
+* Gordon Craick (Of Course !!!)
+* Jon Folkers
+* Eric Hamel
+* Sean Kelly 
+* Jonathan Legg
+* Ippei Muramatsu
+* Sega Power Magazines
+
+
+Thanks and see you in the next version !!!
+----------------------------------------------------------
+Copyright(c)1998, Sylvain De Chantal, "slydc@hotmail.com"
+or come visit my homepage at "http://slydc.encomix.es/index.htm"
+
+
+

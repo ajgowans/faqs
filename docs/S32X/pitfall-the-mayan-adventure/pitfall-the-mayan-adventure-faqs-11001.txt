@@ -1,0 +1,174 @@
+PPP   I  TTTTTTT FFFFF  AAA   L    L
+P PP  I     T    F     AA AA  L    L
+P  PP I     T    F     A   A  L    L
+P PP  I     T    FFF   AAAAA  L    L
+PPP   I     T    F     A   A  L    L
+P     I     T    F     A   A  L    L
+P     I     T    F     A   A  L    L
+P     I     T    F     A   A  LLLL LLLL
+PITFALL:THE MAYAN ADVENTURE
+For Sega Genesis AND PC
+
+Written by CHAZ5000
+E-Mail ALVINTEX_99@yahoo.com
+
+Legal Information:
+This Walkthrough is to be found only at GameFAQs.com at the moment.It is 
+Copyright 2001 Chaz5000.
+DO NOT DISTRIBUTE THIS WALKTHROUGH AT ANY OTHER SITE WITHOUT MY PERMISSION!
+"Pitfall: The Mayan Adventure" is copyright 1995 Activision.  
+
+Current Version:
+1.00-03/13/01 - A good start. Includes Boss Strategies and hints
+for every level, plus codes and a overview of the ENTIRE complicated plot.
+
+Plot:
+You are Pitfall Harry, Jr.  Your father, Pitfall Harry, has been kidnaped by
+Zakelua, some sort of evil spirit thang.  You brave all sorts of lethal
+traps and pits, defeat the hardest of enemies, destroy bosses who are
+completely evil, until finally you reach the final showdown with Zakelua.
+You destroy Zakelua and save your father.  The End.
+
+Level Hints:
+
+Ceiba Jungle-Avoid the pits and the spiked thingies.  Though this level is 
+not too tough, you need to learn the routine-you'll be repeating many levels
+that are very similar to this one.
+BOSS: Jaguar.
+
+Xibalba Falls-First and foremost, DON'T FALL IN THE WATER.  Watch out for the
+green sludge on ledges.  You slip if you touch it.
+BOSS: None
+
+Tazumal Mines-Watch out for the bats.  You get your first hidden area in this
+level.  Shoot the weird bugs on the ropes before you try to climb the ropes,
+or you'll fall off AND you'll lose some health.
+BOSS: Mine Cars-Sort of.
+
+Lost City of Copan-Watch out for the bone-throwing enemies.  You get the 
+Atari 2600 warp in this level.  To get it, touch one of the Atari enemies.
+Also, be sure to save up any magic stones you get in this level-you'll need 
+them for the boss.
+BOSS: JaguarTwins
+
+Copan Temple-In this level, you meet the skeleton-flame-thrower guys for the
+first time.  Not much different from the Lost City of Copan, except for it
+taking place indoors and not having the annoying JaguarTwins as a boss.
+BOSS: Big roundy-thing that smushes you.
+
+Lakamul Rain Forest-Avoid the tar, but otherwise it's a rehash of the first 
+level, outside of there being no boss and that the ledges are slippery.
+BOSS: None
+
+Yaxchilan Lagoon-Stand on the gator-heads when they're closed, just like from
+classic Pitfall.  Gator-heads are also your only method of transportation in 
+some spots!  Be sure to not fall into the water, because we all know what 
+THAT does to young Harry.  
+BOSS: None
+
+Palenque Ruins-Bounce on the tongue things to ascend to the level exit.  
+Count to 5 on the platforms that pull out from under you before you jump to
+the next one. Just make sure that you count at a reasonable pace, not 
+1...2...3...4...5 or 12345,  somewhere in-between.  
+BOSS: None
+
+Tomb of Palenque-VERY difficult.  Even though there is no boss, the enemies
+make up for it.  The level design itself is not much different from that of
+previous indoor levels.
+BOSS: None
+
+Balankanche Mines-My favourite level.  Very difficult to actually beat, but
+fun to play.  About one-fifth into the level, you will encounter ghosts.  
+Even though they don't actually inflict damage on you, they cause you to lose
+your balance, which means you CAN'T CONTROL YOUR MINE CAR, and it is very 
+likely that you will wreck.  Note the similarities between this level and
+"Mine Cart Carnage" of Donkey Kong Country.
+BOSS: None.
+
+Jaina Island Falls-This level is sort of like Yaxchilan Lagoon and Xibalba 
+Falls, but is more difficult.  Whenever it is possible, take the high road.
+When you take the low road, you risk either falling into the water or being
+eaten by an alligator!  When you take the low road, sometimes the only way
+to get across the water is to ride on gator heads. The high road is 
+definitely best for this level.
+BOSS: None.
+
+Tikal Ruins-Sort of like "The Lost City of Copan" but you should look out for
+the new enemies. If you can, save up at least 20 magic stones for the boss.
+Not too tough a level, but they make up for it with the boss.
+BOSS: Jaguar Man(He's tougher than the final boss!).
+
+Temple of Tikal-You have ALMOST beaten Pitfall.  However, they don't make it
+easy for you to reach Zakelua.  You have all of the hardest enemies in the 
+game concentrated into one level, plus all of the stupid collapsing 
+platforms, lethal spikes, and other "Pitfalls"(Ha)!  Mercifully, the level
+doesn't have a boss.
+BOSS: None
+
+Warrior Spirit-Nothing else here but the boss and a life refill in the 
+corner.
+BOSS: Uh...Warrior Spirit.
+
+
+
+Boss Strategies:
+Level 1:The Jaguar:
+Jump over it, lob a stone, dodge, repeat.  Kind of tough for a first boss.
+
+Level 3: The Mine-cars:
+Not really a boss, but a tough thing at the end of a level nonetheless.  
+Jump over the cars carefully; if you can get into the rhythm you'll be okay.
+
+Level 4: JaguarTwins:
+Ouch.  If you have a bunch of magic stones AND your pepper is still working,
+then jump down into the boss pit, then jump onto the RIGHT ledge.  Start 
+throwing the magic stones until you're out.  Then jump into the pit, and try
+to get a rythym of jumping over one jaguar and attacking the other.  If you 
+don't have any magic stones, then attempt to fight them like the first boss,
+but it still is easier just to get some magic stones.  
+
+Level 5: The big-roundy thing that smushes you:
+Jump over it, ignore the free life, and run like the wind.
+
+Level 12: The Jaguar Man:
+Avoid his claws at all costs.  Though you should attack him like the 
+first boss, you should also conserve your weaponry-you'll need all the ammo
+you can get when it comes time to fight Zakelua!
+
+Level 14: The Warrior Spirit:
+Ouch.  Save the life refill until you REALLY need it.  If you have 40 magic 
+stones, then this fight is a breeze.  For us mortals out there who didn't 
+save up 40 magic stones, this fight is very difficult(almost as tough as 
+the first boss from "Vectorman").  Throw a Boomerang or a stone, run away 
+from his attack as best you can, and repeat.  If and when you beat him, you
+win the game!
+
+
+Codes:
+Sega Genesis Version:
+TYPE EACH ONE AT THE TITLE SCREEN
+99 of each weapon-A,B,UP,C,A,C,A,
+Infinite Continues-C,C,C,C,LEFT,A,DOWN,UP,DOWN
+9 Lives-RIGHT,A,DOWN,B,RIGHT,A,B,UP,DOWN
+Stage Select-B,RIGHT,A,UP,B,LEFT,A,UP,RIGHT,A,UP
+
+PC Version:
+TYPE AT ANY POINT IN THE GAME
+99 of each weapon-pumpyouup
+9 Continues-eatmorebran
+9 Lives-meowmeowlikemeowman
+Stage Select-idbuythatforadollar
+Classic Pitfall-letsdothetimewarp
+
+
+Acknowledgements:
+To GameFAQs, For hosting this Walkthrough.
+To Prickly Jack and Fritter, My Cats, For sleeping on the monitor and 
+batting at Harry Jr.
+To Ed The Moogle and Dingo Jellybean, For leaving Walkthrough Examples 
+for me to study.
+To my parents, For Buying me an upgrade on my computer.
+
+This Walkthrough is copyright 2001 Chaz5000.
+
+
