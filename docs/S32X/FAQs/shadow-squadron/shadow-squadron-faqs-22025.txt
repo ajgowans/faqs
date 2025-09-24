@@ -1,0 +1,505 @@
+                                  Guide to
+                               Shadow Squadron
+                                    for
+                                  Sega 32X                by the Sega Notebook
+
+*******************************************************************************
+
+Contents
+
+I.   Feather ships
+II.  Enemy ships and structures
+III. Miscellaneous tips and information
+IV.  Walkthrough
+V.   Revision history
+
+
+===============================================================================
+I. Feather ships
+===============================================================================
+
+There are two ships available for you to pilot in the game. Below are
+descriptions of each.
+
+Feather 1
+---------
+The Feather 1 has twin lasers, guided laser torpedoes (up to four can be fired
+at one time), and the Spectral shield (a temporary force field that surrounds
+the ship.) The shields and energy are replenished after each mission.
+
+
+Feather 2
+---------
+The Feather 2 has a single laser, an energy torpedo (not guided), but no force
+field. This ship has a huge energy reserve that has to last you for the entire
+game. Shields are replenished after each mission by drawing from the main
+energy reserve. The Feather 2 has the ability to shoot down enemy missiles.
+
+Both ships have the same speed and shield strength (based on how many missile
+hits each ship can take).
+
+
+Comparison
+----------
+Although dual lasers would seem to be better than one, the Feather 1's
+firepower is noticeably weaker than the single laser of the Feather 2. Based on
+the time it takes to destroy a capital ship, and the number of hits needed to
+destroy various fighters, the Feather 2's laser is undoubtedly more powerful.
+
+The Feather 1 can shoot four guided torpedoes at a time, whereas the Feather 2
+can only shoot one torpedo straight ahead, with no homing ability. This is not
+a big consideration, since using the torpedoes is generally a bad idea. (See
+"Miscellaneous tips and information" for more details on torpedoes.)
+
+The Feather 1's Spectral shield ability is not much of an advantage, if at all.
+Avoid using it. (See "Miscellaneous tips and information" for more details.)
+
+The fact that the Feather 1 gets its shields and energy replenished after each
+mission is undoubtedly appealing. With the Feather 2, you must budget your
+reserve energy, and try not to get hit, since shields are restored by drawing
+from your main energy supply. This can be difficult and frustrating.
+
+The Feather 2 can shoot down enemy missiles, whereas the Feather 1 cannot.
+
+The deciding factor is the ability to shoot down missiles. I cannot imagine how
+anyone could survive the later missions without being able to destroy incoming
+missiles. Couple that with the fact that the Feather 2's laser is stronger than
+the Feather 1's lasers, and the choice is obvious: use the Feather 2.
+
+(Furthermore, if you choose the Feather 1, you have to wait through an
+annoyingly long animation after each mission while you dock with the space
+station, whereas the Feather 2 simply continues on. Also, the Feather 1 has a
+large "dashboard" which takes up a portion of the screen and limits your view.
+In contrast, the Feather 2 cockpit allows a much larger field of vision.)
+
+
+Familiarize yourself with the cockpit
+-------------------------------------
+The radar in the middle of the console shows where enemies are in relation to
+the orientation of your ship. The top semi-circle represents the area in front
+of your ship, with "straight ahead" being a line straight up from the center of
+the radar screen. The radar screen only represents the flat plane your ship is
+on. It does not represent the up/down dimension (relative to the
+direction your ship is facing). The radar also does not show enemies that are
+beyond a certain distance. You may have to visually sight some enemies if you
+get too far away.
+
+FEATHER 1
+The green gauge on the left side of the console is your speed. At your normal
+speed, the vertical segment of the gauge is filled. When using the afterburner,
+the horizontial segment starts lighting up as well.
+
+The blue gauge on the right represents shield energy. The red gauge on the
+right represents engine/weapon energy.
+
+FEATHER 2
+The green gauge on the left side of the screen represents your speed. The blue
+gauge on the right side of the screen represents your shield energy.
+
+The red gauge across the top of the screen is your engine/weapon energy
+reserves. This represents the maximum energy you have at your disposal for the
+entire game.
+
+
+===============================================================================
+II. Enemy ships and structures
+===============================================================================
+
+All enemy ships and structures (besides fighters) are made up of distinct
+"parts". When attacking, you will notice that you can destroy parts of the ship
+without destroying the whole. It is very time-consuming and energy-inefficient
+to destroy a ship piece by piece until it finally blows up. All ships and
+structures have a weak spot. Aim for the weak spot to eliminate the target as
+quickly as possible. Admittedly, you get more points for destroying a ship
+piece by piece, but you also use up more energy.
+
+
+Capital ships
+-------------
+
+DELMMER
+Approach from the bottom. Aim for the fuselage between the wings. As you
+approach, the ship will launch four missiles at you from launchers near the
+wings. Take note of where they appear. Those missile launchers mark the four
+corners of the weak spot. Keep firing anywhere in that area. Dodge the missiles
+or shoot them down. With the Feather 2, you should be able to destroy a Delmmer
+in one pass.
+
+BALSARK
+Approach from above and behind. There is a gray ridge in the middle of the
+ship, in front of the two aft prongs. There is a yellow spot (engine, maybe) on
+the aft side of the gray ridge. Shoot the small gray area behind (aft of) the
+yellow spot. (You have to get fairly close to see the weak spot. It is NOT the
+wider gray piece between the two prongs. The weak spot is in front of that.)
+With the Feather 2, you should be able to destroy a Balsark in one pass.
+
+MEDELUS
+Blow up the cockpit first. The cockpit is between the two forward-swept wings.
+It is a relatively small protrusion with a bright green horizontal band across
+it. (Use the Object Viewer on the options menu to get a good look at a
+Medelus.) Then approach from the front and aim for the thin, horizontal
+rectangular area behind the cockpit. These ships shoot a LOT of missiles. At
+most, you will have a few seconds to fire at the weak spot before you have to
+start shooting down missiles or dodging them. You will probably have to make at
+least three passes to destroy a Medelus. The biggest danger is getting
+impatient. You are much better off making a large number of passes in which you
+only take a few shots, rather than trying to destroy the ship as quickly as
+possible. When you get too close to the ship, the missiles can take down your
+shields in seconds. Approach, fire a few shots, and back off again to a safe
+distance. Keep coming back and do not lose your patience.
+
+CARVELUS
+Like the Medelus, the weak spot is behind the cockpit. Be aware, though, that
+the Carvelus is even more aggressive. Expect to be greeted with a staggering
+number of missiles. The strategy is basically the same as for the Medelus. Make
+a lot of passes and do not get impatient.
+
+From an angle, it can be difficult to see exactly where you need to shoot, so
+it is helpful to align your ship so that you approach the Carvelus head-on.
+When retreating after each pass, you want to keep your ship lined up for the
+next attack run. The Carvelus fires missiles in the direction you came from.
+Therefore, when you need to turn your ship around, turn until you are following
+the missiles. You will end up in approximately the same place as you started
+from and can attack head-on again.
+
+
+Structures
+----------
+
+ACCEL GATE
+If you approach from the wide end of the gate, it pulls your ship in and flings
+you out the other side. If you approach from the narrow end, you will simply
+stop in front of it, and slide slowly to the side in the direction your ship is
+pointing. The fact that you have no forward motion, but can still move up,
+down, and sideways makes this a relatively easy job.
+
+Approach from the narrow end. There are four prongs protruding from the
+circular gate. Shoot the green squares where the prongs connect to the ring.
+While you are stopped right next to the gate, it will fire missiles at you from
+launchers on the inside surface of the ring. Choose one of the green squares to
+fire at. Shoot it a few times until the missiles get close. Then re-orient your
+ship and start firing at a different green square target. This way, you will
+move your ship enough to dodge the missiles that were aimed at your previous
+location, while you continue firing on the gate. Every time a new barrage of
+missiles gets close, re-orient your ship and start firing on a different target
+area. After a few repetitions, you will see some fiery, satisfying results.
+
+GANELUZA
+Approach from the front. Line yourself up with the entrance and fly through it.
+Watch out for the cross beams. If you're using the Feather 2, you can shoot
+down the missiles. Aim for the red spot inside. Fire repeatedly and listen to
+the sounds of your laser strikes to make sure you're hitting the weak spot.
+(See "Sounds of battle" below.) You should be able to destroy the Ganeluza in
+one pass.
+
+SLAVE UNITS
+Each one has a red spot in the middle of the inner-facing side.
+Shoot the red spot. With the Feather 2, you should be able to destroy a slave
+unit before its missiles ever get near you.
+
+G.L. CANNON
+The cannon opens up when you have destroyed all the original slave units.
+Shoot all six red spots on the cannon. Shoot down or dodge the missiles.
+
+
+Other
+-----
+
+FIGHTERS
+Fighters are not particularly intelligent or threatening early on in the game.
+In later missions, they become more aggressive, but are still not very
+dangerous. You will almost never be hit by their laser fire unless you try
+playing chicken with them. Even then, their lasers move slowly enough that you
+generally have time to dodge them. However, the fighters fire several blasts at
+a time, so if you do get hit, it will likely be several hits in quick
+succession, which will deplete your shields in no time. Just do not attempt to
+attack them head-on after the third mission.
+
+Somewhat more noteworthy is their propensity to ram into you. Naturally, this
+drains your shield energy, and throws you off course. This is generally not a
+big problem, but it does happen occasionally. If you start hearing too many
+fighters swarming around you, you may want to stop and blast a few.
+
+Fighters often try to distract you by flying in front of you and making you
+chase them around (thereby wasting a lot of energy). Save them for last unless
+one flies in front of you and gives you a perfect shot.
+
+Different types of fighters have different speeds, strengths, and point values.
+In terms of gameplay, the differences are not really important.
+
+BOOSTER SHIPS
+Aim for the nosecone. It is fairly small and hard to see without getting close.
+Fortunately, this ship requires so few hits in general that even if you destroy
+it piece by piece, it does not require much energy expenditure. Either way, you
+should be able to destroy a booster ship in one pass.
+
+
+===============================================================================
+III. Miscellaneous tips and information
+===============================================================================
+
+Energy usage
+------------
+There are two types of energy: engine/weapon energy and shield energy.
+
+Flying around requires engine/weapon energy. The more distance you travel, the
+more energy you use up. Using your afterburners and firing your weapons require
+additional energy. Do not overuse your afterburner. (If you're flying the
+Feather 2, you should almost never use the afterburner. If you're flying the
+Feather 1, conserving energy is not as critical.)
+
+Shield energy reflects the strength of your shields. Every time you get hit by
+a laser blast, a missile, or crash into an enemy fighter or capital ship, you
+lose shield energy. Using the Feather 1's Spectral shield and firing the
+Feather 2's torpedoes also drain shield energy.
+
+Be aware that if you use up your engine/weapon energy, your shield energy
+reserves will be transferred to your engine/weapon gauge, in which case, the
+next hit will kill you.
+
+If you're flying the Feather 2, energy becomes a scarce resource as you near
+the end of the game. Therefore, it pays to conserve energy whenever possible,
+particularly in the early missions.
+
+- Do not use the afterburners except to get away from tough situations.
+- Minimize the distance you travel. Destroy the ships that are close to you
+  before attacking others.
+- Do not fire the laser excessively when the target is not even in range.
+
+
+Determining if an enemy is in range
+-----------------------------------
+Capital ships are in range of your laser as soon as they start firing missiles.
+For fighters and Booster ships, you will have to listen for the sound of a
+laser strike (see "Sounds of battle" below) to determine if they are in range.
+
+Your targeting system often displays numbered red brackets around enemy
+fighters. The fighters with lower numbers are closer to you than the ones with
+higher numbers. The brackets disappear when the fighters get close enough
+to see them clearly. Brackets are NOT an indicator that an enemy is out of
+range. If there are no brackets around an enemy fighter, it is definitely close
+enough to shoot. However, a fighter may still be in range, even if it has
+brackets around it.
+
+
+Sounds of battle
+----------------
+You will notice during the game, the distinctly different sounds your lasers
+make upon hitting different surfaces. When hitting fighters, the sound effect
+is a high-pitched crackle. When hitting capital ships or enemy structures, the
+sound effect is a low-pitched thud sound. When hitting asteroids or other
+indestructible structures, the sound effect is a metallic clanging sound.
+
+Distinguishing between the sounds is important as it provides some clue as to
+how you are shooting. The best example of when the sound really matters is when
+you're trying to destroy the Ganeluza. However, when attacking any enemy,
+listening for the sound of a hit can also tell you whether your aim is accurate
+or whether the ship is even in range. (Firing the laser while you're still out
+of range is a good way to waste energy.)
+
+
+Never, ever do this
+-------------------
+- Play chicken with a fighter after the third mission
+- Use your torpedoes
+- Choose auto pilot mode for the Feather 2
+- Use the Feather 1's Spectral shield
+- Fly the Feather 1
+
+PLAYING CHICKEN WITH FIGHTERS
+After the third mission, the fighters become noticeably more aggressive. When
+you fly directly towards one, then obviously, from the enemy's perspective,
+you're not moving up, down or to either side. This makes you an easy target,
+and they will fire several laser blasts at a time. This can significantly
+reduce your shields in very little time. If you see a fighter coming straight
+at you, alter your course a little. Their aim is generally so bad that they
+cannot hit you unless you're approaching them head-on.
+
+TORPEDOES
+Torpedoes require a lot of energy and do not do a lot of damage. In the
+Feather 1, you have no control over what the targeting system locks onto. It
+automatically picks targets in front of you. Most of the time, the targets are
+non-critical parts of ships or structures (in other words, not the weak spots).
+Nor can you control how many torpedoes hit a certain target. If you fire more
+than one torpedo in a volley, they will be locked onto different targets.
+(The damage is spread across multiple targets instead of focused on one.) You
+can do far more damage with your lasers in the same amount of time. More
+importantly, you can choose exactly what you want to hit.
+
+The Feather 2's torpedo does more damage than the Feather 1's. (Two or three
+well-placed torpedoes will take out a capital ship.) However, each torpedo you
+fire costs you two units of shield energy. The damage they cause is simply not
+worth the energy cost. (Recall that shield energy is replenished after each
+mission by drawing from your main engine/weapon energy reserves.)
+
+AUTO PILOT
+Using the auto-pilot means you have absolutely no control over where your ship
+goes; you just shoot whatever happens to appear on the screen. The auto-pilot
+never makes a run specifically towards the enemies' weak spots, which makes
+destroying them an even longer process. I don't know if there is supposed to be
+a coherent strategy or advantage in the auto-pilot's flight plan, but I
+certainly do not see one. Using the auto-pilot makes the game thoroughly
+tedious and boring.
+
+SPECTRAL SHIELD
+Activating the Spectral shield uses up your shield energy, and does not offer
+much protection. You will still take significant damage from enemy missiles and
+from crashing into enemy fighters even when the shield is activated. The amount
+of shield energy you lose, relative to the benefit of using the Spectral
+shield, is too high. It is not economical. The Spectral shield is basically
+useless.
+
+FEATHER 1
+See the "Comparison" above in the "Feather ships" section.
+
+
+===============================================================================
+IV. Walkthrough
+===============================================================================
+
+Mission 1
+---------
+Nothing too exciting going on here. There are two Delmmer-class ships and 12
+fighters. Your mission is to destroy them all. When the mission begins, there
+are six fighters directly ahead of you. Destroy a few of them while you have a
+good shot, but after they fly by, concentrate on the Delmmers. The fighters are
+not much of a threat in this mission. If you start chasing them around, you
+stand a chance of being hit by a missile or crashing into a Delmmer, so save
+the fighters for last. (Honestly, the first mission is so easy, it doesn't
+really matter.)
+
+
+Mission 2
+---------
+For the second mission, you will be up against one Delmmer, two Balsarks, an
+Accel gate, a Booster ship, and 17 fighters. You do not have to destroy the
+fighters to complete the mission. You start mission 2 with three fighters
+coming at you. Try to take them out as you head toward the Delmmer. Then dive
+down below the Delmmer, and attack it from below. After that, pick a Balsark
+that looks appetizing and toast it. To minimize the total distance you have to
+travel, your next target should be the Accel gate. Approach the gate from the
+narrow end and destroy it as described above in "Enemy structures". Somewhat
+past the gate is a skittish Booster ship which warps out if you get too close,
+or do not destroy it quickly enough. You do not have time to destroy the ship
+piece by piece, so do not attack it from behind. Fly a safe distance off to the
+side of the ship, and approach it only when you have a clear shot at the
+nosecone. If the Booster ship does manage to escape, you will not earn points
+for the kill, but it does not affect the rest of the mission. Once you're done
+with the Booster ship, go back and destroy the remaining Balsark. The fighters
+are not a threat in this mission, so you can ignore them without any
+significant danger.
+
+
+Mission 3
+---------
+In this mission, you must destroy two Medelus-class ships, four Booster ships,
+and eight fighters. The battle takes place in and around an asteroid field.
+The asteroids are solid objects that will damage your shields if you crash into
+them, but they are not much of a concern in terms of navigating. They are
+stationary, and although it looks like there are a lot of them, they pose very
+little danger. You would almost have to try to hit an asteroid for it to become
+dangerous.
+
+When you start the mission, there are two Booster ships ahead of you on the
+left, and two more on the right. Since these are the closest, destroy them
+first. You will notice that the ships are all preparing to dock with asteroids.
+For extra points, you can destroy the metal structures on the asteroids
+(though doing so is not required). Afterwards, destroy the two Medelus. Save
+the fighters for last.
+
+
+Mission 4
+---------
+Now you'll face a large fleet of capital ships: four Delmmers, three Balsarks,
+two Medelus, and one Carvelus. There will also be 17 fighters, though you do
+not have to destroy them to complete the mission. However, the fighters start
+to become a problem now. They are much more aggressive and intelligent than in
+the previous three missions. They will happily play chicken with you. The
+faster and more maneuverable ones will dart in front of you to distract you and
+draw you away from the capital ships. Kill the fighters if you have a good
+shot, otherwise, focus on the larger ships.
+
+When you start mission 4, there is a Delmmer almost directly in front of you
+(and slightly to the left). It immediately begins firing missiles. Duck below
+it, and destroy it first. The sequence in which you destroy the ships does not
+really matter, except that you should try to minimize your travel distance to
+conserve energy. Pick a ship to attack and destroy all the other ones nearby
+before flying all the way across the battle "field" to attack others. About the
+best you can do is to follow a roughly U-shaped pattern going from ship to
+ship.
+
+
+Mission 5
+---------
+There are two Carvelus, one Ganeluza and 14 fighters in this mission. You do
+not have to destroy the fighters. When you start, there is a Carvelus to your
+right which immediately begins firing at you. Turn back around and get in front
+of it. After you finish off this one, go find the other Carvelus. After those,
+the Ganeluza will seem relatively easy. Fly through it, aim for the glowing red
+spot, and you'll be on your way to the final mission.
+
+
+Mission 6
+---------
+Now the enemy has a giant cannon aimed at your planet. THAT simply will not do.
+This is the only mission with a time limit, and it is none too generous. You
+will need to be quick. Ignore the eight fighters. The first thing you have to
+do is destroy the ring of eight slave units. You start the mission outside the
+ring. Use your afterburner to get inside the ring. Pick one of the closer slave
+units and start firing at the red spot. When you have destroyed the first, head
+for the slave unit PAST the next one.
+For example, if you have just destroyed             2
+#1 in the diagram to the right, start             1   3
+towards #3. (If you approach #2 directly,        8     4
+you will be coming in at too steep an             7   5
+angle and will not get a good shot at               6
+its weak spot.) You will not be able to
+see when you have a good shot at #2, so you will have to estimate. Turn, and
+fire at the red spot. After you destroy #2, head for number 4, and so on for
+each slave unit. You have three minutes to destroy all eight slave units, so
+you will need to use your afterburner in short bursts. Do not overdo it. Once
+the slave units start firing missiles at you, they are in-range of your lasers.
+You do not need to get any closer, and doing so means you'll have longer to
+travel to get to the next slave unit. You should already be back down to normal
+speed (or close to it) by the time the slave units start firing on you.
+
+After you destroy the first ring of slave units, the Cannon releases another
+group. Do not bother with the second batch. The G.L. Cannon is now vulnerable,
+and you have two minutes to destroy it. Fly over, under, or between the new
+slave units as they spread out. There are six red spots around the main body of
+the Cannon. As you approach, it will fire a LOT of missiles at you. You will
+probably not be able to shoot them all down. The time limit makes for a nasty
+constraint. You cannot spend a lot of time shooting down missiles or flying
+around to dodge them. However, you cannot stay in one place very long due to
+the large number of missiles that will be heading your way. If you can shoot
+down a few missiles and continue firing on a red spot, then do so. When the
+number of missiles gets overwhelming, turn sharply and give your afterburner a
+quick tap to get away from the incoming barrage. As soon as you're in the
+clear, turn back and resume firing. When you have destroyed all six red spots,
+watch the animation of the Cannon's destruction. The game is over.
+Congratulations.
+
+
+===============================================================================
+V. Revision history
+===============================================================================
+
+Version 1.01 (Feb 28, 2004)  Fixed typos and made minor clarifications.
+Version 1.00 (Mar 05, 2003)  Original submission
+
+
+*******************************************************************************
+
+Shadow Squadron guide by Sega Notebook 
+Version 1.01  (Last updated Feb 28, 2004)
+
+Copyright 2003  G. Quinn
+This guide may not be reproduced under any circumstances except personal,
+private use.
+
+Please do not post this guide on other Web sites. The purpose of the Web is
+LINKING, not duplicating information in different places.
+
+Contact the author of this guide at seganotebook@yahoo.com
+
+Thanks for reading.

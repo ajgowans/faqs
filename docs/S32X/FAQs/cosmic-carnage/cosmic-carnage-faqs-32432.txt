@@ -1,0 +1,484 @@
+
+
+                                                          Z
+                                         M           2MMMMMM
+                                         MM     iZMMM;  M@MM   :M
+                                          MrWMMMMMM; MMMMMWMM2MM
+                                       iSWMM;   0MM      MWMMMi
+                              2S   2MMMMMMMWMM MZ;MMMMMMMMMMM
+                              7MMMMW     7MM;   2MMM@@W  MM@
+                          rMMM8  08M  WM  MMMMMMMiMB00MM MMM
+                     aMMMMM0   ;aZSWS BBMMMMM@MW  MBW WS  MMM iM
+                @MMMMM    MB0r    rXBM0MZa WM@MMM MMM  W@ MMMMMM
+            MMMMS XMM  M; BXi   ;aXr22  MM  MMaMM: MMM     MMMM
+         :MMMM  MMMMMMX  M@7S@MMZ B2aBM MMM MM@;MM  MMZ ;Mi MMS
+          MMMM     iM@MMM:MMMMMMM@ M0ZM@ MM. MM @MM MMM MMM WMM  i
+           MMMMMMMMMMMMMM  MMM ;MM iM88M72MM MMB MMM MMM MMM MMMMMMMMM7
+        MMM0MM@Z: 7 8MM@MM XMMa MMM M@ZWM,2MS.MMMMMMaiMM ZMM WMMMWi
+           8MM@MWMMS MMMMMi MMM ,MM iMBrMM0MM MMM77MMZMMMMMM7 B
+             MMM  MM 8 0XMM  MMMMMM  MM@ MMBMrXMM  :MM7XMM7
+             @MMM    2 Z WMM 7MMMMMM  MM7 MMMM8MMM   MM.
+              MMM2    MMM MMM MMM MMMM0MM XMMMMMa     ,Mr
+              :MMM    rMMMMMMZ MMZ  MMMMMM a            07
+               MMMM MM0@MM BMM 8MMS   BMM
+                MMM WMMZMM   MMBMM2     :MM
+                ZMMMrMMBMMM    M          XM0
+                 MMMMMM B       Mi          ;M
+                  iX7
+
+
+===============================================================================
+                 ____________________________________________
+                |                                            |
+                |              Moves List Guide              |
+                |        For the Sega 32x Game Console       |
+                |          Version 0.20 (09/20/2004)         |
+                |    By SegaFan32x (Charizard3036@aol.com)   |
+                |                                            |
+                |This file ic Copyright © 2004 Ben Tetreault.|
+                |             All rights reserved            |
+                |____________________________________________|
+
+===============================================================================
+
+-----------------
+Table Of Contents
+-----------------
+
+1) - Introduction                   abc
+2) - Legal Disclaimer               def
+3) - Contact Me                     ghi
+4) - Versions                       jkl
+5) - Story & Character Desription   mno
+
+     5a) - The military crew        mno1
+     5b) - The renegade crew        mno2
+
+6) - Moves List                     pqr
+7) - F.A.Q's                        stu
+8) - Special Thanks                 vwx
+9) - Conclusion                     yz0
+
+------------------
+01) - Intro  (abc)
+------------------
+
+Hi and welcome to my very first guide.
+This moves list is for Cosmic Carnage, a fighting game for the Sega 32x Game
+Console. I created this guide because I boght Cosmic Carnage and wanted to 
+know what the moves were. I looked all over the Internet and could not find 
+one single moves list guide anywere. So I am taking it upon my self to give 
+the Cosmic Carnage fans a moves list.
+
+To skip to a certin chapter, hit Ctrl F on your keyboard and type the three
+letters corisponding to that chapter in () to skip straight to that chapter.
+
+Now for those of you who would like to know more about me:
+
+My name is Ben Tetreault and I live in the United States of America. I was
+born at 11:52 P.M. on March 16,1984. I have grown to be 6'2" and weigh close
+to 330 lbs. I am a very nice guy and am very easy to get along with. Some of
+my interests include video games, board games, music, movies, walking, driving
+hanging out with my friends and family, and learning about the books in the
+Bible.
+
+I love to listen to all kinds of music, but my favorites are Classical, Rock,
+Metal, Rap, Orchestra, and Alternative. My all time favorite band is Metallica.
+I am a huge Metallica fan and wish to one day meet them.
+
+My favorite games to play are Role-Playing Games, Strategy, First Person
+Shooters, Action, and Adventure. I don't like Sports so I do not play Sports
+games very often. When I do play Sports games I like to play are BMX,
+Skateboarding, Football, Wrestling, and on accations Raceing.
+
+Well that's really all there is to know about me... Let's get back to the
+guide shall we :D
+
+----------------------------
+2) - Legal Disclaimer  (def)
+----------------------------
+
+----------------
+| I N  S H O R T |
+|---------------------------------------------------------------------------
+|You know the drill. This document is copyrighted by me and cannot be       |
+|reproduced in anyway without the complete consultant of me. My name        |
+|is Ben Tetreault.                                                          |
+ ---------------------------------------------------------------------------
+
+ -----------------
+| W E B S I T E S |
+|---------------------------------------------------------------------------
+|The ONLY website this document can be hosted at is currently GameFAQs.com. |
+|If you think this FAQ/Walkthrough is really good and you want to post it on|
+|your site then email me. If I tell you you can then go for it. If I tell   |
+|you you can't then you can't. If you see this document anywhere on the Web |
+|besides GameFAQs.com then please tell me. I will be very greatfull!        |
+ ---------------------------------------------------------------------------
+
+ -----------
+| U S A G E |
+|---------------------------------------------------------------------------
+|This FAQ/Walkthrough is for personal usage ONLY. You must not use          |
+|this FAQ/Walkthrough for profitable purposes either. If you want to        |
+|use parts of this walkthrough, please, contact me before you do for my     |
+|approval.                                                                  |
+ ---------------------------------------------------------------------------
+
+ -----------
+| O T H E R |
+|---------------------------------------------------------------------------
+|You can't put this guide on your NON-PROFITABLE or NON-COMMERCIAL          |
+|website either. Also, don't alter or change this document in ANY way,      |
+|shape, or form. All I am trying to say is don't use this guide for         |
+|ANYTHING before you contact me. So, please don't plagiarize. Thank You     |
+|everyone for following these guidelines.                                   |
+ ---------------------------------------------------------------------------
+
+ -------------------
+| M A G A Z I N E S |
+|---------------------------------------------------------------------------
+|I also exclude ANY magazine to use this guide and the same rules apply for |
+|them.                                                                      |
+ ---------------------------------------------------------------------------
+
+|--------------------------------
+| C O P Y R I G H T  N O T I C E |
+|---------------------------------------------------------------------------
+| This file is Copyright © 2003 Ben Tetreault. All rights reserved.         |
+ ---------------------------------------------------------------------------
+
+ -----------------------------
+| B E F O R E  Y O U  R E A D |
+|---------------------------------------------------------------------------
+| I know that I might be a little harsh but I have seen people "rip off"    |
+| guides before and do not want it to happen to me. With that said I have   |
+| just one more little thing to say:                                        |
+|---------------------------------------------------------------------------|
+|IF YOU DON'T UNDERSTAND THIS LEGAL DISCLAIMER THEN DON'T READ THE DOCUMENT!|
+ ---------------------------------------------------------------------------
+This ends the Legal Disclaimer.
+
+----------------------
+3) - Contact Me  (ghi)
+----------------------
+
+To contact me you can e-mail me at Charizard3036@aol.com
+I can also be found on the GameFAQs.com Forums as SegaFan32x
+
+Rules for contacting me:
+
+1. To ask a question about Cosmic Carnage.
+2. To ask a question concerning information found in this guide.
+3. To contribute to this guide.
+4. To report any spelling or grammar errors.
+5. No e-mailing me to send me spam.
+6. No e-mailing me to talk about anything not pertaining to Cosmic Carnage.
+7. No e-mailing me to talk about anything not pertaining to this guide.
+8. No e-mailing me saying this guide, GameFAQ's, Sega, or Cosmic Carnage sucks.
+
+Also I would very much like for you to NOT sign me up for newsletters, prize
+drawings, or anything that might be illegal.
+
+If you have a simple, short question pertaining this guide, or Cosmic Carnage
+you have my permission to send me an instant message. My aol instant message
+is Charizard3036. I am usually on anywere from 6:00 P.M. to 2:00 A.M. EST.
+You may only instant message me if you have a simple short question, and not
+a long winded question. 
+
+If you bug me about anything not pertaining to things in this guide, I will 
+be forced to Block you and you will have to e-mail me instead. This applies 
+to instant messages and to e-mails.
+
+If you have a question that has already been answered in this guid I will more
+than likely not reply, unless you do not understand how your question is
+answered and you would like me to explain it more clearly.
+
+Thank you for following these guidelines :)
+
+-------------------
+4) - Versions (jkl)
+-------------------
+
+This chapter is to tell you what version of my guide you are viewing as well
+as past versions.
+
+version 0.10 - First Draft (not relesed)
+
+version 0.20 - First public release. Added some moves for Cylic and Zena-Lan.
+               Fixed spelling and grammar errors in the First Draft.
+
+version 0.30 - Addad some moves for Naruto and Tyr. Added * to Advanced moves.
+
+You can always find the lasest version of the guide at gamefaqs.com
+
+----------------------------------------
+5) - Story & Character Desription  (mno)
+----------------------------------------
+
+Light years away, in an uncharted star system, an incident of epic proportions
+has occurred.
+
+The banished crew of an intergalactic prison barge enroute to a celestial mine
+has overpowered their captors. During their rebellious assault, most of the
+ship's controls and life support systems were severely damaged.
+
+For days, the barge drifted aimlessly throught space. The renegade crew
+realized that their only hope was to hijack another ship. The activated a
+distress becon, and managed to lure a military cruiser within their reach.
+
+The renegades engaged their engines and smashed into the starboard side of the
+military cruiser and then boarded it. What the renegades did not anticipate
+was that the tremendous inpact would destroy all, but one, of the escape pods.
+
+Now, the four survivors of each ship must fight for their only chance at
+salvation, the last escape pod.
+
+The Carnage Begins...
+
+-------------------------------
+5a) - The military crew  (mno1)
+-------------------------------
+
+Cylic - 
+Zena-Lan
+Naruto
+Tyr
+
+-------------------------------
+5b) - The renegade crew  (mno2)
+-------------------------------
+
+Yug
+Deamon
+Naja
+Talmac
+
+---------------------
+6) - Moves List (pqr)
+---------------------
+
+This by far is the biggest chapter in this guide.
+
+I will try to make this as easy to read and understand as I possibly can. I do
+not have the Instruction Booklet taht came with the game so I do not know the 
+real names of the moves, if they are even in the book. Also I do not know any
+of the characters bios as the game has none, again if they are even in the 
+book. For the names of the moves, I will use the names from other games.
+Example: Any move that looks like Ken and Ryu's Hiduken from Street Fighter, I
+         will name a Fireball.
+         Any move that looks like Ken and Ruy's Dragon Uppercut, I will name
+         Flying uppercut.
+I will change the names if I evey find out the real names. So if you have the
+Instruction Booklet please e-mail anything in it I could use help me with this
+guide and you will get credit for your contribution.
+
+For the top four characters (The military crew) in the character select screen
+have the added option to equip Armor that has several benifits. The most
+noticeable benifit is added moves. On the downside when Armor is equiped some
+moves are removed :( There are many combinations for Armor, but for this guide
+I will note the most common types of Armor.
+
+The Armor types are as follows:
+
+No Armor:    This is the armor you have after your Light armor is knocked off 
+             yourbody this usuly means you are near 1-2 hits from death.
+Light Armor: This is the default armor that the military crew has.
+Arm Armor:   This is the armor placed on your characters Arms.
+Chest Armor: This is the armor placed on you characters Chest.
+Leg Armor:   This is the armor placed on your charaters Legs.
+Full Armor:  This is the armor you get when Arm, Chest, and Leg armor is
+             equiped.
+
+Note: In the charts that are next to the characters moves, X means that move
+      can be performed with that armor type equiped and O means that move can
+      not be performed with that armor type equiped.
+
+For the bottom four characters (the renedade crew) in the character select
+screen do not have the option to equip armor so they will be identified with
+nothing in there Armor Type.
+
+Moves Legend:
+
+Basic moves:
+
+U  = Up: This makes your character Jump.
+D  = Down: This makes your character duck/crouch.
+B  = Back: This makes your character move back away from your opponent.
+F  = Forward: This makes your character move forward towards your opponent.
+NP = Normal Punch: This is a fast but weak punch.
+FP = Fierce Punch: This is a strong but slow punch.
+NK = Normal Kick: This is a fast but weak kick.
+FK = Fierce Kick: This is a strong but slow kick.
+P1 = Provoke 1: This taunts your opponent.
+P2 = Provoke 2: This taunts your opponent.
+
+Advanced moves:
+
+DTF = Down to Forward.
+DTB = Down to Back.
+HCF = Half Circle Forward.
+HCB = Half Circle Back.
+( ) = Hold
+[ ] = Tap
+ ~  = Or
+ *  = Move can be performed in the air.
+
+Examples: (B3),F C~Z means to hold B for 3 second then hit forward and C or Z
+          [A~X] means tap A or X repeatedly
+          [A~X3] means tap A or X for 3 seconds
+
+Note: To defend, hold back while your opponent is attacking. (Certain moves
+      can bamage you while you are defending, but you will only take 1/4 the
+      normal damage) Seconds in a game is One One Thosand. So to count 3
+      seconds say: One One Thousand, Two One Thosand, Three One Thosand.
+
+The games default Controller Configuration for the Sega 6-botton controller
+is as follows:
+
+Normal Punch: X
+Fierce Punch: A
+Normal Kick:  Y
+Fierce Kick:  B
+Provoke 1:    C
+Provoke 2:    Z
+
+This is the configuration I will use in this guide. Now onto the moves...
+
+===============================================================================
+Cylic:                              Armor Type: |None |Light| Arm |Chest| Leg |
+================================================|=====|=====|=====|=====|=====|
+                                                |  -  |  -  |  -  |  -  |  -  |
+Fireball: D,DTF,F A~X                           |  O  |  X  |  O  |  X  |  X  |
+Diagonal Fireball: D,DTF,F C~Z                  |  O  |  X  |  X  |  O  |  X  |
+Flying Uppercut: F,D,DTF,F A~X                  |  O  |  O  |  X  |  O  |  O  |
+Ground Shock: [B~Y]                             |  O  |  O  |  O  |  O  |  X  |
+Dashing Head-butt: (B3),F C~Z                   |  O  |  O  |  O  |  X  |  O  |
+                                                |  -  |  -  |  -  |  -  |  -  |
+================================================|=====|=====|=====|=====|=====|
+Zena-Lan:                           Armor Type: |None |Light| Arm |Chest| Leg |
+================================================|=====|=====|=====|=====|=====|
+                                                |  -  |  -  |  -  |  -  |  -  |
+Hurricane Punches: [A~X]                        |  O  |  X  |  O  |  X  |  X  |
+Fireball: [A~X3], release                       |  O  |  X  |  O  |  X  |  X  |
+Tornado Punch: HCF A~X                          |  X  |  X  |  X  |  X  |  X  |
+Electric Shock: [A~X]                           |  O  |  O  |  X  |  O  |  O  |
+Dash: F,F C~Z                                   |  O  |  O  |  O  |  X  |  O  |
+                                                |  -  |  -  |  -  |  -  |  -  |
+================================================|=====|=====|=====|=====|=====|
+Naruto:                             Armor Type: |None |Light| Arm |Chest| Leg |
+================================================|=====|=====|=====|=====|=====|
+                                                |  -  |  -  |  -  |  -  |  -  |
+Dash Forward*: F,F                              |  X  |  X  |  X  |  X  |  X  |
+Dash Back*: B,B                                 |  X  |  X  |  X  |  X  |  X  |
+Flying Spin Kick*: D,DTF,F B~Y                  |  O  |  X  |  X  |  X  |  O  |
+Sword Attack: F,D,DTF,F A~X                     |  O  |  X  |  O  |  X  |  X  |
+Double Flying Uppercut: F,D,DTF,F A~X           |  O  |  O  |  X  |  O  |  O  |
+Thunder Kick: HCF B~Y                           |  O  |  O  |  O  |  O  |  X  |
+                                                |  -  |  -  |  -  |  -  |  -  |
+================================================|=====|=====|=====|=====|=====|
+Tyr:                                Armor Type: |None |Light| Arm |Chest| Leg |
+================================================|=====|=====|=====|=====|=====|
+                                                |  -  |  -  |  -  |  -  |  -  |
+Griund Eruption Forward: F,DTF,D A~X            |  O  |  X  |  O  |  X  |  X  |
+Ground Eruption Back: F,DTF,D B~Y               |  O  |  X  |  O  |  X  |  X  |
+Chest Attack: (B3),F C~Z                        |  O  |  X  |  X  |  O  |  X  |
+Fireball: (B3),F C~Z                            |  O  |  O  |  O  |  X  |  O  |
+Flip Attack: (B3),F B~Y                         |  O  |  O  |  O  |  O  |  X  |
+                                                |  -  |  -  |  -  |  -  |  -  |
+===============================================================================
+
+-----------------
+7) F.A.Q's  (stu)
+-----------------
+
+This is the Frequently Asked Question chapter.
+
+Q: Why did you wright this guide?
+A: I wrote this guide because I could not find one anywere on the Internet, 
+   and I wanted one.
+
+Q: How do I contact you if I have a question, or want to contribute?
+A: See the Contact Me chapter. (ghi)
+
+Q: Can you put my question in your F.A.Q's chapter of your guide?
+A: If I think it is a good question, sure.
+
+Q: I know some moves that are not in your guide, what do I do?
+A: Please e-mail them to me telling me how to do the move and what character
+   does the move and I will test it and add it to this guide giveing you full
+   credit.
+
+Q: Hey buddy, you never gave me credit for contributed, why?
+A: Although wrighting this guides is fun, it is hard to keep track of some 
+   things. If I have not given you credit for contributing to this guide,
+   send me an e-mail and I will up you in my next update.
+
+Q: I found some spelling or grammar errors, what do I do?
+A: Simple, e-mail me telling me were the error is and I will fix it in my next
+   update.
+
+Q: Do people realy ask you these questions?
+A: Well since this is my first release, no one has had the chance to ask any
+   questions, so I have made them up.
+
+Q: Why do you ask for people to contribute several times in you guide?
+A: Because I realy want and need your help to finnish this guide.
+
+Thats all the Q's and A's I have for now, so If you have a question that is
+not in this guide, e-mail me and I will answer it, if I can, and then post
+your question in the FAQ chapter in this guide.
+
+--------------------------
+8) - Special Thanks  (vwx)
+--------------------------
+
+This is the chapter dedicated to the people I would like to thank either for
+helping me with this guide or just in general.
+
+Thanks to God, for without him life would not exist.
+
+Thanks to my Mom, for buying me my first video game system. (NES)
+
+Thanks to my Dad, for buying me my computer.
+
+Thanks to Sega, for making such a great system.
+
+Thanks to Sega, for making this great but not so well known game.
+
+Thanks to Andrew Testa for letting me use his Legal Disclamer from one of 
+his guides.
+
+Thanks to you for reading this guide.
+
+Thanks to Jeff Veasey for creating gamefaqs.com
+
+----------------------
+9) - Conclusion  (yz0)
+----------------------
+
+Than you again for reading this guide. This guide is far from finished but
+for the little bit that is here I hope it helps you. Again if you would like
+to contribute to this guide, you are more than wecome to.
+
+Thats all for now, see you next update.
+
+        Cosmic Carnage is a trademark of © Sega Enterprises, LTD. 1994.
+                            All rights reserved.
+===============================================================================
+                        _____________________________
+                       |                             |
+                       |This Document is dedicated to|
+                       |                             |
+                       |     Patricia Ann Russum     |
+                       |          1933-2004          |
+                       |                             |
+                       |    a devoted Wife Mother    |
+                       |       and Grandmother       |
+                       |    how loved her children   |
+                       |    more than life itself.   |
+                       |_____________________________|
+
+===============================================================================
+
+                                  -END FILE-

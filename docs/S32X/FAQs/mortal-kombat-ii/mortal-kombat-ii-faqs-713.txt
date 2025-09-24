@@ -1,0 +1,1246 @@
+
+*     *  ***  ***  *****  **  *     *   *  ***  *     * ***   **  *****  *****
+**   ** *   * *  *   *   *  * *     *  *  *   * **   ** *  * *  *   *     * *
+* *** * *   * ***    *   **** *     ***   *   * * *** * ***  ****   *     * *
+*     * *   * *  *   *   *  * *     *  *  *   * *     * *  * *  *   *     * *
+*     *  ***  *  *   *   *  * ***   *   *  ***  *     * ***  *  *   *    *****
+------------------------------------------------------------------------------
+                                 COMPENDIUM
+------------------------------------------------------------------------------
+
+Written by Chris McCullough(a.k.a SirGalahad (srgalhad@primenet.com))
+First printing:  January 19, 1994
+Updated:  November 27, 1996
+
+Remember:  The Lin Kuei Headquarters
+http://www.primenet.com/~srgalhad/mk.htm
+
+
+TABLE OF CONTENTS
+-----------------
+
+I.     Overall and character plot
+II.    Basic moves
+III.   A note on finishing moves
+IV.    Hidden Characters
+V.     Individual moves and fatalities
+VI.    Just what the heck is Shao Kahn saying?
+VII.   Game Tricks
+VIII.  Combination moves
+IX.    Ending stories
+X.     Ending hints
+XI.    Rumors
+XII.   Chip version
+XIII.  Credits
+
+
+
+I. OVERALL AND CHARACTER PLOT
+-----------------------------
+
+     Five hundred years ago, Shang Tsung was banished to the Earth realm.
+With the aid of Goro he was to unbalance the furies and doom the planet to
+a chaotic existence.
+     By seizing control of the Shaolin Tournament, he trued to tip the
+scales of Order toward Chaos.  Only seven warriors survived the battles
+and Shang Tsung's scheme would come to a violent end at the hands of Liu Kang.
+     Facing execution for his failure and the apparent death of Goro,
+Shang Tsung convinces Shao Kahn to grant him a second chance.
+     Tsung's new plan is to lure his enemies to compete in the Outworld
+where they will meet certain death by Shao Kahn himself.
+     Now the Kombat continues...
+
+
+Liu Kang
+--------
+
+     After winning the Shaolin tournament from Shang Tsung's clutches, Liu
+Kang returns to his temples.  He finds his sacred home in ruins, his
+Shaolin brothers killed in a vicious battle with a horde of Outworld
+warriors.  Now he travels into the dark realm to seek revenge.
+
+
+Kung Lao
+--------
+
+     A former Shaolin Monk and member of the White Lotus Society.  He is
+the last descendent of the great Kung Lao, who was defeated by Goro five
+hundred years ago.  Realizing the danger of the Outworld menace, he joins
+Liu Kang in entering Shao Kahn's contest.
+
+
+Johnny Cage
+-----------
+
+     After Shang Tsung's tournament, the martial arts superstar
+disappears.  He follows Liu Kang into the Outworld.  There he will compete
+in a twisted tournament which holds the balance of Earth's existence, as
+well as a scrpit for another blockbuster movie.
+
+
+Reptile
+-------
+
+     As Shang Tsung's personal protector, the elusive Reptile lurks in the
+shadows, stopping all those who would do his master harm.  His human form
+is beleived to disguise a horrid reptilian creature whose race was thought
+extinct millions of years ago.
+
+
+Sub-Zero
+--------
+
+     Thought to have been killed in the Shaolin tournament, Sub-Zero
+mysteriously returns.  it is beleived he traveled into the Outwrold to
+again attempt to assassinate Shang Tsung.  To do so, he must fight his way
+through Shao Kahn's tournament.
+
+
+Shang Tsung
+-----------
+
+     After losing control of the Shaolin tournament, Shang Tsung promises
+his ruler Shao Kahn to shape events that will lure the Earth warriors to
+compete in his own contest.  Conviced of this plan, Shao Kahn restores
+Tsung's youth and allows him to live.
+
+
+Kitana
+------
+
+     Her beauty hides her true role as personal assassin for shao Kahn.
+Seen talking to an Earth realm warrior.  Her motives have come under
+suspicion by her twin sister, Mileena.  But only Kitana knows her true
+intentions.
+
+
+Jax
+---
+
+     His real name is Major Jackson Briggs, leader of a top U.S. special
+forces unit.  After receiving a distress signal from Lueutenant Sonya
+Blade, Jax embarks on a rescue mission.  One that leads him into a ghastly
+world where he believes that Sonya is still alive.
+
+Mileena
+-------
+
+     Serving as an assassin along with her twin sister, Kitana, Mileena's
+dazzling appearance conceals her hideous intentions.  At Shao Kahn's
+request, she is asked to watch for her twin's suspection.  she must put a
+stop to it at any cost.
+
+
+Baraka
+------
+
+     He led the attack against Liu Kang's Shaolin Temple.  Baraka belongs
+to a nomadic race of mutants living in the waste-lands of the Outworld.
+His fighting skills gained the attention of Shao Kahn, who recruited him
+into his army.
+
+
+Scorpion
+--------
+
+     The Hell-spawned specter rises from the pit.  After learning of
+Sub-Zero's return, he again stalks the ninja assassin, following him into
+the dark realm of the Outworld where he continues his own unholy mission.
+
+
+Raiden
+------
+
+     Watching events unfold from high above, the thunder god realizes the
+girm intentions of Shao Kahn.  After warning the remaining members of the
+Shaolin tournament, Raiden soon disappears.  He is believed to have
+ventured into the Outworld alone.
+
+
+
+II. BASIC MOVES
+---------------
+
+
+Face Punch  :  HIGH PUNCH
+Body Punch  :  LOW PUNCH
+Face Kick   :  HIGH KICK
+Body Kick   :  LOW KICK
+Block       :  BLOCK
+
+Jump Kick   :  Up + HIGH or LOW KICK
+Jump Punch  :  Up + HIGH or LOW PUNCH
+Roundhouse  :  Back + HIGH PUNCH
+Foot Sweep  :  Back + LOW PUNCH
+Uppercut    :  Down + HIGH PUNCH
+Crouch Punch:  Down + LOW PUNCH
+Crouch Kick :  Down + LOW KICK
+Turning Kick:  Jump over opponent.  When you pass the center of his body,
+                press either KICK.  The character will turn and kick at the
+                opponent.
+Throw       :  Forward + LOW PUNCH(Close to opponent)
+Avoid Throw :  Diagonally down away from opponent + BLOCK
+Close Move  :  Any attack button(Close to opponent)
+
+     Each character has their own Close Move.  For example, Using HIGH
+PUNCH with Baraka will cause him to backhand his opponent, while Liu Kang
+will do a double forearm.  Note that Jax has the only Close Move that will
+stun the opponent, leaving them open for attack.
+
+
+
+III. NOTE ON FINISHING MOVES
+----------------------------
+
+
+     As in Mortal Kombat I, each character has their own fatality, or
+move that will kill the opponent, usually very violently.  In Mortal
+Kombat II, each character has four other finishing moves:  Babality,
+Friendship, Pit 2/Tomb, and Dead Pool.
+
+Babality
+--------
+     When completed, the opponent will be changed into a baby.
+
+Friendship
+----------
+     Instead of a violent death to the opponent, the chosen character will
+do a cute(and sometimes humorous) special effect.
+
+Pit 2/Tomb
+----------
+     As in Mortal Kombat I, the Pit has returned, where players can knock
+their opponents onto the ground below.  Also in Mortal Kombat II, there is
+a room known as the Kombat Tomb, where the ceiling is a bed of spikes and
+the player can knock his opponent onto the ceiling.
+
+The Dead Pool
+-------------
+     Another stage in Mortal Kombat II is the Dead Pool, where the
+combatants fight on a small strip over a large acid pool.  After defeating
+your opponent, you can knock them into the acid, which eats their body,
+leaving a skeleton which floats by.
+
+
+     Note that the Pit 2/Tomb move can only be done on either the Pit II
+stage or the Kombat Tomb stage.  in order to perfom the Babality of
+Friendship move, you must finish your second winning round WITHOUT using
+either PUNCH button.
+     To knock the opponent off into the Dead Pool, simply uppercut your
+opponent while pressing down and holding LOW PUNCH and LOW KICK.
+     (NOTE:  To make the opponent slide of the spikes on the ceiling in
+the Kombat Tomb, push both joysticks down as soon as the crescendo(the
+quick notes that inform you a fatality is about to happen) hits.  Continue
+to hold the joysticks down until the opponent begins to slide.)
+     (NOTE:  Johnny Cage's and Shang Tsung's Friendships were altered in
+3.1 due to the fact that the conflicted with other moves.  In 2.1, Cages'
+was : Down - down - down - HIGH KICK.  Shang Tsung's was: Hold BLOCK(back
+- back - down - back - HIGH KICK).)
+
+
+
+
+IV. HIDDEN CHARACTERS
+---------------------
+
+     Congratulations!  You have found the passage from the Outworld to the
+Earth realm.  Now you must battle with an undiscovered warrior from Mortal
+Kombat One.  Prepare yourself to return to Goro's Lair.
+
+
+Jade
+----
+
+     In order to compete against Jade, the green female assassin, you must
+see either her or the grey ninja Smoke in the Living Forest stage.  Then,
+when fighting the last opponent before the mystery stage (the question
+mark before Shang Tsung), you must defeat your opponent in one round
+by using the LOW KICK button ONLY.
+
+
+Smoke
+-----
+
+     To fight against Smoke, the grey ninja, you must see him or Jade in
+the Living Forest.  Then, during the Portal stage (the room with the big
+black swirl with the four sorcerers floating in the background), you must
+make Dan Forden appear.  Dan Forden is the little figure that
+occasionally appears on the bottom right hand corner on the screen and
+says 'Toasty!' when you uppercut your opponent.  When he appears, push the
+joystick down and press your START buton.
+
+
+Noob Saibot
+-----------
+
+     To fight the black ninja, Noob Saibot, you must get fifty wins in a row.
+
+
+Smoke and Jade clues
+--------------------
+
+     On 3.1 occaisonally before a match, Smoke or Jade will pop out for a
+brief moment and give you a clue on how to fight them.
+
+Smoke clues                            Jade clues
+-----------                            ----------
+
+I am called Smoke                      I am called Jade
+Toasty                                 Before the  ?
+You can start finding me               Ermac who?
+Ermac who?                             I will meed you in Goro's Lair
+You can not defeat me                  Chun who?
+I am one of three                      I am one of three
+Portal                                 Restrict yourself
+I will meet you in Goro's Lair         Alone is how you will find me
+Mortal Kombat One                      One day we will fight!
+Prepare yourself                       Bring on Kano and Sonya!
+
+
+
+V. INDIVIDUAL AND FINISHING MOVES
+---------------------------------
+
+
+
+Liu Kang
+--------
+
+Double Forearm    :  HIGH PUNCH(CLose to opponent)
+Standard Fireball :  Two forward - HIGH PUNCH(Can be done in air)
+Crouching Fireball:  Two forward - LOW PUNCH
+Flying Kick       :  Two forward - HIGH KICK
+Bicycle Kick      :  Hold LOW KICK(3 seconds) then release
+
+Fatalities:  (#1)Down - forward - back - back - HIGH KICK
+                (Liu Kang morphs into a green dragon and bites the opponent
+                  in half, leaving the legs.)
+             (#2)360 degrees(opposite direction)
+                (Liu Kang does a spinning kick with an uppercut.)
+Babality  :  Down - down - forward - back - LOW KICK
+Friendship:  Forward - back - back - back - LOW KICK
+                (Liu Kang dances under a disco ball)
+Pit 2/Tomb:  Back - forward - forward - LOW KICK
+
+
+Kung Lao
+--------
+
+HeadButt       :  HIGH PUNCH(Close to opponent)
+Ground Teleport:  Down - up(flick joystick down)
+Hat Throw      :  Back - forward - LOW KICK
+Energy Spin    :  BLOCK - up - up - LOW KICK
+Flying Kick    :  Up - down + HIGH KICK
+
+Fatalities:  (#1)Hold BLOCK(four forward) - LOW KICK
+                (Kung Lao removes his hat and slices his opponent vertically.)
+             (#2)Hold LOW PUNCH(back - back - forward) then release - up
+                (Kung Lao throws his hat, which decapitates his opponent.)
+Babality  :  Back - back - forward - forward - HIGH KICK
+Friendship:  Back - back - down - HIGH KICK
+                (Kung Lao pulls a rabbit out of his hat.)
+Pit 2/Tomb:  Forward - forward - forward - HIGH PUNCH
+
+
+Johnny Cage
+-----------
+
+High Kick      :  HIGH KICK or LOW KICK(Close to opponent)
+Low Green Ball :  Half-circle towards - LOW PUNCH
+High Green Ball:  Half-circle away - HIGH PUNCH
+Shadow Punch   :  Back - down - back - HIGH PUNCH
+Shadow Kick    :  Back - forward - LOW KICK
+Crotch Punch   :  BLOCK + LOW PUNCH
+
+Fatalities:  (#1)Down - down - forward - forward - LOW PUNCH
+                (Cage rips off his opponent's torso and throws it to the
+                  ground.)
+             (#2)Forward - forward - down - up
+                (Cage decapitates his opponent with an uppercut.)
+                (THREE HEADS - Hold down + BLOCK + LOW PUNCH + LOW KICK)
+Babality  :  Back - back - back - HIGH KICK
+Friendship:  Down - down - down - down - HIGH KICK
+                (Cage gives an autographed picture.)
+Pit 2/Tomb:  Down - down - down - HIGH KICK
+
+
+Reptile
+-------
+
+Acid Spit   :  Forward - forward - HIGH PUNCH
+Force Ball  :  Back - back - HIGH PUNCH + LOW PUNCH
+Invisibility:  Hold BLOCK - up - up - down - HIGH PUNCH
+Slide       :  Back + LOW PUNCH + BLOCK + LOW KICK
+
+Fatalities:  (#1)Back - back - down - LOW PUNCH
+                (Reptile removes his mask to reveal a lizard's head.  He then
+                  lashes his tongue out, catching his opponent's head and
+                  pulling it back into his mouth.)
+             (#2)Hold BLOCK - up - up - down - HIGH PUNCH - forward - forward -
+                down - HIGH KICK
+                (Reptile disappears.  Soon after, his opponents's torso is
+                  ripped from their body and falls to the ground as Reptile
+                  reappears.)
+Babality  :  Down - back - back - LOW KICK
+Friendship:  Back - back - down - LOW KICK
+                ("Buy a Reptile doll!")
+Pit 2/Tomb:  Down - down - forward - forward - BLOCK
+
+
+Sub-Zero
+--------
+Iceball      :  Quarter-circle towards - LOW PUNCH
+Ground Freeze:  Half-circle away - LOW KICK
+Slide        :  Back + LOW PUNCH + BLOCK + LOW KICK
+
+Fatalities:  (#1)Forward - forward - down - HIGH KICK - forward - down -
+                forward - forward - HIGH PUNCH
+                (Sub-Zero freezes his opponent and shatters them with an
+                  uppercut.)
+             (#2)Forward - forward - down - HIGH KICK - Hold LOW PUNCH(back
+                - back - down - forward) then release
+                (Sub-Zero creates a small iceball and throws it into his
+                   opponent's chest.  Soon after, their upper body explodes.)
+Babality  :  Down - back - back - HIGH KICK
+Friendship:  Back - back - down - HIGH KICK
+                ("Buy a Sub-Zero doll!")
+Pit 2/Tomb:  Down - down - forward - forward - BLOCK
+
+
+Shang Tsung
+-----------
+
+Flaming Skulls:  Back - back - HIGH PUNCH(1 skull)
+                 Back - back - forward - HIGH PUNCH(2 skulls)
+                 Back - back - forward - forward - HIGH PUNCH(3 skulls)
+Morphs:
+     Liu Kang:  Forward - forward - back - back - BLOCK
+     Kung Lao:  Back - down - back - HIGH KICK
+  Johnny Cage:  Back - back - down - LOW PUNCH
+      Reptile:  Hold BLOCK - up - down + HIGH PUNCH
+     Sub-Zero:  Forward - down - forward - HIGH PUNCH
+       Kitana:  BLOCK - BLOCK - BLOCK
+          Jax:  Down - forward - back - HIGH KICK
+      Mileena:  Hold HIGH PUNCH(3 seconds) then release
+       Baraka:  Down - down - LOW KICK
+     Scorpion:  Hold BLOCK - up - up
+       Raiden:  Down - back - forward - LOW KICK
+
+Fatalities:  (#1)Hold HIGH KICK(3 seconds) then release
+                (Shang Tsung flies in his opponent's mouth.  The opponent
+                  soon explodes, with Tsung standing exactly where his
+                  opponent stood.)
+             (#2)Hold BLOCK - up - down - up - LOW KICK
+                (Shang Tsung picks up his opponent with one hand and raises
+                  the other.  The opponent's soul leaves its body, leaving a
+                  decayed and withered form.)
+             (#3)Hold LOW PUNCH(20 seconds) then release
+                (Shang Tsung morphs into Kintaro.  He then punches off his
+                  opponents upper body.)
+Babality  :  Down - back - forward - down - HIGH KICK
+Friendship:  Back - back - down - forward - HIGH KICK
+                (Shang Tsung creates a rainbow.)
+Pit 2/Tomb:  Hold BLOCK(down - down - up - down)
+
+
+Kitana
+------
+
+Fan Swipe :  Back + HIGH PUNCH
+Fan Throw :  Forward - forward - HIGH PUNCH + LOW PUNCH
+Fan Lift  :  Back - back - back - HIGH PUNCH
+Air Attack:  Quarter-circle away - HIGH PUNCH
+
+Fatalities:  (#1)BLOCK - BLOCK - BLOCK - HIGH KICK
+                (Kitana decapitiaes her opponent with her fan.)
+             (#2)Hold LOW KICK(Forward - forward - down - forward) then
+                release
+                (Kitana kisses her opponent on the head.  The opponent
+                  begins to swell up until they explode.)
+Babality  :  Down - down - down - LOW KICK
+Friendship:  Down - down - down - up - LOW KICK
+                (Kitana makes a cake.)
+Pit 2/Tomb:  Foward - forward - down - forward - HIGH KICK
+
+
+Jax
+---
+
+Overhead Hammer:  HIGH PUNCH(Close to opponent)
+Ground Smash   :  Hold LOW KICK(3 seconds) then release
+'Gotcha' Grab  :  Forward - forward - LOW PUNCH
+                   (Tap LOW PUNCH for up to 5 punches)
+Quadruple Slam :  Throw the opponent
+                   (Tap HIGH PUNCH for up to 4 slams)
+Energy Wave    :  Half-circle away - HIGH KICK
+Back Breaker   :  BLOCK(Both opponents must be in mid-air)
+
+Fatalities:  (#1)Hold LOW PUNCH(four forward) then release
+                (Jax clasps his hands on his opponent's head, causing it to
+                  splatter into pieces.)
+             (#2)BLOCK - BLOCK - BLOCK - BLOCK - LOW PUNCH
+                (Jax rips off his opponent's arms.)
+Babality  :  Down - up - down - up - LOW KICK
+Friendship:  Down - down - up - up - LOW KICK
+                (Jax makes paper dolls.)
+Pit 2/Tomb:  Up - up - down - LOW KICK
+
+
+Mileena
+-------
+
+Throw Sai    :  Hold HIGH PUNCH(3 seconds) then release
+Teleport Kick:  Forward - forward - LOW KICK
+Roll         :  Back - back - down - HIGH KICK
+
+Fatalities:  (#1)Forward - back - forward - LOW PUNCH
+                (Mileena rapidly stabs her opponent with her sais, raising
+                  them off the ground.)
+             (#2)Hold HIGH KICK(4 seconds) then release
+                (Mileena inhales her opponent and spits out their bones.)
+Babality  :  Down - down - down - HIGH KICK
+Friendship:  Down - down - down - up - HIGH KICK
+                (Mileena plants a seed, which blooms into a flower.)
+Pit 2/Tomb:  Forward - forward - down - forward - LOW KICK
+
+
+Baraka
+------
+
+Backhand   :  HIGH PUNCH(Close to opponent)
+Blade Swipe:  Back + HIGH PUNCH
+Blade Fury :  Back - back - back - LOW PUNCH
+Blue Bolt  :  Quarter-circle away - HIGH PUNCH
+
+Fatalities:  (#1)BLOCK - back - back - back - HIGH PUNCH
+                (Baraka decapitates his opponent with his blade.)
+             (#2)Back - forward - down - forward - HIGH PUNCH
+                (Baraka stabs his opponent in the chest and raises them off
+                  the ground.  The opponent gasps and slowly slides down
+                  the blades.)
+Babality  :  Forward - forward - forward - HIGH KICK
+Friendship:  Hold BLOCK - up - up - forward - forward - HIGH KICK
+                (Baraka gives you a present.)
+Pit 2/Tomb:  Forward - forward - down - HIGH KICK
+
+
+Scropion
+--------
+
+Spear         :  Back - back - LOW PUNCH
+Teleport Punch:  Quarter-circle away - HIGH PUNCH(Can be done in air)
+Leg Grab      :  Half-circle away - LOW KICK
+Air Throw     :  BLOCK(Both opponents must be in mid-air)
+
+Fatalities:  (#1)Hold BLOCK - up - up - HIGH PUNCH
+                (Scorpion removes his mask to reveal a skull.  He then
+                  breathes fire on his opponent, turning them into a flaming
+                  skeleton, which shakes violently and eventually explodes.)
+                (NOTE:  by doing Down - down - up - up - HIGH PUNCH, you can
+                  perform the fatality ANYWHERE on the screen.)
+             (#2)Hold HIGH PUNCH(Forward - down - forward - forward - forward)
+                then release
+                (Scorpion slits his opponent's throat with his spear and
+                  slices them in half at the waist.)
+Babality  :  Down - back - back - HIGH KICK
+Friendship:  Back - back - down - HIGH KICK
+                ("Buy a Scorpion doll!")
+Pit 2/Tomb:  Down - down - forward - forward - BLOCK
+
+
+Raiden
+------
+
+Body Launch  :  Back - back - forward(Can be done in air)
+Lightning    :  Quarter-circle towards - LOW PUNCH
+Teleport     :  Down - up(Flick joystick down)
+Electrocution:  Hold HIGH PUNCH(4 seconds) then release
+
+Fatalities:  (#1)Hold LOW KICK(5 seconds) then release - tap BLOCK + LOW KICK
+                (Raiden electrocutes his opponent until they explode.)
+             (#2)Hold HIGH PUNCH(10 seconds) then release
+                (Raiden explodes his opponent with an uppercut.  Only the
+                  head is left unharmed, which falls to earth after a few
+                  seconds.)
+Babality  :  Down - down - up - HIGH KICK
+Friendship:  Down - back - forward - HIGH KICK
+                ("Kidd Thunder!")
+Pit 2/Tomb:  Hold BLOCK - up - up - up - HIGH PUNCH
+
+
+
+
+VI. JUST WHAT THE HECK IS SHAO KAHN SAYING?
+-------------------------------------------
+
+(Laughs)
+"You will die, mortal!"
+"You are nothing!"
+"I will destroy you!"
+"Prepare to die!"
+"I rule this world!"
+"Feel the power of Shao Kahn!"
+"Feel the wrath of Shao Kahn!"
+"You weak, pathetic fool!"
+"I am Shao Kahn...Bow to me!"
+"Is that your best?"
+"All too easy!"
+
+
+VII.  GAME TRICKS
+-----------------
+
+     On version 3.1, ther are a few tricks you are now able to do at the
+beginning of a two-player game.  Also, like the tank game in NBA Jam,
+there is a special game in Mortal Kombat II.
+
+
+Disable Throw
+-------------
+
+     To disable the throw on a two-player game, each player must first
+pick their character.  After choosing, BOTH joysticks must be pushed down
+and BOTH HIGH PUNCH buttons pressed until the scene and the two combatants
+appear.  At the top of the screen, 'Throwing Disabled' will be shown.
+
+
+Random Character Select
+-----------------------
+
+     To have the game randomly choose your character for you, push your
+joystick up and press your START button.  Note that you must be on the
+character square you first appeared on(Player 1 is Liu Kang;  Player 2 is
+Reptile).
+
+
+Pong
+----
+
+     To play pong on Mortal Kombat II, there has to be two-hundred and
+fifty two-player games played first.  Best of seven wins!
+
+
+
+VIII. COMBINATION MOVES
+-----------------------
+
+
+
+Basic Moves
+-----------
+
+1.  Jump Kick - Foot Sweep
+     This only works with the computer.  Get a full screen lengths away
+from the computer and jump kick him.  As soon as you reach the ground, foot
+sweep the opponent.
+
+2.  Foot Sweep - Throw Opponent
+     This only works when playing a human opponent.  After sweeping,
+quickly throw the oppoonent.
+
+3.  Jump Kick - Throw Weapon
+     Jump Kick the opponent below the waist so you will touch the ground
+first.  Then quickly throw your characters weapon.
+        
+
+
+Liu Kang
+--------
+
+1.  Jump Kick - Flying Kick
+     Jump kick you opponent below the waist.  As soon as you touch ground,
+perform the flying kick.  Start the two forward motion as you kick the
+opponent.
+
+2.  Jump Punch - Standard Fireball
+     Jump punch you opponent when they are in midair.  As soon as you
+touch ground, throw the fireball.  Start the two froward motion as you
+kick the opponent.
+
+3.  Jump Kick - Bicycle Kick
+     Start charging the bicycle kick first.  Then, jump kick your opponent
+below the waist and perform the bicycle kick.
+
+4.  Jump Kick - Standard Fireball - Crouching Fireball
+     Same as 1 except:
+        For computer:  Do the crouching fireball; computer will not block it.
+           For human:  Do the bicycle kick.
+
+
+
+Kung Lao
+--------
+
+1.  Jump Kick - Hat Throw
+     Jump kick your opponent below the waiat and throw the hat.  Guide the
+hat low so it hits the opponent.
+
+2.  Jump Kick - Flying Kick
+    Use this against the computer.  After jump kicking the opponent, jump
+stright up and execute the flying kick jsut as the opponent stands.
+
+3.  Jump Kick - Energy Spin
+     Jump kick your opponent in the corner and execute the energy spin.
+
+4.  Energy Spin - Jump Kick
+     When the opponent is hit by the energy spin, Kung Lao has time to do
+a jump kick.
+
+
+
+Johnny Cage
+-----------
+
+1.  Jump Kick - Shadow Kick
+     Jump kick your opponent(below the waist if standing, or kick faster
+if the opponent is in mid air) and quickly perform the shadow kick.
+
+2.  Jump Kick - Shadow Punch
+     Jump kick you opponent below the waist and quickly execute the shadow
+punch.  The shadow punch must be done quickly in order for a connection to
+take place.  This is easier if the opponent is in the corner.
+
+3.  Jump Kick - Low Green Ball
+     Jump kick the opponent and immediately throw the low green ball.
+
+4.  Crotch Punch - Turning Kick - Shadow Kick
+     Perform the crotch punch.  While the opponent is doubled over,
+quickly perform the turning kick.  If the opponent is not blocking the
+turning kick, you then can shadow kick the opponent(or shadow punch).
+
+
+
+Reptile
+-------
+
+1.  Jump Kick - Acid Spit
+     Jump kick your opponent below the waist and perform the acid spit.
+Begin the two forward motion while you are kicking.
+
+2.  Force Ball - Punch - Punch - Jump Kick - Slide
+     If the opponent is hit by the force ball, do two punches as they fly
+into you.  Then quickly perform a jump kick into them and then slide.
+
+3.  Jump Kick - Slide
+     Jump kick the opponent below the waist so you will touch ground
+first, then slide into them.
+
+4.  Force ball - Uppercut
+     If the opponent is hit by the forceball, uppercut them as they fly
+into you.
+
+
+
+Sub-Zero
+--------
+
+1.  Jump Kick - Slide
+     Same as Reptile.
+
+2.  Jump Kick - Ground Freeze - Uppercut - Slide
+     Jump kick the opponent then perform the groung freeze.  If playing
+a human opponent, kick them below the waist otherwise the ice won't reach
+them.  When they slip, uppercut them and quickly slide into them.
+
+3.  Jump Kick - Iceball
+     Jump kick them when they are in midair and throw the iceball.  Timing
+is crucial here.
+
+
+
+Shang Tsung
+-----------
+
+1.  Jump Kick - Flaming Skull
+     Jump kick your opponent below the waist and throw a skull.  Start the
+two back motion as you are kicking.  (Note: Only works on some players)
+
+2.  Flaming Skulls
+     If done right, the opponent will skip on the skulls.  Throw the three
+skulls before the opponent jump either toward or away.
+
+
+
+Kitana
+------
+
+1.  Jump Kick - Fan Throw
+     Jump kick the opponent low and quickly perform the fan throw.  Start
+the two forward motion as you are kicking, and hit the two PUNCH buttons
+right after you kick the opponent.
+
+2.  Jump Kick - Fan Lift
+     Jump kick the opponent below the waist and perform the fan lift.  Do
+the three back motion as you are kicking, and hit the HIGH PUNCH button
+right after you kick the opponent.
+
+3.  Fan Lift - Jump Kick - Fan Throw - Air Attack
+     After the fan lift, walk towards them a long as possible and jump
+kick into them.  Immediately performt he fan throw when you kick.  Start
+the two forward motion as you kick them.  Then, quickly performt he air
+attack, or jump kick them again.
+
+4.  Fan Lift - Jump Kick - Fan Throw - Uppercut
+     Same as three, except when the opponent is falling down after the fan
+throw, you uppercut the opponent.  This can only be done if the opponent
+is in the corner.
+
+
+
+Jax
+---
+
+1.  Overhead Hammer - Uppercut
+     After performing the overhead hammer, uppercut the opponent.  You can
+do other moves, such as the 'Gotcha' grab, instead of the uppercut.
+
+2.  Jump Kick - Energy Throw
+     Jump kick the opponent below the waist, and immediately perform the
+energy throw.
+
+3.  Jump Kick - 'Gotcha' Grab
+     Jump kick the opponent below the waist, and quickly perform the
+'Gotcha' grab.  Start the two forward motion while you are kicking and
+quickly press LOW PUNCH.  Timing is crucial, or Jax will miss.
+
+4.  Jump Kick - Back Breaker
+     Jump kick your opponent below the knees.  Quickly hit BLOCK to
+perform the back breaker.
+
+5.  Jump Kick - Ground Smash
+     Charge up the ground smash first.  Then, jump kick the opponent below
+the waist.  As soon as you touch ground, performt he ground smash.  This
+may not work on human players, since the only way to avoid the ground
+smash is to jump in the air.
+
+
+
+Mileena
+-------
+
+1.  Jump Kick - Throw Sai
+     Charge up the throw sai first.  Then, jump kick your opponent below
+the waist, and quickly perform the throw sai after.
+
+2.  Jump Kick - Throw Sai - Teleport
+     Charge up the throw sai first.  Then, jump kick your opponent as they
+are in mid air and quickly perform the throw sai.  When you touch ground,
+execute the teleport.
+
+3.  Jump Kick - Roll
+     Jump kick your opponent below the waist and immediately perform the
+roll.  Start the two back motion as you are kicking in order to complete
+the move as soon as you touch ground.
+
+
+
+Baraka
+------
+
+1.  Jump Kick - Blue Bolt
+     Jump kick your opponent below the waist and throw the blue bolt at
+soon as you touch ground.
+
+2.  Jump Kick - Blade Fury
+     Jump kick your opponent below the waist and quickly perform the blade
+fury.  Start the three back motion as you are kicking.  Timing is crucial,
+otherwise Baraka will miss and be left open for attack.
+
+
+
+Scorpion
+--------
+
+1.  Spear - Uppercut
+     By far the most known Scorpion combo move.  Spear the opponent and
+uppercut them when you pull them back.
+
+2.  Jump Kick - Spear - Uppercut
+     Jump kick your opponent below the waist and quickly throw the spear.
+Start the two back motion as you are kicking.
+
+3.  Jump Kick - Leg Grab
+     Jump kick your opponent below the waist and quickly performt he leg grab.
+
+4.  Jump Kick - Air Throw
+     Jump kick your opponent below the waist.  Quickly press BLOCK in
+order to throw the opponent.
+
+5.  Teleport Punch - Spear - Uppercut
+     Teleport the opponent and immediately throw the spear.  This works
+best then then opponent is in mid air at the time you execute the teleport
+punch.
+
+6.  Teleport Punch - Leg Grab
+    Same as #4, except you execute the leg grab.
+
+7.  Turning Kick - Teleport Punch - Spear - Uppercut
+     Perform the turning kick.  As soon as you connect, perform the
+teleport punch.  If the teleport punch connects, immediately throw the
+spear and uppercut the opponent.
+
+8.  Jump Kick - Punch - Teleport Punch - Spear - Uppercut
+     Jump kick the opponent when they are in mid air.  Press the KICK
+button right as you jump.  When you connect, punch the opponent once.  If
+connection is made, immediately perform the teleport punch and throw the
+spear after.
+
+
+
+Raiden
+------
+
+1.  Jump Kick - Body Launch
+     Jump kick the opponent high, near the head,  and quickly perform the body
+launch.  Start the two back motion as you are kicking.  You can jump kick
+the opponent below the waist, but chances are the opponent will block the
+body launch or you will fly over them.
+
+2.  Jump Punch - Body Launch
+     Jump punch the opponent at they are in mid air and quickly perform
+the body launch.  You can also jump kick them instead of the jump punch.
+
+
+3.  Jump Kick - Lightening
+     Jump kick the opponent below the waist and quickly throw the
+lightening.
+
+4.  Electrocution - Punch - Punch - Body Launch
+     After performing the electrocution, punch the opponent twice.  When
+the opponent is in mid air, perform the body launch.
+
+
+
+IX. ENDING STORIES
+------------------
+
+     (NOTE:  If you relish the thought of playing Mortal Kombat II with a
+certain character to see what his ending is, and you hate
+compendiums/cheat sheets that spoil that by telling you:  FOR GOD'S SAKE
+DON'T READ THE FOLLOWING!!!  Throw it away!  Burn this section!  Use it
+for bird cage lining!  It makes a great fondue!  Sew it into a coat, JUST
+DON'T READ IT!)
+
+
+Liu Kang
+--------
+(Played by Ho Sung Pak)
+
+     With his Shaolin temple in ruins, Liu Kang journeys into the
+Ourworld, enters Shao Kahn's tournament, and unleashes a fury that does
+not end until the defeat of Shao Kahn.  Liu Kang then returns to the
+seclusion of his Shaolin temple.  He pays his respects to his lost
+brothers and finally realizes that the events which have taken place were
+all fulfillment of his destiny.
+
+
+Kung Lao
+--------
+(Played by Anthony Marquez)
+
+     A former Shaolin monk alongside Liu Kang, Kung Lao also grieves the
+loss of their Shaolin brothers.  He realizes his ultimate fate lies within
+the drak realm of the Outworld.  He defeats his Outworld opponents until
+he emerges the supreme champion.  With his strength and spirit in complete
+alignment he finally avenges the death of his great ancestor.  Although
+his greatest challenges lie ahead.
+
+
+Johnny Cage
+-----------
+(Played by Daniel Pesina)
+
+     After disappearing from the set of his latest movie, Cage finally
+resurfaces.  He used all his knowledge and experiences as a fighter to end
+the Outworld menace.  Now heralded as a true hero, Cage receives the
+respect he rightfully deserves.  He also sets his inspiration for the
+sequel to his blockbuster movie, Mortal Kombat.  MK II is released and
+quickly becomes the greatest motion picture event of all time.  Cage
+realizes that MK III is inevitiable.
+
+
+Reptile
+-------
+(Played by Daniel Pesina)
+
+     Reptile has always loyally served as Shang Tsung's protector.  While
+maintaning a very low profile in the first tournament he discovered
+Tsung's plot to force the remaining members of his near extinct race into
+slavery under Shao Kahn's rule.  Reptile then devises a plan of his own.
+He enters the Outworld torunament, defeats Shao Kahn and turns against
+Shang Tsung, ending his master's scheme.  Now his race can live on in
+their own peaceful existence.
+
+
+Sub-Zero
+--------
+(Played by Daniel Pesina)
+
+     When Sub-Zero failed to return from the Shaolin tournament and rumor
+of Shang Tsung's survival reached the Lin Kuei clan, they immediately
+seeked another assassin to complete the task.  This new warrior is
+actually the younger brother of the origional Sub-Zero.  The enters the
+Outworld contest and accomplishes his task.  He learns of Scorpion's foul
+vendetta against his brother but will never know why his life was spared.
+Perhaps a third tournament is in his future?
+
+
+Shang Tsung
+-----------
+(Played by Philip Ahm, MD)
+
+     Shang Tsung not only turns against and defeats both Kintaro and Shao
+Kahn, he also takes over their rule of the Outworld.  With Shao Kahn's
+armies at his command, he finally unbalances the furies, and weakens the
+dimensional gates between the Outworld and the Earth realm.  Along with
+his elite group of sorcerers, he uses this weakness to march a never
+ending horde of demons into the Earth and doom its inhabitants to eternal
+darkness.  Have a nice day.
+
+
+Kitana
+------
+(Played by Katalin Z)
+
+     Through her years of working as an assassin, Kitana has learned many
+secrets, especially about her own past.  She finds that Mileena is not her
+twin but a grotesque clone created by Shang Tsung.  She learns that her
+parents were former rulers of the Outworld, overthrown by Shao Kahn.
+Determined to take back what is rightfully hers, she must defeat Shao Kahn
+herself.  She does so by entering the tournament.  She retakes her
+parents' castle and restores the Outworld back to a realm of nobility.
+
+
+Jax
+---
+(Played by)
+
+     Jax finds Sonya held captive alongside their arch enemy, Kano.  Her
+only chance of escape is by Jax entering Shao Kahn's contest.  With fierce
+determination, he catches the Outworld warriors off guard and wins the
+tournament, bringing Shao Kahn's rule to a crashing halt.  During the
+chaos that follows, Jax and Sonya escape through the dimensional gate from
+which they entered.  Kano once again eludes capture, but Jax and Sonya
+know they will cross paths with him in the future.
+
+
+Mileena
+-------
+(Played by Katalin Z)
+
+     Once thought to be Kitana's twin sister, Mileena is actually a
+grotesque clone created by Shang Tsung.  With Shao Kahn suspicious of
+Kitana's motives, Mileena seizes the oppotunity to attack Kahn and his
+minions.  Caught off guard, they are no match for Mileena's speed.  She
+wins the tournament and with her secret companion, Baraka, they rule the
+Outworld as King and Queen.
+
+
+Baraka
+------
+(Played by Richard Divizio)
+
+     Known for his unpredictable actions and wild fits of anger, Baraka
+goes on a rampage.  After defeating the Earth warriors he attacks Shang
+Tsung, Kintaro, and finally Shao Kahn himself.  After defeating Shao Kahn,
+Baraka's race of mutants arise from the wastelands and rebel against what
+is left of Kahn's army.  They eventually win and the Outworld comes uner
+the rule of King Baraka.
+
+
+Scorpion
+--------
+(Played by Daniel Pesina)
+
+     Upon learning of Sub-Zero's reappearance, Scorpion enters Shao Kahn's
+tournament.  He witnesses Sub-Zero spare the life of an opponent, and
+realizes that this is not the same Sub-Zero who murdered him so long ago.
+He lets the ninja live and goes on to defeat the Outworlders in their
+unholy contest.  With the defeat of Shao Kahn, Scorpion discovers a new
+purpose for his existence.  He becomes the guardian of the new Sub-Zero to
+atone the murdering of his older brother and in preparation for a third
+tournament.
+
+
+Raiden
+------
+(Played by Carlos Pesina)
+
+     Familiar with Shang Tsung's lies and Shao Kahn's brutality, Raiden
+accepts their challenge to compete in an Outworld tournament.  He is well
+aware of their scheme to unbalance the furies and invade the Earth realm.
+Raiden vows to use all his might to end their treachery.  Winning the
+tournament, Raiden destroys Shao Kahn and all his minions.  He also
+destroys the dimensional gates which would have been their passagway to
+the Earth realm.
+
+
+
+X. ENDING HINTS
+---------------
+
+     Here are the hints that are displayed at the bottom the screen in red
+letters after you defeat Shao Kahn.  Some are written in their original
+scrambled form.
+
+Where is Goro?
+Where is Kano?
+Where is Sonya?
+Who is Smoke?
+Who is Jade?
+Friendship?
+Babality?
+Ceamr odse tno exits  (Ermac does not exist.)
+Ermo batmok ot meok  (More kombat to kome.)
+Sruep ghih miptac  (Super high impact.)
+There are no Animalities!
+
+
+
+XI.  RUMORS
+-----------
+
+     Rumors.  They suck, don't they.  Well, now that everything about
+Mortal Kombat II has been discovered, it's cool to look back at
+what we all believed was true.
+
+
+Shang Tsung
+-----------
+
+Morphs:
+      Sonya:  Forward - forward - back - back - LOW PUNCH
+       Goro:  Down - up - diagonally up + forward - forward - (button unknown)
+       Kano:  Unknown
+      Smoke:  Unknown
+
+
+Jax
+---
+
+Fatality:  Hold KIGH KICK + LOW KICK(back 4 times) then release
+
+Baraka
+------
+
+Fatality:  Hold HIGH PUNCH(forward - down - forward - forward - forward)
+             then release
+
+
+Scarlet
+-------
+
+     To fight Scarlet, you must be on the Living Forest stage.  When you
+defeat your opponent, be in front of the center forward tree as soon as
+"Finish Him/Her" appears.  When the tree roars, do this:  HIGH PUNCH -
+HIGH KICK - LOW PUNCH - LOW KICK - BLOCK - Up.
+
+Shawn
+-----
+
+     There is no information on Shawn at this time.
+
+
+Dead Pool
+---------
+
+     It is rumored that you uppercut your opponent and they will hang on
+one of the hooks.  This causes the door on ehte side to open and Kano to
+come out.
+
+
+Living Forest
+-------------
+
+     It is rumored that you can knock you opponent onto the mouth of one
+of the trees, where they are eaten.  Also, it is rumored that you can make
+the tree's branches strangle the opponent.
+
+
+
+XII.  CHIP VERSION
+------------------
+
+     This is a listing of the chip upgrades and their additions, to help
+you know what system you are playing.
+
+Version 1.1:
+
+     *     First version released to the public even though unfinished.
+             (Midway was pressured due to the release of Capcom's Super
+                Street Fighter II)
+     *     Contained all but two moves and approximately 9 fatalities.
+     *     Kintaro and Shao Kahn nearly impossible to defeat without cheating
+             (Kintaro could be beat by repeatedly pressing a punch button
+                throught the game.  Shao Kahn only by throwing missile
+                weapons.)
+     *     No ending stories.
+     *     Baraka's blade fury has no sound.
+     *     Shang Tsung could walk on the ceiling.
+
+Version 1.4:
+
+     *     Mileena's roll move added.
+     *     Kung Lao's flying kick added.
+     *     Sub-Zero could do the first part of Fatality #1 during the match.
+
+Version 2.1:
+
+     *     First 'official' release version.
+     *     Intro text slightly changed.
+             ('Only seven warriors...hands of Liu Kang' was originally
+                'But seven warriors would not allow it.')
+     *     Ending stories and credits added.
+     *     Dan 'Toasty' Forden's face added.
+     *     Computer intelligence increased.
+     *     Almost all fatalities added.
+     *     Friendships and babalities added.
+     *     Pit 2/Tomb fatality added.
+     *     Smoke and Jade were added.
+     *     Kintaro and Shao Kahn were easier to defeat.
+     *     Kintaro and Shao Kahn could be defeated by keeping them up in
+             the corner with repeated punches.
+     *     Shang Tsung's repeated flaming skull move fixed.
+
+Version 3.1:
+
+     *     More blood added.
+             (Example:  Blood added when opponent is punched in the face;
+                Kung Lao's hat throw.)
+     *     Dead Pool fatality added.
+     *     Noob Saibot added.
+     *     Raiden's uppercut fatality added.
+     *     Kung Lao's friednship added.
+     *     Computer intelligence increased.
+     *     Computer can do missile weapons in mid air.
+     *     Babality/Friendship problem fixed.
+             (Example:  Multiple babalities, babality to friendship, baby
+                mutiliation.)
+     *     Repeated punching the corner fixed.
+     *     Kitana's multiple fan lifts in the corner fixed.
+     *     Sub-Zero's freeze - punch - freeze - punch...fixed.
+     *     Scorpion's spear - uppercut - spear - uppercut...fixed.
+
+
+XIII. CREDITS
+-------------
+
+Mortal Kombat II and its characters are trademarks of Midway Manufacturing
+Co.  (C) 1993, all rights reserved.
+
+A great help and special thanks goes out to these video game addicts, with
+out whom this compendium would not have been written:
+   John (LOSER) Fausett, Aaron Gliner, Brian 'Mr. Krinkle', Mitch Keller, 
+Travis 'Stussy' Branch, Jon Thompson, Brian S., Taber Thill, channel #MK2 
+on IRC.
+
+Public Domain:  That means it's free!  No shelling out $5 bucks to get
+this.  No little snot-faced kits putting this in your face and
+saying, 'Give me a bite of your sandwich and I'll tell you
+something!'  Got it, cha cha??  Absolutely, positively FREE!  Thank you!
+
+(THE END?  III)
+
+
+
+

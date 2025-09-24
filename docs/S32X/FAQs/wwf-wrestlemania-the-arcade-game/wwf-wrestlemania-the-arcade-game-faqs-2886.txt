@@ -1,0 +1,282 @@
+From: jonlowe@mindspring.com (Jon Lowe)
+Newsgroups: rec.games.video.sega
+Subject: Sega WWF WrestleMania codes (SPOILER) (LONG)
+Date: Thu, 18 Jan 1996 13:26:54 GMT
+
+Seen alot of posts out here with some of the codes, but here are all
+of the ones that I've found.  Sorry, but I don't know all of the
+moves' names...
+
+If you have information that I don't, please post it or email me.  I'm
+willing to keep a FAQ if there's enough demand, but what I have here
+is by no means complete.  (email:  jonlowe@atl.mindspring.com)
+
+Legend: 
+(pretty much follows the instructions, and includes the default button
+in {} ))
+
+P - Punch    {A}
+SP - Super Punch  {A+B}
+Bl - Block {B}
+K - Kick {C}
+SK - Super Kick {B+C}
+
+D - Down
+F - Forward (or towards opponent)
+B - Back (or away from opponent)
+U - Up
+
+Basic moves that all of the wrestlers have:
+
+Run - A+C
+HeadHold/Grab - FF SP  (alot of great moves after the execution of
+this move, including the combo moves)
+Throw into ropes - BB SP
+Simple takedown/throw - BB P
+
+Most of the wrestlers will do a flying kick (or one of their normal
+moves) when running and then hitting either K or SK.  Also, some of
+them (like Bam Bam and Doink) will do a flying clothesline when
+running and then hitting either P or SP.
+
+If you're put into a HeadHold with another wrestler, try (quickly) one
+of your own grab moves.  Sometimes, if you're fast enough, you'll get
+the reversal.  Most of the time, I just do the DD SK move then, 'cause
+I don't have to worry about which direction my opponent is in.
+
+Doink, the Undertaker, Shawn Michaels, and Bret Hart can all do an
+uppercut after grabbing your opponent.  Grab him with the FF SP move,
+then hit D+SP at the same time (hence the '+').  I don't recall if
+Razor Ramon has this or not.
+
+Bam Bam, Yokozuna, and Lex all have the body lift move.  Close to your
+opponent, hit all 3 buttons together (A+B+C) and you'll pick your
+opponent up.  This can be blocked, but not reversed.  Any button after
+that will throw him down, but each also has a special move associated
+with this.  However, since they have this move, they don't have the
+uppercut during the headhold.  Also, Lex has a head slam that I
+haven't figured out how to do yet.
+
+Bret Hart (so far, my favorite)
+
+Specific moves:
+Rolling Uppercut:       DF SP
+Eyerake:                DF P  (or hold P for 3 secs)
+Quick Uppercut:         DD P  
+Jump Kick:              BB SK
+Backbreaker:            SP (near opponent's feet when he's down)
+
+Grab moves:  after grabbing (FF SP) the opponent
+Face slam:              BDF P   (This is a cool move!)
+Head slam:              FF SP
+needs name (Bulldog?):  DD SK
+Uppercut:               D+SP
+
+Combos:  with combo meter lit and after grabbing the opponent
+4 or 5 hit:             FF SK
+12 hit:                 FF SK SP
+
+Hint:  When in the multiple opponent matches, after the bell use the
+jump kick to inflict damage while keeping your opponents away from
+you.
+
+Bam Bam Bigelow
+
+Specific moves:
+Jump Kick:              BB SK
+Fiery fists:            Hold P for 3 secs
+Body lift:              A+B+C (picks the opponent up)
+
+Grab moves:
+Piledriver:             DD SK
+
+Body lift moves:
+Slam:                   any button
+Back Breaker:           D+SK
+
+Combos:
+10 hit:                 FF P
+
+Hint: You can usually get the time for the fiery fists by either
+throwing your opponent into the ropes (BB SP) or out of the ring 
+(BB P).
+
+Doink the Clown
+
+Specific moves:
+Clapper:                BDF P
+Joybuzzer:              hold P for 3 secs
+Happy Hammer:           FF SK
+
+Grab moves:
+Head Slam:              FF SP
+Face Smash:             DD SK (I love his laugh during this)
+Uppercut:               D+SP
+
+Combos:
+4 Hit:                  FF SP
+
+Yokozuna
+
+Specific moves:
+Salt Throw:             hold P for 3 secs
+Belly Rush:             FF P
+Head butts:             P (up close)
+Body Slam:              FF SK
+Big Hammer:             FF SP  (I think)
+Body Lift:              A+B+C
+
+Grab moves:             
+Body Slam:              FF SP (not verified)
+Piledriver:             DD SK
+
+Body Lift moves:
+Slam:                   any button
+'round the world spin:  D+SK
+
+Combos:
+4 Hit:                  FF P
+
+Hint:  Try the salt throw after you've thrown your opponent out of the
+ring (BB P near the ropes).  You'll get the time you need while
+they're recovering and trying to get back in, but stand near the
+middle so that your throw doesn't come up short.  After the salt
+throw, try the hammer (FF SP) or body slam (FF SK).
+
+Razor Ramon
+
+Specific moves:
+Quick slice:            DF P
+Foot slam:              FF K
+
+Grab moves:
+Forward slam:           FF SP
+Piledriver:             DD SK
+Uppercut:               D+SK
+
+Combos:
+? Hit:                  FF K
+
+Shawn Michaels
+
+Specific moves:
+Flying snapkick:        BB SK
+Flying drop kick:       run K
+Frankensteiner:         FF SK
+Sliding takedown:       FF K
+Sunset flip:            run SP
+
+Grab moves:
+Face Smash/Headbutt:    FF SK
+Back Suplex:            DD SK
+Frankensteiner:         FF SP
+Arm Breaker:            FF P  (cool graphics on this one)
+
+Combos:
+Haven't been able to verify any...sorry
+
+Undertaker
+
+Specific moves:
+Neck breaker:           hold P for 3 secs
+Tombstone smash:        FF SK
+Dark ghosts:            DF K
+Light ghosts:           DB K
+Neck hold:              DF P
+
+Grab moves:
+Neck breaker:           FF SP
+needs name:             DD SK
+Uppercut:               D+SP
+Neck slam:              DD K
+
+Neck hold moves:
+Flying slam:            DD SK
+needs name:             DD K
+
+Combos:
+3 hit:                  FF SK
+
+Hint: Don't try the ghosts after you've thrown someone down.
+Typically, they come back up with a block.  Instead try it after 1)
+throwing them out of the ring (BB P near the ropes), 2) throwing them
+into the ropes (BB SP), or 3) when they run away from you.
+
+Lex Luger
+
+Specific moves:
+Fist smash:             hold P for 3 secs
+Elbow to midsection:    FF P
+Mace:                   FF SK
+Body Lift:              A+B+C
+
+Grab moves:
+Suplex:                 FF SP
+One leg elbow:          DD SK
+
+Body lift moves:
+Slam:                   any button
+Backbreaker:            U+SK
+
+Combos:
+8 hit:                  FF K
+
+Hint:  If your opponent starts to run, move a little so that they'll
+run past you and then pick him up (A+B+C).  They can't block it then.
+
+General hints:
+
+1.  Pick a side of the ring that you're comfortable with and try to
+stay there, especially in the multiple opponent matches.  I usually
+stay on the left side, where I started.  It makes it easier to develop
+some habits that you can quickly use without too much thought (like
+reversing a grab or throwing your opponent).
+
+2.  Typically, your opponent will stay on the mat longer when they've
+been put there as a result of a normal throw (BB P) as opposed to a
+move after a Grab (FF SP).  That's also a good time to inflict some
+real quick damage with punches or kicks (hey, who cares if they're
+down, you wanna win, right?).  Experiment with each wrestler to see
+whether a punch or kick will work better.  For example, Yokozuna falls
+on the person and takes longer to get up than kicking/stomping the
+person.  On the other hand, Bret will just pound on the guy.  This is
+a real good way to inflict damage when you're behind in the match.
+
+3.  From my experience, my combo meter ultimately lights faster if
+I've combined some of the basic moves (like throwing an opponent into
+the ropes and kicking them as they bounce off) than if I just beat on
+them.
+
+4.  If your opponent starts to run, see if you can follow them.  You
+can pop off a drop kick from behind them.
+
+5.  Try some running and punching/kicking while your opponent is down.
+You'll see some pretty neat moves then.
+
+6.  Don't try the running moves (drop kicks and clotheslines) when
+someone's getting up from being thrown down.  They usually come up
+with a block.  Instead try it when you're not close and facing them
+(takes some quick fingers) or when they're coming back in the ring
+(after you've thrown them out, of course).
+
+7.  Finally, the combos.  You have to have your combo meter lit and
+have to grab your opponent (FF SP).  Then, hit the combo move.  I've
+tried different combos (like FF P, DD K, FF SK, etc...) and listed the
+ones that I can pretty consistently perform.  However, sometimes you
+still don't get the combo.  I haven't figured out what the trigger is.
+Also, there are different ones.  See Bret Hart's information.  To get
+the 12 hit, start the 4/5 hit and somewhere in there hit SP.  I can't
+get this one consistently yet...  Also, I haven't found any
+fatalities.
+
+Credits:  Most of these moves were verified from the WWF Wrestlemania
+Arcade game FAQ and I've posted these without his permission.  In
+other words, he deserves most of the credit for compiling this
+information.
+
+Jon Lowe
+
+jonlowe@atl.mindspring.com
+
+
+

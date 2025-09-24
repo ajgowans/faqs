@@ -1,0 +1,229 @@
+
+    ___            ___ ______   _____    _____   _______  _      _____
+  \ \  \    /\    /  /|  __  \ |  ___|  / ___ \ |__   __|| |    |  ___|
+   \ \  \  /  \  /  / | |__) | | |___  ( (___\_|   | |   | |    | |___
+    \ \  \/    \/  /  |  __  / |  ___| _\___ \     | |   | |    |  ___|
+     \ \    /\    /   | |  \ \ | |___ | \___) )    | |   | |___ | |___
+      \ \__/  \__/    |_|   \_\|_____| \_____/     |_|   |_____||_____|
+       \______________________________________________________________
+         ____________________________________________________________
+               __    __          __      ___     _  _      __
+            / /  \  /  \        /  \    |   \   | || |    /  \
+           / /    \/    \      / /\ \   | |\ \  | || |   / /\ \
+          / /  /\    /\  \    / /__\ \  | | \ \ | || |  / /__\ \
+         / /  /  \  /  \  \  /  ____  \ | |  \ \| || | /  ____  \
+        / /__/    \/    \__\/_/      \_\|_|   \___||_|/_/      \_\
+       /__________________________________________________________
+      ______________________________________________________________
+
+Sega Saturn's Wrestlemania, the Arcade Game
+Short Move List
+Version 0.3-04/12/01
+by Megnetto, the classic gamer-- megnetto@hotmail.com
+This Megnetto document is a 2001 copyright that should not be duplicated, 
+reproduced or distributed outside this website mention here without notice, 
+written permission and proper ID from the people who want this to the 
+author.
+
+
+1.  INTRODUCTION AND UPDATES
+
+Like I did with Marvel Super Heroes, Mortal Kombat Trilogy, Night Warriors 
+and X-Men Children of the Atom, I made a short move list for this game.  
+This is for people who are new playing it and don't have the manual.  It's 
+short, simple and to the point.  All you do is print it, cut it out and keep 
+it close like putting it in a game holder or something similar.  This is 
+made for the Sega Saturn but it can be used on Super Nintendo, Sega Genesis, 
+Sega 32X, Sony Playstation and PC-CD Rom.
+
+SEND ME YOUR COMBOS!
+I made a new section in which is a list of combos moves people send me for 
+certain characters.  If you send me yours, I'll put your name up next to it, 
+but it must be original, not one from other guides, please.
+
+FAQ Updates:
+
+Version 0.1--01/01/01: First attempt.
+
+Version 0.2--01/18/01: Corrections and changes.
+
+Version 0.3--03/20/01: Added a combo section.
+
+
+|---------------------------------------------------------------------|
+| MOVE DESCRIPTION                 |----------------------------------|
+|----------------------------------| AB=Any Button DO=Downed Opponent |
+| U=Up  B=Back  D=Down  F=Forward    P=Punch  K=Kick  R=Run  BL=Block |
+| SP=Super Punch SK=Super Kick   H*=Hold button down for 3sec,release |
+| QCF=Quarter-Circle Forward(D,F/D,F) (NO)=Near Opponent HH=Head Hold |
+| [AB]=Press chosen button for more damage (GM)=Grab Moves(Head Hold) |
+|---------------------------------------------------------------------|
+
+
+
+
+|---------------------------------------------------------------------|
+| BASIC MOVES                                                         |
+|---------------------------------------------------------------------|
+| Head Hold-----------------F,F,SP | Throw to rope-------------B,B,SP |
+| Push Blocked Opponent-----H*BL,P | Combo Starter-----------HH,FF,AB |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| BAM BAM BIGELOW                  |----------------------------------|
+|----------------------------------| Fire Punch-----------------H*P,P |
+| Jump Kick-----------------B,B,SK | Back Drop------------------B,B,P |
+| Flying Drop Kick-------R,K or SK | Super Clothesline------R,P or SP |
+| Neck Bender-----------------H*SP | Fire downed opponent-------D,D+P |
+| Pick Up--------------------SP+SK | Back Breaker--------Pick Up,D+SK |
+| Piledriver-------------HH,F,F,SP | Pogo Piledriver----HH,D,D,SK[SP] |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| BRET "HIT MAN" HART              |----------------------------------|
+|----------------------------------| Eye Rake-------------------QCF,P |
+| Rolling Uppercut----------QCF+SP | Arm Drag-------------------B,B,P |
+| Bulldog----------------HH,D,D,SK | Flying Clothesline-----R,P or SP |
+| Piledriver-------------HH,F,F,SP | Uppercut-----------------HH,D+SP |
+| Face Slam------------HH,QCF+P[P] | Sharp Shooter---DO's feet, SP[P] |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| DOINK                            |----------------------------------|
+|----------------------------------| Ear Slap----------------QCF+P[P] |
+| Happy Hammer(GM)-------F,F+SK[K] | Super Clothesline------R,P or SP |
+| Hip Toss-------------------B,B+P | Head Slam-----------HH,D,D+SK[K] |
+| Boxing Glove Smash-----P rapidly | Piledriver-------------HH,F,F,SP |
+| Joybuzzer--------------------H*P | Joybuzzer#2-------------HH,QCF+P |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| LEX LUGER                        |----------------------------------|
+|----------------------------------| Sliding Elbow--------------F,F+P |
+| Pick Up--------------------SP+SK | Double Axehandle Smash----(NO)SP |
+| Vertical Suplex--------HH,F,F+SP | Rebel Rack---------Pick up, U+SK |
+| Hip Toss-------------------B,B+P | Suplex-----------------HH,F,F,SP |
+| Elbow Grider-----------HH,D,D,SK | Medieval Mace----------F,F,SK[K] |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| RAZOR RAMON                                                         |
+|---------------------------------------------------------------------|
+| Uppercut-----------------HH,D+SP | Razor's Edge-----------HH,F,F+SP |
+| Piledriver-------------HH,D,D+SK | Hip Toss-------------------B,B+P |
+| Razor Swipe----------HH,U or D+P | Rug Shake(GM)-----------D,D,K[K] |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| SHAWN MICHAELS                                                      |
+|---------------------------------------------------------------------|
+| Front Leg Trip(GM)---------F,F+K | Sunset Flip-----------------R,SP |
+| Body Slam------------------B,B+P | Speed Kick--------------QCF+K[K] |
+| Jump Kick-----------------B,B+SK | Double Snap Kick--------K,B,B,SK |
+| Flying Kick-----------------H*SK | Face Smash---------HH,F,F,SK[SK] |
+| Armbreaker--------------HH,F,F,P | Back Suplex------------HH,D,D,PK |
+| Frankensteiner------------F,F,SK | Frankensteiner#2-------HH,F,F,SP |
+|---------------------------------------------------------------------|
+
+
+|---------------------------------------------------------------------|
+| THE UNDERTAKER                   |----------------------------------|
+|----------------------------------| Snapmare-------------------B,B+P |
+| Super Uppercut-----------HH,D+SP | Tombstone Slam---------F,F+SK[K] |
+| Neckbender-------------------H*P | Drop Kick--------------R,K or SK |
+| Sliding Choke Slam----D,F+P,D+SK | Piledriver-------------HH,D,D,SK |
+| Shadow Slam-------------HH,D,D,K | Neck Twist-------------HH,F,F,SP |
+| Demon Howl-----------------D,F+K | Demon Dizzy----------------D,B+K |
+|---------------------------------------------------------------------|
+
+|---------------------------------------------------------------------|
+| YOKOZUNA                                                            |
+|---------------------------------------------------------------------|
+| Bucket Slam---------------(NO)SP | Belly Bounce---------------F,F+P |
+| Scissor Smash(GM)---------F,F+SK | Suplex-----------------HH,D,D+SK |
+| Banzai Drop-------Turnbuckle, AB | Uppercut-----------------HH,D+SP |
+| Salt Throw-------------------H*P | Speed Jabs--------------QCF+P[P] |
+| Pick Up--------------------SP+SK | Body Slam--------------HH,F,F,SP |
+| Salt Throw#2------------HH,QCF+P | Body Hurl----Pick Up, D+SP or SK |
+|---------------------------------------------------------------------|
+
+COMBOS MOVES
+
+----------------------------BAM BAM BIGELOW---------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  20             SP,P,K,SK,SP                           TAPE
+--------------------------BERT "HIT MAN" HART-------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  16             SK,SP,P,K,P,SK                         TAPE
+  16             SK,SP,SK,K                             TAPE
+---------------------------------DOINK--------------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  16             SK,SP,SK,K                             TAPE
+  19             SK,SP,P,SK,K                           TAPE
+-------------------------------LEX LUGER------------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  17             K,SK,SP,P,K                            TAPE
+------------------------------RAZOR RAMON-----------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  13             SP,P,SK                                TAPE
+  24             SP,P,K,SK,SP                           TAPE
+-----------------------------SHAWN MICHAELS---------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  16             K,SK,SP,P,SP                           TAPE
+-------------------------------UNDERTAKER-----------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  10             K,SK,SP,P                              TAPE
+  21             SP,SK,K,P,SP                           KIERAN GLEESON
+--------------------------------YOKOZUNA------------------------------
+NUMBER           MOVES                                 SENT IN BY:
+  11             SP,P,K                                 TAPE
+
+NOTE:  "TAPE" means Wrestlemania: the Video Guide by Coliseum Video.
+
+
+GRATITUDE AND CLOSING
+
+   Special thanks to:
+  -Sega, Acclaim, Midway Home Entertainment and the World Wrestling 
+Federation for making this game.
+  -The following people and websites who have posted my FAQ and it's 
+updates:
+   Al Amaloo at Game Advice.com
+   Jamie Long at Console Domain.com
+   Jeff "CJayC" Veasey at GameFAQs.com
+   Christian Wirth at psxcodez.com
+   Allen at Cheat Planet
+   Tim Wuyts at the Cheat Empire
+These are the people who I gave this guide to.  If you see this on any 
+website that IS NOT listed here, please tell me.
+  -You, the Reader, for looking at this and sending me combos.
+
+If you have any questions, commits or discussions to this FAQ, please don't 
+hesitate to write to me at the address shown.  Thank you and watch out for 
+my reviews of other games on Sega Saturn, Atari 2600, and video arcade on 
+this and other websites.  In closing, I leave you with this:
+
+For people who like Wrestlemania, the arcade game music:
+You can play the audio music tracks on certain console game CDs.  Just don't 
+play Track 1 because it's the game load.  Here's the track list.
+
+  TRACK  |    DESCRIPTION                                    | TIME
+-----------------------------------------------------------------------
+    02   | Vocals of Jerry Lawler and Vince McMahon          | 09:05
+    03   | ???????                                           | 01:02
+    04   | Doink the Clown theme                             | 05:02
+    05   | Shawn Michael theme                               | 05:02
+    06   | Razor Ramon theme                                 | 05:02
+    07   | Bam Bam Bigelow theme                             | 05:02
+    08   | Undertaker theme                                  | 05:02
+    09   | Lex Luger theme                                   | 05:02
+    10   | Bert "Hit Man" Hart theme                         | 05:02
+    11   | Yokozuna theme                                    | 05:02
+    12   | Wrestler select                                   | 03:03
+    13   | Wrestlemania, the arcade game theme               | 01:00
+
+"I shall allow no man to belittle my soul by making me hate him."--Booker T. 
+Washington
+
+
+

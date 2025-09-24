@@ -1,0 +1,117 @@
+From: Ivo Kroone <ivo@cybercomm.nl>
+Newsgroups: rec.games.video.3do
+Subject: Night Trap 3DO
+Date: 28 Dec 96 12:09:25 +0100
+
+                            NIGHT TRAP for 3DO
+                      complete solution and schedule
+
+The Night Trap game is a real-time 3DO movie which can be viewed by the
+player using one camera at a time. The movie is always the same and times
+and locations are the same every time the game is played. However multiple
+activities are taking place at the same time. So, to understand the story
+one has to listen in a couple of time in different locations at first.
+Being aware of this principle the game is no more than always knowing what
+happens where and when, and if needed take action. The following is a
+schematic of the entire game, showing exactly what happens. Each time a
+creep enters the house, you know now where to go at what moment. Only the
+color of the traps is different each time the game is played, so be sure to
+be in that room when the code is changed. For more information see legend
+below.
+
+The 'end of game' lines only apply if the player did not trap enough bad
+guys. Also some entries in the table do not apply if a creep is already
+dealt with when he entered the house (and cannot possibly appear again). In
+other words, in the ideal situation only handling the entries (marked with
+a '+') should suffice to end the game successfully.
+
+CAMERA: X···  ·X··   ··X·   ···X  ···· ···· ····   ····
+        ····  ····   ····   ····  X··· ·X·· ··X·   ···X 
+
+H:MM:SS HALL KITCHEN ENTRY LIVING BATH BED HALL2 DRIVEWAY STORY
+-------------------------------------------------------------------------------------------
+0:00:00| +2 |       |     |      |    |   |     |        |
+0:00:18|    |       |     |      | >  |   |     |        |Daughter disapperas in mirror
+0:00:24|    |       |     |  +2  |    | 2 |     |        |
+0:00:30|    |       |     |      |    | 3>| (1) |        |Daughter shows green eyes and turns off lights
+0:00:36|    |       |     |      | 2 3|   |     |        |
+0:00:49|    |       |     |      |    |   |  1  |        |
+0:01:00|    |       |     |  +2  |    |-1 |     |        |
+0:01:20| >  |   1   |     |      |    |   |     |        |Father son talk
+0:01:33|    |       |  1  |      |    |   |     |        |
+0:01:50|    |       |  >  |      |    |   |     |        |Son and dad talk about 'handling' the guests
+0:02:00|    |       |     |  >   |    |   |     |   >    |Girls arrive at driveway while mom enters living room via bookcase
+0:02:14|    |       |  >  |      |    |   |     |        |Famliy welcomes the new guests
+0:02:40|    |       |     |  >   |    |   | (3) |        |Father: "a healthy new bunch"
+0:02:51| 1> |       |  3  |      |    |   |     |        |Son and nephew leave house with heavy boxes
+0:03:05|    |       |     |      |    | 1 |     |        |
+0:03:30|    |       |     | +1   |    |   |     |        |
+0:03:40| +2 |       |  >  |      |    |   |     |        |Father greets the girls in French
+0:03:45|    |       |     |      |    |   |     |  +1    |
+0:04:00|    |   >   |     |      |    |   |  4  |        |Girls bring in groceries
+0:04:18|    |       |     |      | 3  |   |     |        |
+0:04:35|    |       |     |      |    | 1 |     |        |
+0:04:46|(1) |       |     |      |    |   |  1  |        |Girls leave house
+0:04:50|    |       |     | +1   |    |   |     |        |
+0:05:01|    |       |     |  2   |    |   |     |        |
+0:05:16|    |       |     |      |    |   |     |   >    |Boys arrive teasing eddie
+0:05:30|    |       |CODE |      |    | 1 |     |        |
+0:05:36|    |       |     |      |    |   |     |   3    |NOTE: Trap this creep first, and then switch quickly to the enrty-hall to hear the new code
+0:05:51|    |       |     |  1   |    |   |     |        |Parents leave
+0:06:03| 1  |       |     |  >   |    |   |     |        |Girls walk in and have a party
+0:06:13|    |       |     |      |    |   |  2  |        |
+0:06:27|    |   1   |     |      |    |   |     |        |
+0:06:48| >  |       |     |      |    |   |  2  |        |SCAT team member enters the house and gets murdered!
+0:07:00|    |   1   |     |      |    |   |     |        |Little boy snoops around, eats something out a bag
+0:07:17|    |       |     |      |    | 2 |     |        |
+0:07:40|    |       |     |      |    |   |     |   1    |
+0:07:50| 2  |       |     |      |    |   |     |        |Little boy enters basement
+0:07:55|    |       |  >  |      |    |   |     |        |Son and nephew walk by
+0:08:00|    |       |     |      |    |1  |     |        |
+0:08:04|    |       |     |      |    |   |     |        |SCAT team enters house
+0:08:10|    |       |     |      |    |   |  2  |        |
+0:08:30| 1  |       |     |      |    |   |     |        |
+0:08:35|    |       |     |      |    | 2 |     |        |
+
+SCAT TEAM MEMBER gets murdered, end of game
+
+0:08:48|    |       |     |      |    |   | (2)>|        |Girls arrive at the first floor, daughter points rooms
+0:08:50|    |       |  >  |1 CODE|    |   |     |        |Girls climb stairs with luggage, boys talk about Madeline
+0:09:17|    |       |  1  |      |    |   |     |        |
+0:09:28|    |       |     |      |    |   |     |   >    |SCAT member Collins arrives 'here goes nothing'
+0:09:34|    |       |     |      |    | > |     |        |Girls enter and find a tri-cord, leave later to answer the door
+0:09:50|    |       |     |      | >  |   |     |        |Lisa and friend talk about lab rats
+0:10:17|(2) |       |     |      |    |   |     |        |
+0:10:25|    |       |  >  |      |    |   |     |        |SCAT member plays dumb negro and asks for his boat, winking to Kelly
+0:10:30|    |       |     |      |    |   |  1> |        |Girls return downstairs
+0:10:34|    |  >    |     |      |    |   |     |        |Creeps hang dead guy and drain his blood into bottles
+0:10:53|    |       |     |      |    |   |     | +1 +1  |
+0:11:05|(3)>|       |     |      |    |   |     |        |Little boy gets captured
+0:11:16|    |       |     |      |    |   |     |        |SCAT member Collins returns, and reports all is good except Jason is missing
+0:11:32|    |  >    |     |      |    |   |     |        |Son and nephew get suspicoius, girls eat ice-cream, Kelly is missing?
+0:11:45|    |       |     |      |    |   | (1)>|        |Lisa sneeks to the bathroom
+0:11:55|    |       |     |      |(1)>|   |     |        |Creep enters and hides in shower booth
+0:12:00|    |       |     |  2   |    |   |     |        |
+0:12:28|    |       |     |  >   |    |   |     |        |Kelly finds photographs of the guests
+
+LISA gets murdered, end of game
+
+0:00:00|    |       |     |      |    |   |     |        |
+
+(X) = X creeps are there, but don't walk in reach of a trap
+ X  = X creeps are there, they entered the house earlier
+-X  = X creeps leave the house
++X  = X creeps enter house
+ >  = action described at the right hand side takes place in this room
+
+CODE= trap colour code is being changed! It takes a while for a code to
+      be in effect, use the old code for about 10 more seconds.
+      NOTICE: As the code changes to another colour every time the game is
+      played, one has to attend that room at the right moment.
+
+-Ivo Kroone
+
+"if God intended us to take life seriously he         // Only Amiga makes
+   wouldn't have given us a sense of humor"         \X/    it possible
+
+

@@ -1,0 +1,1084 @@
+------------------------------------------------------------------------------
+ _______  .__       .__     __    ___________                     
+ \      \ |__| ____ |  |___/  |_  \__    ___/___________  ______  
+ /   |   \|  |/ ___\|  |  \   __\   |    |  \_  __ \__  \ \____ \ 
+/    |    \  / /_/  >   Y  \  |     |    |   |  | \// __ \|  |_> >
+\____|__  /__\___  /|___|  /__|     |____|   |__|  (____  /   __/ 
+        \/  /_____/      \/                             \/|__|    
+
+Night Trap FAQ/Walkthrough:
+
+VERSION 1.40
+
+This guide was created, edited and compiled by GameFAQs member Snazzyhoppy.
+------------------------------------------------------------------------------
+Last Update: October 15, 2013		21st Anniversary!
+------------------------------------------------------------------------------
+
+
+Notes before reading this document:
+------------------------------------------------------------------------------
+a) This document is a series of tables that show when action takes place within 
+the eight rooms of the Martin summer home.  It also details the locations of 
+the 95 augers and the necessary trap moments in order to finish the game.  It 
+also describes the various endings the player can get, whether they win or 
+lose.  The terminology used throughout the guide is authenticated by the Sega 
+CD instruction manual for the game.
+
+b) This document is protected by US Copyright Law, and the Berne Copyright 
+Convention of 1976. This document is for private and personal use only--it 
+cannot be reprinted in part or in whole or reproduced in any way or in any form 
+(written or otherwise). It is a free document that cannot be used in any sort 
+of commercial transaction, including selling it or giving it away as a gift. 
+Please respect the work I have included in this guide.
+
+c) This may be not be reproduced under any circumstances except for personal, 
+private use. It may not be placed on any web site or otherwise distributed 
+publicly without advance written permission of the author. Use of this guide on 
+any other web site or as a part of any public display is strictly prohibited, 
+and a violation of copyright.  All rights and ownership of this guide are 
+bestowed to Christopher Hopkins.  Contact GameFAQs and the author to inquire 
+about reproducing any part of this guide for more than personal, private use.
+
+d) This document is best read on a plain text reader.  Use a standard find 
+feature to navigate the sections and to find exactly what you're looking for. 
+
+e) This guide appears in plain text only at the GameFAQs website.  An 
+interactive guide, optimized for game consoles and mobile devices, is 
+available only at the following link:
+http://www.christopherjhopkins.com/projects/gamefaqs/nighttrap.php
+
+f) This FAQ began on April 24th, 2008 when I began to make a diagram of when 
+events took place in the eight rooms of the game. For the next month, I charted 
+the database information one room at a time, sitting in each room and waiting 
+while other action took place elsewhere. The toughest part of this research was 
+making sure to save the girls when absolutely necessary, which meant I had to 
+leave the rooms when there could be activity in them. The numbers here have a 
+margin of error of +-1 second. The traps that are necessary to complete the 
+game are listed with the understanding that the player does capture the 
+threatening person.
+
+g) The Sega CD and PC/DOS versions have few major time differences between
+them.  The biggest difference is a shift of one scene of five seconds so that
+it would not be broken up over the disc change at approximately 00:13:26. The
+PC/DOS version was made to be played in either Windows 95 or MS/DOS using the
+same discs.
+------------------------------------------------------------------------------
+
+
+Table of Contents:
+------------------------------------------------------------------------------
+1) Version Changes
+2) Staff Credits
+3) Spellings
+4) Background/History
+5) Walkthrough:
+	Sega CD Scenes - 144
+	PC/DOS Scenes - 144
+	Augers - 95
+	People to Save and/or Capture - 8
+	Detrimental Captures - 4
+	The Perfect Game - 83
+6) Scene-By-Scene Description
+7) Endings - 7
+8) Bibliography
+9) Contact
+10) Credits
+------------------------------------------------------------------------------
+
+
+1) Version Changes:
+------------------------------------------------------------------------------
+
+1.40 - October 15, 2013
+Added external link to online interactive version of this guide.
+Renamed some section titles.
+Organized bibliography.
+Added additional contact links.
+Made minor corrections.
+
+1.30 - October 15, 2010
+Added fan sites with detailed information on the game.
+Added detailed information about different versions of the game.
+Added Scene-By-Scene.
+Made minor corrections.
+
+1.20 - October 15, 2009
+Contributions by HarroSIN added to supplement various ports.
+
+1.10 - October 15, 2008
+Adjusted times to reflect discrepencies between the Sega CD and 
+PC versions of the game.
+
+1.00 - June 20, 2008:
+Translated PHP and MySQL version of FAQ to text on June 10, 2008.  Completed 
+translation on June 20, 2008.
+------------------------------------------------------------------------------
+
+2) Staff Credits:
+
+A Digital Pictures Production
+A U-Direct Interactive Film
+
+Executive Producer	Tom Zito
+Original Concept	Rob Fulop
+			James Riley
+Directed by		James Riley
+
+Cast:
+
+Kelly		Dana Plato		SCAT's secret undercover agent
+Cindy		Tracy Matheson		loves to eat
+Lisa		Debra Parks		spends time in the bathroom
+Ashley		Alison Rhea		finds auger tricord
+Megan		Christy Ford		lip syncs to "Night Trap", drives 
+everyone to the house
+Danny		Josh Goddard		stumbles upon auger activity first
+Victor Martin	Jon R. Kamal		"your bullets cannot hurt me"
+Sheila Martin	Molly Starr		the traps were her idea, aug charity work
+Sarah Martin	Suzy Cote		invited girls at the mall
+Jeff Martin	Andras Jones		brushes his teeth
+Tony		Giovanni Lemm		Ashley reminds him of Madeline, can 
+teleport and shoot lightning, older than you might think
+Eddie		William Bertrand	weird, makes laser gun
+
+SCAT Team:
+
+Lt. Simms	J. Bill Jones		SCAT team leader
+Collins		Arthur Burghardt	"Have you seen me boat?"
+Swanson		Heidi Von Brecht	fights with Jeff
+Jason		Deke Anderson		blood extracted by augers
+Mike		Blake Gibbons		talks to Kelly
+Jim		Roy Eisenstein
+
+Deke checks the back of the house and Charlie finds the augers in the Upstairs 
+Hallway.
+------------------------------------------------------------------------------
+
+3) Spellings:
+
+The name of Dana Plato's character is spelled three different ways.  The 
+Sega CD spells it as Kelly as found in the game's credits.  The PC/DOS 
+version spells it as Kelli in the game's credits.  The Sega CD 
+manual uses two alternate spellings.  When the manual introduces the character 
+as SCAT's best undercover agent, it recognizes her as Keli Medd.  On the 
+mission description, the manual from then on refers to her as Kelli with two 
+l's similar to the PC/DOS version.   
+------------------------------------------------------------------------------
+
+4) Background/History:
+
+To win/finish the game (achieve ending e), you must capture at least half of 
+the augers and capture the eight necessary threats.  To win the game perfectly 
+(achieve ending f), you must capture all 95 augers, capture the eight necessary 
+threats, not capture Eddie nor the SCAT team members, and capture Jeff.
+
+Night Trap Versions:
+
+1988, Project NEMO (Never Even Mention Outside) - The orignial version was 
+to be released on a VHS tape with multiple tracks for the aborted Hasbro 
+system, the NEMO. Night Trap was filmed in the fall of 1987. This is the 
+only version never released.
+
+1992, Sega CD - considered to be the version with the poorest video quality, 
+scenes were adjusted to incorporate Sega references and hardware (Sega 
+Control Attack Team and the Sega Genesis joypad), during Lisa's capture 
+sequence, you can see the blood extracted through the auger blood 
+extraction grip, includes Easter Egg of NEMO meeting
+
+1993, Sega CD - same as 1992 except Lisa's capture sequence is abridged, 
+so Lt. Simms interrupts you before the blood extraction moment 
+
+1994, 3DO - considered to be the version with the best video quality, all 
+scenes intact, uses original footage of joypad and refers to SCAT as 
+Special Control Attack Team before Sega changed it
+
+1994, Sega 32X CD - Released a few months after the 3DO port, this required 
+the Sega CD and the 32X. improves video quality of Sega CD, but not 
+better than the 3DO,  same footage as 1992 version
+
+1995, Windows & MS-DOS - same footage as 1992 version, used a new user 
+interface with a map of the lakehouse during the pause screen, marketed 
+as the Director's Cut, but no additional footage is available, the NEMO 
+video is not present, also includes the "Dangerous Games" documentary about 
+the 1992 United States Senate hearings, and interviews and accounts by 
+Tom Zito, Robert Fulop, James Riley, and Dana Plato
+
+1996, Macintosh - similar to the 1995 version
+
+Night Trap is the first CD title with continuous full-motion video and audio as 
+advertised on the back cover of the Sega CD casing.
+
+Night Trap began as a short demo game called "Scene of the Crime" for the 
+unreleased Hasbro NEMO system.  It would use VHS tapes as the medium for the 
+games and would be able to instantly switch between different tracks all 
+happening simultaneously in real time.  NEMO stands for "Never Even Mention 
+Outside", a special code name. 
+
+The Sega CD version of Night Trap contains 62.80 minutes of footage, 139.05 
+minutes of dead time and 201.85 minutes of full video (00:24:10 *8+ 00:00:31 
+for the ending scene in the Upstairs Hallway) in total. These numbers do not 
+include alternate outcomes.
+
+Night Trap: the Director's Cut does not have any additional scenes that
+affect gameplay or the main plot.  The differences are in Commander Simms'
+scenes in the SCAT van that do not make use of the Sega Genesis
+controller.  The actor's tone is much calmer than found in the Sega CD
+version where he breaks a Sega Genesis controller and reprimands you
+in bad outcomes. 
+
+The PC/DOS version contains a glitch within the game's timing routines 
+which delays the timing of events. Faster computers will usually have the 
+idle scenes ('dead time') speed by quicker than normal, which in turn 
+conflicts with the timing for the later scenes. The only way to produce 
+an authentic run with the console versions to run the game on older 
+hardware with system requirements that match those around the time Night 
+Trap was released.
+ 
+In the PC/DOS version the story concludes with ending f every time, 
+although you can't trap Kelly unless you did everything that you would 
+normally need to do to activate that ending.
+
+In all versions of Night Trap, the trap access code always begins the game 
+as blue, and is chosen randomly while playing.  The PC/DOS version uses a 
+predetermined sequence of code changes for every reboot without loading a 
+saved game, so loading the same saved game will contain the same code changes 
+each time.
+
+Version 1.40 of this guide coincides with the 21st anniversary of the 
+release of Night Trap for the Sega CD in its first appearance.  Night Trap 
+was released on October 15, 1992 as a launch title for the Sega CD in North 
+America.
+------------------------------------------------------------------------------
+
+5) Walkthrough:
+
+This walkthrough should apply to all versions of the game, give or take a few 
+seconds.
+
+
+Sega CD Scenes Ordered By Scene Start Time:
+------------------------------------------------------------------------------
+#	Start		Stop		Type	Room
+1	00:00:00	00:00:20	plot	Guest Bedroom
+2	00:00:02	00:00:23	auger	Downstairs Hallway
+3	00:00:18	00:00:24	plot	Bathroom
+4	00:00:20	00:00:44	auger	Guest Bedroom
+5	00:00:24	00:00:31	auger	Living Room
+6	00:00:31	00:00:35	auger	Upstairs Hallway
+7	00:00:36	00:00:54	auger	Bathroom
+8	00:00:36	00:00:54	auger	Bathroom
+9	00:00:50	00:01:00	auger	Upstairs Hallway
+10	00:00:54	00:01:01	auger	Guest Bedroom
+11	00:01:01	00:01:14	auger	Living Room
+12	00:01:15	00:01:47	plot	Downstairs Hallway
+13	00:01:20	00:01:30	auger	Kitchen
+14	00:01:32	00:01:43	auger	Entry Way
+15	00:01:48	00:02:49	plot	Kitchen
+16	00:01:54	00:03:52	plot	Driveway
+17	00:01:58	00:02:07	plot	Living Room
+18	00:02:13	00:02:48	plot	Entry Way
+19	00:02:39	00:02:59	auger	Upstairs Hallway
+20	00:02:49	00:03:08	auger	Entry Way
+21	00:02:51	00:03:12	plot	Downstairs Hallway
+22	00:03:06	00:03:33	auger	Guest Bedroom
+23	00:03:11	00:03:19	auger	Downstairs Hallway
+24	00:03:23	00:03:37	auger	Living Room
+25	00:03:34	00:03:51	auger	Downstairs Hallway
+26	00:03:37	00:04:08	plot	Entry Way
+27	00:03:54	00:05:22	plot	Kitchen
+28	00:04:00	00:04:21	auger	Upstairs Hallway
+29	00:04:16	00:04:33	auger	Bathroom
+30	00:04:34	00:04:44	auger	Guest Bedroom
+31	00:04:44	00:05:17	plot	Downstairs Hallway
+32	00:04:45	00:04:50	auger	Upstairs Hallway
+33	00:04:51	00:05:10	auger	Living Room
+34	00:04:51	00:05:10	auger	Living Room
+35	00:05:11	00:05:28	plot	Driveway
+36	00:05:23	00:05:36	auger	Guest Bedroom
+37	00:05:30	00:05:58	code	Entry Way
+38	00:05:30	00:05:46	auger	Driveway
+39	00:05:42	00:05:59	auger	Living Room
+40	00:05:47	00:06:11	plot	Driveway
+41	00:06:02	00:08:50	plot	Living Room
+42	00:06:03	00:06:22	auger	Downstairs Hallway
+43	00:06:08	00:06:12	plot	Entry Way
+44	00:06:12	00:06:27	auger	Upstairs Hallway
+45	00:06:26	00:06:37	auger	Kitchen
+46	00:06:47	00:06:59	auger	Upstairs Hallway
+47	00:06:48	00:07:58	plot	Downstairs Hallway
+48	00:06:59	00:07:27	plot	Kitchen
+49	00:07:16	00:07:42	auger	Guest Bedroom
+50	00:07:39	00:07:50	auger	Driveway
+51	00:07:50	00:07:59	plot	Entry Way
+52	00:08:00	00:08:09	auger	Guest Bedroom
+53	00:08:00	00:08:34	plot	Driveway
+54	00:08:09	00:08:19	auger	Upstairs Hallway
+55	00:08:24	00:08:35	auger	Downstairs Hallway
+56	00:08:34	00:08:44	auger	Guest Bedroom
+57	00:08:46	00:09:05	auger	Upstairs Hallway
+58	00:08:47	00:09:14	plot	Entry Way
+59	00:08:48	00:09:07	code	Living Room
+60	00:09:05	00:09:38	plot	Upstairs Hallway
+61	00:09:07	00:09:22	auger	Living Room
+62	00:09:16	00:09:27	auger	Entry Way
+63	00:09:28	00:10:19	plot	Driveway
+64	00:09:33	00:10:35	plot	Guest Bedroom
+65	00:09:38	00:09:41	auger	Upstairs Hallway
+66	00:09:45	00:09:49	auger	Upstairs Hallway
+67	00:09:49	00:10:33	plot	Bathroom
+68	00:09:53	00:09:55	plot	Upstairs Hallway
+69	00:10:15	00:10:29	auger	Downstairs Hallway
+70	00:10:19	00:11:27	plot	Entry Way
+71	00:10:29	00:10:42	plot	Upstairs Hallway
+72	00:10:33	00:13:07	plot	Kitchen
+73	00:10:42	00:10:50	auger	Upstairs Hallway
+74	00:10:51	00:11:03	auger	Driveway
+75	00:10:51	00:11:03	auger	Driveway
+76	00:11:04	00:11:48	plot	Downstairs Hallway
+77	00:11:15	00:12:04	plot	Driveway
+78	00:11:45	00:11:59	plot	Upstairs Hallway
+79	00:11:51	00:12:50	trap	Bathroom
+80	00:11:59	00:12:10	auger	Living Room
+81	00:12:24	00:13:42	plot	Living Room
+82	00:12:51	00:13:09	plot	Guest Bedroom
+83	00:13:07	00:13:21	auger	Downstairs Hallway
+84	00:13:26	00:13:54	code	Entry Way
+85	00:13:27	00:14:42	plot	Driveway
+86	00:13:53	00:15:11	plot	Entry Way
+87	00:13:54	00:14:01	auger	Living Room
+88	00:14:03	00:14:35	plot	Upstairs Hallway
+89	00:14:06	00:14:26	code	Living Room
+90	00:14:26	00:15:15	plot	Guest Bedroom
+91	00:14:35	00:14:46	auger	Upstairs Hallway
+92	00:14:50	00:14:52	plot	Upstairs Hallway
+93	00:14:52	00:15:37	plot	Kitchen
+94	00:15:12	00:16:14	plot	Bathroom
+95	00:15:12	00:16:18	plot	Downstairs Hallway
+96	00:15:37	00:16:23	plot	Driveway
+97	00:15:40	00:16:14	plot	Entry Way
+98	00:16:14	00:16:42	plot	Upstairs Hallway
+99	00:16:24	00:16:34	auger	Driveway
+100	00:16:27	00:17:24	trap	Guest Bedroom
+101	00:16:35	00:16:48	auger	Living Room
+102	00:16:53	00:17:04	auger	Downstairs Hallway
+103	00:16:57	00:17:13	plot	Upstairs Hallway
+104	00:17:18	00:17:27	plot	Upstairs Hallway
+105	00:17:19	00:17:34	auger	Living Room
+106	00:17:25	00:18:05	plot	Bathroom
+107	00:17:34	00:17:41	auger	Upstairs Hallway
+108	00:17:42	00:17:56	auger	Living Room
+109	00:17:53	00:18:08	plot	Upstairs Hallway
+110	00:18:03	00:18:35	plot	Entry Way
+111	00:18:09	00:18:21	auger	Driveway
+112	00:18:09	00:18:21	auger	Driveway
+113	00:18:13	00:19:18	trap	Downstairs Hallway
+114	00:18:29	00:18:50	trap	Living Room
+115	00:18:50	00:19:18	plot	Driveway
+116	00:19:18	00:19:24	auger	Living Room
+117	00:19:22	00:20:09	trap	Entry Way
+118	00:19:32	00:19:52	plot	Downstairs Hallway
+119	00:19:41	00:20:46	plot	Driveway
+120	00:19:53	00:19:56	plot	Kitchen
+121	00:20:09	00:20:15	auger	Living Room
+122	00:20:22	00:20:49	plot	Living Room
+123	00:20:39	00:21:20	plot	Entry Way
+124	00:20:46	00:21:08	plot	Upstairs Hallway
+125	00:21:08	00:21:25	auger	Guest Bedroom
+126	00:21:09	00:23:48	plot	Living Room
+127	00:21:27	00:21:38	auger	Driveway
+128	00:21:30	00:21:38	auger	Downstairs Hallway
+129	00:21:38	00:21:49	auger	Kitchen
+130	00:21:49	00:21:58	auger	Upstairs Hallway
+131	00:22:00	00:22:20	auger	Guest Bedroom
+132	00:22:20	00:22:36	auger	Downstairs Hallway
+133	00:22:54	00:23:08	auger	Upstairs Hallway
+134	00:23:14	00:23:24	auger	Downstairs Hallway
+135	00:23:45	00:24:07	plot	Entry Way
+136	00:23:49	00:24:00	auger	Driveway
+137	00:24:01	00:24:10	auger	Living Room
+138	00:24:02	00:24:22	plot	Upstairs Hallway
+139	00:24:13	00:24:21	auger	Living Room
+140	00:24:14	00:24:47	trap	Guest Bedroom
+141	00:24:22	00:24:40	auger	Downstairs Hallway
+142	00:24:45	00:25:02	trap	Bathroom
+143	00:25:01	00:25:11	trap	Upstairs Hallway
+144	00:25:16	00:25:40	ending	Upstairs Hallway
+------------------------------------------------------------------------------
+
+PC/DOS Scenes Ordered By Start Time:
+------------------------------------------------------------------------------
+#	Start		Stop		Type	Room
+1	00:00:00	00:00:20	plot	Guest Bedroom
+2	00:00:02	00:00:22	auger	Downstairs Hallway
+3	00:00:18	00:00:23	plot	Bathroom
+4	00:00:20	00:00:43	auger	Guest Bedroom
+5	00:00:24	00:00:30	auger	Living Room
+6	00:00:31	00:00:34	auger	Upstairs Hallway
+7	00:00:36	00:00:53	auger	Bathroom
+8	00:00:36	00:00:53	auger	Bathroom
+9	00:00:50	00:01:00	auger	Upstairs Hallway
+10	00:00:54	00:01:02	auger	Guest Bedroom
+11	00:01:00	00:01:14	auger	Living Room
+12	00:01:15	00:01:48	plot	Downstairs Hallway
+13	00:01:20	00:01:29	auger	Kitchen
+14	00:01:32	00:01:43	auger	Entry Way
+15	00:01:48	00:02:49	plot	Kitchen
+16	00:01:54	00:03:53	plot	Driveway
+17	00:01:58	00:02:07	plot	Living Room
+18	00:02:13	00:02:48	plot	Entry Way
+19	00:02:39	00:02:58	auger	Upstairs Hallway
+20	00:02:49	00:03:08	auger	Entry Way
+21	00:02:51	00:03:11	plot	Downstairs Hallway
+22	00:03:06	00:03:33	auger	Guest Bedroom
+23	00:03:11	00:03:19	auger	Downstairs Hallway
+24	00:03:23	00:03:36	auger	Living Room
+25	00:03:34	00:03:50	auger	Downstairs Hallway
+26	00:03:37	00:04:08	plot	Entry Way
+27	00:03:54	00:05:22	plot	Kitchen
+28	00:04:00	00:04:20	auger	Upstairs Hallway
+29	00:04:16	00:04:33	auger	Bathroom
+30	00:04:34	00:04:44	auger	Guest Bedroom
+31	00:04:44	00:05:18	plot	Downstairs Hallway
+32	00:04:45	00:04:50	auger	Upstairs Hallway
+33	00:04:51	00:05:11	auger	Living Room
+34	00:04:51	00:05:11	auger	Living Room
+35	00:05:11	00:05:27	plot	Driveway
+36	00:05:23	00:05:36	auger	Guest Bedroom
+37	00:05:30	00:05:57	code	Entry Way
+38	00:05:30	00:05:47	auger	Driveway
+39	00:05:42	00:05:58	auger	Living Room
+40	00:05:47	00:06:10	plot	Driveway
+41	00:06:02	00:08:48	plot	Living Room
+42	00:06:03	00:06:23	auger	Downstairs Hallway
+43	00:06:08	00:06:11	plot	Entry Way
+44	00:06:12	00:06:27	auger	Upstairs Hallway
+45	00:06:26	00:06:37	auger	Kitchen
+46	00:06:47	00:06:58	auger	Upstairs Hallway
+47	00:06:48	00:07:59	plot	Downstairs Hallway
+48	00:06:59	00:07:26	plot	Kitchen
+49	00:07:16	00:07:41	auger	Guest Bedroom
+50	00:07:39	00:07:50	auger	Driveway
+51	00:07:50	00:07:59	plot	Entry Way
+52	00:08:00	00:08:09	auger	Guest Bedroom
+53	00:08:00	00:08:34	plot	Driveway
+54	00:08:09	00:08:19	auger	Upstairs Hallway
+55	00:08:24	00:08:35	auger	Downstairs Hallway
+56	00:08:34	00:08:43	auger	Guest Bedroom
+57	00:08:46	00:09:04	auger	Upstairs Hallway
+58	00:08:47	00:09:13	plot	Entry Way
+59	00:08:48	00:09:07	code	Living Room
+60	00:09:05	00:09:38	plot	Upstairs Hallway
+61	00:09:07	00:09:22	auger	Living Room
+62	00:09:16	00:09:26	auger	Entry Way
+63	00:09:28	00:10:19	plot	Driveway
+64	00:09:33	00:10:35	plot	Guest Bedroom
+65	00:09:38	00:09:41	auger	Upstairs Hallway
+66	00:09:45	00:09:49	auger	Upstairs Hallway
+67	00:09:49	00:10:32	plot	Bathroom
+68	00:09:53	00:09:55	plot	Upstairs Hallway
+69	00:10:15	00:10:28	auger	Downstairs Hallway
+70	00:10:19	00:11:26	plot	Entry Way
+71	00:10:29	00:10:42	plot	Upstairs Hallway
+72	00:10:33	00:13:07	plot	Kitchen
+73	00:10:42	00:10:50	auger	Upstairs Hallway
+74	00:10:51	00:11:03	auger	Driveway
+75	00:10:51	00:11:03	auger	Driveway
+76	00:11:04	00:11:46	plot	Downstairs Hallway
+77	00:11:15	00:12:03	plot	Driveway
+78	00:11:45	00:11:58	plot	Upstairs Hallway
+79	00:11:51	00:12:51	trap	Bathroom
+80	00:11:59	00:12:09	auger	Living Room
+81	00:12:24	00:13:42	plot	Living Room
+82	00:12:51	00:13:09	plot	Guest Bedroom
+83	00:13:07	00:13:21	auger	Downstairs Hallway
+84	00:13:26	00:13:48	code	Entry Way
+85	00:13:27	00:14:41	plot	Driveway
+86	00:13:53	00:15:11	plot	Entry Way
+87	00:13:54	00:14:01	auger	Living Room
+88	00:14:03	00:14:35	plot	Upstairs Hallway
+89	00:14:06	00:14:25	code	Living Room
+90	00:14:26	00:15:15	plot	Guest Bedroom
+91	00:14:35	00:14:46	auger	Upstairs Hallway
+92	00:14:50	00:14:51	plot	Upstairs Hallway
+93	00:14:52	00:15:36	plot	Kitchen
+94	00:15:12	00:16:14	plot	Bathroom
+95	00:15:12	00:16:19	plot	Downstairs Hallway
+96	00:15:37	00:16:24	plot	Driveway
+97	00:15:40	00:16:14	plot	Entry Way
+98	00:16:14	00:16:43	plot	Upstairs Hallway
+99	00:16:24	00:16:36	auger	Driveway
+100	00:16:27	00:17:24	trap	Guest Bedroom
+101	00:16:35	00:16:48	auger	Living Room
+102	00:16:53	00:17:04	auger	Downstairs Hallway
+103	00:16:57	00:17:12	plot	Upstairs Hallway
+104	00:17:18	00:17:27	plot	Upstairs Hallway
+105	00:17:19	00:17:33	auger	Living Room
+106	00:17:25	00:18:05	plot	Bathroom
+107	00:17:34	00:17:41	auger	Upstairs Hallway
+108	00:17:42	00:17:56	auger	Living Room
+109	00:17:53	00:18:08	plot	Upstairs Hallway
+110	00:18:03	00:18:34	plot	Entry Way
+111	00:18:09	00:18:21	auger	Driveway
+112	00:18:09	00:18:21	auger	Driveway
+113	00:18:13	00:19:18	trap	Downstairs Hallway
+114	00:18:29	00:18:49	trap	Living Room
+115	00:18:50	00:19:17	plot	Driveway
+116	00:19:18	00:19:24	auger	Living Room
+117	00:19:22	00:20:08	trap	Entry Way
+118	00:19:32	00:19:53	plot	Downstairs Hallway
+119	00:19:41	00:20:45	plot	Driveway
+120	00:19:53	00:19:56	plot	Kitchen
+121	00:20:09	00:20:15	auger	Living Room
+122	00:20:22	00:20:48	plot	Living Room
+123	00:20:39	00:21:19	plot	Entry Way
+124	00:20:46	00:21:08	plot	Upstairs Hallway
+125	00:21:08	00:21:26	auger	Guest Bedroom
+126	00:21:09	00:23:48	plot	Living Room
+127	00:21:27	00:21:38	auger	Driveway
+128	00:21:30	00:21:38	auger	Downstairs Hallway
+129	00:21:38	00:21:49	auger	Kitchen
+130	00:21:49	00:21:59	auger	Upstairs Hallway
+131	00:22:00	00:22:19	auger	Guest Bedroom
+132	00:22:20	00:22:35	auger	Downstairs Hallway
+133	00:22:54	00:23:08	auger	Upstairs Hallway
+134	00:23:14	00:23:24	auger	Downstairs Hallway
+135	00:23:45	00:24:07	plot	Entry Way
+136	00:23:49	00:24:00	auger	Driveway
+137	00:24:01	00:24:10	auger	Living Room
+138	00:24:02	00:24:22	plot	Upstairs Hallway
+139	00:24:13	00:24:21	auger	Living Room
+140	00:24:14	00:24:47	trap	Guest Bedroom
+141	00:24:22	00:24:40	auger	Downstairs Hallway
+142	00:24:45	00:25:02	trap	Bathroom
+143	00:25:01	00:25:11	trap	Upstairs Hallway
+144	00:25:16	00:25:48	ending	Upstairs Hallway
+------------------------------------------------------------------------------
+
+People to Save and/or Capture - 8 in total:
+------------------------------------------------------------------------------
+Trap		Room			Save		Capture
+00:12:37	Bathroom		Lisa	
+00:17:13	Guest Bedroom		Ashley
+00:18:34	Living Room		Cindy
+00:19:08	Downstairs Hallway	Megan
+00:19:56	Entry Way		Kelly		Tony
+00:24:30	Guest Bedroom		Kelly		Sheila
+00:24:54	Bathroom		Kelly		Victor
+00:25:10	Upstairs Hallway	Kelly		Sarah
+------------------------------------------------------------------------------
+
+Detrimental Captures - 4 in total:
+------------------------------------------------------------------------------
+Trap		Room			Capture
+00:15:30	Downstairs Hallway	Eddie (disguised as auger)
+00:19:07	Downstairs Hallway	Megan
+00:21:03	Upstairs Hallway	SCAT team member Charlie
+00:23:34	Living Room		SCAT team member Swanson with Jeff	
+
+The Perfect Game - 83 moves in total:
+------------------------------------------------------------------------------
+Trap	# of Augers	Room			Extra
+00:00:12	2	Downstairs Hallway
+00:00:27	2	Living Room
+00:00:36	1	Guest Bedroom
+00:00:43	1	Bathroom
+00:00:49	1	Bathroom
+00:01:06	1	Living Room
+00:01:24	1	Kitchen
+00:01:39	1	Entry Way
+00:02:58	2	Entry Way
+00:03:15	1	Downstairs Hallway
+00:03:26	1	Guest Bedroom
+00:03:32	1	Living Room
+00:03:42	2	Downstairs Hallway
+00:03:47	1	Driveway
+00:04:11	1	Upstairs Hallway
+00:04:22	1	Bathroom
+00:04:38	1	Guest Bedroom
+00:04:55	1	Living Room
+00:05:04	1	Living Room
+00:05:32	1	Guest Bedroom
+00:05:36	1	Driveway
+00:05:40	0	Entry Way		code (change at 5:54)
+00:05:53	1	Living Room
+00:06:10	1	Downstairs Hallway
+00:06:19	2	Upstairs Hallway
+00:06:50	2	Upstairs Hallway
+00:07:05	1	Kitchen
+00:07:27	2	Guest Bedroom
+00:07:41	1	Driveway
+00:07:51	2	Downstairs Hallway
+00:08:02	1	Guest Bedroom
+00:08:14	2	Upstairs Hallway
+00:08:27	1	Downstairs Hallway
+00:08:40	2	Guest Bedroom
+00:08:59	0	Living Room		code
+00:09:11	1	Living Room
+00:09:22	1	Entry Way
+00:10:48	1	Upstairs Hallway
+00:10:54	1	Driveway
+00:10:58	1	Driveway
+00:11:31	1	Downstairs Hallway
+00:12:04	1	Living Room
+00:12:37	1	Bathroom
+00:13:15	1	Downstairs Hallway
+00:13:37	0	Entry Way		code
+00:13:57	2	Living Room
+00:14:15	0	Living Room		code
+00:14:41	2	Upstairs Hallway
+00:15:04	2	Entry Way
+00:16:28	1	Driveway
+00:16:38	2	Upstairs Hallway
+00:16:45	1	Living Room
+00:16:59	1	Downstairs Hallway
+00:17:13	1	Guest Bedroom
+00:17:26	1	Living Room
+00:17:38	1	Upstairs Hallway
+00:17:47	1	Living Room
+00:17:56	1	Bathroom
+00:18:00	2	Upstairs Hallway
+00:18:13	1	Driveway
+00:18:17	1	Driveway
+00:18:27	2	Entry Way
+00:18:34	1	Living Room
+00:19:08	1	Downstairs Hallway
+00:19:21	2	Living Room
+00:19:56	0	Entry Way		trap Tony
+00:20:12	2	Living Room
+00:21:19	2	Guest Bedroom
+00:21:31	1	Driveway
+00:21:45	1	Kitchen
+00:21:53	2	Upstairs Hallway
+00:22:11	2	Guest Bedroom
+00:22:24	2	Downstairs Hallway
+00:23:06	1	Upstairs Hallway
+00:23:18	1	Downstairs Hallway
+00:23:37	0	Living Room		trap Jeff only
+00:23:54	1	Driveway
+00:24:04	1	Living Room
+00:24:28	1	Downstairs Hallway
+00:24:30	0	Guest Bedroom		trap Sheila
+00:24:54	0	Bathroom		trap Victor
+00:25:10	0	Upstairs Hallway	trap Sarah
+00:25:38	0	Upstairs Hallway	trap Kelly!
+------------------------------------------------------------------------------
+
+6) Scene-By-Scene Description:
+One of the concepts of a FMV interactive movie is the intermix of gameplay 
+and cinematic story.  To truly understand the reason behind the gameplay
+(the cameras and the traps), you must immerse yourself in the world of the 
+game.  It is the evening.  Lt. Simms updates you on your position in the 
+SCAT team.  Much like "Big Brother," you unravel the mystery of who the 
+Martins are and what happened to the last set of girls who went there and 
+never came back.  The events of the game mimic real life; when people leave 
+one room, they enter another shortly after.  This Scene-By-Scene breaks down 
+the action that occurs in the plot scenes and illustrates the story better.  
+It should ultimately help you catch the augers as you understand how to 
+follow important characters around the house so that the game does not end 
+abruptly.  The disc change and an overlapping scene of a necessary trap 
+moment are indicated in CAPITALIZATION.  Although the start and stop times 
+are from the PC/DOS version, the Scene Numbers correspond to all versions of 
+the game.
+
+PC/DOS Scenes:
+------------------------------------------------------------------------------
+#	Start	Stop	Type	Room
+Intro	00:00:00	00:02:??	intro	SCAT Command Van	
+Lt. Simms explains the mission and the camera controls
+1	00:00:00	00:00:20	plot	Guest Bedroom	
+Sarah Martin smiles into the camera, her eyes have a green glint, and she 
+walks into the bathroom secret exit
+3	00:00:18	00:00:23	plot	Bathroom	
+continuation of Scene #1
+12	00:01:15	00:01:48	plot	Downstairs Hallway	
+Victor Martin preaches responsibility to Tony and encourages him to assist 
+his cousin in lifting boxes
+15	00:01:48	00:02:49	plot	Kitchen		
+continuation of Scene #12 and #17, The Martins prepare their bottles for their 
+guests, Tony is hesitant on joining the family business
+16	00:01:54	00:03:53	plot	Driveway	
+augers roam outside of house, car pulls up with girls singing "Row Row Row 
+Your Boat," Ashley asks if anyone saw anything moving, Lisa searches for her 
+Chamois bag, Kelly tells SCAT control they are going in, Sarah Martin welcomes 
+the girls, the girls unpack the car, Mr. and Mrs. Martin welcome the girls to 
+their little getaway, Sarah introduces the girls by name to her parents, 
+Victor kisses Kelly's hand, Sheila tells the guests to come in the house, 
+Weird Eddie stares at the girls coming in, he waves to them and Danny waves 
+back, the girls enter the lakehouse
+17	00:01:58	00:02:07	plot	Living Room		
+Sheila Martin enters from the secret bookshelf, carrying a box, and walks to 
+the Kitchen
+18	00:02:13	00:02:48	plot	Entry Way		
+Sarah Martin enters from the secret wall, goes out front door to greet 
+guests, Mr. and Mrs. Martin watch from the front window, Victor wants to 
+enjoy the new guests, Sheila doesn't want to neglect the augers, Victor 
+comments on Sheila's charity work, they exit out front door to greet the 
+guests, continues in Scene #16
+21	00:02:51	00:03:11	plot	Downstairs Hallway	
+Tony and Jeff bicker about holding the back door open as they carry the 
+boxes of bottles
+26	00:03:37	00:04:08	plot	Entry Way	
+Continuation of Scene #16, Mr. and Mrs. Martin invite the guests in the house, 
+Victor talks French to the girls
+27	00:03:54	00:05:22	plot	Kitchen		
+Continuation of Scene #26, girls are inquisitive about cherry popsicles and 
+locked cellar, girls decide to go to the lake, Mr. and Mrs. Martin tell Sarah 
+they are making a delivery to the augers tonight, Sheila is worried about 
+Kelly and suggests changing the access code to Victor
+31	00:04:44	00:05:18	plot	Downstairs Hallway	
+auger checks the Kitchen and leaves, Danny sneaks to the basement, Kelly and 
+the girls leave out the back door, Sarah persuades Danny to follow them 
+outside
+35	00:05:11	00:05:27	plot	Driveway	
+Jeff and Tony scare Eddie and want to know when he wants to die as they enter 
+the lakehouse
+38	00:05:30	00:05:57	code	Entry Way	
+Continuation of Scene #27, Mr. and Mrs. Martin leave the house and tell Tony 
+and Jeff to change the access code, Tony and Jeff exit via the Entryway secret 
+exit
+40	00:05:47	00:06:10	plot	Driveway	
+Victor and Sheila Martin have second doubts about leaving their kids home, 
+they go to make their delivery to the augers
+41	00:06:02	00:08:48	plot	Living Room		
+guests return from the lake, partytime!, girls dance and lip-sync to Night 
+Trap theme song, Danny decides to wander around the house, Ashley bumps into 
+Tony, Sarah introduces Tony and Jeff to guests, Jeff warns Sarah of danger, 
+Sarah offers to show the guests to their rooms
+43	00:06:08	00:06:11	plot	Entry Way		
+Cindy closes door from Entryway to Living Room
+47	00:06:48	00:07:59	plot	Downstairs Hallway	
+Continuation of Scene #48, Jason enters from back door with gun in hand, 
+scouts the area, checks basement door, augers abduct him and drag him to the 
+basement, Danny is suspicious of the basement and sneaks down there, an auger 
+follows him down
+48	00:06:59	00:07:26	plot	
+Kitchen	auger walks in, checks the cellars and leaves, Danny snoops around 
+Kitchen, tries to open the blood cellar and exits to Downstairs Hallway
+51	00:07:50	00:07:59	plot	Entry Way	
+Tony and Jeff enter from the Entryway secret wall and walk across to meet the 
+guests in the Living Room, continues in Scene #41
+52	00:08:00	00:08:34	plot	Driveway	
+Collins talks to Lt. Simms outside, tells him that Jason went inside the 
+house, Collins walks away
+58	00:08:47	00:09:13	plot	Entry Way	
+Continuation of Scene #41, The girls get their luggage and head up the stairs, 
+they talk about how they like Tony
+59	00:08:48	00:09:07	code	Living Room	
+Continuation of Scene #41, Tony tells Jeff that Ashley reminds him of 
+Madeline, boys decide to change the access code as they exit through the 
+secret bookshelf
+60	00:09:05	00:09:38	plot	Upstairs Hallway	
+Continuation of Scene #58, Cindy gets scared from an auger but brushes it off, 
+girls break off into their rooms, Lisa scopes out the hallway quickly
+63	00:09:28	00:10:19	plot	Driveway	
+Collins pulls up in station wagon, reports to Chief that he is going in
+64	00:09:33	00:10:35	plot	Guest Bedroom	
+Continuation of Scene #60, Kelly combs her hair, Kelly asks Sarah about the 
+lakehouse and family, Ashley finds auger tricord, doorbell rings, girls go out 
+to see who it is
+66	00:09:45	00:09:49	plot	Upstairs Hallway	
+Lisa crosses to the bathroom
+67	00:09:49	00:10:32	plot	Bathroom	
+Continuation of Scene #66, Lisa looks at herself in the camera, Megan tells 
+Lisa that she hates makeup and mocks her, Megan shows her acting abilities, 
+doorbell rings and Megan goes to answer it, Lisa exits
+68	00:09:53	00:09:55	plot	Upstairs Hallway	
+Cindy and Megan cross to the Bathroom
+70	00:10:19	00:11:26	plot	Entry Way		
+Continuation of Scene #63, Jeff and Tony enter from secret wall, answer door 
+and are greeted by Collins, Collins asks if they have seen his boat, Kelly and 
+the girls come downstairs and see Collins, Collins asks why Tony is wearing 
+shades at night, Collins asks if everything is alright, Jeff pushes him out 
+the door, girls comment about what that was about, Cindy wants to get 
+something to eat, the girls move to the Kitchen
+71	00:10:29	00:10:42	plot	Upstairs Hallway	
+Continuation of Scene #64 and #67, girls tells Lisa to come down, girls walk 
+down stairs while augers watch from upstairs
+72	00:10:33	00:13:07	plot	Kitchen		
+augers extract blood in wine cellar from Jason, Danny spots them, augers chase 
+after them, Tony tells Jeff that something is wrong, Kelly and the girls 
+prepare to make ice cream, Jeff tells Sarah the body box is unlocked, Jeff 
+dumps ice cream in the sink
+76	00:11:04	00:11:46	plot	Downstairs Hallway	
+Danny enters from the basement, checks the kitchen, returns, and is ambushed 
+by augers, he flees through the back door, Tony walks out the back door
+77	00:11:15	00:12:03	plot	Driveway		
+Continuation of Scene #70, Collins leave the lakehouse, enters his car, tells 
+Simms that everything is okay except no sign of Jason, Collins moves back to 
+his position and drives away
+78	00:11:45	00:11:58	plot	Upstairs Hallway	
+An auger enters the Bathroom before Lisa crosses to the Bathroom in her 
+nightgown
+79	00:11:51	00:12:51	trap	Bathroom	
+Continuation of Scene #78, auger hides in the shower, Lisa fixes her hair and 
+spots someone in the shower and thinks it is Megan, augers attack her, she 
+flees to Guest Bedroom
+81	00:12:24	00:13:42	plot	Living Room		
+OVERLAP OF NECESSARY TRAP, Kelly searches through desk drawer, finds pictures 
+of missing girls with their blood types on back, finds a locket with 
+Madeline's picture, Kelly asks Tony what the stuff is for, Tony shows Kelly 
+his color-changing eyes, Cindy, Megan, and Ashley come in, Kelly and Ashley go 
+outside, Danny enters and tells Cindy and Megan about the basement with 
+buttons and traps
+82	00:12:51	00:13:09	plot	Guest Bedroom	
+Continuation of Scene #79, Lisa struggles against the augers, escapes out the 
+window, augers retreat to bathroom secret exit
+84	00:13:26	00:13:48	code	Entry Way	
+DISC CHANGE, Jeff, Tony and Sarah learn that the augers are there, Jeff hears 
+a scream, kids go outside
+85	00:13:27	00:14:41	plot	Driveway	
+Kelly and Ashley go outside to relax, Ashley screams upon seeing Eddie, Eddie 
+tries to warn Ashley of the augers, Danny talks with Eddie about augers, Eddie 
+explains what an auger is, Eddie suggests to fight back with auger blasters, 
+demonstrates for Danny, Eddie gives Danny a blaster
+86	00:13:53	00:15:11	plot	Entry Way	
+Continuation of Scene #85, girls come back, Cindy wants to go swimming, Sarah 
+and Jeff sneak into living room, Megan tells Cindy she is embarrassed about 
+the weekend, Danny tests auger blaster on an auger and disintegrates him, more 
+augers chase after him
+88	00:14:03	00:14:35	plot	Upstairs Hallway	
+Continuation of Scene #86, Kelly and Ashley comment that Weird Eddie is weird 
+as they walk up the stairs, Kelly tells Ashley that she is working undercover 
+and that they may be in great danger, Ashley walks to the Guest Bedroom, Kelly 
+tells you to watch out for the other girls as an auger passes behind her
+89	00:14:06	00:14:25	code	Living Room		
+Continuation of Scene #86, Jeff and Sarah go to the control room, Sarah feels 
+better that they switch the code
+90	00:14:26	00:15:15	plot	Guest Bedroom	
+Continuation of Scene #88, Ashley sits on the bed as Tony enters from the 
+secret wall of the Bathroom, he tells her to leave and that she is in grave 
+danger, Tony's eyes flash green and Ashley screams, Kelly enters and pulls out 
+a gun, but Tony teleports behind her and takes her gun, he tells her that guns 
+are useless against his family, his kind, Kelly and Ashley follow Tony to the 
+Bathroom
+92	00:14:50	00:14:51	plot	Upstairs Hallway	
+Kelly crosses to Bedroom, continues in Scene #90
+93	00:14:52	00:15:36	plot	Kitchen	
+Lisa gets food, Danny tells Cindy and Megan about the augs but they don't 
+believe him, Cindy comments that the ice pops taste like blood, Megan finds 
+Jason's body in the cellar, girls run from the augers
+94	00:15:12	00:16:19	plot	Downstairs Hallway	
+Eddie is disguised as an auger, he tells Danny to check around the house with 
+the auger blaster, Danny shoots another auger and gets excited, augers come 
+from behind and scare Danny out of the back door
+95	00:15:12	00:16:14	plot	Bathroom		
+Continuation of Scene #90, Tony walks toward the mirror exit, Tony warns Kelly 
+and Ashley to go now, Ashley remind him of a person he knew and loved a long 
+time ago but that could never be, Ashley is confused, Kelly talks to Mike on 
+the walkie talkie, she issues a Code Red and relays her situation to Mike, 
+Kelly tells him that the Martins might be vampires, Kelly and Ashley move to 
+investigate a scream
+96	00:15:37	00:16:24	plot	Driveway	
+Mike and Kelly talk via walkie talkie, Kelly gives the Code Red, Mike gets 
+abducted by augers
+97	00:15:40	00:16:14	plot	Entry Way	
+Cindy and Megan hide behind front door as augers enter, girls run up the 
+stairs followed by augers
+98	00:16:14	00:16:43	plot	Upstairs Hallway	
+Continuation of Scene #97, Megan and Cindy tell Kelly and Ashley about the 
+augers, augers come up the stairs after the girls
+100	00:16:27	00:17:24	trap	Guest Bedroom		
+Kelly tells the girls to calm down, she tells girls of her SCAT command, girls 
+learn they are dealing with vampires, augers move in toward Ashley
+103	00:16:57	00:17:12	plot	Upstairs Hallway	
+augers cut down Guest Bedroom door with an ax and enter, continues in Scene 
+#100
+104	00:17:18	00:17:27	plot	Upstairs Hallway	
+Continuation of Scene #100, Ashley thanks you and runs from the augers
+106	00:17:25	00:18:05	plot	Bathroom		
+Continuation of Scene #100, Kelly comments that there is nothing they can do 
+for Ashley now, she says to the camera that you have got to be with her, she 
+points out the camera to Kelly and Cindy, an auger sneaks up behind them, the 
+girls flee from the augers, the augers return through the secret wall
+109	00:17:53	00:18:08	plot	Upstairs Hallway	
+Megan, Cindy, and Kelly run in fear from the augers down the stairs
+110	00:18:03	00:18:34	plot	Entry Way	
+Continuation of Scene #109, Kelly and Megan block off the front door as Cindy 
+is caught from behind by an auger, the girls manage to escape, Kelly and Megan 
+run to the Downstairs Hallway and Cindy runs to the Living Room
+113	00:18:13	00:19:18	trap	Downstairs Hallway	
+OVERLAP OF NECESSARY TRAP, Continuation of Scene #110, an auger enters from 
+the back door, Kelly and Megan realize they are trapped, Kelly urges you to 
+trap the big auger, Megan can't stand the suspense and crosses the hallway, an 
+auger sees her, the augers restrain her and carry her toward the back door, 
+she is rescued as you activate the floor trap, she flees out the back door, 
+Kelly knew you can do it and runs to the Entry Way
+114	00:18:29	00:18:49	trap	Living Room		
+Continuation of Scene #110, Cindy is chased by augers, you rescue her with the 
+bookshelf trap, she flees out the back door and the augers chase after her
+115	00:18:50	00:19:17	plot	Driveway	
+OVERLAP OF NECESSARY TRAP, Mr. and Mrs. Martin return home, Victor senses 
+something is very wrong, Sheila feels the augers is in the house, Victor 
+suggests entering the house through the back, Mr. and Mrs. Martin walk toward 
+the back of the lakehouse
+117	00:19:22	00:20:08	trap	Entry Way		
+Kelly is ambushed by augers, and Tony scares them away with a lightning bolt, 
+he threatens her up the stairs, Kelly tells him this is crazy, Tony doubts 
+that you will use the trap on him, Tony dies from the stair trap, Kelly sits 
+down on the stairs in disbelief
+118	00:19:32	00:19:53	plot	Downstairs Hallway	
+Mr. and Mrs. Martin enter from the back door, Martin senses something is wrong 
+and is not quite sure what, he tells Sheila to find Jeff and Sarah, they walk 
+to the Kitchen
+119	00:19:41	00:20:45	plot	Driveway	
+OVERLAP OF NECESSARY TRAP, Swanson reports that there is no sign of Mike, she 
+finds Mike's com unit, Swanson shoots and kills an auger, SCAT team issues a 
+Code Red, the SCAT team pulls up in the SCAT Jeep, Collins shoots and kills 
+another auger, Collins shoots and kills an auger, the SCAT team sees the skin 
+falling off the dead auger, the SCAT team moves in and enters through the 
+front door
+120	00:19:53	00:19:56	plot	Kitchen	
+OVERLAP OF NECESSARY TRAP, Continuation of Scene #118, Mr. and Mrs. Martin 
+walk through the Kitchen toward the Living Room
+122	00:20:22	00:20:48	plot	Living Room		
+Continuation of Scene #120, Sarah enters from the secret bookshelf and sees 
+her parents, Mr. and Mrs. Martin realize that the augers set them up when they 
+didn't show for the scheduled delivery of blood, Sarah tells them that someone 
+else has control of the cameras and traps, Sarah, Victor, and Sheila 
+investigate a sound and exit
+123	00:20:39	00:21:19	plot	Entry Way		
+Continuation of Scene #119, the SCAT team enters the house and is reacquainted 
+with Kelly, Charlie is sent upstairs, Mr. and Mrs. Martin and Sarah enter and 
+frighten the SCAT team, Kelly and the SCAT team follow the Martins into the 
+Living Room
+124	00:20:46	00:21:08	plot	Upstairs Hallway	
+Continuation of Scene #123, An auger throws an auger tricord (boomerang) at 
+Charlie, he pursues the auger 
+126	00:21:09	00:23:48	plot	Living Room		
+Simms and Swanson inform Victor that SCAT has been watching them and knows of 
+the disappearance of girls, Victor discusses his charity work with the 
+unfortunate augers, Victor tells Simms what an auger is, Collins wants to drag 
+the Martins downtown, Victor and Sheila laugh when Simms tells them they are 
+in trouble, Jeff enters from the secret bookshelf and learns Tony died from 
+the stair trap, Deke gets thrown out the window by Victor, Collins shoots, but 
+the bullets cannot hurt him, Swanson battles Jeff, Jeff dies from the 
+bookshelf trap as Swanson falls on the floor, Sheila takes out Simms 
+effortlessly, Kelly runs to the Entry Way as the Martins follow after her
+135	00:23:45	00:24:07	plot	Entry Way		
+Continuation of Scene #126, Kelly tries to escape through the front door but 
+is greeted by an auger, Sarah, Victor, and Martin follow Kelly up the stairs
+138	00:24:02	00:24:22	plot	Upstairs Hallway	
+Kelly runs from the Martins and the augers, Mr. Martin shoots a lightning bolt 
+from his hands and offers for Sheila to enter the Guest Bedroom first, Sarah, 
+Victor, and Sheila teleport out of the room
+140	00:24:14	00:24:47	trap	Guest Bedroom	
+Sarah, Victor, and Sheila laugh evilly as Kelly is cornered, Sheila goes in 
+for the kill, she dies from the closet trap that "was going to be a surprise," 
+Kelly thanks you and flees to the Bathroom in chase by Sarah and Victor
+142	00:24:45	00:25:02	trap	Bathroom	
+Kelly urges you to please use the traps, Victor and Sarah enter calmly and 
+confidently, Victor dies from the wall trap, Kelly says "Yeah" and flees to 
+the Upstairs Hallway in chase by Sarah
+143	00:25:01	00:25:11	trap	Upstairs Hallway	
+Kelly pleads for you as you're the only one who can save her now, Sarah wants 
+Kelly for herself and comes in for the kill, Sarah dies from the floor trap
+144	00:25:16	00:25:48	ending	Upstairs Hallway	
+Kelly knows she can count on you and she will insist you back her up on 
+special assignment, she tempts you to hit the trap on her, she says goodbye 
+and hopes to see you next time
+
+
+7) Endings:
+
+How Many Endings Are There?
+(a) If you don't press any buttons for the first 2 and a half minutes, 
+Commander Simms tells you you're not up for this mission and disconnects you.
+(b) If either Megan, Lisa, or Ashley get abducted by the augers or the 
+Martins, Commander Simms reprimands you and disconnects you.  He may either 
+pull the wire out of the Genesis controller or crack the controller in half.
+(c) If Cindy or Kelly gets abducted by Jeff Martin, he bites her and takes 
+her down to the basement where he finds out all about SCAT.  Jeff then 
+disconnects the security override cable in the Downstairs Hallway and 
+sends you into a trap in the kitchen.
+(d) If either Sheila, Victor, or Sarah Martin is not captured in the final 
+minute, the first Martin that is not captured will be the one who sucks Kelly's 
+blood at the end.
+(e) If you trap all the necessary threats and one of the following: miss at 
+least one auger, trap Eddie or the SCAT team member, or not trap Jeff, Kelly 
+tells you that you can do better next time and then an auger emerges as she 
+walks down the stairs.
+(f) If you capture all 95 augers, capture all necessary threats, do not capture 
+Eddie nor the SCAT team member, then you get the perfect ending where Kelly 
+tells you that nobody has ever been perfect.  Then the game allows you to trap 
+Kelly in the Upstairs Hallway.  If you trap her, she complains that she thought 
+she could count on you.  Otherwise, she will hop over the Upstairs Hallway trap 
+floor and wave goodbye to you as she walks down the stairs.
+(g) Although never appearing within the confines of the game, there is a 
+seventh failing scenario in which Sheila Martin disconnects the player's 
+controls after discovering the SCAT Team.  This clip can only be viewed using
+a Sega CD Movie viewer on a Windows computer.  (Thanks to Harrison Moccio for 
+sharing this ending.)
+
+------------------------------------------------------------------------------
+
+8) Bibliography:
+
+------------------------------------------------------------------------------
+
+Dogey, Jonathan.  "Night Trap 32X."  Sega-16. http://www.sega-16.com/2007/
+	08/night-trap-32x/ (accessed Oct. 15, 2013).
+
+Fry, Dwite.  "Night Trap."  Hardcore Gaming 101.  
+	http://www.hardcoregaming101.net/nighttrap/nighttrap.htm (accessed 
+	Oct. 15, 2013).
+
+Lachel, Cyril.  "Night Trap Review for Sega CD (1992)."  Defunct Games.
+	http://www.defunctgames.com/review/256/night-trap (accessed Oct. 15, 
+	2013).
+
+"Night Trap Week: Controversial Beginnings." Gay Gamer.  http://gaygamer.net/
+	2007/06/night_trap_week_controversial_1.html (accessed Oct. 15, 2013).
+
+"Video Games Hall of Fame."  GamesMasterWorld.  
+	http://gamesmasterworld.webs.com/videogameshalloffame.htm (accessed 
+	Oct. 15, 2013).
+
+9) Contact:
+
+------------------------------------------------------------------------------
+Contact me! Here are the following ways you can contact me:
+
+Website:
+http://www.christopherjhopkins.com
+
+GameFAQs:
+http://www.gamefaqs.com/features/recognition/78940.html?type=1
+
+YouTube:
+http://www.youtube.com/hopkinschris
+
+SoundCloud:
+https://soundcloud.com/snazzyhoppy
+------------------------------------------------------------------------------
+
+
+10) Credits:
+
+------------------------------------------------------------------------------
+Thank you to those who made this guide possible:
+
+Digital Pictures- for being brave in a gaming universe that never saw immersion 
+like their interactive movie games
+
+Sega Enterprises- for translating the NEMO version of the game to the Sega CD 
+and Sega CD/32X
+
+GameFAQs- for the best source in walkthroughs, maps, and helpful hints since 
+1995, and for their guidelines in constructing a FAQ guide
+
+Psychochronic and IKroone- for creating the Night Trap guides to judge all 
+others by as well as giving me an idea as to structuring the sections of mine
+
+Harrison "HarroSIN" Moccio- for additional information contributed regarding
+the PC/DOS version and the game endings
+------------------------------------------------------------------------------
+
+
+Do you have the skill and timing to complete the perfect game?
+
+View more guides from this contributor:
+http://www.gamefaqs.com/features/recognition/78940.html?type=1
+
+
+Copyright (c) Christopher Hopkins 2013

@@ -1,0 +1,281 @@
+Knuckles Chaotix FAQ v1.1
+By Chayne Paxton (chaosdragon@whoever.com)
+Last Update:12-29-00
+
+Disclaimer:This document copyright 2000 Chayne Paxton. You may copy 
+this guide as long as you do not edit it and give credit to me. Do not 
+charge a fee for this guide. This guide can only be distributed in 
+electronic form.
+
+If you would like to e-mail me send your e-mails to 
+chaosdragon@whoever.com and I'll get back to you as soon as I can.
+
+Updates:
+12-29-00:Updated info on the Chaos Rings and added list of sites to 
+view my FAQ.
+
+12-26-00:Just started this guide.
+
+List of sites to see this FAQ:
+http://www.gamefaqs.com
+http://www.gameadvice.com
+
+Coming Soon:
+Boss Strategies
+End Boss Strategy
+Better Level Descriptions
+ASCII Art(maybe)
+Whatever Else I Can Think Of
+
+Index
+I.Intro
+(a).What the heck is Knuckles Chaotix?
+(b).What system is it for?
+
+II.How to Play Knuckles Chaotix
+(a).The controls
+(b).How Knuckles Chaotix works
+(c).The Bonus Stage
+(d).Chaos Rings
+(e).Power-Ups
+(f).Before a Level
+(g).In a Level
+(h).Beating a Level
+(i).2-Player Mode
+(j).Training Mode
+
+III.The Characters
+(a).Knuckles the Echidna
+(b).Mighty the Armadillo
+(c).Espio the Chamelion
+(d).Charmie Bee
+(e).Vector the Crocodile
+(f).Heavy and Bomb
+(g).Who Should I Choose?
+
+IV.The Levels
+(a).Practice Stage
+(b).Botanic Base
+(c).Speed Slider
+(d).Amazing Arena
+(e).Marina Madness
+(f).Techno Tower
+(g).Isolated Island(the training mode levels)
+
+V.Tricks & Codes
+(a).50,000 Point Bonus
+(b).Different Music in Techno Tower
+(c).Remove your partner in Marina Madness
+
+VI.The End
+(a).Outro
+
+
+I. Intro
+(a)What the heck is Knuckles' Chaotix?
+Knuckles' Chaotix is a game in which two characters are attached by a 
+magical band of ring power. The characters in this game are Knuckles, 
+Mighty, Espio, Charmie, and Vector. Why didn't this game star Sonic? At 
+one time it did. There was a Genesis game that was never released 
+called Sonic Crackers. Sonic and Tails are attached by the same magical 
+band. The only way to play this is to get a ROM of it and a Genesis 
+emulator. Look around the net, it's not too hard to find.
+
+(b)What system is it for?
+Knuckles' Chaotix is for the 32x. The 32x is an attachment to the 
+Genesis that makes it 32-bit. It plugs into the cartridge slot and is 
+attached to the Genesis via a special cable. It needed another a/c 
+adaptor to power it. Check out http://www.sega-parts.com if you want a 
+32x. They sell refurbished 32x units.
+
+
+II. How to Play Knuckles' Chaotix
+(a).The Controls
+The controls for Knuckles Chaotix are:
+A-Call Partner: If your partner is gone and you have 10 rings press A 
+to call them.
+
+B-Hold:Make your partner not move.
+
+C-Jump:Well, duh.
+
+(b).How Knuckles' Chaotix works
+In Knuckles Chaotix the goal is to reach the end of the level before 
+time runs out or before you die. If you collect rings when you get hit 
+instead of dying you lose all of your rings. If your partner gets hit 
+you lose 1 ring. You can use the "rubber band" to get around the 
+levels. Hold B then move right or left to charge the rubber band power. 
+If you are on a ledge above your partner and want to fling them up to 
+where you are hold B. If your partner is on a ledge above you hold down 
+to charge the rubber band power. To spin dash hold down and press jump. 
+Unfortunately, it is very underpowered in this game.
+
+(c).The Bonus Level
+If you have 20 or more rings in a level you can enter the bonus stage. 
+In the bonus stage you are falling down. Hit blocks to have different 
+effects. Every second you are in the bonus level you use up a ring. The 
+stage ends when you run out of rings or hit an exit block. The types of 
+blocks are:
+Spring Blocks-Bounce you up
+Ring Blocks-Give you 10 rings
+500 Pt. Blocks-Pretty self-explanatory
+Exit Blocks-Pretty self-explanatory
+Up Blocks-Speed up descent
+Down Blocks-Slow Down Descent
+Chopper Blocks-Make you lose rings. Be careful!
+Stage Select Blocks-Slows down the stage select machine the next time 
+you go to the stage selector.
+Combi Catcher Blocks-Slows down the Combi Catcher the next time you get 
+a new partner.
+
+(d).Chaos Rings
+If you have 50 rings at the end of a level you should see a giant ring 
+above the clear sign. Jump in it to enter the other bonus level. You 
+have to run through a giant ring and collect a certain amount of blue 
+balls before the finish line to go to the next round. Complete the next 
+round to win. You can lose by running out of rings which act as a timer 
+or falling out of the level. If you win you earn a Chaos Ring. If you 
+do not get all 6 Chaos Rings before you reach the end boss you will get 
+the bad ending if you beat the game. A good way to get them is to play 
+with manual save. If you mess up in a bonus level restart the game. 
+This takes a while but it works.
+
+(e).Power-Ups
+Super Ring:Gives you 10 rings.
+
+Combine Ring:If you get hit all of your rings will become 1 big ring. 
+Grab it to get all of your rings back.
+
+Power Sneakers:Speed up temporarily.
+
+Shield:Absorbs 1 attack.
+
+Invincible:Think about it.
+
+Swap:You and your partner change places temporarily.
+
+Grow:Become bigger, heavier, and stronger for a short time.
+
+Shrink:Become smaller and lighter for a short time(I think this is more 
+of a power-down than a power-up).
+
+Change:Turns your partner into the person on the screen for a limited 
+time.
+
+(f).Before A Level
+Before a level you can stop at the Combi Catcher. Here you can use the 
+arm to grab a new partner. The attraction information shows info about 
+each level. Then you choose a level. Hit the star ball to stop the 
+roulette.
+
+(g).In A Level
+In a level you must collect rings and power-ups to get through it. 
+Badnix will try to stop you along the way. Use the ring power to get 
+past the obstacles.
+
+(h).Beating A Level
+To win a level reach the exit before time runs out. You have 9min. 
+59secs. to get through it which is plenty of time.
+
+(i).2-Player Mode
+After beating the first level in a quest game you can play with 2 
+players. Player 1 selects Player 2's character with the combi catcher. 
+There is no hold command in 2-player mode. Either player can pause the 
+game.
+
+(j).Training Mode
+There are 4 training levels that have no enemies. They are good for 
+practicing skills. See "Isolated Island" under Levels.
+
+III. The Characters
+(a).Knuckles the Echidna
+Knuckles is an all-around character. His special abilities are 
+gliding(jump then press C) and climbing walls(glide into a wall).
+
+(b).Mighty the Armadillo
+This character is like Sonic. He is very fast. His special abilities 
+are kicking off walls(jump onto a wall and press C to grab on. Press C 
+again to kick off) and jumping up walls(jump on a wall and press C. 
+Then hold up and press C again).
+
+(c).Espio the Chamelion
+Espio is awesome! He is fast and powerful. He has a whirling attack 
+instead of a spinning attack and it has a wider range. He can run on 
+walls(jump against a wall then press and hold C to grab on. Run up and 
+down the wall while still holding C)and ceilings(same as the wall 
+thing-just apply it to a ceiling).
+
+(d).Charmie Bee
+Charmie isn't very good. He flies(press the direction button for a 
+direction and C to fly) and hovers(hold up and C at the same time in 
+mid air).
+
+(e).Vector the Crocodile
+Vector is mediocre. His moves are a power boost(jump then press C 
+again) and climbing(jump agains a wall and press C).
+
+(f).Heavy and Bomb
+Heavy and Bomb are two of Robotnik's mechanix. Heavy is big, slow, and 
+useless. Bomb explodes at the first sign of danger. You can get these 
+two as partners in the Combi Catcher.
+
+(g).Who Should I Choose?
+I recommend using Espio as your main character and Mighty as your 
+partner. This is a very good team to use but you should choose your own 
+favorite team.
+
+IV. The Levels
+(a).Practice Stage
+In this stage you have to play as Knuckles with Espio as your partner. 
+This is just a stage to show you the basics of the game. It has no 
+enemies.
+
+(b).Botanic Base
+This level is full of plant life and things like that. Some bridges in 
+here collapse.
+
+(c).Speed Slider
+High speeds rule this level. Race through one roller coaster ride after 
+another.
+
+(d).Amazing Arena
+Set the clocks ticking and go but beware the sound room. You'll face 
+one of Robotnik's inventions.
+
+(e).Marina Madness
+Travel from boat to boat through this level. See my Codes & Tricks 
+section for a trick in this level.
+
+(f).Techno Tower
+The only way to go here is up. Robotnik billboards hide suprises 
+sometimes.
+
+(g).Isolated Island(the training mode levels)
+These are the training levels. Levels 1,2, and 4 require you to reach 
+the flower jewel at the end. Level 3 requires you to get all of the 
+flower jewels.
+
+
+V. Tricks & Codes
+(a)50,000 Point Bonus
+Once you get all 6 Chaos Rings go back to the bonus lever. It will be 
+in wireframe now. Win to receive a 50,000 pt. bonus.
+
+(b)Different Music in Techno Tower
+In Techno Tower Zone acts 1 & 2, go in a bonus stage and leave. Just as 
+the screen goes from white to the zone press start. This will let you 
+play different music for the rest of the zone.
+
+(c)Remove Your Partner in Marina Madness
+To remove your partner in Marina Madness, lose them and hit a yellow 
+boat switch. They won't come back for the rest of the level.
+
+
+VI. The End
+(a).Outro
+Thanx to Sega for making this game.
+Thanx to Will for giving me more info on the Chaos Rings.
+Thanx to anybody who's reading this FAQ.
+
+See ya later!
+

@@ -1,0 +1,1842 @@
+==========================================
+VIRTUA FIGHTER
+MOVELIST
+by Wojciech Dworak <glc@virtuafighter.com>
+Originally transcribed by Rich Williams
+version 2.06
+==========================================
+
+DISCLAIMER
+----------
+This FAQ is for private and personal use only. It can only be reproduced or
+placed on a web page or site as long as it is unaltered, with this disclaimer
+and the copyright notice appearing in full, and with permission granted by the
+author. Any information used from this document, quoted or no, should have this
+author's name somewhere clearly as acknowledgement. With the above in mind,
+feel free to distribute between members of VF community, but this FAQ is not to
+be used for profitable or promotional purposes; this includes being used by
+publishers of magazines, guides, books, etc. or being incorporated into
+magazines, etc. in any way.
+
+Copyright Sega, 1993; all rights reserved.
+Translation copyright R.Williams, 2000; all right reserved. Used by permission.
+
+To view this document, use a fixed-width font (like Courier), otherwise it
+will look crappy.
+
+
+
+
+========
+CONTENTS
+========
+  0. Introduction
+  I. Notation
+ II. Characters
+     a) Akira Yuki
+     b) Jacky Bryant
+     c) Jeffry McWild
+     d) Kage-Maru
+     e) Lau Chan
+     f) Pai Chan
+     g) Sarah Bryant
+     h) Wolf Hawkfield
+
+
+
+0. INTRODUCTION
+===============
+This document is not supposed to serve as general Virtua Fighter FAQ; refer
+to other docs for more detailed explanation on VF system and its peculiarities.
+What I was trying to do, is to give out the comprehensive movelist.
+As always, comments / suggestions are welcome.
+
+
+
+I. NOTATION
+===========
+
+Move Name                           Motion
+Damage  Level  Ex-Co-Re             Motion Delay
+Notes
+
+
+Move Name
+---------
+Pretty self-explanatory; names mostly created by players.
+
+
+Motion
+------
+f,b,d,u   joystick motions (forward, back, down, up); hold if capitalized
+db...     diagonals (db,df,uf,ub); again, hold if capitalized
+P,K,G     press punch, kick, guard or evade buttons, respectively
++         buttons must be pressed together
+,         move separator
+n         return joystick to neutral
+
+
+
+Damage
+------
+Given in points, standardized to Wolf's giant swing throw being 100 points, not
+the percentage of the lifebar.
+~ denotes proximity damage (range-dependant)
+
+
+Level
+-----
+H,M,L,G   attack levels; low, mid, high and ground respectively
+Ht,Lt     throw levels; high- and low- respectively
+Bt        back-throw
+
+
+Ex-Co-Re
+--------
+Move's execution, coverage (hit detection) and recovery in frames. There are
+30 frames per second. Note: for throws, only recovery time has been listed
+("rec").
+D: denotes ground recovery
+
+
+Motion Delay
+------------
+Time allowed between motion presses, in frames (vide ex-co-re for explanation).
+
+
+Notes
+-----
+uncounterable: cannot be countered by opponent if blocked
+force stand: if hits, forces the character to stand up
+G: the move can be done while holding Guard
+
+
+
+II. CHARACTERS
+==============
+
+
+AKIRA YUKI
+==========
+
+BASIC MOVES
+-----------
+
+punch                               P
+12      H      5-1-5                MD: n/a
+uncounterable
+
+high kick                           K
+30      H      8-1-12               MD: n/a
+uncounterable
+
+side kick                           df+K
+24      M      8-1-12               MD: n/a
+
+low punch                           d+P
+8       L      5-1-5                MD: n/a
+
+low kick                            d+K
+10      L      8-1-12               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      19-1-1               MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+18      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+18      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      6-1-29               MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+20      H      6-1-9                MD: n/a
+uncounterable
+
+TT kick                             K
+24      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+double punch                        P,P
+12      H      5-1-8                P[6]P
+uncounterable
+
+punch-kick                          P,K
+30      H      7-1-12               P[6]K
+uncounterable
+
+special P                           f,f+P+K
+12      H      5-1-9                f[6]f[5]P+K
+uncounterable
+
+special PK                          f,f+P+K,K
+30      H      7-1-12               f[6]f[5]P+K[6]K
+uncounterable
+
+special PP                          f,f+P+K,P
+12      H      5-1-8                f[6]f[5]P+K[6]P
+uncounterable
+
+special PPK                         f,f+P+K,P,K
+30      H      8-1-16               f[6]f[5]P+K[6]P[6]K
+uncounterable
+
+special PPP                         f,f+P+K,P,P
+12      H      6-1-8                f[6]f[5]P+K[6]P[6]P
+uncounterable
+
+special PPPK                        f,f+P+K,P,P,K
+30      H      9-1-19               f[6]f[5]P+K[6]P[6]P[6]K
+uncounterable
+
+single jumping kick                 f,f+K
+30      M      6-1-27               f[6]f[5]K
+G
+
+double jumping kick                 f,f+K,K
+30      M      7-1-25               f[6]f[5]K[7]K
+G
+
+knee                                f,f+K+(G)
+30      M      8-1-15               f[6]f[3]K+G[1]G
+must be within throw range
+
+dashing elbow                       f,f+P
+20~40   M      5-1-13               f[6]f[5]P
+uncounterable, G
+
+single palm                         FC,f+P
+20~65   M      6-1-14               FC,f[3]P
+uncounterable, G
+
+elbow                               f+P
+20      M      6-1-14               f[3]P
+
+bodycheck                           b,f,f+P+K
+20~80   M      6-1-22               (b,f,f+P+K)18
+G
+
+
+THROWS
+------
+
+trip                                b+P
+50      Ht     rec 32               b[5]P
+
+pull-in push-out throw              db,f+P  or f,db+P
+50      Ht     rec 55               (db[5]f+P)10
+
+reverse bodycheck                   b,df+P+K
+30      Ht     rec 42               (b[5]df+P+K)10
+
+
+POUNCES
+-------
+
+jumping punch (hit)                 u+P
+20      G      22-1-30              MD: u[3]P
+
+jumping punch (missed)              u+P
+-       G      22-1-35              MD: u[3]P
+
+ground punch                        df+P
+15      G      9-1-16
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17
+
+
+
+JACKY BRYANT
+============
+
+BASIC MOVES
+-----------
+
+punch                               P
+12      H      5-1-5                MD: n/a
+uncounterable
+
+kick                                K
+30      H      8-1-12               MD: n/a
+uncounterable
+
+side kick                           df+K
+24      M      8-1-20               MD: n/a
+
+low punch                           d+P
+8       L      5-1-5                MD: n/a
+
+low kick                            D+K
+10      L      8-1-12               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      17-3-13              MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+18      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+18      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      6-1-29               MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN TOWARD ATTACKS
+-------------------
+
+TT punch                            P
+12      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+36      H      6-1-16               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+
+punch, kick                         F+P,K
+30      H      7-1-12               P[5]K
+uncounterable
+
+punch, crescent                     P,K
+20~50   H      9-2-18               P[5]K
+uncounterable
+
+punch, sweep                        P,d+K
+20~30   L      11-2-18              P[5]d+K
+uncounterable
+
+double punch                        P,P
+12      H      5-1-8                P[5]P
+uncounterable
+
+double punch-kick                   P,P,K
+30      H      8-1-16               P[5]P[6]K
+uncounterable
+
+triple punch                        P,P,P
+14      H      6-1-8                P[5]P[6]P
+uncounterable
+
+double punch-backfist               P,P,b+P
+22      H      8-1-12               P[5]P[6]b+P
+uncounterable
+
+double punch-elbow                  P,P,f+P or F+P,P,P
+20      M      6-1-14               P[5]P[6]f+P
+uncounterable
+
+double punch-elbow-heelkick         P,P,f+P,K or F+P,P,P,K
+30      H      8-1-16               P[5]P[6]f+P[7]K
+uncounterable
+
+special P                           f,f+P+K
+12      H      5-1-9                f[6]f[5]P+K
+uncounterable
+
+special PK                          f,f+P+K,K
+30      H      7-1-12               f[6]f[5]P+K[6]K
+uncounterable
+
+special PP                          f,f+P+K,P
+12      H      5-1-8                f[6]f[5]P+K[6]P
+uncounterable
+
+special PPK                         f,f+P+K,P,K
+30      H      8-1-16               f[6]f[5]P+K[6]P[6]K
+uncounterable
+
+special PPP                         f,f+P+K,P,P
+12      H      6-1-8                f[6]f[5]P+K[6]P[6]P
+uncounterable
+
+special PPPK                        f,f+P+K,P,P,K
+30      H      9-1-19               f[6]f[5]P+K[6]P[6]P[6]K
+uncounterable
+
+backfist                            b+P
+22      H      8-1-12               MD: n/a
+uncounterable
+
+double backfist                     b+P,P
+22      H      8-1-12               b+P(9)P
+uncounterable
+
+backfist-crescent                   b+P,K
+20~30   H      15-1-19              b+P[9]K
+uncounterable
+
+backfist-sweep                      b+P,d+K
+20~30   L      15-1-19              b+P[9]d+K
+uncounterable
+
+elbow                               f+P
+20      M      6-1-14               f[3]P
+
+elbow-kick                          f+P,K
+30      H      8-1-16               f[3]P[7]K
+uncounterable
+
+low backfist                        db+P
+22      L      8-1-12               db[3]P
+uncounterable
+
+low backfist-sweep                  db+P,d+K
+20~30   L      15-1-19              db(3)P(7)d+K
+uncounterable
+
+toe kick I                          d+K
+24      M      10-1-13              d[3]K
+
+toe kick II                         df+K or d,df+K
+24      M      10-1-13              MD: n/a
+must be within throw range
+
+toe kick II-sidekick                df+K,K or d,df+K,K
+30      M      10-1-17              df+K[3]K
+must be within throw range
+
+knee                                f+K
+30      M      8-1-15               f[3]K
+
+kickflip                            ub+K
+50      M      5-4-24               ub[5]K
+G
+
+punt kick                           f,f+K
+30      M      6-2-15               f[6]f[5]K
+G
+
+crescent                            K+G
+20~50   H      13-2-17              MD: n/a
+uncounterable
+
+low sidekick                        d+K+G
+26      L      9-1-19               MD: n/a
+
+double kick                         K,K
+30      H      8-1-12               K[9]K
+uncounterable
+
+backflip-kickflip                   ub,ub+K
+40      M      2-2-17               ub[16]ub[9]K
+
+
+THROWS
+------
+
+brainbuster                         P+G
+60      Ht     rec 78D              MD: n/a
+
+bulldog                             P+G
+60      HBt    rec 90D              MD: n/a
+
+clothesline                         f,f+P
+50      Ht     rec 45D              f[6]f[5]P
+
+
+POUNCES
+-------
+
+low stomp (hit)                     u+P
+30      G      19-1-40              MD: n/a
+
+low stomp (missed)                  u+P
+-       G      19-1-43              MD: n/a
+
+big stomp (hit)                     U+P
+40      G      19-1-40              MD: n/a
+
+big stomp (missed)                  U+P
+-       G      19-1-40              MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+
+
+JEFFRY MCWILD
+=============
+
+BASIC MOVES
+-----------
+
+punch                               P
+14      H      6-1-4                MD: n/a
+uncounterable
+
+high kick                           K
+36      H      9-1-11               MD: n/a
+uncounterable
+
+sidekick                            df+K
+28      M      9-1-20               MD: n/a
+
+low punch                           d+P
+10      L      6-1-4                MD: n/a
+
+low kick                            D+K
+12      L      9-1-11               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      19-1-1               MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+22      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+22      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      6-2-23               MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+20      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+28      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES   
+-------------
+
+punch-kick                          P,K
+40      H       7-1-12              P[7]K
+uncounterable
+
+double punch                        P,P
+14      H       6-1-7               P[7]P
+uncounterable
+
+double punch-uppercut               P,P,P
+20      M       9-2-14              P[7]P[7]P
+uncounterable
+
+uppercut                            df+P
+20      M       9-2-14              df[3]P
+uncounterable, force stand
+
+double uppercut                     df+P,P
+20      M       10-2-12             df[3]P[11]P10-2-12
+uncounterable, force stand
+
+dashing elbow                       f,f+P
+20      M       9-1-10              f[6]f[5]P9-1-10
+force stand, G
+
+dashing elbow-uppercut              f,f+P,P
+20      M       7-1-13              f[6]f[5]P[10]P7-1-13
+uncounterable, force stand, G
+
+toekick                             d+K
+24      M       10-1-13             d[3]K
+
+toekick-hammer                      d+K,P
+30      H       12-3-16             d[3]K[12]P12-3-16
+uncounterable
+
+toekick-crucifix piledriver         d+K,d,df,f+P+K+G
+100     Ht     rec 125              d[3]10(d,df,f+P+K+G)10
+hit throw
+
+?                                   ?P
+30      M       21-1-15             MD: n/a
+
+?                                   ?P
+40      M       10-1-15             MD: n/a
+
+knee                                f+K
+30      M       8-1-15              f[3]K
+
+uppercut from crouch                FC,df+P
+20      M       7-1-11              FC,df[4]P
+uncounterable
+
+elbow-hammer                        f,b+P
+12+30   MH      6-1/20-2-15         (f,b+P)10
+uncounterable, force stand
+
+
+
+THROWS
+------
+
+fireman's carry                     P+G
+60      Ht     rec 89D              MD: n/a
+
+backbreaker                         P+G
+100     HBt    rec 100              MD: n/a
+
+power slam                          f+P
+50      Ht     rec 80               f[4]P
+
+military press I                    b,b+P
+50      Ht     rec 127              b[6]b[5]P
+
+military press II                   b+P
+30      Ht     rec 60               b[6]b[5]P
+
+crucifix piledriver                 df,df+P+K
+100     Ht     rec 125              df[3]df[3]P+K
+
+iron claw I                         d+P
+50      Lt     rec 100              d[3]P
+
+iron claw II                        d+P
+30      Lt     rec 30               d[3]P
+
+powerbomb                           df+P+K+G
+80      Lt     rec 80               df[5]P+K+G
+
+triple knee                         d,f+K
+10+10+10 Lt    rec 66               (d[3]f+K)8
+
+
+POUNCES
+-------
+
+body splash (hit)                   u+P
+20      G      15-1-52              MD: n/a
+
+body splash (missed)                u+P
+-       G      15-1-56              MD: n/a
+
+butt bomb (hit)                     U+P
+30      G      17-1-39              MD: n/a
+
+butt bomb (missed)                  U+P
+-       G      17-1-50D             MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17              MD: n/a
+
+
+
+KAGE-MARU
+=========
+
+BASIC MOVES
+-----------
+
+punch                               P
+8       H      4-1-6                MD: n/a
+uncounterable
+
+kick                                K
+24      H      7-1-13               MD: n/a
+uncounterable
+
+sidekick                            df+K
+20      M      7-1-20               MD: n/a
+
+low punch                           d+P
+7       L      4-1-6                MD: n/a
+
+low kick                            d+K
+8       L      7-1-13               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      17-3-13              MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+14      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+14      M      5-2-12               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      7-1-23               MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      12-5-25              MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+2.5 roll & slam                     UB|U|UF,UF+K
+30      M      31-3-24              MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+12      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+36      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+punch-kick                          P,K
+30      H      7-1-12               P[5]K
+uncounterable
+
+double punch                        P,P
+10      H      4-1-9                P[6]P
+uncounterable
+
+double punch-kick                   P,P,K
+30      H      8-1-16               P[5]P[5]K
+uncounterable
+
+triple punch                        P,P,P
+12      H      5-1-9                P[5]P[5]P
+uncounterable
+
+triple punch-heelkick               P,P,P,K
+30      H      9-1-19               P[5]P[5]P[6]K
+uncounterable
+
+triple punch-backflip kick          P,P,P,ub+K
+40      M      2-2-17               P[5]P[5]P[12]ub+K
+uncounterable
+
+elbow                               f+P
+20      M      6-1-14               f[3]P   
+
+heelkick                            d+K+G
+35      M      8-1-16               MD: n/a
+uncounterable
+
+rising knee                         FC,f+K
+40      M      8-1-27               FC,f[3]K
+
+kickflip                            ub+K
+50      M      5-2-30               ub[5]K
+G
+
+backflip kick                       b,b+K
+40      M      10-1-18              b[6]b[5]K
+G
+
+backflip, kickflip                  ub,ub+K
+40      M      2-2-17               ub[16]ub[9]K
+
+backheel sweep                      f,f+K
+30      L      14-4-22              f[6]f[5]K
+G
+
+forward roll-sweep                  b,db,d,df,f+K
+35      L      14-1-21              (b,db,d,df,f)[15]K
+
+backward roll-sweep                 f,df,d,db,b+K
+35      L      15-1-16              (f,df,d,db,b)[15]K
+
+catapult kick                       f,f+P+K+G
+40      L      11-9-39              f[6]f[5]P+K+G
+uncounterable
+
+
+THROWS
+------
+
+shoulder throw                      P+G
+60      Ht     rec 40               MD: n/a
+
+torso takedown                      P+G
+50      H/LBt  rec 74               MD: n/a
+
+ten-foot toss                       b+P
+40      Ht     rec 42               b[5]P
+
+turnover toka throw                 P+K+G
+50      Ht     rec 46               MD: n/a
+
+reaping throw                       b,f+P
+50      Ht     rec 55               (b,f+P)10
+
+
+POUNCES
+-------
+
+head smash (hit)                    u+P (close)
+30      G      25-1-31D             MD: n/a
+
+head smash (missed)                 u+P (close)
+-       G      25-1-55D             MD: n/a
+
+foot smash (hit)                    u+P (mid)
+40      G      25-1-46              MD: n/a
+
+foot smash (missed)                 u+P (mid)
+-       G      25-1-45              MD: n/a
+
+knee smash (hit)                    u+P(far)
+30      G      25-1-77              MD: n/a
+
+knee smash (missed)                 u+P(far)
+-       G      25-1-65              MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17              MD: n/a
+
+
+
+LAU CHAN
+========
+
+BASIC MOVES
+-----------
+
+punch                               P
+10      H      5-1-5                MD: n/a
+uncounterable
+
+kick                                K
+30      H      8-1-12               MD: n/a
+uncounterable
+
+sidekick                            df+K
+24      M      8-1-12               MD: n/a
+
+low punch                           d+P
+8       L      5-1-5                MD: n/a
+
+low kick                            d+K
+10      L      8-1-12               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      19-1-9               MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u+K
+18      M      6-1-12               MD: n/a
+uncounterable
+
+landing sidekick                    ub|u|uf,K
+18      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      6-1-29               MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+12      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+36      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+punch-heelkick                      P,K
+30      H      8-1-16               P[6]K
+uncounterable
+
+double punch                        P,P
+12      H      5-1-8                P[6]P
+uncounterable
+
+double punch-kick                   P,P,K
+30      H      8-1-18               P[6]P[6]K
+uncounterable
+
+triple punch                        P,P,P
+14      H      6-1-8                P[6]P[6]P
+uncounterable
+
+triple punch-crescent               P,P,P,K
+40      H      10-3-21              P[6]P[6]P[7]K
+uncounterable
+
+triple punch-sweep                  P,P,P,D+K
+40      L      10-1-23              P[5]P[5]P[7]D+K
+uncounterable
+
+triple punch-backflip kick          P,P,P,ub+K
+40      M      2-2-17               P[5]P[5]P[13]ub+K
+uncounterable
+
+punch-crescent                      P,K+G
+20~45   H      13-2-18              P(hit)[6]K
+uncounterable
+
+punch-sweep                         P,D+K+G
+20~35   L      13-2-17              P(hit)[6]D+K
+uncounterable
+
+upknife                             DF+P
+20      M      7-1-13               DF[4]P
+uncounterable, G
+
+upknife-punch                       DF+P,P
+10      H      5-1-5                DF[4]P[6]P
+uncounterable
+
+upknife-punch-kick                  DF+P,P,K
+30      H      8-1-16               DF[4]P[6]P[6]K
+uncounterable
+
+upknife-double punch                DF+P,P,P
+12      H      5-1-8                DF[4]P[6]P[6]P
+uncounterable
+
+upknife-double punch-kick           DF+P,P,P,K
+30      H      8-1-18               DF[4]P[6]P[6]P[6]K
+uncounterable
+
+upknife-triple punch                DF+P,P,P,P
+14      H      6-1-8                DF[4]P[6]P[6]P[6]P
+uncounterable
+
+upknife-triple punch-crescent       DF+P,P,P,P,K
+40      H      10-3-21              DF[4]P[6]P[6]P[6]P[7]K
+uncounterable
+
+upknife-triple punch-sweep          DF+P,P,P,D+K
+40      L      10-1-23              DF[4]P[6]P[5]P[5]P[7]D+K
+uncounterable
+
+upknife-triple punch-backflip kick  DF+P,P,P,P,ub+K
+40      M      2-2-17               DF[4]P[6]P[5]P[5]P[13]ub+K
+uncounterable
+
+downknife                           df+P
+20      M      7-1-13               df[3]P
+uncounterable, G
+
+downknife-punch                     df+P,P
+12      H      5-1-8                df[3]P[6]P
+uncounterable
+
+downknife-kick                      df+P,K
+30      H      8-1-16               df[3]P[6]K
+uncounterable
+
+downknife-punch-kick                df+P,P,K
+30      H      8-1-18               df[3]P[6]P[6]K
+uncounterable
+
+downknife-double punch              df+P,P,P
+14      H      6-1-8                df[3]P[6]P[6]P
+uncounterable
+
+downknife-double punch-crescent     df+P,P,P,K
+40      H      10-3-21              df[3]P[6]P[6]P[7]K
+uncounterable
+
+downknife-double punch-sweep        df+P,P,P,D+K
+40      L      10-1-23              df[3]P[5]P[5]P[7]D+K
+uncounterable
+
+downknife-double punch-bckflip kick df+P,P,P,ub+K
+40      M      2-2-17               df[3]P[5]P[5]P[13]ub+K
+uncounterable
+
+special P                           f,f+P
+12      H      5-1-9                f[6]f[5]P
+uncounterable
+
+special PK                          f,f+P,K
+30      H      7-1-12               f[6]f[5]P[6]K
+uncounterable
+
+special PP                          f,f+P,P
+12      H      5-1-8                f[6]f[5]P[6]P
+uncounterable
+
+special PPK                         f,f+P,P,K
+30      H      8-1-16               f[6]f[5]P+K[6]P[6]K
+uncounterable
+
+special PPP                         f,f+P,P,P
+12      H      6-1-8                f[6]f[5]P+K[6]P[6]P
+uncounterable
+
+special PPPK                        f,f+P,P,P,K
+30      H      9-1-19               f[6]f[5]P+K[6]P[6]P[6]K
+uncounterable
+
+elbow                               f+P
+20      M      6-1-14               f[3]P
+
+heelkick                            FC,neutral,K
+40      M      8-1-16               FC,neutral[5]K
+uncounterable
+
+cartwheel kick                      uf+K
+18      M      9-1-9                uf[3]K
+uncounterable
+
+crescent                            K+G
+20~45   H      13-2-17              MD: n/a
+uncounterable
+
+sweep                               d+K+G
+20~35   L      13-2-17              MD: n/a
+
+backflip kick                       ub+K
+40      M      10-1-18              ub[3]K
+G
+
+backflip-kickflip                   ub,ub+K
+40      M      2-2-17               ub[22]ub[9]K
+
+
+THROWS
+------
+
+waterwheel drop                     P+G
+40      Ht     rec 58               MD: n/a
+
+face grab                           b,f+P
+80      Ht     rec 83               (b,f+P)10
+
+piggyback drop                      b+P
+60      Ht     rec 50               b[5]P
+
+
+POUNCES
+-------
+
+low stomp (hit)                     u+P
+30      G      19-1-31              MD: n/a
+
+low stomp (missed)                  u+P
+30      G      19-1-55              MD: n/a
+
+big stomp (hit)                     U+P
+20+20   G      19(45)-1-32          MD: n/a
+
+big stomp (missed)                  U+P
+20+20   G      19(45)-1-35          MD: n/a
+
+                
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17              MD: n/a
+
+
+
+PAI CHAN
+========
+
+BASIC MOVES
+-----------
+
+punch                               P
+8       H      4-1-6                MD: n/a
+uncounterable
+
+kick                                K
+24      H      7-1-13               MD: n/a
+uncounterable
+
+side kick                           df+K
+20      M      7-1-20               MD: n/a
+
+low punch                           d+P
+7       L      4-1-6                MD: n/a
+
+low kick                            d+K
+8       L      7-1-13               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      19-1-9               MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+14      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+14      M      6-2-11               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      12-5-25              MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+12      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+36      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+punch-heelkick                      P,K
+30      H      8-1-16               P[5]K
+uncounterable
+
+double punch                        P,P
+10      H      4-1-9                P[5]P
+uncounterable
+
+double punch-kick                   P,P,K
+30      H      8-1-18               P[5]P[5]K
+uncounterable
+
+triple punch                        P,P,P
+12      H      5-2-8                P[5]P[5]P
+uncounterable
+
+triple punch-crescent               P,P,P,K
+40      H      9-3-21               P[5]P[5]P[6]K
+uncounterable
+
+triple punch-sweep                  P,P,P,D+K
+40      L      10-1-23              P[5]P[5]P[6]D+K
+uncounterable
+
+triple punch-backflip kick          P,P,P,ub+K
+40      M      2-2-17               P[5]P[5]P[12]ub+K
+uncounterable
+
+punch-crescent                      P,K+G
+20~40   H      12-1-18              P(hit)[6]K
+uncounterable
+
+punch-sweep                         P,D+K+G
+20~30   L      11-2-17              P(hit)[6]D+K
+uncounterable
+
+special P                           f,f+P
+12      H      5-1-9                f[6]f[5]P
+uncounterable
+
+special PK                          f,f+P,K
+30      H      7-1-12               f[6]f[5]P[6]K
+uncounterable
+
+special PP                          f,f+P,P
+12      H      5-1-8                f[6]f[5]P[6]P
+uncounterable
+
+special PPK                         f,f+P,P,K
+30      H      8-1-16               f[6]f[5]P+K[6]P[6]K
+uncounterable
+
+special PPP                         f,f+P,P,P
+12      H      6-1-8                f[6]f[5]P+K[6]P[6]P
+uncounterable
+
+special PPPK                        f,f+P,P,P,K
+30      H      9-1-19               f[6]f[5]P+K[6]P[6]P[6]K
+uncounterable
+
+crescent                            K+G
+20~40   H      12-1-18              MD: n/a
+uncounterable
+
+sweep                               D+K+G
+20~30   L      11-2-17              MD: n/a
+
+heelkick                            FC,neutral,K
+35      M      8-1-16               FC,neutral[5]K
+uncounterable
+
+backflip kick                       ub+K
+40      M      10-1-18              ub[5]K
+G
+
+backflip-backflip kick              ub,ub+K
+40      M      2-2-17               ub[22]ub[9]K
+
+
+THROWS
+------
+
+wrist twist                         P+G
+50      Ht     rec 60               MD: n/a
+
+pushover                            b,f+P
+60      Ht     rec 60               (b,f+P)10
+
+ddt                                 f,d+P
+60      Ht     rec 47D              (f,d+P)8
+
+reaping throw                       f,f+P+K
+50+15   Ht     rec 20               f[6]f[5]P+K
+
+
+REVERSALS
+---------
+
+punch / kick reversal               b+P
+30      -      rec 34               MD: n/a
+
+
+POUNCES
+-------
+
+low knee smash (hit)                u+P
+30      G      19-3-35              MD: n/a
+
+low knee smash (missed)             u+P
+30      G      19-3-41              MD: n/a
+
+foot smash (hit)                    u+P
+40      G      19-3-35              MD: n/a
+
+foot smash (missed)                 u+P
+40      G      19-3-41              MD: n/a
+
+ground punch                        df+P
+10      G      9-3-38               MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17              MD: n/a
+
+
+
+SARAH BRYANT
+============
+
+BASIC MOVES
+-----------
+
+punch                               P
+8       H      4-1-6                MD: n/a
+uncounterable
+
+kick                                K
+30      H      7-1-13               MD: n/a
+uncounterable
+
+side kick                           df+K
+10      M      7-1-20               MD: n/a
+
+low punch                           d+P
+7       L      4-1-6                MD: n/a
+
+low kick                            d+K
+8       L      7-1-13               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      17-3-13              MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+14      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+14      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      7-1-23               MD: n/a
+
+in-air kick                         UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+12      H      6-1-10               MD: n/a
+uncounterable
+
+TT kick                             K
+36      H      6-1-16               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+punch-kick                          P,K
+30      H      7-1-12               P[6]K
+uncounterable
+
+punch-sidekick                      P,d+K
+30      L      11-2-18              P[6]d+K
+uncounterable
+
+double punch                        P,P
+10      H      5-1-8                P[6]P
+uncounterable
+
+double punch-kick                   P,P,K
+30      H      8-1-16               P[6]P[6]K
+uncounterable
+
+triple punch (A)                    P,P,P
+10      H      6-1-8                P[6]P[6]P
+uncounterable
+
+triple punch-rising knee            P,P,P,K
+40      M      8-2-26               P[6]P[6]P[7]K
+uncounterable
+
+triple punch-kickflip               P,P,P,b+K
+50      M      5-2-22               P[6]P[6]P[7]b+K
+uncounterable
+
+triple punch-upkick                 P,P,P,u+K
+30      M      8-1-27               P[6]P[6]P[3]u+K
+uncounterable
+
+triple punch (B)                    P,P,b
+12      H      5-1-9                P[6]P[6]b+P
+uncounterable
+
+triple punch-kickflip (B)           P,P,b+P,K
+50      M      5-2-22               P[6]P[6]b[3]P[5]K
+uncounterable
+
+triple punch (C)                    P,P,u
+10      H      4-1-6                P[6]P[6]u[3]P
+uncounterable
+
+special P                           f,f+P+K
+12      H      5-1-9                f[6]f[5]P+K
+uncounterable
+
+special PK                          f,f+P+K,K
+30      H      7-1-12               f[6]f[5]P+K[6]K
+uncounterable
+
+special PP                          f,f+P+K,P
+12      H      5-1-8                f[6]f[5]P+K[6]P
+uncounterable
+
+special PPK                         f,f+P+K,P,K
+30      H      8-1-16               f[6]f[5]P+K[6]P[6]K
+uncounterable
+
+special PPP                         f,f+P+K,P,P
+12      H      6-1-8                f[6]f[5]P+K[6]P[6]P
+uncounterable
+
+special PPPK                        f,f+P+K,P,P,K
+30      H      9-1-19               f[6]f[5]P+K[6]P[6]P[6]K
+uncounterable
+
+elbow                               f+P
+12      M      6-1-9                f[3]P
+
+elbow-knee                          f+P,K
+30      H      8-1-15               f[3]P[7]K
+
+knee                                f+K
+30      M      8-1-22               f[3]K
+
+knee-rising knee                    f+K,df+K
+40      M      26-2-27              f[3]K[9]df[3]K
+
+toekick                             d+K
+24      M      10-1-13              d[3]K
+
+toekick-sidekick                    d+K,K
+30      M      10-1-17              d[3]K[12]K
+
+illusion kicks                      df+K,K
+20      H      5-1-22               df[5]K[9]K
+
+mirage kicks                        df+K,K,K
+30      H      9-1-17               df[5]K[9]K[6]K
+
+kick-punch                          K,P
+8       H      11-1-7               K[8]P
+
+kickflip                            ub+K
+50      M      5-4-20               ub[5]K
+G
+
+punt kick                           df+K
+30      M      6-1-16               df[4]K
+
+rising knee                         FC,f+K
+40      M      8-2-26               FC,f[3]K
+
+lunging knee                        f,f+K
+30      M      7-1-25               f[6]f[5]K
+uncounterable, G
+
+shin slicer                         d+K+G
+26      L      9-1-19               MD: n/a
+
+backflip-kickflip                   ub,ub+K
+40      M      2-2-17               ub[22]ub[9]K
+
+
+THROWS
+------
+
+flipover                            P+G
+50      Ht     rec 57               MD: n/a
+
+backfall suplex                     P+G
+60      HBt    rec 50D              MD: n/a
+
+clothesline                         f,f+P
+50      Ht     rec 45D              f[6]f[5]P
+G
+
+
+POUNCES
+-------
+
+low stomp (hit)                     u+P
+30      G      19-1-40              MD: n/a
+
+low stomp (missed)                  u+P
+30      G      19-1-43              MD: n/a
+
+big stomp (hit)                     U+P
+40      G      19-1-40              MD: n/a
+
+big stomp (missed)                  U+P
+40      G      19-1-43              MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+
+
+WOLF HAWKFIELD
+==============
+
+BASIC MOVES
+-----------
+
+punch                               P
+14      H      6-1-4                MD: n/a
+uncounterable
+
+kick                                K
+36      H      9-1-11               MD: n/a
+uncounterable
+
+sidekick                            df+K
+28      M      9-1-20               MD: n/a
+
+low punch                           d+P
+10      L      6-1-4                MD: n/a
+
+low kick                            d+K
+12      L      9-1-11               MD: n/a
+
+
+HOPPING MOVES
+-------------
+
+hopping hammer                      ub|u|uf+P
+30      M      19-1-10              MD: n/a
+
+hopping straight                    ub|u|uf,P
+30      M      14-1-11              MD: n/a
+
+hop kick                            ub|u|uf+K
+22      M      6-1-12               MD: n/a
+
+landing sidekick                    ub|u|uf,K
+22      M      5-2-13               MD: n/a
+
+
+JUMPING MOVES
+-------------
+
+jumping hammer                      UB|U|UF,F+P
+30      M      12-1-23              MD: n/a
+
+jump kick                           UB|U|UF+K
+30      M      3-2-31               MD: n/a
+
+landing dropkick                    UB|U|UF,F+K
+40      M      6-2-23D              MD: n/a
+
+mid air kick                        UB|U|UF,K
+30      M      5-2-14               MD: n/a
+
+landing kick                        UB|U|UF,K
+30      M      6-2-8                MD: n/a
+
+reverse dropkick                    UB|U|UF,B+K
+40      M      6-2-23               MD: n/a
+
+
+TURN-TOWARDS MOVES
+------------------
+
+TT punch                            P
+20      H      6-1-9                MD: n/a
+uncounterable
+
+TT kick                             K
+28      H      8-1-13               MD: n/a
+uncounterable
+
+
+SPECIAL MOVES
+-------------
+
+punch kick                          P,K
+40      H      7-1-12               P[7]K
+uncounterable
+
+double punch                        P,P
+14      H      6-1-7                P[7]P
+uncounterable
+
+double punch-uppercut               P,P,P
+20      M      9-2-14               P[7]P[7]P
+uncounterable
+
+uppercut                            df+P
+20      M      9-2-14               df[3]P
+uncounterable, G
+
+uppercut from crouch                FC,df+P
+20      M      7-1-11               FC,df[4]P
+uncounterable
+
+knee                                f+K
+30      M      8-1-15               f[3]K
+
+clothesline                         f,f+P
+40      H      12-4-20              f[6]f[5]P
+unblockable, G
+
+shoulder ram                        b,f+P
+20~70   H      10-4-18              (b,f+P)10
+G
+
+
+THROWS
+------
+
+backfall suplex                     P+G
+70      Ht     rec 70D              MD: n/a
+
+german suplex                       P+G
+80      H/LBt  rec 89               MD: n/a
+
+body slam                           f+P
+50      Ht     rec 90               f[4]P
+
+crucifix piledriver                 df,DF+P+K
+100     Ht     rec 125              df[3]DF[3]P+K
+
+giant swing                         b,db,d,df,f+P
+100     Ht     rec 114              (b,db,d,df,f+P)13
+
+double arm suplex                   db+P+K+G
+60      Lt     rec 92               db[5]P+K+G
+
+
+POUNCES
+-------
+
+low jumping elbow (hit)             u+P
+20      G      18-1-50D             MD: n/a
+
+low jumping elbow (missed)          u+P
+20      G      18-1-37D             MD: n/a
+
+high jumping elbow (hit)            U+P
+30      G      18-1-50D             MD: n/a
+
+high jumping elbow (missed)         U+P
+30      G      18-1-37D             MD: n/a
+
+
+RISING ATTACKS
+--------------
+
+face up, head away - mid kick       K,K,K...
+20      M      18-3-10              MD: n/a
+
+face up, head away - low kick       d+K,K,K...
+20      L      18-2-11              MD: n/a
+
+face up, head towards - mid kick    K,K,K...
+20      M      18-1-17              MD: n/a
+
+face up, head towards - low kick    d+K,K,K...
+20      L      18-1-17              MD: n/a
+
+
+
+
+
+[end of file, (c) GLC]

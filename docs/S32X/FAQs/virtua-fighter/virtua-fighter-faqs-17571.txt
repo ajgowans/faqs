@@ -1,0 +1,1225 @@
+=============================================
+VIRTUA FIGHTER SERIES
+ABBREVIATIONS GUIDE
+by Wojciech Dworak <saiyan@virtuafighter.com>
+version 5.00
+=============================================
+
+DISCLAIMER
+----------
+This FAQ is for private and personal use only. It can only be reproduced or
+placed on a web page or site as long as it is unaltered, with this disclaimer
+and the copyright notice appearing in full, and with permission granted by the
+author. Any information used from this document, quoted or no, should have this
+author's name somewhere clearly as acknowledgement. With the above in mind,
+feel free to distribute between members of VF community, but this FAQ is not to
+be used for profitable or promotional purposes; this includes being used by
+publishers of magazines, guides, books, etc. or being incorporated into
+magazines, etc. in any way.
+
+Copyright Wojciech Dworak, 1999-2002; all rights reserved.
+
+To view this document, use a fixed-width font (like Courier), otherwise it
+will look crappy.
+
+
+
+
+CONTENTS
+========
+
+    0. Introduction
+       a) Guide-Specific Stuff
+       b) Move Notation (Motions)
+
+    I. General Abbreviations
+       a) Titles
+       b) Hardware Terms
+       c) Online Community Terms
+       d) Motions
+       e) Movement
+       f) Attack Levels: Moves
+       g) Attack Levels: Throws
+       h) Reversal Levels
+       i) Move Properties
+       j) Movelist Notes
+       k) Move Execution Modifiers
+       l) VF3/4 Universal Option Select
+       m) VF4 Special Stances
+       n) Types of Counters
+       o) Combos
+       p) End Of Round
+       q) Other Abbreviations
+
+   II. Character-Specific Abbreviations
+       a) Moves Abbreviations
+
+
+
+
+===============
+0. INTRODUCTION
+===============
+
+Without a doubt, Virtua Fighter is a deep game. And sometimes the number of
+technical terms confuse would-be players. And the situation becomes even more
+unclear when certain abbreviations are used by experienced players. To save
+you the bashing when asking for "self-explanatory" meaning ;), here's a list
+of commonly (or not so commonly) used VF abbreviations.
+
+It's an attempt to fill in the place of Jon Tanaka's "shorthand guide" (anyone
+remembers that one?) I won't go through tactics like BigCat did, I'll only
+list the abbreviations. For more info, look in appropriate docs. Oh, and one
+more note: this guide is NOT supposed to serve as a jargon document! It's meant
+to be used as Virtua Fighter notation encyclopedia (although I may expand it in
+the future). In other words, the whole guide is just list of acronyms and such;
+term descriptions are only filled where really needed.
+
+Please take into account that some of those terms are OUTDATED and are not used
+any more; or they were rarely used. I'd write them anyway, just to let you know
+they existed. They're marked with " * outdated " instances.
+
+Every FAQ writer can create his own terms and abbreviations; so if you came up
+with something not listed here, don't complain! Better send it to me, and I'll
+see if it fits into this FAQ.
+
+If you don't understand something, simply refer to respective doc. There are
+plenty of those on the web, with www.gamefaqs.com being probably the most
+popular source.
+
+Additions / corrections / comments are always welcome! Stupid questions and all
+the flames will be ignored!
+
+
+
+
+a) GUIDE-SPECIFIC STUFF
+=-=-=-=-=-=-=-=-=-=-=-=
+Abbreviations themselves are given on the left side of the table; they are
+usually sorted by usefulness - with the exception of "characters' moves"
+section (they're in alphabetical order). Also in that section, move motions
+are given in []'s.
+
+To search for a specific item, use the following template:
+
+"| your_term" (without ""s of course)
+
+Some terms cannot be found by this method, I'm afraid you'll have to scan the
+appropriate section by hand. Case sensitive search may bring more accurate
+results, too.
+
+
+b) MOVE NOTATION (motions)
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+Although this is fully covered in "IV. Motions" section, here's a quick
+motions reference chart (it's notation used by me):
+f,b,d,u     joystick motions (forward, back, down, up); hold if capitalized
+db...       diagonals (db,df,uf,ub); again, hold if capitalized
+P,K,G,E     press punch, kick, guard or evade buttons, respectively
++           buttons must be pressed together
+,           move separator
+,,          denotes slight pause between motions
+n           return joystick to neutral
+FC          execute from crouching position
+
+
+
+
+
+========================
+I. GENERAL ABBREVIATIONS
+========================
+
+
+/-----------------------------------------------------------------------------\
+| a) TITLES                                                                   |
+|                                                                             |
+|=============================================================================|
+| VF        Virtua Fighter (either general term or first game of the series)  |
+|-----------------------------------------------------------------------------|
+| VF1       Virtua Fighter 1, arcade released 12/1993                         |
+|-----------------------------------------------------------------------------|
+| VF2       Virtua Fighter 2, arcade released 11/1994 (2.0), 08/1995 (2.1)    |
+|-----------------------------------------------------------------------------|
+| VF3       Virtua Fighter 3, arcade released 09/1996 (OB), 09/1997 (TB)      |
+|-----------------------------------------------------------------------------|
+| VF4       Virtua Fighter 4, arcade released 08/2001 (A)                     |
+|-----------------------------------------------------------------------------|
+| VF4E      Virtua FIghter 4 Evolution, released in summer 2002               |
+| VF4 evo                                                                     |
+| EVO                                                                         |
+|-----------------------------------------------------------------------------|
+| VFK       Virtua Fighter Kids, arcade released 04/1996                      |
+|-----------------------------------------------------------------------------|
+| VFR       Virtua Fighter Remix, applies to VF1, arcade released 06/1995     |
+|-----------------------------------------------------------------------------|
+| VF-X      working titles for Virtua Fighter 4                               |
+| VFX                                                                         |
+|-----------------------------------------------------------------------------|
+| FMM       Fighters Megamix (includes VF characters)                         |
+|-----------------------------------------------------------------------------|
+| OB        Virtua Fighter 3: Original Battle (1st version until rev.D)       |
+|-----------------------------------------------------------------------------|
+| TB        Virtua Fighter 3: Team Battle (also: version/revision 3.5)        |
+|-----------------------------------------------------------------------------|
+| rev.x     stands for "revision X" (A to D), for Virtua Fighter 3 arcade     |
+|-----------------------------------------------------------------------------|
+| ver.x     stands for "version X" (A to C for VF4, A & B for EVOLUTION)      |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| b) HARDWARE TERMS                                                           |
+|                                                                             |
+|-----------------------------------------------------------------------------|
+| ST        Sega Saturn, VF1/2/K/FMM game console                             |
+| SS                                                                          |
+| Sat                                                                         |
+|-----------------------------------------------------------------------------|
+| DC        Sega Dreamcast, VF3tb game console                                |
+|-----------------------------------------------------------------------------|
+| CPU       Central Processing Unit                                           |
+|-----------------------------------------------------------------------------|
+| PCB       Printed Circuit Board, basically mainboard containing game        |
+|           hardware (arcade), also a general term for mainboards and         |
+|           electronic peripherals                                            |
+|-----------------------------------------------------------------------------|
+| ST-V      Saturn hardware-based arcade machine (used for eg. VF Kids)       |
+|-----------------------------------------------------------------------------|
+| M1        Model 1 board, VF1 hardware                                       |
+|-----------------------------------------------------------------------------|
+| M2        Model 2 board, VF2 hardware                                       |
+|-----------------------------------------------------------------------------|
+| M3        Model 3 board, VF3/3tb hardware                                   |
+|-----------------------------------------------------------------------------|
+| N2        Naomi 2 board, VF4 hardware                                       |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| c) ONLINE COMMUNITY TERMS                                                   |
+|                                                                             |
+|=============================================================================|
+| THoVF     The Home of Virtua Fighter - website                              |
+|           http://www.vfhome.com (offline)                                   |
+|-----------------------------------------------------------------------------|
+| ACPC      Anti-Chicken Players Commitee                                     |
+|           http://voxel.net/acpgaming (offline)                              |
+|-----------------------------------------------------------------------------|
+| VFDC      Virtua Fighter Dot Com - website                                  |
+|           http://www.virtuafighter.com                                      |
+|-----------------------------------------------------------------------------|
+| VP        Virtua Project - website                                          |
+|           http://www.virtuaproject.com                                      |
+|-----------------------------------------------------------------------------|
+| VFIC      Virtua Fighter Interest Club, Toronto                             |
+|-----------------------------------------------------------------------------|
+| #vfhome   "official" EFnet Virtua Fighter IRC channel ;)                    |
+|-----------------------------------------------------------------------------|
+| R.G.V.A.  rec.games.video.arcade, a usenet newsgroup that used to be        |
+|           VF'ers' paradise before everyone left :(                          |
+|-----------------------------------------------------------------------------|
+| R.G.V.S.  rec.games.video.saturn - some of VF2 discussion took place there, |
+|           mostly VFK though                                                 |
+|-----------------------------------------------------------------------------|
+| MoAT      Mother of All Tournaments (Toronto tournaments)                   |
+|-----------------------------------------------------------------------------|
+| BKK       Bastard Kage Klan (also BK, for bastard Kage)                     |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| d) MOTIONS                                                                  |
+|                                                                             |
+|=============================================================================|
+| f,b,d,u   joystick motions (forward, back, down, up); hold if               |
+|           capitalized                                                       |
+|-----------------------------------------------------------------------------|
+| db...     diagonals (db,df,uf,ub); again, hold if capitalized               |
+|-----------------------------------------------------------------------------|
+| P,K,G,E   press punch, kick, guard or evade (escape buttons, respectively)  |
+|-----------------------------------------------------------------------------|
+| All       VF1/2/4: press punch, kick and guard buttons simultaneously       |
+|           VF3: press punch, kick, guard and evade buttons simultaneously    |
+|-----------------------------------------------------------------------------|
+| D         "defense", old notation for Guard button                          |
+|-----------------------------------------------------------------------------|
+| /         another notation for a diagonal, eg. d/f, d/b etc.                |
+|-----------------------------------------------------------------------------|
+| +         buttons must be pressed together (with or without stick motions)  |
+|-----------------------------------------------------------------------------|
+| >         roll the joystick, eg. f>b means f,df,d,db,b                      |
+|-----------------------------------------------------------------------------|
+| ,         move separator                                                    |
+|-----------------------------------------------------------------------------|
+| ,,        slight pause between motions, usually in a combo notation         |
+|-----------------------------------------------------------------------------|
+| 7 8 9     this diagram uses PC's numeric gamepad           ub u uf          |
+| 4 5 6     to simulate different directions; it's            b   f           |
+| 1 2 3     seen especially in japanese/korean FAQs          db d df          |
+|-----------------------------------------------------------------------------|
+| HCB       half-circle backward (f,df,d,db,b), see also HCR                  |
+|-----------------------------------------------------------------------------|
+| HCF       half-circle forward (b,db,d,df,f), see also HCR/HCT               |
+|-----------------------------------------------------------------------------|
+| HCR       half-circle roll, see also HCB/HCF/HCT                            |
+|-----------------------------------------------------------------------------|
+| HCT       half-circle towards (b,db,d,df,f), see also HCF/HCR               |
+|-----------------------------------------------------------------------------|
+| QCB       quarter-circle backward (d,db,b), see also QCR                    |
+|-----------------------------------------------------------------------------|
+| QCF       quarter-circle forward (d,df,f or b,db,d), see also QCB/QCR       |
+|-----------------------------------------------------------------------------|
+| QCR       quarter-circle roll, see also QCB/QCF                             |
+|-----------------------------------------------------------------------------|
+| QCT       quarter-circle towards (d,df,f), see also QCF/QCR                 |
+|-----------------------------------------------------------------------------|
+| SCR       semi-circle roll; see also HCB/HCF/HCR/HCT                        |
+|-----------------------------------------------------------------------------|
+| FC        must be executed from crouching position; "From Crouching"        |
+| WC        ditto; "While Crouching", do not confuse it with eg. Tekken       |
+|           terminology; it means the same as "from crouching" in VF          |
+|-----------------------------------------------------------------------------|
+| FS        must be executed from standing position; "From Standing"          |
+|-----------------------------------------------------------------------------|
+| WS        "While Standing Up"                                               |
+|-----------------------------------------------------------------------------|
+| n         return joystick to neutral; eg. Pai/Lau stand-alone heelkicks     |
+| N         (D,n,K)                                                           |
+| neutral                                                                     |
+|-----------------------------------------------------------------------------|
+| PG (1)    punch-then G-cancel or G-cancelled punch                          |
+|-----------------------------------------------------------------------------|
+| PG (2)    P+G press (eg. for VF3 high throws)                               |
+|-----------------------------------------------------------------------------|
+| PKG (1)   the senbon punch (P,K,G-cancel)                                   |
+|-----------------------------------------------------------------------------|
+| PKG (2)   P+K+G press (eg. db+PKG for Kage's G-cancelled swipe)             |
+|-----------------------------------------------------------------------------|
+| PK (1)    punch-kick/heelkick, as canned sequence                           |
+|-----------------------------------------------------------------------------|
+| PK (2)    P+K press (eg. P+K for Jacky's beatknuckle)                       |
+|-----------------------------------------------------------------------------|
+| PPK       double punch-kick/knee                                            |
+|-----------------------------------------------------------------------------|
+| PPPK      triple punch-kick/heelkick/crescent/knee                          |
+|-----------------------------------------------------------------------------|
+| Px        either PG or PKG... eg. counter vs. a blocked move                |
+| P-x                                                                         |
+|-----------------------------------------------------------------------------|
+| PPx       denotes option select after a canned move string                  |
+|-----------------------------------------------------------------------------|
+| crsc      crescent kick - usually K+G                                       |
+|-----------------------------------------------------------------------------|
+| sweep     as the name says... usually d+K+G                                 |
+|-----------------------------------------------------------------------------|
+| BT        back-turned; executed with your back to opponent                  |
+| [BT]                                                                        |
+|-----------------------------------------------------------------------------|
+| TA        turn-around move/attack; also "turn-away"                         |
+|-----------------------------------------------------------------------------|
+| TT        turn-towards move/attack                                          |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| e) MOVEMENT                                                                 |
+|                                                                             |
+|=============================================================================|
+| d         dash (f,f)                                                        |
+| QD        "quick dash", as opposed to (f,F)                                 |
+|-----------------------------------------------------------------------------|
+| qf        quick forward (VF3 f+E)                                           |
+|-----------------------------------------------------------------------------|
+| qb        quick back (VF3 b+E)                                              |
+|-----------------------------------------------------------------------------|
+| CD        crouch dash                                                       |
+|-----------------------------------------------------------------------------|
+| eCD       evading crouch dash / escape crouch dash (E -> CD)                |
+| ECD                                                                         |
+|-----------------------------------------------------------------------------|
+| CDE       crouch dash escape (CD -> E)                                      |
+|-----------------------------------------------------------------------------|
+| IR        instant recovery, see also QR/TR and IPR/SRR                      |
+|-----------------------------------------------------------------------------|
+| ER        exact recovery, a prefectly timed IR                              |
+|-----------------------------------------------------------------------------|
+| QR        quick rise, instant handspring; VF4 P+K+G just before hitting the |
+|           ground, see also IPR/IP                                           |
+|-----------------------------------------------------------------------------|
+| IPR       in-place recovery, same as QR                                     |
+| IP                                                                          |
+|-----------------------------------------------------------------------------|
+| TR        tech roll, instant rolling recovery; VF4 d,P+K+G (roll out of     |
+|           screen) or u+P+K+G (roll into screen), see also SRR/SR            |
+|-----------------------------------------------------------------------------|
+| SRR       side-roll recovery, same as TR                                    |
+| SR                                                                          |
+|-----------------------------------------------------------------------------|
+| ARM       all-range-movement, see also 8W                                   |
+|-----------------------------------------------------------------------------|
+| 8W        VF4 8-way-walk, see also ARM                                      |
+| 8-WAY                                                                       |
+|-----------------------------------------------------------------------------|
+| CS        closed stance (normal stance)                                     |
+|-----------------------------------------------------------------------------|
+| OS        open stance (reverse stance)                                      |
+|-----------------------------------------------------------------------------|
+| KS        korean step; VF3 movement technique                               |
+|-----------------------------------------------------------------------------|
+| TS        taiwan step; VF2 playing style                                    |
+|-----------------------------------------------------------------------------|
+| NTS       new taiwan step; VF3 playing style                                |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| f) ATTACK LEVELS: MOVES                                                     |
+|                                                                             |
+|=============================================================================|
+| Lvl       hit level                                                         |
+| lvl                                                                         |
+|-----------------------------------------------------------------------------|
+| H         high                                                              |
+| h                                                                           |
+|-----------------------------------------------------------------------------|
+| H*        special high (VF4 only)                                           |
+|-----------------------------------------------------------------------------|
+| M         mid                                                               |
+| m                                                                           |
+|-----------------------------------------------------------------------------|
+| M*        special mid (VF4 only)                                            |
+|-----------------------------------------------------------------------------|
+| L         low                                                               |
+| l                                                                           |
+|-----------------------------------------------------------------------------|
+| L*        special low (VF4 only)                                            |
+|-----------------------------------------------------------------------------|
+| G         ground                                                            |
+| grnd                                                                        |
+| gnd                                                                         |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| g) ATTACK LEVELS: THROWS                                                    |
+|                                                                             |
+|=============================================================================|
+| HT        high throw                                                        |
+| Ht                                                                          |
+| H-T                                                                         |
+| T                                                                           |
+|-----------------------------------------------------------------------------|
+| HTC       high throw combo                                                  |
+|-----------------------------------------------------------------------------|
+| L-T       low throw                                                         |
+| Lt                                                                          |
+|-----------------------------------------------------------------------------|
+| B-T       back throw                                                        |
+| HBT                                                                         |
+| H-B-T                                                                       |
+| Bt/HBt                                                                      |
+|-----------------------------------------------------------------------------|
+| L-B-T     low-back throw                                                    |
+| LBT                                                                         |
+| LBt                                                                         |
+|-----------------------------------------------------------------------------|
+| HCT       high-catch throw                                                  |
+|-----------------------------------------------------------------------------|
+| LCT       low-catch throw                                                   |
+|-----------------------------------------------------------------------------|
+| S-T       high-side throw                                                   |
+| H-S-T                                                                       |
+| HST                                                                         |
+| St                                                                          |
+| HSt                                                                         |
+|-----------------------------------------------------------------------------|
+| L-S-T     low-side throw                                                    |
+| LST                                                                         |
+| LSt                                                                         |
+|-----------------------------------------------------------------------------|
+| W-T       wall throw; all are "high"                                        |
+| Wt                                                                          |
+| HWT                                                                         |
+|-----------------------------------------------------------------------------|
+| C-T       catch throw                                                       |
+| Ct                                                                          |
+|-----------------------------------------------------------------------------|
+| G-T       ground throw                                                      |
+| Gt                                                                          |
+|-----------------------------------------------------------------------------|
+| H-T       hit throw                                                         |
+| HitT                                                                        |
+|-----------------------------------------------------------------------------|
+|           to denote a throw/strike combo (or a multipart throw):            |
+| =link     - 2nd element                                                     |
+| ==link    - 3rd element                                                     |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| h) REVERSAL LEVELS                                                          |
+|                                                                             |
+|=============================================================================|
+| H*P       high-level punch reversal                                         |
+| H-P                                                                         |
+| HP                                                                          |
+|-----------------------------------------------------------------------------|
+| H*K       high-level kick reversal                                          |
+| H-K                                                                         |
+| HK                                                                          |
+|-----------------------------------------------------------------------------|
+| HE        high-level elbow reversal                                         |
+|-----------------------------------------------------------------------------|
+| HCR       high-level crescent reversal                                      |
+| CR                                                                          |
+|-----------------------------------------------------------------------------|
+| M*P       mid-level punch reversal                                          |
+| M-P                                                                         |
+| MP                                                                          |
+|-----------------------------------------------------------------------------|
+| M*K       mid-level kick reversal                                           |
+| M-K                                                                         |
+| MK                                                                          |
+|-----------------------------------------------------------------------------|
+| EL        mid-level elbow reversal                                          |
+|-----------------------------------------------------------------------------|
+| MCR       mid-level crescent reversal                                       |
+|-----------------------------------------------------------------------------|
+| L*P       low-level punch reversal                                          |
+| L-P                                                                         |
+| LP                                                                          |
+|-----------------------------------------------------------------------------|
+| L*K       low-level kick reversal                                           |
+| L-K                                                                         |
+| LK                                                                          |
+|-----------------------------------------------------------------------------|
+| G*P       ground-level punch reversal                                       |
+| G-P                                                                         |
+| GP                                                                          |
+|-----------------------------------------------------------------------------|
+| G*K       ground-level kick reversal                                        |
+| G-K                                                                         |
+| GK                                                                          |
+|-----------------------------------------------------------------------------|
+| SK        sidekick reversal                                                 |
+|-----------------------------------------------------------------------------|
+| Kn        knee reversal                                                     |
+| KN                                                                          |
+|-----------------------------------------------------------------------------|
+| Flip      kickflip / backflip / somersault kick reversal                    |
+| SM                                                                          |
+|-----------------------------------------------------------------------------|
+| SW        sweep reversal                                                    |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| i) MOVE PROPERTIES                                                          |
+|                                                                             |
+|=============================================================================|
+| Ex        execution / initiation                                            |
+| Ini                                                                         |
+|-----------------------------------------------------------------------------|
+| Co        collision (...detection) / coverage                               |
+| Hit                                                                         |
+|-----------------------------------------------------------------------------|
+| Re        recovery                                                          |
+| Rec                                                                         |
+|-----------------------------------------------------------------------------|
+| Ad        advantage in frames                                               |
+| Adv                                                                         |
+|-----------------------------------------------------------------------------|
+| Dmg       damage in points, not percentage of lifebar                       |
+| Dam                                                                         |
+|-----------------------------------------------------------------------------|
+| ()        damage, especially in combos, is often put in brackets            |
+|-----------------------------------------------------------------------------|
+| {}        usually denotes statistic change vs. Taka-Arashi in VF3           |
+|-----------------------------------------------------------------------------|
+| ~         denotes proximity damage range                                    |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| j) MOVELIST NOTES                                                           |
+|                                                                             |
+|=============================================================================|
+| ! (1)     denotes a quick input, like in Akira's K+G!G                      |
+|-----------------------------------------------------------------------------|
+| ! (2)     the move always knocks down, regardless hit conditions            |
+|-----------------------------------------------------------------------------|
+| S         denotes stance (feet position) change after a move is executed    |
+| F                                                                           |
+|-----------------------------------------------------------------------------|
+| G         a move can be done while holding Guard button (VF1)               |
+|-----------------------------------------------------------------------------|
+| G-full    if character is crouching and guarding, this move causes no       |
+|           damage and follows a different stun formula than regular stun     |
+|-----------------------------------------------------------------------------|
+| G-half    if character is crouching and guarding, this move does half its   |
+|           normal damage                                                     |
+|-----------------------------------------------------------------------------|
+| f         evade to opponent's front (toward their rear foot)                |
+|-----------------------------------------------------------------------------|
+| b         evade to opponent's back (toward their leading foot)              |
+|-----------------------------------------------------------------------------|
+| x         cannot be evaded                                                  |
+|-----------------------------------------------------------------------------|
+| DPs       Shun's drinking points                                            |
+|-----------------------------------------------------------------------------|
+| +x DP     Shun gains x DPs after performing this move                       |
+| drink                                                                       |
+|-----------------------------------------------------------------------------|
+| -x DP     move sobers Shun (-x Drinking Points)                             |
+| sober                                                                       |
+|-----------------------------------------------------------------------------|
+| x DP      move requires x DPs to be performed                               |
+| >x DP                                                                       |
+|-----------------------------------------------------------------------------|
+| UC        uncounterable if blocked                                          |
+|-----------------------------------------------------------------------------|
+| TC        throw counterable if blocked                                      |
+|-----------------------------------------------------------------------------|
+| PC        punch counterable if blocked                                      |
+|-----------------------------------------------------------------------------|
+| GS        guard stun                                                        |
+|-----------------------------------------------------------------------------|
+| HS        hit stun                                                          |
+|-----------------------------------------------------------------------------|
+| FS        force stand; if guarded while crouching, character is forced to   |
+| stand     standing position                                                 |
+|-----------------------------------------------------------------------------|
+| FC        force crouch; if guarded while standing, character is forced to   |
+| crouch    crouching position                                                |
+|-----------------------------------------------------------------------------|
+| KD        kuzure down, also CD for "crumple down"                           |
+|-----------------------------------------------------------------------------|
+| HKD       head kuzure down                                                  |
+|-----------------------------------------------------------------------------|
+| HC        head crumple                                                      |
+|-----------------------------------------------------------------------------|
+| SKD       stomach kuzure down                                               |
+|-----------------------------------------------------------------------------|
+| SC        stomach crumple                                                   |
+|-----------------------------------------------------------------------------|
+| FKD       feet kuzure down                                                  |
+|-----------------------------------------------------------------------------|
+| FC        feet crumple                                                      |
+|-----------------------------------------------------------------------------|
+| BKD       back kuzure down                                                  |
+|-----------------------------------------------------------------------------|
+| BC        back crumple                                                      |
+|-----------------------------------------------------------------------------|
+| X         attack will hit opponent lying on the ground                      |
+|-----------------------------------------------------------------------------|
+| R         the move is reversible                                            |
+| UR        the move is irreversible                                          |
+|-----------------------------------------------------------------------------|
+| S         recovery position: standing                                       |
+| C         recovery position: crouching                                      |
+| D / G     recovery position: ground                                         |
+|-----------------------------------------------------------------------------|
+| F         the move floats                                                   |
+| FMC       the move floats on major counter                                  |
+| FmC       the move floats on minor counter                                  |
+|-----------------------------------------------------------------------------|
+| ST        the move staggers                                                 |
+| StC       the move staggers crouchers                                       |
+| StCG      the move staggers crouching defenders                             |
+|-----------------------------------------------------------------------------|
+| Gr        the move leaves you on the ground when it hits or misses          |
+| GrH       the move leaves you on the ground when it hits                    |
+| GrM       the move leaves you on the ground when it misses                  |
+|-----------------------------------------------------------------------------|
+| %         denotes that a taunt is performed after connecting this move      |
+| $         eg. Jacky's b,f+K+G                                               |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| k) MOVE EXECUTION MODIFIERS                                                 |
+|                                                                             |
+|=============================================================================|
+| c-        move executed after a crouch dash, eg. c-SgPm                     |
+| CD-                                                                         |
+|-----------------------------------------------------------------------------|
+| g-        executed with some help from VF2 fuzzy guard; G-cancel the low    |
+|           kick into crouching position                                      |
+|-----------------------------------------------------------------------------|
+| m-        modified move; executed from buffering a crouch dash;             |
+|-----------------------------------------------------------------------------|
+| GC        guard cancel                                                      |
+| G-cancel                                                                    |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| l) VF3/4 UNIVERSAL OPTION SELECT                                            |
+|                                                                             |
+|=============================================================================|
+| HT        high throw                                                        |
+|-----------------------------------------------------------------------------|
+| LT        low throw                                                         |
+|-----------------------------------------------------------------------------|
+| TE        throw escape                                                      |
+|-----------------------------------------------------------------------------|
+| HTE       high throw escape                                                 |
+|-----------------------------------------------------------------------------|
+| LTE       low throw escape                                                  |
+|-----------------------------------------------------------------------------|
+| DTE       double throw escape [VF3 P+G,x+P+G; VF4 x+P+G,x+P+G]              |
+|-----------------------------------------------------------------------------|
+| TTE       triple throw escape [VF4 x+P+G,x+P+G,x+P+G]                       |
+|-----------------------------------------------------------------------------|
+| A         attack                                                            |
+|-----------------------------------------------------------------------------|
+| E         dodge / evade                                                     |
+|-----------------------------------------------------------------------------|
+| R         reversal                                                          |
+|-----------------------------------------------------------------------------|
+| G         guard                                                             |
+|-----------------------------------------------------------------------------|
+| -         option separator (eg. G-DTE)                                      |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| m) VF4 / EVOLUTION SPECIAL STANCES                                          |
+|                                                                             |
+|=============================================================================|
+| BO        bokutai stance (Lei)                                              |
+|-----------------------------------------------------------------------------|
+| BS        backstep stance (Akira)                                           |
+|-----------------------------------------------------------------------------|
+| CE        circular evade stance (Pai), see also BS                          |
+|-----------------------------------------------------------------------------|
+| CT        catch position (Brad)                                             |
+|-----------------------------------------------------------------------------|
+| DK        ducking (Brad)                                                    |
+|-----------------------------------------------------------------------------|
+| DR        drunken stance (Shun)                                             |
+|-----------------------------------------------------------------------------|
+| DS        defensive style / stance (Vanessa)                                |
+|-----------------------------------------------------------------------------|
+| EV        evade system (Lei)                                                |
+|-----------------------------------------------------------------------------|
+| FL        flamingo stance (Sarah)                                           |
+| FS                                                                          |
+|-----------------------------------------------------------------------------|
+| HS        handstand position (Shun, also in VF2/3)                          |
+|-----------------------------------------------------------------------------|
+| IN        independent system (Lei)                                          |
+|-----------------------------------------------------------------------------|
+| JM        jumonji stance (Kage)                                             |
+| JS                                                                          |
+|-----------------------------------------------------------------------------|
+| LD        lying position (Shun, also in VF3)                                |
+|-----------------------------------------------------------------------------|
+| MD #1     miss/defeat system (Lei)                                          |
+|-----------------------------------------------------------------------------|
+| MD #2     meishiou dodge (Pai), see also SW                                 |
+|-----------------------------------------------------------------------------|
+| MT        muay thai stance (Vanessa)                                        |
+| MTS                                                                         |
+|-----------------------------------------------------------------------------|
+| OS        offensive style / stance (Vanessa)                                |
+|-----------------------------------------------------------------------------|</pre><pre id="faqspan-2">
+| RR        roar (Wolf)                                                       |
+|-----------------------------------------------------------------------------|
+| SB        sway back (Brad)                                                  |
+|-----------------------------------------------------------------------------|
+| SH        slide shuffle / shuffle step (Jacky)                              |
+| SS                                                                          |
+|-----------------------------------------------------------------------------|
+| SL        slipping left (Brad)                                              |
+|-----------------------------------------------------------------------------|
+| SR        slipping right (Brad)                                             |
+|-----------------------------------------------------------------------------|
+| ST        sitting position (Shun, also in VF2/3)                            |
+|-----------------------------------------------------------------------------|
+| SW        sway step (Pai), see also MD #2                                   |
+|-----------------------------------------------------------------------------|
+| TG        tiger stance (Lei and Lau, they're different from each other)     |
+|-----------------------------------------------------------------------------|
+| TH        threat stance (Jeffry)                                            |
+| CT        "counter stance", earlier term                                    |
+|-----------------------------------------------------------------------------|
+| TK        takedown position (Vanessa)                                       |
+|-----------------------------------------------------------------------------|
+| TS        tsukami stance (Goh)                                              |
+|-----------------------------------------------------------------------------|
+| YY        yin-yang stance (Aoi)                                             |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| n) TYPES OF COUNTERS                                                        |
+|                                                                             |
+|=============================================================================|
+| MC        major counter; opponent is hit in his move's execution stage      |
+|-----------------------------------------------------------------------------|
+| mC        minor counter; opponent hit in his move's recovery stage          |
+|-----------------------------------------------------------------------------|
+| int       interrupt, another name for MC                                    |
+|-----------------------------------------------------------------------------|
+| SPC       special counter                                                   |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| o) COMBOS                                                                   |
+|                                                                             |
+|=============================================================================|
+| air       opponent must be hit while hopping/jumping                        |
+|-----------------------------------------------------------------------------|
+| DS        downslope (in VF3tb undulation-dependant combos)                  |
+|-----------------------------------------------------------------------------|
+| US        upslope (in VF3tb undulation-dependant combos)                    |
+|-----------------------------------------------------------------------------|
+| NW        must hit near the wall                                            |
+|-----------------------------------------------------------------------------|
+| OTB       on (or "off") the bounce                                          |
+|-----------------------------------------------------------------------------|
+| OTG       off (or "on") the ground                                          |
+|-----------------------------------------------------------------------------|
+| wall      character hits the wall, then combo is continued                  |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| p) END OF ROUND                                                             |
+|                                                                             |
+|=============================================================================|
+| KO        knock-out                                                         |
+|-----------------------------------------------------------------------------|
+| RO        ring-out                                                          |
+|-----------------------------------------------------------------------------|
+| TO        time-over                                                         |
+\-----------------------------------------------------------------------------/
+
+
+
+/-----------------------------------------------------------------------------\
+| q) OTHER ABBREVIATIONS                                                      |
+|                                                                             |
+|=============================================================================|
+| ->        notation commonly used if flowchart diagrams, eg. dividing two    |
+|           moves                                                             |
+|-----------------------------------------------------------------------------|
+| L / R     denotes left/right leg (eg. in stance charts)                     |
+|-----------------------------------------------------------------------------|
+| oki       oki-zeme; the art of attacking the rising opponent                |
+|-----------------------------------------------------------------------------|
+| ura       uramawari; basically, the way of getting behind / to the side of  |
+|           the opponent when he's rising; also, making him rise the "wrong   |
+|           way"                                                              |
+|-----------------------------------------------------------------------------|
+| PETE      punch-elbow-throw-escape; VF3 playing style                       |
+|-----------------------------------------------------------------------------|
+| NDS       "no-down-sei"; a player who doesn't use pounces or stomps         |
+|-----------------------------------------------------------------------------|
+| ENDS      "extreme no-down-sei"; a player who doesn't use ground attacks at |
+|           all                                                               |
+|-----------------------------------------------------------------------------|
+| CG        crouch guard                                                      |
+|-----------------------------------------------------------------------------|
+| *ack!*    BigCat's "move from hell" :> (Akira's/Jacky's iaigeri, Akira's    |
+|           knee)                                                             |
+|-----------------------------------------------------------------------------|
+| 1P/2P     left/right side of the machine, respectively                      |
+|-----------------------------------------------------------------------------|
+| BGM       background music                                                  |
+|-----------------------------------------------------------------------------|
+| AI        Artificial Intelligence, often referred to CPU character          |
+|-----------------------------------------------------------------------------|
+| FMV       Full Motion Video, usually ending movies                          |
+\-----------------------------------------------------------------------------/
+
+
+
+
+====================================
+II. CHARACTER-SPECIFIC ABBREVIATIONS
+====================================
+
+
+/-----------------------------------------------------------------------------\
+| a) MOVES ABBREVIATIONS                                                      |
+|                                                                             |
+|=============================================================================|
+| 2/3 DLC   first two moves of DLC - canned sequence                          |
+|           Akira [VF3/4 df+K+G,f+P]                                          |
+|-----------------------------------------------------------------------------|
+| 2/3 SPoD  first two moves of SPoD - canned sequence                         |
+|           Akira [VF2/3 P+K+G,b,df+P+K; VF4 P+K+G,b,df+P+G]                  |
+|-----------------------------------------------------------------------------|
+| AS        akira special, also SPoD - canned sequence                        |
+|           Akira [VF2/3 P+K+G,b,df+P+K,b+P; VF4 P+K+G,b,df+P+G,b+P]          |
+|-----------------------------------------------------------------------------|
+| AS2       akira special 2, also 2/3 SPoD - canned sequence                  |
+|           Akira [VF2/3 P+K+G,b,df+P+K; VF4 P+K+G,b,df+P+G]                  |
+|-----------------------------------------------------------------------------|
+| AS3       akira special 3 (axe blade combo) - canned sequence               |
+|           Akira [VF4 d+K+G,f+K,b,f+P]                                       |
+|-----------------------------------------------------------------------------|
+| AutoKn    autoknife - special move; certain conditions are required         |
+|           Lau [VF2/3/4 ...P]                                                |
+|-----------------------------------------------------------------------------|
+| BaB       big-ass boot - special move                                       |
+|           Jeffry [VF2/3/4 f,f+K]                                            |
+|-----------------------------------------------------------------------------|
+| BAK       big-ass (arse) kick - special move, see also BaB                  |
+|           Jeffry [VF2/3/4 f,f+K]                                            |
+|-----------------------------------------------------------------------------|
+| BB        body blow - special move                                          |
+|           Wolf [VF2/3/4 f+P]                                                |
+|-----------------------------------------------------------------------------|
+| BC        body check - special move                                         |
+|           Akira, Dural [VF1/2/3/4 b,f,f+P+K]                                |
+|-----------------------------------------------------------------------------|
+| BD        back drop - high throw                                            |
+|           Wolf [VF1/2/3/4 P+G]                                              |
+|-----------------------------------------------------------------------------|
+| BG        break guard - special move, see also DBG/GB/LBG/LGB               |
+|           Akira [VF3/4 d+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| BK        beatknuckle - special move                                        |
+|           Jacky [VF2/3/4 P+K]                                               |
+|-----------------------------------------------------------------------------|
+| BKC       beatknuckle combo - rolled sequence                               |
+|           Jacky [VF4 ver.A P+K,P,K -> ... ]                                 |
+|-----------------------------------------------------------------------------|
+| BS (1)    break stance - VF2 throw, VF3/4 special move, see also FBG        |
+|           Akira [VF2/3/4 f+P+G]                                             |
+|-----------------------------------------------------------------------------|
+| BS (2)    break stance techniques - high throws                             |
+|           Akira [VF2 f+P+G; d+P+G; b+P+G; db+P+G; b,d+P+G]                  |
+|-----------------------------------------------------------------------------|
+| BToD      belly throw of doom, also SToD - rolled sequence                  |
+|           Pai [VF2 b,d+P+G, {P,P},P,K]                                      |
+|-----------------------------------------------------------------------------|
+| CA        chiropractic adjustment - high throw                              |
+|           Jeffry, Dural [VF2 b,f,f+P+K+G; VF3/4 b,f,f+P+G]                  |
+|-----------------------------------------------------------------------------|
+| DBC       deep body check - special move                                    |
+| dBC       Akira, Dural [VF1/2/3/4 b,f,F,P+K]                                |
+|-----------------------------------------------------------------------------|
+| DBG       down break guard - special move, see also BG/LBG/LGB              |
+|           Akira [VF3/4 d+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| DbPm      double palm - special move                                        |
+| DbPlm     Akira [VF2/3/4 D,b,f+P]                                           |
+|           Lau [VF3 b,f,f+P; VF4 P+K]                                        |
+|           Taka [VF3 D,b,f+P]                                                |
+|-----------------------------------------------------------------------------|
+| DE        dashing elbow - special move                                      |
+|           Akira, Jeffry [VF1/2/3/4 f,f+P]                                   |
+|-----------------------------------------------------------------------------|
+| DEU       dashing elbow-uppercut - canned sequence                          |
+|           Jeffry [VF1/2/3/4 f,f+P,P]                                        |
+|-----------------------------------------------------------------------------|
+| DFL       double-fisted lift - special move                                 |
+|           Wolf [VF2/3/4 D,f+P]                                              |
+|-----------------------------------------------------------------------------|
+| DFS       double-fisted strike - special move                               |
+|           Akira [VF3/4 b,f+P+K]                                             |
+|-----------------------------------------------------------------------------|
+| DJK       double jumping kick - special move                                |
+|           Akira, Dural [VF1/2/3/4 f,f+K,K]                                  |
+|-----------------------------------------------------------------------------|
+| DLC       dragonlance combo - canned sequence                               |
+|           Akira [VF3/4 df+K+G,f+P,b,f,f+P+K]                                |
+|-----------------------------------------------------------------------------|
+| DnKn      downknife / knifehand - special move                              |
+|           Lau [VF1/2/3/4 df+P]                                              |
+|-----------------------------------------------------------------------------|
+| DP        dragon punch - special move                                       |
+|           Kage [VF3/4 f,d,df+P]                                             |
+|-----------------------------------------------------------------------------|
+| DPK       dragon punch-heel drop - canned sequence                          |
+|           Kage [VF4 f,d,df+P,K]                                             |
+|-----------------------------------------------------------------------------|
+| DSK       double swallow kick - special move                                |
+|           Pai, Dural [VF2/3/4 uf+K,K]                                       |
+|-----------------------------------------------------------------------------|
+| DSoD      drunken sweeps of doom - canned sequence                          |
+|           Shun [VF2/3/4 d+P+K,K,K]                                          |
+|-----------------------------------------------------------------------------|
+| dwp       dances with punches - high throw                                  |
+|           Shun [VF2/3/4 P+G]                                                |
+|           Dural [VF3/4 P+G]                                                 |
+|-----------------------------------------------------------------------------|
+| eBC       evading body check - special move                                 |
+|           Akira [VF3 b,f+P+K+E, VF4 d,P+K+G or u,P+K+G]                     |
+|-----------------------------------------------------------------------------|
+| EK (1)    elbow-heelkick (or -spinkick) - canned sequence                   |
+|           Jacky [VF1/2/3/4 f+P,K]                                           |
+|-----------------------------------------------------------------------------|
+| EK (2)    elbow-knee - canned sequence                                      |
+|           Sarah [VF1/2/3/4 f+P,K]                                           |
+|-----------------------------------------------------------------------------|
+| ESK       elbow-spinkick - canned sequence, see also EK (1)                 |
+|           Jacky [VF1/2/3/4 f+P,K]                                           |
+|-----------------------------------------------------------------------------|
+| FBG       forward break guard - special move, see also BS (1)               |
+|           Akira [VF3/4 f+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| FRK       front roll kick - special move                                    |
+|           Wolf [VF3/4 b,f+K+G]                                              |
+|-----------------------------------------------------------------------------|
+| GB        break guard - special move, see also BG/DBG/LBG/LGB               |
+|           Akira [VF3/4 d+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| GKoD      groin kick of doom (early VF4) - canned sequence, see also SPoD   |
+|           Akira [VF2/3 P+K+G,b,df+P+K,b+P; VF4 P+K+G,b,df+P+G,b+P]          |
+|-----------------------------------------------------------------------------|
+| GS        giant swing - high throw                                          |
+|           Wolf, Dural [VF1/2 b,db,d,df,f+P; VF3/4 b,db,d,df,f+P+G]          |
+|-----------------------------------------------------------------------------|
+| HBF       high backfist - special move                                      |
+|           Jacky [VF1/2/3/4 b+P]                                             |
+|-----------------------------------------------------------------------------|
+| HD        hell dunk (hammer) - special move                                 |
+|           Jeffry [VF3/4 d+P+K]                                              |
+|-----------------------------------------------------------------------------|
+| iai       iaigeri kick - special move (bug)                                 |
+|           Akira, Jacky [VF2 F,K,G-cancel at 12th frame, version 2.0 only]   |
+|-----------------------------------------------------------------------------|
+| IBC       inverted body check - high throw                                  |
+|           Akira [VF3/4 df+P+G]                                              |
+|-----------------------------------------------------------------------------|
+| L/X       Lion's exchange - high throw                                      |
+|           Lion [VF3/4 df+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| LBC       low body check - special move                                     |
+|           Akira [VF3/4 df+P+K]                                              |
+|-----------------------------------------------------------------------------|
+| LBF (1)   low backfist - special move                                       |
+|           Akira [VF3/4 df+P+K]                                              |
+|           Jacky [VF1/2/3/4 db+P]                                            |
+|           Dural [VF3/4 db+P]                                                |
+|-----------------------------------------------------------------------------|
+| LBF (2)   low blue fist - special move, see also LP                         |
+|           Pai [VF3/4 df+P]                                                  |
+|-----------------------------------------------------------------------------|
+| LBG       break guard - special move, see also BG/DBG/GB/LGB                |
+|           Akira [VF3/4 d+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| LDK       low dropkick - special move                                       |
+|           Wolf [VF2/3/4 f,d+K]                                              |
+|-----------------------------------------------------------------------------|
+| LF        lunging fist, also OMP - special move                             |
+|           Shun [VF2/3/4 D,f+P]                                              |
+|-----------------------------------------------------------------------------|
+| LGB       break guard - special move, see also BG/DBG/GB/LBG                |
+|           Akira [VF3/4 d+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| LgKn      lunging knife / lunging palm - special move                       |
+|           Lau [VF2/3/4 df,df+P]                                             |
+|-----------------------------------------------------------------------------|
+| LgPm      lunging palm, also LgKn - special move                            |
+|           Lau [VF2/3/4 df,df+P]                                             |
+|-----------------------------------------------------------------------------|
+| LK        low kick - basic move                                             |
+|           everyone [VF1/2/3/4 d+K or D+K]                                   |
+|-----------------------------------------------------------------------------|
+| LLP       low lunging punch - special move, see also LBF                    |
+|           Akira [VF3/4 df+P+K]                                              |
+|           Jacky [VF1/2/3/4 db+P]                                            |
+|           Dural [VF3/4 db+P]                                                |
+|-----------------------------------------------------------------------------|
+| LP        lifting palm - special move, see also LBF (2)                     |
+|           Pai [VF3/4 df+P]                                                  |
+|-----------------------------------------------------------------------------|
+| LU        lunging uppercut, also OMK - special move                         |
+|           Shun [VF2/3/4 d,df,f+P]                                           |
+|-----------------------------------------------------------------------------|
+| LUpp      uppercut from crouch - special move                               |
+|           Jeffry, Wolf [VF2/3/4 DF+P]                                       |
+|-----------------------------------------------------------------------------|
+| MP        meteor punch - special move                                       |
+|           Lion [VF4 d,db,b+P]                                               |
+|-----------------------------------------------------------------------------|
+| mTFT      "mini-TFT" - high throw                                           |
+|           Aoi [VF3/4 b+P+G]                                                 |
+|-----------------------------------------------------------------------------|
+| OMK       old man knife - special move                                      |
+|           Shun [VF2/3/4 d,df,f+P]                                           |
+|-----------------------------------------------------------------------------|
+| OMP       old man palm - special move                                       |
+|           Shun [VF2/3/4 D,f+P]                                              |
+|-----------------------------------------------------------------------------|
+| PB        powerbomb - low throw                                             |
+|           Jeffry [VF1/2/3/4 df+P+K+G]                                       |
+|-----------------------------------------------------------------------------|
+| PIT       pull-in throw - high throw                                        |
+|           Akira [VF3/4 f,b+P+G]                                             |
+|-----------------------------------------------------------------------------|
+| PIT-RBC   pull-in throw -> reverse body check - canned sequence             |
+|           Akira [VF4 f,b+P+G -> u+P+G/d+P+G]                                |
+|-----------------------------------------------------------------------------|
+| PPEK      double punch-elbow-heelkick - canned sequence                     |
+|           Jacky [VF1/2/3/4 P,P,f+P,K]                                       |
+|-----------------------------------------------------------------------------|
+| RBC       reverse body check - high throw                                   |
+|           Akira [VF1/2 b,df+P+K; VF3/4 b,df+P+G / b,df+P+K in VF3 SPoD]     |
+|           Dural [VF2 b,df+P+K; VF3 b,df+P+G]                                |
+|-----------------------------------------------------------------------------|
+| SDE       super dashing elbow - special move                                |
+|           Akira [VF2/3/4 f,f,f+P]                                           |
+|-----------------------------------------------------------------------------|
+| SE        surprise exchange - high throw                                    |
+|           Akira [VF2/3/4 db+P+G]                                            |
+|           Jeffry [VF3/4 db+P+G]                                             |
+|           Kage [VF3/4 f+P+G]                                                |
+|           Lion [VF3/4 df+P+G]                                               |
+|           Shun [VF3/4 df+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| SgPm      single palm - special move                                        |
+| SgPlm     Akira [VF1/2/3/4 D,f+P]                                           |
+|           Lau [VF3/4 b,f+P - also canned ones]                              |
+|           Taka [VF3 b+P]                                                    |
+|-----------------------------------------------------------------------------|
+| SHK       side hook kick - special move                                     |
+|           Jacky [VF2/3/4 b+K]                                               |
+|           Sarah [VF2/3/4 db+K+G]                                            |
+|-----------------------------------------------------------------------------|
+| ShRm      shoulder ram - special move                                       |
+|           Akira [VF3/4 D,f+P+K]                                             |
+|-----------------------------------------------------------------------------|
+| SJK       single jumping kick - special move                                |
+|           Akira, Dural [VF1/2/3/4 f,f+K]                                    |
+|-----------------------------------------------------------------------------|
+| SpEx      surprise exchange - high throw, see also SE                       |
+|           Akira [VF2/3/4 db+P+G]                                            |
+|           Jeffry [VF3/4 db+P+G]                                             |
+|           Kage [VF3/4 f+P+G]                                                |
+|           Lion [VF3/4 df+P+G]                                               |
+|           Shun [VF3/4 df+P+G]                                               |
+|-----------------------------------------------------------------------------|
+| SpKn      super knife - special move                                        |
+|           Lau [VF3/4 df+P+K]                                                |
+|-----------------------------------------------------------------------------|
+| SPoD      stun palm of doom - canned sequence                               |
+|           Akira [VF2/3 P+K+G,b,df+P+K,b+P; VF4 P+K+G,b,df+P+G,b+P]          |
+|-----------------------------------------------------------------------------|
+| Srm       shoulder ram - special move, see also ShRm                        |
+|           Akira [VF3/4 D,f+P+K]                                             |
+|           Wolf [VF2/4 b,f+P; VF3 f+P+E]                                     |
+|-----------------------------------------------------------------------------|
+| SS (1)    senbon swipe - special move                                       |
+| Sswipe    Kage [VF2/3/4 db+P,K,G]                                           |
+|-----------------------------------------------------------------------------|
+| SS (2)    short shoulder (ram) - special move, see also SSR                 |
+|           Wolf [VF3/4 b,f+P+K]                                              |
+|-----------------------------------------------------------------------------|
+| SSD       steiner screwdriver - high throw                                  |
+|           Wolf [VF2 df,df+P+K; VF3/4 df,df+P+G]                             |
+|-----------------------------------------------------------------------------|
+| SSK       single swallow kick - special move                                |
+|           Pai, Dural [VF2/3/4 uf+K]                                         |
+|-----------------------------------------------------------------------------|
+| SSR       short shoulder ram - special move                                 |
+|           Wolf [VF3/4 b,f+P+K]                                              |
+|-----------------------------------------------------------------------------|
+| SSW       single swallow (kick) - special move, see also SSK                |
+|           Pai, Dural [VF2/3/4 f+K]                                          |
+|-----------------------------------------------------------------------------|
+| ST        stumbling trip / stumble throw - high throw                       |
+|           Akira, Lau, Pai [VF2/3/4 b,d+P+G]                                 |
+|           Dural [VF3/4 b,d+P+G]                                             |
+|-----------------------------------------------------------------------------|
+| StDbPm    standing double palm - special move                               |
+| StDblPm   Akira [VF4 d,db,b+P]                                              |
+|-----------------------------------------------------------------------------|
+| SToD      stumble throw of doom - rolled sequence                           |
+|           Akira [VF3 b,d+P+G, f,f+K, b,f,F+P+K]                             |
+|           Pai [VF2 b,d+P+G, {P,P},P,K]                                      |
+|-----------------------------------------------------------------------------|
+| StPm      standing palm - special move                                      |
+| StPlm     Akira [VF3/4 b,f+P]                                               |
+|           Lau [VF3/4 b,f+P - also canned ones]                              |
+|-----------------------------------------------------------------------------|
+| T&H       twirl & hurl, also GS - high throw                                |
+|           Wolf, Dural [VF1/2 b,db,d,df,f+P; VF3/4 b,db,d,df,f+P+G]          |
+|-----------------------------------------------------------------------------|
+| TAP       turn-around punch - special move                                  |
+|           Jacky, Kage, Sarah, Dural [VF2/3/4 b,b+P]                         |
+|-----------------------------------------------------------------------------|
+| TB        taiwan backbreaker - rolled sequence                              |
+|           Akira [VF2 db+P+G, df,d,DF,f+P, f,f,f+P]                          |
+|-----------------------------------------------------------------------------|
+| TFT       ten-foot toss - high throw                                        |
+|           Kage, Dural [VF1/2 b+P; VF3/4 b+P+G]                              |
+|-----------------------------------------------------------------------------|
+| TFToD     ten-foot toss of doom - rolled sequence                           |
+|           Kage [VF2 b+P, f,f, b,b+P, P,P,P,K)                               |
+|-----------------------------------------------------------------------------|
+| TFTKoD    ten-foot toss knee of doom - rolled sequence                      |
+|           Kage [VF2 b+P, D,f+K, P,P,P,K]                                    |
+|-----------------------------------------------------------------------------|
+| TFTKPoD   ten-foot toss knee-P of doom - rolled sequence                    |
+|           Kage [VF2 b+P, D,f+K, P, P,P,P,K]                                 |
+|-----------------------------------------------------------------------------|
+| TKoD      toekick of doom - canned sequence                                 |
+|           Jeffry [VF1/2/3/4 d+K,d,df,f+P+K+G]                               |
+|-----------------------------------------------------------------------------|
+| TNT       ticketed & towed - rolled sequence                                |
+|           Akira [VF2 b,df+P+K, df+K, f,f,f+P, d+P,b,f+P]                    |
+|-----------------------------------------------------------------------------|
+| TPoD      turn-around punch of doom - rolled sequence                       |
+| TAPoD     Shun [VF3 b,b+P mC,P+G]                                           |
+|-----------------------------------------------------------------------------|
+| TTS       turn-towards sweep - special move                                 |
+|           Jacky, Sarah [VF2/3/4 back-turned d+K]                            |
+|-----------------------------------------------------------------------------|
+| UpKn      upknife / lifting palm - special move                             |
+|           Lau [VF1/2/3/4 DF+P]                                              |
+|-----------------------------------------------------------------------------|
+| XPD       crucifix piledriver - high throw                                  |
+|           Jeffry, Dural [VF1/2 df,df+P+K; VF3/4 df,df+P+G]                  |
+|           Wolf [VF1 df,df+P+K]                                              |
+\-----------------------------------------------------------------------------/
+
+
+
+CREDITS
+=-=-=-=
+
+Major contributors (too many things to mention):
+* rsw
+* CreeD
+* Myke`
+* Chanchai
+
+Minor contributors:
+* BigCat: Shorthand Guide
+* PeakDuck: Gamest translations
+* clopin: TA/TT clarification, typos corrections
+* Ice-9: a few abbreviations taken from his VF Lexicon (at virtuafighter.com)
+* Donny Chan: some additions
+* plus many anonymous contributors & guide authors ;)
+
+If you feel you have contributed something, contact me!
+
+
+
+
+
+[end of file, (c) GLC]

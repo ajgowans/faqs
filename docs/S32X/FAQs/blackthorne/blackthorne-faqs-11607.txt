@@ -1,0 +1,838 @@
+
+
+
+
+
+
+
+
+          _     _            _    _   _
+         | |   | |          | |  | | | |
+         | |__ | | __ _  ___| | _| |_| |__   ___  _ __ _ __   ___
+         | '_ \| |/ _` |/ __| |/ / __| '_ \ / _ \| '__| '_ \ / _ \
+         | |_) | | (_| | (__|   <| |_| | | | (_) | |  | | | |  __/
+         |_.__/|_|\__,_|\___|_|\_\\__|_| |_|\___/|_|  |_| |_|\___|
+
+
+			For the Super Nintendo
+
+			Version 0.65
+
+COPYRIGHT
+    This document was created by J.T.  It is for individual use only.  
+Questions, comments and concerns go to jt@flipmode.com
+
+----------------------------------------------------------
+1.  Introduction
+
+2.  Story (Very Long)
+
+3.  The Mines of Galadril
+
+4.  The Forest of Onehand 
+
+5.  The Wastelands of Thoros
+
+6.  The High Tower of Sarlac
+
+7.  Gracias
+----------------------------------------------------------
+
+1.  That's pretty weird.  This game looks, sounds and plays like Flashback.  It 
+probably IS Flashback, but under a different name and story with different 
+characters.  What were Interplay and Blizzard thinking?  Oh well it's ok I 
+guess, this is a little better than Flashback.  Less complicated in controls but 
+the story is more intricate.  Kyle Blackthorne is the name; recovering the Light 
+Stone is his game.  Bah humbug . . .
+
+
+2.  HISTORY OF TUUL
+
+     
+     Tuul had been a peaceful world. That was centuries ago--a time when only
+One race of people inhabited the planet. Their ruler was a great priest/shaman
+Who, as the legend goes, was blessed with all knowledge. The position was
+passed down from father to eldest son through hundreds of generations...until
+twin boys were born to Thoros, the ninety-ninth in the line of priests. The
+path of succession was dubious--exhaustive tests of intellect revealed that
+Neither boy was superior to the other.
+     
+     One day, the two would-be-rulers and their father ventured out into the
+Desert - now known as the Sands of Sorrow--to determine the next ruler of
+Tuul. The sons returned three days later, bearing with them two large gems:
+one light, one dark. Their father was dead, they announced. His body had
+transformed into the two gems they now held. His wisdom and knowledge were
+contained in those gems and each of the sons had chosen one for their own.
+     
+     The repercussions of this event would forever be felt throughout Tuul:
+From that day forward, Tuul consisted of two distinct populations. Some chose
+To follow the son who held the Light stone; north of the desert, they
+Established a kingdom that would become known as Androth. Others followed the
+Guardian of the Dark Stone, settling south of the desert in a region they
+Called Ka'dra'suul.
+     
+     Androth flourished--the people kept the revered Light Stone in a central
+Courtyard surrounded by gardens of exotic flora that flourished under the
+Stones vibrant energy.
+     
+     The Ka'dra'suul chose instead to bury their stone deep in the catacombs
+Beneath the central keep of their great castle. Although the Ka'dra'suul grew
+In strength and numbers, they suffered physical as well as psychological
+Mutations. Its people had neglected the Dark stone, and it responded by
+molding the Ka'dra'suul into a cruel race of beings. Fortunately, the two
+peoples were separated by the great desert and thus had little contact with
+one another.
+     
+     Eventually, the Ka'dra'suul's supply of Xandralite--the soft, energy-
+radiating metal used by both races for heat and light--was nearly exhausted.
+The vampire Dark Stone was effectively draining them of their life-giving fuel.
+     
+     A young warrior then arose among the people. Sarlac was his name and he
+preached against Androthi to the north, claiming that they enjoyed an unfair
+share of Tuul's blessed resources and that it was the duty of the Ka'dra'suul,
+to set right this wrong. Sarlac was soon swept into power, ruling a great
+Castle he called his Shadow Keep, and led his people against the Androthi in
+the north. Unprepared, the Androthi were quickly overrun and enslaved by
+Sarlac's hordes. They were forced to work their own Xandralite mines under
+Armed guard; the results of their labor was shipped south to Ka'dra'suul,
+Where it was used to feed the Dark stone.
+         
+
+KYLE BLACKTHORNE
+
+     Two MPs dressed in olive drab uniforms strode across the dusty compound,
+An orderly in fatigues was following behind them. They headed for the isolated
+Concrete and steel bunker on the other side of the fenced-in camp where the
+Prisoner was currently held. The larger of the MP's--a sandy-haired, freckle
+Faced sergeant--offered some advice to the newly arrived MP corporal.
+     
+     "The prisoner must be kept under the restraint at all times," the
+Sergeant cautioned them. "Captain Blackthorne is an extremely dangerous man,
+Trained in all forms of armed and unarmed combat. Maximum caution must be
+Exercised at all times."
+     
+     The warning really wasn't necessary. The corporal already knew all about
+Blackthorne, despite the fact he'd been in the region only a couple days.
+Blackthorne had turned mercenary early in his military career after receiving a 
+medical discharge from the Corps. He had since fought in a dozen or more 
+different military actions all over the world. Cold, shrewd, and calculating,
+Blackthorne was said to be absolutely merciless. He was charged with the war
+crimes and scheduled to stand court martial tomorrow morning.
+     
+     "Some people say Captain Blackthorne is innocent," the corporal told the 
+Sergeant as they marched along. "They say he's been sold out--that the charges
+are false and all part of the peace agreement they're trying to hammer out of
+Moswali."
+     
+     The Warlord Moswali was the last stumbling block in a peace agreement
+That the U.N. hoped to negotiate in this small, war-torn East African
+Country. By most accounts a thief and a cutthroat; Moswali had firm control of 
+the large territories and their populace. Without Moswali's cooperation,
+establishing a peace treaty that would finally bring stability to his ravaged
+country was nearly impossible. Moswali had a personal grudge with Blackthorne
+dating back several years and, along with other concessions, had demanded the
+Captain's court-martial.
+
+     "I'm afraid that's not true corporal," the sergeant reprimanded the
+Corporal. "Blackthorne's guily--no doubt about it. He's a vicious savage. He
+should consider himself lucky we didn't turn him over to Moswali like he 
+demanded."
+
+     Moswali had first insisted that Blackthorne be handed over to him for
+trial at the Warlord's hands: a demand that even the merciless U.N. commanders
+could not see fit to honor. The deal struck that Blackthorne would stand
+court-martial at the hands of his troops. His eventual conviction and a
+long sentence were nearly guaranteed.
+
+     The corporal said no more. In the mere two days he'd been assigned to his
+post he'd already decided he didn't like this sergeant. Blackthorne was known
+as a rebel--a man the sergeant could not tolerate.
+
+     Finally reaching the small, concrete bunker that served the prisoner's
+holding cell, the party halted. Without preamble, the sergeant beat his hammy
+fist on the heavy door.
+
+     "Prisoner! To the door! Hands out!"
+
+     A narrow opening was cut in the door about waste-height, used to pass
+food trays back and forth and kept sealed with a padlocked bar. At the nod
+from the sergeant, the corporal unlocked the bar and stepped back. A pair of
+hands emerged from the opening, fists clenched, wrists held together. The
+hands were large, strong, lined with cords and muscle.
+
+     "Put the handcuffs on him corporal," ordered the Sergeant.
+
+     Fumbling slightly with unfamiliar restraints, the corporal finally locked
+them around the extended wrists. Cuffs secured, the sergeant ordered the
+prisoner to move back to the rear of the cell while the door was unlocked and
+opened. Carefully, the corporal stepped inside the bunker, baton at ready.
+
+     Moving toward the doorway, Kyle crouched in the opening, peering across
+the compound, the unfamiliar sunlight bright and painful to his eyes. The area
+seemed clear, only a few men were around. On the far side of the camp a
+helicopter prepared for take-off, the sound of its turning rotors
+chop-chopping across the camp.
+
+     Without further hesitation, Blackthorne made his break. Out the door
+sprinting across the compound, he ignored the shouts behind him. Reaching the
+helicopter, he took the crewman out with a fist to the jaw that sent the man
+sprawling on the ground. A second crewman, aboard the craft near the open side
+door tried to make his move but Blackthorne already had his hands on him.
+Dragging him out of the chopper to throw him to the tarmac. Leaping aboard,
+Blackthorne slammed and latched the door then scrambled forward to the
+cockpit.
+
+     The craft's pilot, taken by surprise, stared wide-eyed at the intruder.
+
+     "Captain Blackthorne?" he said, not really believing what he saw.
+
+     "Out!" ordered Blackthorne.
+
+     The chopper was amazingly swift and maneuverable in the capable hands of
+it's Captain. Blackthorne looked back in the distance as his enemies fired
+another rocket. It was a futile attempt and Blackthorne knew it. He and his
+craft were already out of range.
+
+     Blackthorne landed the helicopter in an area obscured by brush, safely on
+the other side of the border. He was amazed at how weak he'd become. He
+checked himself for wounds but found none.
+
+     What was wrong? He thought to himself.
+
+     Slowly, he climbed out of the chopper. It took all his strength just to
+open the door and step outside. Once outside, he immediately fell to his knees.
+
+
+ALL WENT BLACK.
+
+
+     Running, running, running. The dream was the same one Blackthorne had
+experienced over and over since childhood. Kyle Blackthorne--a small
+boy--running in terror as fast as he could, racing through dark halls made of
+stone, vaulted ceilings rising overhead, walls decorated with hanging skulls
+and tapestries. Light poured from countless chandeliers, there hundreds of
+candles casting but feeble, yellow light--a light that seemed swallowed up by
+the great inky blackness surrounding all. In this dream he heard a voice--the
+same familiar voice he knew he could trust.
+
+     "This way Kyle. Hurry! Follow me!"
+
+     The voice sounded nearby and distant at the same time. In the dream he
+sought the source of the voice but he never saw the face. Always, though, he
+chased after it, obeying its commands knowing that his life depended on
+following its instructions.
+
+     And again he found himself overlooking a large chamber where a man--tall
+gray-haired, dressed in a splendid robe--faced off against a giant, shadowy
+form. As Kyle watched, the two spoke for a moment, then the giant form stepped
+from out from out of the shadows--a huge man with powerful arms and shoulders.
+Laughing evilly, the stranger drew forth a great sword and, raising it over
+his head, struck the older man down. Kyle, paralyzed by the scene unfolding
+before his eyes, stood dumbstruck. But powerful hands took hold of his small
+shoulders and, without warning, lifted him off his feet and hurled him into
+the vast reaches of the darkness and could, tears pouring down his face as he
+thought of the man struck down in the chamber. He knew it was his father...
+Blackthorne awoke to find himself laying face down in the sand. His head
+throbbed and he was disoriented. Slowly coming to his senses, he realized he'd
+had the dream again--one of the many odd dreams that had haunted him all his
+life.
+
+     He pulled himself to his feet and assessed his situation. It was getting
+dark. How long had he been unconscious? How much ground had the UN forces
+gained on him? He knew there was no chance that they would abandon their
+search for him. He had to find his friends and fast.
+Scrambling up to a nearby ridge, he saw the highway below that his allies had
+frequently used. Maybe they still did. He went back to the helicopter to grab 
+some gear along with a rifle he found under the seat. He must get to safety,
+Blackthorne thought to himself as he began the steep descent to the road
+below. The Androthi depended upon him, he told himself. HE must free his
+people from the cruel Ka'dra'suul.
+With a sudden shock he realized he was reliving another of the mysterious
+dreams that plagued him, but now it was becoming more real, more urgent than
+his current predicament. He picked up his pace and tried to shake the strange
+thoughts that plagued him. No matter how hard he tried, he could not.
+
+     He saw himself standing in some sort of cave or mine. Others were
+around--men working by dim light, sweating and trolling, mining strange
+mineral from the walls of the cave. Others, the not actively at work, were
+chained to walls of the cave. To his horror Blackthorne saw that some of the
+canters were no more than corpses and skeletons. Long ago picked clean of
+their flesh, they were against the walls in upright positions. Kyle pitied
+these people. Somehow he knew they were called the Androthi. 
+
+     And again came that mysterious voice, ringing in his ears: "Kyle. Come to
+me. Your people have fallen slaves to the Warlord Sarlac and the evil power of
+the Dark Stone. You must free them. You are their only hope. You must seek me
+out so that I may teach you the secrets of the Light Stone. My name is
+Galadril. You know me. Find me."
+
+     The Androthi prisoners welcomed him as a friend. Their language was
+foreign yet familiar to his ears. They begged for help and he promised it to
+them, not knowing exactly what that would mean. They ran though in terror.
+Something was coming. "Ka'dra'suul!" they shouted as they fled. Something
+hulked into view. Blue-skinned, with long, curving tusks, it had obviously
+once been a man but was now something else. The thing grinned at Kyle and then
+cracked its evil-looking black whip.
+
+     Blackthorne was still remembering that evil face when the sound of a
+rapidly approaching helicopter reminded him of his present situation. They'd
+caught up to him.
+
+     "You had better get a hold of yourself Blackthorne," he told himself,
+ducking into a narrow crevice, trying to keep out of sight. His head continued
+to ache but he knew if he didn't keep his mind on the problems facing him he'd
+have worse to worry about.
+
+     He crouched in the eroded gully and watched as the U.N. camp's chopper
+passed slowly overhead. If they spotted him and radioed back his position, he
+would never escape.
+
+     Apparently failing to spot Blackthorne through the darkness, the
+helicopter passed over him without slowing. He breathed a sigh of relief.
+
+     "The Golatrix complex," he told himself. "I must reach it." Again he was
+shocked to find his memories confused. He was a living dream--a dream from
+long ago. He tried to concentrate on what lay before him but still the other
+thoughts kept intruding, insisting that his precarious trek through the desert
+was dwarfed in significance by the unusual thoughts that raced through his
+head.
+
+     He was crossing a vast desert in search of the Golatrix Complex.
+Sweltering from the heat, he trudged on. He felt the presence of someone or
+something but he saw nothing. Enemies lurked everywhere beyond the sand dunes
+and windswept hills surrounding him. Ka'dra'suul was their name. Once human,
+they were now twisted and degenerate, their lives and souls warped by Sarlac.
+Enslavers of the Androthi, Blackthorne hated them and they feared him.
+
+     The Golatrix Complex--his goal--was a far-flung military outpost built
+long ago by the Androthi but now abandoned. He did not know why he had to
+reach this place, only that he must desperately attain his goal. Something he
+needed-something important to the task at hand--lay inside, and he must
+retrieve, Here, there was no voice to guide him. He was on his own.
+
+     A shot rang out, a distant rifle firing from the other side of the
+highway. The slug kicked up dirt in front of Blackthorne as it buried itself
+in the ground near his feet.
+
+     A sniper!
+
+     Blackthorne threw himself on the ground, rolling and scrambling until he
+got himself behind a low line of rocks just barely high enough to afford him
+cover. Was this sniper a friendly force unable to recognize him in the
+Darkness? He quickly ruled out that possibility. He was sure that the sniper
+was one of Moswali's men probably assigned specifically to hunt down and
+capture Blackthorne, dead or alive. Pinned flat to the ground, his slightest
+movement was answered by the crack of a rifle and a slug ricocheting off rocks
+shielding him. The only thing he knew for sure was that the sniper was holed
+in a narrow crevice on a mountain across the highway. Entrenched high above
+him, the sniper could keep Blackthorne pinned down indefinitely.
+
+     He pulled out the rifle and attached the infrared scope. The snipers
+shots continued to ricochet dangerously close to his position. The enemy
+appeared as a shadowy figure through the rifles sight. Blackthorne fired two
+quick shots.
+
+     He continued to watch through the sight as the sniper stumbled and fell
+forward on the mountain. He wasn't the first to fall victim to Blackthorne's
+sharp shooting prowess and he wouldn't be the last.
+
+     Blackthorne hopped to his feet. There was little time left. There was no
+way of knowing if the Warlord's sniper was in radio contact with Moswali's
+camp but the gunfire and air traffic over the hills would go unnoticed. He was
+only a few hundred feet from the highway now.
+
+     "I must find Onehand," Blackthorne told himself. "The Seer dwelling deep
+within the Karellian Swamps."
+
+     Blackthorne again found himself slipping into one of his eerie visions.
+
+     He was plodding through the swamp filled with dark, evil-smelling water,
+surrounded by strangely twisted tress. No birds sang but skitterings and
+shufflings could be heard among the rushes and briars on the banks. The
+degenerate Ka'dra'suul lurked here, in the great Karnellian swamp. Blackthorne 
+was seeking the refuge of a woman known only as the Seer Onehand. It was
+Onehand who kept the secret Blackthorne needed to defeat the great evil that
+lay beyond the swamp.
+
+     Other things lurked here as well--things far worse than Ka'dra'suul. The
+great evil plaguing this world had also unleashed creatures from other
+worlds--other dimensions--to stalk his desolate land. These creatures were
+barely mortal and impervious to Blackthorne's weapons. He was wary of
+them--and their stealthy approach.
+
+     He never could recall if he'd found whom he'd been searching for. The
+name Onehand remained a haunting enigma.
+
+     He tried to shake the feelings off, telling himself again and again that
+they were only the fragments of half-remembered dreams--but inexplicably he
+knew there was more to it than that.
+
+     "Kyle!"
+
+     A voice spoke to him in his head--the voice familiar to him from his
+dreams. He ignored it, running on. He finally reached the side of a highway
+and could see what looked like a jeep heading toward him. It was about a mile
+away.
+
+     "Kyle! It is time!" The voice came to him again.
+
+     The vehicle closed quickly. Prepare yourself Kyle!" the voice commanded.
+"The time draws near."
+
+     Blackthorne clutched at his head, trying to drive the voice out. He sat
+by the roadway. Was he going mad? He had to block out the voice.
+
+     The jeep thundered past him. Blackthorne held out his hand to stop the
+vehicle but they didn't see him. Perhaps they couldn't see him. He recognized
+the occupants of the jeep as faces he had long fought alongside only a short
+time ago.
+
+     "Now!" vibrated the voice inside his head.
+
+     Kyle Blackthorne suddenly found himself surrounded by cold and darkness,
+hurtling through the vastness of space as stars whirled by at dizzying speeds.
+
+     "Your time has arrived," came the voice again, this time nearer, and more
+familiar. "You are of age and well trained. IT is time to fulfill your
+destiny."
+
+     "Galadril?" asked Blackthorne.
+
+     "It is I," answered the voice. "Your mentor and tutor from years gone
+by."
+
+     "I remember," said Blackthorne. "You were the favorite of my father, King
+Vlaros."
+
+     "And his advisor and sorcerer" added the voice. "Your memories are
+returning, I see."
+
+     Blackthorne agreed. "I remember the murder of my father. I dreamt of it
+many times. He was slain by a man who stepped from the shadows," he said
+turning slightly grim.
+
+     "Yes, the evil lord Sarlac," said the voice that was Galadril. "He still
+reigns, Kyle, and our world is worse for it. IF not stopped soon he shall be
+the end of us all. The world of Tuul--your world--needs you desperately. Too
+many years have the Androthi lived under the yoke of Sarlac and his people,
+the twisted Ka'dra'suul. Sarlac possesses the Dark Stone and if allowed to
+continue his evil ways will eventually destroy our world and all that is good
+in it. You must use the power of the Light Stone to bring an end to his reign.
+To protect you, your father and I sent you to Earth. After Sarlac discovered
+the Dark Stone and began his rise to power, the Seer Onehand predicted that
+Sarlac could not be stopped--that his destiny was to rule Tuul in twenty
+years. At the end of that time this destiny could not be changed, but only
+through the power of the Light Stone wielded the proper heir to the throne.
+Hence we sent you to Earth, far from the treacherous eyes of Sarlac. To
+further safeguard you; your memories were hidden from you. But it appears that
+some have escaped over the years."
+
+     "The dreams..." said Kyle.
+
+     "Yes. The dreams were your old memories escaping their magical bounds.
+But only some of them. Others were prophecies of things to come--of your
+destiny."
+
+     "What am I to do?"
+
+     "Seek me out, young Kyle. You will soon return to that place from which
+you were sent, the Xandralite mines of Androth, now a prison camp run by the
+evil Ka'dra'suul. I cannot meet you there for reasons you will soon learn. I
+wait beyond the mines. Seek me out..."
+
+     "How can Sarlac be stopped?" Blackthorne asked the voice.
+
+     "With the power of the Light Stone," answered Galadril. "You must use it
+against Sarlac..."
+
+     The voice faded away.
+
+     The fate of Kyle Blackthorne now lies in your hands. Your mission is to
+guide the resourceful warrior through the perilous regions of Tuul and find
+Sarlac. Use Blackthorne's mercenary abilities; along with the weapons and items 
+you will acquire, to assist you in your quest.
+
+
+
+
+
+3.
+-------------------------------------------------
+The Mines of Galadril
+-------------------------------------------------
+
+Mine 1
+Get acquainted with the controls in the Practice Mode first.  It's really 
+helpful.  After that's done in Level 1 scale the ladder.  If you talk to the 
+slaves you get game tips.  Pull yourself up and press down on the items.  Press 
+select then choose the item.  Press X to throw it and annihilate the door.  Here 
+is your first monster!  Do him well by filling him with slugs.  Take the bomb, 
+get up the ladder, blast another door then blast yet another door.  Press up and 
+the guy will give you a potion for your health.  Go up the ladder now, press up 
+to go inside the hole.  Kill the monster on the bottom, snatch the bomb and 
+destruct the door.  Kill another monster then press fire to jump across the 
+space.  Loose a hover bomb on the door then hit up to move.
+  
+Mine 2
+Two shots will put the brown monster away, if you're on the edge you'll just get 
+pushed off.  Press up to fade in the darkness and not get shot.  Blast this one 
+then press down to sink down.  Go inside the orifice, leap on the right edge to 
+find some slaves.  Throw a bomb at the mech warrior at the top.  Take the bridge 
+key, talk to the slave he'll give you a bomb.  Now leap left, insert the key 
+inside the slot.  A green bridge will take you across 3 screens; climb up the 
+edge and past your fellow Androthi.  Get up 2 ledges then climb up the right.  
+The guy gave the monster some sleeping pills!  Let fly bullets and receive a 
+potion w/ a hover bomb.  Kill the next monster then stand in front of the 
+machine.  It says fully operational.  Lets see if we can't fix this.  Crouch 
+down and roll a bomb then the machine explodes.  Head right then shoot one 
+bullet for the next monster.  Move upward on the brown elevator.
+
+Mine 3
+Shooting this machine turret is pointless so continue on.  At the bottom of the 
+waterfall is a potion.  Past the Androthi is a monster so send him away.  Don't 
+fall down the elevator shaft.  Bound over it then use the key.  In the middle of 
+the bridge, press up and receive a potion from the guy.  Activate the yellow 
+machine, take your key out then go back to the chasm.  Press down then when it 
+stops press down again.  Go right and let loose a bomb on the tech warrior.  
+Move directly left and pierce the monster.  Jump over the gray switch so a 
+turret doesn't come out then up the ladder and up the sides.  Ruin the next 
+monster and the other one.  Blast the wasp before it gets to you.  Climb up the 
+ledge across from the gun and blow him up.  Kill the purple guy and acquire 2 
+remote wasps.  Remember the room with 2 Androthi and a mech warrior?  Get back 
+there but be careful while climbing down.  Whip out a remote wasp and guide it 
+up then left to the force field machine.  Detonate it and enjoy the sparks.  
+Ride on the elevator to the area you went past to arrive down here.  Wrack the 
+two Graggs then open the bridge, bomb the door and destruct another Gragg.  
+Execute a running jump (if you went to practice you'd know how) across the pit.  
+Inside grab two hover bombs and chat with the guy.  Bend down to chalk up the 
+Levitator.  It acts as an extender when you press up on top of it.  Take your 
+bridge key again and ride the elevator to the top then go right.  Employ the 
+Levitator then reuse your bridge key.  Parley with the guy and secure a potion.
+Blast the Gragg then the Whar'ork.  Scurry up the elevator to meet another bum.
+
+Mine 4
+Shatter the Gragg, pick up the bomb then throw it at the Whar'ork in the next 
+screen for the key.  Escalate up then go down the bottom and inside the 
+waterfall, obtain a bridge key and a potion.  Execute a running jump to get to 
+the other side.  Try to jump over the spider, as it is explosive.  Activate the 
+bridge, mount up the overhangs.  You can just make it with a running leap, so 
+climb up.  Hop over both spider bombs and zip down the ladder.  Do away with the 
+brown monstrosity and take his hover bomb.  Dodge the next Gragg's shot and get 
+him, at the bottom let the Whar'ork have it.  Snatch the levitator, turn the 
+bridge back on and fare back to the beginning of this level.  Before your there 
+be sure to take the key out of the slot.  Drop the levitator on near the dead 
+guard and go inside the opening.  The Androthi guy gives you an upgrade to your 
+weapon!  Climb down slowly and use it to discover faster firing.  Keep cruising 
+left while jumping carefully to discover another Gragg.  Take his iron key and 
+the bridge key just in case.  Now advance right past the upgrade Androthi and 
+move down.  Use the iron key and fill the Gragg with lead and the next one.  
+Plunder his remote wasps then go in the middle of the waterfall.  Kill the Gragg 
+then progress right and down the elevator.  Hop over a stray spider then do away 
+with a Gragg for a bomb.  Throw it at the Whar'ork and take the iron key.  Go 
+back to the elevator and up past the waterfall.  Insert the key and it says 
+security fields functional.  Remedy that and get back to the waterfall, leap up 
+then perambulate on.  The wizard, Galadril will tell you some stuff then give 
+you speed, which increases your health.  Next is an interlude with that demon 
+king, Sarlac.
+
+
+4.
+-------------------------------------------------
+The Forest of Onehand
+-------------------------------------------------
+
+Tree 1
+Hmm, it's raining.  Stroll right in to fight a battle between the bad and good 
+Androthi.  Unless you step in, the bad one will win.  Go down a ladder and 
+receive a bomb.  In the next place help the Androthi kill the evil one and he'll 
+give you a potion.  Run all the way right and when you see the grass moving in 
+the air don't touch it.  It's a trap.  Shoot each of them, (there's three) and 
+make a running jump.  Kill some more plants and a remote wasp.  Go over to where 
+one of the plants where and step on the switch.  Travel left and upward.  Get an 
+iron key from the A. Advance to the ladder and use the key to turn off the force 
+field.  Run then past the spider the A. will hand over another potion.  If you 
+can get behind the bad A., just let fly bullets at them.  At the bottommost 
+place, you can get another bomb from the A.  Move back to the place where the 
+grass fell and drop.  Drop again then climb and blast the evil A., you don't 
+have to, it's optional.  Move left and near the Gragg to gain the Levitator.  
+Find the Purple Gragg, use the levitator for a boost and gain his remote wasps.  
+Get your levitator back and get to the blue force field.  Maneuver your wasp up, 
+then right, and then BOOM!  Grab the potion & wreck the fiend.  Stand at the 
+edge and let a firebomb loose.  Ride up into the next area.
+
+Tree 2
+Immediately draw your improved shotgun and terminate a traitor.  Next kill the 
+Gragg and get a firebomb.  Drop down and let them hit you.  Stand at the next 
+edge and let it fly.  Climb the ladder, take the potion and help the good A.  
+Help another good A. and move on.  Scrag the bad A. and the Gragg to get an iron 
+key.  While your up here, turn on the elevator.  Then descend the ladder for a 
+firebomb and back down the elevator and another ladder.  Go to where a blue 
+force field is.  Turn it off, pick up a firebomb and get into a furor on the bad 
+A.  Take the Gragg by surprise and hop over the spider trio.  On the elevator 
+draw your gun and slay yet another bad A.  To the left a good A., will fork over 
+an iron key.  Move back to the spiders and open the field and up the ladder we 
+go.  The Gragg will give up a levitator.  Left ward is a potion.  Past the 
+spiders and up another ladder is a Gragg with a bridge key.  Move down then 
+right until you find a wall holding 4 plant creatures.  Exercise the levitator 
+and use the bridge key up there.  Walk across and talk to a guy about some Seer.  
+Ascend on the elevator into another area.
+
+Tree 3
+Communicate with the A. for a bomb and pick up another bomb.  Climb up for a G 
+Vs. E battle and help the G for a potion.  On the wooden platform is a key.  
+Jump over and down past the spiders for a good old Gragg.  Take him out quick 
+then leap up right and butcher a bad A for a potion.  Up the ladder is another 
+one so send him to an early grave also.  Move left, and down hit the switch and 
+10 hits will destruct the turret.  Hit it again and climb up quick past the 
+barrier.  The bad A. hands over a firebomb.  Climb down and witness yet another 
+battle.  Down the ladder and ledges are some plant creatures so launch a 
+firebomb at them and obtain a levitator.  Journey to the beginning of the stage 
+and move right.  Use the levitator when you are at the wall.  Let the plants 
+have some fire and the fiend to the left holds a hover bomb.  Surmount up the 
+ladder to find a purple Gragg.  Blast him and take his remote wasps then get the 
+iron key on the ground.  A good A will give you a bridge key also.  Turn the 
+shield off and escalade on up.  Awaken the walkway and disregard the ladder.  
+Take the potion and a switch will reveal a turret.  9 hits will put it away and 
+5 more will put the bad A. away.  Up the ladder use the wasp to destroy the 
+security field.  Climb back up and put the last Gragg way then ride up.  
+
+Tree 4
+For starters, go up the ladder and assist the good A.  Climb up a ladder to view 
+a good A. shooting a Gragg.  Help him but a bad A is waiting in the wings.  
+Right will reveal a convention of bad guys.  Take out the bad A., then the wasp 
+then the purple Gragg.  His gun is upgraded to a machine gun so watch out.  He 
+yields two remote wasps so take them.  The good A on the left platform will give 
+a potion.  Now walk past where the bad A here was and see more battles going on.  
+You can help him or jog away.  Down the ladder and right get a firebomb from the 
+Gragg.  Travel left now to see some lightning.  The guy will give you a 
+levitator pad.  On the ladder side use a firebomb on the Venus flytraps, get 
+back to the place where an Androthi is high on a ledge.  Use the levitator to 
+assist up there and grab a bridge key.  Move to the beginning then when you see 
+the ladder next to two ladders move left then down.  Destruct the four plants 
+and the turret.  Sneak attack on the bad A and blow up the security machine.  
+Get back to the first group of plants and turn on the switch then bolt past it.  
+Actify the bridge and blast a bad A.  In the middle of the bridge drop the 
+levitator and rise to get an iron key.  Use his firebomb on the plants and 
+destruct the turret.  There is another turret and a good guy will stop you and 
+give you an upgrade that you saw earlier.  It's automatic!  Put it to use in the 
+next screen then open the shield with the iron.  A new blue Gragg that has the 
+same weapon wants to fight.  Finish him off then hop across the pillars for a 
+potion.  Up there is another advanced Gragg.  Drop down then lay down the 
+levitator to scurry up.  You finally meet the mysterious Seer, Onehand.  She 
+tells you some vital information.
+
+
+5.
+-------------------------------------------------
+The Wastelands of Thoros
+-------------------------------------------------
+
+Wasteland 1
+Match guns with the blue Gragg and another one after him.  Move cautiously down 
+the platforms and destroy the plants.  Back up and a guy will hand over a bomb.  
+Down where the plants were open it up and the rock creature will reveal itself.  
+Throw the bomb you just obtained and receive a bridge key.  Advance up then 
+right and activize the bridge.  Run past the rock monster and if you want to 
+waste health on the blue duo that's fine.  Fare right past another pit of plants 
+and a brown Gragg.  Leap up and past the spider inside the hole.  Blast another 
+duo of dastardly demons (pun) and get two firebombs.  Shoot the plants with your 
+gun.  When you see the blue shield, climb up the edge then another.  Annihilate 
+the rock monster for an iron key then go back down and shut it off.  Dash past 
+another rock man and climb down.  Throw a firebomb at the plants, and then head 
+right.  Bash the turret then project another firebomb to shatter the security 
+systems.  Then escalade up the escalator.
+
+Wasteland 2
+Take care to expel the Gragg carefully and gain a firebomb.  Hop up past the 
+Gragg and a rock monster then another rock monster then down and in the orifice.  
+Inside the orifice a good guy will give a bridge key.  Start up a conflagration 
+using the Venus flytraps for fuel.  Leave then keep jogging left and use your 
+key.  The good guy will give a potion so use it.  Dispatch the rock monster for 
+an iron key.  In the middle climb up the ladder and run left for a levitator 
+pad.  Run right and leap over the hole and shoot the Gragg for two firebombs.  
+Now back to the hole you leaped over and drop down.  Head right and over the 
+spider for a potion then blaze the flytraps.  Turn on the gray switch and head 
+left posthaste.  Bound down the right side and step on the switch for a potion 
+and a turret.  Just hold down the fire button on both turrets.  Move up and 
+demolish the Gragg for a hover bomb.  Fall down off the falling wire and press B 
+to the left.  Raze the plants and step on the switch.  Climb up quick and 
+annihilate both rock monsters.  Let down your levitator and use it as a boost up 
+to the ladder.  Snatch the potion and insert your iron key.  Do away with both 
+Graggs for a firebomb.  Go in the hole then leap, and drop down to the second 
+platform and go left.  Move down then launch a firebomb on all five flytraps.  
+After this is another showdown with two more Graggs, one holds a firebomb.  
+Climb down off the end and pick up a hover bomb.  If you want another firebomb 
+make the jump across and down the ladder.  But if you want to leave before you 
+jump across for the ladder drop down and pull up.  Destroy some more flytraps 
+and loose your hover bomb on the security machine.  Twiddle your thumbs on the 
+long ride up.
+
+Wasteland 3   
+All the way right under some flytraps is a potion.  Climb up then up then cancel 
+both Graggs.  Take the firebombs then make a running jump onto the left 
+platform.  Walk onto the switch to lift the solid block.  Throw a firebomb onto 
+the plant you see with some gifts.  You get a potion + iron key.  Wow those 
+plants kill even Graggs.  Don't waste a firebomb on the next plant, just go down 
+and an Androthi will give an I. key he found.  Use it in the hole as a shortcut.  
+To make this next part be quick, step on the gray switch then run over the 
+flytraps and make the leap.  Un-melt the rock monster and to the right there's a 
+potion.  Crash the Gragg party and massacre them.  Aim at the plants across from 
+you and butcher them.  Blow the wasp up and run past the rock monster for an 
+elixir.  There's nowhere else to go so crest the ladder.  At the edge of the 
+platform you're on, press B.  Annihilate the Graggs + flytraps.  Climb down for 
+another Gragg and bound over the plants.  Drop then fire on the flytraps.  Stir 
+the switch and the elevator comes down.  A cheap trick for slaying the Graggs is 
+shoot one then when they dodge move down then up.  It works so hey ;)  Wreck the 
+rock monster for a bridge key.  Now head ALL THE WAY back to the beginning and 
+turn the bridge on.  But, before you do that head up on the ladder in the center 
+and use the wasp to ruin the security machine.  Then get to the bridge and move 
+past.  Put the Gragg to sleep and waste everything up if you feel like it.  
+Surmount up the elevator.
+
+Wasteland 4
+Put a stop to this constant Gragg partying.  When that's done, go up the ladder 
+and the left side.  An Androthi will give a newer gun.  It's loud and more 
+powerful than ever!  Then get to where you saw grooves on the wall and hop them 
+and run across all the screens.  Inside the opening kill the Gragg, then a rock 
+monster, then a wasp, and a purple Gragg for some wasps.  Step on the switch and 
+dash there for a potion and get back out.  Cruise to the beginning and right.  
+Make the jump, because if you don't there are some flytraps willing to catch 
+you.  Shoot the miscreation with your improved gun then leap across the plants 
+for a firebomb.  Next is a mammoth convention, it's your job to clear it out.  
+Set fire to the flytraps and take the potion.  Drop down to the bottom ledge and 
+run jump over to the elevator.  Go up and see a lot of Graggs.  Deprive them of 
+life one by one; you get an iron key and firebomb.  Now return to the beginning 
+and head left now.  Burst the flytraps and whip out your trust wasps.  Destroy 
+the 'fully functional' security machine and clamber up to the top.  Clamber back 
+down to the bottom and switch on the switch.  Make the giant walk to the center 
+and shin the ladder.  Scramble up then left and down the elevator.  Smash all 
+the rock monsters and obtain a levitator.  Then before you get to the center, go 
+right and up two ladders.  Use up your iron key then jump across all the ledges 
+to reach the gray switch.  Put on your expeditious boots and bolt all the way to 
+the machine, which is left of the iron key slot.  Blow it up then get up there 
+where the blue shield used to be.  Dodge the seven spiders or use a wasp to 
+clear them.  Go in another orifice then use the levitator at the base of the 
+wall.  Climb down more ledges carefully then cruise until you reach the giant 
+statue of Thoros.  He tells you his accomplishments and you get a power upgrade.
+
+
+5.
+-------------------------------------------------
+The High Tower of Sarlac
+-------------------------------------------------
+
+Tower 1
+The Androthi tells you where Sarlac is to be found.  Shoot the plants then the 
+turret.  Lift yourself up and to the right is an improved Gragg.  Take his 
+bridge key then get back up there.  Now move right and ruin the stronger rock 
+monster.  Turn the bridge on then fight a bad A. on top of the ladder.  Obtain a 
+firebomb from the good one.  Now jump right and kill another bad A. for another 
+firebomb.  Now climb down the ladder and step on the gray switch across from the 
+block.  Step on it, then run left and take your key out of the slot, and get 
+back to the gray switch.  Climb back up then advance right which holds a Gragg 
+with an iron key.  Actify the bridge to grab it.  Jog back across and take your 
+key just in case.  Past the fading blue shields and the rock monster is an iron 
+switch.  Relax on the two elevators then do away with two Graggs.  To the right 
+are two rock monsters then another one.  Crouch down and shoot the wasp then 
+unleash a firebomb on the flytraps and if you have good timing the Graggs.  On 
+the bottom to the right is an invisible cavern.  When you're over the potion 
+take it and use it.  Grab the iron key that the Graggs drop and move hastily to 
+the ladder.  Use your b key and see that the A has killed a Gragg.  Get his 
+levitator pad then move down.  Throw a firebomb on the plants and destruct the 
+turret if you want, then kill another bad A.  Use the levitator here on the 
+platform.  Upwards is a rock monster and remote wasp.  Let yourself be hit 
+unless you are skilled.  Take the purple monster's wasps rapaciously then use 
+them back at the security terminal.  Use the levitator one last time then rise 
+to the next place.
+
+Tower 2
+Fire at the rock monster since he can't reach you.  Shoot another rock monster 
+from a distance, if you want take care of the turret. Then go up then left.  
+Stifle both Graggs then make a running leap.  Activate the escalator then use 
+that to get a firebomb.  Use that cheap trick abovementioned (wasteland 3) on 
+the bandersnatch and take his levitator.  Step on the gray switch by the turret 
+and head up the elevator again and go right.  Shoot the wasp then the Gragg for 
+two wasps.  Fall down the hole and weed out the plants.  Take the Gragg's bridge 
+key then fare left for a potion.  Use the levitator where the turret is (was) 
+and move on.  When you're on the spider platform leap up then take care of the 
+turret.  Leap up and finish the miscreation for a firebomb.  Awaken the green 
+walkway and surmount the ladder.  The A will hand over an I key and use a wasp 
+for the security machine.  Move down past the spider infested platforms and work 
+the I. key.  Rise up and melt down the rock monster for a firebomb.  Dispatch 
+the Gragg and hop over the plants.  Use your firebomb on the flytraps and scrag 
+the magma monster.  Across the spider-mine and fading shield is a Gragg.  Run 
+across the fading shield and exit.
+
+Tower 3
+Dodge the spider-mines, when you get to the turret, destroy it while dodging.  
+Crest up and melt the lava monster.  Hurdle across the hole and get a bridge 
+key, which makes a turret come down.  Left and up the ladder slay the Gragg and 
+see out the window, which is where Sarlac is.  Make a leap to the left and open 
+the bridge.  Up the ladder, and past the blue shields a fellow good guy gives an 
+I. Key.  Take your bridge key out and drop down.  Deprive the lava monster and 
+the plants of life and acquire a levitator.  Fare to where the blue shields 
+were, then use the levitator to reach up there.  After the magma monster and 
+brown monstrosity are gone, snatch his iron key.  Travel to where the window 
+was, then use up the I. Key.  Ruin the turret and collect the wasp.  Use your 
+levitator for the last time to put away the magma monster.  Before you kill the 
+Gragg, left of the spider-mine is a; hover bomb, potion and firebomb.  Then, 
+deprive the next two Graggs of life.  Then across from the lava monster, shoot 
+at him safely.  Turn on the switch then fare to the elevator.  Operate the blue 
+shield and up you go.  Use the next brown guy's gray pad to leap across and 
+scramble the ledges.  Shoot the next brown guy then up the ladder.  Re-use your 
+bridge key then throw your hover bomb at him.  Guide your wasp up to the 
+security machine and ka-BANG!  Walk right past there and actify the escalator, 
+then escalate.
+
+Tower 4
+Escalate right up to meet a lava monster.  Introduce yourself then move on.  
+Smite the bad Androthi when the shield goes down and take care of the Gragg too.  
+Mince the lava monster then hop over the spider-mine to meet another bad A.  
+Make the running leap well timed then shred the Gragg.  Another running leap 
+will make you kill another A. for an I. Key.  Bound across to grab a potion, 
+you'll need it.  Down the hangs is another bad A. with an attitude (firebomb).  
+Down the ladder we go to use our iron key.  Then we talk to both Androthi to 
+obtain a levitator pad.  Up the ladder then press down two times to face two 
+magma men with some spider-mines.  Leap up then up again and left.  Past the 
+spiders step on the gray switch then get back to the gray block.  Bomb the 
+plants and maneuver past the blue shields.  On top of the turret switch is an I. 
+Key.  Run right all the way to the elevator you came down on and go up.  Turn 
+off the blue shield then run all the way back where you got the I. Key.  One hit 
+from your gun destroys the security machine.  Alternate between each Androthi 
+and then get rid of the rock monster and take his bridge key.  Use it back where 
+the iron switch was, then use the levitator to reach the bad Androthi, who has 
+nothing at all.  Stand behind the ladder where he can't touch you and discharge 
+power bullets.  Raze the whole multitude of minions then some more and up the 
+ladder is another turret.  A combination of a rock man, Androthi and Gragg is 
+there.  There are 6 ways to kill them so take your time.  Go back and step on 
+the switch to gain access to Galadril, who says it is time to fight Sarlac.  You 
+receive a health upgrade and he sends you here.
+
+FINAL BATTLE - SARLAC
+Considering you have to shoot him 25 times this battle is hard.  You have to 
+back up Blackthorne's words by showing prowess and skill.  That's the source of 
+his strength right there, the purple Dark Stone.  Shoot him immediately then 
+roll away.  When he puts his hands together, either roll away or dodge it.  His 
+attacks consist of thrashing you, throwing firebombs out of the sky, making 
+energy come out of the ground, and shooting a bomb at you.  When the energy 
+comes out just roll around randomly.  Every time he speeds around the room, 
+immediately shoot then withdraw.  Sometimes he'll do one right after another so 
+be on guard.  Keep using this strategy until he dies.  I killed him with 1 arrow 
+left!  The ending is short but well suitable for me anyways.
+
+7.  Gracias
+
+Thanks to:
+
+Dallas - For giving the place to find ASCII art - http://dallastm.cjb.net
+
+Crazy Bone X - for providing me with the story ;0
+
+Myself - For writing such a thorough and complete FAQ
+
+You - For reading my thorough and complete FAQ
+
+http://www.m-w.com - Their Thesaurus is excellent
+
+Last Updated On:  May 13, 2001
+
