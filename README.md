@@ -6,7 +6,7 @@ To use it simply copy and paste the below to the bottom of your downloader.ini f
 
 ```ini
 [ajgowans/faqs]
-db_url = https://raw.githubusercontent.com/ajgowans/faqs.json.zip
+db_url = https://raw.githubusercontent.com/ajgowans/faqs/db/db.json.zip
 ```
 
 NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
