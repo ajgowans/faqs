@@ -1,0 +1,221 @@
+
+
+FAQ and Strategy Guide by Darrin (ForceXDistance)
+Copyright 2011
+
+Ninja Gaiden
+Atari Lynx
+
+-----------------------------------------------------------------------------
+
+Obligatory standard boiler-plate disclaimer: This walkthrough may not be 
+reproduced under any circumstances except for personal, private use. It may 
+not be placed on any web site or otherwise distributed publicly without 
+advance written permission. Use of this guide on any other web site or as a 
+part of any public display is strictly prohibited, and a violation of 
+copyright.
+
+-----------------------------------------------------------------------------
+
+Ninja Gaiden is one of the very best games on the Atari Lynx (see my review 
+which is also on gamefaqs.com). The formula for success in this game includes 
+both skill and also a modicum of luck. Like some of the Mega Man games, items 
+are randomized. This means that breakable objects can contain any of the 
+following at any time (where the free-life is probably the most beneficial). 
+The sword is also very useful.
+
+Red jewel    (points)
+Blue box      (one health unit)
+Red box        (full health)
+Sword          (long-lasting weapon)
+Clock           (adds more time to the clock)
+Free-life        (adds another life in reserve)
+
+
+-----------------------------------------------------------------------------
+
+Controls:
+
+B                   (attack)
+A                   (jump)
+Option 1         (grab onto rails/lights)
+Control pad     (moves character in 8 directions)
+A + B             (throw)
+
+
+------------------------------------------------------------------------------
+
+Breakable objects:
+
+boxes
+
+phone booths
+
+tables
+
+gas-cans
+
+etc.
+
+------------------------------------------------------------------------------
+
+Enemies:
+
+
+Disgruntled hockey players and/or Quiet Riot fans: 
+
+These guys are common thugsyou will see in the game (who all apparently shop
+at the same store fore red t-shirts). They often attack in groups. Don't 
+try to hug them, because they are not receptive to the "hug a thug" program. 
+Just "Bang their Heads" before they turn your "condition critical." 
+
+
+Ninjas: 
+
+These guys come in a variety of different colors. They don't take many hits, 
+but their offensive game is nothing to take lightly.  
+
+Big dudes with logs: 
+
+These guys can be dangerous and can knock you off your feet. Try to yell 
+"uncle" before they yell "timber." Or maybe just beat them to the punch :)  
+It's best to bait them by standing under him, and than stay put until they 
+come. Punch before he swings. Don't confront him when he is standing on the 
+same horizontal plane.  
+
+Sumo wrestler (boss 1): 
+
+He likes to do a little dance as he comes out the door. He calls for backup 
+and will not fight you alone. Show him who is the real "first boss." This is
+the only boss who does not make a second appearance on stage 4.
+
+Blade brothers (boss2): 
+
+These guys try to trick you into thinking you are only fighting one super tall 
+dude. The sheet comes off and you will see the three dudes come at you. I am
+not sure who they think they are fooling, because pound for pound fighting one
+super tall dude is the same as fighting three little dudes. At any rate,
+these guys are obviously Edward Scissor Hands fans. These gentlemen make 
+another appearance on stage 4 and are even tougher. 
+
+Tag-team Wrastlers (boss 3): 
+
+These two guys (level 3 boss) also try to trick you by making you 
+think they are just part of the background. They jump out of the poster in the 
+background. These guys are obviously "poster boys" for the "keep wrestling 
+real" advocacy group. These guys also make another appearance on stage 4.
+
+Swordsman (boss 4): 
+
+Ironically, this iron-clad soldier may actually be the easiest boss to beat. 
+He is huge and has swords, and forgot to schedule some henchmen to protect 
+him.Before telling him to "pick on someone his own size" show him that you 
+mean business. As per usual protocol, bait him by standing under him and 
+punch or swing your sword. You can also try standing over him, and just 
+time it and punch him as he stands up.  
+
+---------------------------------------------------------------------------
+
+Strategies: 
+
+Below are strategies which can minimize your damage, earn extra guys, or 
+increase your offensive game. Since fighting games rely less on platform 
+jumping and more  on enemy strategy, I will delineate general strategies 
+which can more or less be used on any stage (in more or less general 
+terms). These strategies appear below.
+
+
+Part 1:  The enemy of my enemy is my friend (which in this case brings 
+it back to  me)
+
+When fighting most enemies, it helps to post above or below them and start 
+punching/kicking until the enemies walk into your barrage of attacks. The 
+enemies generally become tougher/smarter in later levels. If a group of 
+enemies knock you down, jump and throw while you are still 
+blinking/invincible. With practice, you can actually throw multiple enemies 
+at the same time by hitting the attack button multiple times!! If you find 
+the swords, you can really do some massive damage on enemies, and it appears 
+that the  red sword powerups are cumalative and can add to the existing 
+sword reserve. 
+
+
+Part 2: Crashing, smashing, and/or thrashing
+
+
+Items are very important in this game. Whenever you see a breakable object, 
+position yourself in a way where you can attack or throw an enemy into it. 
+Sometimes it also works to let them knock you into it (just don't make a 
+habit of it!). Free lives are the best prizes, followed by full health and 
+swords. Try not to die right before you can touch a red full health powerup! 
+That is a nasty feeling. As far as I know the gas cans do not contain 
+powerups and do not seem to harm enemies either when they walk into the 
+fire. The game is easier if you are able to accumulate lots of extra lives. 
+If you touch a breakable object you will do a backflip, which I have not 
+found to be too incredibly useful.
+
+
+Part 3: Run out of options? Try the Lynx's "option 1"!
+
+
+Using "option 1," you can grab onto the street-lights and certain rails in 
+this game. When you grab them, you can do a cool and useful kick attack 
+which knocks enemies over in one hit. This does not seem to work all that 
+well on the loggers though (or later-stage enemies). You can travel 
+hand-over-hand on the rails on stage one after grabbing them (don't fall 
+into the hole and remember to hit option 1). Just as with the street lights, 
+you can do your kick-attack while traveling hand-over-hand on the rails.
+
+
+Part 4: Who's The Boss when Tony Danza is nowhere to be found? 
+
+The bosses in this game were briefly discussed. Below is som further info
+on beating these big guys.
+
+Stage 1 sumo-wrestler: it is useful to throw this dude into a breakable object 
+(when blinking), sword him, or simply punch/kick him as per usual.
+
+Stage 2 blade-brothers: it is useful to throw these guys (especially after you 
+get up and are blinking). Punching/kicking them can work, but it takes longer 
+because each hit can make them fly around in a dangerous scissor attack. You 
+will fight these guys again on stage 4, and DO NOT let them hit you with their 
+claws! They do massive damage. They must have traded in their generic claws for 
+name-brand ones!  Again, bait them so you can throw them, and especially on 
+the second encounter, get them into a clump, and throw them all!
+
+Stage 3 wrestlers: it is useful to stand below/above them and let them walk 
+into your punches/kicks as per usual. It might behoove you to throw them into a 
+breakable object (particularly while blinking with invincibility). Give them a  
+break..............particularily on their bones. Rinse and repeat when you
+fight them again on stage 4.
+
+Stage 4 swordsman: it is useful to stand above/below him and let him walk into 
+your punches/kicks. This guy fights you alone and shouldn't pose too much 
+trouble. Take a break by breaking his face (as a nice ice-breaker to this 
+new-found relationship).
+
+
+Part 5: I've been workin' on the railroad all the live-long day.............
+
+There are lots of enemies on stage three. Later in the stage there is a 
+section where you can only walk on a narrow railroad. I have found it helpful 
+to keep the screen scrolling by walking right as much as possible. When there 
+is safe ground below near the end, I have found it useful to literally throw 
+the enemies overboard into the hole on the left. Just be careful you don't go 
+over-board yourself. Again, throwing is easiest after you get up and are still 
+blinking. Also remember to throw multiple enemies at the same time if possible.
+
+------------------------------------------------------------------------------
+Ending:
+
+The ending is similar to any of the other end-of-stage victory screens that 
+appear after each level completion. The last one shows Ryu sitting at a bar 
+gazing at his shiny new gold belt as the words "End of Game" appear on the 
+screen to a fun little victory tune. Savor the moment. Unlike some lynx games, 
+the ending isn'too bad.  
+
+What a game....................  :)  
+
+
+
+
+

@@ -1,0 +1,1054 @@
+                                                                    
+      ,-- .      ____                                        _     .----.
+   .`      \___ / ___|  ___ _ __ ___   ___ _  __ __  _ __ __| | __/       `.
+  '             \___ \ / __| '__/   \ / _ \ \/ /   \  '__/ _  |             .
+ |               ___) | (__| |  | '  | (_) |  /| '  | |  |(_) |             /
+  \             |____/ \___|_|  \__\_|  __// / \__\_|_|  \__._|           .`
+   .                            ___  |_|  /_/                            /
+    >                          |   \  ___   ___                          \ 
+  .`                           | |\ |/ _ \ /   \                          `.
+ {                             | |/ | (_) |  -  |                          |
+  \         __________________ |___/ \___/ \__  | _________________        /
+   .       /                               |___/                   \      .
+    ` .__.`                                                         '.__.`
+
+
+          ***********************************************************
+          |                                                         |
+          |             SCRAPYARD DOG - FAQ / WALKTHROUGH           |
+          |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+          |                                                         |
+          |                                                         |
+          |                      ~ GAME INFO ~                      |
+          |                                                         |
+          |                  Title: Scrapyard Dog                   |
+          |                  Platform: Atari Lynx                   |
+          |       Developer: Creative Software Designs, Inc.        |
+          |                    Publisher: Atari                     |
+          |                     Released: 1991                      |
+          |                                                         |
+          |                                                         |
+          |                    ~ DOCUMENT INFO ~                    |
+          |                                                         |
+          |                      Version: 0.62                      |
+          |              First Created on: 13-Oct-2001              |
+          |              Last Updated on: 15-Jul-2005               |
+          |                Created By: Richard Kerr                 |
+          |               Email: hridjad@hotmail.com                |
+          |                                                         |
+          ***********************************************************
+
+
+              Contents:
+
+                 I. Introduction............................ INTD
+                II. Current Version......................... UPDT
+               III. Story................................... STRY
+                IV. Controls & the Status Bar............... CNTL
+                 V. Items................................... ITMS
+                VI. Baddies................................. BDDS
+               VII. Secret Rooms............................ MNGM (incomplete)
+              VIII. Level Warps............................. LVWP (incomplete)
+                IX. Shops................................... SHPS (incomplete)
+                 X. Scoring................................. SCRN
+                XI. Hints and Tips.......................... HNTP
+               XII. Walkthrough............................. WLKH
+                     World 1: Junkyard...................... JNKD
+                     World 2: City.......................... 2CTY
+                     World 3: Forest........................ FRST
+                     World 4: Mountain...................... MTNS (incomplete)
+                     World 5: Desert........................ DSRT (incomplete)
+                     World 6: Ice........................... ICEY (incomplete)
+                     World 7: Castle........................ BOSS (incomplete)
+              XIII. Credits................................. CRDT
+               XIV. Copyright Info.......................... CPRT
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  I. INTRODUCTION  >~~~~~~~~~~~~~~~~~~~~~~INTD~|
++=============================================================================+
+
+Hey, this is my first FAQ. Why are you reading it? This game is feckin awesome;
+its what I was playing when everyone else was playing Mario Bros. I only know 
+one other person who used to play this game. Well I can't think of anything 
+else to say right now except, enjoy.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~<  II. CURRENT VERSION  >~~~~~~~~~~~~~~~~~~~~~UPDT~|
++=============================================================================+
+
+Version 0.62
+
+First public release. The first three worlds are complete. A few small things 
+still need to be finished in the Secret Warps, Shops and Level Warps sections. 
+If there is anything that I have missed in the first three levels which I have 
+finished, please let me know and it will be included and credited.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  III. STORY  >~~~~~~~~~~~~~~~~~~~~~~~~~STRY~|
++=============================================================================+
+
+Louie the scrapyard guy had just sat down to eat his lunch; a foot long head-
+cheese sandwich with tons of mustard, six garlic pickles, a two-pound bag of 
+potato chips and a diet soft drink, (the diet soft drink was because Louie was 
+watching his weight - nobody likes a fat junkyard guy), when the bad-ass 
+gangster - Mr. Big (a lot of thought must have gone into that name), blasted 
+his way into the yard and poochnapped Scraps, the lovable scrapyard dog. Boy 
+was Louie mad, madder than a bear with its balls caught in a dog trap! Not only 
+did Mr. Big purloin the Puppy, he knocked Louie's Headcheese sandwich into the 
+dirt. Mr. Big wants the deed to the scrapyard (for some reason), but Louie 
+wasn't going to give it to him that easy, and armed with a bunch of old cans he 
+sets out for bloody vengeance, nobody gets away with ruining Louie's headchese 
+sandwich, NOBODY!! Oh yeah; and he wants his dog back too, I guess.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~<  IV. CONTROLS & THE STATUS BAR  >~~~~~~~~~~~~~~~~CNTL~|
++=============================================================================+
+
+
+                                  /~~~~~~~~~~\
+>--------------------------------<  CONTROLS  >-------------------------------<
+                                  \~~~~~~~~~~/
+
+Left:  Move left
+
+Right: Move right
+
+Up:    Look forward. This could also be seen as the 'action' button; as you use 
+       it to press buttons as well as knock on doors, enter/exit rooms and get 
+       hidden items.
+
+Down:  Crouch/duck. This can be used to dodge projectiles as well as enter
+       areas that you must go down into or have small entrances/exits and 
+       getting hidden items and showing secret warp doors.
+
+A:     Jump. If you press A while running your jump will be longer and higher
+
+B:     Throw can/use weapon
+
+If you have a weapon, use Option 1 & Option 2 use your default weapon (a can).
+
+
+                                 /~~~~~~~~~~~~\
+>-------------------------------<  STATUS BAR  >------------------------------<
+                                 \~~~~~~~~~~~~/
+
+
+                                Weapon Ammo.
+                                    or
+                    Time   Money  Boss HP   Shields    Score
+                     _|_    _|_    ___|__    _|      ____|___
+                    /   \  /   \  /      \  /  \    /        \
+                  ---------------------------------------------
+ Status Bar -->   | O ###  O ###  O     ##  O ##    ##########|
+                  ---------------------------------------------
+
+
+The status bar is the blue bar across the top of the screen
+
+Time:        For most levels you usually have 300 seconds to complete. If the 
+             time counts down to 0 its "Time Up" and you loose a life and have 
+             to start the level again.
+
+Money:       This shows the amount of money you currently have (you get $1 for 
+             the green money bags and $5 for the red ones).
+
+Weapon Ammo: shows how many shots you have in the weapon you've got, if you
+             have one (cans don't count as a weapon, because you have an 
+             infinite amount). The weapon icon shows the type of weapon you 
+             have.
+
+Boss HP:     {Note: If your fighting the boss, this always replaces the weapon
+             ammo and icon. When you fight the boss, you have to fight him with 
+             the weapon given to you and it always has infinite ammo like the 
+             cans, (but don't worry about loosing the weapon you previously 
+             bought, you still keep your weapon for the next world).}
+             The number shows how much life the boss has (HP), and therefore 
+             how many hits it will take to kill him. The HP is also shown in 
+             this little green bar (where the weapon icon normally is), this is 
+             the bosses life bar, which obviously gets smaller as you hurt him, 
+             when it is red you know he is almost read. 
+
+Score:       And this is you total score. Who would have thought. Check out 
+             what gives you points in the scoring section.
+
+At the start of a level and when you pause is a picture of Louie which equals a 
+certain number, this number being how many lives you have left. There is also 
+the name of the world you are in and the level number.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  V. ITEMS  >~~~~~~~~~~~~~~~~~~~~~~~~~~ITMS~|
++=============================================================================+
+
+$1 Money Bag:  Awards one dollar
+
+$5 Money Bag:  Awards five dollars
+
+Time:          Adds 30 seconds to your time remaining
+
+Shield:        Allows Louie to get hit once without losing a life (You can hold 
+               and maximum of 9)
+
+Gun:           With a gun, Louie can shoot bullets
+
+Stun Gun:      Freezes everything for about 5 seconds, and nothing can hurt 
+you,
+               (the best weapon).
+
+Ice Gun:       Shoots out blocks of ice which you can use as stepping stones 
+               across dangerous areas (ie lakes)
+
+Flamethrower:  Shoots a stream of fire
+
+Tri-Laser:     Fires triple laser beams diagonally, up, down and straight ahead
+
+Bomb:          Destroys everything on the screen
+
+Armor:         Gives Louie a shield at the beginning of each life
+
+Invincibility: Makes Louie invulnerable for 10 seconds
+
+Small Louie:   He cant use weapons but can still jump as high. Use him to get 
+               through small gaps and those red doors. If you get hit you go 
+               back to normal louie
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  VI. BADDIES >~~~~~~~~~~~~~~~~~~~~~~~~~~BDDS~|
++=============================================================================+
+
+Here's all those crazy misfits workin' for Mr. Big, in order of appearance:
+
+Birds:        They come in red, green, blue or black. These annoying birds
+              manage to squeeze out and snap off great big cannon-ball sized 
+              crap as they fly past you. And it hurts Louie, especially his 
+              feelings. You can take them out with one crappy can.
+
+Rat Henchmen: These stupid rats just mindlessly walk around, totally oblivious 
+              to everything around them, but don't overlook these disease 
+              ridden rodents, if you touch them they'll bite you and give you 
+              rabies. But other then that they are weak as piss and one can 
+              will send them straight to rat hell.
+
+Dog Henchmen: These guys have a gun which they shoot every couple of seconds. 
+              They either just stand there or walk around (they are very smart; 
+              if they walk into the edge of the screen they will turn back 
+              around so WATCH OUT!!) If your facing one, just duck to dodge 
+              their bullets and take them out. They jump when you use your 
+              weapon (that is unless you have a stun gun), so don't let them 
+              jump into you when they are walking around. Two cans will put 
+              these dumb mutts away.
+
+Cats:         They are black and white but act no different. These cats may 
+              look all friendly and stuff, but don't be fooled; they ain't 
+              pussies. They jump down if you go to close to them. One can will 
+              put 'em in their place. Also, they won't jump if your above them.
+
+Snakes:       They will just slither along, sometimes back and forth. They wont 
+              do anything except get in your way, so kill 'em with a can.
+
+Rabbits:      They pop their heads up out of holes in the ground and after a 
+              few seconds will jump whichever way they're facing, and continue 
+              jumping so don't ignore them. One can will get you some rabbit 
+              stew.
+
+Bees:         Bees hang in a group around a bee hive, they are impervious to 
+              cans and other weapons (except for the stun gun as far as I 
+              know), but a flame thrower will cook them up real good.
+
+Elves:        These little green s**** are small and fast and you'll know if 
+              they're around if you see any of their small houses. So watch out 
+              when your walking along the forest floor. Stop them in their 
+              tracks with one can.
+
+Fish:         Jump in and out of water, making it hard to get across. One can 
+              will kill them.
+
+Oxen:         If they see you they will charge at you, and for some reason if 
+              you throw two cans at them they die.
+
+Eagles:       These birds just sit there until you decide to use a weapon and 
+              then they will fly downwards. If this happens, stand back because 
+              they spread their wings. They're tough and can take two can.
+
+Bats:         Hanging from the ceiling, if you come close they will start 
+              flying downwards slowly, fluttering from left to right. Just kill 
+              them with a can.
+
+Bears:        Either brown grizzly or white polar bears, they just come running 
+              at you. You could try and peg them with two cans, but your just 
+              to jump over them.
+
+Ghosts:       They cant actually hurt you, and you cant hurt them, but if you 
+              touch them they will stun you for a moment, making you venerable 
+              to attack by other enemies. Ghosts basically just float around 
+              and be annoying.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~< VII. SECRET ROOMS >~~~~~~~~~~~~~~~~~~~~~~~MNGM~|
++=============================================================================+
+
+
+                                  /~~~~~~~~~~\
+>--------------------------------< MUSIC ROOM >-------------------------------<
+                                  \~~~~~~~~~~/
+
+These rooms are always in the big blue trash containers, and you enter and exit 
+through the top. This room just has this giant organ/piano thing which fills 
+the whole room, and the floor is simply 11 huge piano keys. There are five 
+small platforms above the piano keys, two of which have big red buttons with a 
+"P" for "play tune" on them. Press the button by pushing up to play a tune, and 
+then repeat the tune by jumping on the piano keys in the correct order. If the 
+keys are far apart, hold jump to jump higher and land on the platforms and then 
+back onto the keys. If you get the tune right, you get a prize!!! If you get it 
+wrong you have to push the "P" again and try again. If you get it right on the 
+first try, you get an extra 2500 points. Grab the notes that appear with each 
+correct key, for 50 points each. Further through the levels, the tunes get 
+HARDER, but the prizes get BETTER! So even if it takes you a few tries to get 
+it right, the lost time will usually be worth it.
+
+
+                                   /~~~~~~~~~\
+>---------------------------------< SEEK ROOM >-------------------------------<
+                                   \~~~~~~~~~/
+
+These rooms are awesome! They have a bunch of windows on the wall that open and 
+close continuously and some will have items. There are also a few enemies that 
+run around aimlessly (which get progressively harder with higher levels), but 
+you can always easily take them out by standing on a balcony above and 
+droppin' a couple of cans down to 'em. The items also get better the higher the 
+level, and just grab them when a window that has an item behind it opens (they 
+cant disappear either so there's no hurry). Then just knock on the door so the 
+doorman with a feet fetish can let you out.
+
+
+                                  /~~~~~~~~~~\
+>--------------------------------< GUESS ROOM >-------------------------------<
+                                  \~~~~~~~~~~/
+
+This room has five cans and an arrow will be above one of them, this is the can 
+with the prize. Push a butten to shuffle the cans, and watch where it goes. If 
+you then selects the can that had the arrow, you win the prize!! If you had you 
+eyes pecked out by crazy birds just as you went into this room, your off your 
+head or if you're a just a lazy bum who cant be bothered and wants to take the 
+easy way (I don't know how much easier it could get), here's the tables which 
+show where the arrow starts and where it will finish for each one in the game:
+
+  ----------------------   ----------------------   ----------------------
+  | WORLD 1 - LEVEL 2  |   | WORLD 2 - LEVEL 3  |   | WORLD 3 - LEVEL 2  |
+  ----------------------   ----------------------   ----------------------
+  | Start:   1 2 3 4 5 |   | Start:   1 2 3 4 5 |   | Start:   1 2 3 4 5 |
+  | Finish:  5 1 4 2 3 |   | Finish:  3 5 1 4 2 |   | Finish:  3 5 1 4 2 |
+  ----------------------   ----------------------   ----------------------
+
+  ----------------------   ----------------------   ----------------------
+  | WORLD 4 - LEVEL 1  |   | WORLD 6 - LEVEL 4  |    WORLD 7 - LEVEL 2   |
+  ----------------------   ----------------------   ----------------------
+  | Start:   1 2 3 4 5 |   | Start:   1 2 3 4 5 |   | Start:   1 2 3 4 5 |
+  | Finish:  2 4 5 3 1 |   | Finish:  5 3 4 1 2 |   | Finish:          5 |
+  ----------------------   ----------------------   ----------------------
+
+
+                                  /~~~~~~~~~~\
+>--------------------------------< BONUS ROOM >-------------------------------<
+                                  \~~~~~~~~~~/
+
+In the bonus room, you'll find a shelf with five boxes on it. To choose a box, 
+move the arrow to the box you want, push "A" and you get whatever is inside. 
+You can get either extra time, $5, $1, a life or a shield. The contents of each 
+box is totally random as far as I know, so sucked in you bunch of lazy bums.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~<  VIII. WORLD WARPS  >~~~~~~~~~~~~~~~~~~~~~~LVWP~|
++=============================================================================+
+
+                      _______________________________
+       ______________/___________________  ~Warp 3~  \
+      /  ~Warp 2~   /                    \            \
++----------+  +------+  +--------+  +----------+  +--------+  +-----+  +------+
+| Junkyard |  | City |  | Forest |  | Mountain |  | Desert |  | Ice |  |Castle|
++----------+  +------+  +--------+  +----------+  +--------+  +-----+  +------+
+      \_____________________/ \_________________________________/
+            ~Warp 1~                       ~Warp 4~
+
+
+This little map shows every world warp point in the game (well that I know of 
+anyway). For each warp you must be small (to get into the tiny warp door) and 
+they only take you to the beginning of each world. If you want to finish this 
+game as fast as possible, taking warp 1 and then warp 4 is the best route, 
+(this only means you won't have a very big score at the end).
+
+
+                         /~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+>-----------------------<  WARP 1: JUNKYARD TO FOREST  >----------------------<
+                         \~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
+
+For this warp, you must be in level 2 of Junkyard. Towards the beginning of the 
+level, where you jump over the two rolling barrels, stand on top of the pile of 
+tyres there and press down to enter the Guess Room (where you have to watch and 
+pick the can with the prize underneath) to become small Louie. The following 
+table shows where the arrow starts and where the prize ends up:
+
+            ----------------------
+            | Start:   1 2 3 4 5 |
+            | Finish:  5 1 4 2 3 |
+            ----------------------
+
+Now that your small you can get through the warp door. On the way, a little to 
+the right there's a tree, stand in front of it and press up to get an extra 
+life. Now make sure you don't get hit by anything because if you do your gonna 
+go back to your normal size and you cant get in that stupid door. Jump over 
+that henchman, and when you come to that clothesline with hub caps hangin on 
+it, jump up to the hub cap on the top line, second from the left and you should 
+get invincibility. Now run as far as you can, getting the money on the way, 
+until you get to that mouse trapped between the two cans, stand on the left can 
+(it's the third brown can you pass) and press down to get a shield. Now run 
+over to the right and stand on the toilet left of the office, face left and 
+press down for a second or so to make the red warp door appear (to the right of 
+the office). Now knock on the door and enter.
+
+
+                        /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+>----------------------<  WARP 2: JUNKYARD TO MOUNTAIN  >---------------------<
+                        \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
+
+In level 4 of Junkyard around the middle of the level is a tree with a bunch of 
+hub caps hanging on it. Jump up to the second hub cap from the right (towards 
+the middle) to turn into small Louie. From here run up to the big pile of 
+garbage to your right and jump up towards the centre of it (where the cave is) 
+and continue running forward to avoid the dog henchman walking underneath and 
+the cat which will jump from the top. When you come up to the tree press up in 
+front hole at the bottom of the tree trunk to make the red door appear on the 
+cloud to the right of the tree. Now quickly jump up to the blue barrel 
+underneath the cloud and jump up to it to knock on the door and enter.
+
+
+                           /~~~~~~~~~~~~~~~~~~~~~~~~\
+>-------------------------<  WARP 3: CITY TO DESERT  >---------------------<
+                           \~~~~~~~~~~~~~~~~~~~~~~~~/
+
+Right near the start of level 1 of the city, when you come up to Starke's Drug 
+Store, jump up to the top left window and press down (make sure the door to the 
+Ice Cream store is still on screen). Press up on the window cill to become 
+small Louie and then jump down to the Ice Cream shop door, (if you haven't 
+killed it already, watch out for the green bird which will fly past and crap on 
+the mail box). Press up on the door to make the red door appear right above the 
+you. Make your way up to the door and go through it to warp to world 5: Desert.
+
+
+                           /~~~~~~~~~~~~~~~~~~~~~~~\
+>-------------------------<  WARP 4: FOREST TO ICE  >-------------------------<
+                           \~~~~~~~~~~~~~~~~~~~~~~~/
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  IX. SHOPS >~~~~~~~~~~~~~~~~~~~~~~~~~~~SHPS~|
++=============================================================================+
+
+
+There are secret shops hidden throughout the game. It's the same old bloke that 
+runs each shop and he finds some interesting places to have them, I don't know 
+how much business he would be getting. Anyway, if you can find these shops, you 
+can put your money to good use. Each shop only sells one item, and you just 
+move the cursor to yes or no and press A, whether or not you want to buy the 
+item. The only item you won't find in any shops is invincibility.
+
+Time:          30 seconds for $10
+
+Shield:        $10 each
+
+Gun:           10 shots for $5
+
+Stun Gun:      5 shots for $10
+
+Flamethrower:  15 seconds for $15
+
+Tri-Laser:     15 shots for $20
+
+Bomb:          
+
+Armor:         
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~< X. SCORING >~~~~~~~~~~~~~~~~~~~~~~~~~~~SCRN~|
++=============================================================================+
+
+
+         Item                           Points
+
+Each second left at the end of a level     10
+Each note in Music Room                    50
+$1 money bag (green)                       50
+$5 money bag (red)                        100
+Time power-up                             250
+Shield power-up                          1000
+Invincible power-up                      1000
+Small power-up                           1000
+Life power-up                            2500
+Armor (music room only)                  1000
+Music room bonus (right on first try)    2500
+End of round bonus                       2500
+Collect a treasure chest item            2500
+
+
+Zapping a henchman is 1000; getting other enemies ranges from 50 
+to 1000 each.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~< X. HINTS N TIPS >~~~~~~~~~~~~~~~~~~~~~~~~HNTP~|
++=============================================================================+
+
+
+Get a FREE SHIELD! This only seems to work in the Junkyard on the first four 
+levels, but anyway, if you pause the game when the clock hits 299 and then 
+press B on the pause screen, you should get a free shield. You can only do it 
+once on each level.
+
+To do higher, further jumps, press jump while running. Even if you are in a 
+tight space and you have to jump to a place right above you, you can still get 
+maximum height by moving a little while jumping and then pressing left and 
+right as you go up to get extra height and mauver to where you want to land, 
+this technique is very useful so learn it. Also, if you want to do a small jump 
+(for example when dodging the cranes in the Junkyard) just tap A quickly, the 
+longer you hold it down the higher you'll jump.
+
+At the end of every level make sure you always get the note from Mr. Big (which 
+could be in the form of a letter, phone or just a note). This will give you an 
+extra 2500 points.
+
+Remember that all of the warps you do in a level (not world warps) are 2 way, 
+for example their may me money in the area of the warp so all you have to do is 
+warp there and back to grab the money more than once. You can also this with 
+shops etc.
+
+When you come to shops, don't waste your money buying everything because you 
+don't usually need it at all. The only things I recommend you buy is the stun 
+gun for the Ice and Castle level and shields. But I spose if you use the 
+walkthrough you'll have plenty of money and it wont hurt if you buy some just 
+to see what they do and have some fun with them.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~<  XII. WALKTHROUGH  >~~~~~~~~~~~~~~~~~~~~~~~WLKH~|
++=============================================================================+
+
+
+When the game starts, you'll see Scraps getting freaky licking Louie's huge 
+nose and one of Mr. Big's henchmen comes from behind and shoots Louie in the 
+head (the bullets just ricochet of Louies head cos he just seems wave his arms 
+for a second and then he's fine). The henchmen then swiftly scoops up Scraps 
+into his bag and takes off in a van, and somehow manages to leave the dogs 
+collar behind (for Louie to look at and get all angry and stuff). A note from 
+Mr. Big is left behind for Louie. Don't you reckon the back of his head looks 
+like an angry face?... but anyway.
+
+When reading this walkthrough, don't bother looking for hidden items and areas 
+yourself, I will tell you what doors to knock on and what parts to press up or 
+down on etc. I'm pretty sure I must have found very close to everything in this 
+game. But if you have found anything that I haven't mentioned here, let me know 
+and I will include it, credited to your name of course. Also, I wont mention 
+every enemy you come across, I expect you just to use your common sense and 
+dodge or kill them, this isn't a hard game.
+
+
+                             /~~~~~~~~~~~~~~~~~~~\                      
+>---------------------------<  WORLD 1: JUNKYARD  >----------------------< JNKD
+                             \~~~~~~~~~~~~~~~~~~~/                       
+
+_______________________________________
+##### Junkyard 1: From the Office #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"I've got the dog. Find us if you want to see him again. - Mr. Big"
+
+Turn around and grab that $1 bag on the bin. Now go right (right is the only 
+way your gonna go in this game), as you jump on the pile of cement bricks you 
+can hit the bird if you want and hit the mouse. Jump up through the center of 
+the "Keep Out" sign hangin' on the tree to get $5. Jump over the car, hit the 
+mouse and get the $1 bag. Now go forward, kill that mouse and jump up to the 
+center of the "No Trespasin" sign for $5. Now get on top of the same sign by 
+jumping off the flattened cars to the right (making sure you don't go forward 
+too much or you cant get back), and press down at the center of the sign for 30 
+seconds extra time. Go forward past the bird to the dog henchman with the gun, 
+stand next to the box in front of him (the bullets will go straight over your 
+head) and jump between shots to throw a can, two will kill him. In this box is 
+a shop (to get in press down on top of it) selling guns with 10 shots for $5. 
+The gun can kill dog henchmen with one shot, but it's not worth buying one. Now 
+go forward further, killing the bird and the mouse, under the crane going up 
+and down (don't touch this, it will kill you), and you will come to a large 
+blue trash container (you'll notice the word "TRASH" written on the side, its 
+all very complicated). Inside the trash container is a music room, the sequence 
+is piss easy, so get it right for a $5 bag and 30 seconds extra time. Further 
+along you'll come to a dog henchmen standing on a washing machine. Kill him and 
+enter the washing machine to find a shop selling shields for $10 each, you 
+should be able to afford 2 at this point. The $1 bag next to the washing 
+machine reappears each time you exit the shop, so if you wanted to you could 
+just keep going in an out of the shop grabbing the dollar until you can afford 
+another shield or more (but make sure you still have enough time left to finish 
+the level). Further on you'll find a mouse trapped between two piles of tyres, 
+kill the mouse and press down on the second pile of tyres for a $5 bag (watch 
+out for the bird which will land a crap right between the tyres). On past the 
+green car with the dog henchmen on top is the end of the level. Jump up to grab 
+the note on the pole for an extra 2500 points otherwise you could just walk 
+forward to finish the level, (if you want to reach the note make sure you don't 
+go to the edge of the screen or you'll automatically finish the level without 
+the extra points).
+
+_______________________________________
+##### Junkyard 2: Vehicle Section #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Piece of cake! Go on to the vehicle section."
+
+Jump onto the "Office" sign and jump straight up from the center of it for a $5 
+bag. Grab the $1 and $5 bags up on the trash pile, just jump on the little 
+platforms to reach them. When you come up to the crane, just tap jump quickly 
+when it goes up to do a small jump between the pile of crap and the crane. Past 
+the two rolling barrels you can go into the guess room down in the pile of 
+tyres to become tiny louie which you need if you want to warp straight to the 
+forest, (check Warp 1 in the World Warps section [STRY]). If you don't to do 
+the warp, its worth becoming tiny Louie anyway just to grab the heart in the 
+tree. Further on, in the trash container is a shop where you can buy some time 
+for $10. Jumping up to the hub cap on the top line, second from the left, will 
+get you invincible. Continue running forward, grabbing all $1 bags on the way 
+until you come to the mouse trapped between the two barrels (press down on the 
+left one for a shield). Further on you'll come to a rolling barrel followed by 
+a mouse, and then quickly duck as the dog henchmen walks toward you, to dodge 
+his bullets. Kill him and grab the letter on the post (it looks high up, but 
+you can reach it jumping from the ground).
+
+______________________________________
+##### Junkyard 3: Appliance Area #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Think you're pretty tough, huh? Try to get through the appliance area."
+
+Walk forward to grab the $1 bag and from there throw a couple of cans to kill 
+the dog henchmen just on the edge of the screen (he shouldn't have seen you 
+yet). Don't walk any further yet, jump onto the fence and press down on the 
+"Appliances" sign for a $5 bag. Now you can continue forward, and you'll soon 
+see the white cat sitting on the fence (if you come to close to it, it will 
+jump on you). You can either drop down and run straight under the cat (don't 
+worry, if you keep walking it will miss you when it jumps at you), or you can 
+jump in the air from the edge of the fence to hit it with a can. Hanging on the 
+fence where the cat was should be three hub caps, small jump up to the middle 
+one for a $1 bag. You'll then come up to another white cat on the next fence, 
+so just do what you did before (but watch out for the mouse). Do a small jump 
+over the pile of crap (make sure you don't jump on the fence, you can still 
+grab the $1 bag without doing so), and press up in front of the old fridge to 
+enter a shop selling a stun guns with 5 shots for $10 each (you don't really 
+need the stun for these early, easy levels, I would save my money to buy them 
+in the later levels where you can put it to good use in those tough parts). 
+Continue on past another cat, small jump over the rolling barrel (but again, 
+don't jump onto the fence). You'll see three hub caps on the fence above a 
+bush, small jump up to the left one for a shield. Walking across the cement 
+bricks, you will come up to anther trash container, go in to find a seek room 
+with a $5 and $1 bag. Now jump on the fence and take out the cat at the end. 
+Now make your way across the crap, jumping on the tyre, and make sure you watch 
+out for the dog henchmen at the end on the fence who can be annoying. Jump down 
+from the fence and take out the other dog henchmen on the ground. Press up on 
+the two doors in the trash pile for a $5 bag and a shield. Now just jump on the 
+tyre to grab the note from Mr. Big.
+
+__________________________________
+##### Junkyard 4: Junk Hills #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"The hills are alive... with my henchmen. Get through the junk hills and a 
+surprise awaits you."
+
+Press down on the "RECYCLE" sign for $5. Going forward, there's a bunch of 
+trash containters with different labels on them and you can use them to warp 
+around the area. The following diagram shows where the warps take you (you can 
+warp both ways):
+                                _____________________
+                               /                     \
+                      CANS   TIN   PAPER   GLASS   PLASTIC
+                        \___________________/
+
+In the trash container labled "PAPER" is a shop selling a gun with 10 shots for 
+$5 (you don't need it). When you pass the "GLASS" container, watch out for a 
+dog henchmen which will walk toward you shooting (and don't forget that they 
+also jump when you use a weapon). Also, when you Pass the "PLASTIC" container 
+on the small hill there is another dog hencmen which will come toward you. 
+Where you saw the last henchmen there should be two boxes, go into the firs one 
+to enter a Bonus Room. When you come out, jump onto the pole on the left. From 
+here jump onto the next pole on the right (watching when the dog henchmen on 
+the third pole shoots to avoid getting hit). Kill him and jump on the third 
+pole for a shield, and drop down on the left to avoid the pile of crap). You 
+will come up to a tree with a bunch of hub caps hangin' on it, jump up to the 
+one on the left for a $5 bag and jump up to the second one from the right 
+(around the middle) to become small Louie which you need for the warp to the 
+Mountain level (check Warp 2 in the World Warps section [STRY]). To the right 
+of you is a very big pile of garbage with a cave in it (the cave has a shop 
+selling time). Jump up to the cave and continue running forward to avoid the 
+cat above and the dog henchman which will come down the bottom. Jump up to the 
+top of the pile and jump over to the cloud on the right (jump on the spot a few 
+times before you do so you know where the bird is above and don't get hit by it 
+when you jump), and then jump to the next cloud and the next, avoiding the cat 
+underneath the last cloud). Now continue up the hill avoiding the two mouse 
+henchmen and the dog henchman, and jump over to the red treasure chest to 
+receive a gun to use against the boss.
+
+___________________________________
+##### Junkyard Boss: Tank Rat #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Ok. Here's the first boss of the game. He has 5 HP (which you can see next to 
+the shield number). Its basically a mouse driving a tank back and forth 
+shooting at one spot and sticking his head out of the top every now and then. 
+To beat him jump down on the ground right against the left side of the screen, 
+(when you jump on the ground the tank speeds up a little every now and then, 
+but this doesn't make him harder), the tank wont run into you in this spot, so 
+just duck to avoid the shots and jump up to shoot him in the head (preferably 
+when his furthest from you). You can still hit him even when he has his head 
+ducked down, you just have to get your timing right when jumping and shooting. 
+Shoot him in the head 5 times to kill him. Piece of piss. Now your off to the 
+city...
+
+
+                               /~~~~~~~~~~~~~~~\
+>-----------------------------<  WORLD 2: CITY  >------------------------< 2CTY
+                               \~~~~~~~~~~~~~~~/
+
+___________________________
+##### City 1: Suburbs #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Let's see how you fare now without home field advantage. On to the 'burbs!"
+
+Just as you walk past the front door of the Antiques store right next to you, a 
+dog henchman will come walking toward you, so quickly duck and kill him. When 
+you come to the blue mail box, jump up to the icecream above it for a $5 bag 
+and then jump up to the window the black cat is sitting on (killing it first of 
+course). Kill the green bird coming toward you and then press up on the window 
+cill to become small Louie which you need for the warp to the Desert, (check 
+Warp 3 in the World Warps section [STRY]). Go into Starke's Drug Store if you 
+want to buy a Tri-Laser with 15 shots for $20 each. You'll notice two windows 
+on the drug store opening and closing, if your standing on a window cill and 
+the window opens, you'll fall down, so watch out for the mouse when you grap 
+that $1 bag. When you approach the next building with the pink walls, you'll 
+notice a little white thing sitting on the edge of the first window cill (I 
+think they're pots, so yeah... that's what I'll call them). When your close to  
+them they'll fall, so watch out. When you approach that cat on the pay phone, 
+don't jump on the window cill above it because the window will open and the cat 
+will hit you, just kill it or run under it. Press forward on that pay phone for 
+invincibility. On past the pet store (I dunno what's up with that dog in there) 
+is Sue's Place, jump up to the word "PLACE" for extra time. Go into Fruit 
+Packin Co. to buy some shields if you need them (I always stock up on shields). 
+Go into the Inn (the pink building) to warp to the Door Stores green door (Yes, 
+a Door Store), which is the next building - so there's not much point to it. 
+When you approach the Door Store, watch out for the dog henchman (so duck). The 
+store has (from left to right) a red, blue, grey, green and brown door, and I 
+spose I should also note that the store has three windows; all with killer 
+pots. The red door warps to the brown door (again useless, but I spose you can 
+avoid all those pots on the window cills... aren't you lucky), behind the blue 
+door is a Bonus Room and the grey door has nothing. Next is the Post Office, 
+press up on the second mail box for a $5 bag. Press up on the Pay phone to talk 
+to Mr. Big.
+
+________________________________
+##### City 2: The Big City #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Can you make it in the big city? Follow us and find out."
+
+Kill the mouse and walk forward and grab that $1 bag on that small red box in 
+front of you, and now jump up onto the light and the brick jutting out to get 
+onto the second story and grab the $1 bag there. Now jump onto the top left 
+window cill of the next building, kill the cat on the next window cill and jump 
+over to it (your staying up here to avoid the cats and pots down the bottom). 
+Now jump over to the top left window cill of the next building (avoiding the 
+green pot) and jump over to the $1 bag on the next window cill and be aware of 
+the bird that will appear right above it. Now drop down and go into the Bank, 
+where you'll find a music room to win a shield and $5 bag. Standing infront of 
+the bank door, kill the black cat, jump onto the light post, jump onto the 
+brick above it and press down for a $1 bag. Fall down from here onto the blue 
+window cill, (watch out for the dog henchman which will come toward you) and 
+jump up for a hidden $5 bag. Now walk forward and jump onto the parking meter 
+and onto the brick above you with the $1 bag (you'll notice a dog henchman 
+walking on the roof above you so kill him when you get the chance). Jump down 
+onto the red box next to the Jewelry stores front door and press down for a 
+shield. Jump up onto the brick above again and onto the roof to find a $1 bag 
+and press down on the second chimney to find a shop selling extra time. Drop 
+off the edge of the roof for the $1 bag on the mail box and grab the 2 $1 bags 
+in front of the display window of Usula's. When you come up to the two yellow 
+doors, (if you want to you can jump up to the top window above you for a $1 
+bag), press down on the bin to enter a Seek Room with a shield and a $5 bag. 
+Now your at the end, so walk forward and watch out for the dog henchman that'll 
+appear, and press down open drain with a letter next to it.
+
+_______________________________________
+##### City 3: Down into the Sewer #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"So much for having pleasant surroundings. Down into the sewer!"
+
+There are a few different warps through the pipes throughout this level, and so 
+you don't get confused about where you are, there are signs on the wall showing 
+the name of the street above you (conveniently called 10th st., 20th st., etc. 
+to 50th st.). The following diagram shows the four warps found in this level (@ 
+symbolises a pipe):
+
+ ___________          ___________
+/           \        /           \
+@ 10th @     @ 20th @        30th @        40th @        50th @
+      @ \       @              @                             /
+         \       \____________/_____________________________/
+          \__________________/
+
+
+As you can see, the quickest way through the level is through the pipe on the 
+left of the "10th st." sign and then through the pipe under the 20th st. sign 
+and then continue to the end.
+
+But anyway, from the start, kill that snake and press up in front of the hole 
+in the wall for a $5 bag. When you come up to the pipe under the 10th street 
+sign, you can go in there if you wonna buy a gun. As you continue forward, 
+remember that when you are walking along a thin pipe and you come to a small 
+pipe intersection, you'll fall down if you walk over it, so... yeah). When you 
+come to the water, walk up to the edge and you'll see a dog henchman, so kill 
+him and jump along the pipes coming from the wall to get across the water (they 
+are all warp pipes). You'll notice another hole in the wall when you get past 
+the water, so go in to find a Guess Room. You'll see some stairs up ahead and 
+some water dripping down from cracks in a pipe, this water hurts you so avoid 
+it. Further on down the stairs you'll come under 30th street, jump up to the 
+sign for a hidden $1 bag (the pipes here are also just warps). Use the second 
+pipe on the wall to jump up onto the small pipe above for the 3 $1 bags. The 
+pipe next to the 40th street sign has a shop selling lives, $35 each (hell no). 
+The hole in the wall down the bottom has a $5 bag for pressing up in front of 
+it. Use the small pipes to get across the water and further on you'll see two 
+dog henchmen, one above and one below. Kill the top one and run across the lege 
+to reach the exit. Press up next to the phone box to say g'day to Mr Big.
+
+________________________________________
+##### City 4: Sewer Flying Machine #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Since I'm such a nice guy, a vehicle awaits you to even out the odds."
+
+Wicked! Mr. Big, for some reason gave you this little flying machine to use. 
+Just the basic controls and the vehicle also has a gun. In this level the 
+screen moves for you so don't get stuck behind something like a pipe or you'll 
+die when you go off the screen. Im not gonna give a walkthrough for this level, 
+as its basically avoid stuff and shoot stuff, just a few tips. If you havn't 
+worked it out already the drips hurt you, as does the bursts of water coming 
+out of the pipes, but the water down the bottom wont hurt you. Stay towards the 
+middle of the screen so you can see whats coming and so the screen doesn't 
+catch up with you. When you come up to a dog henchman, the best tactic is to 
+avoid the first shot (above or below) and then come down to his level and shoot 
+him. Don't aim for his head or just above, expecting him to jump because he 
+ducks before he jumps and will most likely dodge your bullet. Not too hard.
+
+___________________________________
+##### City Boss: Big Bad Wolf #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I reckon this is the second hardest boss in the game after the last boss, so 
+your probably gonna need at least a couple of shields to beat him. Well, your 
+still in you little flying machine, and the wolf's also got one to except his 
+is bigger and has all these jets on it so its faster and it just looks 
+cooler... stupid wolf. He basically flies all over the right side of the screen 
+shooting randomly, and his shots are reasonably fast making them hard to avoid. 
+All you'll need to beat this boss is basic common sense. So stay hard against 
+the left side of the screen to give you the best chance of avoiding his shots, 
+and I tend to stay around the middle so I've got a bit of space to move up and 
+down. So kill him and watch the tiny explosion.
+
+
+                              /~~~~~~~~~~~~~~~~~\
+>----------------------------<  WORLD 3: FOREST  >-----------------------< FRST
+                              \~~~~~~~~~~~~~~~~~/
+
+___________________________________
+##### Forest 1: To The Forest #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Over the river and through the woods. Proceed to the forest!"
+
+Well, your about a mile from the city now as the sign points out. Jump on the 
+sign and jump in the air for a $5 bag. As you walk along you should notice a 
+hole in the ground, evil bunnies come out of these holes and if you stem in 
+them they hurt you. When you come up to the log, a bunny will pop out of a hole 
+behind you and the log in front of you, so kill them quickly before they jump 
+on you. Press down on the hole in the log that the bunny came from to become 
+small louie which you need to warp to the Ice level (see Warp 4 in the World 
+Warps section [LVWP]). When your small, go down to the left side of the log and 
+press down next to the hole in the trunk to enter a Bonus Room. Now you'll have 
+to do a long jump over the river, and when your there you can enter the door in 
+the tree if you want to buy some time. Further along you'll find some quicksand 
+which you'll have to jump over, but make sure you kill the dog henchman on the 
+other side before you do, stupid. Over here you'll notice a big rock, if you 
+jump into the air just above it you'll get a hidden $1 bag. Jump into the nest 
+in the tree on your right and press down for a $1 bag. When you come up to the 
+log behind the quicksand, press down on the third hole to enter a shop selling 
+a flamethrower with 15 seconds of flame for $15. Soon you'll come to a river, 
+and to get across you have to jump from a branch on the tree next to it to 
+another tree on the other side. Press down in the birds nest in this tree for a </pre><pre id="faqspan-2">
+$5 bag. Now your at the end, watch out for the two bunnies that pop out of the 
+one hole, and grab the note on the tree.
+
+________________________________________
+##### Forest 2: Deep In The Forest #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Do you have the guts to go deeper into the forest? Follow us if you dare!"
+
+Make your way up the tree and grab that $1 bag under the bee hive, but watch 
+out for the bees, you cant hit them with your cans but your flamethrower will 
+kill them. From the top branch, jump over to the next tree and enter the hole 
+in the trunk there where you'll find a music room with 2 $5 bags and a shield 
+as the prise. Jump up to the branch with the $1 bag, drop down to the branch 
+underneath and then jump over to the nest on your left and press down for a $1 
+bag. Jump back onto the branch on the right and then make a big jump over to 
+the branch with the $5 bag and holding the bee hive. From here jump up the tree 
+and press down to become small Louie. Now jump to the right and you should land 
+on the branch of another tree. Jump up to the branch on your right to grab the 
+$5 bag. Drop down the trunk of the tree and then jump down to the log on the 
+ground (avoiding the shots from the dog henchman), and press down at the left 
+end of the log to enter a Guess Room. Go into the right hole on the log to buy 
+some shields. Head forward and up the next tree, you'll notice a pink mushroom 
+which shoots arrows into the air (?), so watch out. Grab the $1 bag in the nest 
+up the tree. Jump from the nest into the next tree (you cant get up it from the 
+ground). Quickly jump up the branches to go into the hole at the top of the 
+tree where you can buy a Stun Gun with 5 shots for $10. If you want, you can 
+drop down to the second branch down on the right for a $1 bag, but its not 
+worth it. Now jump from the top right branch to jump onto a branch on the next 
+tree (this way you can avoid the flower that also shoots arrows and the dog 
+henchman around the ground). Jump up to the top branch and jump into the next 
+tree to get past the river below. Press down on the nest on the top branch of 
+this tree for a $1 bag. Now jump down to the ground, and watch out for the fast 
+green elf (if you haven't seen one already) that will run at you. Now press up 
+on the phone box... on the tree.
+
+_______________________________________________
+##### Forest 3: Strange Neck Of The Woods #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"Still back there, huh? Be careful, there's some strange goings-on in this neck 
+of the woods."
+
+Jump over the two rabbit holes and watch out for the elf when you come to the 
+tree. Enter the hole in the tree to buy time, which I don't think your gunna 
+need at this point. Now use the tree stumps to get across the quicksand, press 
+down on the third one where you'll find a Seek Room with a $1 bag, extra time 
+and a shield. When you come up to the little houses, watch out for the elf's 
+that will run at you. Press down at the door of the third little house (with 
+the white) to become small Louie and then press up at the door of the house to 
+the left for invincibility, and at the house on the right for an extra life. 
+Further on you'll have to make your way across a bunch of logs floating over 
+quicksand (watch out for the dog henchman at the end). Enter the tree here 
+where you can buy an ice gun with 15 shots for $15. Now you will come up a lake 
+with rocks bobbing up and down in the water. Use these rocks to jump across the 
+lake when they come to the surface (if you aren't good at this part, this is 
+where the ice gun can come in handy, as you can shoot blocks of ice on the lake 
+and use them as stepping stones). When you get to the end, press down on the 
+note here.
+
+_______________________________________
+##### Forest 4: On The Giant Bird #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"You've earned your wings. Now use them to get through the rest of the forest."
+
+This is just like the fourth level of the City except now Louie's on a bird 
+(which shoots from its mouth!) flying through the forest. Now you have to avoid 
+the arrows shot vertically by mushrooms and horizontally by flowers. There are 
+also rabbits and bees to watch out for and keep an eye out for birds which can 
+appear at the wrong time, so don't fly too high or put yourself in a tight spot 
+for too long (like when getting money or something).
+
+____________________________________________
+##### Forest Boss: Fire Breathing Toad #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You don't need to worry here, this is the easies boss in the game, quite a big 
+jump from the last boss. Don't be deceived, he may look big and all tough with 
+his fire breathing and seemingly taunting jumping, he's just a big pussy. As he 
+is jumping toward you, you can get a few shots off and hide behind the tree 
+stump to avoid the fire. You can try and shoot at the right time so that he 
+jumps into your shots, but there's no need. Just wait till he jumps on the tree 
+stump, simply position yourself in front of the bottom half of the frogs body 
+where he can't touch you, and fire away to your hearts content.
+
+
+                              /~~~~~~~~~~~~~~~~~\
+>---------------------------<  WORLD 4: MOUNTAIN  >----------------------< MTNS
+                              \~~~~~~~~~~~~~~~~~/
+
+_________________________________________
+##### Mountain 1: The Broken Bridge #####\
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+"The terrain gets more rugged as you approach the mountains. Watch for 
+unexpected falls!"
+
+Just jump up and kill that stupid black bird before it craps on you. As you 
+jump across the gap the fish is jumping through, you will see another black 
+bird to kill. Jump up onto the rocks to get across the big gap, before you jump 
+down to the other side drop a can on the snake there, down here you will also 
+find an oxen on the other side of this section of bridge, which will charge at 
+you; you could kill it or watch it run off the edge and plummet to its death. 
+Jump onto the nest that was above where the oxen was waiting and press down for 
+a $1 bag, and grab the other one on the next branch. You will run into a dog 
+henchman walking towards you as soon as you jump over the next gap, he will 
+also willingly walk off the edge if you let him (avoid him by jumping up to the 
+rock above). Within this next gap you will encounter a broken board (just a 
+piece of wooden board by itself, almost broken off the bridge completely), you 
+can jump on it to help you get across, but you must jump back off it straight 
+away, because it will break off. But, just use the rock above to get across 
+this gap. Just further on you will notice a water raft stuck behind a rock in 
+the waterfall, jump on and press down to get invincibility, use it to run 
+forward and kill the dog henchman. Press up at the cave in the rock where the 
+dog henchman appeared to find a shop selling shields. To get across this next 
+gap you'll have to use one of those broken boards. Here you will find one of 
+those schizophrenic elves having a jolly time running back and fourth, and a 
+nest above you which you can scab some time out of. Jump onto the branch with 
+the $1 bag, and use that to make the big jump over to the small black rock 
+(with a $1 bag) on your right. Now jump to the similar rock next to it and do a 
+big jump to the right to safety (this avoids the fish and more difficult jumps 
+across the small boards you would otherwise do underneath to get past the large 
+gap). Here you will find another dog henchman coming towards you and a dumb ox. 
+Jump to the rock that had the snake on it to and press up to the cave to find a 
+guess room, to win invincibility. Use the rocks to get over the next big gap, 
+once you get to the red water craft, jump off it to the right as far as you can 
+and you should land on a broken board just at the end of the bridge so quickly 
+jump off it onto land before it breaks. You've made it across the bridge so 
+make your way over to the note, but before you grab it, jump up onto the rock 
+and jump again close to the right of the screen to grab a hidden $5 bag.
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<  XIII. CREDITS >~~~~~~~~~~~~~~~~~~~~~~~~~CRDT~|
++=============================================================================+
+
+Thanks to CSD Inc. for making this cool game, making my first gaming experience 
+a good one.
+
+Thanks to Atari for bringing us the first colour hand held console - the Lynx, 
+which was way before its time.
+
+
+
++=============================================================================+
+|~~~~~~~~~~~~~~~~~~~~~~~~~~<  XIV. COPYRIGHT INFO  >~~~~~~~~~~~~~~~~~~~~~CPRT~|
++=============================================================================+
+
+This document or any part of it may only be reproduced for private and personal 
+use. If you want to put this guide on your site, ask me first via my email. 
+Otherwise, the only site with permission to use this document is GameFAQs.com. 
+In short: don't steal from me, or I will cry.
+
+
+                  |\     Copyright (c) Richard Kerr 2004/5
+                  | \    __ _____  __ ____   __   __    ____
+                  |  |__|  |     \|  |    \ |  | /  \  |    \
+                  |   __   |     /|  |     ||  |/    \ |     |
+                  |__|  |__|__|__\|__|____//  //__/\  \|____/
+                                        \____/      \ /
+                                                     / 
+
+

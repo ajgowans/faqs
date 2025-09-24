@@ -1,0 +1,3508 @@
+                   ______ ___  ___ ___ ______ _____
+                  /\   __\\  \_\  \\  \\   _ \\  __\
+                  \ \  \___\   __  \\  \\   __\\__  \
+                   \ \_____\\__\ \__\\__\\__\ \ \____\
+                    \/_____//__/\/__//__//__/  \/____/
+     ______ ___  ___ ______ ___   ___   _____ ______ ______ _____
+    /\   __\\  \_\  \\  __ \\  \  \  \  \  __\\     \\   __/\  __\
+    \ \  \___\   __  \\     \\  \__\  \__\  _\_\  \  \\  \_ \\  _\_
+     \ \_____\\__\/\__\\__\__\\____\\____\\____\\__\__\\_____\\____\
+      \/_____//__/\/__//__/__//____//____//____//__/__//_____//____/
+                    -= C H I P ' S   C H A L L E N G E =-
+
+.----------------------------------------------------------------------.
+|           FAQ/Walkthrough  || Version 1.33 || June 18, 2003          |
+|----------------------------------------------------------------------|
+|          by Michael Gonzalez (Coffee) <mpgonzalez@gmail.com>         |
+|                  http://www.geocities.com/coffeefaqs                 |
+'----------------------------------------------------------------------'
+
+Contents:
+   1) Introduction
+   2) Basic Information
+         - Story
+         - How to play
+         - Scoring
+   3) Walkthrough
+   4) Passwords
+   5) Best Times
+   6) Tips and secrets
+   7) Frequently Asked Questions
+   8) Credits & Info
+
+
+Version 1.33 (06/18/2004):
+- Changed email address (Gmail!)
+
+Version 1.32 (01/26/2003):
+- Changed introduction
+
+Version 1.31 (11/25/2002):
+- Formatting changes
+- Updated website URL
+
+Version 1.3 (03/05/2001):
+- Spellchecked everything, that's all
+
+Version 1.2 (01/29/2000):
+- Switched to a new alias, Coffee
+
+Version 1.1 (12/03/1999):
+- Corrected some small errors and spelling mistakes
+- Updated special thanks and copyright disclaimer
+- Added introduction
+
+Version 1.0 (07/18/1999):
+- The walkthrough is finally complete
+
+
+,----------------------------------------------------------------------.
+| 1) INRODUCTION                                                       |
+'----------------------------------------------------------------------'
+
+
+                          - Chip's Challenge -
+
+Most video game sites and magazines judge a game by categories, such as
+graphics, sound, control, and gameplay. But if Chip’s Challenge were to
+be judged that way, it would fail miserably. In fact the only thing it
+has going for it is its charming simplicity and sheer challenge. The
+game is indeed a challenge, and not for the faint of heart. What’s truly
+amazing is how the game’s creators were able to do so much with so
+little. Even with its limited game mechanics, we still get a game with a
+stunningly well sculpted 149 levels of challenge. Enjoy.
+
+
+,----------------------------------------------------------------------.
+| 2) BASIC INFORMATION                                                 |
+'----------------------------------------------------------------------'
+
+
+Basic information is all the stuff found in the Chip's Challenge help
+file. You must have read that if you're a REAL Chip's Challenge player.
+But if you stole this game from a friend without getting the help file,
+you've come to the right place! Read on...
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<<<<<<<<<<<< STORY >>>>>>>>>>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+[NOTE: This is the exact same story you'll find in the Chip's Challenge
+help file. I only copied it for the sole purpose of having a story
+section. The story doesn't make any difference in the gameplay and it
+will just confuse you. Actually, the Chip's Challenge story sucks.
+Anyway, on with the story...]
+
+Chip is willing to do anything for Melinda the Mental Marvel, more than
+anything, because he wants to join Melinda's exclusive computer club,
+the Bit Busters. Finally Melinda has offered him membership, but on one
+condition! Chip must find his way from one end of Melinda's magical
+clubhouse to the other, picking up cosmic computer chips along the way.
+
+If that sounds easy, then you've never been to Melinda's magical
+clubhouse. It's awesome inside, but tricky, and a little scary too.
+There are teleports, invisible walls, force floors, water traps, locked
+doors, and plenty of monsters. There's magic, mystery, and behind the
+scenes there is Melinda, keeping score on your progress and providing
+helpful hints. 
+
+As you succeed in helping Chip move through each level of the clubhouse,
+Melinda gives you a secret password that allows you to return. And
+Melinda rewards perseverance. If she thinks Chip has tried long enough
+and hard enough on a level, she'll let him sneak through to the next
+level. But it takes a lot of perseverance to impress her. How big is the
+clubhouse? 144 levels is the rumor. But some claim that Melinda is still
+building. In any case, it defies dimensions so don't get lost.
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<<<<<<<< HOW TO PLAY >>>>>>>>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+[NOTE: The "How to Play" section of this guide is very extensive. I will
+not only tell you basic information here, but I will cover every other
+facet of playing you will ever need to know in Chip's Challenge. If you
+are knew to the game and just want to start playing, read only the first
+three or four paragraphs. Reading the rest of this section will only
+confuse you... you will learn everything else as you continue playing.]
+
+Like in most games, you beat the game by passing through all of the
+levels. And in this game, there are a total of 149 levels! To pass
+through a level you must find the exit square. This exit square is
+usually blocked by a chip socket which you cannot pass through without
+getting all of the chips. So in most stages, the objective is to find
+all the chips, pass through the chip socket, and go in the exit square.
+However, several levels do not have any chips-- and the only objective
+is to get to the exit square. Although this sounds easy, it can be very
+very hard.
+
+Oh yes, the very basic basic information: To control Chip, use the arrow
+keys on you keyboard (at least that's what I use). You can also use the
+numeric keys at the left of your key board. Another way of playing which
+feels extremely awkward, is to control Chip with the mouse. To use the
+mouse in controlling Chip, click on the square you want him to go to.
+Unfortunately, you cannot control the path Chip takes in getting to
+that square. He will attempt to get there in a strait line. If there is
+an obstacle in Chip's way, he will smash right into it (whether it is a
+wall, monster, or whatever). I prefer to use the arrow keys.
+
+As you play, there are two windows for you to pay attention to: The
+Action Window and the Information Window. The Action window shows you
+all the action, it shows Chip in his surroundings. The information
+window shows you other important stuff. This window is divided into four
+sections: The level, time, chips left, and inventory. The level is the
+number of the level that Chip is currently on (out of 149 levels). The
+time display shows you the seconds remaining that Chip has to complete
+the level (sometimes you have unlimited time). If the time runs out
+before you can finish the level, you will restart. The "chips left"
+display shows you the remaining number of chips you need to collect in
+order to pass through the chip socket (sometimes you don't need any
+chips... and other times there are more chips than you actually need).
+And finally, the inventory box at the bottom displays the items you have
+collected in that stage (these items are not passed on to the next
+stage). Sometimes, you may find a question mark symbol on a square. If
+you step on this square, a hint box will appear in the information
+window, covering the chips remaining display and inventory box. This
+appears in the 8 lesson stages (level 001-008). After that, the
+question mark square appear only very rarely.
+
+There are several items you'll find that Chip can use to pass through
+the different levels. There are the keys... and the boots. There are
+four different kinds of key: Red key, green key, yellow key and blue
+key. The key allows you to pass through the lock of the same color (ex:
+red key lets you pass through the red lock). You can only use the key
+once, and you can NEVER use a key for a lock of a different color.
+Just like the keys, you will find four different types of footwear: the
+flippers, the fire boots, the ice skates, and the suction boots. The
+flippers allow you to swim through the water without drowning. The fire
+boots let you walk through the fire without getting burned. Ice skates
+let you walk on the ice without sliding. The suction boots let you walk
+on a force floor without getting "forced" in a direction. Not all of
+these items are found in every stage.
+
+Also on this hellish clubhouse, you will encounter obstacles and traps
+along your way. Here is a table presenting the different obstacles:
+
+ Walls         -  They are dark gray squares. They form the boundaries
+                  of the level. Chip cannot go through them.
+ Thin walls    -  These are thin walls that block the passage between
+                  two squares.
+ Blue walls    -  These walls take up one block and are colored green-
+                  blue. When you touch it, it may or may not be real.
+ Invisible walls- This kind of wall cannot be seen or noticed until you
+                  bump into it. It may or may not become visible.
+ Recessed walls-  Recessed walls look like a large gray dot. They pop up
+                  when you step on it... but they do not kill you.
+ Colored doors -  Colored doors require a key of the same color for Chip
+                  to pass through. I usually refer to them as "locks".
+ Toggle doors  -  Toggle doors look like walls with a green border. They
+                  open and close when a green button is pushed.
+ Bear traps    -  This will trap anything that steps on it. You can open
+                  the bear trap by holding down the brown button.
+ Bombs         -  Bombs will kill anything that touches it. To get rid of
+                  these bombs, use a monster or a block on it.
+ Force floors  -  Force floors will push Chip in the direction it is
+                  pointing unless Chip has suction boots.
+ Fire          -  Fire burns Chip (of course). Chip will not get hurt if
+                  he steps on fire with fire boots.
+ Water         -  Water drowns anything that steps into it. You won't
+                  get hurt if you are wearing the flippers.
+ Ice           -  When Chip steps on ice, he will slide wildly out of
+                  control... unless you have the ice skates.
+ Teleport      -  A teleport looks like a large blue dot. It will warp
+                  Chip to another teleport if he steps on it.
+ Clone machines-  This will create a clone of a monster or a block. It
+                  is activated by pushing a small red dot.
+ Blocks        -  You can use these blocks to make a bridge on water,
+                  detonate bombs, hold open bear traps, and other stuff.
+ Dirt          -  Dirt is like normal floor... but monsters cannot step
+                  on it. It turns to normal floor when you step on it.
+ Gravel        -  Gravel serves the same purpose as dirt: monsters can't
+                  step on it. But it doesn't turn back to normal floor.
+
+Also in this clubhouse of death, you will find several monsters of
+different types. These monsters have different movement patterns and
+abilities. But all of them will kill you if you touch them. Here's the
+table of all the kinds of monsters:
+
+ Blobs          -  Blobs have a completely random movements. They go
+                   around and are unpredictable. See level 023 :)
+ Pink balls     -  Pink balls go back and forth and bounce back when they
+                   hit a wall.
+ Bugs           -  Bugs follow the wall on their left side. They often
+                   appear in large groups.
+ Fireballs      -  Fireballs turn right when they hit a wall or any
+                   object. You are not protected by the fire boots!
+ Gliders        -  Gliders have a pattern similar to the fireballs-- but
+                   they turn LEFT when they hit a wall or object.
+ Paramecia      -  These little guys follow the wall at their right
+                   side. It amazing that they can hurt Chip (paramecium)
+ Tanks          -  Tanks can be controlled by stepping on a blue dot. At
+                   other times, they remain stagnant.
+ Teeth          -  These are deadly! They try to follow you when ever
+                   you go in a straight line. You can out run them.
+ Walkers        -  Walkers turn in a random direction whenever they hit
+                   a wall or object. Very unpredictable.
+ Spies          -  These do not kill you. Instead, they take your items
+                   from the inventory box.
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<<<<<<<<<<< SCORING >>>>>>>>>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+No, you don't have to keep your own score in this game. This section is
+intended to help you understand the score showed to you at the end of
+each level...
+
+At the end of each level, the score for that level is displayed to you.
+It consists of four parts: The time bonus, the level bonus, the level
+score, and the total score.
+
+The time bonus is the bonus points you get for the time you have
+remaining. The seconds remaining is multiplied by 10 for this score. For
+example: If you have 50 seconds left, the time bonus would be 500. Some
+levels are not timed, and therefore you will not get any time bonus for
+that level.
+
+The level bonus is the score you get for defeating this level at all! To
+get this score, you multiply the level number by 500. So if you just
+beat level 6, your score would be 3000. If you had to restart this
+level, this score is subtracted by 20% each time you restart. To prevent
+losing points after you die, choose "Best Times" from the Game menu...
+then double click on the level you are now on.
+
+The level score is the total score of adding both the time bonus and the
+level bonus. This is what is displayed beside the level number in the
+"Best Times" window.
+
+The total score is the ultimate score for your game. It is the total of
+adding all of the level scores from every stage you have completed so
+far.
+
+
+,----------------------------------------------------------------------.
+| 3) WALKTHROUGH                                                       |
+'----------------------------------------------------------------------'
+
+
+LEVEL 001 - LESSON 1
+Password: BDHP
+
+This is the fastest route I've tried. First, go right and get the chip
+and two red keys. Go into the red lock on the upper right and get the
+yellow key and the chip. Go out and get the chip and two blue keys on
+the left side. Go through the blue lock on the upper left and get the
+chip and yellow keys inside. Next, go through the red lock on the
+bottom left and get the chip inside. Now go through the two yellow
+locks at the bottom and get the keys and chips there (also get the chip
+between the two yellow locks). Go through the blue lock at the bottom
+right at get the chip. And finally, go through the two green locks at
+the top to get the final chips. Of course, go through the socket and
+into the exit square.
+
+
+
+LEVEL 002 - LESSON 2
+Password: JXMJ
+
+First get the easy two chips at your right. Then push those two brown
+blocks to form a bridge across the water. Remember that you need to
+pound the blocks into the water to make them become solid. Cross your
+bridge. Avoid the bugs going around the area and get the chips at the
+top and bottom. Great, now you have all the chips. Pass through the
+socket and into the exit square.
+
+
+
+LEVEL 003 - LESSON 3
+Password: ECBQ
+
+This is the stage where you get to try on your boots! First, pick up the
+flippers. The flippers let you swim in water without drowning, so get
+the chip and the ice skates from the island in the middle of the water.
+The ice skates let you stand on ice without slipping, so get the fire
+boots and the chip from the ice at the left. The fire boots let you step
+in fire without getting burned, so get the suction boots and the chip
+from the fire at the right. The suction boots let you step on force
+floors without getting pulled, so get the chip from the force floor at
+the bottom (the green floor) and go around to pass through the socket
+and into the exit square.
+
+
+
+LEVEL 004 - LESSON 4
+Password: YMCJ
+
+First, go into the passage at the bottom that leads to a room with five
+blocks forming an "X". The four blocks on the outside have chips under
+them. But the center block has fire under it! So push the four outside
+blocks to get the chips. When you're done with that, go back to where
+you started and into the place at the left. Stepping on the green dots
+in this place open or close the "toggle walls" (the walls with a green
+border). Get the four chips from this toggle wall maze (I don't think
+this requires a detailed walkthrough). When you got all 4 chips from
+that place, go to the left of where you started. Stepping on the blue
+dots makes the tanks change position. So step on the blue dot, then on
+the other one, and the other one and get the chip. Do the same process
+to get out of the tank maze. Go through the socket and into the exit
+square.
+
+
+
+LEVEL 005 - LESSON 5
+Password: TQKB
+
+First, go up the passage at the right and step on the green dot to open
+the toggle wall. Step on the green dot again when the pink ball in on
+the left side of the toggle wall, now he's trapped there. The use of
+this is to prevent him from making fireball clones. Now go back down to
+where you started and get the red key at the left side of the fire. Go
+up again and go through the red lock. Step on the brown dots to release
+the glider. Step on the other brown dot to release the glider again and
+make him get rid of the bomb. Go into the exit square.
+
+
+
+LEVEL 006 - LESSON 6
+Password: WNLD
+
+See the green walls on your left and right? Those are called "blue
+walls". When you push yourself against the wall, it will either
+disappear or turn into a gray (permanent) wall. There are also some
+invisible walls that appear only when you bump into them. And there are
+some invisible walls that don't appear at all! Okay, enough with the
+lessons. First, go through the second blue block to the bottom on your
+left side. Now an invisible wall is there between you and the chips. Go
+through a blue block above you and again go through a blue block above
+the chips. Get the four chips and backtrack to the place where you
+started. Go through the socket and into the exit square.
+
+
+
+LEVEL 007 - LESSON 7
+Password: FXQO
+
+Some things to remember before you get started here: The spies take all
+your items, and the blue dots transport you to another blue dot. Okay?
+First, go through the blue dot. Go through the spy and get the chip. Go
+back through the spy again and go UP into the blue dot. Get the
+flippers. Go into the blue dot from the LEFT, and again from the RIGHT,
+and once more from the LEFT. Do not get the fire boots! Just go straight
+into the water and ride the force floor to a chip and the spy. Now you
+are back in the room where you started. Enter the blue dot from the
+LEFT, and again from the RIGHT to bring you to the fire boot room. Get
+the fire boots and enter the blue dot from the BOTTOM. Go through the
+fire and ride the force floor to the final chip and the spy. You are
+in the beginning room again. Go through the blue dot and through the
+socket... into the exit square.
+
+
+
+LEVEL 008 - LESSON 8
+Password: NHAG
+
+Okay, you start this level on the left side of the gravel and dirt. The
+gravel and the dirt is separating you from the teeth on the hard
+concrete. You need to get only one chip... and that chip in on the
+cement that the teeth is standing on. You need to trick the teeth: move
+up to lure him upwards, then quickly move down and run past him. Hurry
+and get the lone chip at the center of the cement and continue to the
+exit square at the right side.
+
+
+
+LEVEL 009 - NUTS AND BOLTS
+Password: KCRE
+
+This is the first "challenging" level. First, go down and get the yellow
+key (watch out for the fireballs!). Go back up, get the chip and go past
+the yellow lock. Go to the top square at the left of the force floors
+and hold right to go through a blue block and into a place with four
+brown blocks. Use the four brown blocks to make a bridge across the
+water (remember to step on the blocks to make them solid) and get the
+red key. Go through the red lock and take this path on the ice: Right,
+down, left, up, left, down, right, up, left, down, right, right, down,
+left, up, left, up. If you followed the path correctly, you must have
+gotten the chip and arrived at the next place. Now cross the green dot
+and go up to the blue key. Step on the green dot to open/close the
+toggle walls, and use the blue key to get the yellow key. Continue this
+process to get the green and red key. Before taking the ice path behind
+the red key, be sure that you won't bump into any fireballs. The ice
+path leads you to a place where bugs are moving along a path. Wait until
+there are no nearby bugs before you get the two chips on this path. Take
+the path on the left and go through the blue block at the bottom to get
+the chip. Go back to the bug room and take the path at the bottom. Move
+the four blocks so that they destroy the four bombs. Get the chip where
+the four blocks where, get two more chips in the place with a bunch of
+other bombs, and get the chip hiding under the remaining brown block.
+Backtrack to the "bug room" and go through the socket on the right.
+You're in a whole new room! Move the brown block over the small brown
+block to open the beartrap and release the fireball. Quickly move over
+the beartrap and enter the exit square (before the fireball gets back).
+
+
+
+LEVEL 010 - BRUSHFIRE
+Password: UVWS
+
+This level doesn't have any chips. It's all about action! Well, not too
+much action really. You need to navigate yourself through a maze of fire
+and avoid any bugs you might encounter here. The method I usually use
+is to follow the wall on Chip's left-hand side. Eventually, I am able to
+see the exit and get there. But if you really need the shortest way to
+get there, here's the shortest path to the exit square: 4D-4R-4U-12R-3D-
+3L-U1-L7-7D-1L-3D-8R-1U-10R-10D-4R-2U-1L-3U-1R-2U-1L-6U-3R-18D-5L-2U-10L
+-7U-5R. For the above path, D means DOWN, U means up, L means LEFT, and
+R means RIGHT. A number before the letter means that's how many steps to
+take (ex: 8R means eight steps to the right).
+
+
+
+LEVEL 011 - TRINITY
+Password: CNPE
+
+Trinity means "three". And there are three parts to this stage! First,
+get the three keys. The red key is in the upper-left part of the stage
+with a fireball. The yellow key is at the bottom part of the stage with
+a bug. The blue key is at the upper-right part of the stage with a
+glider. Once you have all three keys, return to the center part of the
+stage and use the three keys on the three locks to get the three boots.
+Get the chip from the water. Get the chip from the fire. And get the
+chip from the left part of the ice. Then go to the right part of the ice
+to pass through the socket and into the exit square.
+
+
+
+LEVEL 012 - HUNT
+Password: WVHI
+
+This stage is probably called "Hunt" because you're "Hunting" for chips.
+In this stage you will need to find 652 of them in 400 seconds (don't
+worry too much about the time, it's enough for you). You will also need
+to worry about the two teeth in here. It's best to work your way around
+the outside edges first before going inside with the teeth. When you
+finally need to go inside, go fast! Be sure to check the chip meter
+because there's more than 652 chips in this place. When you've collected
+everything you need, enter the exit square in the center.
+
+
+
+LEVEL 013 - SOUTHPOLE
+Password: OCKS
+
+I was stuck in this stage for about a week until a found out a clue from
+the name "SOUTHPOLE". Its not just called "SOUTHPOLE" because it's cold
+all around, but also it tells you the directions to take in this
+monolith maze of ice. There's no need to worry about the time because
+it's unlimited! Anyway, here's the 6-step path to take: Down, down,
+down, down, down, down.
+
+
+
+LEVEL 014 - TELEBLOCK
+Password: BTDY
+
+First, get the red key and go through the teleport. Now you're in a room
+with four red locks around you. Go into the bottom lock and push one
+brown block into the teleport without going in yourself. Now enter the
+teleport through a DIFFERENT direction (ex: if you pushed the block in
+the teleport from the bottom, enter from the left, right, or top). Now
+you are in a "water room". Push the brown block into the water and step
+on it to make it hard. Go into the teleport and go in again to transport
+to the room with the red locks. Go into the bottom, get the key, and
+push the block into the teleport. Go in through a different direction
+and complete the bridge you started earlier with the other block. Go
+back to the lock room and continue the process. [NOTE: Be sure to go
+through the lock on the right LAST because there is no red key inside.]
+
+
+
+LEVEL 015 - ELEMENTARY
+Password: COZQ
+
+First, go left and get the red key. Go through the lock directly below
+you a push the brown block to the bomb to destroy it. While you were
+pushing that brown block, you got the flippers that was hidden under it!
+Okay, get the blue key there. Get out to the main area and go straight
+up to enter the blue lock. Push the brown block into the bomb again and
+get the red key there. This time, you got the suction boots that were
+hidden under the block. Go back to the central area and go to the RIGHT
+side. Get the blue key there and enter the red and blue lock and do the
+same thing you did at the other side (getting the fire boots and ice
+skates along the way). Now there are four section for you to finish: the
+ice, the fire, the water, and the force floors. Go into each section one
+at a time and get THREE CHIPS and ONE KEY from each one. You need to be
+fast because your time here is very limited. When you are done with
+these areas, go back to the central area. Unlock the blue and red lock.
+Now, get rid of the socket and push the brown block over the small brown
+block to keep the bear trap open. Yay, you can walk over the bear trap
+to the exit square.
+
+
+
+LEVEL 016 - CELLBLOCKED
+Password: SKKK
+
+This stage is completely composed of recessed walls (walls that pop out
+of the ground as soon as Chip steps on them). This means that is Chip
+makes a single mistake, he will have to start the level all over again.
+This level isn't timed so you have all the time in the world to make
+mistakes. To find the exit square: Go right four steps, go down twelve
+steps, go four steps right. Now you should change direction at every
+chance you get unless you are obviously going to hit a dead end. That
+should help you find the exit. The highest score possible on this level
+is 8000 (if you didn't restart the level).
+
+
+
+LEVEL 017 - NICE DAY
+Password: AJMG
+
+This level is shaped like a HUGE happy face. There are six chips each
+composing the eyes, and the other 36 chips are composing the mouth.
+While getting these chips, be very careful to avoid the pink balls and
+the walkers (there's a lot of them!). When you have all the chips you
+need, go into any of the exit squares at the four corners of the level.
+
+
+
+LEVEL 018 - CASTLE MOAT
+Password: HMJL
+
+This stage is much easier than it seems to be. Although it looks like to
+need to build a bridge of brown blocks over the water, all you need to
+do is find the flippers and use them to swim over the water! First,
+follow the obvious path around until you reach the part with all the
+brown blocks. Now try to find a path to the brown block near the top-
+right corner of this brown block maze. Push away the block and you'll
+receive the flippers! Now retrace you steps back to the water place.
+Swim across the water (avoiding the fire) to the castle. Go through the
+sockets and into the exit square. [NOTE: You went through the sockets
+without getting a single chip! Actually, there are no chips in this
+stage. Therefore you don't need to get any (obviously).]
+
+
+
+LEVEL 019 - DIGGER
+Password: MRHR
+
+This stage is full of teeth and chips. You need to collect all 146 of
+them! First, try getting all of the chips but DON'T get the chips that
+would allow the teeth to get free. Also remember not the free the teeth
+by digging a path in the dirt for them (the teeth can't go on the dirt).
+After getting all of the chips except the ones that would free the
+teeth, carefully trick the teeth into going one way-- then quickly run
+to get the chip. You need to be very quick in this part. Get all of the
+remaining chips while avoiding the teeth. When all the chips are
+collected, go through the socket and into the exit square (as usual :)
+
+
+
+LEVEL 020 - TOSSED SALAD
+Password: KGFP
+
+There's something very strange about this stage that you should know
+about: Even though it says "15 chips left", there is NO socket that you
+need to go through. That means you don't need to collect any chips!
+Okay, take the path around to the bottom right where you cross some
+gravel. Cross it and step into the blue dot to transport yourself to the
+other side of the room. Now go downward carefully and avoid the blue
+tanks going back and forth. At the end of the path you will find a red
+key. Get that key and slowly take the same path back to the red lock.
+After passing through the red lock, you will go across a force floor
+path and see four chips surrounded by fire. Don't worry about that
+(remember: you don't need to get any chips!). Cross the path of ice, get
+the fire boots, and cross another force floor path. Go to the place
+where the pink ball is crossing and wait. When it is on your right side,
+quickly move down and left and up to safety. Follow the path across a
+tile of force floor and another tile of fire. Take the force floor path
+at the left to arrive near some blue tanks going back and forth. Right
+after the tanks move, go down and get the yellow key. Run back up to the
+part above the tanks... then cross the part where the pink balls are
+going back and forth to reach the yellow lock. Go through the yellow
+lock and enter the exit square.
+
+
+
+LEVEL 021 - ICEBURG
+Password: UGRW
+
+See the small red dot at the left side? Stepping on that dot causes a
+brown block to appear. Okay, make a block and push it into the bridge of
+ice. Follow it and pound it into the ground to make it permanent. Do
+this two more times to form a *complete* bridge going all the way to the
+chip socket. But the only problem is that we don't have the chips yet :(
+Go back to the beginning. If you stand beside the water at the top part
+of the land, you can see an incomplete ice bridge located two blocks to
+the right of the bridge you just completed. So use three brown blocks to
+complete that bridge. At the end of the bridge is a new island with the
+chips! Get all nine of the chips and go back to the beginning. Take the
+original bridge you made to the socket and the exit square.
+
+
+
+LEVEL 022 - FORCED ENTRY
+Password: WZIN
+
+The name says it all for this level. The entire floor is composed of a
+huge jumble of force floor that will try to pull you all around this
+place like crazy. You start this level in the upper left corner. The
+exit square is at the complete opposite end of the room: the lower right
+corner. Of course, there is a socket blocking the exit square and you
+need to collect the chips from all around the mess of force floors.
+There is a blue teleport block near the start that will bring you to the
+socket blocking the exit square (but you don't have the chips). You need
+to "force your way through". The frustration can be very intense. Just
+keep cool and be patient-- you have lots of time.
+
+
+
+LEVEL 023 - BLOBNET
+Password: HUVE
+
+This level take a lot of time-- and a lot of patience. There are chips
+scattered around the level and they are protected by an army of blobs.
+Remember that you are safe from them on the black gravel and they can't
+get to you there. To make sure you don't get hurt by the blobs while
+getting the chips, wait until there are no blobs on the squares
+surrounding the chip you want to get. Then quickly get the chip and move
+back on the gravel. You need to get a total of 88 chips in this level.
+Be very patient and be sure to follow the tip above for every time you
+get a chip or each time you pass on the cement. This level isn't really
+hard, the only problem is that you'll get impatient easily and get
+killed by the blobs. When you've collected all 88 chips, go to the exit
+square in the middle.
+
+
+
+LEVEL 024 - OORTO GELD
+Password: UNIZ
+
+Oorto Geld is an anagram for "Toggle Door". This place is full of toggle
+doors that must be operated by the gliders. You start the stage in the
+center of the level. First go to the third brown block from the left at
+the top wall (the one over the first exit square). Push the brown block
+up so that it touches the wall at the upper left corner of the green
+switch. Soon the gliders will come and start going around in a loop,
+automatically hitting the green switch. Now the toggle doors are opening
+and closing in a pattern: long open and quick close.. or long close and
+quick open. In any case, enter each of the rooms and get the chips from
+their chambers. If you want the pattern of opening and closing to
+switch, simply hit one of the green switches. Watch out for the gliders
+patrolling the individual rooms. When you're done collecting the chips,
+go to the exit square in the center (where you started).
+
+
+
+LEVEL 025 - BLINK
+Password: PQGV
+
+This is really a bad ass level. You need to go around this stage
+collecting chips by going through the teleports a bunch of times. It's
+almost impossible to tell where you're going and that's what makes this
+level so hard. To do this level, you either do it alone... or follow my
+instructions step by step from the beginning to the end. Okay? So here
+goes: Go up through the teleport and continue up to get the chip. Go
+back down through the teleport and get another chip. Go up through the
+teleport and follow the path to another chip. Go back down through the
+teleport and get the chip there (don't go through the new teleport). Go
+up through the teleport and get a chip. Go down through the teleport and
+get the chip at the left (ignore the new teleport again). Go up through
+the teleport and get a chip... this time go right through the new
+teleport. Get the chip, ignore the new teleport, and go left through the
+old teleport. Get the chip and go back. Get the two chips. Now go in the
+teleport and go back in again. Get the chip and go back. Get the chip
+and go back. Get the chip and go back. Now you are back at the part
+where you switched teleports. Go in the teleport and go in the new
+teleport. Get the chip. Go in the teleport and go in again. Get the chip
+and go back (only 12 chips left!). Go back in the teleport. Get the two
+chips and go back in (vertically). Get the two chips and go back. Get
+another two chips and go back................ Oh damn I'm lost! Well,
+I'm sure you can do the rest by yourself, right? You only have 6 chips
+left to find. Good luck!
+
+
+
+LEVEL 026 - CHCHCHIPS
+Password: YVYJ
+
+First, get the 11 chips along the left wall. Then get the 9 chips along
+the top wall (watch out for the pink ball!). Now you may notice that
+there is a group of chips in the middle with a paramecium crawling all
+over it. Remember that he crawls along the wall at his right side. So
+get as much chips as you can while keeping at a safe distance away from
+him. Then get all but one of the chips. Then carefully get the last one,
+avoiding the paramecia. If you die, start over and try again. Now get
+the chips around the pink ball at the bottom left part of the level...
+but DO NOT get the one blocking the pink ball from the clone switch.
+That switch controls the cloning of teeth. Now get the chips along the
+bottom floor. Follow the path and continue to get all of the chips at
+the bottom right of the level. You should now have about 34 chips left.
+Next, get the chips along the right wall and follow the path of chips
+and get all of them until you only have 1 chip left. Remember the chip
+between the pink ball and the clone switch? Get that one and run up to
+the upper left corner to the exit square.
+
+
+
+LEVEL 027 - GO WITH THE FLOW
+Password: IGGZ
+
+See that force floor path right below you? Take that path and turn left
+where there is a chip and a blue switch. Get the chip and hit the blue
+switch ONCE. Continue on the force floor path an immediately turn left at
+your next chance to get a chip. Continue on the force floor path and
+ride it until you reach solid ground. Now you should see a line of water
+below you. Push the four blocks to form a bridge to the other side of
+that water to get the flippers. Go back to near the beginning of the
+force floors. There is some fire boots at your left? Watch out for the
+tank and get them. Now get on the force floors and turn left at the
+first chance you get. Go past the recessed wall and go down passed the
+water (you have the flippers) to the chip. Go up the water and out the
+other recessed wall. Get back on the force floors and turn left at your
+second chance to hit the blue switch. Get back on the force floors and
+turn left at the parts where there are three chips to get them. Zero
+chips left! Go to the place with the blue tanks. Watch out for them and
+enter the exit square.
+
+
+
+LEVEL 028 - PING PONG
+Password: UJDO
+
+The first thing you should do here is do the only thing you can: Ride
+the force floors around. While you go around, try pushing against the
+blue blocks to make them solid. When you're getting close to the place
+where you first started, push down on the second to the last block to go
+through. Now you're in the main area. Go down and get the Chip on the
+left wall (watch out for the pink ball). Now go right and get the two
+chips there. Continue and go to the right side and get the two chips
+there. Go back to the left where the brown blocks are. You need to make
+a bridge across the water with these blocks. Be sure not to waste any
+because you will still need two blocks for later. When you're done with
+that bridge, cross it to go to the next area. Get the Chip at the left
+side and go right to get two more chips. There are pink balls all over
+now, be careful. Continue to the right side for another Chip. Now cross
+the ice and get the four chips on this strip of land. Now you need to
+make another bridge across the water. Go back up to the place with the
+brown blocks, you should have two blocks left. Bring them down to the
+next body of water and build a bridge over it. Get the four chips from
+this area, then go down across the ice for the final four chips. Now you
+have all the chips! Go up to the top and enter the exit square.
+
+
+
+LEVEL 029 - ARTICFLOW
+Password: QGOL
+
+You start this level on a land with five brown blocks. Use those five
+blocks to build a bridge across the water. Now you have arrived at
+ANOTHER piece of land with five brown blocks. Again, use those blocks to
+build a bridge across the water. Now you only have three brown blocks.
+Build another bridge ALONG THE UPPER WALL. If you build it anywhere else
+it won't reach the land. Follow the narrow path to three blocks with a
+paramecia going around them. Push the middle block two spaces to the
+left. The push another block to continue the bridge you just started.
+Now the paramecia going around one block. Push that block once to the
+left so that is beside the water... the paramecia will drown there. Now
+use the final block to complete the bridge. There is another paramecia
+crawling around the new set of blocks now. Be careful and push the
+middle block into the water at the left. Pound it down and put another
+block in the water there to complete the bridge. Cross that bridge and
+take the ice path all the way to the flippers. You can't take the ice
+path going back since you crossed a force floor on your way here. Just
+find a path to swim back. When you get back to the place where the
+blocks are, swim down into the water and get all the chips there. Take
+the path back to the socket and swim to the exit square.
+
+
+
+LEVEL 030 - MISHMESH
+Password: BQZP
+
+This level is a maze of blue blocks. Some of them are real blocks, some
+of them are not. To get through this maze you need to go around pushing
+yourself again these blocks trying to get to the chips. I won't tell you
+the EXACT directions on how to beat this level (that would be too long
+and hard to follow). Instead, you should just try to clear everything
+you can (push yourself against all the blue blocks to see if they're real
+or not). When most of them are done, you should be able to find a path
+to each of the 36 chips in this level. This level isn't really as hard
+as it seems, as long as you have patience in doing it. When you have
+collected all the chips, go to the exit square (as usual).
+
+
+
+LEVEL 031 - KNOT
+Password: RYMS
+
+This is a hard level because of the extremely limited time you are given.
+You only have 29 seconds to get all 118 chips! Here's the path to take:
+Go forward to the first chip, then turn up to the force floor, right to
+another force floor, down to a place between four fires, then left to
+the first chip. Now move down to the force floor, left to the place
+between four fires, down to a force floor (go around it), left to
+another force floor (go around again), up to the place between four
+fires, then left until there are no more chips. Now go up and left to
+another place between four fires. Next go up six steps, right six steps,
+down six steps, left six steps, down six steps, right six steps, and
+up six steps. By now you only have 2 or 3 seconds left so hurry to the
+exit square to finish the level.
+
+
+
+LEVEL 032 - SCAVENGER HUNT
+Password: PEFS
+
+This level is a large maze with thin walls. There are only three chips
+that you need to get, but these chips are guarded by fire, water, or a
+force floor. To get past these barriers, you must find the appropriate
+boots for the barrier (the flippers, the fire boots, or the suction
+boots). The fire boots are found at the bottom left, the suction boots
+are near the top, and the flippers can be found at the upper right
+corner of the level. After getting these, you can now go find the three
+chips! The chip guarded by the force floor is at the left side, the chip
+guarded by the fire is near the middle, and the chip guarded by the
+water is at the right side. When you got all these, go to the exit
+square at the center.
+
+
+
+LEVEL 033 - ON THE ROCKS
+Password: BQSN
+
+Like so many other levels, patience is the key for this level. You start
+on this little island with a block cloning machine. Most of the level is
+water, so you need to start using the blocks to build a path to the
+different chips and eventually the exit square (located at the upper
+right corner). It's a good thing that this level isn't timed, cause it's
+going to take you a looooong time. Along the way you'll find other block
+cloning machines to help you. Good luck!
+
+
+
+LEVEL 034 - CYPHER
+Password: NQFI
+
+Ha! This level is so easy that is seems like a bonus! Anyway, you can
+easily follow the path of letters and collect the needed chips along the
+way. Avoid the bugs and eventually you will reach the exit square. By
+the way, do you know the secret meaning of those letters? If you make a
+map of the level and view it from far, you will see that there are three
+rows of four letters each. Each row tells you a different password for
+another level in Chip's Challenge. The first row tells the password for
+level 082: LLIO. The second row tells the password for level 137: HPPX.
+And finally, the third row shows the password for level 146: JHEN.
+
+
+
+LEVEL 035 - LEMMINGS
+Password: VDTM
+
+There are two parts of this level: The outside, which really has nothing
+but a few blocks in the lower right corner, and the inside, which has a
+bunch of fireballs guarding the chips. Go to the inside and stay beside
+the entrance to the fireball part. The trick to getting the chips there
+without being damaged by the fireballs is the first lead them out of
+their pattern and make them go into the pool of water. So get a brown
+block from outside and put in on the third block from the right side at
+the place where the fireballs are. Then push it one step to the right so
+that it is over the other gray block. After a while, they will start
+going into the water... but there are still some others left. Disrupt
+their pattern by pushing a block in their way. Hopefully, they'll find
+their way to the water and not hurt you. When most of them are gone, you
+should be able to get all the chips... and when you are finished doing
+that, go to the lower left corner of the inner area. Get the chip socket
+and quickly move away, allowing the fireball to pass through. Go into the
+exit square.
+
+
+
+LEVEL 036 - LADDER
+Password: NXIS
+
+First, go left and get the blue chip, but don't go past the recessed
+wall. Go right and down until you reach the first recessed wall at the
+left. Pass by there and get the two chips, then go down through another
+recessed wall and get two more chips. Continue doing this until you
+reach the bottom (you should have only 12 chips remaining). Exit through
+the right and go down until you reach the second recessed wall at your
+left. Take that path and collect the chips and the blue key. When you
+reach the end, take the top path of recessed walls to go back. Now go
+up and turn left (at the place without recessed walls) into a long
+passage. Go passed the blue lock at the end. There's a brown button
+there-- push it and quickly step down to avoid getting hit by the tank.
+Go around and pass by the bear trap that the tank was on. Ignore that
+second tank (for now) and go left to a place with lots of bear traps.
+The switch to open each bear trap is at its left. So be sure not to
+step on any open bear traps and push the brown block over the brown
+button to hold the bear trap open. Then step on the green button and go
+down to open the next bear trap (remember not to step on any). Continue
+doing this until you reach the bottom and get the chip. Now go back to
+the top where the second blue tank is. Hit the brown switch and step
+away to avoid him. Go up past the bear trap and go left where there's a
+lot of other bear traps. This is the same thing as before, except this
+time it's going up. Do the same thing you did in the other place until
+you reach the chip at the top. Then go back down and right to the third
+tank. Again, step on the brown switch and step away. Do this again to
+the next one. On the last one, take two steps up to get the chip, and
+quickly take two steps down to avoid the tank. Pass through the blue
+lock and get the red key (DO NOT go through the recessed wall!). Go down
+to the very bottom to the path where you got a lot of chips. Take the
+bottom path of recessed walls, through the red lock, through the chip
+socket, and into the exit square.
+
+
+
+LEVEL 037 - SEEING STARS
+Password: VQNK
+
+In this stage, there are 56 chips you need to collect. Each of these
+chips are in groups of two... and each group of two chips is behind a
+"barrier" of water. In order to collect these chips, you must use the
+blocks to form a land bridge over the water. But make sure you use only
+ONE block for each barrier of water, because you will need all the
+blocks you have! Try to be careful not to push the block into a corner
+or any position where it would get stuck. You have plenty of time on
+this level, 800 seconds. When you are done collecting all the chips, you
+might have as many as two extra blocks that you didn't use to cover the
+water. The exit square is at the place where you started.
+
+
+
+LEVEL 038 - SAMPLER
+Password: BIFA
+
+In this level, you must go through the teleporter and collect different
+items in order. Follow these directions: First, get the green key. Then
+go through the teleporter *vertically* four times. Now there is a green
+lock at the bottom right corner-- go through it and get the suction
+boots. Enter the teleporter once to return to the beginning. Now, go
+through the teleporter four times through the *side*. Cross the force
+floor at the bottom right corner to get the chip. Enter the teleporter
+once to return to the beginning. Go through the teleporter twice
+vertically. Go through the socket at the corner and get the red key. Go
+through the teleporter four times vertically. Get the blue key from
+behind the red lock (at the bottom corner). Go through the teleporter
+four times to return to the beginning. Now go through the teleporter
+twice through the *side*. Get the fire boots at the bottom right corner
+behind the blue lock. Enter the teleporter again (once) and get the
+flippers from behind the fire. Go through the teleporter twice to return
+to the beginning. Go through the teleporter three times *vertically*.
+Hit the green button behind the water. Go through the teleporter two
+times vertically... then once from the side. Get the yellow key at the
+bottom right corner. Enter the teleporter four more times... and go into
+the exit square at the bottom right corner (behind the yellow lock).
+
+
+LEVEL 039 - GLUT
+Password: ICXY
+
+This is a very easy level... when you realize that there is another exit</pre><pre id="faqspan-2">
+besides the one blocked by the monsters. You need to get only 29 chips
+in this level. And you only have 29 seconds, but it's still very easy.
+The other exit is lower and more to the right of the exit squares
+blocked by monsters. You should be able to get most of the chips while
+just getting to the exit square.
+
+
+
+LEVEL 040 - FLOORGASBORG
+Password: YWFH
+
+This level has all the traps and obstacles you can think of: fire,
+water, force floors, ice, spies. You need to collect the items in the
+correct order so that they will help you get to the exit and not get
+stolen by the spies. First, go up into the force floors and HOLD the up
+button. Can you see the spy and the fire boots there? Press down so that
+you would go to the spy beside the fire boots (you won't lose anything
+because you don't *have* anything). Get the fire boots and walk across
+the fire to go back to the beginning of the stage (you also need to
+slide across the ice). When you reach the beginning, take the same path
+up through the force floors and move LEFT so that you take a narrow path
+of force floors to get to the flippers. Now go down into the fire, and
+follow the path of fire left until the path ends by the suction boots.
+Get those suction boots (don't touch that spy!). If you take one step
+up, you should be able to see the exit square at the upper left corner.
+Go swim across the water, slide across the ice, walk through the fire,
+past the force floors and finally into the exit square.
+
+
+
+LEVEL 041 - I.C. YOU
+Password: GKWD
+
+There are a bunch of bugs going around the edges of the course in a
+line. Wait for a break in their pattern and get in and join them. Get
+the four chips at very corner for a total of 16 chips. Then go to the
+hint block at the left side of the exit square. When you step of it, a
+clue about how to travel trough the teleports (1st:rdul - 2nd:lulu). So
+enter the 1st teleport (the one at the left, near the hint) by traveling
+right (meaning you enter from the left side). Move the block upwards and
+get the four chips there. Now go back and enter the teleport by
+traveling down (enter from the top). Push the block away and get four
+more chips. Go back and enter by traveling up (enter from the bottom).
+Move the block away and get the four chips. Go back and enter the
+teleport by traveling left (enter from the right). Move the block away
+and get four more chips. Enter the teleport one more time vertically to
+return to the main room. Now follow the second sequence of directions at
+THE SAME teleport. Enter by travelling left, move the block, get the
+chips. Enter by travelling up, move the block, get the chips. Enter by
+travelling left, move the block, get ALL of the chips. And enter by
+travelling up, move the block, and get the final 4 chips. Enter once
+more through the side to return to the main area where you can enter the
+exit square.
+
+
+
+LEVEL 042 - BEWARE OF BUG
+Password: LMFU
+
+This level is made of a big spiral with a block of water at the outside
+end. Several enemies are in this spiral an they're moving in their
+regular pattern. On your way from the outside to the inside, you must
+collect the chips and avoid the bugs at the same time by hiding in
+either the outside corner or inside corner. It all depends on the
+movement patterns of these enemies. All of the enemies here EXCEPT the
+bug with drown in the water when they reach it. The bug will turn around
+and try to get you from behind (hence the name "Beware of bug"). Here's
+the solution: Go left to the upper left corner and get the chip. Stay in
+the outside corner until a paramecium passes by you. Continue down to
+the next corner and get the chip. This time, stay in the place when the
+chip was and wait for a fireball to go by. Continue going really fast to
+the upper right corner (getting the chip along the way) and wait in the
+place where the chip is. Soon a bug will go past you. This is the bug to
+beware of because he won't drown in the water. Instead, he will turn
+around and try to get you from behind. Run to the next corner and wait
+in the place where the chip is for a glider to pass by. Continue to the
+next corner and get the chip... wait in the outside (not where the chip
+was) for a paramecium to pass you. Now as fast as you can to the center
+of the spiral (collecting chips along the way). Go into the exit square
+at the center of the spiral.
+
+
+
+LEVEL 043 - LOCK BLOCK
+Password: UJDP
+
+First, go down and right until the second block to the end. There is a
+pink ball going up and down in this area. When it's safe, run up into
+the  "safe spot" at the right. When the pink ball is below, run higher
+up to get the red key. Retrace your steps back to the bottom. Continue
+going right until you reach a block. Push the block upwards into the ice
+and quickly move right. Go in front of the line of three brown blocks.
+The left block and the middle block have fire under them. Push the right
+block into the water and use it to get the fire boots and the blue key.
+Go right and use the red key to open the lock. Push the three brown
+blocks into the water, forming a bridge. Cross the bridge and take the
+path at the left. Go over the recessed walls and get the red key. Take
+the path of force floors back to the red lock. Open that lock and use
+the blocks to form another bridge across the water. Cross the bridge and
+go to the force floors. When it's safe, cross the force floor path and
+go down to get a key. Go over the recessed wall and go around to the red
+lock. Use the key on the lock and push the blocks over the water like
+before. Cross your newly-formed bridge and get the red key at the other
+side of the fire (you have the fire boots). Use the blue key on the lock
+and push the blocks over the water. At the other side, use the red key
+on the lock and push the blocks over the water one last time. Go over to
+the other side of the water and into the exit square.
+
+
+
+LEVEL 044 - REFRACTION
+Password: TXHL
+
+This level is divided into four sections. And each of those sections is
+divided into four smaller rooms with two chips each. There is a tank in
+each of these rooms which prevents you from getting all the chips. You
+must push the blue button and move the tanks to get all of the chips.
+Here's how to beat this level: Go down, left, and down into the lower
+left section. Get all the chips possible in the four rooms. Press the
+blue button found in this section to move the tanks. Now get the
+remaining four chips in this section. Leave this section. Push the green
+button (found in the long hallway) to open/close the toggle doors. Enter
+the upper left section. Get all the chips possible here and exit. Now
+go to the upper right section. Get all possible chips, press the blue
+button to move the tanks, and get the remaining chips. Exit this section
+and go back to the upper left section. Get the remaining chips here.
+Exit and go to the lower right section (you'll need to toggle the doors
+again). Get all the possible chips here, go to the upper right section
+and hit the blue switch, come back to the lower right section and get
+the rest of the chips. You have all the chips! Go to the exit square at
+the bottom of the level.
+
+
+
+LEVEL 045 - MONSTER LAB
+Password: OVPZ
+
+In this level, monsters are being manufactured everywhere. To get to the
+exit square, you need to stop all of the cloning machines from making
+monsters. First, go to where the bugs are being cloned. To stop them, go
+into the room at the right and get a block. Push the block to the space
+right in front of the cloning button. Now the bugs are stuck there. Do
+you see the fire boots and suction boots in the water? Get more blocks
+and build a bridge to get them. Go up until you see the tanks and the
+blue button. Put some block in the water going to the blue button. Push
+the blue button and the tanks will all get stuck. Go down and to the
+right of where you started. Go down into the fire. There's a bunch of
+fire balls there! Place a block in front of the cloning button to stop
+the fireballs from being cloned. Go upwards and past the force floors to
+get to the place where the pink balls are being cloned. Put a block
+there to stop them. Return to the beginning of the stage and down past
+the spy (don't worry about losing your equipment). Use more blocks in
+the water to build a path to the exit square.
+
+
+
+LEVEL 046 - THREE DOORS
+Password: HDQJ
+
+Get the red key and go down from there (don't open the red lock beside
+you). You'll arrive at the fire boots. Go one step up to get the green
+key and go left. You'll get the flippers. Get the blue key and the chip
+and go up from where the chip was. You'll use the key on the red lock.
+Press LEFT to return to the previous land and LEFT once more and UP.
+You'll go up and pick up a red key (you'll also step on the bear trap
+switch to free the pink ball. Back track your steps to return to the
+place where you opened the red lock and go UP again to go in the fire.
+Go UP again from there. Get the chip and the yellow key. Take the UP
+path and the RIGHT path to get two chips. Now return down to the fire.
+Follow this path: L,L,L,L,U,R,D,L,L,R,D. You'll follow a force floor
+path into the water. Go through the yellow door and get the chips and
+yellow key (DO NOT step on the green switch or step on the recessed
+wall). Return to the water and go through the blue lock. Get all the
+stuff you find there and return. Go back on the force floor path (you
+have the suction boots) and up on the ice. Go through the four colored
+locks, passed the recessed wall, through the chip socket, and into the
+teleport. Go through the LEFT recessed wall and into the exit square.
+
+
+
+LEVEL 047 - PIER SEVEN
+Password: LXPP
+
+The objective of this level is to build a bridge to the center of the
+lake where the four chips are. You only have seven blocks and there's
+only one place where you can build this bridge: From the bottom left
+corner, count 14 steps to the right (so the block is the 15th block to
+the left). Build a bridge starting from here up to the center using all
+seven blocks. You also need to use the gray square of floor there as
+part of the bridge. After getting the four chips from the center island,
+go to the exit square at the bottom right corner.
+
+
+
+LEVEL 048 - MUGGER SQUARE
+Password: JYSF
+
+First, go left into a large open area and get the chip there (DO NOT get
+the skates yet). Take the force floor path into the spies and get the
+ice skates. Now, move on the force floors so that you enter the teleport
+block through the bottom. This will bring you to the ice area. Don't get
+the flippers here but get the chip on the ice. Go on the force floors
+into some spies. NOW collect the flippers and move on the force floors
+so that you enter the teleport block through the left side. Now you are
+in the water area. Get the two chips from the water and go on the force
+floors to the spy. Take the fire boots and move on the force floors so
+that you enter the teleport block through the top (so you'll go to the
+fire area). Watch out for the fireballs here and get the chip and the
+suction boots. Wit the suction boots, you'll be able to walk around the
+spies instead of getting all your stuff stolen. Go around the spies and
+get the final chip. Return right to the open area and get the ice
+skates. Now enter the teleport block through the bottom. Take the
+flippers and go enter the teleport block through the left side (to go to
+the water place). Go through the chip socket and into the exit square.
+
+
+
+LEVEL 049 - PROBLEMS
+Password: PPXI
+
+Go left and quickly collect all 18 of the red keys here. You only have
+15 seconds to do this because when you have about 185 seconds left on
+the timer, the pink balls will be unleashed. After collecting all the
+red keys, run to the right and take the path of red locks down. Cross
+the bear trap switch and start collecting the 23 chips here. You have
+all the time you need here, so take as much time as you want. When
+you've collected all the chips, go to the exit square at the upper left
+corner.
+
+
+
+LEVEL 050 - DIGDIRT
+Password: QBDH
+
+In this level, you must go through the dirt and into the squares of land
+where the chips are. Unfortunately, there are monsters protecting each
+of the chips. The safest (but not the fastest) strategy of getting these
+chips is to clear out ALL the dirt in the level except the ones touching
+the squares with the chips. When that's done, go to a square and take
+out one block of dirt and step back. The monster inside will get out and
+you'll have time to get the chip. Repeat this step with all the squares
+until you've collected all of the chips. When you have all the chips,
+go into the exit square near the center of the stage.
+
+
+
+LEVEL 051 - ISLIDE
+Password: IGGJ
+
+This level is a maze of ice with a land area in the center made of nine
+blocks. First go to the upper left block and go up. When you reach a
+chip, press up again to get to another chip. Now return to the center
+"island" (right, down). Now stay on the upper left block and move left.
+You'll arrive at a chip. Now press up to get to another chip, and press
+left to return to the center island. Stand at the lower left block and
+press left. When you get to the chip, go down to get to another chip.
+Press down again to go back, and left to return to the island. Go to the
+middle bottom block and press down. When you get to the chip, press up
+for another chip. Now return to the center island (left, left). Now from
+the bottom right block, press down to get another chip (4 chips left),
+and left for another chip (3 chips left). Return to the center island
+(up, up). Now from the bottom right block, press right to get a chip (2
+chips left), down to get another chip (1 chip left), and down to get the
+final chip (complete!). Return to the center island (up, right, up) and
+go up from the top middle block. Go up one last time to go into the exit
+square.
+
+
+
+LEVEL 052 - THE LAST LAUGH
+Password: PPHT
+
+This is another level that I was stuck on for a while. It looks like
+it's impossible to get to the upper area, and it seems like there's
+nothing you can do! There's a monster in a box that toggles the doors
+every time you cross the other side. Here's how to get to the top:
+First, stand at the left side of the line of three force floors. When
+there are no bug that could harm you below, cross the force floors until
+you get to the third block of force floor, then quickly move down and
+cross the force floor there back to the left side. You need to do this in
+a way that the teeth in the box will step on the toggle switch but not
+cross to the right side but turn back to the left side instead. If you
+did this correctly, there should now be a path to the upper part on the
+side where you're standing. Go up there and cross the path of recessed
+walls to toggle the doors and collect the chip. Now the fireballs are
+blocking the path back to the lower area. Use the block on the water
+(closer to the exit square) to build a new path to the lower area. Now
+go down and do that same trick with the force floors to open up the path
+to the upper area. Then cross the force floors completely to the other
+side and go to the upper area. Take another path of recessed walls to
+toggle the doors and collect the chip. Now the fireballs are blocking
+your path again! To open up the path, go further up and stand over the
+middle force floor (the one over the cloning button). Don't go any
+further than that! Return down to discover that the fireballs have
+disappeared. This is because the teeth in the box down there stepped on
+the toggle switch! Take the force floor path to the left side and go
+into the exit square.
+
+
+
+LEVEL 053 - TRAFFIC COP
+Password: CGNX
+
+This level is very easy when you learn how to do it. Follow the lower
+path down to the force floor. Cross the force floor to get to the toggle
+switch (this removes the toggle doors around the exit square). Now it
+looks like you can't move anywhere, but actually you can 'force' your
+way through the force floor by holding down. Now you can return to the
+beginning and walk right into the exit square. To save even more time,
+you can use a block over the water to create a shortcut to the switch.
+
+
+
+LEVEL 054 - GRAIL
+Password: ZMGC
+
+This is a weird level and I'm not really sure if I'm doing it right.
+Anyway here's how I beat this level: First, go left over the red cloning
+switch. This switch clones brown blocks. You need to ride on the force
+floors a bit and press down at the right time to land on the switch. Now
+a block will come riding on the force floors and will hopefully come to
+you. If it doesn't come to you and lands somewhere else, try again. Keep
+on cloning these blocks and make a little bridge going to the red key 
+and the flippers. Then swim to the island below to get the yellow key.
+Force yourself against the force floors to make your way to the lower
+area. Collect all 68 of the chips here. In the top right place you can
+get the fire boots if you want. I'm really not sure what I did next
+here: Go through some teleport blocks and *hopefully* they will lead you
+to the area where the yellow lock is. So go through the yellow lock and
+continue to go into the exit square [NOTE: If anyone has some clear
+instructions on what to do here, please tell me!]
+
+
+
+LEVEL 055 - POTPOURRI
+Password: SJES
+
+You'll need to be a little quick in this level because your time is
+seriously limited. So... move right and push the block into the bomb so
+you can collect that chip. Then go to the 'blue tank area' and be fast
+to collect the fire boots and the blue key. You can't simply take that
+open path to the exit square because of the invisible wall blocking your
+way.  Now go down until you see a chip enclosed with blocks. Push the
+brown block right to get it. Watch out for the block at your top-right,
+there's a spy hiding under there (so don't push that block!). Continue
+left and go into the fire place (you got the fire boots from the tank
+place, right?). Collect all the chips at the other side of the fire and
+remember to get the chip from under the block in the fire place. Go
+through the blue lock and get all the chips from this ice area (you need
+to watch out for invisible walls). From here, go up into a place with
+pink balls. Get all the chips from here and get the chip behind the
+blocks at the left end. If you still have a chip remaining now, look for
+it under the blocks in this area. Go back to the right side and go
+through the chip socket and into the exit square.
+
+
+
+LEVEL 056 - DEEP FREEZE
+Password: FCJE
+
+Go down until you see a path of solid land at your left. Take that path
+and use the second force floor you see (the one going down). This will
+lead you to step on a toggle door switch. Press down again and you'll be
+brought to the exit of this ice area. Continue going right into another
+ice area and you'll go through a teleport. Press up to go through the
+teleport again and return to your previous place. Take the path up while
+avoiding the pink balls. Then go right at the gravel and go down at the
+second opening you see. Again, you'll go through the teleport and
+collect the chip. Return through the teleport to be brought back to
+where you were before. Now go to the ice area at the top right and pick
+up all the chips until the "chips remaining" is at 0. Then go to the
+upper left ice area and go through the middle chip socket at the side.
+This brings you to the ice skates. Return to the place where you got all
+the chips and go into the exit square at the top right corner.
+
+
+
+LEVEL 057 - STRANGE MAZE
+Password: UBXU
+
+This level is called "strange maze" because of the weird, colorful
+looking walls. But actually, it's just like a normal maze. In fact, it
+becomes a little easier with the different walls because you'll know
+what part of the maze you're at. Simply collect all of the chips and go
+to the exit square. Don't worry about the monsters because they're stuck
+in bear traps.
+
+
+
+LEVEL 058 - LOOP AROUND
+Password: YBLT
+
+When you start the level, it looks like you're in an open space. But
+actually you're almost surrounded by invisible walls. First, enter the
+force floor path at your direct left side (you need to go around the
+invisible wall). The force floor path will bring you around the upper
+left square and into a teleport. Then you will take a force floor path
+around the lower left square and into another teleport. Now you're going
+around the lower right square. Push against the blue blocks while you're
+passing along the side. You will go through a block five squares from
+the bottom. Now go around the invisible walls and get the flippers. Now
+find your way into the water and pick up the chip there. Get back on the
+force floor path to be brought back to the beginning. Get on the force
+floors and push against the wall of the upper left square... the opening
+is at the top part. You need to stop at the opening of the wall so the
+ball doesn't get you. When the ball is at the right, go down and left
+and escape from the path of the ball. Find a way into the pool of water
+and swim in to get the two chips. Take the force floor path until you're
+going around the bottom right square again. Push against the blue blocks
+above you at the top side and you'll find a path. Take the path around
+and push yourself into a opening at the right side. Don't touch the spy!
+Go around and find the opening into the water at the left side. Swim
+across and get the chips. Go out and take the force floor path back to
+the beginning of the level. Get on the force floors and push against the
+walls of the lower left square to find an opening. Collect all the
+remaining chips from there. Now take the force floors to the bottom left
+corner and go through the chip socket and into the exit square.
+
+
+
+LEVEL 059 - HIDDEN DANGER
+Password: BLDM
+
+Start out this level by doing the obvious: Go down. You'll slide all
+around the level and stop at the land on the left side. Go up until you
+reach a toggle switch. This switch will toggle all the doors, therefore
+releasing all the monsters. When the monsters are at the right side,
+step on the toggle switch and continue on to the ice. When you reach the
+red key, quickly go down and run to the left side until you see a
+recessed wall. Pass through the recessed wall and get the chip. Continue
+going don and getting the chips until you have 0 chips remaining. Then
+go around and get the flippers, suction boots, and fire boots. Now take
+the same path back to that toggle switch. Cross that switch and slide on
+the ice to where the fireballs are. They are moving in a loop. Stay
+above the upper right corner of their loop. When there is an opening in
+their loop, go in and continue with them for a short while. As soon as
+there's an open space at your right, go there. Go through the chip
+socket, force floor, fire, water, and go into the exit square.
+
+
+
+LEVEL 060 - SCOUNDREL
+Password: ZYVI
+
+A "Scoundrel" is an unprincipled, dishonorable person. And that's
+exactly what Chip is in this level. I'm sure there's a correct way of
+beating this level, but there's also another way that's much faster and
+much easier to do. Follow these directions: 11 steps down, 2 steps
+right, 6 steps down, 2 steps left, and down until you see the exit
+square. The exit square is covered in force floors and in looks like
+it's impossible to get in. But actually, you can push yourself right
+against the 'weird looking' force floor at the side and with a little
+luck you will land right in the exit square. It's that simple!
+
+
+
+LEVEL 061 - RINK
+Password: RMOW
+
+Making directions to follow for this level would be *extremely*
+difficult for me to do. So therefore I'll leave it up to you to finish
+this insanely difficult level. Ha ha ha! You need to go around this
+level of ice collecting the 16 chips found here. The blue blocks here
+are either fake or real (obviously, they must be). I suggest you make a
+map of this level and find a way to get all the chips and find a
+solution. Or even better, go look at a map from Alice Voith's site
+(http://www.geocities.com/~fishofgold/). I'm sure that would help. So...
+Good luck!
+
+
+
+LEVEL 062 - SLO MO
+Password: TIGW
+
+This level is like a chess board of toggle doors and normal spaces. The
+toggle doors open and close automatically... probably because of some
+pink ball stepping on the switch. You need to make it from the bottom
+left corner (your starting point) to the right side (the exit square).
+You will also need to worry about the colony of teeth infesting this
+level. This is much harder than it seems because the teeth move at about
+the same speed as you due, to the toggle doors blocking your way. To
+outrun them, look for "hallways" that don't have any toggle doors so you
+can move normally. I wouldn't worry too much about the blobs, they just
+have random movements and hopefully you won't run into them... but
+accidents still happen.
+
+
+
+LEVEL 063 - BLOCK FACTORY
+Password: GOHX
+
+Like many other levels, I'm not sure if I completed this level the
+"correct" way. But anyhow, this is how to beat the level: First, go up
+and right to step on the cloning button at the top of the level. The
+cloned block will step on another cloning button and set off a chain
+reaction of block cloning (but I don't think that's important). Step on
+the cloning button (at the top) again and again until the top row of ice
+turns into a row of blocks. Then go around and push one of those blocks
+up to the top row. Again, go around to the top row and push that block
+right until it reaches the water... be sure to step on it to make it
+permanent. Go back and repeat that step until you've built a bridge to
+that chip. Now use the force floors to get the rest of the chips until
+you have only one chip remaining. Move to the solid path at the left and
+follow it to another cloning button. Cross the cloning button and get
+the chip at the other side of the ice. Go around and go into the exit
+square at the bottom left corner.
+
+
+
+LEVEL 064 - SPOOKS
+Password: IJPQ
+
+This level is called "Spooks" probably because it's scary to move around
+with all the teeth watching you. The only way to finish this level is
+to make a path around the level without making your path touch the area
+where the teeth are. If the teeth have some way to get to you... they
+will. Your path can touch the teeth area *diagonally* because the teeth
+still can't get to you. After you finish collecting all the chips, make
+your way to the exit square at the bottom left corner.
+
+
+
+LEVEL 065 - AMSTERDAM
+Password: UPUN
+
+This level is made up of lots of blocks of land with smaller rooms with
+a chip inside. You need to push the blocks in a way that you can get
+inside the room for the chip... but not push the block in a way that it
+makes it impossible to reach another room. If two blocks are connected
+at a passage between two rooms, it's impossible to push the blocks and
+get into the next room (I hope you get the point now). A good strategy
+is to try to push the blocks into the corner so that they don't bother
+you anymore. Sometimes you will need to push a block into the water to
+get to some areas. After getting the chips, go to the exit square at the
+lower right corner.
+
+
+
+LEVEL 066 - VICTIM
+Password: ZIKZ
+
+This level won't take you too long when you learn how to do it. First
+take one step down and stay there for a while. All the teeth will gather
+around you but you won't get hurt because you're protected by the
+recessed wall. Do this next step quickly: Down, up, down, up, down, up,
+down. That's seven moves into the teleport. While you were doing that
+you also got the fire boots (you should have heard it if you have the
+sound effects turned on). Now get the four chips around you, open the
+toggle doors with the green switch, and get the chips outside. DO NOT
+get the chips protecting you from the teeth! The rest of the chips are
+enough to bring your chips remaining down to 0. When that's done, go
+through the path at the top where you'll see three chip sockets. Go
+through the right one (the one without a recessed wall) and into the
+exit square.
+
+
+
+LEVEL 067 - CHIPMINE
+Password: GGJA
+
+Okay... this level is composed completely of blue blocks. Among the blue
+blocks there are the chips. Your mission is to move through the blue
+blocks and find a path to the chips and eventually the exit square. Of
+course, within the blue blocks is a maze of solid blocks which you must
+figure out by yourself. Actually, this level is very basic. There's a lot
+of levels with virtually the same design as this (maze of blue blocks,
+you find out which are solid and which are fake). The design of this
+level is so simple that it makes me wonder if anyone would ever read
+this. Yeesh, I'm just wasting my time! So onward to the next level...
+
+
+
+LEVEL 068 - EENY MINY MOE
+Password: RTDI
+
+Go right and down across the gravel. Follow the path and soon you will
+come to a clone button and a block. Cross the clone button and quickly
+continue on the path, and bring that block with you! When you reach the
+first chip, position the block so that it forms a barrier to prevent to
+paramecium from escaping (you need to put it diagonally to the chip).
+When the paramecium reaches the barrier and turns around, continue
+pushing the block to the next chip and make another barrier. Continue
+trapping the paramecium in a smaller space until he's already trapped
+against the clone machine. Collect the chips and the green key on the
+way out. Return to the beginning and enter the green lock at the right.
+Go into the large area with water at the bottom. Go to the left side.
+Now push the first block back into the corner, push the third block back
+against the wall, and push the second block to the side where the third
+block was. Now go through the opening and push the third block
+completely to the right side (past all the other blocks). Now use the
+blocks to build bridges to the chips. Return to the beginning and enter
+the green lock at the left. Get the two chips at the top and wait. When
+the gliders with a large space between them come, jump down with them
+and get the SECOND chip down at the left side. DO NOT get the first chip
+because the gliders will go right into you. When the gliders with the
+large spacing come again, quickly run into the central area with all the
+bear traps. Now you should push a block into their pattern and screw
+them up so that they go into the water area. When they're all gone,
+collect all the chips and go into the exit square at the beginning.
+
+
+
+LEVEL 069 - BOUNCE CITY
+Password: NLLY
+
+Watch out for the several pink balls in this stage. First, go right and
+up (and keep going right and up) until you reach a place where you must
+cross some VERTICAL moving pink balls. Pass by them and take the upper
+path. Soon you'll come to a group of paramecium. Wait for a large
+opening in their pattern and follow them. When you come to multiple
+paths, split from the paramecia and take the path to the right. Go down
+the path with the four pink balls going up and down through it, use the
+holes in the wall to hide when they pass by. When you reach the bottom,
+go up the path with four more pink balls. Continue down along the path
+and collect the red and blue key. Return to the blue lock. Go through it
+and pick up the blue and yellow keys. Return down and go through the
+LOWER yellow lock. Get the yellow key and follow the paramecium along
+the path until you reach the three locks. Go through them all and into
+the exit square.
+
+
+
+LEVEL 070 - NIGHTMARE
+Password: GCCG
+
+Start this level by following the path downwards. The teeth will follow
+you as soon as the level starts, so be quick. Soon you will pass a bear
+trap switch. This releases the bear trap holding the bug, and that bug
+will start to chase you (he'll drown when he gets to the water). Then
+you'll pass by another bear trap switch that releases a fireball and it
+will start chasing you. Hit the toggle door switch as soon as you reach
+it to trap the fireball behind you. But another toggle door will open
+and release a glider! Let him go ahead a little and push the block down
+to form a bridge.. cross the gravel to escape that glider. Now you'll
+have to step on a bear trap switch that releases a paramecium. Continue
+on the path and push the block two spaces down. Go around and trap the
+paramecium when he goes in. [NOTE: If you have the Lynx version of the
+game, you'll step on a switch that releases another paramecium. This
+doesn't happen in the windows version.] Continue on the path and a teeth
+will start to follow you. Get the yellow key and continue right. Make
+your way past the pink ball by using the aclove in the wall (don't step
+on the blue button). Continue along the path. After crossing the gravel,
+you will need to step on yet another bear trap switch that releases the
+glider and he will, of course, chase you. Go through the yellow lock
+(hopefully the blob won't bother you) and continue until you reach a
+blue switch. LISTEN CLOSELY: Step on the blue switch, step down, and go
+up to step on the blue switch again before the tank goes right off the
+screen. Cross the other blue switch and hurry to the block. Hit the
+block up and QUICKLY move to the right to avoid getting hit by it (and
+killed). Continue doing this to the rest of the blocks so you can get to
+the top. Now push the top two blocks LEFT into the water... also step on
+them to make them solid (form a path to the red lock). Go up and step on
+the bear trap switch, then quickly hide in the aclove below. Wait for
+the fireball to go up past the force floors. Continue up past the force
+floor and go to the block. Step on the block to make him solid and move
+away to let the bug go into the water. Get the red key and go down on
+the path. Push the block into the bear trap switch. This will release
+SEVERAL bugs... so be VERY fast and go down past the gravel (you're safe
+now). Step on the right force floor to bring you to the path you made to
+the red lock. Go past the red lock and follow the path into the exit
+square to FINALLY end your nightmare... that was the longest level
+solution so far!
+
+
+
+LEVEL 071 - CORRIDOR
+Password: LAJM
+
+First push the block down into the water and get the red key. Go through
+the lock at the left, get the chip, and push the top block to the left
+(against the chip). Now inside the little square, push the top block
+down once and get the two chips. Push it down again, push the other two
+blocks to the side (one square), and get the two chips. Now push aside
+the block that you've been pushing down (push it into the corner).
+Circle around and push the middle block into the center of the square.
+You can now push those two blocks into the water. Feel free to do as
+much circling around as you need. When that's done you can get the red
+key and enter the right lock. Do the same thing here that you did to the
+other side (also push the two blocks into the water). You can now get
+the green key, the four chips around the water, and the blue key. Go
+back to the left square area and use the blue chip on the lock. Go up
+and get the chip and the yellow key. Go to the right square area and go
+through the lock to get the chip and red key. Continue exchanging
+between left and right areas to use the keys until all locks are cleared
+and you have the yellow and green keys. Now push ALL the remaining six
+blocks into the water (excluding the ones you pushed into the corner).
+Also collect the chips at the side of this "corridor" you're building.
+You should have 0 chips remaining when you reach the end. Go through the
+green lock and through one of the red locks. Watch out for the walker
+and get the blue key. Now you can go through the blue lock and into the
+exit square.
+
+
+
+LEVEL 072 - REVERSE ALLEY
+Password: EKFT
+
+In this level you must go through the alley while collecting the chips
+and avoiding the tanks. It's a very straight forward level and you
+should get it on your first or second try. It helps to have sound
+effects turned on her so you can get a rhythm of the tanks movements.
+In case you're wondering, there's a paramecium going around the outsides
+that's causing the tanks to move back and fourth when it passes on the
+blue tank buttons. This level is not timed so you an take as much time
+as you want. I think that's all I need to say for this level. Next...
+
+
+
+LEVEL 073 - MORTON
+Password: QCCR
+
+This is a terribly difficult level. One of the hardest levels in the
+game. At first this looks like a regular maze where you get the chips
+and go to the exit square. But things are much more complicated because
+of the teeth at the center of the maze. You need to get all of the chips
+and trick him to coming out of the center... and getting himself trapped
+so that he doesn't get you. This maze is full of invisible dead ends. It
+might help to make a map of this level and design a plan of how to get
+all the chips and trick the teeth into getting stuck somewhere.
+
+
+
+LEVEL 074 - PLAYTIME
+Password: MKNH
+
+First, go up past the clone button and slide left on the ice. The ice
+will bring you around the level and you will stop on a bear trap switch.
+Take one step right into the bear trap. When the pink ball comes and
+hits the bear trap switch, press up to slide up into the ice. Doing this
+requires exact timing when the pink ball steps on the switch. You will
+slide onto the land where some bugs are going around. Go down and get
+the chip, then return back up. Slide onto the ice at the upper part so
+the force floor will push you up to a new area. Now take 2 steps left
+and 6 steps down. Step left onto the force floors and they will bring
+you to the chip. Get out of the force floors. Get the chip from the area
+with pink balls and tanks... then get out of there. Push the two blocks
+into the water to form a bridge to the chip. After getting the chip,
+quickly get out of the area to avoid getting killed by those gliders.
+You should now have all the chips you need. Go into the exit square at
+the upper right corner.
+
+
+
+LEVEL 075 - STEAM
+Password: MJDV
+
+This level is called "Steam" because steam is produced when the fire
+goes into the water. You need to get the fire boots and the flippers in
+the correct order so that you can progress through this level. Touching
+the spies in unavoidable... and you *need* to touch them to beat this
+level. Follow these directions: 1U 1L 1D 4L 1U 2L 1D 3L 2U 1L 2U 1R 1U
+2R 1D 2R 2U 1R 1U 2R 3U 1R 3U 3L 3U 4L 2U 6L 1D 4L 4D 1L 1D 2L 7D 2L 2D
+1R 3D 1L. Great! Now you have both the fire boots AND the flippers! Now
+you can easily avoid the spies and go to the exit square at the upper
+left corner.
+
+
+
+LEVEL 076 - FOUR PLEX
+Password: NMRH
+
+First, go right. You will slide around and go through some teleports.
+When you stop, step right, down, and go right (through the blue wall).
+Follow the path and go through the last blue block. Go up to get the red
+key. Now return to the teleport. Go down through the blue block, the
+recessed wall, and the red lock and get the blue key. Now go through the
+teleport block 3 times through the side. Get the yellow key. Enter the
+teleport three more times (through the side) and go through the yellow
+lock. Now you are out of the ice area. Follow the path until you get to
+a clone button. This button makes a pink ball appear behind you... so
+step on the switch and quickly step to the side. Next you need the
+quickly get the chip, then go up to the safe place without getting hurt
+by the pink ball. After doing that, the pink ball will go into the
+water. Do the same thing to the other pink ball. Then go on the lower
+force floor path and get the chip. Move right again and quickly move
+DOWN to avoid the moving block. Push that brown block into the bomb at
+the right. Go through the bug place and return to the lower force
+floors. This time, move UP after hitting the block. Now push that block
+down and into the bombs at the right. Return to the UPPER force floors
+and push two more of the blocks into the bombs (one by one, from bottom
+to top). You don't need to do the top one. Follow the path (that used to
+be inhabited by bombs) and go up the force floors. Your next challenge
+is to use the gliders to hit the bombs. This shouldn't be too hard since
+they stop at every bear trap for you to set the toggle doors correctly.
+Get all the chips behind the bombs. You should now have 11 chips
+remaining. Go into the recessed walls area and get the chips there...
+then go to the next area (with locks and stuff). Get the blue and yellow
+keys. Get the fire boots from behind the yellow lock, get the red key
+from behind the blue lock, get the yellow key from behind the red lock,
+and the flippers from behind the yellow lock. Get the final two chips,
+through the chip socket, and FINALLY into the exit square.
+
+
+
+LEVEL 077 - INVINCIBLE CHAMPION
+Password: FHIC
+
+In this level you must follow the path of the bees to get the five
+chips. But there's one bee in the area that's going the opposite
+direction than the rest of the bees. You need to give him a path leading
+him away from the rest of the bees through an opening at the top right.
+When he goes away, you can follow the bees around to collect the five
+chips. Then enter the exit square somewhere near the top left.
+[NOTE: DO NOT clear a path going to the clone button. A glider is
+somewhere in this level and he will clone more gliders if he reaches
+that button. And the cloned gliders will clone more gliders... it's a
+chain reaction!]
+
+
+
+LEVEL 078 - FORCE SQUARE
+Password: GRMO
+
+When you are in the force floor area, you can only move one square at a
+time. You can't trick the force floors and try going in the opposite
+direction. Just look at the direction of the force floors and find a
+path to the chips. It's really not that hard. In case you get stuck, go
+through an opening at the left side and enter the teleports. Try going
+through different directions to get to different areas of the force
+floor maze. When you have collected all the chips, go out through the
+opening at the left and use the keys to reach the exit square..........
+And for all you lazy people, here's a detailed walkthrough: R U R U U L
+D L U R D D D D D D L L L L L L U U U R U L U R U L D R D L D R R U U U.
+Now go out through the opening at the left, enter the teleport, and
+enter the teleport again from the top. D R. Go out through the opening
+at the left, enter the teleport, and enter the teleport again through
+the top. D L. Now you have all the chips! Exit through the left, enter
+the teleport, get the yellow key (if you didn't get it before), enter
+the teleport through the left, enter the teleport again, get the red
+key. Enter the teleport a few more times, go through the yellow and red
+locks, into the exit square.
+
+
+
+LEVEL 079 - DRAWN AND QUARTERED
+Password: JINU
+
+This level is composed of four areas. You start the level in the lower
+right area. First, collect all the chips in their little "rooms" along
+the sides. When all the chips are collected in this area, enter the
+teleport through the right. Now you are in the lower left area. While
+collecting the chips in this area, try not to break the position of the
+fireballs. Just keep them going around in the same rectangular loop.
+Just remember their pattern: They go forward and turn right when they
+meet an obstacle. When all the chips are collected in this area, enter
+the teleport through the bottom. Now you are in the upper right area.
+Again, collect all the chips here without disrupting the pattern of the
+fireballs. Go through the teleport through the top. You are now in the
+upper left area. This time, you'll need to disturb the pattern of the
+fireballs a little. But make sure they don't go into the teleport (that
+would just confuse everything). After getting all the chips, enter the
+exit square at the bottom right corner (of this section).
+
+
+
+LEVEL 080 - VANISHING ACT
+Password: EVUG
+
+Ohhh... this level is evil. It's actually a maze where the walls are
+made of *invisible* blocks! These invisible blocks are located at the
+parts of solid land at the beginning. The parts that are dirt blocks at
+the beginning are just open spaces. But as you continue through this
+maze collecting chips, the dirt path will disappear and look just like
+the walls. Unfortunately, the only way I was able to solve this level
+was by making a map. So that's what I suggest you do. With a map this
+level is sooooo much easier. I hope that helps :P  When you finish
+collecting all the chips, go into the exit square at the bottom right
+corner.
+
+
+
+LEVEL 081 - WRITER'S BLOCK
+Password: SCWF
+
+Ladies and gentlemen, this is a hard level. Well, not really too hard.
+But it's a LONG level! You need to use every block to build little
+bridges to each of the chips. If you make one mistake, you'll need to
+start over. The blocks are arranged in the giant word "THANKS". You can
+take as much time as you want in this level because it isn't timed. To
+reach the blocks in the corners, you need to use more than one block.
+The three blocks that compose the cross of the "T" are along the water.
+Push the middle block into the water so you can use the other two
+blocks.
+
+
+
+LEVEL 082 - SOCIALIST ACTION
+Password: LLIO
+
+First, go up five steps and push the block at your left into the wall.
+Then push the block at your right into the opening where the bugs come
+through (put it beside the upper block) so that they have to go around.
+Now do you see the little wall thing of two blocks (right above you)?
+Stand at the right side of the upper block. [NOTE: In case you didn't
+understand the above instructions, follow these directions from the
+start: U5 L2 4R 1U 2L 1D 1L 2U 2R 3U] Now follow these directions:
+7U 12L D1 12L D4. You are now in the gravel area... safe from the bugs.
+Go down and there should be a teeth monster watching you. Stand beside
+the water so that he'll dive in. Next, go down into the corner and wait.
+Soon a teeth will come running to you. When he's about two or three
+blocks away, step up so he'll also go into the water. Stay on the gravel
+and a bug will soon come and kill himself in the water. All you have to
+do now is take the long path around the bottom of the level and into the
+exit square.
+
+
+
+LEVEL 083 - UP THE BLOCK
+Password: OVPJ
+
+The first thing you need to do is bring the block to the glider area. So
+go 4D 2R and take the path upwards until you reach the block. Push the
+block to just under the force floor. Now go to the glider area and go
+through the path at the top. Go down the first force floor to push the
+block downwards. Next, push the block to the far right path (without a
+force floor) and down to the bottom. Again, take the path above the
+glider area... but go PAST the first force floor and push the block into
+the glider area. You need to use the block to make the gliders hit the
+bombs at the bottom. When all the gliders are done, use the block to hit
+the last bomb. Now you can start collecting chips! You can start with
+the little glider area at the left, there's two chips at the top. Get
+out of there and collect six more chips in little triangle compartments. 
+When you only have 6 chips left, it's time to enter the large glider
+area. You need to send the gliders flying into the bombs at the
+center... so take the block from the side and bring it into the glider
+area through the right side. You only need TWO gliders to hit the bombs.
+Collect the chips and the center of the bombs and return to the first
+glider area. Go through the chip socket at the top and into the exit
+square.
+
+
+
+LEVEL 084 - WARS
+Password: UVEO
+
+Go left and push the block 15 spaces to the left (in other words, take
+16 steps left at the start). Now push the block up until it's disrupting
+the pattern of the bugs. The block should be touching the corner of the
+wall there. Doing this disturbs the pattern of the bugs and creates a
+little space between them for you. So get in that space and follow the
+bugs around while collecting the chips. When you've collected all the
+chips you need (only 5), exit from the bee path through the bottom left
+corner. Circle around this wall to the exit square at the upper left.
+
+
+
+LEVEL 085 - TELENET
+Password: LEBX
+
+First, make your way to the bottom left to get the blue key (15L 14D 7L
+13D 7L 7U). Then enter the blue lock at the bottom right to enter the
+"telenet". You need to travel from one block to the next collecting the
+chips and avoiding getting hit by the fireballs. All the fireballs in
+the level travel at about the same direction. I mean, when a fireball is
+at the top of a block, all the rest of the fireballs are also at the top
+of the block. They're all at about the same position of the block and
+travelling at the same speed. So if a fireball is at the top of the
+block, go DOWN through the teleport so the next fireball won't hit you.
+When you have all the chips, exit the telenet. Go through the chip
+socket and continue into the exit square.
+
+
+
+LEVEL 086 - SUICIDE
+Password: FLHH
+
+First, go left and push the block until it's two spaces away from the
+left wall (23L). Then push the block down until it's two spaces away
+from the bottom wall (there's only one space between the block and the
+wall). There's a pink ball bouncing up and down along the left side
+wall. When that pink ball reaches the corner, push the block left to
+trap it there. Now stay at the right (below the bombs) and wait. Gliders
+will soon be coming one by one to hit the bombs. While they're doing
+this, try to stay in a safe place (like between some walls) so that the
+gliders don't get you. When all the bombs are gone, go right into the
+exit square.
+
+
+
+LEVEL 087 - CITYBLOCK
+Password: YJYS
+
+This is a very time consuming level. First, go up to the place where
+chips are being covered by walls of three brown blocks. You need to push
+back the blocks at the left and the right and push the middle block to
+the side to get the chip (you'll need to toggle the doors a few times).
+Next you need to get the chip's from behind the two big pyramids of
+blocks. Do some careful block pushing and toggling to get those chips.
+When that's done, the next thing to do is get the chips in those two
+triangles of blocks and toggle doors. Then use the blocks to build a</pre><pre id="faqspan-3">
+bridge on the water at the left. You should build a bridge along the
+right and the bottom TWO blocks wide. Then build a little bridge along
+the top and the left only ONE block wide. You'll also need to use the
+blocks from the triangles. The blocks from the upper left area should be
+enough... After that, continue to the lower left area by taking the path
+of ice. Go left and push the block on to the ice and step DOWN quickly
+because the block is coming back. Now push the block UP and get the chip
+at the left. Continue pushing the block up across all the force floors
+until it reaches the path you were building before (also collect the
+other chips at the left). Push that block into the water. Now you need
+to collect the chips at the right side. To do this, push the bottom
+right block ONE space to the RIGHT. Now circle around to the top right
+force floor and take the path down while collecting the chips at the
+right side. When you reach the bottom, you'll push the block one space
+down forming a path for you to get out. Don't push that block down again
+because it will bounce back to you! Now go to the chip socket. From the
+space at the left of the chip socket, follow these directions: 5R 1D 2R
+1U 3R 1D 3R 1U 1R 3D 1L 5D 1R 3D 2U 2L 1D 1R 3D 1U 1R 1D 1R 1U 1R 1D 1R.
+
+
+
+LEVEL 088 - SPIRALS
+Password: WZYV
+
+There are two versions of this level for different versions of the game.
+Here's the solution for the normal version: Take the path and go DOWN at
+the first chip, DOWN at the second chip, LEFT at the third chip, RIGHT
+at the fourth chip, DOWN at the crossing, DOWN at the fifth chip, LEFT
+at the sixth chip, UP at the seventh chip, UP at the eight chip, LEFT at
+the ninth chip, DOWN at the tenth chip, DOWN at the eleventh chip, go
+down at the crossing, LEFT at the 12th chip, and into the exit
+square.
+
+Here's the solution for the second version of the level: Take the path
+and go DOWN at the first chip, DOWN at the second chip, DOWN at the
+third chip, UP at the fourth chip, DOWN at the fifth chip, LEFT at the
+sixth chip, RIGHT at the seventh chip, RIGHT at the eighth chip, DOWN at
+the ninth chip, RIGHT at the tenth chip, go LEFT at the crossing, LEFT
+at the eleventh chip, LEFT at the 12th chip, and into the exit
+square.
+
+
+
+LEVEL 089 - BLOCK BUSTER
+Password: VCZO
+
+Go up to the first clone button to make a block. Push the block aside
+and move down to avoid getting hurt. Now go up and step on the
+upper-right clone button. Circle around and push the block upwards. Do
+it again to complete the path and get the red key. Return to the
+original first block you made. Push it up twice and go up to stomp on
+it. Make more blocks with the bottom-left clone button and push them up
+until you've formed a complete path to the green key at the left. Then
+go down and through the green lock... get the chip... through the next
+green and red locks. Get the chip and follow the path until you reach
+some clone buttons. Run across all the clone buttons and you will need
+to follow the path *through the ice* while avoiding the moving blocks.
+Then you will need to go down through the ice while avoiding the blocks
+again. Be careful not to push any blocks! Continue following the path
+and soon you will have to face more blocks. This time it's MUCH HARDER.
+Those blocks have a pattern and you will need to have a quick mind to
+follow the pattern and get past the blocks. [NOTE: It might help you
+here to have color, sound effects, background music, and as much
+programs as possible open to try to slow your computer down a bit.].
+Getting past these blocks requires some really good luck :)  After that,
+continue following the path... until the exit square.
+
+
+
+LEVEL 090 - PLAYHOUSE
+Password: OLLM
+
+Use the blocks to build a path to the force floors. Don't use the upper
+right block because it has fire under it. Ride the force floors and go
+right. Find the path in the triangle of blue blocks... then get the
+yellow key and chips. Now return to the part where the force floors
+brought you. You need to push the blocks into the water to form a path
+2 blocks thick. To do this: Push the two middle blocks forward, push
+the two outside blocks forward, push the remaining blocks to the center,
+and push them forward. Cross your path (touch only one recessed wall)
+and go through the yellow lock to collect the chips and a blue key. Now
+go out of this area through your path. Go a little to the right and find
+the opening in the wall of blue blocks below you. Go right and cross the
+ice for some chips, then go all the way to the left and go through the
+blue lock. Slide down the ice path. Get the nine chips and the green key
+at the top. There is NO WAY to get the ice boots and the chip (you don't
+need them anyway). Slide back on the ice path and get out of the pink
+ball area. Go to your far left and up through the green lock. Push the
+first block all the way to the left (aligned with the other block) and
+use the blocks to cross the water. Get all those chips that spell "GOOD
+LUCK". Then go past the fire (you have the fire boots) to get even more
+chips. Go through the green lock that leads to the chips (not to the
+pink balls) and collect the remaining chips you need. Go through the
+chip sockets and into the exit square.
+
+
+
+LEVEL 091 - JUMPING SWARM
+Password: JPQG
+
+This level is very difficult. You need to collect all the chips from
+this level while avoiding the walkers. The walkers are constantly being
+cloned, so there would be a lot of them after just a few seconds.
+Therefore you need to move hella fast so you can collect the chips
+without too much walkers bothering you. After collecting the chips, exit
+through the exit square at the bottom right corner. Good luck, young
+chipster. And may the force be with you.
+
+
+
+LEVEL 092 - VORTEX
+Password: DTMI
+
+Follow these directions at the very start: 1L 2U 2R 1D 1R 3D 5L 2U 2L 3D
+4L 1U 2L 3U 2R 2U 5R 1U 2R 1U 1R 4U 1R 5U 1L 5U. Now there is a walker
+at the space to your right and there is a fireball at your upper-right.
+Clear the blue block at the bottom of the walker's area to free him (be
+careful not to get hurt). Then go up to the fireball area and get the
+blue key from there, careful not to get hit by the fireball. Now get out
+of this monster place! Find your way to the green key and pick it up
+(behind the recessed wall). Continue forward and circle around with the
+fireballs. Get the chip when you reach it, then go deeper and deeper
+into the center of this place while collecting the chips. You will reach
+a teleport at the center- go DOWN through it to get a chip. Go back
+through the teleport make your way to the outer ring of fireballs.
+Collect that chip at the bottom, through the blue lock and chip
+socket... finished!
+
+
+
+LEVEL 093 - ROADSIGN
+Password: REKF
+
+At the start, follow these directions: 3L 1D 1L 3D 4L 1U 1L 2U 1L 2U 1R
+3D 1L 1D 8R 7L 2U 1R 1D 3R 2U 1L 2D 2U 1R 2D 2L 3D 4R 1L 3U 2R 9D 4U 2L
+3U 4R 11D 2L 1R 2D 2L 4U 2D 2R 3U 2L 1R 3D 2R 5U 4L 3D 2U 1R 2D 7L 2U 1L
+2D 1L 1D 3R 2L 2U 4R 3D 2L 3U 2D 3L 2U 1R 4U 4R 2D 3L 1R 3D 3L 2U 1R 3U
+1D 2L 2U 5R 3L 2D 4R 5U. Push this block straight up into the water.
+Circle around to the blocks and push them into the two bombs to get the
+chip. Go around to the top and hit the toggle switch in a way to trap all
+the balls (except for the middle one). Get the chip there. Now use the
+two remaining blocks in this level to finish building the bridge across
+the water and get the final chip. Return to the center and get in the
+damn exit square.
+
+
+
+LEVEL 094 - NOW YOU SEE IT
+Password: EWCS
+
+In this level, you need to find a path to the chips in an environment of
+invisible walls. You know the pattern for beating levels like this. It's
+amazingly similar to Level 030 (Mishmesh) and Level 067 (Chipmine) that
+I shouldn't even have to write a solution for this level. Simply feel
+around for the walls and you should have most of the maze cleared after
+a few minutes. Yeah, I know it can be really annoying always bumping
+into walls... but be patient and have faith. The exit square is located
+somewhere at the bottom left.
+
+
+
+LEVEL 095 - FOUR SQUARE
+Password: BIFQ
+
+Before we begin, a few terms to remember. The area that you start the
+level in will be referred to as "Area 1". The area you get to when
+passing through the teleport is "Area 2". Okay. So first, enter the
+teleport from the left (traveling to the right) to get to Area 2 and
+push the block right against the blue lock. Get the red key at the top
+right (don't enter any locks unless I tell you to). Work your way
+clockwise and push the four blocks into the teleport and follow them to
+push them into the water. When that's done, there should only be one
+block of water in area 1. Get the other red key from the bottom left of
+area 2. Return to area 1 and get the green key from behind the red lock
+(at the top right). Enter the green lock at the top right and take the
+force floor path (collecting a chip along the way). When you reach solid
+land, pray that you don't hit a walker and continue going up through the
+red lock (if you're still alive). Next, you need to get a chip from the
+walker area below you. Then go through the teleport to return to area 1.
+Enter the green lock at the bottom right and go in the exit square.
+
+
+
+LEVEL 096 - PARANOIA
+Password: BIFQ
+
+At the beginning, the blue tank right below you will move to the right.
+Quickly go down and right and get one or two chips (stay in the chip
+compartment). When the blue tank goes back to the left, get the
+remaining chips and the blue key. Step on the blue switch and move to a
+chip compartment. When the tank is at your right, go to the left and
+down. Enter the blue lock. Get all the chips here and listen closely:
+Step on the blue switch and watch the tank at the top. When the tank
+hits the blue button, step on your blue button again. If you got the
+timing right, the upper blue tank will just stay there at the right. Now
+you can get the fireboots and red key at the right. Step on the blue
+switch and get to the left and down through the red lock. Continue on
+the path until you get to a recessed wall. To get past the bugs, just
+follow them clockwise around the edges and go down past more recessed
+walls. When you get to the pink balls, wait until it's safe before you
+get the chip and continue downwards. When you finish with the pink
+balls, you should have only 34 chips left. Now in the paramecium place,
+go to the center and collect all four chips here (remember that you have
+the fire boots). Take the exit at the top right and take the ice path.
+More pink balls! Get all the chips here (one side at a time). Take the
+path at the left to get the red key. Then take the right path to go
+through the red lock and reach the fire place. Collect all the chips
+here. Be careful about the INVISIBLE WALL at the middle, it can trap you
+and you could get killed by the bugs. Go along the outside edges and
+through the fire to collect the chips. Then take the exit at the top
+right. Continue on the path until you reach the exit square.
+
+
+
+LEVEL 097 - METASTABLE TO CHAOS
+Password: IOCS
+
+This is an interesting level. You need to push blocks into the group of
+bugs to mess up their pattern. Once their pattern is destroyed, all hell
+breaks loose and the bugs start panicking (running around in random
+directions). If a bug starts chasing you, RUN away through the dirt path
+and try to lose him. I usually push a block into the bottom right of the
+bugs and there's a path going along the right to the exit square.
+Anyhow, try different things if that doesn't work for you (actually, I
+wasn't able to do this level when I tried again).
+
+
+
+LEVEL 098 - SHRINKING
+Password: TKWD
+
+This level is composed of 9 separate squares. You start this level in
+the center square, and end it at the exit square at the top right
+square. All the other 7 squares contain a chip, you need to get all of
+them. All of the squares have pink balls guarding the outside border...
+to beat these squares, look for the space in between these balls for you
+to enter the square. In some places, it seems like there are so many balls
+that it's impossible to get into the square (this is especially true to
+the squares at the top). You can try pushing in brown blocks to mess up
+the pattern of the balls. For the last square (top right), you *need* to
+push a block in (at the force floors) so make a space for you.
+
+
+
+LEVEL 099 - CATACOMBS
+Password: XUVU
+
+Go up past the clone buttons until you reach as high as you can go. Push
+the block down into the water and get the blue key. Also push the next
+block down to the tanks to get the flippers (hidden under the block). Go
+across the water to the right, collect the chip, and enter the blue
+lock. Get the three yellow keys [NOTE: This room will be called the "main
+room"]. Enter the yellow lock at the right and collect the two chips and
+the red key (don't go through any of the red locks here in this room).
+Go back to the main room and enter the yellow lock at the top. Get the
+red key and push the block to the right. Collect two more yellow keys.
+Open the red lock above you and get the two chips inside. Return to the
+main room. Go through the red lock at the bottom and get the red key.
+Push the block to the right and get the two yellow keys. Enter the red
+lock below you, get two chips. Okay, now find a yellow lock and get all
+the chips inside. Then find another red lock and get all the chips
+inside. Go through a green lock, and a blue lock, get the final chip, and
+go right into the exit square.
+
+
+
+LEVEL 100 - COLONY
+Password: QJXR
+
+Welcome to Level 100! This isn't a particularly difficult level... it's
+actually pretty easy. All you have to do is go around the place
+collecting chips and avoiding the monsters. Remember, all of these
+monsters have a fixed path: All fireballs go clockwise, all gliders go
+counter clockwise. You need to collect a total of 48 chips. In some
+parts, the area is smaller and there is no safe center area. For these
+parts, follow the monster around when it's safe and move to the next
+square. When you're done collecting all the chips, go to the exit square
+at the bottom left corner.
+
+
+
+LEVEL 101 - APARTMENT
+Password: RPIR
+
+This level isn't too hard. You need to go to all the "rooms" and collect
+chips. Make sure you get *every* chip in the room when you're there. You
+will usually get only one chance to visit each room since most rooms
+have three "doors" to it (1 to come in, 1 to come out, 1 to come back in
+and get stuck). If you really need it, here's the directions: 2D 2R 4U
+1R 1U 1D 4L 1D 2U 1R 3U 1L 3U 1R 3U 1L 3U 1R 3U 1L 3U 1R 3U 1L 2U 2R 2L
+2D 4R 1D 1R 1L 4U 1L 2R 1D 3R 2D 2L 1R 4D 1R 2L 3D 3L 3D 1R 3D 1L 3D 1R
+2D 1L 2D 1U 4R 1U 2D 1L 2D 4R 3U 1L 3U 1R 1U 1D 4L 1D 2U 1R 3U 2R 2D 1U
+1R 4U 1L 2U 2R 1L 4U 1L 2R 1D 3R 2D 2L 1R 1D 2R 2R 1D (watch out for the
+bees) 1D 1L 2D 2L 1D 1R 1L 2D 2L 2D 4R 1D 1R 2L 3D 1R 3D 1L 2D 4R 1D 3R
+1U 2R 1D 2R 1L 4U 1L 1R 1D 3R 1R 2D 2L 2R 3U 1L 2U 1U 2L 1D 4L 1U 1L 1R
+4D 1R 2L 1U 3L 2U 2R 1L 4U 1L 2R 1D 2R 4U 3L 3U 1R 1U 2D 2R 3U 1R 2U 1D
+4L 1D 2U 1R 3U 2R 2D 1U 4R 1U 2D 2R 4U 1R 1U 1D 4L 1D 2U 1R 2U 1U 2R 2D
+and exit.
+
+
+
+LEVEL 102 - ICEHOUSE
+Password: VDDU
+
+At first, press up so you won't enter the teleport yet. A glider will
+soon come to you from the left. When he's three spaces away from you,
+press right to enter the teleport [NOTE: You need to be EXACTLY three
+spaces apart from the glider]. Slide around on the ice until you get to
+a clone button. At the EXACT moment you get there, press right to move
+the block one space right and block the teeth. Pause for a while-- if
+you got the timing right, the three teeth will be trapped in the place
+below the block. Go to the left area and get the fireboots, red key, and
+two chips. Go to the right and stay at the space just to the right of
+the brown block. Now run to the right and past the recessed wall. Get
+the flippers, yellow key, and chip behind the red lock. Get out of there
+by sliding across the ice at the bottom. Go left and down into the fire/
+water. Continue left through the yellow lock leading to the two spies.
+Go through the bottom spy to get the force floor boots. Continue on the
+path and slide across the ice to get to the exit square.
+
+
+
+LEVEL 103 - MEMORY
+Password: PTAC
+
+Obviously, you need to go around the level collecting chips. To access
+different parts of the level, step on the blue switches (to move the
+tanks) and the green switches (to toggle the toggle doors). You'll need
+to do this a lot at the correct places to get to the places with chips.
+If you ever seem to be stuck, try different things and see what happens.
+I was able to beat this level on my first try... but I was never able to
+do it after that :)  The exit square can be found at the top left.
+
+
+
+LEVEL 104 - JAILER
+Password: KWNL
+
+The principle behind this level is very simple- Collect all the keys, go
+through the locks, collect all the chips, and into the exit square. It
+seems like this level is very easy, but I always seem to get hit by the
+pink balls at some point. Here's a good strategy: First, collect all
+four chips while avoiding the pink balls. Then go through all the paths
+in clockwise order starting from the bottom. This way you will know
+which paths you didn't take yet. Be sure to collect all the chips. When
+avoiding the pink balls, be very careful about balls that bounce into
+other balls. When the chip counter reaches 0, go into the exit square at
+the bottom path.
+
+
+
+LEVEL 105 - SHORT CIRCUIT
+Password: YNEG
+
+Follow these directions: 3D 2R 2U 8R 2D 6L 2D 4L 10D 4R 2U 2L 6U 4R 2U
+4R 2D 2L 2D 4L 2D 4R 2D 2L 2D 4R 6U 9R 2U 3L 2U 3R 2U 5L 4D 2L 6U 13R 2D
+4L 2D 6R 4U 2R 6D 8L 6D 2L 2U 7L 2D 5R 2D 5L 2D 12L 6D 2R 4U 2R 8D 2L 2U
+2L 4D 20R 8U 5R 6U 2R 12D 3L 2U 1R 2U 3L 6D 7R 16U 4L 2U 4R 2U 6L 10D 2L
+4U 2L 2D 5L 2D 8L 8D 6R 4U 2L 2D 2L 4U 6R 4D 2R 6U 2R 8D 2L (you have
+all the chips now, you can go through the chip sockets) 1D 3R 3U 2R 2D
+2R 1D 5R 7U 2L 2U 2L 6U 2L 2U 2L 5U 2L 2U 2L 2U 3L 1D 2L 4U. Finished!
+
+
+
+LEVEL 106 - KABLAM
+Password: NXYB
+
+In this level, you need to use the fireballs to clear the bombs for you.
+You also need to use the blocks change the directions of the fireballs
+and make them clear a path to the exit square. It's probably a good idea
+to keep sound effects turned on in this level so you can hear the bombs
+exploding (or if the bombs are exploding at all). Remember the movement
+pattern of the fireballs: They go forward and turn to their right at a
+wall. If you want the spoiler solution, here it is: First let the
+fireballs destroy 12 bombs (listen for the explosion)-- then follow the
+path made by the fireballs up to the place with 2 brown blocks. Push the
+first block 2 spaces left and push the second block 1 space down. Wait
+for the fireballs to destroy 7 bombs-- then follow the path made by the
+fireballs. Push the brown block 2 spaces to the left and wait for the
+fireballs to destroy 12 more bombs. Then follow the path made by the
+fireballs. Push the block 1 space up and wait for the fireballs to
+destroy 7 bombs-- then follow the path made by the fireballs. Push the
+right block one space down and wait for the fireballs to destroy 13
+bombs. Follow the path down to the bottom and enter the exit square at
+the left (heh, "enter the exit square"...how awkward sounding).
+
+
+
+LEVEL 107 - BALLS O FIRE
+Password: ECRE
+
+Go through the blue wall directly at your left and follow the fireballs
+around to the chip at the bottom. The when it's safe, go down five
+steps, pushing the block down with you. You will also have gotten the
+fireboots. Go to the left and get the wall of chips there. Go back to
+the block, push it left until it's over the water, and push it down into
+the water. Get the blue key at the bottom left corner. Now get all the
+chips down here (they spell out "CHIP", now isn't that nifty?). Get the
+yellow chip at the bottom right. Push the right block into the water and
+cross up to get the remaining seven chips. Return down and all the way
+left to the other block. Bring it up into the ball area (not into the
+water). Open up the left yellow door and enter the fire area, bringing
+the block with you. Try NOT to get into a position that you can't bring
+the block with you anymore. Push the block into the water when you
+arrive at it. Continue into the exit square.
+
+
+
+LEVEL 108 - BLOCK OUT
+Password: LIOC
+
+First, take the path all the way around until you reach a square of
+blocks. Push the right block to the left and push the bottom right block
+down and get the red key. The go to the ice at the lower right of that
+square of blocks and slide to the flippers. Slide back. Now you need to
+make your way across the line of balls... shouldn't be too hard. Go
+through the red lock at the upper left, go down to get the blue key.
+Return to the pink ball place and enter the blue lock at the bottom
+left corner (you should have seen it while getting the blue key). When
+it's safe move the block (at the left) down two spaces, then get the
+chip at the left. From there, go down directly, pushing the block into
+the water. You can swim the rest of the way down (you have the flippers,
+remember?). Get the blue key and the three chips. To get the chips in
+this pink ball area, you need to get a block from the square of blocks
+and use it to trap the pink ball on one side while you get the chip at
+the other side. At the end (you should have 20 chips remaining), go into
+the blue lock at the bottom right. Slide to the next area. Get across
+this set of balls. In the next pink ball area, get all the chips and
+move only to the next area while the ball is at the opposite side from
+you. Enter the exit square at the bottom.
+
+
+
+LEVEL 109 - TORTURECHAMBER
+Password: KZQR
+
+Go right and follow the fireballs and gliders around. Cross the ice at
+the right to get a chip... then return to the start. Cross the force
+floors by going down-up-down-up. Collect the two chips. Push the block
+down and quickly follow down to push it into the bear trap. Step on the
+switch to free the block. Push that block into the bomb to get rid of
+it. Stay at the corner of the gravel (beside the monsters) and follow
+these directions: Just after you see the fireball pass by you, quickly
+go left-down-left to get the chip. At your left the fireball and glider
+will be aligned every second. Right after they align, go left-left-down-
+down to arrive at safe ground. Go through the chip socket and continue
+on to the exit square.
+
+
+
+LEVEL 110 - CHILLER
+Password: XBAO
+
+Go up and push the left block to the left. Then push the middle of the
+three blocks to the right. Push the top of the three blocks three spaces
+up. Push the bottom of the three blocks down and use it to make a bridge
+over the water at the bottom left. Get past those pink balls and get the
+four chips at the bottom area... also get the blue key at the end of the
+force floors. Return to the pink ball place and go through the blue
+lock to collect two more chips. Return to the start area and use the
+five blocks to build a wall beside the ice at the right (you need to do
+quite a bit of circling around to access all of the blocks; don't push
+the blocks into the ice yet). Next, push the top block into the ice,
+follow it to get a chip, and continue downwards to get another chip.
+Return to the mainland and push the second block (from the top) into the
+ice, follow it to get a chip, and continue down to get another chip.
+Return and push the middle block into the ice, follow it to get a chip,
+and move UP to get another chip. Push the fourth block into the ice,
+follow it to get a chip, and move UP to get another chip (DO NOT move
+right unless you want to die). Push the last block into the ice, follow
+it for the chip, and continue up to get the final chip. Head for the
+exit square at the left of the start.
+
+
+
+LEVEL 111 - TIME LAPSE
+Password: KRQJ
+
+This level has a lot of weird stuff that's probably just trying to
+confuse you. But in fact, the best solution to this level is actually
+the simplest one. First, push some blocks down across the ice and into
+the bombs until they're all gone. Then get all the four chips from the
+bottom part of the level (2 at the left, 2 at the right). And get into
+the exit square at the middle bottom. Whoa, that was easy. Onward...
+
+
+
+LEVEL 112 - FOURTUNE FAVORS THE
+Password: NJLA
+
+First, go up eight squares. Push the block left (completely through the
+wall of fireballs) until it's one square away from the wall. Then push
+it nine spaces up so that it's touching the end of the wall at the
+right. The rest of this level has to be done quickly: Now go around and
+get the four chips inside the little cage of blocks. Go around again to
+the block, push it up, and get into the exit square.
+
+
+
+LEVEL 113 - OPEN QUESTION
+Password: PTAS
+
+Above you there is a little river and a wall of blue blocks above it.
+The open block is the one eight blocks from the left. So get two brown
+blocks and use them to form a bridge to the eighth block to the left.
+Open the blue block. Now return to the start and get another brown
+block. Bring it across the bridge until it's blocking the fireballs.
+When the time is right, push the block all the way up. Use it to trap
+the first pink ball against the wall. This way you can get into the
+"pink ball area". Now you will need to get the five chips from here.
+Try to anticipate the movement of the pink ball before you move so you
+won't get hurt by them. After getting all five chips, return to the
+start and go into the exit square.
+
+
+
+LEVEL 114 - DECEPTION
+Password: JWNL
+
+First, go "4D 1L" and wait there. When the paramecium passes by and
+kills himself in the fire, go down to the fireball place and collect the
+three chips at the left side. Now the fireballs have separated: One
+fireball at the top, one fireball at the bottom. Out of the four chips
+at the right, collect the third one from the top. It's surrounded by
+recessed walls, blocking you from getting to the other chips. Now get
+the top-most chip protected by the fireball and hide at the space at the
+bottom left of the chip (the fireball doesn't go here). Again, this chip
+is surrounded by recessed walls. Go to the top area and through the
+recessed wall. Get the 5 chips here (don't go through any ressessed walls
+yet). Now go on the ice path (going through a recessed wall and getting
+a chip along the way). Now there is a wall dividing you and the teeth.
+You need to trick him in order to collect both the yellow key and the
+last chip. The bast way to do this is to trap him at the right side of
+the right wall and easily collect the stuff. Now go through the recessed
+wall at the top right, through the yellow lock and into the exit square.
+
+
+
+LEVEL 115 - OVERSEA DELIVERY
+Password: EGRW
+
+Go right and follow the path to the bottom right where there are four
+blocks gathered around a teleport. Push one block into the teleport and
+enter the teleport through a different direction (it's very important
+that you go through a different direction so that you don't push the
+block). You need to do this eight times. Then, you need to push the
+block into the teleport in the correct direction so it doesn't get
+stuck: R, U, D, U, L, R, D. At the last one, follow the block down into
+the teleport so that you push it down and into the water. Go into the
+teleport to return to the other blocks. Repeat the same process with the
+four other blocks. At the last move, push the block into the water so
+that you'd be building a bridge to the exit square.
+
+
+
+LEVEL 116 - BLOCK BUSTER II
+Password: HXMF
+
+First, step on all the red buttons starting from the top right going
+down to the bottom left. Then push all the blocks up into the water and
+get the chips and the green key. Also get the chips along the left side.
+Then go down and go through the two green locks at the bottom left.
+Follow the path until you get to a big X of clone buttons. Step on the
+bottom left button, this makes a block appear at the bottom right. Go to
+the bottom right and push the middle block up into the water, follow it
+and collect the chips. Step on the bottom left button again and push the
+middle block up again, and do it again so that the block bounces back to
+you (move to the side and avoid it). Push that block to the left hand
+side and use it to cover up two paths of water at the top. Continue
+doing this and covering up the water until you can get all the chips and
+the blue key. Then go through the blue lock, through the chip socket,
+and into the exit square.
+
+
+
+LEVEL 117 - THE MARSH
+Password: FPZT
+
+You need to push the blocks into the water to build a path to the exit
+square. Follow these directions from the start: 2D 4R 2D 4R 3D 3R 2D 2R
+2D 2U 6R 4D 1U 5L 5R 3U 6L 4D 1U 7L 2D 4L 7D 1L 2D 6R 6L 1U 2R 1L 3U 1L
+2D 1R 2D 2L 1U 8R 4D 1U 5R 1L 1U 10R 10L 2U 1D 2L 1R 1D 1L 1D 4R 4L 3U
+1L 1R 3D 2L 2U 1R 1U 1R 2D 1R 2D 2L 1U 14R 13L 3U 1L 1U 2L 1R 1D 1L 1D
+2R 1U 1R 2D 1U 2L 2D 17R. You can see the exit square now. Go back and
+get a few more blocks to build the final path to the exit square. You
+also need to use the block that's given to you at the bottom near the
+exit square.
+
+
+
+LEVEL 118 - MISS DIRECTION
+Password: OSCW
+
+Go down at the start and slide on the ice. Go up when you stop. Continue
+going up (avoid the pink ball if he gets in your way) and go right at
+the recessed wall to get the green key. Then follow the path downward,
+go down at the blue wall, and go through the green lock at the bottom
+right to get the blue key. Now make your way back to the start (via the
+ice path) and go up. Go around in this loop counter clockwise (following
+the fireball) and go through the blue lock to get the red key. Continue
+going around in the same direction but don't enter the red key yet.
+Continue until you reach the flippers (if the toggle door is closed,
+wait for the fireball to open it for you). Now go around and enter the
+red lock. Swim into the teleport at the left. Go through the teleport
+again through the bottom. The ice path will lead you to the exit square.
+
+
+
+LEVEL 119 - SLIDE STEP
+Password: PHTY
+
+First go down and get the two chips. Return to the start and go up to
+get the chip at the left and the fire boots at the right. Return to the
+start and go right. The chips here are protected by a group of bees. Get
+the chips slowly and exit the bee area at the bottom right. Now you are
+at the paramecium area. Get the chips carefully so that the paramecium
+won't get you. Now go left across the gravel. Push the block left into
+the ice and follow it. Quickly go down so the block won't hit you when
+it bounces back. Collect the chips in this area. Go down the force
+floors and get all the chips. Try to avoid the pink ball bouncing around
+the area. When there are no more chips (it says 0 chips left), go
+through the teleport and into the exit square.
+
+
+
+LEVEL 120 - ALPHABET SOUP
+Password: FLXP
+
+The level is called "alphabet soup" because each room has a letter in it
+made of blocks (or something else). You start the level in room a.
+Go around to the right and go through the fake wall. Get into the
+teleport by moving left (now in room b), into the teleport again (room
+c), circle around to the left and into the teleport (now in room d).
+Wait for the teeth to go into the teleport, then go in again (room e).
+Wait for the teeth to get in the teleport, then enter the teleport
+again (room f). The teeth should now be stuck in a bear trap. [NOTE: If
+not, then you should wait a second longer after the teeth goes into the
+teleport]. Now get the four chips at the corners of room f and the fire
+boots from under the block (don't step on the brown switch, it frees the
+teeth). Go into the teleport (room g)... and go down across the ice to
+collect the chips and ice skates. In the teleport again (go to room i).
+Use all the tanks to destroy the bombs. Go in the teleport (back to room
+a) and get the blue key. Enter the teleports twice and get the red key
+from room c. [NOTE: Do not go left through the teleport in room e or
+you will hit the teeth]. Go in the teleport twice (R,L) and go through
+the red lock in room e. Get the chip and the green key under the block.
+Go into the teleport 7 times (R, L, R, L, R, L, R). You should now be in
+room d. Push the brown block over the yellow key and circle around to
+get it by pushing the block down from the top. Get the two chips from
+this room. Go to room i (remember not to go left through the teleport in
+this room) and get the flippers from the fire area at the bottom. Swim
+down to open the yellow door. Go to room b, open the blue door, and let
+the teeth chase you into the teleport. Go back there for the last chip!
+Return to room i and take the path to the exit square.
+
+
+
+LEVEL 121 - PERFECT MATCH
+Password: BPYS
+
+This level is... weird. It's seems very impossible at first and the hint
+given to you is very vague. What you really need to do is match the
+pattern of the fireballs at the top with the pattern of the fireballs at
+the bottom so that the green button will be closed every time a fireball
+is supposed to be cloned at the bottom. Then no fireballs will be made
+at the bottom and you can go through there to the exit square. It's THAT
+simple! Actually, that wasn't very simple at all, huh? Here's a simpler
+(yet totally different) solution: Keep cloning fireballs until the bear
+traps are completely packed with fireballs and they can't move around to
+hit the green button. Also get rid of extra fireballs at the top by
+pushing them into the water (with the help of the block). Then the
+toggle door will remain closed and no fireballs will be cloned at the
+bottom. Then you can go through the path and into the exit square.
+
+
+
+LEVEL 122 - TOTALLY FAIR
+Password: SJUM
+
+I find this level kind of fun (even through you probably won't). First,
+go right six spaces to collect 3 chips (don't get the last one yet). Now
+go up and trick the teeth into going to the left, then run to through
+the recessed wall and into this area. Keep running from the teeth and
+try to get him stuck in one of the bear traps. Do you notice the other
+teeth in the little box? You need to lead him through the maze so that
+he goes to the bear trap switch. Here's how to do that (always be
+careful to avoid the glider that patrols the area): From the space just
+under the bottom-left bear trap, go 6L 10U (wait 2 sec) 8D (wait 2 sec)
+8U (wait 2 sec) 6D (wait 2 sec) 5U (wait 2 sec) 3D. Now the teeth is
+stepping on the bear trap switch. Now go through the force floor at the
+top right and get the 2 chips at the right (remember, the teeth is
+standing on the bear trap switch). Return to the beginning, get collect
+final chip, and get in the exit square.
+
+
+
+LEVEL 123 - THE PRISONER
+Password: YKZE
+
+First, go one step down to pressing the green button. The fireballs path
+will touch the clone button and blocks will be cloned. Step on the first
+block to pound it into the water. After the second block is cloned,
+press the toggle button again to stop the cloning of blocks. Now you
+need to push the block on the ice so that it hits the fireball and makes
+it turn and hit the bombs, freeing you. If you want, you can use more
+blocks to cover up the water (but that won't really be of much use).
+Clone a block and use it to block the cloning machine at the top. Get
+another block and use it to cover up the water beside the cloning
+machine. Run outside and collect the three chips while evading the
+teeth. This can be very difficult. Now head towards the exit square at
+the top right. Done! [NOTE: If you want to be safe, you could trap two
+teeth with the pink ball at the bottom before you go outside to collect
+the chips. Use the ice paths to lure them there.]
+
+
+
+LEVEL 124 - FIRETRAP
+Password: TASX
+
+In a few seconds, a fireball will get stuck in the beartrap. Step on the
+beartrap switch to free him. Now QUICKLY go across the force floors and
+push the brown block all the way into the upper right corner. Now get in
+the beartrap before the fireball comes. If you were fast enough, the
+fireball will hit the beartrap switch and free you. Go down when the
+fireball hits the switch. Now get all the chips from this maze of fire.
+Then go up into the place with blue tanks and go left (hitting the
+switches). Get the chip and the red key... then return to the fire maze.
+Get the blue key from the bottom left part of the maze (hit the green
+switch if you have to). If you've collected all the chips you could (13
+left), take the ice path at the left. When you stop, *continue* sliding
+right and get the 3 chips (10 left). Then return and go down to a
+fireball area. Get the chip at the left. Go through the blue lock and
+get the chip. Bring the block into the main fireball area and push it
+into the upper left corner. This will cause the fireballs to hit the
+green switch and continuously toggle the doors. Go down and take the
+path of the left toggle door. There's a fireball going around here. Push
+the block into the upper left corner to make the fireball hit the blue
+switch. Now return all the way to the blue tank area. This time, the
+tanks move by themselves every 5 seconds... go right this time and get the
+fire boots. Now you can go on all the fire! Hit the brown switch and
+return to the very beginning. Go past the fire and get the four chips.
+Next, go to the place where the fireball is hitting the blue switch. Go
+past the fire and get the chip. Then take the path of the right toggle
+door. Go through the fire and get the remaining chips. Continue right
+and into the exit square.
+
+
+
+LEVEL 125 - MIXED NUTS
+Password: MYRT
+
+First, push the four blocks through the force floors and into the water.
+Do this in a way that the glider will be trapped in the *middle*. Then
+cross a force floor and collect the chips, avoiding the glider. Go up
+and right when the ball is at your left. Follow the path until you reach
+some blocks. Take the bottom block and push it into the water. Return to
+the top block and push all of the blocks ONE space down... then go to
+the top and push all of the blocks ONE space left. You can now push the
+bottom block around into the water. Repeat the process of pushing the
+blocks down and left until you used all the blocks in the water (and
+collected the chips). Continue on the path until you reach some force
+floors. Go to the left line of chips and collect everything, then go up
+to the top and press right twice quickly to move to the center line.
+Collect all the chips like this and exit through the right (press right
+two times quickly). Now you're at a large group of blocks. Each of these
+blocks has a chip under it. Push all of the blocks and collect the chips
+under them (you don't need these blocks later). Take the path up to the
+ice area. You need to go into the ice at all six spaces to collect all
+the chips. Also collect all the chips from the areas that spawn from the
+force floor path. When you've collected all the chips (chips remaining:
+0), go through the chip socket at the top. Enter the force floor path at
+the very right... press down to go into the teleport (when you're above
+it, of course)... and into the exit square.
+
+
+
+LEVEL 126 - BLOCK N ROLL
+Password: QRLD
+
+First, collect the chips in this area and use the blocks to build a
+bridge over the water at the top right (don't use any blocks where you
+don't need them). You'll need 6 blocks to cross the first pool of water,
+2 more to cross the little "river". You should have 26 chips left when
+you finish with this area. Now go up to the top left area with the maze
+of water. You need to push the blocks into the water to get all the
+chips. I got it on my first try... but I was never able to do it again
+:( . When you finish with the water maze, go to the top right and get
+the chips from the bugs. The middle bug can be tricky, watch out for
+him (remember: bugs follow the wall at their left hand side). Next, get
+the chips around the rest of the level. When you get to the bottom right
+area (with the bugs circling the blocks)... there are chips under SOME
+of the blocks. The other blocks have fire on them. The chips are on
+blocks A2, A4, B1, B3, B5, C2, and C4. [NOTE: Three rows, five columns.
+Rows are the letters, columns are the numbers]. Push the blocks inward
+so they don't disturb the pattern of the bees. If you have all the
+chips, go to the exit square at the right.
+
+
+
+LEVEL 127 - SKELZIE
+Password: JMWZ
+
+[NOTE: All of the step here should be done quickly, or else you'll get
+hit by the pink ball] First, step left to avoid getting hit by the pink
+ball. Then immediately follow the pink ball into the teleport. You need
+to go up and down into the teleport 7 times (U,D,U,D,U,D,U). Get the red
+key and enter the teleport 2 more times (D,U). Stand at the left side of
+the teleport and enter it 8 times (R,L,R,L,R,L,R,L). Now go around to
+the right side of the teleport and enter it 8 times (L,R,L,R,L,R,L). Go
+down to under the teleport and enter it 6 times (U,D,U,D,U,D). Get out
+through the recessed wall and get the blue key and chip from to upper
+right corner... get the chip and yellow key from to bottom left
+corner... get the chip and green key from the bottom right corner... and
+get the chip and step on the toggle switch in the upper left corner. Go
+to the middle bottom area and enter the teleport 6 times (D,U,D,U,D,U).
+Exit!
+
+
+
+LEVEL 128 - ALL FULL
+Password: FTLA
+
+Go around and get the flippers. Step on the red clone button until
+there's a solid wall of three pink balls. Swim through the water and to
+the right area to get the yellow key (key:1). Go through the lock
+(key:0) and sacrifice your flippers to the spy. Go left getting the
+chips, ride the force floors, and get the suction boots, fireboots, and
+the yellow key (key:1). Use these to get the chips from the big fire
+area and from the pink ball. Also get the yellow key at the bottom left
+of the big fire area (key:2). Next, pass through the recessed wall and
+collect the yellow key (key:3) and the 3 chips surrounding it. Push the
+block up into the water, collecting the flippers. Go back down and
+through the two recessed walls. Get the yellow key behind the water at
+the left (key:4). Move now into the area above you. Follow the fireballs
+around and get the four chips. Go to the right, slide across the ice,
+and circle around to reach the spy with two yellow locks above him. Go
+through the spy (you'll lose all you're footwear) and the two yellow
+locks (key:2). Collect all the chips you need... but you don't need to
+collect ALL of the chips. Just watch the chip counter to tell when you
+don't need anymore chips. Then go through the two yellow locks (key:0)
+and into the exit square!
+
+
+
+LEVEL 129 - LOBSTER TRAP
+Password: HEAN
+
+This level is fun. It seems like it's going to be difficult with all the
+gliders and bugs scattered all around the place... but it seems soooo
+easy when you figure out how to make the monsters move in an organized
+manner. First, build a path going around the entire level (along the
+outside wall). This is the path where the gliders will go. Then go to
+the water at the bottom of the level. You should build a path to free
+the gliders directly at the LEFT of the water. Don't make the path at
+the right. As the gliders at leaving, stay at the side and watch for all
+of them to leave. If needed, make another path for more gliders to pass
+through. When all gliders are circling around the sides of the level, go
+over to where the bugs are. You need to free them and make them go to
+the water and drown [NOTE: Bugs travel along their left hand wall. They
+should go at the wall at the right and down into the water.]. When all
+bugs are gone, collect all the chips and go into the exit square.
+
+
+
+LEVEL 130 - ICE CUBE
+Password: XHIZ
+
+I didn't find this level too hard. Just slide around on the ice and
+collect the chips. If you really need it, here are the directions: U3 (to
+enter the ice) R R L U D D U U U L L D L R U R R L L D R U D L R D R D D
+U D U D R U R D L L. Now g through the chip socket and into the exit
+square.
+
+
+
+LEVEL 131 - TOTALLY UNFAIR
+Password: FIRD
+
+Another evil level. The trick is to keep in mind that the layout of
+this level is almost exactly the same as level 122 (Totally Fair). The
+only difference is that the recessed walls are now regular walls,
+blocking your passage into the area with the teeth. That is what the
+hint here means: "SJUM" is the password of level 122. The time on this
+level is severely limited to only 60 seconds, so you have to move fast.
+First, go 6 steps left to collect 3 chips. Then go straight up to the
+space right below the hint block. Next, move 22 spaces right and 17
+steps up (wait a moment), 8 steps down (wait a moment), 8 steps up
+(wait a moment), 6 steps down (wait a moment), 5 steps up (wait a
+moment), 3 steps down and you should hear the sound of the teeth
+stepping on the bear trap switch. Collect all the remaining chips and
+go into the exit square at the left side.
+
+
+
+LEVEL 132 - MIX UP
+Password: ZYFA
+
+This level takes a lot of time to do (at least for me). First, go to the
+upper left corner of the level where there are 4 blocks in a line. Use
+all four blocks to form a bridge to the red key below you. When you have
+the red key, return to the area above the beginning. Use ALL of the
+blocks here to build a bridge across the water at the right. At the end,
+there's a teeth guarding a blue key. To get the blue key: Take away two
+blocks from the corner of the place, get the teeth in that area, circle
+around to a safe side and quickly dart in and out to get the key. Go to
+the area below you (with the toggle switches) and collect the chips. To
+get to the right side beyond the walkers, you need to toggle the walls
+so that the ball (on your left) won't hit the clone switch. Then you can
+safely go to the right. Go back to the start and through the red lock.
+Use ALL of the blocks here to destroy the bombs and get the green key.
+Now go down past the bees and to the left. Use ALL of the blocks to
+build two bridges over the two water paths below you. Make sure you
+don't get any blocks into a position that you can't use them anymore.
+Take the right path and get the four chips from these force floors
+(don't touch any recessed wall that you don't need to, lots of circling
+around involved here). Then take the left path down. DON'T use the blue
+key on the lock surrounded by blocks. Instead, use it at the other lock.
+Collect the blue key. Make the teeth follow you into the ice [IMPORTANT
+NOTE: At the end, hold the *down* button so you can escape throughout the
+force floors and not bounce back to the teeth.] Return to the bottom
+left and use the blocks to build a bridge over the water (use the key on
+the lock). Get the last chip! Return to the bee place and get in the
+exit square.
+
+
+
+LEVEL 133 - BLOBDANCE
+Password: TIGG
+
+This level is very similar the Level 23 (BLOBDANCE). The strategy is
+pretty much the same also: You need to avoid the blobs and collect the
+chips while moving from block to block and keeping safe by staying on
+the gravel and only moving when it's safe. The blobs have a completely
+random movement but they never move diagonally. As you progress through
+this level, the number of blobs in each square will steadily increase.
+The main strategy to beating this level is patience. The time is
+unlimited so you can wait as long as you want before making your move.
+You should try to stay on the gravel when waiting, obviously.
+
+
+
+LEVEL 134 - PAIN
+Password: XPPH
+
+Go down and right until the end (don't go through the dirt yet). There
+should be a bug there going around in circles. When another bug comes
+and the bug starts moving normally, go through the dirt [NOTE: The next
+step should be done quickly]. Get the chips and step aside to free the
+bugs. Continue getting more chips and freeing more bugs until you reach
+a brown block. Push the first block upwards and push the second block
+downwards. Also get the rest of the chips. If you were fast enough, you
+should begin to see the bugs going into the water at the bottom. Now use
+the last block to build a bridge across the water at the left (you need
+to do quite a bit of circling around). Cross down to the bottom area
+with the blocks. Use one block to build a bridge to the fireboots. Then
+Go to the right and build a path going down to the last chip. After
+collecting the chip, you need to use the blocks to build a path ALL THE
+WAY TO THE EXIT SQUARE. This is terribly time consuming. Luckily, you
+don't need to use ALL of the blocks.
+
+
+
+LEVEL 135 - TRUST ME
+Password: LYWO
+
+Go right one step, then up one step, then right until you're just left
+of the force floor and above the gravel. Move in a straight line down to
+get the yellow key and quickly come back up before the bugs get you. Go
+back left, through the yellow lock, and into the exit square. Now wasn't
+that easy? You didn't even have to go through that big mess of recessed
+walls, green blocks, force floors and enemies!
+
+
+
+LEVEL 136 - DOUBLE MAZE
+Password: LUZL
+
+Follow these directions from the start: UUUU (Chip) DDDRRDL (Chip) RRURD
+RUURUU (Chip) DDDRRRURDDLLLL (Chip) RRRRUULDLLLUUURRDRRRRDLDRRDLL (Chip)
+RRULLURRRDD (Chip) UULLULLLLUULLL (Chip) RRRULLLLULDLDRDLDL(Chip) RURURD
+DL (Chip) RUULLURURDRRRRUUUUL (Chip) RDDLLUUL (Chip) RDDRRDDLLULULUULUUL
+(Chip) RDDLLLUURURULL (Chip) RRDLDLDDDDRU (Chip) DLUURRRDDLDL (Chip) RUR
+UURUUUUL (Chip) RDDDDDDRDRDRRDDDRRRRRRU (Chip) DLULLUUL (Chip) RDDLLUUUU
+URDDRRRDLDRRUU (Chip) DDLLURUURUU (Chip) DDLLURULL (Chip) RRDLDRDLLLUULU
+ULLLLUUU (Chip) DDDRRRRULUULDL (Chip) RURDDRDDDDDDDDRRRRDLLLLLULLDDLDDLU
+LDLULLD and you are now back at the start and can begin the second part
+of the maze. There are 15 chips left at this point. RRURDRURRRRURRRDRRDL
+LLULDLLLL (Chip) RRRRURDRRRUULURRDDD (Chip) UUULLULURRDRUULURUU (Chip) D
+DLDRDDLULLDRDDRDLLULLLDLLLLDLUU RRRRUURDRRULULLURRUURRDLDRRUURULLLUL
+(Chip) RDRRRDLDDLLURULLDDLULURULLDDDDDDLLLL (Chip) RRRRUUULLURUUL (Chip)
+RDDLDRRUUURRULLLLLDLL (Chip) RRURRRRUUL (Chip) RDDLLLLDLLRRDDLLDDLDDDRDL
+(Chip) RUUURRRRULLLU (Chip) DRRRDLLLLDDLUUUUUUUUURDRURULLLU (Chip) DRRRD
+RRULURRRRDDRRRRRUULURRULDDDLLLULUUL (Chip) RDDRDRRULURULL (Chip) RRDLDRD</pre><pre id="faqspan-4">
+RUUURDLLDRDLLLLU (Chip) DRRRRDLLDRRRUUU (Chip) DDDLLLURRULLUU LLLLLLLLDL
+ULLL and Exit. [NOTE: This terrific directions are from a great CC site
+at http://www.bus.ualberta.ca/rfield/Chip'sChallenge/chip.htm]
+
+
+
+LEVEL 137 - GOLDKEY
+Password: HPPX
+
+You start this level in a paramecium infested area. Make your way to the
+top right and past the gravel without getting hit by paramecia. Get the
+five yellow keys from here without getting hit by the bugs (you might
+want to follow the bugs around to avoid them). Then go through the four
+yellow locks at the bottom right to reach the force floor area. Now you
+need to do a series of quick ups and downs to get to the yellow key at
+the other side. You'll go into the fire if you stay on any force floor
+for too long. Just concentrate well and find a way to get yourself into
+a little loop (by pressing up and down) so you can analyze your next
+step. After getting the yellow key, enter the yellow lock at the top
+left. From the space where the yellow lock was, take these directions:
+(don't move while you're on the force floors, wait until you come to a
+stop before moving again) 2U 4R 2U 1R 1D 1U 2R 2D 1R 24L 2U 1R 1U 3R 3U.
+Now go left and through the recessed wall, make your way past the pink
+balls, and get the flippers at the left. Go take the force floor path
+right into the water and go up past the recessed wall. Get the yellow
+key from those bugs and go through another recessed wall at the top
+right. From the square of the recessed wall, go 1R 1D 1L 4D 4R 2U 2R 2U.
+The blue wall at the top left corner is open... so go through it and go
+up and right all the way to the exit square.
+
+
+
+LEVEL 138 - PARTIAL POST
+Password: LUJT
+
+It took me soooo long to figure out this level. First, travel through
+the teleport 5 times (vertically). Now you are in a room full of blocks.
+Push a block so that there are 2 blocks directly to the right of the
+teleport (this way you can't go to this room when you enter a teleport
+from the left). Now bring a block with you through the teleport and put
+it directly at the right of the teleport. Get another block and place it
+right beside that block so that there are 2 blocks beside the teleport.
+See the pattern? You need to place 2 blocks directly at the right of
+each teleport so that the directions are rerouted and going through the
+teleport from the exit square room... will simply take you to the exit
+square (because it has nowhere else to go since you blocked all the
+other teleports). You're time is a little short on this level so you'll
+have to work fast.
+
+
+
+LEVEL 139 - YORKHOUSE
+Password: VLHH
+
+Chips everywhere... and walkers everywhere! Walkers are actually my
+most hated of all monsters. They move straight forward and turn in a
+random direction when they hit a wall. This makes it impossible to
+predict their movements. When releasing the walkers, try to open their
+passage when they're moving away from you. This way you have time to
+escape and let them go without them hitting you. I guess it would be a
+good idea to release the walkers last... although I just released them
+when I got to them. When you've collected all 388 chips, go to the exit
+square at the corners of the dirt area at the bottom.
+
+
+
+LEVEL 140 - ICEDEATH
+Password: SJUK
+
+I found this level to be pretty hard. It's really similar to Level 051
+(I SLIDE) but much harder because of the water. For each square of land
+in this level, there's usually 1 correct way to move, 1 move top return
+to where you came from, and 2 moves that bring you to water. Follow
+these directions: 1U 1R 2U 1L 1D 1R 1D 1R 3D 2L 2U 2L 1U 1L 1U 1L 1D 1R
+1D 1L 2D 1R 1D 2R 1U 1R 1U 1R 2U 2L 1U 3L 2D 2R 1D 2R 2D 2R 1U 3L 1U 2L
+1D 4R 2U 4L 4U 2R 1D 5R 1U. Now that you have the ice skates, you can
+walk normally to the exit square at the center of the level.
+
+
+
+LEVEL 141 - UNDERGROUND
+Password: MCJE
+
+I hate this stage. It seems easy since you know exactly what to do
+(collect chips by building paths through the dirt and avoiding the
+paramecia). But it's actually hard because the paramecia move quite fast
+and they're hard to control. The first thing you should do in this stage
+is clear as much dirt as you can without freeing any paramecia from
+their cells. Then, free the paramecia one-by-one while collecting the
+chips. Here's a tip: make sure there are no hallways that are only one
+square wide. This causes the paramecia to get mixed up when they meet in
+these hallways. Also remember their movement pattern: they always stay
+along their right hand wall. There's only 15 chips to collect in this
+level. Also try to avoid freeing paramecia that you don't need to free
+in order to get a chip. When you've collected all the chips, get in the
+exit square at the top right.
+
+
+
+LEVEL 142 - PENTAGRAM
+Password: UCRY
+
+After a short inspection, a realized this level is impossible to do
+without making a map. Follow these directions: 1R 3U 1R 1U (Chip) 5R 1D
+1R 1D 1R 1D 1R 1D 1R 1D 2R 2D (Chip) 3L 1D 4L 1D 6L (Chip) 1D 14L (Chip)
+10U 1R 4U 1R 4U (Chip) 1R 2D 1R 2D 1R 3D 1R 2D 1R 3D 1R 2D 2R (Chip) 4D
+1R 1D 1R 1D 1R 2D 1R 1D 1R 2D 2R (Chip) 3U 1R 4U 1R 6U (Chip) 1R 14U
+(Chip) 1L 1D 1L 1D 1L 1D 1L 1D 1L 1D 2L 3D 2L 2D (Final chip) 1R 4D 3R
+(exit square). Done! This level is quite similar to Level 016
+(Cellblocked) because of the recessed walls, but much more complicated.
+
+
+
+LEVEL 143 - STRIPES?
+Password: OKOR
+
+Follow these directions. If it says '3RD' then that means 1R 1D 1R lD 1R
+1D. Okay? Here goes: 1D 5L 1U 1L 1R 1D 2R 2D 3RD 1U 4L 3UL 1U 2L 2D 3RD
+3UL 2U 2R 6DR 2D 2L 1U 3L 6DR 14LU 4DR D2 L2 2UL 1U 4L 3UL 3RD 4R 13DR
+4D 1R 1D 10UL 1U 2L 2D 3RD 1R 3LU 1L 2U 2R 5DR 4D 3RD 1R 2D 2L 3UL 4UL
+1U 4L 1U 1L 2UL 4U 3LU 1L 2UL 1U 4L 2UL 1U 2DR 1D 3R 2U 2R 7DR 7LU 2L 2D
+6RD 1R 4D 4RD 1R 4D 1R 1D 4R 7DR 7LU L2 D2 3RD 1R D2 L2 2R 2U 17LU 2L 2U
+2LU 3L 1D 1U 3R 2DR 4D 10RD 1R 4D 1R 2D 2L 7UL 7RD 2R 2U 1L 4U 12LU 2L
+2D 3RD 1R 8DR 9LU 2L 2D 2RD 1R 2D 2L 1U 2L 2U 2LU 2DR 4D 5RD 4R 3DR 3LU
+5L 2D 1R 1D 7UL 1R 4D 1R 3D 3L. Finished!
+
+
+
+LEVEL 144 - FIREFLIES
+Password: GVXQ
+
+This level is the kind of level that needs a lot of patience... the kind
+of level that I'm not good at :). The fireballs pose a serious threat
+to you. It's good to remember the behavior of the fireballs and
+yourself: The fireballs can move normally through regular floor and the
+fires, but they can't go through gravel or regular walls. YOU can move
+normally on regular floor and gravel, but you can't go through fire or
+the regular walls. Always anticipate where you're going to go and find
+a spot of gravel at the place where you're going so you have a place to
+plan further. Don't move to quickly, that just makes you careless (and
+besides, you have unlimited time).
+
+
+
+LEVEL 145 - Thanks to...
+Password: TONY
+
+When you look at the little black box that tells you the name of the
+level and the password, it shows "Thanks to...TONY". The Tony is
+probably referring to Tony Krueger, who you can see in the "About Chip's
+Challenge" under the help menu (windows version). This level also thanks
+some other people: Doug T. (in the toggle doors), Rob D. (in the
+gravel), Ed H. (in the fire), Lisa F. (in the ice), and the WEP 4 test
+team (the hint beside the exit). Anyhow, here's how to beat the level:
+slide across the ice and enter the teleport. Now go down and get the
+fireboots from the bottom right part of the gravel. Use them to cross
+the fire and slide across the ice. Take the force floor path to the
+bottom right... take one step right into the exit square. Whew! That was
+easy! [NOTE: This is the only level in Chip's Challenge where the title
+isn't spelled in all capital letters. Weird...]
+
+
+
+LEVEL 146 - CAKE WALK
+Password: JHEN
+
+First, go to the right side and use a block to stop the fireballs from
+being cloned. Now use these blocks to build a bridge beside the ice and
+force floor path. Continue building the bridge until you get the suction
+boots. Then build a horizontal bridge from your bridge just under the 3
+blocks (going right to the chips). Collect the chips and the red key
+(9 chips left). Go to the left side and collect all the chips there (4
+chips left). Then repeat the process you did on the right side to
+collect the remaining chips and the blue key. You will need to transfer
+some blocks from the right side to do this. Now go to the bottom of the
+middle path and stand between the two brown blocks. Push a block to the
+side and quickly move down (the block bounces back). Push the LEFT block
+upwards to build a path to get the fireboots. Go down into the force
+floor area (don't push a block in there yet) and use the key on the red
+lock that's directly under the exit square. Push a block into the force
+floors and it will go to the space of the lock you just opened. Push it
+into the water and get in the exit square.
+
+
+
+LEVEL 147 - FORCE FIELD
+Password: COZA
+
+I found this level very hard. Well, maybe more time consuming and
+annoying than hard. You need a lot of patience (and free time) to beat
+this level. What you're actually trying to do is get the chips so you
+can pass through the chip socket and get the suction boots. Then you can
+move freely around the level and into the exit square. When you start
+out, you should just go around forcing yourself to the nearby chips.
+Then you should start analyzing the patterns of the force floors so you
+know what button to press to get to the next area or chip. I found that
+it was quite easy to get the chips at the left side... but the right
+side of the level kept of bringing me back to the left. Just remember to
+look ahead so that you know where you're going next. Luckily, you have
+all the time you need to beat this level. Oh yeah, good luck!
+
+
+
+LEVEL 148 - MIND BLOCK
+Password: RGSK
+
+I didn't find this level too hard... and it's definitely not worthy of
+being Level 148! Anyhow, you need to clone brown blocks and use them to
+form a path through the mess of bombs to the chips and eventually the
+exit square. Be patient-- you have unlimited time. Try to get rid of all
+the bombs near the center where you might make a misstep and die. The
+level is divided into four sections. Most of the chips are at the
+corners of these sections. The exit square can be found at the right of
+the upper area.
+
+
+
+LEVEL 149 - SPECIAL
+Password: DIGW
+
+This is it, the last level of the game. Get the yellow key and go
+through the yellow lock. Get the blue key and go through the blue lock.
+Get the red key and go through the red lock. Get the green key and go
+through the green lock. Enter the teleport. Use the two blocks at the
+right to build a bridge going to the RIGHT (don't use the left block, it
+has fire under it). Now use the second block and the fourth block to
+build a bridge going UP. Now there's a whole bunch of blocks, and only
+two of them don't have fire under them! Stand at the bottom-left corner
+and follow these directions: 2U 4R 4U. The block above you is the first
+block, push it into the water at the top. Return to the bottom left
+corner and follow these directions: 4R 6U 3R. The block above you is the
+second block, use it to complete the bridge you started with the other
+block. Cross up to the top area and go as far left as you can. Go up
+to the top strip of land and push the leftmost block aside. Tada! You
+completed the game!
+
+
+                             ~  The End  ~
+
+
+,----------------------------------------------------------------------.
+| 4) PASSWORDS                                                         |
+'----------------------------------------------------------------------'
+
+
+Here's a list of all the passwords for each stage. I know all of these
+are included in the stage-by-stage walkthrough but it's nice to have
+them arranged like this in case you want to make a print-out of all the
+passwords without the solutions for each level. So here's the list:
+
+
+Level 001 - BDHP           Level 051 - IGGJ           Level 101 - RPIR 
+Level 002 - JXMJ           Level 052 - PPHT           Level 102 - VDDU 
+Level 003 - ECBQ           Level 053 - CGNX           Level 103 - PTAC 
+Level 004 - YMCJ           Level 054 - ZMGC           Level 104 - KWNL 
+Level 005 - TQKB           Level 055 - SJES           Level 105 - YNEG 
+Level 006 - WNLD           Level 056 - FCJE           Level 106 - NXYB 
+Level 007 - FXQO           Level 057 - UBXU           Level 107 - ECRE 
+Level 008 - NHAG           Level 058 - YBLT           Level 108 - LIOC 
+Level 009 - KCRE           Level 059 - BLDM           Level 109 - KZQR 
+Level 010 - UVWS           Level 060 - ZYVI           Level 110 - XBAO 
+Level 011 - CNPE           Level 061 - RMOW           Level 111 - KRQJ 
+Level 012 - WVHI           Level 062 - TIGW           Level 112 - NJLA 
+Level 013 - OCKS           Level 063 - GOHX           Level 113 - PTAS 
+Level 014 - BTDY           Level 064 - IJPQ           Level 114 - JWNL 
+Level 015 - COZQ           Level 065 - UPUN           Level 115 - EGRW 
+Level 016 - SKKK           Level 066 - ZIKS           Level 116 - HXMF 
+Level 017 - AJMG           Level 067 - GGJA           Level 117 - FPZT 
+Level 018 - HMJL           Level 068 - RTDI           Level 118 - OSCW 
+Level 019 - MRHR           Level 069 - NLLY           Level 119 - PHTY 
+Level 020 - KGFP           Level 070 - GCCG           Level 120 - FLXP 
+Level 021 - UGRW           Level 071 - LAJM           Level 121 - BPYS 
+Level 022 - WZIN           Level 072 - EKFT           Level 122 - SJUM 
+Level 023 - HUVE           Level 073 - QCCR           Level 123 - YKZE 
+Level 024 - UNIZ           Level 074 - MKNH           Level 124 - TASX 
+Level 025 - PQGV           Level 075 - MJDV           Level 125 - MYRT 
+Level 026 - YVYJ           Level 076 - NMRH           Level 126 - QRLD 
+Level 027 - IGGZ           Level 077 - FHIC           Level 127 - JMWZ 
+Level 028 - UJDO           Level 078 - GRMO           Level 128 - FTLA 
+Level 029 - QGOL           Level 079 - JINU           Level 129 - HEAN 
+Level 030 - BQZP           Level 080 - EVUG           Level 130 - XHIZ 
+Level 031 - RYMS           Level 081 - SCWF           Level 131 - FIRD 
+Level 032 - PEFS           Level 082 - LLIO           Level 132 - ZYFA 
+Level 033 - BQSN           Level 083 - OVPJ           Level 133 - TIGG 
+Level 034 - NQFI           Level 084 - UVEO           Level 134 - XPPH 
+Level 035 - VDTM           Level 085 - LEBX           Level 135 - LYWO 
+Level 036 - NXIS           Level 086 - FLHH           Level 136 - LUZL 
+Level 037 - VQNK           Level 087 - YJYS           Level 137 - HPPX 
+Level 038 - BIFA           Level 088 - WZYV           Level 138 - LUJT 
+Level 039 - ICXY           Level 089 - VCZO           Level 139 - VLHH 
+Level 040 - YWFH           Level 090 - OLLM           Level 140 - SJUK 
+Level 041 - GKWD           Level 091 - JPQG           Level 141 - MCJE 
+Level 042 - LMFU           Level 092 - DTMI           Level 142 - UCRY 
+Level 043 - UJDP           Level 093 - REKF           Level 143 - OKOR 
+Level 044 - TXHL           Level 094 - EWCS           Level 144 - GVXQ 
+Level 045 - OVPZ           Level 095 - BIFQ           Level 145 - TONY 
+Level 046 - HDQJ           Level 096 - BIFQ           Level 146 - JHEN 
+Level 047 - LXPP           Level 097 - IOCS           Level 147 - COZA 
+Level 048 - JYSF           Level 098 - TKWD           Level 148 - RGSK 
+Level 049 - PPXI           Level 099 - XUVU           Level 149 - DIGW 
+Level 050 - QBDH           Level 100 - QJXR
+
+
+,----------------------------------------------------------------------.
+| 4) BEST TIMES                                                        |
+'----------------------------------------------------------------------'
+
+
+No, these are NOT all MY best times. I collected them from Alice Voith's
+excellent Chip's Challenge site (http://www.geocities.com/~fishofgold/).
+These were done by various people that I do not know and I'm not really
+sure if they want their name included here. Again, these are not my own
+records.
+
+The times shown here are the REMAINING time when you beat the level, not
+the time it took you to complete. If you are able to beat any of these
+times here, go ahead and e-mail me... but I don't think you can beat the
+times here anyway. [NOTE: NA means "Not applicable" because these levels
+are not timed.]
+
+
+Level 001 -  83            Level 051 - 655            Level 101 - 240   
+Level 002 -  90            Level 052 - 382            Level 102 - 177   
+Level 003 -  89            Level 053 - 478            Level 103 - 488   
+Level 004 - 116            Level 054 - 323            Level 104 - 232   
+Level 005 -  85            Level 055 -  69            Level 105 - 255   
+Level 006 -  94            Level 056 - 161            Level 106 - *NA   
+Level 007 - 138            Level 057 - 228            Level 107 - 260   
+Level 008 -  96            Level 058 - 550            Level 108 - 275   
+Level 009 - 303            Level 059 - 367            Level 109 - 132   
+Level 010 -  51            Level 060 - 288            Level 110 - 270   
+Level 011 - 209            Level 061 - *NA            Level 111 - *NA   
+Level 012 - 269            Level 062 - 282            Level 112 - *NA   
+Level 013 - *NA            Level 063 - 476            Level 113 - 461   
+Level 014 - 203            Level 064 - 523            Level 114 - 172   
+Level 015 -  89            Level 065 - 394            Level 115 - *NA   
+Level 016 - *NA            Level 066 - 291            Level 116 - 692   
+Level 017 -  83            Level 067 - 517            Level 117 - *NA   
+Level 018 - 553            Level 068 - 483            Level 118 - 260   
+Level 019 - 168            Level 069 - 229            Level 119 - 199   
+Level 020 - 340            Level 070 - 136            Level 120 - *NA   
+Level 021 - 118            Level 071 - 351            Level 121 - *NA   
+Level 022 - 291            Level 072 - *NA            Level 122 - 271   
+Level 023 - 423            Level 073 - 483            Level 123 - 271   
+Level 024 - 414            Level 074 - 359            Level 124 - 661   
+Level 025 - 431            Level 075 - 479            Level 125 - *NA   
+Level 026 - 251            Level 076 - 402            Level 126 - 423   
+Level 027 - 147            Level 077 - 481            Level 127 - 451   
+Level 028 - 238            Level 078 - 478            Level 128 - 315   
+Level 029 - 299            Level 079 - 219            Level 129 - 286   
+Level 030 - 454            Level 080 - 733            Level 130 - *NA   
+Level 031 -   6            Level 081 - *NA            Level 131 -  24   
+Level 032 - 375            Level 082 - 963            Level 132 - 654   
+Level 033 - *NA            Level 083 - 297            Level 133 - *NA   
+Level 034 - 297            Level 084 - 578            Level 134 - *NA   
+Level 035 - 570            Level 085 - 224            Level 135 - 293   
+Level 036 - 232            Level 086 - 381            Level 136 - *NA   
+Level 037 - 585            Level 087 - *NA            Level 137 - 392   
+Level 038 - 460            Level 088 - 317            Level 138 - 227   
+Level 039 -  16            Level 089 - 368            Level 139 - *NA   
+Level 040 - 194            Level 090 - 317            Level 140 - 263   
+Level 041 - 169            Level 091 - 365            Level 141 - *NA   
+Level 042 - 187            Level 092 - 443            Level 142 - *NA   
+Level 043 - 126            Level 093 - 634            Level 143 - *NA   
+Level 044 - 146            Level 094 - *NA            Level 144 - *NA   
+Level 045 - 195            Level 095 - 334            Level 145 - *NA   
+Level 046 - 222            Level 096 - 318            Level 146 - 677   
+Level 047 - 227            Level 097 - 289            Level 147 - *NA   
+Level 048 - 275            Level 098 - 337            Level 148 - *NA   
+Level 049 - 162            Level 099 - 379            Level 149 - 954   
+Level 050 - 317            Level 100 - *NA                              
+
+
+,----------------------------------------------------------------------.
+| 6) TIPS AND SECRETS                                                  |
+'----------------------------------------------------------------------'
+
+
+- Here's a trick that would make the entire above section worthless: If
+you press CTRL-T, there will be an "Ignore passwords" command under the
+game menu of Chip's Challenge. When this is activated, you won't need to
+enter a password when you go to a level. You can go to any level you
+want using the "Goto" command under the level menu without entering a
+password.
+
+- Every time you restart a level (after dying), your score is subtracted
+by 20%. To prevent this from happening, you can go to "best times" under
+the game menu and click on the level you are on and you will not lose
+any points.
+
+- The name of level 145 is "Thanks to...". And the password is "TONY".
+When it is viewed at the beginning of the stage, is says
+"Thanks to...TONY". This is probably referring to Tony Krueger who you
+can see when you look at "About Chip's Challenge" under the Help menu.
+
+- The passwords of level 095 and level 096 are exactly the same. I
+really don't know what's up with this. Was it intentional? Was that an
+accident? The passwords obviously supposed to be different for each
+level, but I was surprised to see this when I made the password
+section...
+
+- Level 034 is called 'Cypher'. And 'Cypher' means code. If you make a
+map of the level and view it from far, you will see that there are three
+rows of four letters each. Each row tells you a different password for
+another level in Chip's Challenge. The first row tells the password for
+level 082: LLIO. The second row tells the password for level 137: HPPX.
+And finally, the third row shows the password for level 146: JHEN.
+
+- There is a file that stores the settings for Chip's Challenge and the
+other Windows Entertainment Pack games. This file is usually in the
+Windows directory and called entpack.ini. The first settings you'll see
+belong to Chip's Challenge. The first settings here are the settings for
+the sound effects. You can change these to different .wav or .mid files
+that you may have on your hard drive. If you want, you can also change
+the current level, the highest level, and the current score.
+
+- Many of the levels in Chip's Challenge have hidden meanings behind
+their names. For example: Level 034 - CYPHER means Code. Level 013 -
+SOUTHPOLE tells you the direction to the exit square. Level 017 - NICE
+DAY comes from the giant happy face which can be see from afar. Level
+024 - OORTO GELD is an anagram for toggle door. I could have put all
+these secret meanings into a new section if a wanted to.
+
+- This is just weird information now. You know level 145 - Thank you...?
+There's a lot of unique stuff about it. First of all, it's the only
+level where the title isn't written in all capital letters. Second, when
+you look at the introduction box thing, it says "Thanks to...TONY"
+(probably referring to Tony Krueger). Third, there's a bunch of other
+people thanked in this level: Doug T. (in the toggle doors), Rob D. (in
+the gravel), Ed H. (in the fire), Lisa F. (in the ice), and the WEP 4
+test team (the hint beside the exit). Lastly, this is the only level
+that doesn't have a border around the sides.
+
+
+,----------------------------------------------------------------------.
+| 7) FREQUENTLY ASKED QUESTIONS                                        |
+'----------------------------------------------------------------------'
+
+
+Q: Where can I find this game?
+
+A: Chip's Challenge is a game by Microsoft originally part of Windows
+Entertainment Pack (WEP). Unfortunately, Window's Entertainment Pack is
+getting quite rare and hard to find in stores. You can buy WEP through
+Microsoft's official website (http://www.microsoft.com). You can order
+it there and it will be delivered anywhere in the United States
+(including Alaska and Hawaii). No, I will not give it away to you...
+Microsoft would get angry at me :)
+
+
+Q: And what if I don't live in the US...
+
+A: I don't live in the United States either! Chip's Challenge was
+included in my hard drive when I bought my PC. Perhaps you can check the
+place where you bought your computer... usually they'll have information
+about where you can find Window's Entertainment Pack. Or maybe you can
+ask someone is the US to order it and send it to you.
+
+
+Q: How do I beat this level?
+
+A: Check the walkthrough, genius. I don't have time to put up with
+losers that can't look through simple 170KB guide for a simple answer to
+beating a simple level for such a simple game. Oh, and if I didn't make
+a level solution for the level you're talking about, then I probably
+didn't beat that level yet. I'm doing this guide as I continue through
+the game.
+
+
+Q: I can't understand your instructions!
+
+A: Uh huh. You mean you can't understand plain English? Or more likely,
+my instructions are too complicated for your simple little brain. E-mail
+me for clarification on that level. You can also check out Alice Voith's
+Chip's Challenge site (http://www.geocities.com/~fishofgold). That's
+where I always went to look for help on the net.
+
+
+Q: Why are you making a guide for such an old game?
+
+A: Because I feel like it... and because there's no other Chip's
+Challenge guides at Gamefaqs.com. I know several people that are still
+trying to beat the game until today and don't know anywhere to get help.
+Also, this is one of the most popular PC games ever created (since many
+people already have it included in their hard drive). Hopefully
+*someone* will appreciate what I'm doing here.
+
+
+,----------------------------------------------------------------------.
+| 8) CREDITS & INFO                                                    |
+'----------------------------------------------------------------------'
+
+
+Special thanks to...
+   - Microsoft for making this game and packing it with Windows 95
+   - Alice Voith's Chip's Challenge Site (www.geocities.com/~fishofgold)
+   - Gamefaqs.com for posting all my FAQs. This is my 3rd so far.
+   - http://www.bus.ualberta.ca/rfield/Chip'sChallenge/chip.htm
+
+
+NOTE TO WEBMASTERS:
+You may freely place this document on non-profit websites without
+explicit permission from the author as long as (1) it is not modified at
+all and (2) I recieve full credit. Take note that any future
+updates will be sent only to gamefaqs.com.
+
+REGARDING FEEDBACK:
+Before coming to me with questions, please make sure that it's not
+already answered in this guide. And make sure you're looking at the most
+recent version of the guide (always available at www.gamefaqs.com). All
+feedback goes to mpgonzalez@gmail.com.
+
+For news about the progress of my FAQs, and announcements of future
+projects, visit my site at http://www.geocities.com/coffeefaqs.
+
+Copyright (c) Michael Gonzalez 2004
+
+
+

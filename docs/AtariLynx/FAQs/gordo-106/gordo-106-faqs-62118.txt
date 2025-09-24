@@ -1,0 +1,495 @@
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+
+
+Gordo 106 (Atari Lynx, 1993)
+Copyright (2011)
+Darrin (forceXdistance)
+
+----------------------------------------------------------------------------
+
+Obligatory standard boiler-plate disclaimer: This walkthrough may not be 
+reproduced under any circumstances except for personal, private use. It may 
+not be placed on any web site or otherwise distributed publicly without 
+advance written permission. Use of this guide on any other web site or as a 
+part of any public display is strictly prohibited, and a violation of 
+copyright.
+
+--------------------------------------------------------------------
+
+Gordo 106 is an unsung hero title of sorts and was more or less either
+ignored and forgotten at best or criticised at worst. The reason for this 
+was most likely due to the high learning curve of the game (i.e. people 
+played it and sucked at it and wrote the game off as bad). Part of this 
+nay-saying was undoubtedly the stressful dungeon areas. Where most 
+platformers simply killed you off, games like Gordo 106 (and Wario World 
+for Gamecube) chose to give you a chance to dig yourself out of your 
+hole. This is bittersweet. On the plus side you get a chance to redeem 
+yourself and save a life. On the negative side the over-all game is 
+slowed down and you have to backpeddle your back just to get where you 
+were before (i.e. it can feel like you are wasting time). Anyway, I 
+believe that when given a chance Gordo 106 is a great Lynx title that
+can easily stand alongside Toki, Shadow of the Beast, and Rygar as a classic.
+The game has lots of music tracks, paralax scrolling, creative unorthodox
+storyline, over 20 fairly long stages, 7 different background graphic sets, 
+and not-too-shabby graphics. With practice, the game can be beaten with a 
+fair amount of ease.
+
+------------------------------------------------------------------
+Controls:
+
+B (attack)
+A (jump)
+Joypad (move)
+Down/up + B (throw apple down/up)
+Joypad double tap L or R (run)
+Option 1 (info screen)
+
+----------------------------------------------------------------------
+Walkthrough:
+
+This will be a bottom-line FAQ, meaning that I will try not to waste too 
+much time on the obvious and easy sections of levels when what people really 
+want to find are the answers to relevant and important questions. For each 
+stage, I will focus on the parts that are more likely to cause potential 
+problems and letter each in turn.
+----------------------------------------------------------
+
+Level 1-1
+
+A. As always, use apples sparingly and take out the lab technicians if they 
+stand in your way.
+
+B. Avoid falling into pits as much as possible. The dungeon is not a normal 
+stage in the game and there is really no reason to intentionally enter it. 
+If you fall in, however, that is a different story! See the end of this FAQ 
+for help on exiting the dungeon. To gain more distance in your jumps, simply 
+take a running start. This can make it easier to avoid falling in a hole.
+
+C. Open as many cages as possible on this stage. Don't forget the ones in the 
+top/left or the top/right parts of the stage. Remember to use a running jump 
+if you need more distance. Freeing animals earns points which are useful for 
+attaining free lives. Since there are no continues in this game, points are 
+very important.
+
+D. The over-hanging lights are easy to swing to and from. Don't worry about 
+falling off if you hang for too long. Also, the game is very forgiving as 
+you swing from light to light as you keep the direction button pressed and 
+jump at the peek of your swing. If you keep the jump button pressed, you 
+will automatically go from light to light.
+
+E. Health and ammo does not replenish on each new stage. As such, the 
+bananas and apples can be very helpful.
+
+F. Simply touch the exit sign to finish the stage.
+
+----------------------------------------------------------------
+
+Level 1-2
+
+A. The top left of the stage has rabbit cages (dispatch the odd group of 
+lab-coated people that act as a singular entity).
+
+B. Near the beginning of the stage you must ride a conveyor belt with some 
+bunnies. Avoid riding it into the grinder (a one-hit death). Below the 
+grinder is the word "WARNING" written in red letters. Jump to the ledge for 
+safety!
+
+C. Remember that you can't jump from the very top of the screen 
+(you will hit your head). You can reach the ledge above the 1st no-smoking 
+sign by running from the left and holding right as you fall down on it.
+
+D. Spend some time looking around for rabbit cages to open for bonus points.
+
+E. There is another conveyor belt. Avoid the grinders as before (look for the 
+WARNING signs). When you see the end of the conveyor belt make sure you 
+avoid the pit below by jumping to the right. 
+
+F. There is a switch to turn off the conveyor belts, but it is not essential 
+to beating the stage.
+
+G. Get accustomed to the running jump. It is used frequently in this game to 
+avoid pits or to reach necessary locations.
+--------------------------------------------------------------
+
+Level 1-3 (lab facility)
+
+A. Jump carefully between file cabinets to avoid any pits between them.
+
+B. As soon as you see a giant chemist with a large syringe (yes this game is 
+strange) take care to time it right so that you can shoot an apple downward 
+and hit him. Don't waste too many apples. After he is defeated walk and hold 
+right as you fall from the ledge just above to land to safety.
+
+C. Be cautious of the large pit near the end of the stage! 
+
+D. Remember that not all seemingly "blind jumps" in this game are blind. Take 
+some time to see if you can find safety either below or far to the sides. 
+Remember that you can sometimes see what is on the other side of a "blind 
+jump" if you jump off a ledge just a little, take a peek, and quickly return 
+yourself back to where you jumped from. Sometimes a running jump will land 
+you on a more distant ledge out of harm's way. Also use trial and error to 
+memorize where the pits are located so that you can avoid them. Another 
+useful thing to remember is that you can infer the location of solid ground 
+by taking note of where the scientists are walking below you.
+
+D. This stage introduces a trampoline which is user-friendly. Just jump on 
+it and the sky's the limit.
+
+E. Remember not to bump your head near the top of the screen and don't forget 
+to open up rabbit cages as long as they are not too dangerous to reach. The 
+goal is to increase the life-count without losing lives in the process!
+
+F. Don't forget about the running jump. It can be a life-saver to clear a 
+large distance and avoid a pit and reach higher or more distant ground.
+
+-----------------------------------------------------------------
+2-1 (hunter's convention)
+
+A. Be careful of the hunters. Their bullets will go over your head, but 
+only up to a point, until they arc downward. Apples will take them out. Also 
+watch out for the bloodhounds that make an appearance. Don't stand too close 
+when attacking because your extended arm can take damage in contact with your 
+adversaries.
+
+B. Be very weary of the snapping suitcases near the floor. They are 1-hit 
+deaths. I like to traverse the stage as close to the top as much as possible. 
+Remember you can swing on the chandeliers to make things easier and stay 
+above the floor.
+
+C. Remember that apples and bananas are your friends! Extra health and 
+ammo can be very helpful in your journey.
+
+D. Remember to scope out "blind jumps" to see if they are really blind. 
+You may be able to take a running jump and land to safety.
+---------------------------------------------------------------------
+2-2
+
+A. Be cautious of the odd ladies throwing mugs into the air as you jump 
+over them. It may help to dispatch any of the ladies walking side to side. 
+I like to minimize damage by staying above the floor and using the 
+chandeliers to quickly move between flying mugs timing my jumps as best as I 
+can. 
+
+B. There are no pits in this stage.
+------------------------------------------------------------------------
+2-3
+
+A. Do not touch the spikes that come out of the metal boxes. They are one-hit 
+deaths! Watch their rhythm and time your jumps accordingly. This is especially 
+important as you swing on the changeliers above them.
+
+B. Do not touch the buzz saw unless you turn it off first. You will 
+eventually need to run against the grain so as to make headway right on a 
+high conveyor belt. Near the end, fall and run left to the off switch to turn 
+off the saw. 
+
+C. If you dare want any of the fruits on the conveyor belts make sure you 
+jump back to safety as soon as possible afterwards. There is a treasure-trove 
+of food-stuffs to the left of the stack of metal boxes just to the left of 
+the on/off switch that turns off the buzz-saw.
+
+D. The bloodhound and hunter near the beginning can be dispatched from the 
+floor to the left of the 3rd metal box!
+
+-----------------------------------------------------------------------
+3-1 (fashion show)
+
+A. As soon as the level starts two jumping dudes in yellow shirts will 
+introduce themselves. Throw 2 apples at each of them. If you don't 
+anticipate them ahead of time you may take hits.
+
+B. I like to travel along the lights near the top as much as possible, 
+but there are some cages to be found near the floor that are tempting as 
+well. Plan a route that suits your tastes. Make sure you avoid the 
+yellow-shirts, red spiky things, and rolling logs.
+---------------------------------------------------------------------
+3-2
+
+A. As before, anticipate and dispatch the yellow-shirt from the right.
+
+B. Use caution as you move under the legs with high-heel shoes as they go up 
+and down (no joke!). I like to walk instead of run as I go betwen them. You 
+may need to dispatch some enemies from a distance for safety reasons. Do 
+not touch the legs or the shoes.
+
+C. I like to stay near the top of the screen using chandeliers as 
+appropriate as I move right. There are some cages below which can add bonus 
+points, however (just be careful as they are surrounded by pits which lead 
+to the dungeon).
+
+D. Don't bump your head by jumping too close to the top of the screen. You 
+may have to jump to some ledges from closer below.
+
+E. I like to disregard the yellow-shirts below and touch the exit sign by 
+falling and holding right from above.
+----------------------------------------------------------
+
+3-3
+
+A. As soon as the stage starts, get to the safety of the 2nd ledge above you as 
+large burly hunters will start walking and shooting around you. A large net may 
+fall and damage you some. I have found this hard to avoid. So are the breaks! 
+There is a cage and banana on the right, but I like to avoid it as there is 
+another net there that will fall. Using a running start where appropriate, 
+work your way left. You may take hits from additional falling nets and/or a 
+red spikey thing. Swing from lights as appropriate until you can see a red 
+spikey enemy. Don't touch it. Instead, drop to the safety of the small ledge 
+just below it. Do a running jump to the ledge containing a banana. Do another 
+running jump to the left. Now, before you rinse and repeat a third time, make 
+sure to watch the enemies and bullets below and time your running jump so 
+that you safely land at the level exit without touching any enemies or 
+bullets.
+
+B. I generally don't worry too much about the cages on this stage.
+
+C. This level can be tough and make or break a sensitive monkey!
+-------------------------------------------------------------------------
+
+4-1 (warehouse)
+
+A. The moving metal pipes will kill on-site full-stop. They are very dangerous. 
+Generally, I like to jump at about the same time the press makes contact with 
+the floor. When standing between the presses, make sure you are exactly in the 
+middle and not allowing your tail or cap to come into too much contact with 
+them. Remember to watch their patterns and get the timing down. There is no 
+time-limit to the stages, so be patient. Sometimes simply walking will get you 
+past some of the steam presses so don't feel like you have to run constantly. 
+Give the poor monkey a break once in a while!
+
+B. The puppy doors are like rabbit cages and earn points. Open the ones that 
+are easy to find and leave the ones that are too dangerous behind.
+
+------------------------------------------------------------------------
+
+4-2
+
+A. Save all the puppies you can, but take care not to fall into the manholes 
+or you will have to face the dungeon. Remember to try your best to scope out 
+seemingly blind-jumps to see if you can spot safe ground below or in the 
+distance.
+
+B. You will see a large dude throwing stuff. I like to get on the crate 
+closest to him and make sure not to touch him or his bullets. Carefully toss 
+apples at him. He takes lots of hits, and hopefully you won't run out of 
+ammo! 
+
+C. Time your running/jumping/walking so that you do not come into contact with 
+the chefs, their hands, or what they drop from above.
+
+D. I like to use the sky-lights as much as possible and stay near the top of 
+the screen. Regarding the big dude with the fishing net, you can dispatch him 
+with apples from a distance. If you are out of ammo it might help to run 
+through him and the first chef on their ledge and minimize damage.
+
+---------------------------------------------------------------------------
+
+4-3
+
+A. Carefully get past the chefs without taking damage.
+
+B. Do not touch the ceiling fans (one-hit deaths) especially the ones close to 
+you unless you turn them off first. Pay attention and don't forget about them 
+as they are scattered around the entire level.
+
+C. Carefully get past the moving pillars as before. You can run out of lives 
+quickly if you don't! Remember to stand directly between them as it can be a 
+fairly tight squeeze. Get the timing done also. This is probably one of the 
+hardest levels in the game!
+
+D. You can dispatch the dude with the net safely below him.
+
+E. I like to stay close to the top of the level as usual. 
+
+F. When you see two metal presses side-by-side, I like to get on the lower 
+platform (via careful jumping or falling). Next, I like to carefully land 
+under the first press ASAP without touching it and move past the second press 
+as soon as it is safe. It might help to study their movements for a bit before 
+taking the plunge.
+
+G. Watch out for man-holes and memorize where they are. But don't forget to 
+poke around seemingly blind-jumps to see if you can spot safe land below or 
+ahead.
+
+H. Turn the fans off, but not until carefully dispatching the net-dude from a 
+distance with apples.
+
+I. Be careful when jumping over the stacked crates near the end of the stage 
+as they may have man-holes between them. Determine if regular or running jumps 
+suit you or the situation better.
+
+--------------------------------------------------------------------------
+
+5-1: Nautical ship
+
+A. Go left and carefully dispatch the large hunter before the pirate tank 
+approaches. Ascend up/right and swing along the handles to the right.
+
+B. Stay to the top of the screen as much as possible in this stage. Remember 
+to take a running jump between ledges as needed.
+
+C.If you find yourself seemingly unable to continue swinging along the handles, 
+you may have to think a bit and get to the "out of reach" handle by taking a 
+running jump from farther back. Remember that it is not always easy to take a 
+"running fall" hoping to grab a handle that way.
+
+D. You will eventually come to a high vertical pillar with a hunter on the 
+right (and the pirate tank on the left).Be careful, because even when you are 
+standing on this pillar the pirate's cap can still hurt you (jump straight up 
+if it comes close to you). Just to the right of the pillar on the ground is a 
+trampoline. When it is safe, use the trampoline to fly more or less straight 
+up and grab the closest handle. Continue to the right and stand on the last 
+ledge you can. When it is safe, avoid enemies and holes and use the last 
+trampoline to jump over the hole on it's right and  work your way to the end 
+of the stage. The pirate can be dispatched on this stage, but he takes lots 
+of hits and it is not necessary.
+---------------------------------------------------------------
+
+5-2 
+
+A.Get the banana on the right if you need it and go left and avoid the man-hole 
+and use the trampoline to get up to the handles. Stay near the top of the 
+screen and use the high handles as much as possible on your journey right. If 
+a handle seems out of reach, running jumps and/or jumping from a lower or 
+farther ledge may be necessary. Grab any fruit if convenient and necessary.
+
+B. You will notice a low ledge with an apple on it as you are walking along 
+a high floor. Since you will bump your head from this current height, 
+remember that you can reach the ledge under the apple by running off the 
+high ledge and carefully landing on the apple. Next, jump to the next narrow 
+platform above you (but NOT to the top-most wide floor). From here, you can 
+safely reach the next set of handles! Swing right till you land on safe and 
+solid ground.
+
+C. The next part is similar to the previous, in that you will notice a banana 
+down/right while you are standing on the high floor. Instead of bumping your
+head, take a running fall and land on the banana. From this ledge, jump to the 
+next set of handles! Swing to safe ground as before.
+
+D. Carefully walk right and you will see a red apple. Take a running fall and 
+land under the apple and ascend to the top-most floor. Fall on the exit sign 
+when safe and clear of the pirate-tank.
+-----------------------------------------------------------------------
+
+5-3
+
+A. This stage can be a guy-killer and make short work of the stash of lives 
+you have accumulated thus far. I like to go left and take the trampoline 
+upwards. Next, I like to use the handles near the top as I work my way left 
+to the high and safe ground. Watch how the monster below runs back and forth 
+under you (he is a calm gorilla wearing an angry helmet). When safe, work 
+your way along the top of the screen using handles as necessary. If you 
+happen to fall, there is a trampoline which can be used to get you back up as 
+you work your way top/left to safer ground.
+
+B. From your safe high ledge, you will notice a small platform under you and 
+another small platform to your left. When safe, fall off your current ledge 
+and turn right to land on the lower one. Quickly before the monster returns, 
+take a running jump and work your way left to the on/off machine and turn
+it off.
+
+C. Now go back to the beginning of the stage. Dont worry about the gorilla. 
+The switch you hit turned on his happy hat! Now he will help you to the exit. 
+Just climb on his back and that is that.
+
+----------------------------------------------------------------------
+
+6-1
+
+A. Jump on the columns and work your way top/right. Swing on the chandeliers 
+but be careful of the spider who approaches from the right. Keep working your 
+way top/right as you swing on lights and avoid the rich thugs swinging their 
+arms. Take some time to watch, learn, and prepare for the move. You will 
+come to an impasse where you are standing on a high ledge. It is possible to 
+take a running fall and grab the right-most light below you. Work your way 
+right and grab the apple.
+
+B. Continue right/up using lights and/or running jumps as necessary to 
+maintain your position near the top of the screen. Remember that some ledges 
+that seem out of reach may be reached via jumping from a lower or farther 
+ledge and using running jumps.  
+
+C. Only grab fruit if it is safe to do so. Be weary of the large thugs and the 
+man-holes below.
+
+D. Work your way to the pillar with an apple on top (lower down). Carefully 
+dispatch the thug and spider on the right from a safe distance (make sure
+your arm doesn't touch the enemies as you throw apples).
+
+E. Use the trampoline to reach the high ledge safe and sound from the 
+laser-beam that comes. The next bit is tricky. You want to work fast to ensure 
+you don't take more hits than necessary. Work your way right using running 
+jumps as necessary  to maintain some height until you are on a ledge above 
+an investigator holding a flashlight. Run right and as SOON as you start to 
+fall, reverse direction and hang towards the exit sign. You might take a hit 
+from the investigator, but hopefully you will beat the level.
+
+--------------------------------------------------------------------
+6-2
+
+A. Work your way left and avoid man-holes, spiders, and large thugs in the 
+process until you can ascend and swing right along the lights. Continue to
+trek right and watch out for stray spiders. Grab any fruit only if safe (you 
+may have to run/jump from an alternate ledge to reach them). Remember that 
+you can sometimes run/fall if a ledge seems too far away to land on in 
+situations where you are too high to jump without bumping your head.
+
+B. In general, and as per usual, try to keep near the top as you continue 
+right and swing along lights. Be careful and patient as you scope out ahead 
+to prepare for the odd spider fight. Remember that you don't always have to 
+make a running jump to reach ledges. A regular one might be just fine.You may 
+run low on ammo as you fight thugs and/or spiders. Collecting the odd apple 
+may be just what the doctor ordered. But be careful. If a light seems 
+out-of-reach remember that (as before) you may be able to run and fall and 
+just barely grab the next one.
+
+C. Continue to the high ledge out of harm's way from the laser beam. Try to 
+use as many lights to swing from as you can as you quickly go right. Take 
+running jumps as needed to traverse to the right without falling into any 
+holes. Like stage 6-1, at this point I like to work fast and get to the exit 
+as soon as possible when you see the investigator with the flashlight.
+
+-------------------------------------------------------------
+6-3
+
+A. Use the trampoline and work your way left swinging from lights under any 
+spiders that get in your way. Either use running jumps or carefully regular
+jump from ledge to ledge as you go left. You almost beat the game, so press 
+on soldier!! Rinse and repeat as you go left. If you fall on the floor 
+watch out for any dungeon holes. If this happens, you may have to backtrack 
+a bit to get back up near the top of the screen. 
+
+B. Traverse left as per usual. Jump between the stone pillars (using running 
+jumps if necessary). You will see the familiar laser-beam make a return 
+visit. Make another jump to the next ledge. You will eventually see the 
+investigator. This time he can be defeated! He is actually the final boss. 
+Make sure you have a reserve of apples by this point and throw them at him. 
+He should go down shortly.
+
+--------------------------------------------------------------------------
+
+Ending
+
+Congratulations, you beat the game!!!! If you are like me, you by now 
+realize that this isn't such a bad little game after all. The ending is 
+kinda cool as it shows fireworks and free animals running amok. Text 
+soon follows letting you know that Gordo will be there wherever there 
+is trouble in the world.
+
+-------------------------------------------------------------------------
+
+Dungeon
+
+A. So you fell into the dungeon eh? Now you gotta get back out again. It 
+can be frustrating, stressful, and/or freaky to be down here. It is tough 
+and most contact with fire will result in a one-hit death. There are a 
+myriad of parts to the dungeon, and it can be relatively random where you start 
+or end up. You can find an exit out of the dungeon with careful navigating, 
+and you can also find alternate man-holes to fall into to get to another 
+location. Manholes may also take you to a death-room with no escape or a bonus 
+room with lots of rabbits to free from cages. Navigating around the dungeon 
+requires good platform skills. The timing required to move between fire blasts 
+is critical. Watch and learn from a distance. Also watch for small fire blasts 
+that come from the horse statues. Remember that this dungeon is NOT a regular 
+level. I do not see any good reason to intentionally visit the dungeon. It is 
+more of a punishment than a reward. 

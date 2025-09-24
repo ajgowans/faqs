@@ -1,0 +1,390 @@
+-------------------------------------------------------------------------------
+------------------------------ [TOKI aka JUJU DENSETSU] -----------------------
+---------------------------------[by Ice Queen Zero]---------------------------
+------------------------------------- [ ARCADE ]-------------------------------
+-------------------------------------------------------------------------------
+
+o---------------------o
+     INTRODUCTION
+o---------------------o
+
+When I first played the arcade version of Toki, it blew my mind. You go around
+as an ape spitting projectiles at various enemies that had a lot of tricks up
+their sleeve and could kill you if you were not careful. What was even more
+cruel is that you could only continue up to five times in the final level so if
+you lost your last life after the 5th continue, its Game Over completely and it
+didn't matter how many quarters you had in the final level. Those are the breaks
+I guess.
+
+o---------------------o
+       DISCLAIMER
+o---------------------o
+Toki and its characters are trademarks of TAD Corporation and all copyrights 
+belong to them.
+
+This FAQ/Walkthrough is the sole copyright of Andrea "Azul Fria" Castillo aka
+Ice Queen Zero and cannot be put on other sites or posted without my given 
+permission nor can it be reproduced w/o proper consent.
+
+For of my guides: http://www.gamefaqs.com/features/recognition/74803.html
+
+
+o---------------------o
+        ENEMIES
+o---------------------o
+
+Herbamo - Aside from walking into you, this creature with a green body and brown
+legs is harmless for the most part.
+
+Ivor - A prehistoric warthog that also tries to crash into you.
+
+Timagon - Hatches out of an egg which halves can kill you and then it breathes
+fire at you.
+
+Garnidare - Looks almost like a crab but it along the walls and vines.
+
+Webstamite - This spider will move up and down and shoot projectiles in six
+different directions.
+
+Shartoesi - They look like flying green sperm and fly in packs. Each yield a
+coin everytime they get killed.
+
+Killer Harnas - A moth that will fly by hoping that it crash into you.
+
+Flying Shardu - These green bats will directly seek you. The smaller ones fly
+in packs and stay in one spot as the one in the middle yields an item when it is
+killed.
+
+Thorpedo - A reddish bird that appears flys around as a obstacle.
+
+Wobalin - They will fly above you and drop spears on you. Deal with them the
+moment you see them.
+
+Kalgatrobe - Zombie ape that directly walks after you.
+
+Bellzador - Flying white ape that tries to spear you.
+
+Armorel Kemin - Ape with a sword, armor and shield. It will swipe a firey
+wave at you
+
+Galartor - An giant white apelike head that bounces and spew a laser shot.
+
+Gabranha - Red underwater fish. Smaller ones swim in packs and act like the
+miniture Flying Shardu
+
+Mortoise - Swims by and will sometimes hide in its shell and emit sparks. Also
+comes in a smaller size to.
+
+Cupper - Underwater lizard that'll swim in a figure-8 pattern but won't bother
+you except being an obstacle.
+
+Blastums - Stays in the wall and when you get close enough, it will dart out at
+you.
+
+Pengafin - Red Penguin that will yield items when killed.
+
+Bungataras - A wierd red bird that flaps around. Gives you a red bonus meat
+when killed for bonus points.
+
+Raktura - A blue birdlike creature with flaming trails on its back. It serves
+as a miniboss in Level 3 - Caverns of Fire. It will fly in a pattern and will
+fire projectiles downward in 3 directions. Defeat them to move forward in some
+areas in Level 3.
+
+Creepavore - A walking lizard that will stick its tounge out at you to hit you
+with it. Get a few inches away from it to be safe from it. Also beware of the
+three arcing projectiles that it shoots from its tail.
+
+Katyerows - Just a tree like enemies that throws bouncing seeds at you.
+
+Catecormos - These flowerlike enemies will try to hop up on you. Be careful of
+those.
+
+Shoshanu - Sharks in the water that will swim in angles at you.
+
+Vipus - Stays stuck to a wall and shoots three seashells at you.
+
+Geeshergam - These are the same type of apes that you are but they will try to
+kill you by bouncing into you. They are your most common enemy and are used as
+a weapon by Boloragog.
+
+Gate of Moornah - miniboss of Stage 1 - Labyrinth of Caves. It is also the first
+boss in the Sega Genesis version. Here, they still breath steam from the faces
+on the sides but they also have hanging fists at the bottom and a couple of the
+Geeshergams operationg it from the top.
+
+Boloragog - Looks like an African witch doctor that sends out Geeshergams at
+you and occassionally comes at you to attack himself before sliding back. He is
+the boss of Level 1
+
+Neptuna - Miniboss of Level 2 - Lake Neptune. Moves up and down sending Gabranha
+at you. It will guard itself with a shield and trident.
+
+Rambacha - Boss of Level 2. Looks like the Michelin man with a big eyeball. It
+disappears and reappears in random spots and sends eyeballs at you.
+
+Mogulvar - Boss of Level 3 - Cavern of Fire. Looks like a giant version of the
+Ganidares. It will burp out letters (spells BURP) at you as it hops back and 
+forth.
+
+Zorzamoth - A frozen mamoth that hops back and forth swinging its trunk around.
+It will occassionally shoot its tusks at you that curve around the room so be
+causios of that. It is the boss of Level 4 - Ice Palace
+
+Bashtar - The guy that kidnapped your girlfriend is the boss of Level 5 - Dark
+Jungle. It will slowly walk towards you with its swinging hands. Attack Bashtar
+in the heart. It will occassionly use its hand to protect its heart temporarily
+then move foreward again. You can shoot at its feet to make it back up and in
+the Genesis version, the feet can be momentarily destroyed thus forcing it to go
+back and get new feet.
+
+Vookimedlo - The final boss of the game. Stark will unveil him and at first he
+will stand there in a robe and spit nails then when he take enough damage, he
+will disrobe and start raining bombs at you and trying to bite at you with its
+long neck where you stand and sometime swipe at you. Attack its heart to defeat
+him and win the game.
+
+o---------------------o
+      WALKTHROUGH
+o---------------------o
+
+***********
+* Stage 1 *
+***********
+Labyrinth of Caves
+Time: 300
+
+The evil hand of BASHTAR has seized the lovely MIHO. Her beloved, the mighty
+TOKI, has also been dealt a wicked blow. Now, reduced to a lowly ape, TOKI must
+risk a perilous journey to free MIHO and regain his manhood.
+
+Begin by attacking the Herbamo and Geeshergam. Kill the Shartoesi pack for coins
+as 50 of those will earn you an extra life. Get the megashot and kill another
+Herbamo, a Thorpedo, and a Kalgatrobe that rises from the ground. Destroy the
+spikes and avoid the thorns that they spawn. The Thropedo will give out a twin
+shot weapon. Get the apple for points and stay on the rock as it sinks to get
+the helmet. This will render you temporarily invincible from enemies but not
+from spikes. Stomp on the Killer Hanases and get past the Kalgatrobe and turn
+around to kill it along with the Blastums coming from the left. Let the weight
+boost you up and watch out for the egg shells of the Timagon the moment you get
+up there.
+
+Climb the vine and get rid of the Garnidare and destroy the bottom of the Gate
+of Moornah. Destroy the faces on the right side and kill the Geeshergams that
+are operating it. Jump down to the bottom, you may stomp a Flying Shardu and/or
+a couple Garnidares before hitting the floor, get ready to kill the Blastums
+coming from the right side when you land. Turn around and kill the Geeshergam
+and and the thorn spike. Take out the Wobalin and Webstamite. A Kalgatrobe will
+rise up. Use it as leverage to get the triple shot. Hop over the throns and get
+off the ledge before it falls and kill the Geeshergam and Kalgatrobe. Jump on
+the ledge on the left and use that standpoint to kill the Webstamite at a safe
+distance. Make your way up and on the far right kill that Webstamite from a
+safe distance and get rid of the 2 Killer Harnases. Get the high jump shoes and
+climb the vine. Kill the Wobalins and catapult up to the top. Get rid of the
+thorn spike and use your shoes to reach the helmet. After taking care of the
+Shartoesi pack, a Kolgatrobe, and Killer Harnas. You face off against the 1st
+boss. Don't worry about that spout it won't hurt you. It will function as a
+platform.
+
+The first boss, Boloragog has a simple attack of sending out Geeshergams out in
+waves at you. Stay at a far distance and fire and everyone including Boloragog.
+Boloragog will sometimes dash forward and swing his arms at you then slide back.
+He will fall after 30 hits. 
+
+***********
+* Stage 2 *
+***********
+Lake Neptune
+Time: 250
+
+Having safely travelled the Labyrinth of Caves and escaped the jaws at the Gate
+of MOORNAR, TOKI sets out across the shark-infested waters of Lake Neptune. But,
+beware the eyes of RAMBACHA!!
+
+The level starts with a Geeshergam operating a cannon. Take hit out early and
+desstroy the two Killer Harnases before getting the Megashot then climb up the
+vine on the right. Get rid of the Mini Flying Shardu pack and get the Flameshot
+and use it to kill the Flying Shardus and Killer Harnases in the way. Climb to
+the top. Go right and defeat the Shartoesi pack as well as a Bellzador and a
+Geeshergam. Dive into the water and get the Triple Shot if you like. Otherwise,
+use the Flameshot against all the underwater enemies you cross while you still
+got it. When you get to the bottom, get the Twin Shot to take out the enemies
+better. As you go right, swim to the top and kill the Thorpedo for the Helmet.
+When you get to Neptuna, be sure to swim past him from the top as he is going
+down or he will spear you with his trident. He tends to guard frontal attacks
+and send out Mini Grabhanas towards you if you take him head on. Once behind
+him, finish him off for a cheap victory if you want the points. Now swim right
+and jump out of the water. Kill the Killer Harnas and hop your way to the ledge
+on the right and get rid of a Wobalin before fighting Rambacha.
+
+Attack Rambacha from a diagonal standpoint until he releases three eyes. You
+can destroy the eyes from a distance then wait for Rambacha to reappear. Keep
+following this pattern until he is dead. The eyeballs bounce in random patterns.
+It takes 40 hits to win this battle.
+
+***********
+* Stage 3 *
+***********
+Caverns of Fire
+Time: 300
+
+Made bold by his recent conquests, TOKI enters the blazing heart of the Caverns
+of Fire in search of MIHO. Here, he will face a deadly test against MOGULVOR,
+the beastly guardian of this underground inferno. (I corrected those errors).
+
+Use the moving platforms to get over the lava and kill the Kalgatrobe. Get the
+Charge Shot and hop to safety on the right. Proceed throught the fire geysers
+carefully and kill the 2 Wobalins. Go up the slope and jump onto the platform
+to make it fall. Grab the helmet and jump into the Raktura to kill it instantly
+then get the key to make the next platform fall. Go down and proceed through the
+level as much as you can with helmet intact. You will see another helmet item.
+Use the Kalgatrobe for leverage to get it then run through the level some more.
+Be sure to stop when you get to the moving platform over the lava as the helmet
+won't protect you from that. Just kill the Webstamite from afar and proceed to
+the right safely and drop down. Kill the Flying Shardu pack and get the Twin
+Shot. Drop down and kill the next Raktura. Get the key to reveal a staircase of
+short platforms.
+
+Take out the Webstamite as you go down the slope. Carefully ride the platfom
+over the lava as you avoid or kill the Killer Harnases. You can, however, use
+them as leverage to reach the 1-up. Get rid of the enemies and thorns here and
+swing across the lava on the vine. You should get the Bigshot. Kill the pack of
+Shartoesies and Timagons. Stomp on the Geeshergam for leverage to reach the next
+swinging vine easier. Get the next Bigshot and swing on the next vine. Once you
+dispatch of the next set of enemies, the Thorpedo will give you a Charge Shot
+to cut down the thorn spike and Killer Harnas. Proceed to the right to face the
+boss, Mogulvar.
+
+Mogulvar is a little tougher to beat than the first two bosses as he hops all
+over the place and burps out letters that ironically spell BURP. You can shoot
+them to avoid being killed which I suggest since the angle of the letters are
+tricky. Mogulvar falls in 40 shots as well.
+
+***********
+* Stage 4 *
+***********
+Ice Palace
+Time: 300
+
+From fire into ice, TOKI's mission takes him into the forbidden reaches of the
+Ice Palace. After swimming the underwater passageway, he must emerge to fight
+the frozen monster, ZARZAMOTH.
+
+Stomp the Herbamo and before you start using the ice platforms, let the Thorpedo
+come to you and kill it for a Flameshot. Ignore the Big Shot as you hop through
+the falling ice platforms quickly. Kill the Herbamo and Geeshergams and start to
+work your way up. Get rid of the Mini Flying Shardu pack and head to the top.
+Get rid of the Herbamos and a Pengfin that will spawn a pair of shoes. Kill any
+enemy you see including the Blastums coming from the left. The next Pengfin will
+give you a Helmet. Use it to move through a big piece of the level safely. The
+Pengfin after that gives you a Big Shot. Get on the falling ice platform and to
+get the helmet, leap to the right as you are falling. The Herbamo won't give you
+any leverage to get it. It will give you a key to proceed.
+
+You will be in the water with Soushanus and Gabranhas. As you go right. Kill the
+Vipus to move onto the next section behind it. The next Vipus can be avoided but
+I saw kill it to get the Big Shot it leaves behind. Ignore the Cupper and swim
+out the water. Kill the Mini Flying Shardu pack and go right to face Zarzamoth.
+
+This ice covered Mammoth is no match for your Bigshot. Normally it takes 50 hits
+to beat it but with the Big Shot the 2nd Vipus left you, it goes down in no time
+flat as it will only have time to hop back and forth.
+
+***********
+* Stage 5 *
+***********
+Dark Jungle
+Time: 340
+
+The clashing of thunder leads TOKI to the dense canopy of the Dark Jungle.
+Fighting his way through the tangle vines, TOKI face a deadly contest against
+an old enemy, the pounching BASHTER, If he wins, MIHO won't be far.
+
+Move right and kill the Bungataras for bonus points. Kill the Creepavore next
+as it real tricky to kill as it lashes its tounge out and shoots 3 projectiles
+that are from its tail. Take out the thorn spikes next. You can use the Killer
+Harnas as leverage to reach the Twin Shot but get rid of the Wobalin first.
+When you cross the bridge, watch out for the Catecormos that spawn. They are
+tricky to avoid and kill for that matter. Next kill the Ivor and then wait for
+the seed to hit the floor on the other side of the spikes and kill the tree
+enemy called Katyerows. Avoid the seeds it tosses and kill it before jumping
+over the spikes. It's a little risky but you can use the Webstamite for leverage
+to reach the helmet but don't get yourself killed over it. The Creepavore will
+surely pose a bigger threat trying to get it. Hop more spikes and kill the
+Creepavore and the Bungataras as well as the thorn spikes. Move slowly as a
+Catercormos will pop out of nowhere and kill you if you are not careful. 
+
+Swing across the vine but wait for Shartoesi pack to pass by once before you
+jump off. Kill as many of them on their next pass then use the Kalgatrobe to
+reach the Flameshot. Be wary of the Wobalin nearby. Rid yourself of all enemies
+in your path and get the shoes. Let the weight spring you up and you may be
+thinking of using the Killer Harnas for leverage to reach the 1-up but the shoes
+will do the job for you. Get rid of the Garnidare and climb the vine but beware
+of the tricky Catecormos that'll ambush you as you climb up. If it does kill
+you then you will start at that checkpoint where it came from and you can climb
+up the vine as normal. Work your way to the top. There is an enemy not in the
+enemy list at the end of the game that looks like a rolling worm that scales
+the surface. Go past it when safe. At the top, go right and carefully make your
+way past three rising and falling platforms. Get the Bigshot and head right to
+face Miho's kidnapper, Bashtar.
+
+Get up close and let off as many shots as you can as Bashtar approaches. He will
+go down normally in 60 shots but faster with the Bigshot. Shoot at his feet to
+make him back up. As you shoot him, sometimes, he will use his hand to block all
+your shots at its heart momentarily. If you don't beat him fast enough, one of
+his hands will move towards you and its hard to avoid so it is important to beat
+Bashtar as fast as possible.
+
+***********
+* Stage 6 *
+***********
+Golden Palace
+Time: 300
+
+TOKI's final quest takes him to the place of MIHO's imprisonment, the Golden
+Palace. Skating across the bridges of the guarded domain, TOKI must battle his
+greatest foe, VOOKIMEDLO. Everything hangs in the balance.
+
+Shoot the Armorel Kemin and avoid the flame arcs it throws at you. Carefully
+get past the spike columns that rise and fall as they try to crush you from
+above. Flying Shardu and Herbamos will appear as you go. Kill the Geeshergam
+and wait at the dead end for the Bellzadors to fly above you so you can kill all
+of them from that stand point. Jump to the ledge when the flame burst recedes.
+Get past the spike column and walk off the ledge and duck. Shoot the Amorel
+Kemin easily from this position. Walk up the slope avoiding the flame bursts
+and kill the Galartor. Walk forward and duck. Kill the Amorel Kemins as they
+fall of the ledge. Ride the "rollercoasters" and grab the Twin Shot. Be sure
+to get the Helmet too because the moment the ride is over, you will sail into
+the Amorel Kemins and you are dead meat when you do without the helmet. Get
+ready for another rollercoaster ride. Get this helmet too and the Flameshot as
+this will end in death without the helmet as well. Go right to fight the final
+boss. 
+
+Use the Flameshot to destroy the robe as you avoid the rainbow teeth that the
+boss Vookimeldo will spit. When the robe is gone, the fight gets serious. Stay
+to the ride to avoid the bombs and be ready to avoid its long neck. Shoot at the
+heart until it dies. It is best to fight this battle from afar.
+
+
+YOUR QUEST IS OVER. The evil forces have been conquered. TOKI, the warrior,
+embraces his lover, MIHO, in joy. Your quest has ended for now. But, can you
+repeat your glory? Find out by inserting one coin to begin again.
+
+o---------------------o
+        CREDITS
+o---------------------o
+
+TAD Corporation for making this game.
+GameFAQs and other sites for hosting this FAQ.
+You for reading.
+
+o---------------------o
+    	CONTACT ME
+o---------------------o
+azulfria[at]hotmail[dot]com 
+[at] = @ and [dot] = .
+Don't want any email bots.
+
+Thank you for reading
+
+-Ice Queen Zero

@@ -1,0 +1,86 @@
+Rampart FAQ (edited from a USENET posting)
+
+>: Are there some ships that should be shot at first?  Can fire
+>: from the ships be drawn by decoys?  Any overall strategic
+>: maneuvers or suggestions that are not immediately obvious?
+
+From Oliver Wade <owade@ea.com>:
+
+A couple of thing that are really helpful to know are:
+
+1) The ships with the red deck (it's easier to see which ones are red in
+the 2-D mode while your re-building you castle) will fire red connon balls
+that leave a flaming hole in the ground. The hole takes 3 rounds to clear
+and you can't build over it so it's important to destroy these ships as
+soon as possible. I think it takes 4 or 5 hits to get rid of them.
+
+2) The ships with the double sails are the only ones that can launch
+landers (the little roming tanks). Be sure to take out any of these that
+are closing in on your shores as soon as you can.
+
+3) The last ships to take out are the little single sail jobs.
+
+4) A good strategy to use once you have let landers come ashore is to wall
+them in and cut them off as soon as you can and then re-build your castle.
+Take them out at the beginning of your next turn and then fire on the
+ships.
+
+5) Another good strategy point to remember is that you don't HAVE to place
+every
+cannon that you are given. If you can't find a good place for it, don't use
+it. The best places to place them is as close as possible to your castle
+and as far as possible from your walls. And by all means, don't place them
+next to a wall that's at the edge of a map. If a single section of this
+wall is blown away, it's almost impossible to repair.
+
+6) Practice turning and placing pieces as much as possible until you know
+which button is turn and which one is place without thinking. This makes
+building bigger castles alot easier. Also, single width walls are
+preferable to double or triple walls. They are easier to seal up when
+destroyed.
+
+7) Finally, it is a good idea to place decoys if you have time. Put walls
+where you don't need them and the ships will fire on them (hopefully the
+red ones).
+
+Carl Chavez (foregone@u.washington.edu):
+8) The dark ships only drop troops off on beach corners. Don't waste
+cannonballs on dark ships which are on straight edges of beach.
+
+8a) Build walls along the beach corners. Not only does this prevent the
+armies from landing, but sometimes the red ships will make burning
+squares (which armies can't land on either) when they shoot at the walls.
+
+9) On the lower levels, it may help to build a huge fortress, then shrink
+it as holes are made it. After your fortress is really small, you can
+make a big one again. (I don't know if the way I wrote that makes sense.)
+
+10) Shoot your own walls if you're afraid that the red ships will clog
+your wall building attempts. Your own walls won't be set on fire if you
+level them yourself.
+
+11) On the lower levels, it helps to surround one castle with four cannon
+so that the armies can't demolish it. Build three cannon around the other
+castles (to keep them compact 6x6 fortresses), and place "field
+artillery" in empty areas of the map. Field artillery keeps extra cannon
+available if necessary, and helps decoy shots from your fortresses.
+
+12) On the fourth level, the right isthmus is harder than the left isthmus,
+but it's a lot more fun, too.
+
+13) The easiest path to go on Veteran is (IMO) NE/SE, NW, SW/NE, left
+isthmus, island. If NW is the first level on Veteran, pick Beginner and
+do NW as the second level. If you follow this path, castles are a bit
+farther away from the beaches and the screen edge. For a challenge, do
+the NW corner as the 3rd Veteran level/4th Beginner level.
+
+----------------------------------------------------------------------------
+| Carl Chavez,                      Why is the audio tape "How to Get Your |
+| foregone@u.washington.edu          Point Across in 30 Seconds or Less?"  |
+| http://weber.u.washington.edu/~foregone/index.html   (Simon & Schuster,  |
+| co-writer, NBA Jam FAQs                    #60247-0) a *60-minute* tape? |
+| BOB is coming. Beware of BOB. "Open the garage bay doors, BOB." -D.Bowman|
+----------------------------------------------------------------------------
+
+
+

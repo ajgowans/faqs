@@ -1,0 +1,394 @@
+This hint sheet was written in house by one of our game
+counselors for the other game counselors.  Please excuse any
+obnoxious comments or poor attempts at levity.  These are things
+that naturally occur aafter spending eight hours a day telling
+people th e same thing over and over.  The numbers in the hints
+refer to locations as described in the Eye of the Beholder Vol. 1
+Hint Booklet from SSI, which can still be found in some software
+stores, or ordered directly from Capcom by sending a check rder
+for $9.95 US funds to Capcom Customer Service, 475 Oakmead
+Parkway, Sunnyvale, CA 94086, along with a note including your
+return address and which game book you want.
+
+FAQ's For Eye Of the Beholder
+
+1. "I'm on the Second Level, and I don't know what to do?" 	
+	Don't panic.  What you have to do is go through all three
+doors with the silver locks in this area.  If you don't have a
+key, your thief can pick these locks (these are pretty much t ve
+to explore each of the three areas beyond the doors, looking for
+the set of rations in each area.  Once all three sets of rations
+have been picked up, the player needs to go through the nor ss,"
+and turn and look west.  If they actually have all three sets, a
+hallway should have magically appeared there, allowing access out
+to the rest of level 2.  The rations are actually triggers eady
+fed the rations to his characters, he just needs to have picked
+them up.
+
+2.  "I'm stuck in a room on Level 2, and I'm going around in
+circles."
+
+	This is probably the room that has the messages, "Not all
+is as it may appear," and, "Orcish runes of passage."  What
+happens is, as the player walks into this area past the locked
+door facing south, two steps into the hallway, a magical trap
+(24 2) spins the player around 90 degrees.  Have the player watch
+their compass when this happens, and simply tell them to turn
+around to face the correct direction they need to travel in.  The
+next problem is the room facing east.  Ask the player if the re
+i n a room that is shaped like a figure-eight laying on its side.
+ Tell them the reason the room looks like an eight is because
+there are two sets of walls that are seemingly blocking the
+middle of the room.  The reason the player is walking in circles
+i because of the teleport traps that are along the outer
+perimeter of the room (30-33, L2).  Tell the player that they
+need to walk through the walls marked with the Orc rune of
+passage that are in the middle of the room.  Two sections of the
+walls are i usio nary.  On the Western wall, the southern, or
+lower, step of the wall is false, and on the Eastern wall, the
+northern, or upper, step is false.  They need to walk east into
+this room, go through the two false walls, walk east down the
+hal false wall to the east at the end, then through the false
+wall to the north to find the area with the rations (36, L2). 
+Tell them they then need to turn around and head out the same way
+they came in, through the false walls.  People will tell you th
+they walk forward and keep ending up looking at a sewer pipe. 
+Remind them that they need to walk through the walls in the
+middle of the room, and not to go along the outside, because they
+will get caught in a teleport loop.  If they keep arguing with
+yo nsist in a louder voice that you are correct, and if they are
+so smart, why are they calling a game counselor in the first
+place, huh?
+
+3.  "I'm stuck on Level 2; I can't get across the pits and I keep
+falling down to the smaller room on Level 3."
+
+	Tell the player that they need to turn off the first pit
+(15, L2) by pressing the handle in the alcove (14, L2).  The next
+pit (E, L2) can be turned off by looking north across the pit and
+tossing a rock or dagger, and it will fly across and land ressure
+plate, turning off that pit.  The same thing will work for all
+the other pits in that room.  The player needs to pick up the
+rations in the corner (17, L2), and go to the other rooms.
+
+4.  "I'm on Level 2, in front of a message that says, 'What on
+odd place for a carving,' and I can't get that door open.  What's
+that carving for?"
+
+	The way to get the door open is to throw a rock or dagger
+through the gate.  It'll go through and land on a pressure plate
+on the other side, opening that door.
+
+5.  "How do I open the door on Level 2 where it says, 'Only the
+strong shall pass?'"
+
+	You need to point the symbol on the bottom of the door
+and keep clicking the button until the door raises up.  It will
+take a bunch of tries, so don't give up too soon.
+
+6.  "How do I open the door on Level 1 to get down to Level 2?"
+
+	Put a dagger on the pressure plate on the floor, then hit
+the button (19, L1) to the right, and the door will open up.
+
+7.  "I'm on Level 2, and there's a door that won't open with any
+of my keys.  How do I open it?"
+
+	That door will only open with the Gold Key.  Tell the
+player to go back through the shimmering field (the R.A.T.S.) to
+the south (68, L2).  The teleporter will dump them out in the
+southwest.  They need to go north from that first RATS (40, L2)
+t oom that says "Entry Level" (41, L2).  That room is actually an
+elevator that will take the player to two sub-levels of Level 2,
+the "Correction Level" and the "Fear Level."  Walk into the room,
+close the door behind you, hit the secret button on the w l tw
+ice, and you will go down.  On the "Fear," search around to find
+the key, then go back to the RATS and open the door.
+
+8.  "Where do I find the dwarven king?" or "What do I do once
+I've found the dwarven prince?" or "How do I find the Wand of
+Silvias"
+
+	Kiergar can be found on Level 10 (15, L10) west of
+Shindia (48, L10).  Once he is found, the player needs to hike
+himself back up to the dwarves on Level 5 (27, L5).  Once Kiergar
+is found, tell the player to go down to Level 11, and look for
+the of Dwarven Healing (39, L11), and bring it back to the
+dwarves.  Once you do that, they will give you the Wand of
+Silvias, which you need to fight the Beholder down on Level 12.
+
+9.  "I have this wand that says, 'No apparent magical effect,'
+when I use it.  What is it?"
+
+	Tell the player that they will have to use the Oracle of
+Knowledge to see if that wand is the Wand of Silvias, which is
+necessary to defeat the Beholder.
+
+10.  "What is the Wand of Silvias?" or "How do I use it?"
+
+	The Wand is really only useful for fighting the Beholder.
+ When you use it, it will push the Beholder back about four
+spaces.  The player needs to push the Beholder back down the
+hallway, into the room, then maneuver so that he is able to push
+th der into the spike trap in the corner (49, L12) which will
+kill the Beholder instantly.
+
+11.  "Where is the Stone Jewel?  I've found the portal it uses,
+but I can't find it."
+
+	There is no Stone Jewel in the game.  That portal leads
+nowhere.  It is only there to mess with your head.
+
+12.  "I have these stone items.  How do I use them?"
+
+	Those are portal keys.  They activate the various portals
+in the game.  Tell the player to look at the portal, and notice
+that one of the spaces is blank.  If the player has the stone
+item that would fit into the one blank space, they need to tak t
+of their inventory, hold it over the blank space, and hit the
+button.  If this is the right item, it will activate the portal.
+
+13.  "I used the portal key (stone medallion) that the dwarves
+gave me.  Now I'm in a room that's locked, and I can't get out of
+it.  What do I do?"
+
+	Tell the player that it is too early to start using the
+portal keys to pop around.  The portals will only be useful much
+later in the game.  Tell the player to teleport back up to the
+dwarf level (Level 5), and start looking for the stairs down t 6.
+ The doors on 7 will only open with the jeweled key and the ruby
+key, which will be found when the player comes down to 7 from 6,
+and explores for awhile.
+
+14.  "How do I get down to Level 6 (or the dwarven level) from
+Level 5?"
+
+	The player needs to go southeast from the dwarves to find
+a lever (40, L5) that will open a door to the south.  Walk down 
+the hallway to come into a room that, as you walk forward, pits
+open in the floor behind you.  Walk south until you come to cond
+hallway that runs east.  Go east down that hallway until you come
+to a door.  Open the door, step inside, pick up the set of armor
+(48, L5), then walk through the false wall to the east (49 ore
+that area until you come across a room full of teleport fields
+(73-83, L5).  You need to go through the fields in the correct
+sequence and throw three levers to open three doors.  Go through
+
+
+15.  "What do I do with these 8 levers on Level 11?"
+
+	The two levers one in from each end need to be down; all
+the others need to be up (39, L11).  So the sequence should be
+u,d,u,u,u,u,d,u.  This will give you a magical wand when the
+potion is taken from the alcove. 16.  "What do I do to these
+levers next to the message marked 'Thirteen' on Level 10?"
+
+	We don't have the solution to this puzzle in our hint
+books for some reason (5, L10).  Mess around with it for awhile
+to see if it will do something.
+
+17.  "What's the solution to 'Combination Lock - Be Quick.'"
+
+	There is no solution to this.  It is simply a trap to
+frustrate you and smack you with magic missiles.
+
+18.  "What is the Oracle of Knowledge on Level 4?" or "How do I
+identify my magic items so I know what they are?" or "What is the
+Oracle of Devouring on Level 9?"
+
+	When you find the Orb of Power down on Level 11, return
+to the Oracle on Level 4 (64, L4).  The Oracle will identify all
+magic items carried by the party.  The Oracle of Devouring (18,
+L9) does the same thing, but eats your Orb of Power, so you l 
+Don't use the Devouring one.
+
+19.  "How do I work the 'Round and Round' room on Level 6?" or
+"How do I get to Level 7 from Level 6?" or "I've run out of keys
+for the 'Round and Round', where are more?"
+
+	Round and Round (25, L6) is a set of three revolving
+locks on Level 6.  When all three are opened, the player will
+find the stairs down to Level 7.  Players usually can't find
+enough keys to get all three open.  Tell them to first go north
+from t a to find two pits (23A and 22A, L6), and fall into them. 
+There is a key at the bottom of each.  The third key is usually
+the hardest to find.  Tell them to go south to the message,
+"Silverware rack - Be neat," and to put either darts or daggers
+ose alcoves (33, L6).  Two racks in, there is another key.
+
+20.  "What are the Special Quests?"
+
+	See the separate page for Special Quests.  Don't kill
+yourself explaining each one, just give them three or four, and
+tell the player to figure the rest out themselves.
+
+21.  "I used the Stone Orb on Level 11, and now I'm in this
+little room.  Am I close to the end of the game? What do I do?"
+
+	Yes, the player is on Level 12 (1, L12), and so very
+close to the end of the game.  Tell them to take their Orb of
+Power, or the Stone Orb, and throw it through the middle of the
+western wall (3, L12).  It will go through the wall, land on a
+pres ate on the other side, and open the door, allowing access to
+the rest of Level 12.  You will be able to pick up your orb on
+the other side.
+
+22.  "How do I get from Level 10 to Level 11?"
+
+	Tell the player to go basically northwest from the "Nest"
+room.  They need to look for a hallway that runs east-west, and
+walk down it to find a lever in an alcove to the south (37, L10).
+ Pull the lever twice to move a block to the north.  Walk e, pull
+the eastern lever twice to open the next entrance to the north. 
+In that room will be a pit, a message that says, "Jump," and a
+Ring of Feather Fall.  That's the entrance to 11.
+
+23.  "I'm down on the green floor (Level 11), where the messages
+say things like, 'Alignment must be true,' and, 'Your fate lies
+in the stars.' What's going on?"
+
+	The player is on Level 11, with the Celestial Stars of
+Navigation.  They are in the middle of three concentric squares. 
+The player needs to push the star buttons.  Every time the button
+is pushed, it rotates 90 degrees.  When all three buttons a d up
+in the same direction, the door in the opposite direction will
+open up.  So if the buttons face north, the south door will open,
+etc.  The player needs to explore through each of four areas ail
+
+(59, L11), the Orb of Power (56, L11), and two drow keys (48 and
+57, L11).
+
+24 "How do I activate the (grail) portal in the middle of the
+Stars on Level 11?  Where does it go?"
+
+	The Stone Grail can be found be going into the room where
+there is a message reading "Chwat" on the wall (51, L11).  Go to
+the eastern pillar, look on the western face, and you will find a
+secret button that will open a passage to the south.  Thi ge will
+lead to a series of rooms that contain a drow key and the Stone
+Grail .
+
+25.  "How do I get down to Level 12 from Level 11?"
+
+	The player needs the two drow keys and the Stone Orb. 
+They need to go through the Southern door, and explore to the end
+of that area, until they find a three-by-five room.  Search for a
+secret button on the west wall.  That will open a western p that
+leads into a seven-by-seven square room with a locked door in the
+middle.  Unlock the door and use the Stone Orb to teleport down. 
+Give them the info from Answer 21 next, they'll need it.
+
+26.  "Where is the Stone Orb and the Orb of Knowledge?"
+
+	Go through the northern door on Level 11.  The Stone Orb
+is in a secret room next to the message "Room of the Key." (46,
+L11)  There is a secret button on the west wall.   The Orb of
+Power is through the eastern door, past the room with "Chwat." 
+wall of one room (55, L11) is a secret button that will open a
+passage south.  The Orb is here (56, L11).
+
+27.  "Where is the Throne room with the secret exit that the
+dwarves tell me about?"
+
+	They are talking about Level 12, after you defeat the
+Beholder, and finish the game.
+
+28.  "What is the message at the end of the Hall of Thieves on
+Level 9? Why does it say, 'You forgot something?'"
+
+	The Hall of Thieves (29, L9) is stealing stuff from the
+characters.  When you reach the message and it says, "You forgot
+something," step on the pressure plate to deactivate the hall,
+then walk back and get your items out of the alcoves along the y.
+ The message should then read, "Thank You."
+
+29.  "I'm standing next to a bunch of messages on Level 9 that
+tell me to donate food, armor, weapon, and missile.  What do I
+do?"
+
+	Put down one piece of armor, one weapon, one ration, and
+either a rock, dart, or an arrow on the missile pad.  The door
+should open.  The player will be able to grab his weapons after
+the door opens
+
+30.  "What does, 'Only the cunning and agile shall survive,' on
+Level 9 mean?"
+
+	The characters need to run down the hallway (54, L9)
+without pausing or they will get smacked with a fireball.
+
+31.  "What do I do on Level 6 where it says, 'Store weapons
+before proceeding'?"
+
+	Drop two weapons on both pressure pads to open the doors.
+ You will be able to take these weapons back after the door is
+opened.
+
+32.  "What do I do with those levers that say 'In case of
+fire...' and 'In case of flood...'?"
+
+	Those are just traps.  Don't pull those, they'll hurt
+you.
+
+33.  "I can't open this locked door.  I'm out of keys.  What do I
+do?"
+
+	There are enough keys in the game for all the locks. 
+Take time to explore each level entirely.  If you have used the
+keys on your level, go back up one flight and look around there.
+
+35.  "How do I get my characters to use their weapons."
+
+	This person is an idiot.  Explain that the manual for
+this game is about fifty pages long, and they need to sit down
+and read it very carefully as there is so much information in it.
+ If they persist in being an idiot, tell them to pull down the
+that shows the character's body, take a sword or weapon out of
+their inventory, and place it in the hand box.  Once they have
+done this with each character,  they need to go back to the
+scree in the box with the weapon and the button is pushed, the
+character will use his weapon.
+
+36.  "The manual refers to some tables on pages that don't exist.
+ What's going on?"
+
+	Due to size constraints, we had to removes two pages,
+because Nintendo has a cap on the number of pages you can have in
+a manual.  These tables are unimportant.  If the person is
+extremely anal-retentive, tell them if they are really interested
+i ables, they can buy Dungeons and Dragons Player's Manual, and
+all the experience tables will be there.
+
+37.  "I'm on Level 7, where there are three doors marked
+'Weapon,' 'Armor,' and 'Magic.'  Can I go in all the rooms?"  
+
+	No, you can only go into one of the three rooms (73, 76,
+79, L9), just like a game show (will you take what's behind door
+#1, door #2, or door #3?).  The items are +3 short sword, +3
+Eleven Bracers of Defense, and a Ring of Wizardry.
+
+38.  "What does the unrecognized symbol on the first floor
+mean?"
+
+	It doesn't mean anything.  Ignore it.
+
+39.  "What do I do with the Blue and Red Gems on Level 3?"
+
+	The player needs to but the blue gems in the eyes of the
+creatures carved in the walls (54, 56, 62, 63, L3).  Once all
+four gems are in the eyes, doors will open in two of the gem
+alcoves (56, 63, L3), allowing the players to reach the stairs
+goi to Level 4.  The red gems are used for the jewel box cases
+(23, 32, L3) to open those doors.  If the player has put the blue
+gem into the jewel case, they need to start over the game from
+the begining, as there aren't any extra gems.
+
+40.  "What do I do with those Kenku eggs?"
+
+	You can eat them for food, save them for the special
+quests, or give them to the pair of drow guards on Level 7.
+
+41.  "Where are all the portal keys?"
+
+	Check the manual on page 69.
+

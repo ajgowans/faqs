@@ -1,0 +1,442 @@
+
+
+
+Shadow of the Beast (Atari Lynx) FAQ/walkthrough by Darrin (ForcexDistance)
+
+--------------------------------------------------------------------------
+
+
+
+Obligatory standard boiler-plate disclaimer: This walkthrough may not be 
+reproduced under any circumstances except for personal, private use. It may 
+not be placed on any web site or otherwise distributed publicly without 
+advance written permission. Use of this guide on any other web site or as a 
+part of any public display is strictly prohibited, and a violation of 
+copyright.
+
+-----------------------------------------------------------------------------
+
+I think this is one of the very best lynx games, but it takes some time before 
+the game grows on you. Like many Lynx games (such as Turbo Sub, Gordo 106, or 
+Dirty Larry) it has a non-linear difficulty curve. When you first play it 
+the game seems too hard and frustrating, especially with only a handful of 
+lives. However, with practice the game can be memorized and beaten. The game 
+is impressive with its liberal use of parallax scrolling, myriad of catchy 
+tunes, scaling effects, dark atmosphere,frightening bosses, multitude of 
+different enemies, and killer gameplay. Even the cover art is killer!
+
+-------------------------------------------------------------------------------
+
+
+Controls:
+
+Joypad- Moves character left/right, up ladders, or to duck. The game has nice 
+animation, so don't get distracted by the slight delay required to completely
+turn around!
+
+B- Punches/shoots
+
+A- Jump (the landing of the jump can be slightly altered mid-air)
+
+(A + B)- Jump kick
+
+Start- Pause 
+
+Option 1- Inventory screen
+
+--------------------------------------------------------------------
+
+
+
+Items:
+
+Gun- Standard issue gun with 25 shots. Use fists when possible to save ammo 
+for tougher adversaries.
+
+Bullets- Refills the gun with more ammo. Save enough ammo to defeat the three
+headed dragon near the end of the game.
+
+Fist- Necessary item to make your punches dole out damage to the red dragon
+boss. This is the only way to 'tame this dragon'!  
+
+Gear- Allows the machine to operate the elevator needed to reach higher areas
+in the game. 
+
+Energy wave- Necessary for defeating the green dragon boss in the tree zone.
+
+Torch- Necessary for visibility in the castle zone near the end of the game.
+
+Silver key- Used to exit the castle.
+
+Gold key- Used to enter the well from the bottom.
+
+
+-------------------------------------------------------------------------------
+
+Walthrough:
+
+
+Forest (main outside hub):
+
+
+The game starts in the middle of a forest, which serves the function of being
+the main hub (much like Simon's Quest for NES). And also like Simon's Quest,
+it is not clear whether you should start your quest by going left or right
+first.You want to go left first but not until you dispatch the cannon operator
+just to the right of the game's starting point. Wait until the sharp-dressed
+monster lights the fuse and punch the cannon to make it turn around. The
+enemy will leave a gun behind which will make your journey towards the left
+easier. Move left until you see a black bat in the trees and move to the 
+right immediately and you can outrun the bat as he flies toward you. Now, go 
+left as soon as it is safe to do so until you see another bat and
+rinse/repeat until you see the ground traps (marked by white dots on the path).
+This section is actually fairly challenging, and it is okay if you take a hit
+or two during it. Jump over each trap as you try to land in the spaces between
+the groups of white dots. Enter the tree, and enjoy the cool 3D scaling. 
+You can almost taste the bark! Feel free to shout 'TIMBER' in the process 
+like a lumber-jack, but that is purely optional.
+
+
+Tree Zone part 1: 
+
+Inside the tree, you will notice a small ornament at the  bottom of the 
+stair-well. It is not purely for decoration. Admire it from a distance!
+As you walk to the right it will spit a solitary shot at you. With 
+the right timing, you can jump over the bullet. If you do get hit and feel 
+embarrased, it shouldn't be too much of a problem (just tell your friends you
+'fell down the stairs'). Go down the rickety ladder and head left. Go down 
+the ladder. Many of the enemies in the game have their own pattern and often 
+don't acknowledge your presence as a form of prey. So accept your role of 
+predator and learn their patterns. You will see a yellow gargoyle fly around. 
+Don't get too close. Walk slowly until it is in punching distance and 
+dispatch it. You will see a moving platform (the game is a platformer, after 
+all). Carefully time your jump and adjust your landing so you land safely on 
+the platform. Rinse and repeat for the next few platforms. Remember, if you 
+fall too far you get hurt. You will see a blue enemy at the bottom, so get 
+close enough to punch and it should be dispatched. Hopefully you have at 
+least half of your power-bar remaining by this point. Go left and carefully 
+jump on the visible platform but watch out for the flying gargoyle. Carefully 
+punch the gargoyle while you are riding the platform. Jump to the ledge. 
+Carefully jump on the next platform you see moving to your left. As always, 
+it might behoove you to pay attention to how each platform moves so you can 
+time your jumps better. Jump off the platform to the solid ground near the 
+bottom-right. 
+
+The next part takes some timing, skill, and practice. Remember, this is only 
+a walk-through but nobody is going to hold your hand or carry you through 
+the whole game. Anyway, walk to the right and when each of the green 
+swordmen are in punching distance dispatch them. Don't punch too soon 
+or too late. Work the timing into your muscle memory. You also have to watch 
+the spikes that come down from the ceiling and time it all accordingly. Go 
+up the ladder and stop. Do not go up the next ladder you see. Not all ladders 
+lead to success! It will only bring you to the boss which you are not ready 
+to fight yet. Don't be a hero! Instead, go right and down the ladder near 
+the brown pillar. You will see another series of platforms. Analyze their 
+movements and carefully descend as before. Again, watch for the blue enemy 
+and dispatch it as soon as possible (and as always, if you are low on 
+health the gun may be more practical than fists). If you got this far, 
+it is time to celebrate with a nice energy drink found on the right. Watch 
+your energy fill up. Wow, it is too bad this stuff doesn't come by the case 
+like Red Bull. Now don't waste your health reserves any more than you have 
+to. Go left and you will see stalactites. Move nice and slow until each one 
+starts to shimmy/shake and quickly turn around and backtrack out of its 
+way. Carefully dispatch the green swordsmen as before as you try to avoid 
+the rest of the stalactites. You will reach an impasse. 
+
+Do not make a blind jump to the left. Instead, go down the ladder. You 
+will see Tarzan-inspired swinging vines. Carefully jump on them while 
+making sure to avoid the falling red goo. Dispatch the golden gargoyle. 
+Carefully, and I mean carefully, proceed to the right while timing your 
+jumps and controlling your landing as you ride more platforms, vines, or 
+avoid the dangerous slime falling from the ceiling. Be patient. Watch how 
+the platforms move. And don't worry about staying on a vine a few rotations 
+until it is safe to jump (you can hang on the vine as long as you want 
+without falling off). Jump to the safe ground. Descend the ladder and 
+dispatch the yellow gargoyles. If you hadn't noticed by now, timing is 
+critical in this game! You are now faced with 3 routes. Aren't dilemmas 
+and times of indecision wonderful feelings? 
+
+Do not touch the red/spiky device on the right (it is a shortcut to the 
+first boss). Similarly, don't go down the ladder yet either. Instead, head 
+left and ride the platform to jump to the left. Carefully walk until you 
+start to see a large statue holding a blue gemstone. He is not a politican, 
+but he can sure blow hot air. Instead of worrying what political party he 
+(or she) represents, wait for his fire to cease and walk close to it 
+and duck. When the fire dies down and his gemstone returns to his hand, punch 
+the crystal about two times and duck again. Rinse and repeat until you obtain 
+the crystal. Now, before reminiscing about the blue crystal from Simon's 
+Quest, backtrack safely till you are in the proximity of that red/spiky device 
+(dispatch enemies as appropriate). Descend the next 2 ladders, and don't go 
+down the third (yet). Go left, ride platforms, and dispatch the swordsmen 
+whilst avoiding the red slime. Dispatch the blue monster and carefully collect 
+the yellow key. Backtrack to the right and go down the ladder. Run left and 
+outrun the green snakes that chase you (unless you want to fight them instead). 
+Either way, work your way left until you see another bottle of that blue 
+high-caffeine energy drink left by the game designers as a gift to ease your 
+anxiety! Now, backtrack and go up the ladders till you see the spiky device. 
+Enter it and you will take a shortcut back to an earlier part of the game as 
+the screen changes with warping effects. If you don't remember, the ladder 
+going up leads to the boss. Now that you have the blast wave, you are ready 
+to fight the green nasty dude. Equip the item and go up the ladder and head 
+right. A gold statue will trap you inside the boss area (always a nice and 
+tender moment). The good news is that nobody can call you a coward when 
+running away is no longer an option! 
+
+Like the other bosses in the game, he is pattern based, so listen carefully. 
+Walk towards the boss until you are almost close enough to touch it's head 
+(when the boss has moved to the left). Don't try 70's therapy ideas on him 
+by telling him that "you're okay and I'm okay". I tried. Instead, duck 
+the spray of shots. If you are hit by them, you may not be far enough to 
+the right. When it has moved down/right, blast him with 2 or 3 energy 
+waves as if you were Ryu from Street Fighter 2 with a 'III' triple-shot 
+item from Castlevania! You know you are hitting it when he flashes with 
+each hit (kinda like how boxers flash when hit in real-life)! Remember to 
+jump his low shot that he spits from the right side. Rinse and repeat. 
+After the boss is defeated, go right until the level ends. It is okay if 
+you have little to no blast waves or regular bullets left at this point. 
+If you do have some blast waves left, save them for when you might need 
+them. Around these parts, Murphy's Law is the law of the land!
+
+
+
+
+Tree zone (part two): 
+
+Go right and jump the spikes on the right side of the broken machine. Go 
+down the ladder. Slowly go left and watch the pattern of the cobras. When 
+safe, run up to each one and punch it timing it so you don't get hit by their 
+shots. Duck the red birds that come from the right, as this can throw off 
+your timing! Get the gear and backtrack to the broken machine. Use your 
+mechanic's degree and place the gear. Hit the lever and wait for the platform 
+to descend. Get on the platform and hit the lever and ride upwards. Go right 
+and get the torch first and then head left and hit the switch to the off 
+position (You might get teased for carrying a torch in a well-lit area now,
+but you will have the last laugh later on when you need the torch in the dark
+dungeon). Backtrack to the ladder and go up. If you need health, go right to
+the blue potion (whilst carefully dispatching the red fat birds). If you have
+full health and still want to get the potion this may be indicative of a 
+drinking problem. Go left and use the muscle memory you honed from playing
+Battletoads on the NES and carefully walk under and between the eyeballs. 
+Walk slow until you start to see a layer of fire breathed by a chained-up 
+green dragon. If this is frightening, just be thankful they have leash laws in
+this fine community of 'model citizens' or rather 'model denizens'! 
+Now, immediately when the fire dissipates, run left and walk past him 
+(he won't hurt you when you touch him, but I still wouldn't try petting it). 
+It might help to jump at the last moment just to make sure you clear his 
+next fire breath. Get the silver key. Carefully backtrack and get the blue 
+potion if you didn't get it the first time. Backtrack to the platform
+next to the lever and ride it back down. Backtrack to where the gear was and
+dispatch the enemies in the process. Go down. Yay, another fork in the road!
+
+
+Go right first and hit the lever. Now go left. There should be a silver beam
+to allow safe passage left until you can hit another lever. Go right and go 
+down the ladder when approprate. Go left first, and carefully jump on the 
+moving beams as you work your way left. Touch the blue fist icon (which 
+hopefully by now should not be enrobed with an energy seal). Backtrack to the
+right and dispatch enemies till you can descend the ladder. Go left and 
+carefully avoid the balls dropped by the robotic-bee (well what would YOU call 
+it?). Time your movement so that the balls avoid you and time your jumps 
+accordingly if you choose to jump over some of them. Go down the 
+ladder and avoid the spikes as you time your jumps over them (it is a far jump 
+to make without falling in the spikes). Go right and duck the red fireballs 
+as appropriate that come from the wall. Go down the ladder. I like to use 
+any remaining energy waves left from the first boss fight against the ceiling 
+enemies. Similarly, I like to use regular bullets against the ghosts as I 
+proceed left to the ladder. Go down. Walk very carefully past the blue fire 
+blasts (anticipating when they fire) and jump spikes where appropriate. 
+Proceed right until you start to see the red dragon's nose. It is boss 
+time. 
+
+Now, watch his pattern from a safe distance. Equip the golden fist powerup, 
+but don't get too excited. It has more in common with a pair of cheap brass 
+knuckles than a grenade launcher. At the right time, jump the spike and hit 
+him about 2-3 times with your fists. Now, jump back over the spike before the 
+boss breathes his fire. It is a fairly simple pattern, but you gotta time 
+it right. Rinse and repeat until the boss goes down. Go to the locked door 
+and use the yellow key to get through. Ascend the well and you will be back 
+near the starting point of the game. For fun, you might want to go back in
+the well so you can see that cool scaling effect again. You can almost taste
+the well-water! 
+
+
+
+Main outside hub (part 2): 
+
+Now it is finally time to take the right path from the starting point 
+of the game.Walk right until a group of purple winged birds come at you. 
+As per usual, time your punches just right so you can dispatch them 
+with no harm. Walk right and punch the insane blue bear-like creatures 
+that come at you. Trust me, you don't want to mess with monsters that 
+fail their anger-management coursework three times. Break the pillars 
+to find health and a silver ball, probably just left by a member of 
+a werewolf bowling league. Carefully push the silver ball to the right 
+while being careful to avoid the spikes that come from the ground. 
+Carefully and slowly push the ball into the hole in the ground to stop 
+the enemies from flying out. Walk carefully to avoid the spikes and 
+proceed to the right. Time your punches to quickly dispatch the 
+flying eyeballs that come at you (i.e. keep your eyes open for eyes). 
+Keep walking past the enemies facing away from you in the trees until 
+each one falls. Quickly turn around and dispatch each one in turn. 
+You will see the same enemies in the trees but now facing you (it 
+might behoove these gentlemen to invest in some camoflauge clothing). 
+Walk slowly until they drop and time your punches to take them out 
+as before. Go right and you will note a rather ominous gargoyle statue. 
+Punch it several times. Unlike a happy-meal or a box of Cracker-Jacks, 
+there is no pleasant surprise inside! When the monster breaks loose, 
+punch him three times. 
+
+The next bit is a bit tricky. To defeat the spiders, punch them once to drop 
+them and then jump over them. Be weary of the spikes which come at the same 
+time. It is time to overcome your arachnophobia and that pesky fear of "large 
+spikes protruding from the ground". I forgot the official name for that one!
+Thankfully, there is some health ahead in the stone pillars. You will soon 
+see a myriad of scaling eyes ahead. Analyze their placement and judge your 
+distances accordingly as you carefully look for safe spots to go to. You may 
+have to walk and follow a line of them as they disappear to allow safe passage 
+(the little guys seem to be doing a "wave" as in a sporting event). Keep 
+walking and duck the greenish gargoyle that flies past you. Carefully punch 
+the green gargoyle that looms quickly ahead. Walk to the right until you 
+can see a large red dragon drop a bomb. It is important to remember that 
+the dragon always drops the bomb in the SAME SPOT. Walk near where the bomb 
+lands and duck/punch it. It will fly to the right and hit enemies. Do it 
+again to finish off the red dragon. Be careful not to touch the blast radius 
+if the bomb goes off. 
+
+Keep walking and you will notice a worn-down sign. You will also see a series 
+of spikes that descend whilst moving right-ward. Follow closely behind them so 
+that you are safe as you walk. Carefully punch the red enemies that come at 
+you as you retain your position behind the moving spikes. After this you will 
+soon see a green alien track-star coming at you who is convinced he is running 
+a monster marathon towards you (he is the only enemy of his kind in the entire 
+game btw). Punch him as per usual. Go towards the right to the castle. Dodge 
+the falling boulders and be weary of the arrows also. It might be
+comforting to remind yourself that sticks and stones can break your bones, 
+but at least words can never hurt you!! If you don't know what doors are for,
+the game will politely show an arrow so you know where to go. Go through the 
+door and once again enjoy the cool scaling of the castle door. You can 
+almost taste the stone!
+
+
+
+Castle: 
+
+
+Go left slowly until the green hoppers jump at you. Carefully punch them
+from a distance one at a time until you can hit the switch to the 'off' 
+position. Backtrack to the ladder and ascend, but stop before your head clears 
+the ladder.Wait until after the white barrel comes and goes, and quickly ascend
+the ladder the rest of the way and move left until you can safely punch the 
+brown barrel. Rinse and repeat, but watch so that the barrels don't touch you 
+as they move below you.This section is hard, and requires some practice. Don't 
+forget to hit the switch on the left wall to the "off" position near the end 
+of the section. You will thank me later! Ascend the ladder and proceed, 
+being careful to defeat the same green hoppers as before. There is some 
+health in the first few chests, but remember to punch the last chest as 
+there is a marksman in it! Go right until you see a series of axes come 
+at you and punch them one at a time. Go right and watch out for the 
+winged goblins that come at you. If it looks like a duck and walks like a duck
+it might be a 'quack' pretending to be a duck! Anyway, touch the wrench! 
+Backtrack until you can go down the first ladder you see. Watch out for hot 
+wax dripping from the candles as you proceed right. Also watch for the 
+sly-guyz who shoot at you from under the floorboards and jump the projectiles 
+safely. Keep walking and watch the ceiling. Position yourself so that you 
+are between the two gaps in the ceiling and right below the small area 
+in between. Keep walking slowly and carefully punch the large mouths 
+that come at you.Carefully jump the wide chasm to hit the small switch 
+a few times to lower the candle-holder. Jump on it as it goes down to 
+safely bring yourself to the ground.Walk carefully under the large brown 
+spider. Walk and stand right in the middle of the two castle pillars to 
+avoid the barrage of axes like before. Proceed left and remember to punch 
+the brown spiders until they start to go up and down so you can pass under 
+them safely. Go down the ladders and proceed right. DO NOT go back outside 
+when you see the "OUT" arrow! I don't know for sure, but I can only 
+assume you have to do the whole castle again!! Excercise great caution. 
+
+You will now see a series of red blobs. Analyze their pattern and be 
+patient. With timing and skill, you can punch them one at a time whilst 
+maintaining a safe distance from each of them. Go down the ladder and go left. 
+Time your punches of the green vultures that fly quickly at you. Again, there 
+are a great variety of enemies in this game! Keep walking and the steel doors 
+should be open and allow you passage. Go down the ladder and ignore the green 
+large-mouths to the left. Go right to find some lovely health in the chest! Go 
+left until you can't and go up the ladder. Watch out for the barrels overhead 
+and when it is safe hide in the little cubby so that the barrels bounce over 
+you. It may help to even duck for this. Go down the ladder and touch the extra 
+ammo icon. These are necessary to beat the three-headed dragon. Go down the 
+ladder and you will note an arrow machine with a switch behind. Walk right 
+until enemies start to come and then go back to the switch and hit it! The 
+arrows should nail the group of enemies. Go right as you jump the barrage of 
+axes and avoid the enemy's projectile from the floor-boards. Go past the 
+spider as before and use the wrench on the white control system to the left of 
+the energy laser. Ascend the ladder and go left to hit the switch to the 'off' 
+position. Equip the gun (with ammo if necessary). Go right and down the right 
+ladder. You guessed it. It is boss time. 
+
+They say two heads are better than one. They also say 'three is a crowd'. 
+Either way, the dragon has three heads and will use them. Watch his pattern 
+carefully as you make sure to jump the one bullet that comes low. He will 
+shoot 3 shots 'top-middle-bottom' in rapid succession and then pause,leaving 
+you enough time to approach and fire 1-2 bullets into his red weak spot on 
+the right side of his person........er, I mean, dragon. Rinse and repeat 
+until defeated. Have a nice dragon steak if you haven't eaten in a long 
+time. Use the blue key to exit the castle. Note that if you hadn't found 
+the torch earlier, the entire castle would have been dark. 
+
+
+
+Main outside hub (part 3): 
+
+
+The red sky is your cue that the adventure is nearing an end. Legolas 
+from Lord of the Rings might even acknowledge that "It's a red 
+dawn....blood has been spilled this night" right about now. Go right and 
+watch for the ghosts that quickly come from the left. Also watch the 
+birds from the right! Punch the gravestone to find health. Dispatch the white 
+swordsmen like the green ones, and watch for green hoppers. All the 
+gravestones have health except the second-to-last one in the series, which 
+contains a ghost. Let the group of bats come at you from the left and punch 
+each of them in turn. Walk right and do the same with the other group of bats 
+which come from the right.As usual, watch your timing. Jump over and/or walk 
+safely around the falling balls from the bone-dragon in a similar fashion as 
+you did with the robot-bee earlier. Now it is time to fight the last guy. And 
+like Daniel in Karate Kid with his crane-kick, you finally have an excuse to 
+use your jump kick for a dramatic finish!! His pattern is relatively simple. 
+He alternates between breathing two streams of fire and then one. After he 
+breathes two streams, now is your chance to squeeze yourself into the safe 
+spot. Use your jump kick and hit him 2-3 times. Walk away before he 
+breathes two blasts of fire. Rinse and repeat!
+
+
+Congratulations, you have freed Necropolis!!!!!!!!!!!
+
+
+
+You have just beat a truly incredible game. It will always be a classic. To put
+it another way, and to use another Lord of the Rings reference, the game is 
+"worthy of isengard."
+
+
+
+Thanks for your time!
+
+
+
+Force X Distance
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+   
+
+

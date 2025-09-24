@@ -1,0 +1,316 @@
+                 ____  ____    __    ___  __  __  __      __
+                (  _ \(  _ \  /__\  / __)(  )(  )(  )    /__\
+                 )(_) ))   / /(__)\( (__  )(__)(  )(__  /(__)\
+                (____/(_)\_)(__)(__)\___)(______)(____)(__)(__)
+
+                      Dracula: The Undead Game Script v1.0
+                                  -----------
+                         by TIDQ (Email at the bottom)
+
+
++=============================================================================+
+&                                Introduction                                 &
++-----------------------------------------------------------------------------+
+
+Dracula: The Undead is a mystery-based video game for the Atari Lynx based on
+Bram Stoker's story of Dracula. This is a GAME SCRIPT, NOT A WALKTHROUGH. I am
+also submitting a walkthrough for this game at the same time as this script, so
+please turn to that guide for any gameplay questions. The purpose of this guide
+is simply as a quick reference to all lines of the plot script in the game, for
+whatever reason one might have.
+
+Since this is just a game script, and since the game isn't even very long, I'm
+not putting a table of contents or section numbers in this guide. The bulk of
+the guide is in the body, while my email address and the legal stuff is at the
+bottom.
+
+
++=============================================================================+
+&                                 Game Script                                 &
++-----------------------------------------------------------------------------+
+
+BRAM STOKER
+"I am Bram Stoker and by the magic of technology I am able to narrate this
+story of DRACULA to you.
+
+Your adventure will closely follow my original book but in this version you
+will be able to interact in a way never thought to be possible when I published
+Dracula in 1897.
+
+First, you will guide Jonathan Harker, a young solicitor. He has travelled to
+Transylvania from London. Yesterday as he left the inn, the landlord's wife
+insisted that he accept and wear a crucifix. She had become concerned when she
+had learned he was to visit DRACULA. Last night was WALPURGIS NACHT, when the
+locals believe the dead rise and stalk the night.
+
+Jonathan was taken to castle Dracula in a coach driven by a strange cloaked
+man. Arriving in the early hours of the morning, he had been shown to his room
+by the Count himself.
+
+Dracula had told him to get plenty of rest and to rise late the next day. Food
+would be ready in the dining room. Dracula would be away during the day.
+Dracula also said that Jonathan was free to explore where he wished but that he
+should never try to enter any locked rooms. This was for Jonathan's own safety,
+since most of the castle is in ruins and is dangerous.
+
+It is late morning. Jonathan has awakened and dressed in the antechamber to his
+bedroom. After failing to find a mirror anywhere, he had used the small
+shaving mirror which he had brought with him. While shaving Jonathan has cut
+his chin and the wound is now marked by congealed blood.
+
+Jonathan seems to recall that there was something he must do before going down
+to the dining room, but cannot quite remember what. Jonathan reminds himself
+that in the future he should make a note of anything interesting or important.
+Jonathan feels strange. It is as though he is not in complete control of his
+own actions."
+
+
+My notebook's in here.
+
+
+There's a tinder box on the table.
+
+
+There's a crucifix on the bed.
+
+
+OK. I feel safe now.
+
+
+It leads to the south wall of the castle. It's closed. That's strange. It's
+locked from the outside.
+
+
+There's some oil here.
+
+
+It's count Dracula. He's a tall fearsome looking man.
+
+
+JONATHAN
+"Good morning, Count."
+
+DRACULA
+"Good morning, Jonathan. I trust you slept well?
+  >>Yes, Thank you.
+
+(no response)
+
+  >>No, there were wolves howling all night.
+
+You do not enjoy the sounds of the night? You from the city do not understand
+the joys of my friends calling."
+
+JONATHAN
+"You have a very impressive home, count."
+
+DRACULA
+"Thank you. Please explore the castle. But do not try to enter any locked
+rooms. The castle is run down and can be very dangerous. But first, please
+enjoy your meal. I will not be joining you as I ate earlier."
+
+JONATHAN
+"When shall we get down to our business?"
+
+DRACULA
+"I will be away today on business of my own. I will return tonight."
+
+JONATHAN
+"I'll eat my meal now."
+
+
+BRAM STOKER
+"Dracula then left the room and Jonathan was left wondering what might be his
+fate."
+
+
+Jonathan makes a note of the conversation for future reference.
+
+
+Jonathan looks out of the window.
+
+
+Jonathan sees Dracula standing on a ledge across the wall. He is astonished to
+see Dracula crawl face down along the wall.
+
+
+Jonathan makes detailed notes after seeing Dracula crawl down the wall like a
+bat.
+
+
+I've seen Dracula out there. It must be possible.
+
+
+As Jonathan climbs in through the window he breaks the lock from the outside.
+The window now opens and closes freely.
+
+
+There's a lantern here. And some papers.
+
+
+BRAM STOKER
+"As Jonathan looks amongst the papers lying on the desk he finds a shapping note
+for fifty boxes of earth to be delivered to Whitby in England and a list of
+addresses which includes the house at Carfax. Jonathan is surprised to find
+that the Count has also purchased a house on Union Street."
+
+
+Jonathan makes note of the destination of the earth boxes and the name and
+address of another solicitor with whom Dracula has also been doing business.
+
+
+OK, the lamp's full now.
+
+
+There's a drawer in the desk. And a map hung on the wall over it.
+
+
+Jonathan makes a rough sketch of a map above the desk. He notes that there are
+four major locations. One of which he takes to be the count's resting place.
+
+
+There are many coins and notes from many different countries. The count must be
+quite a collector.
+
+
+There's a box hidden under this money.
+
+
+There's a large iron key inside it.
+
+
+It's Dracula. He looks as though he is dead.
+
+
+Jonathan sketches a map of the catacombs, noting the whereabouts of the coffin.
+
+
+Let's just leave the lamp here. I hate this.
+
+
+BRAM STOKER
+"Jonathan begins to feel sleepy and doesn't know why and doesn't really care,
+so he lies down to sleep.
+
+BRIDE #1
+"You take him, sister."
+
+BRIDE #2
+"No, he is yours."
+
+BRIDE #3
+"We insist you go first, sister."
+
+BRIDE #?
+"Then we will all enjoy those special kisses."
+
+DRACULA
+"CEASE! I have warned you, he is mine. Now be gone!"
+
+BRIDES
+"We must have our share. We must have his blood."
+
+DRACULA
+"No, he will be yours tomorrow. For now, take this."
+
+BRAM STOKER
+"So, dear adventurers, you must help Jonathan escape before the bridges return
+to claim their voluptuous kisses. It is the next day and Jonathan awakens in
+his room, uncertain whether he dreamt the events of the previous night."
+
+
+Jonathan writes down all he recalls of the previous night. Even now he cannot
+be sure if the events were real or dreamt.
+
+
+There's a small brass key in here.
+
+
+Hmmm a book about fishing. This could be useful.
+
+It's called 'fishing well' and it's written by J.R. Smartly.
+
+
+There's a small key hidden inside.
+
+
+BRAM STOKER
+"The Count has entertained his gypsy helpers with tea before they left with the
+earth boxes, one of which contained the Count on his journey to England. You
+must help Jonathan escape the Castle quickly before the three brides of Dracula
+claim him.
+
+
+There are some plates and cups left over here. Probably left over from the
+gypsies' meal. There's a bowl of sugar as well.
+
+
+There are some fishing hooks in here.
+
+
+That's better. He's calmed down now.
+
+
+It's boarded up and hasn't been used for a while.
+
+
+That's got rid of the boards.
+
+
+Missed! Missed again! Got it! I'll fasten it to the well, so I won't have to do
+that again.
+
+
+BRAM STOKER
+"Jonathan scrambles blindly along the narrow passage leading from the well.
+Emerging in the woods at the foot of the castle he takes his chance and flees
+with the cries of the wolves ringing ever louder in his ears.
+
+CONGRATULATIONS
+
+You have helped Jonathan escape the castle and the notes you have made later
+enable you to find the evil Count Dracula
+
+and drive a stake through his heart, ending his evil ways forever.
+
+THE END.
+
+
++=============================================================================+
+&                                  Miscellany                                 &
++-----------------------------------------------------------------------------+
+
+___________
+Legal Stuff
+
+This FAQ is Copyright 2006 by me. Any publishing of this guide without my
+explicit permission isn't allowed. Plagiarizers will be hunted down.
+Dracula: The Undead is the Copyright property of Atari. I am in no way
+affiliated with the company or its employees.
+
+___________
+Emailing Me
+
+My email is tasteless@gmail.com
+
+I would love to hear any feedback. Do not report typos in the script to me,
+because those are too trivial for me to change the guide over. Gameplay
+questions should be answered in my other FAQ for this game. If you still have
+a comment or question for me, feel free to drop a line.
+
+_______________
+Version History
+
+4/3/06 - v1.0  The first and complete version of the script is submitted to
+               GameFAQs.
+
+______________
+Special Thanks
+
+Special thanks to Atari for both making and distributing this game.
+
+Thanks to GameFAQs for hosting the guide and being an overall great resource
+on the internet.
+
+______________________________________________________________
+Dracula: The Undead Game Script (c) 2006 John "TIDQ" Robertson

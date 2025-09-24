@@ -1,0 +1,299 @@
+
+
+
+
+Turbo Sub (Atari Lynx) Walkthrough by Darrin (forceXdistance)
+Copyright 2011
+
+
+
+---------------------------------------------------------------------
+
+Obligatory disclaimer: This walkthrough may not be reproduced under any 
+circumstances except for personal, private use. It may not be placed on 
+any web site or otherwise distributed publicly without advance written 
+permission. Use of this guide on any other web site or as a part of any 
+public display is strictly prohibited, and a violation of copyright.
+
+
+
+-----------------------------------------------------------------------
+
+Turbo Sub is one of those games that can seem too hard the first time it is 
+played. This is a shame, because some players may be tempted to give up 
+when this happens biasing their judgment towards a very cool game. With 
+luck,this FAQ can help retro game collecters appreciate a solid title for 
+a game system that was ahead of its time when it came out in 1989. As an 
+FYI, I also posted a review of this game on Gamefaqs if you wish to see it.
+
+--------------------------------------------------------------------------
+
+Controls:
+
+B  Weapon fire
+A  bomb
+option 1  targeting computer activation/disengage
+control pad  sub movement and menu select
+
+-----------------------------------------------------------------------
+
+Enemies:
+
+Stealth Raider
+Poldarc
+Galactapus
+Saucer
+Snub-fighter
+Mech-Ray
+Crab
+Mech-Shark
+Jellyfish
+Warp mine
+Mogogg
+Cannon
+Nebulus
+Barracuda
+
+-------------------------------------------------------------------
+
+Avoid:
+
+Lasers
+Pillars
+Gamma Charges
+
+----------------------------------------------------------------------
+
+Items:
+
+Gem-pods
+Astro-foil
+
+-----------------------------------------------------------------------
+
+In-game store items:
+
+Extra-life          4 gems          
+Fuel                4 gems
+Mega-bomb           3 gems
+Multi-blasters      8 gems Item must be repurchased after each level         
+Rapid-fire          5 gems Item must be repurchased after each level
+Shields             8 gems             
+Range-missiles      8 gems Item must be repurchased after each level
+Tracking            9 gems Item must be repurchased after each level
+
+------------------------------------------------------------------------
+
+
+Walkthrough
+
+
+General info: You start the game with 2 mega-bombs, a tank of gas, 
+shield, 10 lives in reserve (no continues), and last but not least a 
+set of working wind-shield wipers. I like to save mega-bombs for the 
+final boss and/or the cannons that occasionally pop up. It is worth 
+noting that the very first level is actually somewhat challenging 
+because it is the only level in the game you have to play without the 
+luxury of browsing the in-game store beforehand for helpful items like 
+the tracking system. Now is the time to start getting a feel for the 3d 
+environment of the game, including but not limited to becoming acquainted
+with the game's sense of hit-detection, peripheral vision, depth 
+perception, personal space, object permanence, distance, and other 
+subtle nuances of the game. This can be daunting at first, and can 
+result in many lost lives. Stick with it, though, and you will probably 
+notice that the game will work itself into your muscle memory over 
+time. To put it another way, the game has a non-linear difficulty 
+curve, where the first time you play you can royally suck but with 
+practice you can learn to beat the game with over 20 guys left in 
+reserve!! In general I like to use the cross-hair itself as a basic point
+of reference, and use that as the basis for navigating around the 
+under-water structures or collecting powerups. It might behoove the 
+player to note that "objects in the turbo-sub viewing screen may appear 
+closer than they are." Focus on the cross-hair!! Also, don't worry too 
+much about finding the astro-foils. It is always a pleasant 
+surprise to find one, but they are not all that important considering 
+that extra lives and fuel can be easily purchased at the store. During 
+the under-water sections of the stages, it is a good idea to descend as 
+far as possible to the ocean floor and in general "follow the money" as 
+they say and pick up gems as you avoid the ground structures. However, 
+do feel free to veer slightly upwards to grab that out-of-reach gem or 
+shoot that pesky row of vertical barracudas. Lastly, keep in mind that 
+when you purchase a tracking system for your guns you GOTTA HIT OPTION 1 
+ON THE LYNX TO ACTIVATE IT!!
+
+Level 1: You will notice some I.F.O's in the distance. What are I.F.O.'s 
+you ask? Identified flying objects, of course, which the game calls 
+'saucers.'Simply fire some shots into them. If one of them fires, 
+position yourself in the space between the 2nd and 3rd bullet 
+(it shoots 4 horizontal shots at you simultaenously). Rinse and repeat 
+till the game prompts you to "DIVE". Don't be a cool rebel and disobey the 
+command. Why? You may be cool but you will eventually run out of gas on 
+the very first level.........not cool! Do feel free to shoot any 
+remaining enemies before diving, though, for points. Now, be very careful 
+here. This is where getting to know the 3D world is so very important. The 
+hit detection is more forgiving than you may realize, so don't 
+underestimate the little turbo sub.  So steer the cross-hair more or 
+less towards the purple gemstones whilst avoiding the pillars. If you are 
+relatively close to a purple gem you can pick them up (listen for the tone) 
+so don't get too caught up in aiming directly at the gems. Likewise, don't 
+get too caught up in making large turns or wide sweeps across the screen 
+to avoid pillars. Subtety is the key........for collecting gems AND for 
+avoiding obstacles. Try to collect as many gems as you can. Soon you will 
+see swarms of crabs. Fire at will. Fly into the red area of the rock 
+formation and you will find yourself in a rather posh shopping mall. Avoid 
+the clothing aisles and focus on the mission at hand! I like to save at 
+least some of the money after levels to maintain a modest nest egg. 
+In general, the only items I find necessary include shields, free lives,
+and the tracking system. Mega-bombs, rapid fire, fuel, and others are more 
+or less luxury items! I have not found running out of fuel to be an 
+end-of-the-world issue, as when it happens you only lose a single life. 
+But I understand how hard it can be to save your money for a rainy day 
+when every day feels rainy to a submarine captain!
+
+Level 2: The sky-section of this stage consists of Mogoggs, which sort of 
+resemble the Andross boss of the first Star Fox for Super Nintendo. I like 
+to keep moving to the side and keep firing until they are dispatched. It 
+is easy to avoid the missile explosions this way. When it is time to dive, 
+watch out for the gamma-charges (two electrical balls tied together). These 
+are fairly nasty, and I like to focus on collecting lots of purple gems 
+until I start to see one of these and then quickly steer away from the 
+closest side of the charge. When the warp mines come, shoot and/or avoid 
+them as appropriate. If you have tracking on, this task is much less 
+daunting. Just remember to activate the system with option 1!!!! Fly into 
+the store as before and use the gems to buy the items you need.
+
+Level 3: The sky-section of this stage consists of stealth raiders. I like 
+to repeat the strategy I used with the Mogoggs of level 2 to defeat them. 
+The water section consists of barracudas and green poldarcs. With tracking, 
+you can make short work of these adversaries. Fly into the store. Hopefully 
+you have enough gems to buy the lives, shields, and tracking you need.
+
+Level 4: It is night-time, and the sky area consists of stealth raiders and 
+saucers. Manage to 'ride the side' away from the stealth raiders as before 
+but watch out for any 4-way blasts from saucers (and remember to wiggle 
+your way between the 2nd and 3rd shot as before. The water section consists
+of green nebulus and cannons. The former are rather easy with tracking, 
+but the latter enemies can make it a bit tricky to dovetail collecting 
+gems, dispatching them, and avoiding enemy fire. It seems to help to 'ride 
+the side' in a more jerky manner (pressing/releasing joypad) so that your 
+shots have a bit more time to hit the cannons. The first boss will emerge 
+next. Ride-the-side of the screen while firing at Galactupus (remember to 
+keep tracking engaged). He should go down with little trouble (you know you 
+are hitting it when you see a green blast in front of the boss). Next, 
+shop till you drop.
+
+Level 5: The sky area consists of Mogoggs. The water section debuts a series
+of lasers for your viewing pleasure. These structures are rather scary to
+behold the first time, and you may even notice some lives go down the 
+proverbial drain! Try to treat them like the pillars and go towards purple 
+gems as if it were business as usual. They really aren't that much harder 
+than the pillars. Watch for the movement of the laser beams, and act 
+accordingly. Don't panic and work the required movements into your muscle 
+memory. After this, get ready to fight some snub-fighters. They look kinda 
+like saucers, but shoot the cross shots like the stealth raiders. Ride 
+the side and blast tracked shots into them.Now be a good mall rat at the 
+shop.
+
+Level 6: Defeat the stealth raiders and saucers as with level 4. When it is 
+time to dive, the pillars from stage 1 make another appearance. After 
+these, destroy the crabs with tracked shots and collect the myriad of gems 
+as per usual (it is an easy area to really stock up). Fly into the shop and 
+as usual focus your attention on the lives, tracking, and shields. If you 
+have lots of extra cash, feel free to splurge and use some gems on rapid 
+fire or something. It is interesting to note that this sub must be like a 
+rental car, as the weapons must be repaid after each stage! Or maybe the 
+sub's features are "Rent-to-own" like a sofa or large screen TV. While 
+musing about that, get ready for the next stage.
+
+Level 7: Rinse and repeat the sky section like the previous level. Under 
+water,avoid the annoying gamma charges as with level 2, and don't forget 
+how they seem to expand towards you! 
+
+Level 8: Defeat each Mr. Mgoo, er I mean Mogogg, as before by riding the 
+side and shooting simultaneously. After diving, go ape shooting the 
+barracudas whilst grabbing fist-fulls of gems like Scrooge McDuck. Watch 
+out for the Poldarcs and dispatch them (gotta love these alien handles). 
+Of course, the tag of "mech-shark" is rather self-explanatory........as 
+is the next objective........boss time! Fight the shark exactly like the 
+galactupus. 
+
+Level 9: Defeat the combination of stealth raiders and saucers as per usual.
+After diving, be prepared for nebulus and cannons (like level 4). Use the 
+same strategies and emerge victorious. As always, watch for purple gems 
+and any stray astro-foil in the process. Pick and choose from the same 
+assortment of items in the store. There is no shame in going with a generic 
+version of the tracking system. It is not the time for decking out the 
+sub with stereo or "sub"-woofers if you will! 
+
+Level 10: Defeat stealth raiders and saucers as per usual. After diving, 
+avoid those pesky laser beams from level 5. Remember that in general if 
+you can keep your cross hair free of structures you are safe. Again, think 
+of your cross-hair as your turbo-sub and don't place too much emphasis on 
+the turb0-sub's entire viewing screen. Dispatch the onslaught of 
+snub-fighters that come next as you avoid bullets and find gemstones.
+
+Level 11: More Moggogs. Rinse and repeat (with soap and ocean water). After 
+diving,avoid the pillars and don't let the slaughtered skeletons of other 
+weary travelers put you off! They simply failed and were mutilated. No 
+biggie. Like when giving a speech, just pretend they are in their 
+under-wear (which shouldn't be too hard considering their clothes are 
+already stripped away from man-eating sharks). Hopefully you are fluent in 
+navigating around structures by now. Next, get ready for the crabs that 
+come. Use tracked shots to dispatch them quickly as you navigate towards 
+the gemstones. Have a crab-bake or crab-boil and get ready for more 
+shopping.
+
+Level 12: Night again? Do you like never have time to sleep? I guess 
+insomnia is a way of life for folks who "live alone in a blue submarine" as 
+the Beatles might say. Anyway, do the typical saucer-and-stealth-raider 
+routine in the sky. After diving,avoid the charge-beams like a bad plague 
+(not the good plagues). Destroy any mines that are present before the boss 
+fight with the mech-ray. His bullets are fast and wide, but if you simply 
+"ride the side" as usual you should be fine. You know you are hitting it 
+when you see an orange blast cloud. After about 5 hits, he is history and 
+becomes regarded a war-hero within the habitats of robotic sea creatures 
+(I just wish the game had a mech-sea-cucumber). Unlike many games, the 
+bosses are a rather pleasant diversion from the other parts of the game 
+(at least until the final one). 
+
+
+Level 13: Rinse and repeat the sky section. After diving, destroy the 
+swarms of barracudas and poldarcs and don't let their innocent puppy-dog 
+faces fool you. Go into red zone as per usual. Pretty standard stuff on 
+this stage.
+
+Level 14: Defeat the Mogoggs. Dive and dispatch the nebula. Next, turn 
+that pesky cannon into cannon fodder while reciting the Gettysburg 
+address :)
+ 
+
+Level 15: Destroy the combination of stealth raiders and saucers. After 
+diving, avoid the pesky laser beams whilst collecting gems as usual. Next, 
+dispatch the group of snub-fighters whilst stuffing your pockets with gems 
+and head to the store with a pep in your step.
+
+Level 16: Rinse and repeat the sky section. Enjoy the peaceful night. You 
+have a long day ahead of you! After diving, avoid pillars, collect gems, 
+and destroy crabs. Now fight "jellyfish". It is curious that this boss 
+(and galactupus) do not have a "mech" prefix. Hmmmm. Anyway, fight it like 
+the other bosses, and watch out for his round blast that he projects.
+
+Level 17 (final boss): NOW you tell me this crate can fly into space!! It 
+took until the last stage to tell me this news? This guy is tougher than 
+the other bosses. You can't just "hit and run" like the others. If not 
+careful, this guy can chew you up and spit you out like dirty 9 year-old 
+store-brand gumballs. I like to go ape with the bombs while shooting right 
+in his face. You might lose a few lives, but it will go down eventually. 
+It seems wise to be aggressive. It is curious that the game-demo does not 
+list the name or point value of this enemy.
+
+Victory!!!!!!!!! You are now "grand admiral" of the Turbo Sub Fleet. Enjoy 
+the rather inappropriate jovial music as you watch the enemy mothership 
+fall apart. Appreciate the irony of watching a "mother-ship" get destroyed 
+in the foreground whilst "mother Earth" is looming in the background as 
+you scratch your chin witha pretentious grin! Your score will probably be 
+somewhere around 150,000 by this point.
+
+Thanks for reading!!!!!!!!!!!!
+
+Darrin (forcexdistance)

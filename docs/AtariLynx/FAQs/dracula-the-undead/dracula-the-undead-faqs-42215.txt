@@ -1,0 +1,418 @@
+     @@@@@@@   @@@@@@@    @@@@@@    @@@@@@@  @@@  @@@  @@@        @@@@@@
+     @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@  @@@  @@@       @@@@@@@@
+     @@!  @@@  @@!  @@@  @@!  @@@  !@@       @@!  @@@  @@!       @@!  @@@
+     !@!  @!@  !@!  @!@  !@!  @!@  !@!       !@!  @!@  !@!       !@!  @!@
+     @!@  !@!  @!@!!@!   @!@!@!@!  !@!       @!@  !@!  @!!       @!@!@!@!
+     !@!  !!!  !!@!@!    !!!@!!!!  !!!       !@!  !!!  !!!       !!!@!!!!
+     !!:  !!!  !!: :!!   !!:  !!!  :!!       !!:  !!!  !!:       !!:  !!!
+     :!:  !:!  :!:  !:!  :!:  !:!  :!:       :!:  !:!   :!:      :!:  !:!
+      :::: ::  ::   :::  ::   :::   ::: :::  ::::: ::   :: ::::  ::   :::
+     :: :  :    :   : :   :   : :   :: :: :   : :  :   : :: : :   :   : :
+
+
+                         Dracula: The Undead FAQ v1.0
+                                  -----------
+                         by TIDQ (Email at the bottom)
+
+
++=============================================================================+
+&                              Table of Contents                              &
++-----------------------------------------------------------------------------+
+
+For ease, every part of the FAQ can be accessed by hitting Ctrl+F and searching
+for the section number or section title.
+
+1.0 Introduction
+2.0 FAQ
+3.0 Controls
+4.0 Commands
+5.0 Walkthrough
+6.0 Miscellany
+  6.1 Legal Stuff
+  6.2 Emailing Me
+  6.3 Version History
+  6.4 Special Thanks
+
+
++=============================================================================+
+&                              1.0 Introduction                               &
++-----------------------------------------------------------------------------+
+
+Dracula: The Undead is a mystery-driven game for the Atari Lynx handheld, based
+on the legendary story by Bram Stoker. In the game, you take control of
+Jonathan, a guest and potential victim of Count Dracula. Your goal is to
+survive, find a way to escape Dracula's castle, and collect evidence to prove
+Dracula's identity along the way. It's more akin to a Maniac Mansion style
+game than an action-intensive game.
+
+Although this quaint little title is perfectly capable of being completed on
+your own, many people might get stuck wondering what to do next, or what they
+need to make sure they do to get the good ending.
+
+
++=============================================================================+
+&                                   2.0 FAQ                                   &
++-----------------------------------------------------------------------------+
+
+______________________
+Q: Can I save my game?
+
+A: No. Unfortunately, if you Game Over, you have to restart from the beginning.
+It's not as bad as it sounds though. First, the game is very short. Secondly,
+it shouldn't take you too long to get back to where you were if you remember
+everything that you did. Also, there aren't THAT many ways to lose.
+
+_________________________________________________________________________
+Q: If I missed writing something in my notebook, can I still get the good
+ending?
+
+A: If it's a one-time event, then no, you have to restart, or you'll get the
+bad ending. A couple things, like the map on the wall, you can take care of
+any time before you escape the castle. When a significant event happens, you
+must make note of it in your notebook IMMEDIATELY.
+
+_________________________________________
+Q: Is there a good emulator for the Lynx?
+
+A: Absolutely. It's called Handy, which was the original name of the Lynx while
+it was in development. It's a solid emulator, given the unpopularity of the
+handheld. The only thing I don't like about it is lack of Save States. Search
+for Handy Lynx on Google to find the emulator's homepage, or you can grab it
+from Zophar's Domain.
+
+__________________
+Q: How about ROMs?
+
+Don't ask me about finding ROMs. I'll ignore emails like these.
+
+
++=============================================================================+
+&                                 3.0 Controls                                &
++-----------------------------------------------------------------------------+
+
+ - Pause
+
+   Pauses the game.
+
+ - Button A
+
+   Confirm action. During cutscenes, it advances the text.
+
+ - Button B
+
+   Switch between walking mode and action selection mode. During cutscenes, it
+   goes back to the beginning.
+
+ - Option 1
+
+   Skip cutscenes.
+
+ - Option 2
+
+   Toggle sound on/off.
+
+ - Option 1 + Pause
+
+   Soft reset.
+
+ - Option 2 + Pause
+
+   Flip the screen.
+
+ - Directional pad
+
+   Move Jonathan when in walking mode. When in the action selection mode,
+   chooses the action to perform.
+
+
+The basic interface is as follows. Jonathan walks around the screen in walking
+mode. When he gets near an object he can interact with, the name of that object
+appears on the screen. He can press Button A to act on that object with the
+currently selected action. Or, you can press B to select a different action.
+Use the up and down buttons to cycle through the menu of actions when in action
+selection mode. Then, press the right button to switch from choosing an action
+to choosing the object to act upon. Use up and down to cycle through once
+again. Objects to act upon can be right in front of you, or in your inventory.
+
+
++=============================================================================+
+&                                 4.0 Commands                                &
++-----------------------------------------------------------------------------+
+
+These are the only commands that you will be using throughout the game.
+
+
+ - Examine
+
+   Investigate objects in front of you or in your inventory.
+
+ - Look
+
+   Look around the room you are in, or out a window.
+
+ - Open
+
+   Open an object, either in front of you or in your inventory. Doors, etc.
+
+ - Close
+
+   Opposite effect as Open.
+
+ - Get
+
+   Pick up the object in front of you and add it to your inventory.
+
+ - Use
+
+   Use something in your inventory or in front of you. Sometimes just using an
+   object is understood. Other times, you need to use the object on something
+   else, and specify what you are using it on.
+
+ - Climb
+
+   Use to climb out windows, climb up ladders, and climb down ropes.
+
+ - Turn
+
+   Turn down your lamp. Also can be used on a switch, but Use works there, too.
+
+ - Talk To
+
+   Only needs to be used once in the game, to talk to Dracula.
+
+
++=============================================================================+
+&                               5.0 Walkthrough                               &
++-----------------------------------------------------------------------------+
+
+The game will open up with an introduction by Bram Stoker, speaking from
+beyond the grave or something like that. He will talk about Jonathan Hawker,
+that's you, who is staying as a guest with Dracula. You need to uncover the
+mystery of Dracula and escape unharmed.
+
+Just remember one simple rule: Anytime something important happens, record it
+in your notebook RIGHT AWAY! If you don't collect all of the clues, you won't
+get the good ending. If Jonathan just scribbles a note in shorthand, that means
+he didn't record the event.
+
+When you first get control of Jonathan, walk to the drawers. Open the drawers.
+Now, Get the notebook. Now, walk to the bottom right part of the room until you
+find the door. Open it, and walk into the bedroom.
+
+In the bedroom, examine the table next to the bed. You should notice a tinder
+box. Get the tinder box. Now, examine your bed. There's that crucifix that
+Bram mentioned in the intro. Get it. Now, Use the crucifix to wear it around
+your neck. If you don't wear the crucifix, Dracula will... well, kill you. You
+did cut yourself while shaving after all. How can any vampire resist that? If
+you go to the bottom center of the screen, you should bump into an unseen
+window. Jonathan will note that strangely, it's locked from the outside, if you
+try to open it. Go back to the antechamber where you started.
+
+Open the door in the back of the room, and go out to the south wing landing.
+
+In the landing, there's nothing to do here. You can observe that there is a
+"jammed" door. Jonathan says he could pry it open, but we have no tools that
+are good for prying. Remember it for later. Go downstairs.
+
+Downstairs is the south hallway. There are doors on the left and right sides of
+the hall. There's also a clock in the back, and if you exit the bottom of the
+screen, you'll end up in the dining room. The door on the left is locked, and
+so is the clock door. You can go in the right door, which leads to the library,
+but there's nothing to do in there yet. It's too dark to read any books.
+Instead, go to the dining room.
+
+Here in the dining room, you should notice the figure of Dracula in the corner.
+First, examine the table. There should be some oil there. Get the oil. Now,
+if you have the crucifix on your neck feel free to talk to Dracula. When you
+talk to him, you can press up or down to choose what you'll say to the count.
+Let's talk to him about as many topics as we can, though. First, say "Good
+morning, Count." Then, choose "Impressive home, count." Then, "When shall we
+get down to our business?" Then, "I'll eat my meal now." After Dracula leaves
+and Bram pops up again, USE THE NOTEBOOK. Now, go back to the antechamber.
+
+Back in the antechamber, there is an unseen window in the bottom right part of
+the screen. Approach it, and open it. Now Look out the window. You will see
+Dracula, crawling down the wall from another window. Hey, if Dracula can climb
+the walls, you can, too. First, USE THE NOTEBOOK. Now, climb out the window.
+
+Now, you have to navigate the wall of the castle. Not all of the spots on the
+wall have solid footing, so you must navigate the wall almost like a maze. You
+won't die if you misstep. Here are the directions to get from the first window
+to the second:
+
+ >>Right, right, right, right, right, right, up, right, up, right, right,
+ right, down, right, down, right, right, right, right, right.
+
+Now, you're under the second window from the left. Press up to enter the
+window. You will break the lock on the window to the bedroom, so you can use
+that window anytime you want. Now, open the window and go back on the wall.
+Here are the rest of the directions to reach the far right window.
+
+  >>Right, right, right, right, up, up, up, right, right, right, right, right,
+  right, right, down, down, right, down, right, right, right, right.
+
+Now, you should be under the third window. You can't enter here. Continue.
+
+  >>Right, right, right, up, up, up, right, right, right, right, right, right,
+  right, right, right, down, down, down, right, right, right, right.
+
+Now, you should be under the fourth window. Keep going.
+
+  >>Right, right, right, right, up, right, right, right, right, right, down,
+  down, right, right, right, right, right, right.
+
+Now, you're under the big window. Go up and enter.
+
+This is Dracula's Study. Let's start by examining the table in the foreground.
+There's a lantern, as well as notes that detail some of Dracula's business
+dealings. Before you grab the lantern, USE THE NOTEBOOK. Okay, now you can get
+the lantern. The lamp isn't on though. Use the oil with the lantern. Then, use
+the tinder box with the lamp. You have a working lantern. The brightness of the
+lamp will give you away to Dracula though, so Turn the lantern (as in, turn it
+down). Once your lamp is turned down, walk to the desk. Now, examine it. There
+is a drawer and a map. USE THE NOTEBOOK. Jonathan will sketch the map. The
+drawer is locked, so let's open the door on the right side of the room. Walk on
+though.
+
+This is Dracula's money room. Examine the big pile of money. Now, get the
+money. Not only is the money another clue, but there's a box under the money.
+Get the box. Open the box. There's a large iron key. The iron key is
+automatically placed in your inventory. Now, walk to the door in the back of
+the room and use the iron key in the door. Now, open the door and enter.
+
+This is the catacombs. Go right one screen, then down one screen. Get the
+twine. Now, go right one more screen, then down two screens. You should see a
+coffin and a crowbar. Get the crowbar. Then, examine the coffin. Guess who's
+inside? I hope you said Dracula. Before you do anything else, USE THE NOTEBOOK.
+Jonathan will make another map. Now, go up three screens, and left two screens
+to get back to the entrance.
+
+Now, you have to go back to jammed door upstairs. This means climbing the wall
+again. Here are the directions to go from Dracula's Study to the bedroom
+window, reverse of how you got there. You'll have to leave the lantern for now.
+
+  >>Left, left, left, left, left, left, up, up, left, left, left, left, left,
+  down, left, left, left, left.
+
+Now, you're under the fourth from the left window.
+
+  >>Left, left, left, left, up, up, up, left, left, left, left, left, left,
+  left, left, left, down, down, down, left, left, left.
+
+Now, you're under the middle window.
+
+  >>left, left, left, left, up, left, up, up, left, left, left, left, left,
+  left, left, down, down, down, left, left, left, left.
+
+Now, you're under the bedroom window. Go up and in.
+
+Go through the antechamber to the south wing landing. Use the crowbar on the
+jammed door and enter. Now, prepare for a cutscene involving Dracula and his
+strange brides as you enter the sewing room.
+
+
+
+After the strange event, Jonathan will wake up in the bedroom on the next day.
+USE THE NOTEBOOK. Now, we have to get out of here. Dracula has locked Jonathan
+in his room, but fortunately, if you followed my instructions, you broke the
+lock on the window. Climb out the window and head to the right back to
+Dracula's Study.
+
+In the study, get the lantern again. Use the tinderbox on the lantern again.
+Go back to the money room, and then into the catacombs.
+
+Go right twice, then down three times. Examine the coffin again. Get the brass
+key. Now, go up three times, then left twice, and go back to the money room.
+
+In the money room, use or turn the lever on the bottom of the screen. The lever
+used to be obstructed by the money, but the money isn't there anymore. The
+lever opens a hidden door in the bottom left corner of the money room. Go
+through it now to end up in the library.
+
+In the library, go to the books on the right and examine them. Jonathan will
+spot a particular book about fishing. Now, examine that book. Unfortunately,
+we need to get to the clock next. It's just in the next room, but the door is
+locked. That means we have to use the outside wall to go ALL the way around.
+So, go to money room, then to the study, then to the wall. I haven't yet
+described how to get from the second window on the left to the left-most
+window, going in that direction, so here are those directions.
+
+  >>Left, left, left, left, left, up, left, up, left, left, left, down, left,
+  down, left, left, left, left, left, left.
+
+Once you're in the south hallway, use the brass key with the clock. Now, open
+the clock. Get the small key. Now, enter the dining room (exit at the bottom
+of the screen). Another Bram Stoker cutscene should start.
+
+In the dining room, examine the table. Then, get the sugar. If you have the
+small key and the sugar, you're done here. Now, go back to the study via the
+wall. This is the last time you'll have to traverse that stupid wall, I swear.
+
+In the study, use the small key in the drawer. Now, open the drawer. Get the
+fishing hook. Use the hook with the twine to create a fishing line. Hooray.
+Now, grab and relight the lantern again, go to the money room, then into the
+catacombs.
+
+This time, we're not going to the coffin. We're getting the Hell out of here.
+Go right one screen, then up one screen. You should see a ladder. Climb the
+ladder.
+
+At the top of the ladder, you're so close to daylight, but there's a friggin'
+horse in the way. If you grabbed the sugar, he won't be a problem though.
+Otherwise, you have to go all the way back to the dining room. Use the sugar.
+
+Now, you're in the barn. The barn is two screens, and you're currently in the
+left screen. You'll notice a well. Examine it. It's boarded up. Damn it. Well,
+no big deal. Go right one screen. If you notice, lying against the post in the
+middle of the screen is a spade. Grab the spade. Now, walk back to the well,
+and use the spade on the well to get rid of those pesky boards. One last thing.
+If you remember the book in the library, it mentioned fishing in wells. Use the
+fishing line with the well. After a couple unsuccessful attempts, Jonathan will
+fasten the line to the well, creating a way down. Finally, climb down the
+well, and you've made it to freedom!
+
+Congratulations, you've escaped the castle and finished the game! If you wrote
+down everything in your notebook, you should get the good ending, too.
+
+
+(Although, the ending isn't actually all that good. I hope you feel like you
+accomplished something anyway.)
+
+
++=============================================================================+
+&                                6.0 Miscellany                               &
++-----------------------------------------------------------------------------+
+
+_______________
+6.1 Legal Stuff
+
+This FAQ is Copyright 2006 by me. Any publishing of this guide without my
+explicit permission isn't allowed. Plagiarizers will be hunted down.
+Dracula: The Undead is the Copyright property of Atari. I am in no way
+affiliated with the company or its employees.
+
+_______________
+6.2 Emailing Me
+
+My email is tasteless@gmail.com
+
+I would love to hear any feedback. If you have a question, please make sure it
+isn't already answered in the guide. If you report something missing from the
+guide and I decide to add it, I'll give full credit.
+
+___________________
+6.3 Version History
+
+4/3/06 - v1.0  The first and complete version of the FAQ is submitted to
+               GameFAQs.
+
+__________________
+6.4 Special Thanks
+
+Special thanks to Atari for both making and distributing this game.
+
+Thanks to GameFAQs for hosting the guide and being an overall great resource
+on the internet.
+
+______________________________________________________
+Dracula: The Undead FAQ (c) 2006 John "TIDQ" Robertson

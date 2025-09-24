@@ -1,0 +1,216 @@
+                        Crystal Mines II Password Guide
+                    By Zirconium (g.vandervleuten@chello.nl)
+-------------------------------------------------------------------------------
+Version 1.02 - Last Modified 27-2-2003 - See bottom for changes
+-------------------------------------------------------------------------------
+Codes
+
+Bonus Level 0 is not available through normal gameplay. The only way to access
+it is through the password.
+Other Bonus Levels can be accessed by entering the colored exit instead of the
+normal exit in the previous level.
+
+ Bonus Level 0 - ZERO - Secret Vault
+       Level 1 - TSLA - Down In The Dirt
+       Level 2 - UEPT - Logan's Run
+       Level 3 - MTFQ - Blocks And Bombs
+       Level 4 - IRTR - Wren's Nest
+       Level 5 - ZCXP - Out With A Bang
+       Level 6 - DPRX - Tanya's Tangram
+       Level 7 - OIGT - Monster Go Boom
+       Level 8 - YHYR - Dan's Deadly Maze
+       Level 9 - VYHK - Rocky Horror
+ Bonus Level 1 - KQVW - Deja View
+      Level 10 - ITCU - It Grows On You
+      Level 11 - QCFK - Easy Trap Of Doom
+      Level 12 - BXNG - Rock And Roll
+      Level 13 - MOXA - Bombs A'Plenty
+      Level 14 - IDWJ - Catacombs
+      Level 15 - RFVC - Red Herring
+      Level 16 - GHSI - Behind The Lines
+      Level 17 - SKHU - Impervections
+      Level 18 - TRFN - Blasting Zone
+ Bonus Level 2 - QATR - No Time To Think
+      Level 19 - LQRE - A Wrinkle In Time
+      Level 20 - AURV - Bolder Dash
+      Level 21 - TYGU - Mud Wrestling
+      Level 22 - FUIX - Buried Alive
+      Level 23 - QFXV - Crystal "Mines"
+      Level 24 - XVXU - Can't Touch This
+      Level 25 - KYPO - Felony Arson
+      Level 26 - HBTR - Sandbox Bullies
+      Level 27 - SFEB - Stake Your Claim
+ Bonus Level 3 - DBFQ - Bonzana!
+      Level 28 - HXRE - Dry Vein
+      Level 29 - TRVJ - Quiver
+      Level 30 - FQCS - Boulder Mania
+      Level 31 - ZOIH - Pipe Hype
+      Level 32 - LHJV - Stuck In The Mud
+      Level 33 - GVYU - Rat Race
+      Level 34 - EMTV - Split Infinity
+ Bonus Level 4 - LEJM - Nimbus
+      Level 35 - OHXY - Switch Swatch
+      Level 36 - GSTB - Minefield
+      Level 37 - UXRC - Chimney Sweep
+      Level 38 - PWYH - What A Blast!
+      Level 39 - XQCE - Hardrock Headache
+ Bonus Level 5 - ODJY - Monty Haul
+      Level 40 - PNGU - Nuke Zone
+      Level 41 - DZDI - Down Is Up
+      Level 42 - PIPH - Lucky Number
+      Level 43 - PKAV - Of Gravity...
+ Bonus Level 6 - BVOS - Pinball Wiz
+      Level 44 - TBUM - Shape Up
+      Level 45 - CXRI - Gravity Wise
+      Level 46 - QIPZ - Slime Pit
+      Level 47 - HBJP - Candlestick
+      Level 48 - NXKU - Bouncing Boulders
+ Bonus Level 7 - SKLR - Ping Pong
+      Level 49 - IGPY - Cloudbuster
+      Level 50 - INUK - Whirlwind
+      Level 51 - LPHD - Block Mania
+      Level 52 - NEBX - I Get Around
+ Bonus Level 8 - JPGR - Twist And Shout
+      Level 53 - JVNL - Hot Pursuit
+      Level 54 - CAQS - Runny Stocking
+      Level 55 - KEHL - Cakewalk
+ Bonus Level 9 - BIOH - Time's Up
+      Level 56 - EMSE - The Sewers
+      Level 57 - ZLAE - Crystal Factory
+      Level 58 - MSXV - Drop A Rock
+      Level 59 - JXTD - Magic Mirror
+Bonus Level 10 - BNRY - Time Bomb
+      Level 60 - SOVS - Cache
+      Level 61 - GHGV - Rock Concert
+Bonus Level 11 - UJIL - Time To Spare
+      Level 62 - QVOZ - Crystal Tomb
+      Level 63 - ZCEL - Make My Maze
+      Level 64 - COYH - Pardon Me
+      Level 65 - HJHT - Take Control
+      Level 66 - DONQ - Castle Mania
+Bonus Level 12 - NMXS - Lava Slide
+      Level 67 - VBHF - Rad Drops
+      Level 68 - JSMJ - Crystal Cannon
+      Level 69 - HTRA - Tick Tock
+      Level 70 - WBHD - Crossroads
+Bonus Level 13 - LKBI - Slam City
+      Level 71 - MVJX - Rain Dance
+      Level 72 - ANZI - Jungle Gem
+      Level 73 - EDLA - Zero Gravity
+Bonus Level 14 - RNSK - No Way Jose'
+      Level 74 - PCMN - Boulder Exchange
+      Level 75 - YJKJ - Monster Mania
+      Level 76 - RAIQ - Which Way?
+      Level 77 - ZRWH - Mud Boggin'
+      Level 78 - ECMO - Safe Cracker
+Bonus Level 15 - STRA - Hide-N-Seek
+      Level 79 - AOTP - The Howling
+      Level 80 - SVWK - Trial-N-Error
+      Level 81 - VRBD - Squeeze Play
+      Level 82 - SVYA - Jailhouse Rock
+      Level 83 - KRFH - Dodge Ball
+      Level 84 - CNQR - Sidewinder
+Bonus Level 16 - YTST - Snake's Belly
+      Level 85 - YNXR - Ghost Of A Chance
+      Level 86 - CWQU - Plumber's Helper
+      Level 87 - YXFJ - Change Machine
+      Level 88 - SRDW - Triple Threat
+      Level 89 - PDSQ - Out Of Order
+Bonus Level 17 - HBJO - Floodgate
+      Level 90 - QKOA - Robo Rooter
+      Level 91 - CKLQ - Riddle Me This
+      Level 92 - KHBA - Cheque It Out
+      Level 93 - MZKM - Joel's Conniption
+      Level 94 - DYDO - Saturn V
+      Level 95 - IDIC - To Boldly Go...
+      Level 96 - WVOM - Who Knows (?)
+Bonus Level 18 - CHRN - Killing Time
+      Level 97 - NJCU - Pipe Dream
+      Level 98 - WUQR - Volcano Vacation
+      Level 99 - BSZB - Pipeline Puzzle
+     Level 100 - RERF - Asylum
+Bonus Level 19 - WIFC - Way Out
+     Level 101 - WNON - Slime Jar
+     Level 102 - IVLC - Around The World
+     Level 103 - PJOL - Crystal Trap
+     Level 104 - RGEI - Central Square
+     Level 105 - WCEF - Down The Drain
+     Level 106 - DSGY - Creature Comforts
+Bonus Level 20 - ESBD - Hermit Crab
+     Level 107 - PHUF - Swamp Things
+     Level 108 - NCDS - Gravity Ball
+     Level 109 - KOMZ - Herringbone
+     Level 110 - LFXQ - Water Closet
+     Level 111 - WAET - Xenophobe Zoo
+Bonus Level 21 - TMCB - Menagerie
+     Level 112 - YJNV - Conveyor Belt
+     Level 113 - TAUJ - Mutation
+     Level 114 - IMOZ - Towering Inferno
+Bonus Level 22 - GCSQ - Yuchsville
+     Level 115 - NBFD - Take Your Pick
+     Level 116 - ZAPR - Shopping Spree
+     Level 117 - BXFT - Elevator Muzak
+     Level 118 - GEFA - Kaleidoscope
+     Level 119 - QIKD - Gemnastics
+Bonus Level 23 - PNZS - Mine Shaft
+     Level 120 - GMWJ - Death Zone
+     Level 121 - MKIH - Don't Be Greedy
+     Level 122 - ULEL - Multi-Abuser
+     Level 123 - KBDW - Bombs Away
+     Level 124 - QEFP - Sound And Fury
+     Level 125 - SFJX - Make'Em Yourself
+Bonus Level 24 - KDVI - Surrounded
+     Level 126 - LQXW - The Four Seasons
+     Level 127 - INMQ - Lobotomy
+     Level 128 - NMAD - Hell And Back
+     Level 129 - RHEM - Pipe Organ
+     Level 130 - YHVR - Newtons Nightmare
+Bonus Level 25 - DHZY - Pool Queue
+     Level 131 - FSHF - Jailbreak
+     Level 132 - EIKJ - Quantum Quarry
+     Level 133 - CQCR - Running On MT
+     Level 134 - AIYA - Haunted House
+Bonus Level 26 - IVRQ - Pit Of Lost Souls
+     Level 135 - SXOE - Arrow Phlegm
+     Level 136 - EKDR - Bohemian Rhapsody
+     Level 137 - DRVY - Lift Lackeys
+     Level 138 - RGUM - Spacin' Vaders
+Bonus Level 27 - OSNY - Shoot The Moon
+     Level 139 - FEDC - Avalanche!
+     Level 140 - PRKL - Evil Twins
+     Level 141 - ONKO - Leftright
+     Level 142 - QXPL - Meltdown
+     Level 143 - JRXP - Girls Best Friend
+Bonus Level 28 - LOTL - Tarmaze
+     Level 144 - PADJ - Phaze Shift
+     Level 145 - KGLI - Spiral of Doom
+     Level 146 - FDXR - Mousetrap
+Bonus Level 29 - MWOH - Safety Dance
+     Level 147 - BLKS - Zen
+     Level 148 - TJGB - Freeze Frame
+     Level 149 - QKBT - Checkmate
+Bonus Level 30 - JCXZ - Downtime
+     Level 150 - AUEC - Terminus
+
+Level skip
+Enter KIMI as the password, then hold Option 1 and 2, and press B. You'll hear
+a machine gun-like sound, and Level 1 will appear. On the start of any level,
+press A to go to the next level and B to go to the Previous level. However,
+your score won't carry along.
+-------------------------------------------------------------------------------
+Credits
+
+Me: Finding the code for Bonus Level 0
+Google: Finding the level skip code (and indirectly all the codes :P)
+-------------------------------------------------------------------------------
+Changes
+
+Version 1.02 - 27-02-2003
+ * Fixed typo.
+Version 1.01 - 26-02-2003
+ * Changed nickname.
+ * Added credits.
+Version 1.00 - 08-08-2002
+ * Original version.
+-------------------------------------------------------------------------------
+This document Copyright 2002-2003 Matthijs van der Vleuten

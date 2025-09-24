@@ -1,0 +1,128 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Spot: The Video Game
+
+FAQ
+NES 1990
+
+Version:        1.0
+
+
+BASICS
+===============================================================================
+
+Use SELECT or the D-Pad to cycle between the options. 
+
+Press START to select an option. During the game, use it to pause the game.
+
+During the game, use the A-Button to select and move Spot.
+
+
+Options:
+````````
+
+Under options you can select who is playing, a real person or CPU with the
+appropriate difficulty and what kind of timer they have.
+
+Press B to add and remove players.
+
+Press A to select the player type and difficulty and set the timer. Choose
+between No Timer, 5 seconds, 10 seconds, 20 seconds or 30 seconds. 
+
+Difficulty ranges from 1 to 5, 5 being the hardest.
+
+ 
+Screen:
+```````
+ ___________________
+|xx|@ @ @ @ @ @ @|xx|
+ ¯¯|@ @ @ @ @ @ @|¯¯
+   |@ @ @ @ @ @ @|
+   |@ @ @ @ @ @ @|
+   |@ @ @ @ @ @ @|
+ __|@ @ @ @ @ @ @|__
+|xx|@ @ @ @ @ @ @|xx|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The @ represent the panels on the board, which can of course be modified to be
+empty under Edit Mode. xx is the current number of Spots the player has on the
+board at the current time. If there are less than four players, they will not
+be displayed on all corners.
+
+
+Gameplay
+===============================================================================
+
+
+The goal of Spot:
+`````````````````
+The aim of the game is to have the most Spots on the board when there are no
+more moves left. You can either multiply enough of your color to take over
+the area, but also can surround some space to make it impossible for the other
+person to get there. However, it is possible to turn the opponents' Spots by
+moving one of yours next to it. The game is also finished when only one color
+remains on the board, in other words all other players have no more pieces
+left.
+
+
+Moving Spot:
+````````````
+Select the Spot you want to move around and then move to the desired position.
+You can move to anywhere exactly two spot away the current position in either
+direction, left, right, top, bottom and diagonally. You can also jump over
+yours or an opponents' piece.
+
+
+Multiplying Spot:
+`````````````````
+To increase the number of Spots of your color, simply move one spot away from
+the current position. This includes left, right, top, bottom and diagonally.
+Instead of moving, the Spot will duplicate itself and you will end up with
+one extra piece on the board.
+
+
+Winning in Spot:
+````````````````
+You can start taking as many tiles by multiplying Spot. At the same time you
+want to watch out for the opponents movements on the board. Take over pieces
+if you get the chance, but don't fall for tricks top open up a strategic move.
+
+@@@
+@x@#
+@@@
+
+If # would be the opponent's piece, a jump to x would result in a massive
+advantage by gaining all the pieces surrounding it.
+
+
+Bonus:
+``````
+Sometimes you get a bonus game that plays like a slot machine. Get 3 Spots or 3
+Cherries in a row to move again.
+
+
+Edit Board:
+```````````
+You can edit the board to your liking by removing and adding panels on the
+board for more variety in gameplay. Use the A-Button to do so, and use the B-
+Button to get a pre-set board setting you can still choose to modify
+afterwards.
+
+
+Easter Egg
+===============================================================================
+
+Directly from the GameFAQs Cheat Codes & Secrets Page:
+
+"Here's a neat little Easter Egg that was told to me by Graeme Devine, who
+co-wrote the game. Set all four players to AI level 5, and just sit back and
+let the Nes play against itself. Once the game is over, the ending cinema
+will display the credits instead of the usual ''(color) Wins!''"
+[Skrybe]
+                                                                              
+
+===============================================================================
+This guide is available for and to anyone who wishes to use the information on
+their site or in their own guide. Remember this was posted on GameFAQs first if
+you want to copy and credit anything.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

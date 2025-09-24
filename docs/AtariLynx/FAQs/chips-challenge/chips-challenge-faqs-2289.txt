@@ -1,0 +1,38 @@
+Chip's Challenge Level Codes
+(* indicates hints given in help file)
+
+LEVEL # AND NAME  	PASS.	LEVEL # AND NAME   	PASS.
+1.  Lesson 1		BDHP	2.  Lesson 2		JXMJ
+3.  Lesson 3		ECBQ	4.  Lesson 4		YMCJ
+5.  Lesson 5		TQKB	6.  Lesson 6		WNLD
+7.  Lesson 7		FXQO	8.  Lesson 8		NHAQ
+9.  Nuts and Bolts*	KCRE	10.  Brushfire		UVWS
+11.  Trinity		CNPE	12.  Hunt		WVHI
+13.  Southpole		OCKS	14.  Teleblock		BTDY
+15.  Elementary*	COZQ	16.  Cell Blocked	SKKK
+17.  Nice Day		AJMG	18.  Castle Moat	HMJL
+19.  Digger		MRHR	20.  Tossed Salad	KGFP
+21.  Iceberg		UGRW	22.  Forced Enemy	WZIN
+23.  Blobnet*		HUVE	24.  Oorto Geld		UNIZ
+25.  Blink		PQGV	26.  Chchchips		YVYJ
+27.  Go With the Flow	IGGZ	28.  Ping Pong		UJDO
+29.  Artic Flow		QGOL	30.  Mishmesh		BQZP
+31.  Knot		RYMS	32.  Scavenger Hunt	PEFS
+33.  On the Rocks	BQSN	34.  Cypher*		NQFI
+35.  Lemmings		UDTM	36.  Ladder		NXIS
+37.  Seeing Stars	VQNK	38.  Sampler		BIFA
+39.  Glut*		ICXY	40.  Floorgasborg	YWFH
+41.  I.C. You		GKND	42.  Beware of Bug	LMFU
+43.  Lock Block		UJDP	44.  Refraction		TXHL
+45.  Monster Lab	OVPZ	46.  Three Doors	HDQJ
+47.  Pier Seven		LXPP	48.  Mugger Square	JYSF
+49.  Problems		PPXI	50.  Dig Dirt		QBDH
+51.  I Slide		IGGJ	52.  The Last Laugh	PPHT
+53.  Traffic Cop	CGNX	54.  Grail		ZMGC
+55.  Potpourri		SJES	56.  Defreeze		FCJE
+57.  Strange Maze	UBXU	58.  Loop Around	YBLT
+59.  Hidden Danger	BLDM	60.  Scoundrel		ZYVI
+61.  Rink		RMOW	62.  SloMo		TIGW
+63.  Block Factory	GOHX	64.  Spooks		IJPQ
+65.  Amsterdam		UPUN	66.  Victim		ZIKZ
+67.  Chipmine		CGJA	68.  Eeny Miny Moe	RTDI
